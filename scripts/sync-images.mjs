@@ -39,7 +39,21 @@ function quality(title, m) {
   return GOOD.test(text) ? 2 : 1;
 }
 async function loads(url) {
-  try { const r = await fetch(url, { method: 'HEAD', headers: { 'User-Agent': UA } }); return r.ok && /image\//.test(r.headers.get('content-type') || ''); } catch { return false; }
+  try {
+    const r = await fetch(url, { method: 'HEAD', headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15000) });
+    if (r.status === 429) trip();
+    return r.ok && /image\//.test(r.headers.get('content-type') || '');
+  } catch { return false; }
+}
+
+// Wikimedia rate limits: after 3 straight 429s, stop asking for the rest of the run. Retrying with backoff
+// across ~2,000 lookups is what used to stall the sync for hours (and keeps the block in place longer).
+let blocked = false, strikes = 0;
+function trip() { if (++strikes >= 3 && !blocked) { blocked = true; console.warn('Wikimedia is rate-limiting this runner; skipping the remaining Commons lookups and keeping last covers.'); } }
+async function commons(url) {
+  if (blocked) throw new Error('rate-limited');
+  try { const d = await fetchJSON(url, { retries: 1, timeout: 30000, headers: { 'User-Agent': UA } }); strikes = 0; return d; }
+  catch (e) { if (/429/.test(e.message)) trip(); throw e; }
 }
 
 // ---- 1. Agency photos: NPS images credited to NPS are public domain ----
@@ -82,9 +96,10 @@ console.log(`Wikidata images for ${Object.keys(found).length} of ${need.length} 
 const files = [...new Set(Object.values(found).flat().map((x) => x.file))];
 const info = {};
 for (let i = 0; i < files.length; i += 50) {
+  if (blocked) break;
   const titles = files.slice(i, i + 50).map((f) => `File:${f}`).join('|');
   try {
-    const d = await fetchJSON(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600&titles=${encodeURIComponent(titles)}`, { headers: { 'User-Agent': UA } });
+    const d = await commons(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600&titles=${encodeURIComponent(titles)}`);
     const norm = Object.fromEntries((d.query.normalized || []).map((n) => [n.to, n.from]));
     for (const p of Object.values(d.query.pages || {})) {
       const ii = p.imageinfo?.[0]; if (!ii) continue;
@@ -122,10 +137,11 @@ const stillMissing = dir.filter((s) => !covers[s.slug] || covers[s.slug].tier > 
 const LIMIT = Number(process.env.COMMONS_CATEGORY_LOOKUPS || 2000);
 let fromCat = 0;
 for (const s of stillMissing.slice(0, LIMIT)) {
+  if (blocked) break;
   const cat = s.name.replace(/ & /g, ' and ');
   try {
     const q = `incategory:"${cat}" filetype:bitmap`;
-    const d = await fetchJSON(`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=${encodeURIComponent(q)}&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600`, { headers: { 'User-Agent': UA } });
+    const d = await commons(`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=${encodeURIComponent(q)}&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600`);
     const ok = [];
     for (const p of Object.values(d.query?.pages || {})) {
       const ii = p.imageinfo?.[0]; if (!ii || !/image\/(jpeg|png|webp)/.test(ii.mime || '')) continue;
@@ -160,9 +176,10 @@ console.log(`fws.gov media added ${fromFws} covers`);
 let fromSearch = 0;
 const LAST = dir.filter((s) => !covers[s.slug] && !rejectSlugs.has(s.slug));
 for (const s of LAST) {
+  if (blocked) break;
   const key = s.name.replace(/ & /g, ' and ');
   try {
-    const d = await fetchJSON(`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&gsrsearch=${encodeURIComponent(`"${key}" filetype:bitmap`)}&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600`, { headers: { 'User-Agent': UA } });
+    const d = await commons(`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&gsrsearch=${encodeURIComponent(`"${key}" filetype:bitmap`)}&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600`);
     const short = key.replace(/ (National Wildlife Refuge|Wetland Management District|National Forest|National Grassland|National Monument|National Conservation Area|National Recreation Area|National Historic Site|National Historical Park|National Memorial)$/i, '').toLowerCase();
     const ok = [];
     for (const p of Object.values(d.query?.pages || {})) {
@@ -184,6 +201,7 @@ for (const s of LAST) {
 }
 console.log(`Commons search added ${fromSearch} covers`);
 
+if (blocked) for (const s of dir) if (!covers[s.slug] && prev[s.slug]) covers[s.slug] = prev[s.slug]; // nothing lost to a rate limit
 for (const slug of rejectSlugs) if (!overrides[slug]) delete covers[slug];
 const tiers = Object.values(covers).reduce((m, c) => ((m[c.tier] = (m[c.tier] || 0) + 1), m), {});
 const missing = dir.filter((s) => !covers[s.slug]).map((s) => s.slug);
