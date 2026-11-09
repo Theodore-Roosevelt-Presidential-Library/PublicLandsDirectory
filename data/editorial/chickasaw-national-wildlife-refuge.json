@@ -1,28 +1,33 @@
 {
-  "slug": "chickasaw-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "chickasaw-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1985-05-14",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Migratory Bird Conservation Commission approved Chickasaw National Wildlife Refuge on the Mississippi River in west Tennessee to protect about 37,500 acres of bottomland hardwoods for migratory waterfowl.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Ronald Reagan",
+    "citation": "Migratory Bird Conservation Commission approval",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1985-05-14",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Migratory Bird Conservation Commission approved Chickasaw National Wildlife Refuge on the Mississippi River in west Tennessee to protect about 37,500 acres of bottomland hardwoods for migratory waterfowl.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Ronald Reagan",
-        "citation": "Migratory Bird Conservation Commission approval",
-        "signedBy": null
-      },
-      "note": "FWS only. May 14, 1985 is the Commission's approval date; the date of first acquisition was not found.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Chickasaw NWR Comprehensive Conservation Plan, 2006 (ServCat 169400)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169400"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Chickasaw NWR Comprehensive Conservation Plan, 2006 (ServCat 169400)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169400"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

@@ -1,28 +1,33 @@
 {
-  "slug": "choctaw-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "choctaw-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1964",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Choctaw National Wildlife Refuge was established in 1964 on land acquired for the Army Corps of Engineers' Coffeeville Lock and Dam project on the Tombigbee River, managed by the Fish and Wildlife Service under a perpetual lease.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Lease agreement with the U.S. Army Corps of Engineers",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1964",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Choctaw National Wildlife Refuge was established in 1964 on land acquired for the Army Corps of Engineers' Coffeeville Lock and Dam project on the Tombigbee River, managed by the Fish and Wildlife Service under a perpetual lease.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Lease agreement with the U.S. Army Corps of Engineers",
-        "signedBy": null
-      },
-      "note": "FWS only; year only.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Choctaw NWR Comprehensive Conservation Plan, 2006 (ServCat 167939)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/167939"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Choctaw NWR Comprehensive Conservation Plan, 2006 (ServCat 167939)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/167939"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

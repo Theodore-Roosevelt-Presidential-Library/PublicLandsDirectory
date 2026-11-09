@@ -1,28 +1,33 @@
 {
-  "slug": "crocodile-lake-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "crocodile-lake-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1980-04",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Crocodile Lake National Wildlife Refuge on north Key Largo was established to protect critical habitat for the American crocodile.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Endangered Species Act of 1973; Land and Water Conservation Fund Act; Fish and Wildlife Act of 1956",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1980-04",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Crocodile Lake National Wildlife Refuge on north Key Largo was established to protect critical habitat for the American crocodile.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Endangered Species Act of 1973; Land and Water Conservation Fund Act; Fish and Wildlife Act of 1956",
-        "signedBy": null
-      },
-      "note": "FWS only; month and year only.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Crocodile Lake NWR Comprehensive Conservation Plan, 2006 (ServCat 168116)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168116"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Crocodile Lake NWR Comprehensive Conservation Plan, 2006 (ServCat 168116)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168116"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

@@ -1,28 +1,33 @@
 {
-  "slug": "big-branch-marsh-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "big-branch-marsh-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1994-09-29",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service authorized establishment of Big Branch Marsh National Wildlife Refuge on Lake Pontchartrain's north shore under the Emergency Wetlands Resources Act of 1986.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Bill Clinton",
+    "citation": "Emergency Wetlands Resources Act of 1986",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1994-09-29",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Fish and Wildlife Service authorized establishment of Big Branch Marsh National Wildlife Refuge on Lake Pontchartrain's north shore under the Emergency Wetlands Resources Act of 1986.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Bill Clinton",
-        "citation": "Emergency Wetlands Resources Act of 1986",
-        "signedBy": null
-      },
-      "note": "FWS only (CCP narrative and its 'Date Established' entry agree). No non-FWS source checked.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Big Branch Marsh NWR Comprehensive Conservation Plan, 2007 (ServCat 168181)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168181"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Big Branch Marsh NWR Comprehensive Conservation Plan, 2007 (ServCat 168181)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168181"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

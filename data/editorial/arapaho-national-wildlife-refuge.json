@@ -1,32 +1,37 @@
 {
-  "slug": "arapaho-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "arapaho-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1967",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Arapaho National Wildlife Refuge was established in 1967 in North Park, Colorado, to provide nesting and brood-rearing habitat for waterfowl.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Not confirmed",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1967",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Arapaho National Wildlife Refuge was established in 1967 in North Park, Colorado, to provide nesting and brood-rearing habitat for waterfowl.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Not confirmed",
-        "signedBy": null
-      },
-      "note": "Both sources are FWS; no exact date or establishing authority found, and no non-FWS source found.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Arapaho NWR general brochure, 2024",
-          "url": "https://www.fws.gov/sites/default/files/documents/2024-11/arapaho_gb-web-version-2024-1118-508.pdf"
-        },
-        {
-          "name": "U.S. Fish and Wildlife Service, Arapaho NWR Annual Narrative Report 1986 (National Archives copy)",
-          "url": "https://nara-media.s3.amazonaws.com/dc-metro/rg-022/6102316/ARP_1986_NARRATIVEREPORT/ARP_1986_NARRATIVEREPORT.pdf"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Arapaho NWR general brochure, 2024",
+     "url": "https://www.fws.gov/sites/default/files/documents/2024-11/arapaho_gb-web-version-2024-1118-508.pdf"
+    },
+    {
+     "name": "U.S. Fish and Wildlife Service, Arapaho NWR Annual Narrative Report 1986 (National Archives copy)",
+     "url": "https://nara-media.s3.amazonaws.com/dc-metro/rg-022/6102316/ARP_1986_NARRATIVEREPORT/ARP_1986_NARRATIVEREPORT.pdf"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

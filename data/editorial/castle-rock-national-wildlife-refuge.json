@@ -1,33 +1,32 @@
 {
-  "slug": "castle-rock-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "castle-rock-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1979",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Castle Rock National Wildlife Refuge was established in 1979.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1979",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Castle Rock National Wildlife Refuge was established in 1979.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Castle Rock National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/castle-rock/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "No independent source found for 1979 (Castle Rock island, Crescent City). Check the Humboldt Bay NWR Complex CCP or acquisition record.",
-        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Castle Rock National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/castle-rock/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

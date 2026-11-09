@@ -1,33 +1,32 @@
 {
-  "slug": "congressman-lester-wolff-oyster-bay-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "congressman-lester-wolff-oyster-bay-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1968",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Our History Established in 1968, Oyster Bay was a donation from the town of Oyster Bay under the authority of the Migratory Bird Act.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1968",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Our History Established in 1968, Oyster Bay was a donation from the town of Oyster Bay under the authority of the Migratory Bird Act.",
-      "authority": {
-        "type": "act-of-congress",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Congressman Lester Wolff Oyster Bay National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/congressman-lester-wolff-oyster-bay/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "No independent source found for the 1968 donation by the Town of Oyster Bay. Check the Long Island NWR Complex CCP.",
-        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Congressman Lester Wolff Oyster Bay National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/congressman-lester-wolff-oyster-bay/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

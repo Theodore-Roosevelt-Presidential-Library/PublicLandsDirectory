@@ -1,28 +1,33 @@
 {
-  "slug": "fisherman-island-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "fisherman-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1969",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Fisherman Island National Wildlife Refuge, at the mouth of Chesapeake Bay, was established in 1969 on an island the Navy had used; full ownership passed from the Navy to the Fish and Wildlife Service in 1973.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Not confirmed",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1969",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Fisherman Island National Wildlife Refuge, at the mouth of Chesapeake Bay, was established in 1969 on an island the Navy had used; full ownership passed from the Navy to the Fish and Wildlife Service in 1973.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Not confirmed",
-        "signedBy": null
-      },
-      "note": "FWS only; year only.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Eastern Shore of Virginia and Fisherman Island NWRs Comprehensive Conservation Plan, 2004 (ServCat 1416)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1416"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Eastern Shore of Virginia and Fisherman Island NWRs Comprehensive Conservation Plan, 2004 (ServCat 1416)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1416"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

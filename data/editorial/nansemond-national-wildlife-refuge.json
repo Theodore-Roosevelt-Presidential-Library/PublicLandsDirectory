@@ -1,32 +1,37 @@
 {
-  "slug": "nansemond-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "nansemond-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1973-12-12",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Nansemond National Wildlife Refuge was created when the Department of Defense transferred three tracts of tidal marsh on the Nansemond River in Suffolk, Virginia, to the Fish and Wildlife Service.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Transfer of federal property from the Department of Defense",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1973-12-12",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Nansemond National Wildlife Refuge was created when the Department of Defense transferred three tracts of tidal marsh on the Nansemond River in Suffolk, Virginia, to the Fish and Wildlife Service.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Richard Nixon",
-        "citation": "Transfer of federal property from the Department of Defense",
-        "signedBy": null
-      },
-      "note": "FWS CCP: established December 12, 1973.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Great Dismal Swamp and Nansemond NWRs Final CCP (2006)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1428"
-        },
-        {
-          "name": "FWS ServCat: Establishment Documents - Nansemond National Wildlife Refuge",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/140666"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Great Dismal Swamp and Nansemond NWRs Final CCP (2006)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1428"
+    },
+    {
+     "name": "FWS ServCat: Establishment Documents - Nansemond National Wildlife Refuge",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/140666"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

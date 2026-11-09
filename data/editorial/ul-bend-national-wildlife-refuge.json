@@ -1,63 +1,68 @@
 {
-  "slug": "ul-bend-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "ul-bend-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1967-02-07",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Migratory Bird Conservation Commission approved the UL Bend refuge on February 7, 1967, before the 1969 land order formally established it.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Lyndon B. Johnson",
+    "citation": "Migratory Bird Conservation Commission approval",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1967-02-07",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Migratory Bird Conservation Commission approved the UL Bend refuge on February 7, 1967, before the 1969 land order formally established it.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Lyndon B. Johnson",
-        "citation": "Migratory Bird Conservation Commission approval",
-        "signedBy": null
-      },
-      "note": "FWS-only source (the CCP chronology; fws.gov also says \"established in 1967\"). No Commission report or other independent record was checked.",
-      "sources": [
-        {
-          "name": "FWS, CCP: Charles M. Russell and UL Bend NWRs (2012), chronology",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143938"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, CCP: Charles M. Russell and UL Bend NWRs (2012), chronology",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143938"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1969-03-25",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Interior Department established the UL Bend National Wildlife Refuge in Montana by Public Land Order 4588, dated March 25, 1969, which withdrew the lands from the Fort Peck Game Range for the refuge.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Public Land Order 4588 (34 FR 5851), revoking in part Executive Order 7509",
+    "signedBy": null
+   },
+   "note": "Pass A (2012 CCP chronology: PLO 4588 of 03/25/1969 designated the refuge) and Pass B (PLO text in the Federal Register of March 28, 1969, titled \"Establishment of the UL Bend National Wildlife Refuge,\" signed by the Acting Secretary of the Interior and dated March 25, 1969) agree. The FWS ServCat record misdates the PLO as May 25, 1969 in one field.",
+   "sources": [
+    {
+     "name": "Federal Register, vol. 34, no. 60 (Mar. 28, 1969), Public Land Order 4588, \"Establishment of the UL Bend National Wildlife Refuge\"",
+     "url": "https://www.govinfo.gov/content/pkg/FR-1969-03-28/pdf/FR-1969-03-28.pdf"
     },
     {
-      "date": "1969-03-25",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Interior Department established the UL Bend National Wildlife Refuge in Montana by Public Land Order 4588, dated March 25, 1969, which withdrew the lands from the Fort Peck Game Range for the refuge.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Richard Nixon",
-        "citation": "Public Land Order 4588 (34 FR 5851), revoking in part Executive Order 7509",
-        "signedBy": null
-      },
-      "note": "Pass A (2012 CCP chronology: PLO 4588 of 03/25/1969 designated the refuge) and Pass B (PLO text in the Federal Register of March 28, 1969, titled \"Establishment of the UL Bend National Wildlife Refuge,\" signed by the Acting Secretary of the Interior and dated March 25, 1969) agree. The FWS ServCat record misdates the PLO as May 25, 1969 in one field.",
-      "sources": [
-        {
-          "name": "Federal Register, vol. 34, no. 60 (Mar. 28, 1969), Public Land Order 4588, \"Establishment of the UL Bend National Wildlife Refuge\"",
-          "url": "https://www.govinfo.gov/content/pkg/FR-1969-03-28/pdf/FR-1969-03-28.pdf"
-        },
-        {
-          "name": "FWS, CCP: Charles M. Russell and UL Bend NWRs (2012), chronology",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143938"
-        },
-        {
-          "name": "FWS ServCat, Establishment Documents: PLO 4588",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144173"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "by": "HistorianPanel research and review",
-        "date": "2026-11-09"
-      }
+     "name": "FWS, CCP: Charles M. Russell and UL Bend NWRs (2012), chronology",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143938"
+    },
+    {
+     "name": "FWS ServCat, Establishment Documents: PLO 4588",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144173"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

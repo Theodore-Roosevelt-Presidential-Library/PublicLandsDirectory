@@ -1,32 +1,37 @@
 {
-  "slug": "eufaula-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "eufaula-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1964-10-06",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Eufaula National Wildlife Refuge on the Chattahoochee River was established when the Department of the Army signed a permit giving the Interior Department use of land acquired for the Walter F. George Reservoir.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Lyndon B. Johnson",
+    "citation": "Secretarial permit from the Department of the Army (Fish and Wildlife Coordination Act)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1964-10-06",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Eufaula National Wildlife Refuge on the Chattahoochee River was established when the Department of the Army signed a permit giving the Interior Department use of land acquired for the Walter F. George Reservoir.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Lyndon B. Johnson",
-        "citation": "Secretarial permit from the Department of the Army (Fish and Wildlife Coordination Act)",
-        "signedBy": null
-      },
-      "note": "Both FWS: the web page gives October 6, 1964; the CCP gives 1964. No non-FWS source found.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Eufaula NWR 'About Us' page",
-          "url": "https://www.fws.gov/refuge/eufaula/about-us"
-        },
-        {
-          "name": "U.S. Fish and Wildlife Service, Eufaula NWR Comprehensive Conservation Plan, 2008 (ServCat 1420)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1420"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Eufaula NWR 'About Us' page",
+     "url": "https://www.fws.gov/refuge/eufaula/about-us"
+    },
+    {
+     "name": "U.S. Fish and Wildlife Service, Eufaula NWR Comprehensive Conservation Plan, 2008 (ServCat 1420)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1420"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

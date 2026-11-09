@@ -1,32 +1,37 @@
 {
-  "slug": "lake-otis-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "lake-otis-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1971-08-04",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Director of the Fish and Wildlife Service established Lake Otis as a refuge under the Migratory Bird Conservation Act after the limited-interest easement lands were 'rediscovered' in 1971.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Director's action under the Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1971-08-04",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Director of the Fish and Wildlife Service established Lake Otis as a refuge under the Migratory Bird Conservation Act after the limited-interest easement lands were 'rediscovered' in 1971.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Richard Nixon",
-        "citation": "Director's action under the Migratory Bird Conservation Act",
-        "signedBy": null
-      },
-      "note": "Unlike its neighbors, Lake Otis was not among the 1939 executive-order easement refuges and is absent from Proclamation 2416 (1940). FWS gives August 4, 1971.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Comprehensive Conservation Plan, North Dakota Limited-interest NWRs (2006), Table 4",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
-        },
-        {
-          "name": "FWS ServCat: North Dakota Limited-Interest NWRs Compatibility Determination (2020)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/117633"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Comprehensive Conservation Plan, North Dakota Limited-interest NWRs (2006), Table 4",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+    },
+    {
+     "name": "FWS ServCat: North Dakota Limited-Interest NWRs Compatibility Determination (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/117633"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

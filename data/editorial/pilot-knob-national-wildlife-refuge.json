@@ -1,32 +1,37 @@
 {
-  "slug": "pilot-knob-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "pilot-knob-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1987",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Pilot Knob National Wildlife Refuge was established in 1987 when the Pilot Knob Ore Company donated the 90-acre summit of Pilot Knob, whose old iron mines shelter wintering Indiana bats, under the Endangered Species Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Donation accepted under the Endangered Species Act of 1973",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1987",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Pilot Knob National Wildlife Refuge was established in 1987 when the Pilot Knob Ore Company donated the 90-acre summit of Pilot Knob, whose old iron mines shelter wintering Indiana bats, under the Endangered Species Act.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Donation accepted under the Endangered Species Act of 1973",
-        "signedBy": null
-      },
-      "note": "Pass A (fws.gov: established 1987; Pilot Knob Ore Company donated 90 acres) found only FWS sources. Wikipedia (a lead, not proof) ties the donation to the company ending mining on July 22, 1987. Pass B found no independent record.",
-      "sources": [
-        {
-          "name": "FWS, Pilot Knob NWR page and About Us",
-          "url": "https://www.fws.gov/refuge/pilot-knob/about-us"
-        },
-        {
-          "name": "FWS, Mingo, Pilot Knob and Ozark Cavefish NWRs CCP (2007)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5975"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, Pilot Knob NWR page and About Us",
+     "url": "https://www.fws.gov/refuge/pilot-knob/about-us"
+    },
+    {
+     "name": "FWS, Mingo, Pilot Knob and Ozark Cavefish NWRs CCP (2007)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5975"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

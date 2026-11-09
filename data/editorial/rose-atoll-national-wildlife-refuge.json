@@ -1,36 +1,41 @@
 {
-  "slug": "rose-atoll-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "rose-atoll-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1973-07-15",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Rose Atoll was made a national wildlife refuge on July 15, 1973, by a cooperative agreement between the Government of American Samoa and the Bureau of Sport Fisheries and Wildlife.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Cooperative agreement with the Government of American Samoa",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1973-07-15",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Rose Atoll was made a national wildlife refuge on July 15, 1973, by a cooperative agreement between the Government of American Samoa and the Bureau of Sport Fisheries and Wildlife.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Richard Nixon",
-        "citation": "Cooperative agreement with the Government of American Samoa",
-        "signedBy": null
-      },
-      "note": "All sources found are FWS-authored: fws.gov gives July 15, 1973; the 2009 Federal Register notice says established in 1973 after a cooperative agreement; a 1974 Interior news release announced it. No American Samoa government or other independent record was found. Separately, President George W. Bush's Proclamation 8337 of January 6, 2009 made the atoll a marine national monument.",
-      "sources": [
-        {
-          "name": "FWS, Rose Atoll NWR About Us",
-          "url": "https://www.fws.gov/refuge/rose-atoll/about-us"
-        },
-        {
-          "name": "Federal Register, Rose Atoll NWR notice of intent to prepare a CCP, 74 FR 57701 (Nov. 9, 2009)",
-          "url": "https://www.govinfo.gov/content/pkg/FR-2009-11-09/pdf/E9-26929.pdf"
-        },
-        {
-          "name": "FWS news release, May 13, 1974, \"Sooty tern and sea turtle refuge established in Samoan Islands\"",
-          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1974/19740513B.PDF"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, Rose Atoll NWR About Us",
+     "url": "https://www.fws.gov/refuge/rose-atoll/about-us"
+    },
+    {
+     "name": "Federal Register, Rose Atoll NWR notice of intent to prepare a CCP, 74 FR 57701 (Nov. 9, 2009)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2009-11-09/pdf/E9-26929.pdf"
+    },
+    {
+     "name": "FWS news release, May 13, 1974, \"Sooty tern and sea turtle refuge established in Samoan Islands\"",
+     "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1974/19740513B.PDF"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

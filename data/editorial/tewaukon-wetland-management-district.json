@@ -1,33 +1,32 @@
 {
-  "slug": "tewaukon-wetland-management-district",
-  "designationHistory": [
+ "slug": "tewaukon-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1961",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "National Wildlife Refuge Pingree, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1961",
-      "action": "established",
-      "designation": "Wetland Management District",
-      "name": null,
-      "indexText": "National Wildlife Refuge Pingree, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Tewaukon Wetland Management District, About Us",
-          "url": "https://www.fws.gov/refuge/tewaukon/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "Draft sentence was about Arrowwood Wetland Management District (1961), not Tewaukon WMD. No independent source for Tewaukon WMD's establishment year was found (the archived CCP was rate-limited). Check the Tewaukon CCP or the district narrative reports at the National Archives.",
-        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Tewaukon Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/tewaukon/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

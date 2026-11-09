@@ -67,6 +67,9 @@ The site shows the **first** entry as "First protected" and the **latest** `esta
 2. Run the entry through HistorianPanel (`accuracy-review`). Add at least one primary or official source to `sources` (Statutes at Large, the proclamation text, NPS legislative history, the Federal Register).
 3. Only then set `"reviewed": true`.
 4. `tribalHomelands` text needs tribal review as well as historian review, following the Library's hard-chapters routing.
+   Designation history events (dates, authorities, signers) on sites that involve tribal land are not held for tribal review. They follow the same historian review as every other event (Matt Briney, Nov. 9, 2026).
+7. **The managing agency's own record is enough.** A refuge history that rests only on U.S. Fish and Wildlife Service documents (a refuge's Comprehensive Conservation Plan, its fws.gov page, its establishing-authority table) may be published; it is marked `review.verdict: "accepted"`. An outside source is still preferred when one turns up (Matt Briney, Nov. 9, 2026).
+8. Events stay held when sources, including the agency's own documents, **disagree** on the date or authority, or when the draft describes a different unit. Settle those from the original order (National Archives) before publishing.
 5. Entries that name a recent or current President, or a monument designation still in public debate, route through Bridget (Javelin) before `reviewed` is set, per the Library's nonpartisan rule.
 6. The by-administration filter has the same sensitivity as the PresidentialPublicLands project. Keep entries factual (date, authority, signer) with no characterization of any administration.
 

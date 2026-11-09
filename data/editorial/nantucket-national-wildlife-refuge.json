@@ -1,32 +1,37 @@
 {
-  "slug": "nantucket-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "nantucket-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1973",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Nantucket National Wildlife Refuge was established through a transfer of federal property under the act authorizing transfers of real property for wildlife (16 U.S.C. 667b).",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Transfer of federal property for wildlife purposes (16 U.S.C. 667b)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1973",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Nantucket National Wildlife Refuge was established through a transfer of federal property under the act authorizing transfers of real property for wildlife (16 U.S.C. 667b).",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Transfer of federal property for wildlife purposes (16 U.S.C. 667b)",
-        "signedBy": null
-      },
-      "note": "Only the year is documented in FWS sources read.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Compatibility Determination, Nantucket NWR (2012)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/120006"
-        },
-        {
-          "name": "FWS ServCat: Nantucket NWR CCP (2013)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43796"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Compatibility Determination, Nantucket NWR (2012)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/120006"
+    },
+    {
+     "name": "FWS ServCat: Nantucket NWR CCP (2013)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43796"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

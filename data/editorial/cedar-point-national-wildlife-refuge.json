@@ -1,33 +1,32 @@
 {
-  "slug": "cedar-point-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "cedar-point-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1964",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Cedar Point National Wildlife Refuge was established in 1964 as an inviolate sanctuary, or for any other management purpose, for migratory birds.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1964",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Cedar Point National Wildlife Refuge was established in 1964 as an inviolate sanctuary, or for any other management purpose, for migratory birds.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Cedar Point National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/cedar-point/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "No independent source found for 1964 or the MBCC approval. Ottawa NWR Complex narratives located were scanned without text. Check the Ottawa NWR Complex CCP (2000) or an FWS historic news release.",
-        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Cedar Point National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/cedar-point/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

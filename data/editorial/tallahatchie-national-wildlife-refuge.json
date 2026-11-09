@@ -1,32 +1,37 @@
 {
-  "slug": "tallahatchie-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "tallahatchie-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1991-03",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Tallahatchie National Wildlife Refuge in northern Mississippi was established in March 1991 under the Migratory Bird Conservation Act and the Consolidated Farm and Rural Development Act, largely from former Farmers Home Administration lands.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Act; Consolidated Farm and Rural Development Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1991-03",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Tallahatchie National Wildlife Refuge in northern Mississippi was established in March 1991 under the Migratory Bird Conservation Act and the Consolidated Farm and Rural Development Act, largely from former Farmers Home Administration lands.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Migratory Bird Conservation Act; Consolidated Farm and Rural Development Act",
-        "signedBy": null
-      },
-      "note": "FWS-only sources (hunt plan: established March 1991; fws.gov: 1991). No independent record found.",
-      "sources": [
-        {
-          "name": "FWS, Tallahatchie NWR Hunt Plan, EA and Compatibility Determination (2020)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/117455"
-        },
-        {
-          "name": "FWS, Tallahatchie NWR page",
-          "url": "https://www.fws.gov/refuge/tallahatchie"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, Tallahatchie NWR Hunt Plan, EA and Compatibility Determination (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/117455"
+    },
+    {
+     "name": "FWS, Tallahatchie NWR page",
+     "url": "https://www.fws.gov/refuge/tallahatchie"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

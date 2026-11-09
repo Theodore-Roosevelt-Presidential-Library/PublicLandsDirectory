@@ -13,7 +13,7 @@
     "citation": "Executive Order 1819",
     "signedBy": "Woodrow Wilson"
    },
-   "note": "The order itself describes the island as within the Pyramid Lake Indian Reservation; the 2015 FWS plan says the order recognized it as part of the Pyramid Lake Paiute Tribe's reservation. Any copy about that relationship goes to the Library's human reviewers (Indigenous history). Held for human review: touches Indigenous history (Pyramid Lake Paiute Tribe).",
+   "note": null,
    "sources": [
     {
      "name": "U.S. Fish and Wildlife Service, Natural Resource Management Plan: Anaho Island National Wildlife Refuge, 2015 (ServCat 56469)",
@@ -25,7 +25,12 @@
     }
    ],
    "research": "fws-a",
-   "reviewed": false
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
   }
  ],
  "historySource": "Researched from primary sources (HistorianPanel)"

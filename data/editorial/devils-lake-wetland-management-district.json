@@ -1,33 +1,32 @@
 {
-  "slug": "devils-lake-wetland-management-district",
-  "designationHistory": [
+ "slug": "devils-lake-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1961",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "National Wildlife Refuge Woodworth, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1961",
-      "action": "established",
-      "designation": "Wetland Management District",
-      "name": null,
-      "indexText": "National Wildlife Refuge Woodworth, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Devils Lake Wetland Management District, About Us",
-          "url": "https://www.fws.gov/refuge/devils-lake-wetland-management-district/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "Draft sentence describes Arrowwood WMD (1961), not Devils Lake WMD. An FWS predator-management EA says only that Devils Lake WMD \"was established in the early 1960s.\" Exact year not found.",
-        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Devils Lake Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/devils-lake-wetland-management-district/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

@@ -1,28 +1,33 @@
 {
-  "slug": "reelfoot-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "reelfoot-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1941-08-28",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Reelfoot National Wildlife Refuge was established on August 28, 1941, under the Migratory Bird Conservation Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Franklin D. Roosevelt",
+    "citation": "Migratory Bird Conservation Act (16 U.S.C. 715d)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1941-08-28",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Reelfoot National Wildlife Refuge was established on August 28, 1941, under the Migratory Bird Conservation Act.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Franklin D. Roosevelt",
-        "citation": "Migratory Bird Conservation Act (16 U.S.C. 715d)",
-        "signedBy": null
-      },
-      "note": "Pass A (2006 CCP: established August 28, 1941, under the Migratory Bird Conservation Act) found only an FWS source; no executive order appears in the National Archives disposition table for 1941. Pass B found no independent record (a Tennessee state lease or contemporary newspaper report would settle it).",
-      "sources": [
-        {
-          "name": "FWS, Reelfoot and Lake Isom NWRs Comprehensive Conservation Plan (2006)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1520"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, Reelfoot and Lake Isom NWRs Comprehensive Conservation Plan (2006)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1520"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

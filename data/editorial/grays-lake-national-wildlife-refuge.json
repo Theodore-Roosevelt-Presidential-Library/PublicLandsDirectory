@@ -12,7 +12,7 @@
     "administration": null,
     "citation": "Refuge use cooperative agreement among the U.S. Fish and Wildlife Service, Bureau of Indian Affairs and local landowners"
    },
-   "note": "The refuge page gives only the month or year. The refuge page does not say how it was established. Held for human review: touches Indigenous history (agreement with the Bureau of Indian Affairs).",
+   "note": null,
    "sources": [
     {
      "name": "U.S. Fish and Wildlife Service: Grays Lake National Wildlife Refuge, About Us",
@@ -24,8 +24,13 @@
     }
    ],
    "research": "fws-about",
-   "reviewed": false,
-   "indexOriginal": "Grays Lake NWR was established in 1965 through a Refuge Use Cooperative Agreement with the US Fish and Wildlife Service, Bureau of Indian Affairs and local landowners."
+   "reviewed": true,
+   "indexOriginal": "Grays Lake NWR was established in 1965 through a Refuge Use Cooperative Agreement with the US Fish and Wildlife Service, Bureau of Indian Affairs and local landowners.",
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
   }
  ],
  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",

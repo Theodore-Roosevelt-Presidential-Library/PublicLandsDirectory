@@ -1,28 +1,33 @@
 {
-  "slug": "blue-ridge-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "blue-ridge-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1982",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Blue Ridge National Wildlife Refuge was established in 1982, when the Fish and Wildlife Service bought 897 acres in the Sierra Nevada foothills to protect a California condor roosting area.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Endangered Species Act of 1973",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1982",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Blue Ridge National Wildlife Refuge was established in 1982, when the Fish and Wildlife Service bought 897 acres in the Sierra Nevada foothills to protect a California condor roosting area.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Endangered Species Act of 1973",
-        "signedBy": null
-      },
-      "note": "FWS only; year only.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Hopper Mountain, Bitter Creek and Blue Ridge NWRs Final CCP, 2013 (ServCat 43995)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43995"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Hopper Mountain, Bitter Creek and Blue Ridge NWRs Final CCP, 2013 (ServCat 43995)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43995"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

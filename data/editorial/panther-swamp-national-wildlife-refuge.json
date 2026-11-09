@@ -1,28 +1,33 @@
 {
-  "slug": "panther-swamp-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "panther-swamp-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1978",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Panther Swamp National Wildlife Refuge in Yazoo County, Mississippi, was established under the Migratory Bird Conservation Act and the Refuge Recreation Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Act; Refuge Recreation Act of 1962",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1978",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Panther Swamp National Wildlife Refuge in Yazoo County, Mississippi, was established under the Migratory Bird Conservation Act and the Refuge Recreation Act.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Migratory Bird Conservation Act; Refuge Recreation Act of 1962",
-        "signedBy": null
-      },
-      "note": "Only the year is documented.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Panther Swamp NWR Compatibility Determination, Hunting (2026)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/193997"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Panther Swamp NWR Compatibility Determination, Hunting (2026)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/193997"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

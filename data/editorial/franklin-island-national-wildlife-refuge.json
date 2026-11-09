@@ -1,32 +1,37 @@
 {
-  "slug": "franklin-island-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "franklin-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1973",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Franklin Island National Wildlife Refuge, a 12-acre island off Friendship, Maine, was established in 1973 when the Coast Guard transferred the island to the Fish and Wildlife Service.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Transfer under 16 U.S.C. 667b (Act of May 19, 1948)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1973",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Franklin Island National Wildlife Refuge, a 12-acre island off Friendship, Maine, was established in 1973 when the Coast Guard transferred the island to the Fish and Wildlife Service.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Transfer under 16 U.S.C. 667b (Act of May 19, 1948)",
-        "signedBy": null
-      },
-      "note": "Both FWS; year only. The Coast Guard kept the lighthouse.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Maine Coastal Islands NWR Final Comprehensive Conservation Plan, 2005 (ServCat 43709)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43709"
-        },
-        {
-          "name": "U.S. Fish and Wildlife Service, Franklin Island NWR 'About Us' page",
-          "url": "https://www.fws.gov/refuge/franklin-island/about-us"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Maine Coastal Islands NWR Final Comprehensive Conservation Plan, 2005 (ServCat 43709)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43709"
+    },
+    {
+     "name": "U.S. Fish and Wildlife Service, Franklin Island NWR 'About Us' page",
+     "url": "https://www.fws.gov/refuge/franklin-island/about-us"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

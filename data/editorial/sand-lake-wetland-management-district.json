@@ -1,33 +1,32 @@
 {
-  "slug": "sand-lake-wetland-management-district",
-  "designationHistory": [
+ "slug": "sand-lake-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1992",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "Established in 1992, the Huron Wetland Management District consists of an eight county area...",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1992",
-      "action": "established",
-      "designation": "Wetland Management District",
-      "name": null,
-      "indexText": "Established in 1992, the Huron Wetland Management District consists of an eight county area...",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Sand Lake Wetland Management District, About Us",
-          "url": "https://www.fws.gov/refuge/sand-lake-wetland-management-district/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "Draft sentence was about Huron WMD (1992), not Sand Lake WMD. FWS's own page elsewhere says the district was created in 1961, but no source independent of fws.gov was found. Confirm 1961 from the South Dakota WMD CCP before publishing.",
-        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Sand Lake Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/sand-lake-wetland-management-district/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

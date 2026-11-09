@@ -1,28 +1,33 @@
 {
-  "slug": "bear-valley-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "bear-valley-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1978",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Bear Valley National Wildlife Refuge in southern Oregon was established in 1978 to protect a communal winter night roost for bald eagles.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Not confirmed",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1978",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Bear Valley National Wildlife Refuge in southern Oregon was established in 1978 to protect a communal winter night roost for bald eagles.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Not confirmed",
-        "signedBy": null
-      },
-      "note": "FWS only; year only. Authority not stated in the passages read.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Lower Klamath, Clear Lake, Tule Lake, Upper Klamath and Bear Valley NWRs CCP/EIS, 2016 (ServCat 114424)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/114424"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Lower Klamath, Clear Lake, Tule Lake, Upper Klamath and Bear Valley NWRs CCP/EIS, 2016 (ServCat 114424)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/114424"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

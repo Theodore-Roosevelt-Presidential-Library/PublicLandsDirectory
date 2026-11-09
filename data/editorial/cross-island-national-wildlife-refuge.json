@@ -1,28 +1,33 @@
 {
-  "slug": "cross-island-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "cross-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1980",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Cross Island National Wildlife Refuge, six islands near Cutler, Maine, was established in 1980 when the Fish and Wildlife Service bought them from a private owner under the Migratory Bird Conservation Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1980",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Cross Island National Wildlife Refuge, six islands near Cutler, Maine, was established in 1980 when the Fish and Wildlife Service bought them from a private owner under the Migratory Bird Conservation Act.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Migratory Bird Conservation Act",
-        "signedBy": null
-      },
-      "note": "FWS only; year only.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Maine Coastal Islands NWR Final Comprehensive Conservation Plan, 2005 (ServCat 43709)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43709"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Maine Coastal Islands NWR Final Comprehensive Conservation Plan, 2005 (ServCat 43709)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43709"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

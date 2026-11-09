@@ -13,7 +13,7 @@
     "citation": "Proclamation 459",
     "signedBy": "William McKinley"
    },
-   "note": "Pass A (2013 CCP: established as a forest reserve by McKinley in 1901) and Pass B (proclamation text, dated July 4, 1901) agree. Held for human review: touches Indigenous history (former Kiowa, Comanche and Apache reservation land).",
+   "note": null,
    "sources": [
     {
      "name": "American Presidency Project: Proclamation 459—Establishment of the Wichita Forest Reserve",
@@ -25,7 +25,12 @@
     }
    ],
    "research": "fws-c",
-   "reviewed": false
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
   },
   {
    "date": "1905-06-02",
@@ -39,7 +44,7 @@
     "citation": "Proclamation 563 (under the Act of January 24, 1905, 33 Stat. 614)",
     "signedBy": "Theodore Roosevelt"
    },
-   "note": "Pass A (2013 CCP: \"By proclamation of President Theodore Roosevelt, dated June 2, 1905, and based on a special act of Congress approved January 24, 1905\") and Pass B (proclamation text signed by T.R., \"Done at the city of Washington this 2d day of June,\" 1905) agree. The Forest Service ran it until 1936, when it passed to the Bureau of Biological Survey and became the Wichita Mountains Wildlife Refuge. Held for human review: touches Indigenous history (former Kiowa, Comanche and Apache reservation land).",
+   "note": null,
    "sources": [
     {
      "name": "American Presidency Project: Proclamation 563—Redesignating the Wichita Forest Reserve, Oklahoma, as a Game Preserve",
@@ -55,7 +60,12 @@
     }
    ],
    "research": "fws-c",
-   "reviewed": false
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
   }
  ],
  "historySource": "Researched from primary sources (HistorianPanel)"

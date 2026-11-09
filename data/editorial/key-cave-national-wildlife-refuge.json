@@ -1,28 +1,33 @@
 {
-  "slug": "key-cave-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "key-cave-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1997-01-03",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service established Key Cave National Wildlife Refuge in Lauderdale County, Alabama, under the Fish and Wildlife Act of 1956 and the Endangered Species Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Bill Clinton",
+    "citation": "Fish and Wildlife Act of 1956; Endangered Species Act of 1973",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1997-01-03",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Fish and Wildlife Service established Key Cave National Wildlife Refuge in Lauderdale County, Alabama, under the Fish and Wildlife Act of 1956 and the Endangered Species Act.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Bill Clinton",
-        "citation": "Fish and Wildlife Act of 1956; Endangered Species Act of 1973",
-        "signedBy": null
-      },
-      "note": "Date from a single FWS complex-wide document.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Compatibility Determination, Wheeler NWR Complex (2007): Key Cave NWR - January 3, 1997",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129114"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Compatibility Determination, Wheeler NWR Complex (2007): Key Cave NWR - January 3, 1997",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129114"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

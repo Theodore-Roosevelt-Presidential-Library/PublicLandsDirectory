@@ -1,59 +1,64 @@
 {
-  "slug": "wallkill-river-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "wallkill-river-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1990-03-09",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service Director first established the Wallkill River National Wildlife Refuge by an administrative decision document on March 9, 1990.",
+   "authority": {
+    "type": "administrative",
+    "administration": "George H. W. Bush",
+    "citation": "FWS Director's decision document",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1990-03-09",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Fish and Wildlife Service Director first established the Wallkill River National Wildlife Refuge by an administrative decision document on March 9, 1990.",
-      "authority": {
-        "type": "administrative",
-        "administration": "George H. W. Bush",
-        "citation": "FWS Director's decision document",
-        "signedBy": null
-      },
-      "note": "FWS-only source for the March 9, 1990 administrative action; no independent confirmation found.",
-      "sources": [
-        {
-          "name": "FWS, Wallkill River NWR Comprehensive Conservation Plan (2009), Appendix G",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1471"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": false
+     "name": "FWS, Wallkill River NWR Comprehensive Conservation Plan (2009), Appendix G",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1471"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1990-11-16",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Congress confirmed the establishment of the 7,500-acre Wallkill River National Wildlife Refuge in Public Law 101-593, signed November 16, 1990.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": "George H. W. Bush",
+    "citation": "Public Law 101-593, title I, 104 Stat. 2955 (Wallkill River National Wildlife Refuge Act)",
+    "signedBy": "George H. W. Bush"
+   },
+   "note": "Pass A (2009 CCP: Congress enacted Public Law 101-593, 104 Stat. 2955, on November 16, 1990, confirming the refuge) and Pass B (statute text on govinfo, dated Nov. 16, 1990, with the Wallkill River National Wildlife Refuge Act title) agree.",
+   "sources": [
+    {
+     "name": "Public Law 101-593, 104 Stat. 2954 (Nov. 16, 1990), govinfo",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2954.pdf"
     },
     {
-      "date": "1990-11-16",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Congress confirmed the establishment of the 7,500-acre Wallkill River National Wildlife Refuge in Public Law 101-593, signed November 16, 1990.",
-      "authority": {
-        "type": "act-of-congress",
-        "administration": "George H. W. Bush",
-        "citation": "Public Law 101-593, title I, 104 Stat. 2955 (Wallkill River National Wildlife Refuge Act)",
-        "signedBy": "George H. W. Bush"
-      },
-      "note": "Pass A (2009 CCP: Congress enacted Public Law 101-593, 104 Stat. 2955, on November 16, 1990, confirming the refuge) and Pass B (statute text on govinfo, dated Nov. 16, 1990, with the Wallkill River National Wildlife Refuge Act title) agree.",
-      "sources": [
-        {
-          "name": "Public Law 101-593, 104 Stat. 2954 (Nov. 16, 1990), govinfo",
-          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2954.pdf"
-        },
-        {
-          "name": "FWS, Wallkill River NWR Comprehensive Conservation Plan (2009)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1471"
-        }
-      ],
-      "research": "fws-c",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "by": "HistorianPanel research and review",
-        "date": "2026-11-09"
-      }
+     "name": "FWS, Wallkill River NWR Comprehensive Conservation Plan (2009)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1471"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

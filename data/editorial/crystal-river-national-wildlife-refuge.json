@@ -1,33 +1,32 @@
 {
-  "slug": "crystal-river-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "crystal-river-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1983",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Crystal River National Wildlife Refuge, established in 1983, is the only refuge created specifically for the protection of the threatened Florida manatee, a subspecies of the West Indian manatee.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1983",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Crystal River National Wildlife Refuge, established in 1983, is the only refuge created specifically for the protection of the threatened Florida manatee, a subspecies of the West Indian manatee.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Crystal River National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/crystal-river/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "No independent source found for 1983; the 2008 CCP notice gives no date. Check the Crystal River CCP (2012).",
-        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Crystal River National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/crystal-river/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

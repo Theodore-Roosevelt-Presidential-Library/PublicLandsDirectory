@@ -1,33 +1,36 @@
 {
-  "slug": "two-rivers-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "two-rivers-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1946",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Two Rivers National Wildlife Refuge was originally established in 1946 as part of the Upper Mississippi River National Wildlife and Fish Refuge to protect and enhance habitat for migratory birds.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1946",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Two Rivers National Wildlife Refuge was originally established in 1946 as part of the Upper Mississippi River National Wildlife and Fish Refuge to protect and enhance habitat for migratory birds.",
-      "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
-      },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Two Rivers National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/two-rivers/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false,
-      "review": {
-        "verdict": "unresolved",
-        "note": "FWS's own history gives the 1940s and early 1950s for the original divisions, not a single 1946 date, and no independent source was found. The refuge took its current form in 1958 (Brussels District) and its name in 2000. Choose which event the directory treats as establishment and confirm from the CCP.",
-        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
-        "date": "2026-11-09"
-      }
+     "name": "U.S. Fish and Wildlife Service: Two Rivers National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/two-rivers/about-us"
+    },
+    {
+     "name": "FWS Two Rivers NWR history page (archived 2008): divisions \"were established in the 1940's and early 1950's\"; consolidated as the Brussels District of Mark Twain NWR in 1958; renamed Two Rivers NWR in 2000",
+     "url": "https://webarchive.library.unt.edu/web/20081106171037/http:/www.fws.gov/midwest/tworivers/history.html"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

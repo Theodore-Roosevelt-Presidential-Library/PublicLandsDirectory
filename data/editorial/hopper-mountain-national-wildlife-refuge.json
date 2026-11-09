@@ -1,32 +1,37 @@
 {
-  "slug": "hopper-mountain-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "hopper-mountain-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1974",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service bought 1,871 acres in Ventura County, California, in 1974 to establish the Hopper Mountain National Wildlife Refuge for the endangered California condor.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Fish and Wildlife Act of 1956 (land acquisition); Endangered Species Act of 1973",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1974",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Fish and Wildlife Service bought 1,871 acres in Ventura County, California, in 1974 to establish the Hopper Mountain National Wildlife Refuge for the endangered California condor.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Fish and Wildlife Act of 1956 (land acquisition); Endangered Species Act of 1973",
-        "signedBy": null
-      },
-      "note": "Only the year is documented.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Hopper Mountain, Bitter Creek and Blue Ridge NWRs Final CCP (2013)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43995"
-        },
-        {
-          "name": "FWS ServCat: Compatibility Determination, Research, Hopper Mountain NWR (2013)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/123833"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Hopper Mountain, Bitter Creek and Blue Ridge NWRs Final CCP (2013)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43995"
+    },
+    {
+     "name": "FWS ServCat: Compatibility Determination, Research, Hopper Mountain NWR (2013)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/123833"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

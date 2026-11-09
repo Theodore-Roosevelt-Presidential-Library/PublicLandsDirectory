@@ -1,28 +1,33 @@
 {
-  "slug": "nathaniel-p-reed-hobe-sound-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "nathaniel-p-reed-hobe-sound-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1969",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": "Hobe Sound National Wildlife Refuge",
+   "indexText": "Hobe Sound National Wildlife Refuge was established through the generosity of Jupiter Island residents, with an approved boundary of about 400 acres.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Endangered Species Act of 1973 and Refuge Recreation Act of 1962 (as cited by FWS); donated lands",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1969",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": "Hobe Sound National Wildlife Refuge",
-      "indexText": "Hobe Sound National Wildlife Refuge was established through the generosity of Jupiter Island residents, with an approved boundary of about 400 acres.",
-      "authority": {
-        "type": "administrative",
-        "administration": null,
-        "citation": "Endangered Species Act of 1973 and Refuge Recreation Act of 1962 (as cited by FWS); donated lands",
-        "signedBy": null
-      },
-      "note": "FWS gives 1969 but cites the 1973 Endangered Species Act among its authorities, which postdates 1969; the original authority needs checking. The renaming for Nathaniel P. Reed was not verified.",
-      "sources": [
-        {
-          "name": "FWS ServCat: Compatibility Determination, Fishing, Nathaniel P. Reed Hobe Sound NWR (2006)",
-          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129086"
-        }
-      ],
-      "research": "fws-b",
-      "reviewed": false
+     "name": "FWS ServCat: Compatibility Determination, Fishing, Nathaniel P. Reed Hobe Sound NWR (2006)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129086"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }

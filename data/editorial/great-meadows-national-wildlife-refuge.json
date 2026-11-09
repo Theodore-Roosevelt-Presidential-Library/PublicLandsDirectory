@@ -1,28 +1,33 @@
 {
-  "slug": "great-meadows-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "great-meadows-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1944-05-03",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Great Meadows National Wildlife Refuge along the Concord and Sudbury rivers in Massachusetts was established under the Migratory Bird Conservation Act, beginning with the Concord impoundments.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Franklin D. Roosevelt",
+    "citation": "Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1944-05-03",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Great Meadows National Wildlife Refuge along the Concord and Sudbury rivers in Massachusetts was established under the Migratory Bird Conservation Act, beginning with the Concord impoundments.",
-      "authority": {
-        "type": "administrative",
-        "administration": "Franklin D. Roosevelt",
-        "citation": "Migratory Bird Conservation Act",
-        "signedBy": null
-      },
-      "note": "FWS only (the CCP's compatibility determinations repeat May 3, 1944).",
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service, Great Meadows NWR Final Comprehensive Conservation Plan, 2005 (ServCat 1429)",
-          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1429"
-        }
-      ],
-      "research": "fws-a",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service, Great Meadows NWR Final Comprehensive Conservation Plan, 2005 (ServCat 1429)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1429"
     }
-  ],
-  "historySource": "Researched from primary sources (HistorianPanel)"
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
 }
