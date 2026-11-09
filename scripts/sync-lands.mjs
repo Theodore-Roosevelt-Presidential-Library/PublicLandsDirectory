@@ -85,6 +85,27 @@ async function usfs() {
   return out;
 }
 
+// BLM units whose GIS name omits the designation. Checked against BLM's National Conservation Lands listings;
+// anything not listed here keeps the generic label rather than a guessed one.
+const BLM_DESIGNATION = {
+  'Grand Staircase-Escalante': 'National Monument', 'Bears Ears': 'National Monument', 'Vermilion Cliffs': 'National Monument',
+  'Grand Canyon-Parashant': 'National Monument', 'Agua Fria': 'National Monument', 'Sonoran Desert': 'National Monument',
+  'Ironwood Forest': 'National Monument', 'Avi Kwa Ame': 'National Monument', 'Gold Butte': 'National Monument',
+  'Basin and Range': 'National Monument', 'Jurassic': 'National Monument',
+  'Baaj Nwaavjo I\'tah Kukveni': 'National Monument',
+  'Gila Box Riparian': 'National Conservation Area', 'San Pedro Riparian': 'National Conservation Area', 'Las Cienegas': 'National Conservation Area',
+  'Red Cliffs': 'National Conservation Area', 'Beaver Dam Wash': 'National Conservation Area', 'Red Rock Canyon': 'National Conservation Area',
+  'Sloan Canyon': 'National Conservation Area', 'John Wesley Powell': 'National Conservation Area',
+  'Black Rock Desert / High Rock Canyon': 'National Conservation Area',
+};
+const BLM_RENAME = {
+  "Baaj Nwaavjo I'tah Kukveni - Ancestral Footprints of the Grand Canyon": "Baaj Nwaavjo I'tah Kukveni",
+  'Black Rock Desert / High Rock Canyon': 'Black Rock Desert-High Rock Canyon Emigrant Trails',
+  'Morley Nelson Snake River Birds of Prey National Conservation Area': 'Morley Nelson Snake River Birds of Prey National Conservation Area',
+};
+BLM_DESIGNATION['Black Rock Desert-High Rock Canyon Emigrant Trails'] = 'National Conservation Area';
+const BLM_SKIP = new Set(['Beaver Dam Wash - Designated Road Area']); // a sub-area of Beaver Dam Wash NCA
+
 // ---------- Bureau of Land Management: National Conservation Lands (monuments, NCAs and similar) ----------
 async function blm() {
   const L = 'https://gis.blm.gov/arcgis/rest/services/lands/BLM_Natl_NLCS_NM_NCA_poly/MapServer/1';
@@ -93,10 +114,17 @@ async function blm() {
   for (const [id, fs] of group(feats, (p) => p.NLCS_ID)) {
     const p = fs[0].properties;
     if (!p.NCA_NAME) continue;
-    const name = p.NCA_NAME.trim();
-    const designation = p.sma_code === 'BLM_MON' ? 'National Monument' : /Conservation Area/i.test(name) ? 'National Conservation Area' : (name.match(/(Outstanding Natural Area|Cooperative Management and Protection Area|Forest Reserve|Recreation Area|Scenic Area|Special Management Area|Wildlife Area)$/i)?.[1] || 'National Conservation Lands unit');
+    let name = p.NCA_NAME.trim().replace(/\s+/g, ' ');
+    if (BLM_SKIP.has(name)) continue;
+    if (name === name.toUpperCase()) name = titleCase(name);
+    name = BLM_RENAME[name] || name;
+    // BLM's sma_code is unreliable (Red Cliffs is tagged a monument; 17 units have no code), so designations come
+    // from the name, then from BLM_DESIGNATION for units whose name lacks one.
+    const fromName = name.match(/(National Monument|National Conservation Area|Outstanding Natural Area|Cooperative Management and Protection Area|Forest Reserve|National Scenic Area)$/i)?.[1];
+    const designation = fromName || BLM_DESIGNATION[name] || 'National Conservation Lands unit';
+    if (!fromName && BLM_DESIGNATION[name]) name = `${name} ${BLM_DESIGNATION[name]}`;
     const states = [...new Set(fs.map((f) => f.properties.STATE_ADMN).filter(Boolean))];
-    out.push(baseRecord({ id: `blm-${id}`, agency: 'BLM', unitCode: id, name, designation, category: p.sma_code === 'BLM_MON' ? 'national-monument' : undefined, source: 'BLM National Conservation Lands (monuments and NCAs)', sourceUrl: L, feats: fs, extra: { administeringStates: states } }));
+    out.push(baseRecord({ id: `blm-${id}`, agency: 'BLM', unitCode: id, name, designation, category: designation === 'National Monument' ? 'national-monument' : undefined, source: 'BLM National Conservation Lands (monuments and NCAs)', sourceUrl: L, feats: fs, extra: { administeringStates: states } }));
   }
   return out;
 }

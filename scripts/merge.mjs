@@ -55,9 +55,15 @@ for (const a of ['nps', 'fws', 'usfs', 'blm']) {
 
 // ---- cross-agency grouping: one directory entry per place, listing every managing agency ----
 const nameKey = (n) => n.toLowerCase().replace(/&/g, 'and').replace(/\bsaint\b/g, 'st').replace(/[^a-z0-9]+/g, ' ').replace(/\b(and preserve|national monument and preserve)\b/g, (m) => m).trim();
+// Same place, different names across agencies. Keys are nameKey() forms.
+const NAME_ALIASES = {
+  'craters of the moon national monument': 'craters of the moon national monument and preserve',
+  'santa rosa san jacinto mountains national monument': 'santa rosa and san jacinto national monument',
+};
 const groups = new Map();
 for (const r of sources) {
-  const k = nameKey(r.name);
+  const k0 = nameKey(r.name);
+  const k = NAME_ALIASES[k0] || k0;
   (groups.get(k) || groups.set(k, []).get(k)).push(r);
 }
 
