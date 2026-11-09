@@ -1,0 +1,56 @@
+{
+  "slug": "craters-of-the-moon-national-monument-and-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1924-05-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed May 2, 1924",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 51",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2002-08-21",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated a national preserve Aug. 21, 2002",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 51",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 51,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed May 2, 1924. Boundary changes: July 23, 1928; July 9, 1930; June 5, 1936; July 18, 1941; Nov. 19, 1962; Nov. 9, 2000. Wilderness designated Oct. 23, 1970. Designated a national preserve Aug. 21, 2002."
+  }
+}

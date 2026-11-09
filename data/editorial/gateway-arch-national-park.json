@@ -1,0 +1,56 @@
+{
+  "slug": "gateway-arch-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1935-12-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Dec. 21, 1935",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1954-05-17",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Gateway Arch authorized May 17, 1954",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 70,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Dec. 21, 1935; Gateway Arch authorized May 17, 1954. Boundary changes: Aug. 29, 1969; Aug. 26, 1992."
+  }
+}

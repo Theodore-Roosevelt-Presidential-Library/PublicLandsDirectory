@@ -1,0 +1,34 @@
+{
+  "slug": "el-malpais-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1987-12-31",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Dec. 31, 1987",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 78",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 78,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Dec. 31, 1987."
+  }
+}

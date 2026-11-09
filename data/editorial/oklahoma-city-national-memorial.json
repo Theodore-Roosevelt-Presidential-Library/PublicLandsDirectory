@@ -1,0 +1,56 @@
+{
+  "slug": "oklahoma-city-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1997-10-09",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 9, 1997",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 122",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2004-01-23",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as affiliated area Jan. 23, 2004",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 122",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 122,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Murrah Federal Building on April 19, 1995, killed 168 people and injured over 650. The memorial is owned and operated by a private foundation. The National Park Service provides interpretive services on the Outdoor Symbolic Memorial. Established Oct. 9, 1997; redesignated as affiliated area Jan. 23, 2004."
+  }
+}

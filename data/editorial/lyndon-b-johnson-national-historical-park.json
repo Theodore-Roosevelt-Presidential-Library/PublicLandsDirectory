@@ -1,0 +1,56 @@
+{
+  "slug": "lyndon-b-johnson-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1969-12-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "The President and First Lady are buried on the ranch Authorized as a national historic site Dec. 2, 1969",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1980-12-28",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national historical park Dec. 28, 1980",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 100,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The President and First Lady are buried on the ranch Authorized as a national historic site Dec. 2, 1969; redesignated a national historical park Dec. 28, 1980."
+  }
+}

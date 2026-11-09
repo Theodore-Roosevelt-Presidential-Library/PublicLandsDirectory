@@ -1,0 +1,56 @@
+{
+  "slug": "lake-mead-national-recreation-area",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1947-08-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Name changed from Boulder Dam Recreation Area Aug. 11, 1947",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1964-10-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 8, 1964",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 73,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Administered under cooperative agreements with the Bureau of Reclamation, Oct. 13, 1936, and July 18, 1947. Name changed from Boulder Dam Recreation Area Aug. 11, 1947. Established Oct. 8, 1964. Boundary change: Jan. 3, 1975."
+  }
+}

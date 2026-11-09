@@ -1,0 +1,56 @@
+{
+  "slug": "marsh-billings-rockefeller-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1992-08-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Marsh-Billings National Historical Park Aug. 26, 1992",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1998-10-21",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Oct. 21, 1998",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 103,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Marsh-Billings National Historical Park Aug. 26, 1992; renamed Oct. 21, 1998."
+  }
+}

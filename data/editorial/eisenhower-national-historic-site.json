@@ -1,0 +1,56 @@
+{
+  "slug": "eisenhower-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1967-11-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Nov. 27, 1967",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 90",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1969-12-02",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized by act of Congress Dec. 2, 1969",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 90",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 90,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Nov. 27, 1967; authorized by act of Congress Dec. 2, 1969. Boundary change: Nov. 10, 1978."
+  }
+}

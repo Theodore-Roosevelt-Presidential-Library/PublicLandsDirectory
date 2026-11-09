@@ -1,0 +1,56 @@
+{
+  "slug": "chesapeake-and-ohio-canal-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1961-01-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Upper canal proclaimed a national monument Jan. 18, 1961",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 59",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1971-01-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national historical park Jan. 8, 1971",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 59",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 59,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Placed under National Park Service Sept. 23, 1938; upper canal proclaimed a national monument Jan. 18, 1961; established as a national historical park Jan. 8, 1971. Boundary change: Nov. 10, 1978."
+  }
+}

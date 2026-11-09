@@ -1,0 +1,34 @@
+{
+  "slug": "saint-croix-national-scenic-riverway",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Dec. 2, 1980",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 138",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 138,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Dec. 2, 1980. Length: 70 miles."
+  }
+}

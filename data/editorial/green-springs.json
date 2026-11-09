@@ -1,0 +1,56 @@
+{
+  "slug": "green-springs",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1974-05-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated a national historic landmark on May 30, 1974",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 120",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1977-12-12",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "On Dec. 12, 1977, the Secretary agreed to accept preservation easements for nearly half of the 14,000 acres in the district",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 120",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 120,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated a national historic landmark on May 30, 1974. On Dec. 12, 1977, the Secretary agreed to accept preservation easements for nearly half of the 14,000 acres in the district."
+  }
+}

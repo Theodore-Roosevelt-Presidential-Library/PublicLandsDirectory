@@ -1,0 +1,56 @@
+{
+  "slug": "everglades-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1934-05-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized May 30, 1934",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 47",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1947-12-06",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Dec. 6, 1947",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 47",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 47,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized May 30, 1934; established Dec. 6, 1947. Boundary changes: July 2, 1958; Sept. 14, 1959; Sept. 2, 1960; Sept. 12, 1964; Oct. 17, 1969; Dec. 13, 1989; Dec. 23, 2004. Wilderness designated Nov. 10, 1978. Designated a Biosphere Reserve 1976. Designated a World Heritage Site Oct. 24, 1979."
+  }
+}

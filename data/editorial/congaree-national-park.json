@@ -1,0 +1,56 @@
+{
+  "slug": "congaree-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1976-10-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Oct. 18, 1976 as Congaree Swamp National Monument",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Gerald R. Ford",
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2003-11-10",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Nov. 10, 2003",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 94,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Oct. 18, 1976 as Congaree Swamp National Monument; redesignated Nov. 10, 2003. Boundary changes: Oct. 24, 1988; Nov. 10, 2003. Wilderness designated Oct. 24, 1988. Designated a Biosphere Reserve 1983."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "great-basin-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1922-01-24",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed as Lehman Caves National Monument Jan. 24, 1922",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Warren G. Harding",
+        "administration": "Warren G. Harding",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from the U.S. Forest Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1986-10-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Made part of Great Basin National Park when established Oct. 27, 1986",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 73,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed as Lehman Caves National Monument Jan. 24, 1922; transferred from the U.S. Forest Service, Aug. 10, 1933; made part of Great Basin National Park when established Oct. 27, 1986"
+  }
+}

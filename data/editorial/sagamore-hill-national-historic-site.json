@@ -1,0 +1,34 @@
+{
+  "slug": "sagamore-hill-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1962-07-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized July 25, 1962",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 83",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 83,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized July 25, 1962. Established July 10,1963."
+  }
+}

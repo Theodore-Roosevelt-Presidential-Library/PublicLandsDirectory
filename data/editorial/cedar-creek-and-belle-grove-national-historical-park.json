@@ -1,0 +1,34 @@
+{
+  "slug": "cedar-creek-and-belle-grove-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2002-12-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Dec. 19, 2002",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 104,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Site of the Battle of Cedar Creek, October 19, 1864, this park contains Belle Grove Plantation, one of the few plantations in the Shenandoah Valley and home of an early Shenandoah Valley settler. The Shenandoah Valley is famous for historical landscapes and views of Massanutten Mountain and the Blue Ridge and Allegheny ranges. The park is in development, although many sites are operated by park partners. The park is managed by the National Park Service, in partnership with several nonprofit and municipal entities. The park is within the Shenandoah Valley Battlefields National Historical District. NO FEDERAL FACILITIES. Authorized Dec. 19, 2002."
+  }
+}

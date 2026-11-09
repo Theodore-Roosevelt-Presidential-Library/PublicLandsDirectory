@@ -1,0 +1,100 @@
+{
+  "slug": "jean-lafitte-national-historical-park-and-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1907-03-04",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Chalmette Unit established as Chalmette Monument and Grounds March 4, 1907",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 57",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 57",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1939-08-10",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Reestablished as Chalmette National Historical Park Aug. 10, 1939",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 57",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1978-11-10",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Incorporation in new park authorized Nov. 10, 1978",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 57",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 57,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Chalmette Unit established as Chalmette Monument and Grounds March 4, 1907; transferred from War Dept. Aug. 10, 1933; reestablished as Chalmette National Historical Park Aug. 10, 1939; incorporation in new park authorized Nov. 10, 1978."
+  }
+}

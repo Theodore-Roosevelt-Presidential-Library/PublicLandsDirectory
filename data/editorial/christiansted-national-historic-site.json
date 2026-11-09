@@ -1,0 +1,56 @@
+{
+  "slug": "christiansted-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1952-03-04",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Virgin Islands National Historic Site March 4, 1952",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1961-01-16",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Jan. 16, 1961",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 107,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Virgin Islands National Historic Site March 4, 1952; renamed Jan. 16, 1961. Boundary change: June 27, 1962."
+  }
+}

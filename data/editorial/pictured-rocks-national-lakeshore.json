@@ -1,0 +1,56 @@
+{
+  "slug": "pictured-rocks-national-lakeshore",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1966-10-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Oct. 15, 1966",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1972-10-05",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 5, 1972",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 66,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Oct. 15, 1966; established Oct. 5, 1972. Boundary changes: Nov. 12, 1996; Nov. 25, 2002."
+  }
+}

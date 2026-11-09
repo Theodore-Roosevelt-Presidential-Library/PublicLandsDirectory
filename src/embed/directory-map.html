@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Public lands map | Public Lands Directory</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+html,body{margin:0;height:100%;font:14px/1.4 "Frutiger Next","Segoe UI",Arial,sans-serif;color:#25282A}
+#wrap{display:flex;flex-direction:column;height:100%}
+#bar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding:8px;background:#F3F1EA;border-bottom:1px solid #e3dfd3}
+#bar[hidden]{display:none}
+#bar input,#bar select{font:13px Arial,sans-serif;padding:5px 6px;border:1px solid #b9b3a2;border-radius:5px;background:#fff}
+#bar input{flex:1 1 160px}
+#count{font-size:12px;color:#5d6266;margin-left:auto}
+#m{flex:1}
+.lg{background:#fff;padding:6px 9px;font:12px Arial,sans-serif;border-radius:4px;line-height:1.6}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px;border:1px solid #fff}
+.brand{position:absolute;z-index:1000;left:8px;bottom:8px;background:rgba(27,69,50,.92);color:#fff;font:600 12px/1.3 Arial,sans-serif;padding:5px 8px;border-radius:4px;text-decoration:none}
+.leaflet-popup-content a{color:#1B4532;font-weight:700}
+.tr{color:#1B4532;font-weight:600}
+</style>
+</head><body>
+<div id="wrap">
+  <form id="bar" onsubmit="return false" hidden>
+    <input id="q" type="search" placeholder="Search places" aria-label="Search places">
+    <select id="agency" aria-label="Agency"><option value="">All agencies</option><option value="NPS">National Park Service</option><option value="FWS">Fish and Wildlife Service</option><option value="USFS">Forest Service</option><option value="BLM">Bureau of Land Management</option></select>
+    <select id="cat" aria-label="Type"><option value="">All types</option></select>
+    <select id="state" aria-label="State"><option value="">All states</option></select>
+    <select id="tr" aria-label="Roosevelt connection"><option value="">Any connection</option><option value="any">Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option></select>
+    <span id="count"></span>
+  </form>
+  <div id="m"></div>
+</div>
+<a class="brand" href="/" target="_blank" rel="noopener">Public Lands Directory · Theodore Roosevelt Presidential Library</a>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+/* Directory map embed.
+   /embed/directory-map.html?agency=NPS&cat=national-park&state=ND&tr=any&sites=slug1,slug2&controls=1&color=tr
+   agency  NPS | FWS | USFS | BLM            cat    a category key (see /api/index.json)
+   state   two-letter code                    tr     any | protected | executive-action | visited
+   sites   comma-separated slugs (overrides other filters)
+   controls 1 = show the filter bar          color  agency (default) | tr
+   boundaries 1 = draw every boundary (use with small selections)
+*/
+const P = new URLSearchParams(location.search);
+const $ = (id) => document.getElementById(id);
+const COLORS = { NPS: '#1B4532', FWS: '#E7805D', USFS: '#87BB41', BLM: '#092A4D' };
+const TRC = (t) => t.includes('visited') ? '#E7805D' : t.includes('protected') ? '#1B4532' : t.includes('executive-action') ? '#87BB41' : '#99ADC5';
+const AG = { NPS: 'National Park Service', FWS: 'Fish and Wildlife Service', USFS: 'Forest Service', BLM: 'Bureau of Land Management' };
+const TRL = { protected: 'Protected by T.R.', 'executive-action': 'His proclamations and orders', visited: 'T.R. was here' };
+const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+const colorBy = P.get('color') === 'tr' || P.get('tr') ? 'tr' : 'agency';
+
+const map = L.map('m', { preferCanvas: true, scrollWheelZoom: P.get('scroll') === '1' }).setView([39.5, -98.5], 4);
+L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, attribution: 'USGS The National Map' }).addTo(map);
+const pts = L.layerGroup().addTo(map), shapes = L.featureGroup().addTo(map);
+const lg = L.control({ position: 'topright' });
+lg.onAdd = () => { const d = L.DomUtil.create('div', 'lg'); d.innerHTML = colorBy === 'tr'
+  ? Object.entries(TRL).map(([k, v]) => `<span class="dot" style="background:${TRC([k])}"></span>${v}`).join('<br>')
+  : Object.entries(AG).map(([k, v]) => `<span class="dot" style="background:${COLORS[k]}"></span>${v}`).join('<br>'); return d; };
+lg.addTo(map);
+
+let data, sites;
+fetch('/api/index.json').then((r) => r.json()).then((d) => {
+  data = d; sites = d.sites;
+  $('cat').insertAdjacentHTML('beforeend', Object.entries(d.categories).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join(''));
+  $('state').insertAdjacentHTML('beforeend', [...new Set(sites.flatMap((s) => s.st))].sort().map((s) => `<option>${s}</option>`).join(''));
+  for (const k of ['q', 'agency', 'cat', 'state', 'tr']) if (P.get(k)) $(k).value = P.get(k);
+  if (P.get('controls') === '1') $('bar').hidden = false;
+  ['agency', 'cat', 'state', 'tr'].forEach((k) => $(k).addEventListener('change', draw));
+  let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(draw, 150); });
+  draw(true);
+});
+
+function selected() {
+  const only = (P.get('sites') || '').split(',').filter(Boolean);
+  if (only.length) return sites.filter((s) => only.includes(s.s));
+  const a = $('agency').value, c = $('cat').value, st = $('state').value, tr = $('tr').value, q = $('q').value.trim().toLowerCase();
+  return sites.filter((s) => (!a || s.a.includes(a)) && (!c || s.c === c) && (!st || s.st.includes(st)) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && (!q || s.n.toLowerCase().includes(q)));
+}
+
+function popup(s) {
+  return `<a href="/sites/${s.s}/" target="_blank" rel="noopener">${esc(s.n)}</a><br>${esc(data.categories[s.c] || '')} · ${esc(s.a.join(' / '))} · ${esc(s.st.join(', '))}${s.tr.length ? `<br><span class="tr">${esc(s.tr.map((t) => TRL[t] || t).join(' · '))}</span>` : ''}${s.al ? `<br>${s.al} current alert${s.al > 1 ? 's' : ''}` : ''}`;
+}
+
+function outline(s) {
+  return fetch(`/boundaries/${s.s}.geojson`).then((r) => r.ok ? r.json() : null).then((f) => f && L.geoJSON(f, { style: { color: '#1B4532', weight: 2, fillColor: '#8FC895', fillOpacity: .3 } }).bindPopup(popup(s)).addTo(shapes)).catch(() => null);
+}
+
+function draw(first) {
+  const list = selected().filter((s) => s.lat != null);
+  pts.clearLayers(); shapes.clearLayers();
+  $('count').textContent = `${list.length.toLocaleString()} places`;
+  for (const s of list) {
+    const m = L.circleMarker([s.lat, s.lon], { radius: list.length > 300 ? 4 : 6, weight: 1, color: '#fff', fillColor: colorBy === 'tr' ? TRC(s.tr) : (COLORS[s.a[0]] || '#555'), fillOpacity: .95 }).bindPopup(popup(s));
+    m.on('click', () => { shapes.clearLayers(); outline(s); });
+    m.addTo(pts);
+  }
+  const showAll = P.get('boundaries') === '1' || list.length <= 12;
+  const fit = () => {
+    // With a state filter, frame the places wholly in that state (multi-state trails and districts sit far away).
+    const st = $('state').value, core = st ? list.filter((s) => s.st.length === 1) : list;
+    const use = core.length ? core : list;
+    const b = shapes.getLayers().length ? shapes.getBounds() : use.length ? L.latLngBounds(use.map((s) => [s.lat, s.lon])) : null;
+    if (b && b.isValid()) map.fitBounds(b, { padding: [20, 20], maxZoom: 11 });
+  };
+  if (showAll) Promise.all(list.slice(0, 60).map(outline)).then(fit); else if (!first || list.length < sites.length) fit();
+}
+</script></body></html>

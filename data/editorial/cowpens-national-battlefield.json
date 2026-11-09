@@ -1,0 +1,78 @@
+{
+  "slug": "cowpens-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1929-03-04",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national battlefield site March 4, 1929",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": null,
+        "citation": null
+      },
+      "note": "Dated on a day the presidency changed hands (Herbert Hoover's first day); administration to confirm.",
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1972-04-11",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national battlefield April 11, 1972",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 94,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Banastre Tarleton on Jan. 17, 1781. Established as a national battlefield site March 4, 1929; transferred from War Dept. Aug. 10, 1933; redesignated a national battlefield April 11, 1972. Boundary changes: July 18, 1958; April 11, 1972."
+  }
+}

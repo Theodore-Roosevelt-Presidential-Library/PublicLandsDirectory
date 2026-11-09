@@ -1,0 +1,56 @@
+{
+  "slug": "canyon-de-chelly-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1931-02-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Feb. 14, 1931",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1931-04-01",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed April 1, 1931",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 24,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Feb. 14, 1931; proclaimed April 1, 1931. Boundary change: March 1, 1933"
+  }
+}

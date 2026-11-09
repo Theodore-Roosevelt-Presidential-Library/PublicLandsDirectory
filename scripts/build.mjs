@@ -26,7 +26,7 @@ const paras = (s) => String(s || '').split(/\n{2,}|\r?\n/).filter((x) => x.trim(
 const fmtDate = (iso) => { if (!iso) return ''; const [y, m, d] = iso.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d || 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }); };
 const num = (n) => Math.round(n).toLocaleString('en-US');
 const AUTH = { 'act-of-congress': 'Act of Congress', 'presidential-proclamation': 'Presidential proclamation', 'executive-order': 'Executive order', 'secretarial-order': 'Secretarial order', 'public-land-order': 'Public land order', other: 'Other authority' };
-const authLine = (a) => a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
+const authLine = (a) => a && a.type === 'unspecified' ? (a.administration ? `${esc(a.administration)} administration` : '') : a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
 const pendingTag = (reviewed) => reviewed ? '' : ' <span class="tag tag-pending" title="This entry is waiting for review by the Library\u2019s historians">Pending historian review</span>';
 
 function layout({ title, description, path, body, head = '', jsonld = null, image = null }) {
@@ -116,7 +116,7 @@ for (const s of sites) {
     ['Managed by', s.managedBy.map((m) => `<a href="${esc(AGENCIES[m.code].url)}">${esc(m.name)}</a>`).join(' and ') + (s.managedBy.length > 1 ? ' <span class="muted">(jointly)</span>' : '')],
     ['Location', esc(s.stateNames.join(', ')) || '<span class="muted">Outside the 50 states</span>'],
     s.acres ? ['Size', `${num(s.acres.value)} acres${s.acres.kind !== 'documented' ? ` <span class="muted" title="${esc(s.acres.note || s.acres.source)}">(${s.acres.kind === 'gis-estimate' ? 'estimate' : 'GIS'})</span>` : ''}`] : null,
-    s.firstProtected && (!s.established || s.firstProtected.date !== s.established.date) ? ['First protected', `${fmtDate(s.firstProtected.date)} as ${esc(s.firstProtected.name || s.firstProtected.designation)}<br><span class="muted">${authLine(s.firstProtected.authority)}</span>${pendingTag(s.firstProtected.reviewed)}`] : null,
+    s.firstProtected && (!s.established || s.firstProtected.date !== s.established.date) ? ['First protected', `${fmtDate(s.firstProtected.date)}${s.firstProtected.name || s.firstProtected.designation ? ` as ${esc(s.firstProtected.name || s.firstProtected.designation)}` : ''}${s.firstProtected.text ? `<br><span class="muted">${esc(s.firstProtected.text)}</span>` : ''}<br><span class="muted">${authLine(s.firstProtected.authority)}</span>${pendingTag(s.firstProtected.reviewed)}`] : null,
     s.established ? [`${esc(s.established.designation)} since`, `${fmtDate(s.established.date)}<br><span class="muted">${authLine(s.established.authority)}</span>${pendingTag(s.established.reviewed)}`] : ['Established', '<span class="muted">Designation history being researched</span>'],
     s.administrations.length ? ['Administration' + (s.administrations.length > 1 ? 's' : ''), esc(s.administrations.join(', '))] : null,
   ].filter(Boolean);
@@ -135,7 +135,7 @@ for (const s of sites) {
   const section = (id, title, html) => html ? `<section id="${id}" class="block"><h2>${title}</h2>${html}</section>` : '';
   const guidePending = g.reviewed === false ? `<p class="note">Draft guide text${pendingTag(false)}</p>` : '';
 
-  const historyHTML = (g.history ? paras(g.history) : '') + (hist.length ? `<ol class="timeline">${hist.map((h) => `<li><time datetime="${h.date}">${fmtDate(h.date)}</time><div><strong>${esc(h.name || h.designation)}</strong> ${h.action !== 'established' ? `<span class="muted">(${esc(h.action)})</span>` : ''}<br>${authLine(h.authority)}${h.note ? `<br><span class="muted">${esc(h.note)}</span>` : ''}${pendingTag(h.reviewed)}</div></li>`).join('')}</ol>` : '<p class="muted">The designation history for this site (every law, proclamation and order, and the administration behind each) is being researched and checked by the Library\u2019s historians.</p>');
+  const historyHTML = (g.history ? paras(g.history) : '') + (hist.length ? `<ol class="timeline">${hist.map((h) => `<li><time datetime="${h.date}">${fmtDate(h.date)}</time><div>${h.indexText ? esc(h.indexText) + '.' : `<strong>${esc(h.name || h.designation)}</strong> ${h.action !== 'established' ? `<span class="muted">(${esc(h.action)})</span>` : ''}`}<br><span class="muted">${authLine(h.authority)}</span>${h.note ? `<br><span class="muted">${esc(h.note)}</span>` : ''}${pendingTag(h.reviewed)}</div></li>`).join('')}</ol>` : '<p class="muted">The designation history for this site (every law, proclamation and order, and the administration behind each) is being researched and checked by the Library\u2019s historians.</p>');
 
   const visit = [
     s.hours.length && `<h3>Hours</h3>${s.hours.map((h) => `<p><strong>${esc(h.name)}</strong>: ${esc(h.description)}</p>`).join('')}`,

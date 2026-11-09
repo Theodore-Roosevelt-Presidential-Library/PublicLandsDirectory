@@ -1,0 +1,56 @@
+{
+  "slug": "prince-william-forest-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1936-11-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Chopawamsic Recreation Demonstration Area transferred from Resettlement Administration Nov. 14, 1936",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1948-06-22",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed June 22, 1948",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 106,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Chopawamsic Recreation Demonstration Area transferred from Resettlement Administration Nov. 14, 1936; renamed June 22, 1948."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "voyageurs-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1971-01-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Jan. 8, 1971",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1975-04-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established April 8, 1975",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 67,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Jan. 8, 1971; established April 8, 1975. Boundary change: Jan. 3, 1983."
+  }
+}

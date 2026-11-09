@@ -1,0 +1,100 @@
+{
+  "slug": "acadia-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1916-07-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Sieur de Monts National Monument July 8, 1916",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1919-02-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Lafayette National Park Feb. 26, 1919",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1929-01-19",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Acadia National Park Jan. 19, 1929",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1986-09-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Permanent boundary established Sept. 25, 1986",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 58,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Sieur de Monts National Monument July 8, 1916; established as Lafayette National Park Feb. 26, 1919; renamed Acadia National Park Jan. 19, 1929. Boundary changes: Jan. 19, 1929; May 23, 1930; May 29, 1935; Aug. 24, 1935; June 6, 1942; Dec. 22, 1944; July 30, 1947; Sept. 7, 1949; Aug. 1, 1950; July 24, 1956; Oct. 3, 1966; March 4, 1968; March 12, 1968; Oct. 15, 1982. Permanent boundary established Sept. 25, 1986."
+  }
+}

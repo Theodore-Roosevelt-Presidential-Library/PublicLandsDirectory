@@ -1,0 +1,56 @@
+{
+  "slug": "haleakala-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1916-08-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a part of Hawaii National Park Aug. 1, 1916",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1960-09-13",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Sept. 13, 1960",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 50,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as a part of Hawaii National Park Aug. 1, 1916; renamed Sept. 13, 1960. Boundary changes: Feb. 12, 1927; Jan. 10, 1969; Oct. 21, 1976. Wilderness designated Oct. 20, 1976. Designated a Biosphere Reserve 1980."
+  }
+}

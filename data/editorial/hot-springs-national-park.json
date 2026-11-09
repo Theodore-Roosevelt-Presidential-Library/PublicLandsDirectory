@@ -1,0 +1,56 @@
+{
+  "slug": "hot-springs-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1832-04-20",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Hot Springs Reservation April 20, 1832",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Andrew Jackson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1921-03-04",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated March 4, 1921",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": null,
+        "citation": null
+      },
+      "note": "Dated on a day the presidency changed hands (Warren G. Harding's first day); administration to confirm.",
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 30,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Hot Springs Reservation April 20, 1832; dedicated to public use as a park June 16, 1880; redesignated March 4, 1921. Boundary changes: June 22, 1892; July 14, 1892; Feb. 21, 1903; May 23, 1906; Sept. 18, 1922; June 5, 1924; June 25, 1930; Feb. 14, 1931; June 15, 1936; June 24, 1938; Aug. 10, 1939; Aug. 24, 1954; Aug. 18, 1958; Sept. 21, 1959; Aug. 2, 1993."
+  }
+}

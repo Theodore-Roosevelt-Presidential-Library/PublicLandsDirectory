@@ -1,0 +1,56 @@
+{
+  "slug": "death-valley-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1933-02-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument Feb. 11, 1933",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 31",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1994-10-31",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as a national park Oct. 31, 1994",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 31",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 31,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument Feb. 11, 1933; redesignated as a national park Oct. 31, 1994. Boundary changes: March 26, 1937; Jan. 17, 1952; Oct. 31, 1994. Designated a Biosphere Reserve 1984. Wilderness designated Oct. 31, 1994."
+  }
+}

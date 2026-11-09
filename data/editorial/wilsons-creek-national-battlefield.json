@@ -1,0 +1,56 @@
+{
+  "slug": "wilsons-creek-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1960-04-22",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national battlefield park April 22, 1960",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1970-12-16",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Dec. 16, 1970",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 70,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The battle was fought on Aug. 10, 1861, and was the first major battle west of the Mississippi. It was a Confederate victory, but Missouri remained in the Union. Major features include a 5-mile vehicle tour road, the restored 1852 Ray House, Bloody Hill, and the Trans Mississippi museum and library. Authorized as a national battlefield park April 22, 1960; redesignated Dec. 16, 1970. Boundary change: Oct. 30, 2014."
+  }
+}

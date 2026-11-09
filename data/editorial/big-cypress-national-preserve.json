@@ -1,0 +1,34 @@
+{
+  "slug": "big-cypress-national-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1974-10-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Oct. 11, 1974",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Gerald R. Ford",
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 46,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Oct. 11, 1974. Boundary change: April 29, 1988."
+  }
+}

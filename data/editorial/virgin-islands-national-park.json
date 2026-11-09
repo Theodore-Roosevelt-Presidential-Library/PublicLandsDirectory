@@ -1,0 +1,34 @@
+{
+  "slug": "virgin-islands-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1956-08-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 2, 1956",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 108",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 108,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Aug. 2, 1956. Boundary changes: June 29, 1960; Oct. 5, 1962; Aug. 18, 1978. Designated a Biosphere Reserve 1976."
+  }
+}

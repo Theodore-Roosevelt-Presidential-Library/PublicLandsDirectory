@@ -1,0 +1,78 @@
+{
+  "slug": "glacier-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1910-05-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established May 11, 1910",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "William Howard Taft",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1932-05-02",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as part of Waterton-Glacier International Peace Park May 2, 1932",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1932-06-30",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed June 30, 1932",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 71,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established May 11, 1910. Boundary changes: Feb. 10, 1912; Feb. 27, 1915; July 31, 1939; Dec. 13, 1944; April 11, 1972; Jan. 26, 1978. Authorized as part of Waterton-Glacier International Peace Park May 2, 1932; proclaimed June 30, 1932. Designated a Biosphere Reserve 1976; designated Waterton-Glacier International Peace Park World Heritage Site Dec. 9, 1995."
+  }
+}

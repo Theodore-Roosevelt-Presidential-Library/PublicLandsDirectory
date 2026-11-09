@@ -1,0 +1,34 @@
+{
+  "slug": "home-of-franklin-d-roosevelt-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1944-01-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Jan. 15, 1944",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 82",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 82,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Jan. 15, 1944. Boundary changes: Oct. 23, 1952; Nov. 2, 1964; Jan. 23, 1974; March 3, 1975; May 31, 1984; March 29, 1989; Nov. 10, 1998."
+  }
+}

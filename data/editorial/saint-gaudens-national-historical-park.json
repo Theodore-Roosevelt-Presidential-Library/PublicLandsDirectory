@@ -1,0 +1,56 @@
+{
+  "slug": "saint-gaudens-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1964-08-31",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 31, 1964",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 74",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1977-05-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established May 30, 1977",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 74",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 74,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Aug. 31, 1964; established May 30, 1977. Boundary changes: Oct. 31, 1976, Nov. 9, 2000."
+  }
+}

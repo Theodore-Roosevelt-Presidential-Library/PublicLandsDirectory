@@ -1,0 +1,34 @@
+{
+  "slug": "lincoln-home-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1971-08-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 18, 1971",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 52",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 52,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Aug. 18, 1971."
+  }
+}

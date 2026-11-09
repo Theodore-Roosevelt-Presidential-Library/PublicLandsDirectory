@@ -112,7 +112,11 @@ for (const recs of groups.values()) {
     const bbox = geometry ? bboxOf(geometry) : null;
     const history = (ed.designationHistory || []).slice().sort((a, b) => a.date.localeCompare(b.date));
     const first = history[0];
-    const current = [...history].reverse().find((h) => ['established', 'designated', 'redesignated'].includes(h.action));
+    // "Since": the earliest event that names today's designation (Grand Canyon: national park established 1919, not the
+    // 1975 enlargement); otherwise the latest establishing or redesignating action.
+    const desig = String(rec.designation || '').toLowerCase().split(/ (?:&|and) /)[0];
+    const current = (desig && history.find((h) => ['established', 'designated', 'redesignated'].includes(h.action) && String(h.indexText || h.designation || '').toLowerCase().includes(desig)))
+      || [...history].reverse().find((h) => ['established', 'designated', 'redesignated'].includes(h.action));
     const administrations = [...new Set(history.map((h) => h.authority?.administration).filter(Boolean))];
 
     const entry = {
@@ -129,8 +133,8 @@ for (const recs of groups.values()) {
       location,
       bbox,
       acres: ed.acres || rec.acres || (geometry ? { value: Math.round(areaAcres(geometry)), kind: 'gis-estimate', source: 'Computed from the simplified boundary', note: 'Approximate. The managing agency publishes official acreage.' } : null),
-      firstProtected: first ? { date: first.date, designation: first.designation, name: first.name, authority: first.authority, reviewed: !!first.reviewed } : null,
-      established: current ? { date: current.date, designation: current.designation, name: current.name, authority: current.authority, reviewed: !!current.reviewed } : null,
+      firstProtected: first ? { date: first.date, designation: first.designation, name: first.name, text: first.indexText || null, authority: first.authority, reviewed: !!first.reviewed } : null,
+      established: current ? { date: current.date, designation: current.designation || rec.designation, name: current.name, text: current.indexText || null, authority: current.authority, reviewed: !!current.reviewed } : null,
       administrations,
       designationHistory: history,
       summary: ed.summary || rec.description || null,

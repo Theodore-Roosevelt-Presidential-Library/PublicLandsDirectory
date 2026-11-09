@@ -1,0 +1,34 @@
+{
+  "slug": "white-sands-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1933-01-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Jan. 18, 1933",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 79,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Jan. 18, 1933. Boundary changes: Nov. 28, 1934; Aug. 29, 1938; June 6, 1942; June 24, 1953; Nov. 10, 1978; Sept. 23, 1996."
+  }
+}

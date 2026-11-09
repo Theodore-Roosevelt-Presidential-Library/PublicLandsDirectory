@@ -1,0 +1,34 @@
+{
+  "slug": "canaveral-national-seashore",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1975-01-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Jan. 3, 1975",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 46,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Jan. 3, 1975."
+  }
+}

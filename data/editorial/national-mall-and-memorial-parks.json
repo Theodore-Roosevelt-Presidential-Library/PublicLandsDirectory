@@ -1,0 +1,56 @@
+{
+  "slug": "national-mall-and-memorial-parks",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1790-07-16",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "National Mall authorized on July 16, 1790",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George Washington",
+        "administration": "George Washington",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "National Mall and park areas transferred from the Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 44,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "National Mall authorized on July 16, 1790. National Mall and park areas transferred from the Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933."
+  }
+}

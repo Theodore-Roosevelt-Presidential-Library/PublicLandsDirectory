@@ -1,0 +1,56 @@
+{
+  "slug": "fort-vancouver-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1948-06-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national monument June 19, 1948",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1961-06-30",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national historic site June 30, 1961",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 109,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established on the north bank of the Columbia River in 1825, Fort Vancouver served as the headquarters for the Hudson’s Bay Company’s vast fur trading empire in the Pacific Northwest. The site also preserves and interprets a rich legacy of American history – including emigration over the Oregon Trail, military history at Vancouver Barracks, and aviation history at Pearson Air Museum. The McLoughlin House in Oregon City, OR, is also part of this vibrant and diverse park. Authorized as a national monument June 19, 1948; redesignated a national historic site June 30, 1961. Boundary changes: Jan. 15, 1958; June 30, 1961; April 4, 1972; July 29, 2003."
+  }
+}

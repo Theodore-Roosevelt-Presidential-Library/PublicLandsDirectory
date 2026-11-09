@@ -1,37 +1,56 @@
 {
   "slug": "yosemite-national-park",
   "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
   "designationHistory": [
-    {
-      "date": "1864-06-30",
-      "action": "established",
-      "designation": "State grant (Yosemite Grant)",
-      "name": "Yosemite Grant",
-      "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Abraham Lincoln",
-        "administration": "Abraham Lincoln",
-        "citation": null
-      },
-      "note": "Granted Yosemite Valley and the Mariposa Grove to California.",
-      "sources": [],
-      "reviewed": false
-    },
     {
       "date": "1890-10-01",
       "action": "established",
-      "designation": "National Park",
-      "name": "Yosemite National Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national park Oct. 1, 1890",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Benjamin Harrison",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Benjamin Harrison",
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 38",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1958-09-02",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "El Portal site authorized Sept. 2, 1958",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 38",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     }
-  ]
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 38,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Yosemite Valley and Mariposa Big Tree Grove granted to State of California June 30, 1864; established as a national park Oct. 1, 1890; Federal government accepted lands returned by state June 11, 1906. Boundary changes: Feb. 7, 1905; June 11, 1906; Dec. 19, 1913; May 28, 1928; April 14, 1930; Feb. 14, 1931; Aug. 13, 1932; July 9, 1937. El Portal site authorized Sept. 2, 1958. Wilderness designated Sept. 28, 1984. Designated a World Heritage Site Oct. 31, 1984."
+  }
 }

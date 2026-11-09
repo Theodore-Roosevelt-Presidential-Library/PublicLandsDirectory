@@ -1,0 +1,56 @@
+{
+  "slug": "valles-caldera-national-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2000-07-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established July 25, 2000, as a national preserve within the National Forest System managed by the Valles Caldera Trust, a wholly-owned government corporation",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2014-12-19",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from Valles Caldera Trust, U.S. Dept. of Agriculture, Dec. 19, 2014",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 79,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established July 25, 2000, as a national preserve within the National Forest System managed by the Valles Caldera Trust, a wholly-owned government corporation; transferred from Valles Caldera Trust, U.S. Dept. of Agriculture, Dec. 19, 2014."
+  }
+}

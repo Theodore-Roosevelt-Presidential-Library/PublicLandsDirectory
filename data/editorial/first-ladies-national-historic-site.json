@@ -1,0 +1,34 @@
+{
+  "slug": "first-ladies-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2000-10-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 11, 2000",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 87,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Oct. 11, 2000."
+  }
+}

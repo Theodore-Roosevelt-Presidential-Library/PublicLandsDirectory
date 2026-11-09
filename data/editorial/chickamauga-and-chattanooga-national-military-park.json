@@ -1,0 +1,56 @@
+{
+  "slug": "chickamauga-and-chattanooga-national-military-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1890-08-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Aug. 19, 1890",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 48",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 48",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 48,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Aug. 19, 1890; transferred from War Dept. Aug. 10, 1933. Boundary changes: Aug. 9, 1939; March 5, 1942; June 24, 1948; Feb. 24, 2003."
+  }
+}

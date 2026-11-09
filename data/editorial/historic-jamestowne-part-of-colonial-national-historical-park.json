@@ -1,0 +1,34 @@
+{
+  "slug": "historic-jamestowne-part-of-colonial-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1940-12-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Dec. 18, 1940",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 121",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 121,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Part of the site of the first permanent English settlement in North America (1607), on the upper end of Jamestown Island, was the scene of the first representative legislative government on this continent, July 30, 1619. Designated Dec. 18, 1940. Owned and administered by Association for the Preservation of Virginia. Adjacent areas of the historic Jamestown site and island are part of Colonial National Historical Park."
+  }
+}

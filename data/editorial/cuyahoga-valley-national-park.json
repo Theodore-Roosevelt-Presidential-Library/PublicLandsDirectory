@@ -1,0 +1,78 @@
+{
+  "slug": "cuyahoga-valley-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1974-12-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Dec. 27, 1974",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Gerald R. Ford",
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1975-06-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established June 26, 1975",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2000-10-11",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Oct. 11, 2000",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 87,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Dec. 27, 1974; established June 26, 1975; redesignated Oct. 11, 2000. Boundary changes: Oct. 21, 1976; Nov. 10, 1978; Nov. 6, 1986; Jan. 25, 1999."
+  }
+}

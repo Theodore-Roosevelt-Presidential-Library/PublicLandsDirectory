@@ -1,0 +1,34 @@
+{
+  "slug": "dinosaur-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1915-10-04",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "The exceptionally diverse communities of plants and animals and thousands of years of human history in the monument result from its geographic locations at the hub of five major biophysical regions, including the lower 46 miles of the Yampa River, which is the last remaining large, free-flowing river in the entire Colorado River system Proclaimed Oct. 4, 1915",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 39",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 39,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The exceptionally diverse communities of plants and animals and thousands of years of human history in the monument result from its geographic locations at the hub of five major biophysical regions, including the lower 46 miles of the Yampa River, which is the last remaining large, free-flowing river in the entire Colorado River system Proclaimed Oct. 4, 1915. Boundary changes: July 14, 1938; Sept. 8, 1960; Feb. 21, 1963; Oct. 9, 1964; Nov. 10, 1978."
+  }
+}

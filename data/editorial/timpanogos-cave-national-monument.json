@@ -1,0 +1,78 @@
+{
+  "slug": "timpanogos-cave-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1922-10-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Oct. 14, 1922",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Warren G. Harding",
+        "administration": "Warren G. Harding",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2002-12-06",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized joint visitor center with U.S. Forest Service Dec. 6, 2002",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 102,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Oct. 14, 1922; transferred from U.S. Forest Service, Aug. 10, 1933. Authorized joint visitor center with U.S. Forest Service Dec. 6, 2002."
+  }
+}

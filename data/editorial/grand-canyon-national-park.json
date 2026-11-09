@@ -1,13 +1,13 @@
 {
   "slug": "grand-canyon-national-park",
   "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
   "designationHistory": [
     {
       "date": "1893-02-20",
       "action": "established",
-      "designation": "Forest Reserve",
-      "name": "Grand Canyon Forest Reserve",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed as Grand Canyon Forest Reserve Feb. 20, 1893",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Benjamin Harrison",
@@ -15,14 +15,21 @@
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     },
     {
       "date": "1906-11-28",
       "action": "designated",
-      "designation": "Game Reserve",
-      "name": "Grand Canyon Game Reserve",
+      "designation": null,
+      "name": null,
+      "indexText": "Grand Canyon Game Preserve proclaimed Nov. 28, 1906",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Theodore Roosevelt",
@@ -30,38 +37,152 @@
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     },
     {
       "date": "1908-01-11",
       "action": "designated",
-      "designation": "National Monument",
-      "name": "Grand Canyon National Monument",
+      "designation": null,
+      "name": null,
+      "indexText": "Grand Canyon National Monument proclaimed Jan. 11, 1908",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
         "citation": null
       },
-      "note": "Proclaimed under the Antiquities Act.",
-      "sources": [],
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     },
     {
       "date": "1919-02-26",
-      "action": "redesignated",
-      "designation": "National Park",
-      "name": "Grand Canyon National Park",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "National park established Feb. 26, 1919",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Woodrow Wilson",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Woodrow Wilson",
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1919-08-15",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service, Aug. 15, 1919",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1932-12-22",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "A separate Grand Canyon National Monument proclaimed Dec. 22, 1932",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1969-01-20",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Marble Canyon National Monument proclaimed Jan. 20, 1969",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": null,
+        "administration": null,
+        "citation": null
+      },
+      "note": "Dated on a day the presidency changed hands (Richard Nixon's first day); administration to confirm.",
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1975-01-03",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Three units and portions of Glen Canyon and Lake Mead national recreation areas combined with additional lands as a national park Jan. 3, 1975",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     }
-  ]
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 25,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed as Grand Canyon Forest Reserve Feb. 20, 1893; Grand Canyon Game Preserve proclaimed Nov. 28, 1906; Grand Canyon National Monument proclaimed Jan. 11, 1908; national park established Feb. 26, 1919; transferred from U.S. Forest Service, Aug. 15, 1919. Boundary changes: Feb. 25, 1927; March 7, 1928. A separate Grand Canyon National Monument proclaimed Dec. 22, 1932. Boundary change: April 4, 1940. Marble Canyon National Monument proclaimed Jan. 20, 1969. Three units and portions of Glen Canyon and Lake Mead national recreation areas combined with additional lands as a national park Jan. 3, 1975. Designated a World Heritage Site Oct. 26, 1979."
+  }
 }

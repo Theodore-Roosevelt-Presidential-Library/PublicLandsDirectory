@@ -1,0 +1,122 @@
+{
+  "slug": "little-bighorn-battlefield-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1879-01-29",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national cemetery by the Secretary of War Jan. 29, 1879, to protect graves of 7th Cavalry troopers buried there",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Rutherford B. Hayes",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1886-12-07",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed National Cemetery of Custer’s Battlefield Reservation to include burials of other campaigns and wars Dec. 7, 1886",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Grover Cleveland",
+        "administration": "Grover Cleveland",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1940-07-01",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. July 1, 1940",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1946-03-22",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Custer Battlefield National Monument March 22, 1946",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1991-12-10",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Dec. 10, 1991",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 71,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as a national cemetery by the Secretary of War Jan. 29, 1879, to protect graves of 7th Cavalry troopers buried there; proclaimed National Cemetery of Custer’s Battlefield Reservation to include burials of other campaigns and wars Dec. 7, 1886; Reno-Benteen Battlefield added April 14, 1926; transferred from War Dept. July 1, 1940; redesignated Custer Battlefield National Monument March 22, 1946; renamed Dec. 10, 1991."
+  }
+}

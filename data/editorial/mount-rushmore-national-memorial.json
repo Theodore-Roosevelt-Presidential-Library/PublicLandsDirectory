@@ -1,0 +1,56 @@
+{
+  "slug": "mount-rushmore-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1925-03-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized March 3, 1925",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 95",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1939-07-01",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from Mount Rushmore National Memorial Commission July 1, 1939",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 95",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 95,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized March 3, 1925; transferred from Mount Rushmore National Memorial Commission July 1, 1939. Boundary changes: May 22, 1940; Oct. 6, 1949."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "pinnacles-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1908-01-16",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument Jan. 16, 1908",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 34",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2013-01-10",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as national park Jan. 10, 2013",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 34",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 34,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument Jan. 16, 1908; redesignated as national park Jan. 10, 2013. Boundary changes: May 7, 1923; July 2, 1924; April 13, 1931; July 11, 1933; Dec. 5, 1941; Oct. 20, 1976; Jan. 11, 2000. Wilderness designated Oct. 20, 1976."
+  }
+}

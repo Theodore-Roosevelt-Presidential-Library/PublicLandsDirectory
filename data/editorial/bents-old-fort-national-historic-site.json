@@ -1,0 +1,34 @@
+{
+  "slug": "bents-old-fort-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1960-06-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized June 3, 1960",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 38",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 38,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized June 3, 1960. Boundary change: Nov. 10, 1978."
+  }
+}

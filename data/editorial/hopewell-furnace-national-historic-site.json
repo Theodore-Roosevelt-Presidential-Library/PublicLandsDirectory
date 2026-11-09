@@ -1,0 +1,56 @@
+{
+  "slug": "hopewell-furnace-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1938-08-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Hopewell Village National Historic Site Aug. 3, 1938",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1985-09-19",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Sept. 19, 1985",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 91,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Hopewell Village National Historic Site Aug. 3, 1938; renamed Sept. 19, 1985. Boundary changes: June 6, 1942; July 24, 1946."
+  }
+}

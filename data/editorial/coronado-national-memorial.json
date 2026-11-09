@@ -1,0 +1,78 @@
+{
+  "slug": "coronado-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1941-08-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as International Memorial Aug. 18, 1941",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1952-07-09",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated July 9, 1952",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1952-11-05",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 5, 1952",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 24,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as International Memorial Aug. 18, 1941; redesignated July 9, 1952; established Nov. 5, 1952. Boundary changes: Sept. 2, 1960; Nov. 10, 1978."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "chickasaw-national-recreation-area",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1902-07-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as Sulphur Springs Reservation July 1, 1902",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1906-06-29",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed and redesignated Platt National Park June 29, 1906",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1976-03-17",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Combined with Arbuckle National Recreation Area and additional lands and renamed and redesignated Chickasaw National Recreation Area March 17, 1976",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 89,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as Sulphur Springs Reservation July 1, 1902; renamed and redesignated Platt National Park June 29, 1906; combined with Arbuckle National Recreation Area and additional lands and renamed and redesignated Chickasaw National Recreation Area March 17, 1976. Boundary changes: April 21, 1904; June 18, 1940; March 17, 1976; Dec. 9, 1991; Oct. 30, 2004."
+  }
+}

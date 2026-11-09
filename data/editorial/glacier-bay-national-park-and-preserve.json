@@ -1,0 +1,56 @@
+{
+  "slug": "glacier-bay-national-park-and-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1925-02-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Glacier Bay National Monument Feb. 26, 1925",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 20",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national park and national preserve Dec. 2, 1980",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 20",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 20,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Glacier Bay National Monument Feb. 26, 1925; established as a national park and national preserve Dec. 2, 1980. Boundary changes: April 18, 1939; March 31, 1955; December 1, 1978. Wilderness designated Dec. 2, 1980. Designated a Biosphere Reserve 1986. Designated a World Heritage site Dec, 14, 1992."
+  }
+}

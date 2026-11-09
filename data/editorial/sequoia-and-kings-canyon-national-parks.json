@@ -1,0 +1,34 @@
+{
+  "slug": "sequoia-and-kings-canyon-national-parks",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1890-09-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Sept. 25, 1890",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 36",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 36,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Sept. 25, 1890. Boundary changes: Oct. 1, 1890; July 3, 1926; Dec. 21, 1943; July 21, 1949; Oct. 19, 1951; Aug. 14, 1958; Nov. 10, 1978. Wilderness designated Sept. 28, 1984. Designated a Biosphere Reserve 1976."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "missouri-national-recreational-river",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1978-11-10",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Nov. 10, 1978",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1991-05-24",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Expanded May 24, 1991",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 72,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Nov. 10, 1978; expanded May 24, 1991. Length: 59 miles (original segment); 67 miles (1991 addition)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "apostle-islands-national-lakeshore",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1970-09-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Sept. 26, 1970",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 112",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 112,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Sept. 26, 1970. Boundary change: Oct. 17, 1986; Dec. 19, 2014. Wilderness designated Dec. 8, 2004."
+  }
+}

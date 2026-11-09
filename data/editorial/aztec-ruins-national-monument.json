@@ -1,0 +1,56 @@
+{
+  "slug": "aztec-ruins-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1923-01-24",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Aztec Ruin National Monument Jan. 24, 1923",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Warren G. Harding",
+        "administration": "Warren G. Harding",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1928-07-02",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed July 2, 1928",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 77,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Aztec Ruin National Monument Jan. 24, 1923; renamed July 2, 1928. Boundary changes: July 2, 1928; Dec. 19, 1930; May 27, 1948; Oct. 28, 1988. Designated a World Heritage Site Dec. 8, 1987."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "grand-teton-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1972-08-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 25, 1972",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 113",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 113,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized by Congress to recognize Rockefeller’s philanthropy and significant contributions for the establishment of several national parks: Grand Teton, Acadia, Great Smoky Mountains, and Virgin Islands. Congress also named the highway from Grand Teton’s south boundary to West Thumb in Yellowstone in honor of Rockefeller. The remote and largely uninhabited parkway provides a natural link between Grand Teton and Yellowstone. Authorized Aug. 25, 1972."
+  }
+}

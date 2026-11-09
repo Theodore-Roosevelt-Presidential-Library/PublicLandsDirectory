@@ -1,0 +1,56 @@
+{
+  "slug": "harry-s-truman-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1982-12-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Dec. 8, 1982",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 69",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1983-05-23",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "National Park Service administration authorized May 23, 1983",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 69",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 69,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Dec. 8, 1982; National Park Service administration authorized May 23, 1983. Boundary changes: Oct. 2, 1989, Dec. 14, 1993; Oct. 30, 2004."
+  }
+}

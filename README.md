@@ -69,4 +69,13 @@ Designation histories, guide text, social links, AllTrails links and Roosevelt c
 <public-lands-card site="theodore-roosevelt-national-park"></public-lands-card>
 ```
 
-Views: `card` (default), `compact`, `alerts`, `history`, `map`. Theme: `theme="dark"`. Builder at [/embed/](https://directory.labs.trlibrary.com/embed/).
+Views: `card` (default), `compact`, `alerts`, `history`, `map`, `roosevelt`. Theme: `theme="dark"`.
+
+A map of many places:
+
+```html
+<script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
+<public-lands-map state="ND" tr="any" controls height="480"></public-lands-map>
+```
+
+Attributes: `agency` (NPS, FWS, USFS, BLM), `category`, `state`, `tr` (any, protected, executive-action, visited), `sites` (comma-separated slugs), `controls` (show the filter bar), `color="tr"`, `boundaries`. No-script option: iframe `/embed/directory-map.html?state=ND&controls=1`. Builder at [/embed/](https://directory.labs.trlibrary.com/embed/).

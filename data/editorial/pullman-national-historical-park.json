@@ -1,0 +1,34 @@
+{
+  "slug": "pullman-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2015-02-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Feb. 19, 2015",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 52",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 52,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Feb. 19, 2015."
+  }
+}

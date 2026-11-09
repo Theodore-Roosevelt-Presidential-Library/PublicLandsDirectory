@@ -2,6 +2,7 @@
  * <script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
  * <public-lands-card site="theodore-roosevelt-national-park" view="card"></public-lands-card>
  * views: card (default) | alerts | history | map | compact | roosevelt
+ * Directory map: <public-lands-map agency="NPS" state="ND" tr="any" controls height="480"></public-lands-map>
  * options: theme="light|dark", photo="false", width via CSS
  */
 (function () {
@@ -62,4 +63,22 @@
     }
   }
   customElements.define('public-lands-card', PublicLandsCard);
+
+  // <public-lands-map agency="NPS" category="national-park" state="ND" tr="any" sites="a,b" controls height="480"></public-lands-map>
+  class PublicLandsMap extends HTMLElement {
+    static get observedAttributes() { return ['agency', 'category', 'state', 'tr', 'sites', 'controls', 'height', 'color', 'boundaries']; }
+    connectedCallback() { this.render(); }
+    attributeChangedCallback() { if (this.isConnected) this.render(); }
+    render() {
+      const q = new URLSearchParams();
+      const map = { agency: 'agency', category: 'cat', state: 'state', tr: 'tr', sites: 'sites', color: 'color' };
+      for (const [attr, key] of Object.entries(map)) if (this.getAttribute(attr)) q.set(key, this.getAttribute(attr));
+      if (this.hasAttribute('controls')) q.set('controls', '1');
+      if (this.hasAttribute('boundaries')) q.set('boundaries', '1');
+      const h = this.getAttribute('height') || '480';
+      if (!this.shadowRoot) this.attachShadow({ mode: 'open' });
+      this.shadowRoot.innerHTML = `<style>:host{display:block}iframe{border:0;width:100%;height:${/^\d+$/.test(h) ? h + 'px' : h};display:block;border-radius:8px}</style><iframe title="Map of public lands" loading="lazy" src="${BASE}/embed/directory-map.html?${q}"></iframe>`;
+    }
+  }
+  if (!customElements.get('public-lands-map')) customElements.define('public-lands-map', PublicLandsMap);
 })();

@@ -1,36 +1,49 @@
 {
   "slug": "theodore-roosevelt-national-park",
   "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
   "designationHistory": [
     {
       "date": "1947-04-25",
       "action": "established",
-      "designation": "National Memorial Park",
-      "name": "Theodore Roosevelt National Memorial Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Theodore Roosevelt National Memorial Park April 25, 1947",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Harry S. Truman",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Harry S. Truman",
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     },
     {
       "date": "1978-11-10",
       "action": "redesignated",
-      "designation": "National Park",
-      "name": "Theodore Roosevelt National Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Nov. 10, 1978",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Jimmy Carter",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Jimmy Carter",
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     }
   ],
@@ -51,5 +64,11 @@
         "url": "https://www.trlibrary.com"
       }
     ]
+  },
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 87,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Theodore Roosevelt National Memorial Park April 25, 1947; redesignated Nov. 10, 1978. Boundary changes: June 10, 1948; June 12, 1948; March 24, 1956; Nov. 6, 1963; Nov. 10, 1978. Wilderness designated Nov. 10, 1978."
   }
 }

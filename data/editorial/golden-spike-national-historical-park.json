@@ -1,0 +1,56 @@
+{
+  "slug": "golden-spike-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1957-04-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated April 2, 1957",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1965-07-30",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "National Park Service administration authorized July 30, 1965",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 102,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The first transcontinental railroad in the United States was completed here on May 10, 1869, after the Central Pacific and Union Pacific railroads built 1,776 miles of hand-made line. Designated April 2, 1957; National Park Service administration authorized July 30, 1965. Boundary changes: July 30, 1965; Sept. 8, 1980."
+  }
+}

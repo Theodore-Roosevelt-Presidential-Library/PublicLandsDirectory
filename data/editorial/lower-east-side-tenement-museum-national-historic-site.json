@@ -1,0 +1,56 @@
+{
+  "slug": "lower-east-side-tenement-museum-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1998-11-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Nov. 12, 1998",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 121",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2014-12-19",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Expanded Dec. 19, 2014",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 121",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 121,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Nov. 12, 1998. Expanded Dec. 19, 2014. The site is privately owned by the Lower East Side Tenement Museum."
+  }
+}

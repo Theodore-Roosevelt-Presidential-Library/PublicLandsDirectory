@@ -1,0 +1,34 @@
+{
+  "slug": "charles-young-buffalo-soldiers-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2013-03-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed March 25, 2013",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 87,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed March 25, 2013."
+  }
+}

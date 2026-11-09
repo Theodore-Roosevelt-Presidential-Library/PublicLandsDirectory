@@ -1,0 +1,56 @@
+{
+  "slug": "rock-creek-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1890-09-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Sept. 27, 1890",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Benjamin Harrison",
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 44,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Sept. 27, 1890; transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933."
+  }
+}

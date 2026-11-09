@@ -1,0 +1,56 @@
+{
+  "slug": "president-william-jefferson-clinton-birthplace-home-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized March 30, 2009",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2010-12-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Dec. 14, 2010",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 30,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "On August 19, 1946, Virginia Blythe gave birth to her son, William Jefferson Blythe, III. Named for his father who died before he was born, he grew up to become William Jefferson Clinton – the 42nd president of the United States. In this house, he learned many of the early lessons that defined his life and his presidency. Authorized March 30, 2009. Established Dec. 14, 2010."
+  }
+}

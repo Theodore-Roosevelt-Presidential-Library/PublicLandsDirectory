@@ -1,0 +1,100 @@
+{
+  "slug": "stones-river-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1927-03-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Park: Established as a national military park March 3, 1927",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1960-04-22",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated April 22, 1960",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 98,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "A fierce midwinter battle took place here, Dec. 31, 1862–Jan. 2, 1863. The Confederates withdrew after the battle and allowed the Union to control middle Tennessee. Stones River National Cemetery—6,850 interments, 2,562 unidentified— is within the park; no grave space available. Park: Established as a national military park March 3, 1927; transferred from War Dept. Aug. 10, 1933; redesignated April 22, 1960. Boundary changes: April 22, 1960; Dec. 23, 1987; Dec. 11, 1991. Cemetery: Probable date of Civil War interments, 1865. Transferred from War Dept. Aug. 10, 1933. Park acreage—709.46 Federal: 649.15 Nonfederal: 60.31. Cemetery acreage—20.09, all Federal."
+  }
+}

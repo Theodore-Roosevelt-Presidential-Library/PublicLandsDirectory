@@ -1,0 +1,34 @@
+{
+  "slug": "fort-sumter-and-fort-moultrie-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1948-04-28",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized April 28, 1948",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 94,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The first engagement of the Civil War took place here on April 12, 1861. The park includes Fort Moultrie, scene of the patriot victory of June 28, 1776—one of the early defeats of the British in the American Revolution. Together the forts reflect 171 years of seacoast defense. Authorized April 28, 1948."
+  }
+}

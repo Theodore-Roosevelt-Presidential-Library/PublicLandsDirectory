@@ -1,0 +1,56 @@
+{
+  "slug": "great-sand-dunes-national-park-and-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1932-03-17",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument March 17, 1932",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 39",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2004-09-24",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Sept. 24, 2004",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 39",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 39,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument March 17, 1932. Boundary changes: March 12, 1946; June 7, 1956; Nov. 10, 1978. Boundary change/redesignation as a national park and national preserve Nov. 22, 2000. Established Sept. 24, 2004. Wilderness designated Oct. 20, 1976; Aug. 13, 1993."
+  }
+}

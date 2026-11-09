@@ -1,0 +1,78 @@
+{
+  "slug": "vicksburg-national-military-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1899-02-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Park: Established Feb. 21, 1899",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "William McKinley",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 69",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 69",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 69",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 69,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Reconstructed forts and trenches evoke memories of the 47day siege that ended in the surrender of the city on July 4, 1863. Victory gave the North control of the Mississippi River. The Civil War ironclad gunboat USS Cairo is on display. Vicksburg National Cemetery—18,244 interments, including 12,954 unidentified—is within the park; grave space is not available. Park: Established Feb. 21, 1899; transferred from War Dept. Aug. 10, 1933. Boundary changes: June 4, 1963; Oct. 18, 1990. Cemetery: Date of Civil War interments, 1866–1874. Transferred from War Dept. Aug. 10, 1933. Boundary change: March 2, 1955. Park acreage—1,802.18 Federal: 1,746.73 Nonfederal: 55.45. Cemetery acreage—116.28, all Federal."
+  }
+}
