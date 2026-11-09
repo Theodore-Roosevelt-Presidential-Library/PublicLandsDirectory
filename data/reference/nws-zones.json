@@ -12106,5 +12106,32 @@
     ],
     "office": "GJT",
     "updated": "2026-11-09"
+  },
+  "pistone-black-mountain-national-conservation-area": {
+    "zones": [
+      "NVZ001",
+      "NVC021",
+      "NVZ429"
+    ],
+    "office": "REV",
+    "updated": "2026-11-09"
+  },
+  "numunaa-nobe-national-conservation-area": {
+    "zones": [
+      "NVZ004",
+      "NVC001",
+      "NVZ429"
+    ],
+    "office": "REV",
+    "updated": "2026-11-09"
+  },
+  "chuckwalla-national-monument": {
+    "zones": [
+      "CAZ564",
+      "CAC065",
+      "CAZ232"
+    ],
+    "office": "PSR",
+    "updated": "2026-11-09"
   }
 }
