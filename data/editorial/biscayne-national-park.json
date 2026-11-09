@@ -1,6 +1,6 @@
 {
   "slug": "biscayne-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1968-10-18",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "82 Stat. 1188 (Statutes at Large, govinfo): Biscayne National Monument act, approved Oct. 18, 1968",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg1188.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 90-606), LBJ.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1980-06-28",
@@ -41,10 +51,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "94 Stat. 599 (Statutes at Large, govinfo): P.L. 96-287, June 28, 1980",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg599.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -87,7 +87,10 @@ for e in entries:
                 if verb == 'unknown': continue  # a date with no designation action (e.g. an event in the unit's story)
                 events.append({'verb': verb, 'date': iso(d), 'clause': clause})
     if events:
-        results[code] = {'code': code, 'indexName': ' '.join(name), 'page': e['page'], 'history': hist, 'events': events}
+        rec = {'code': code, 'indexName': ' '.join(name), 'page': e['page'], 'history': hist, 'events': events}
+        # Related units (wild and scenic rivers, parkways) are listed under their parent park's web address.
+        # Keep every entry; the converter picks the one whose name matches the site.
+        results.setdefault(code, {'code': code, 'entries': []})['entries'].append(rec)
 
 json.dump(results, open(out, 'w'), indent=1)
 print(f'{len(results)} units parsed', file=sys.stderr)

@@ -1,6 +1,6 @@
 {
   "slug": "olympic-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1909-03-02",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 869, March 2, 1909",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-869-setting-aside-mount-olympus-national-monument-washington"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "T. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1938-06-29",
@@ -63,10 +87,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "52 Stat. 1241 (Statutes at Large, govinfo): Olympic National Park act, approved June 29, 1938",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1241.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

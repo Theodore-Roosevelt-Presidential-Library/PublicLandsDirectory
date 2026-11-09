@@ -1,6 +1,6 @@
 {
   "slug": "hot-springs-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1832-04-20",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "4 Stat. 505 (Statutes at Large, govinfo): act approved April 20, 1832 reserving the hot springs",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-4/pdf/STATUTE-4-Pg505.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Andrew Jackson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1921-03-04",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Redesignated March 4, 1921",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": null,
+        "type": "act-of-congress",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
         "citation": null
       },
-      "note": "Dated on a day the presidency changed hands (Warren G. Harding's first day); administration to confirm.",
+      "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "16 U.S.C. 361 source credits: Mar. 4, 1921, ch. 161, 41 Stat. 1407 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/361"
+        },
+        {
+          "name": "UPI Archives, March 4, 1921: Wilson signing bills at the Capitol before Harding's inauguration",
+          "url": "https://www.upi.com/Archives/1921/03/04/Harding-Coolidge-take-office/4471031400785/"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date is right (act of March 4, 1921, 41 Stat. 1407), but the claim leaves out the President because the date is inauguration day. The act was approved by Wilson, who signed the closing bills of the 66th Congress at the Capitol that morning. Authority: act of Congress.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

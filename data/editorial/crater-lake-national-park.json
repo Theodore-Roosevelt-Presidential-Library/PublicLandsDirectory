@@ -1,6 +1,6 @@
 {
   "slug": "crater-lake-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1902-05-22",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "32 Stat. 202 (Statutes at Large, govinfo): Crater Lake National Park act, approved May 22, 1902",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg202.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, T. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

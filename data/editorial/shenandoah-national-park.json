@@ -1,6 +1,6 @@
 {
   "slug": "shenandoah-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1926-05-22",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "44 Stat. 616 (Statutes at Large, govinfo): act approved May 22, 1926",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg616.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1935-12-26",
@@ -41,10 +51,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS Natural History Handbook 5 (npshistory.com)",
+          "url": "https://npshistory.com/handbooks/natural/5/nh5t.htm"
+        },
+        {
+          "name": "NPS: Shenandoah National Park, idea to reality (Ickes accepted deeds Dec. 26, 1935)",
+          "url": "https://www.nps.gov/articles/shenandoah-national-park-idea-to-reality.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative (Secretary Ickes accepted the deeds); FDR in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

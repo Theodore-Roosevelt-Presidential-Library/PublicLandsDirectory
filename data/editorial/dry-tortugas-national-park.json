@@ -1,6 +1,6 @@
 {
   "slug": "dry-tortugas-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1935-01-04",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2112, Jan. 4, 1935",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2112-fort-jefferson-national-monument-florida"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2112, FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1992-10-26",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 46",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: G.H.W. Bush statement: S. 2890 (P.L. 102-525) approved Oct. 26, 1992, redesignating Fort Jefferson NM as Dry Tortugas NP",
+          "url": "https://www.presidency.ucsb.edu/documents/statement-signing-legislation-establishing-the-brown-v-board-education-national-historic"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, G.H.W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

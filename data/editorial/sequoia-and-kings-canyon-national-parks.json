@@ -1,6 +1,6 @@
 {
   "slug": "sequoia-and-kings-canyon-national-parks",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1890-09-25",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 36",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "26 Stat. 478 (Statutes at Large, govinfo): act approved Sept. 25, 1890 setting apart Sequoia lands",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg478.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Benjamin Harrison (Sequoia only; Kings Canyon is 1940).",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

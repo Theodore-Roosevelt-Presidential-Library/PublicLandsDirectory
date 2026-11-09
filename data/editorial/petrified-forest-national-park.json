@@ -1,6 +1,6 @@
 {
   "slug": "petrified-forest-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1906-12-08",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 26",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 697, Dec. 8, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-697-setting-aside-petrified-forest-national-monument-arizona"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "T. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1962-12-09",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 26",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS Petrified Forest: Brief Administrative History",
+          "url": "https://www.nps.gov/pefo/planyourvisit/brief-administrative-history.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Park status took effect Dec. 9, 1962 under the act of March 28, 1958 (Eisenhower). Kennedy was in office on the date, but the authorizing act was Eisenhower's; don't credit JFK.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

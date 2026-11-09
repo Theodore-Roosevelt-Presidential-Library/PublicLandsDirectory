@@ -2,7 +2,7 @@
 // Output: data/directory.json (no geometry) and data/boundaries/<slug>.geojson
 import { join } from 'node:path';
 import { existsSync } from 'node:fs';
-import { DATA, readJSON, writeJSON, listJSON, slugify, arcgisQuery, AGENCIES, CATEGORIES, STATE_NAMES, nowISO, bboxOf, labelPoint } from './lib.mjs';
+import { DATA, readJSON, writeJSON, listJSON, slugify, arcgisQuery, AGENCIES, CATEGORIES, categorize, STATE_NAMES, nowISO, bboxOf, labelPoint } from './lib.mjs';
 import { pointInGeom, sampleVertices } from './geo.mjs';
 
 const SHOW_UNREVIEWED = process.env.SHOW_UNREVIEWED === '1';
@@ -49,7 +49,7 @@ function statesFor(geom, pt) {
 const sources = [];
 for (const a of ['nps', 'fws', 'usfs', 'blm']) {
   const f = join(DATA, 'sources', `${a}.json`);
-  if (existsSync(f)) sources.push(...(await readJSON(f)));
+  if (existsSync(f)) sources.push(...(await readJSON(f)).map((r) => (r.agency === 'NPS' ? { ...r, category: categorize(r.designation, r.name) } : r)));
   else console.warn(`(missing source ${a})`);
 }
 
@@ -75,6 +75,7 @@ for (const f of (await listJSON(join(DATA, 'editorial'))).filter((f) => !f.split
 }
 
 const live = await readJSON(join(DATA, 'live', 'alerts.json'), { sites: {} });
+const covers = (await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {} })).sites;
 const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
 const directory = [];
@@ -111,7 +112,9 @@ for (const recs of groups.values()) {
     const st = rec.states?.length ? rec.states : statesFor(geometry, location);
     const bbox = geometry ? bboxOf(geometry) : null;
     const history = (ed.designationHistory || []).slice().sort((a, b) => a.date.localeCompare(b.date));
-    const first = history[0];
+    // Only claim "first protected" when no unreviewed event is older than the earliest reviewed one.
+    const rawHist = (raw.designationHistory || []).slice().sort((a, b) => a.date.localeCompare(b.date));
+    const first = history[0] && (SHOW_UNREVIEWED || !rawHist.length || rawHist[0].reviewed) ? history[0] : null;
     // "Since": the earliest event that names today's designation (Grand Canyon: national park established 1919, not the
     // 1975 enlargement); otherwise the latest establishing or redesignating action.
     const desig = String(rec.designation || '').toLowerCase().split(/ (?:&|and) /)[0];
@@ -153,7 +156,15 @@ for (const recs of groups.values()) {
         directions: rec.links?.directions || (location ? `https://www.google.com/maps/dir/?api=1&destination=${location.lat},${location.lon}` : null),
         ...(ed.links?.other ? { other: ed.links.other } : {}),
       },
-      images: [...(ed.images || []), ...(rec.images || [])],
+      cover: covers[slug] || null,
+      images: (() => {
+        const c = covers[slug];
+        // Agency photos only when credited to the agency (public domain); outside photographers' work stays off.
+        const PD = /^\s*(NPS|National Park Service|USFWS|U\.?S\.? ?Fish|USFS|Forest Service|BLM|Bureau of Land Management)\b|\bNPS\s*(Photo|\/)/i;
+        const rest = [...(ed.images || []), ...(rec.images || []).filter((i) => PD.test(i.credit || ''))];
+        if (!c) return rest;
+        return [{ url: c.url, title: c.title, alt: c.alt || c.title, credit: c.credit, license: c.license, licenseUrl: c.licenseUrl, filePage: c.filePage, source: c.source, cover: true }, ...rest.filter((i) => i.url !== c.url)];
+      })(),
       activities: rec.activities || [],
       topics: rec.topics || [],
       fees: rec.fees || [],

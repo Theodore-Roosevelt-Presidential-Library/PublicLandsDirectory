@@ -63,6 +63,7 @@ jobs:
           node scripts/sync-lands.mjs
           node scripts/merge.mjs
           node scripts/sync-tr.mjs
+          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/cover-images.json ]; then node scripts/sync-images.mjs || echo "cover sync failed; keeping last covers"; fi
           node scripts/merge.mjs
 
       - name: Re-merge editorial changes

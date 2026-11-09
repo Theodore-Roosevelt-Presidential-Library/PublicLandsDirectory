@@ -1,6 +1,6 @@
 {
   "slug": "saguaro-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1933-03-01",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2032, March 1, 1933",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2032-saguaro-national-monument-arizona"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Hoover.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -41,20 +55,30 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1994-10-04",
+      "date": "1994-10-14",
       "action": "redesignated",
       "designation": null,
       "name": null,
-      "indexText": "Redesignated Oct. 4, 1994",
+      "indexText": "Redesignated Saguaro National Park by act of Congress Oct. 14, 1994",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
         "citation": null
       },
@@ -63,10 +87,21 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "108 Stat. 3467 (Statutes at Large, govinfo): Saguaro National Park Establishment Act of 1994 (P.L. 103-364), Oct. 14, 1994",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3467.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: the Saguaro National Park Establishment Act was approved Oct. 14, 1994, not Oct. 4. Clinton is correct.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Redesignated Oct. 4, 1994"
     }
   ],
   "historySource": {

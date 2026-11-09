@@ -3,21 +3,78 @@
   "status": "draft",
   "designationHistory": [
     {
-      "date": "2009-03-30",
+      "date": "1909-07-31",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized March 30, 2009",
+      "indexText": "Mukuntuweap National Monument proclaimed July 31, 1909, incorporated in Zion National Monument by proclamation March 18, 1918",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Barack Obama",
-        "administration": "Barack Obama",
+        "type": "presidential-proclamation",
+        "signedBy": "William Howard Taft",
+        "administration": "William Howard Taft",
         "citation": null
       },
       "note": null,
       "sources": [
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 140",
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1919-11-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national park Nov. 19, 1919",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Obama statement signing OPLMA (P.L. 111-11), March 30, 2009",
+          "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-omnibus-public-land-management-act-2009"
+        },
+        {
+          "name": "41 Stat. 356 (Statutes at Large, govinfo): Zion National Park act, Nov. 19, 1919",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg356.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Extraction error: Zion was not authorized on March 30, 2009. That day Obama signed the Omnibus Public Land Management Act, which designated wilderness within Zion. Zion's designation history is Mukuntuweap NM (July 31, 1909), renamed Zion NM (March 18, 1918), and Zion National Park by act of Nov. 19, 1919 (Wilson). Drop this claim or reword it as wilderness designation.",
+        "by": "HistorianPanel accuracy review, batch 1"
+      }
+    },
+    {
+      "date": "1937-01-22",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Separate Zion National Monument proclaimed Jan. 22, 1937, incorporated in park July 11, 1956",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
         }
       ],
@@ -27,8 +84,8 @@
   ],
   "historySource": {
     "name": "The National Parks: Index 2012–2016 (National Park Service)",
-    "page": 140,
+    "page": 103,
     "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
-    "indexText": "Authorized March 30, 2009. Length: 169.3 miles."
+    "indexText": "Mukuntuweap National Monument proclaimed July 31, 1909, incorporated in Zion National Monument by proclamation March 18, 1918. Established as a national park Nov. 19, 1919. Separate Zion National Monument proclaimed Jan. 22, 1937, incorporated in park July 11, 1956. Other boundary changes: June 13, 1930; June 3, 1941; Feb. 20, 1960; Oct. 21, 1976; Nov. 12, 1996. Wilderness designated Mar. 30, 2009."
   }
 }

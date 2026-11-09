@@ -40,6 +40,7 @@ html,body{margin:0;height:100%;font:14px/1.4 "Frutiger Next","Segoe UI",Arial,sa
    sites   comma-separated slugs (overrides other filters)
    controls 1 = show the filter bar          color  agency (default) | tr
    boundaries 1 = draw every boundary (use with small selections)
+   site    a slug to open on load (deep link); q  a search term
 */
 const P = new URLSearchParams(location.search);
 const $ = (id) => document.getElementById(id);
@@ -66,7 +67,7 @@ fetch('/api/index.json').then((r) => r.json()).then((d) => {
   $('state').insertAdjacentHTML('beforeend', [...new Set(sites.flatMap((s) => s.st))].sort().map((s) => `<option>${s}</option>`).join(''));
   for (const k of ['q', 'agency', 'cat', 'state', 'tr']) if (P.get(k)) $(k).value = P.get(k);
   if (P.get('controls') === '1') $('bar').hidden = false;
-  ['agency', 'cat', 'state', 'tr'].forEach((k) => $(k).addEventListener('change', draw));
+  ['agency', 'cat', 'state', 'tr'].forEach((k) => $(k).addEventListener('change', () => draw()));
   let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(draw, 150); });
   draw(true);
 });
@@ -86,13 +87,26 @@ function outline(s) {
   return fetch(`/boundaries/${s.s}.geojson`).then((r) => r.ok ? r.json() : null).then((f) => f && L.geoJSON(f, { style: { color: '#1B4532', weight: 2, fillColor: '#8FC895', fillOpacity: .3 } }).bindPopup(popup(s)).addTo(shapes)).catch(() => null);
 }
 
+// Deep linking: keep this page's URL in sync, and tell the host page (embed.js) so it can mirror the state in its own URL.
+function syncState(extra = {}) {
+  const q = new URLSearchParams(location.search);
+  for (const k of ['q', 'agency', 'cat', 'state', 'tr']) { const v = $(k).value.trim(); v ? q.set(k, v) : q.delete(k); }
+  for (const [k, v] of Object.entries(extra)) v ? q.set(k, v) : q.delete(k);
+  history.replaceState(null, '', `${location.pathname}?${q}`);
+  if (window.parent !== window) {
+    const state = Object.fromEntries(['q', 'agency', 'cat', 'state', 'tr', 'site'].map((k) => [k, q.get(k) || '']));
+    window.parent.postMessage({ type: 'pld:map-state', frame: P.get('frame') || '', state }, '*');
+  }
+}
+
 function draw(first) {
+  if (!first) syncState({ site: '' });
   const list = selected().filter((s) => s.lat != null);
   pts.clearLayers(); shapes.clearLayers();
   $('count').textContent = `${list.length.toLocaleString()} places`;
   for (const s of list) {
     const m = L.circleMarker([s.lat, s.lon], { radius: list.length > 300 ? 4 : 6, weight: 1, color: '#fff', fillColor: colorBy === 'tr' ? TRC(s.tr) : (COLORS[s.a[0]] || '#555'), fillOpacity: .95 }).bindPopup(popup(s));
-    m.on('click', () => { shapes.clearLayers(); outline(s); });
+    m.on('click', () => { shapes.clearLayers(); outline(s); syncState({ site: s.s }); });
     m.addTo(pts);
   }
   const showAll = P.get('boundaries') === '1' || list.length <= 12;
@@ -104,5 +118,10 @@ function draw(first) {
     if (b && b.isValid()) map.fitBounds(b, { padding: [20, 20], maxZoom: 11 });
   };
   if (showAll) Promise.all(list.slice(0, 60).map(outline)).then(fit); else if (!first || list.length < sites.length) fit();
+  const deep = first && P.get('site') && sites.find((x) => x.s === P.get('site'));
+  if (deep && deep.lat != null) {
+    outline(deep).then(() => { if (shapes.getLayers().length) map.fitBounds(shapes.getBounds(), { padding: [20, 20], maxZoom: 11 }); });
+    L.popup().setLatLng([deep.lat, deep.lon]).setContent(popup(deep)).openOn(map);
+  }
 }
 </script></body></html>

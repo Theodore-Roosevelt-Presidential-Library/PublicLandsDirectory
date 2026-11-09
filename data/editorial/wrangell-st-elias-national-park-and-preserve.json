@@ -1,6 +1,6 @@
 {
   "slug": "wrangell-st-elias-national-park-and-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1980-12-02",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 23",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "ANILCA, Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

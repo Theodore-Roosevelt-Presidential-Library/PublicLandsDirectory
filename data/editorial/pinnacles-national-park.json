@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Conflict in the primary record: the Statutes at Large margin heading says Jan. 16, 1908 (the Index's date), but the proclamation's signing clause, in both the Statutes and the APP, reads 'twenty-eighth day of January, 1908.' President (T. Roosevelt) and authority are right. Check the original at NARA (RG 11) before publishing a day.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2013-01-10",
@@ -41,10 +47,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 34",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "P.L. 112-245, Pinnacles National Park Act (H.R. 3641), approved Jan. 10, 2013",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ245/html/PLAW-112publ245.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Obama.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

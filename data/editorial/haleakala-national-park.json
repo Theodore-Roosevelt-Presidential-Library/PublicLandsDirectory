@@ -1,6 +1,6 @@
 {
   "slug": "haleakala-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1916-08-01",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "39 Stat. 432 (Statutes at Large, govinfo): Hawaii National Park act, Aug. 1, 1916",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg432.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1960-09-13",
@@ -41,10 +51,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "74 Stat. 881 (Statutes at Large, govinfo): act approved Sept. 13, 1960 establishing Haleakala NP",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-74/pdf/STATUTE-74-Pg881.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 86-744), Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,6 +1,6 @@
 {
   "slug": "guadalupe-mountains-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1966-10-15",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "80 Stat. 920 (Statutes at Large, govinfo): Guadalupe Mountains National Park act, Oct. 15, 1966",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg920.pdf"
+        },
+        {
+          "name": "American Presidency Project: LBJ remarks signing seven conservation bills, Oct. 15, 1966",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-ceremony-for-seven-conservation-bills"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 89-667), LBJ.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1972-09-30",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS Guadalupe Mountains 50th anniversary release",
+          "url": "https://www.nps.gov/gumo/learn/news/gumo50th.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative establishment; Nixon in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

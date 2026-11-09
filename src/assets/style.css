@@ -50,6 +50,7 @@ h3 { font-size: 1.3rem; margin: 1.2em 0 .4em; }
 .results li a { display: block; text-decoration: none; color: var(--ink); border: 1px solid #e3dfd3; border-radius: var(--radius); overflow: hidden; height: 100%; background: #fff; transition: box-shadow .15s; }
 .results li a:hover { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
 .results .thumb { aspect-ratio: 16/9; background: var(--sand) center/cover no-repeat; position: relative; }
+.results .thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .results .thumb.none { background: linear-gradient(135deg, var(--forest), var(--night)); }
 .results .badge { position: absolute; left: 8px; top: 8px; background: rgba(9,42,77,.85); color: #fff; font: 600 .7rem var(--ui); padding: 3px 7px; border-radius: 3px; text-transform: uppercase; letter-spacing: .05em; }
 .results .badge.alert { left: auto; right: 8px; background: var(--orange); }
@@ -72,7 +73,8 @@ h3 { font-size: 1.3rem; margin: 1.2em 0 .4em; }
 .hero-inner { position: relative; color: #fff; padding-bottom: 24px; width: 100%; }
 .hero h1 { color: #fff; text-shadow: 0 2px 12px rgba(0,0,0,.4); }
 .eyebrow { font: 600 .8rem var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--yellow); margin: 0 0 6px; }
-.credit { font: .75rem var(--ui); opacity: .85; margin: 0; }
+.credit { font: .75rem var(--ui); opacity: .9; margin: 0; }
+.credit a { color: #fff; }
 .grid { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 40px; margin-top: 30px; }
 @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } .side { order: -1; } }
 .block { margin-bottom: 36px; }
@@ -91,7 +93,10 @@ h3 { font-size: 1.3rem; margin: 1.2em 0 .4em; }
 .timeline time { font-weight: 700; color: var(--forest); }
 @media (max-width: 600px) { .timeline li { grid-template-columns: 1fr; gap: 0; } }
 .chips { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
-.chips li { font: .82rem var(--ui); background: var(--sand-l); border: 1px solid #e3dfd3; padding: 3px 9px; border-radius: 999px; }
+.chips li { font: .82rem var(--ui); background: var(--sand-l); border: 1px solid #e3dfd3; border-radius: 999px; }
+.chips li a { display: block; padding: 3px 9px; color: var(--ink); text-decoration: none; }
+.chips li a:hover { color: var(--forest); text-decoration: underline; }
+.chips li:hover { border-color: var(--forest); }
 .cards-mini { padding-left: 18px; }
 .cards-mini li { margin-bottom: 8px; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }

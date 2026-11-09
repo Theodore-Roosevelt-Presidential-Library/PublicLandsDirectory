@@ -1,6 +1,6 @@
 {
   "slug": "great-sand-dunes-national-park-and-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1932-03-17",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 39",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1994, March 17, 1932",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1994-great-sand-dunes-national-monument-colorado"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Hoover.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2004-09-24",
@@ -41,10 +55,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 39",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS: Great Sand Dunes founding legislation timeline",
+          "url": "https://www.nps.gov/articles/000/great-sand-dunes-founding-legislation-a-timeline.htm"
+        },
+        {
+          "name": "Federal Register, Sept. 24, 2004 (69 FR, doc. 04-21473)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20081105110837/http://edocket.access.gpo.gov/2004/04-21473.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative: Secretary Norton's designation was published in the Federal Register Sept. 24, 2004, under the Great Sand Dunes NP and Preserve Act of Nov. 22, 2000 (authorityType: secretarial-order). G.W. Bush in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

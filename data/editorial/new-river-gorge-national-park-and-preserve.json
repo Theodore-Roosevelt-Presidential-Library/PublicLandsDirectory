@@ -1,6 +1,6 @@
 {
   "slug": "new-river-gorge-national-park-and-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1978-11-10",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 112",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+          "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978 authorized New River Gorge National River. Carter. (The park-and-preserve redesignation came Dec. 27, 2020, not in this batch.)",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

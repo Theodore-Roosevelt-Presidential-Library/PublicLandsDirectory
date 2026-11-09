@@ -12,8 +12,10 @@
   $('admin').insertAdjacentHTML('beforeend', admins.sort().map((a) => `<option>${a}</option>`).join(''));
   if (!admins.length) $('admin').closest('label').hidden = true;
 
+  const acts = Object.entries(sites.flatMap((x) => x.act).reduce((m, a) => ((m[a] = (m[a] || 0) + 1), m), {})).sort((a, b) => a[0].localeCompare(b[0]));
+  $('act').insertAdjacentHTML('beforeend', acts.map(([a, n]) => `<option value="${a.replace(/"/g, '&quot;')}">${a.replace(/</g, '&lt;')} (${n})</option>`).join(''));
   const params = new URLSearchParams(location.search);
-  for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr']) if (params.get(k)) $(k).value = params.get(k);
+  for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr', 'act']) if (params.get(k)) $(k).value = params.get(k);
   if (params.get('alerts')) $('alerts').checked = true;
 
   const norm = (s) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
@@ -24,11 +26,11 @@
   const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
   function apply() {
-    const tr = $('tr').value, q = norm($('q').value.trim()), c = $('cat').value, a = $('agency').value, st = $('state').value, ad = $('admin').value, al = $('alerts').checked;
+    const act = $('act').value, tr = $('tr').value, q = norm($('q').value.trim()), c = $('cat').value, a = $('agency').value, st = $('state').value, ad = $('admin').value, al = $('alerts').checked;
     const terms = q.split(/\s+/).filter(Boolean);
-    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
+    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!act || s.act.includes(act)) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
     const p = new URLSearchParams();
-    for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr']) if ($(k).value) p.set(k, $(k).value);
+    for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr', 'act']) if ($(k).value) p.set(k, $(k).value);
     if (al) p.set('alerts', '1'); if (view !== 'list') p.set('view', view);
     history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
     $('count').textContent = `${filtered.length.toLocaleString()} place${filtered.length === 1 ? '' : 's'}`;
@@ -37,7 +39,7 @@
   }
   function card(s) {
     const meta = [CAT[s.c], s.a.join(' / '), s.st.join(', ')].filter(Boolean).join(' · ');
-    return `<li><a href="/sites/${s.s}/"><div class="thumb${s.img ? '' : ' none'}"${s.img ? ` style="background-image:url('${esc(s.img)}?width=480')"` : ''}><span class="badge">${esc(s.a[0])}</span>${s.tr.length ? `<span class="badge tr">T.R.</span>` : ''}${s.al ? `<span class="badge alert">${s.al} alert${s.al > 1 ? 's' : ''}</span>` : ''}</div><div class="txt"><h3>${esc(s.n)}</h3><p>${esc(meta)}${s.y ? ` · Since ${s.y}` : ''}</p></div></a></li>`;
+    return `<li><a href="/sites/${s.s}/"><div class="thumb${s.img ? '' : ' none'}">${s.img ? `<img loading="lazy" decoding="async" src="${esc(s.img)}" alt="">` : ''}<span class="badge">${esc(s.a[0])}</span>${s.tr.length ? `<span class="badge tr">T.R.</span>` : ''}${s.al ? `<span class="badge alert">${s.al} alert${s.al > 1 ? 's' : ''}</span>` : ''}</div><div class="txt"><h3>${esc(s.n)}</h3><p>${esc(meta)}${s.y ? ` · Since ${s.y}` : ''}</p></div></a></li>`;
   }
   function more() {
     const next = filtered.slice(shown, shown + PAGE);
@@ -64,7 +66,16 @@
   }
   document.querySelectorAll('.toggle button').forEach((b) => b.addEventListener('click', () => setView(b.dataset.view)));
   let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 120); });
-  ['cat', 'agency', 'state', 'admin', 'tr', 'alerts'].forEach((k) => $(k).addEventListener('change', apply));
+  ['cat', 'agency', 'state', 'admin', 'tr', 'act', 'alerts'].forEach((k) => $(k).addEventListener('change', apply));
   $('more').addEventListener('click', more);
+  // Infinite scroll: load the next page as the end of the list comes into view.
+  const sentinel = document.createElement('div');
+  sentinel.setAttribute('aria-hidden', 'true');
+  $('results').after(sentinel);
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting) && view === 'list' && shown < filtered.length) more();
+    }, { rootMargin: '800px 0px' }).observe(sentinel);
+  }
   setView(view);
 })();

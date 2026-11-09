@@ -1,6 +1,6 @@
 {
   "slug": "grand-canyon-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1893-02-20",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "USFS Region 3, The Early Days (npshistory.com): Grand Canyon reserve approved Feb. 20, 1893",
+          "url": "https://npshistory.com/publications/usfs/region/3/early-days/1/sec1.htm"
+        },
+        {
+          "name": "govinfo: Centennial of Grand Canyon National Park",
+          "url": "https://www.govinfo.gov/features/centennial-grand-canyon-national-park"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Benjamin Harrison proclamation.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1906-11-28",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 694, Nov. 28, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-694-setting-aside-game-preserve-grand-canyon-forest-reserve-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "T. Roosevelt. (The separate 'Grand Canyon National Game Preserve' proclamation, No. 814, followed June 23, 1908.)",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1908-01-11",
@@ -63,10 +87,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 794, Jan. 11, 1908",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-794-setting-aside-grand-canyon-national-monument-arizona"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "T. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1919-02-26",
@@ -85,10 +123,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "40 Stat. 1175 (Statutes at Large, govinfo): Grand Canyon National Park act, Feb. 26, 1919",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1175.pdf"
+        },
+        {
+          "name": "govinfo: Centennial of Grand Canyon National Park",
+          "url": "https://www.govinfo.gov/features/centennial-grand-canyon-national-park"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1919-08-15",
@@ -107,10 +159,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "ASU Library Grand Canyon centennial chronology 1917-1928",
+          "url": "https://lib.asu.edu/grand100/history/1917-1928"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative transfer (NPS took control from the Forest Service), not a designation. Wilson in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1932-12-22",
@@ -129,10 +191,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2022, Dec. 22, 1932",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2022-grand-canyon-national-monument"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Hoover.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1969-01-20",
@@ -142,19 +218,33 @@
       "indexText": "Marble Canyon National Monument proclaimed Jan. 20, 1969",
       "authority": {
         "type": "presidential-proclamation",
-        "signedBy": null,
-        "administration": null,
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
         "citation": null
       },
-      "note": "Dated on a day the presidency changed hands (Richard Nixon's first day); administration to confirm.",
+      "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3889, Jan. 20, 1969 (Lyndon B. Johnson)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3889-establishing-marble-canyon-national-monument-arizona"
+        },
+        {
+          "name": "American Presidency Project: LBJ statement on signing five proclamations, Jan. 20, 1969",
+          "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-five-proclamations-adding-lands-the-national-park"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and proclamation are right, but the claim leaves out the President because the date is inauguration day. LBJ signed it on his last morning, before Nixon's noon oath.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1975-01-03",
@@ -173,10 +263,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 25",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "88 Stat. 2089 (Statutes at Large, govinfo): Grand Canyon National Park Enlargement Act, approved Jan. 3, 1975",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg2089.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 93-620), Ford.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

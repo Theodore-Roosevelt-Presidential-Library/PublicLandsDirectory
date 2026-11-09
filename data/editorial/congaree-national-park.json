@@ -1,6 +1,6 @@
 {
   "slug": "congaree-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1976-10-18",
@@ -19,10 +19,24 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "90 Stat. 2517 (Statutes at Large, govinfo): Congaree Swamp National Monument act, Oct. 18, 1976",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2517.pdf"
+        },
+        {
+          "name": "American Presidency Project: Ford statement (note: approved Oct. 18, 1976, P.L. 94-545)",
+          "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-designating-forest-acreage-the-congaree-swamp-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Ford.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2003-11-10",
@@ -41,10 +55,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "P.L. 108-108, sec. 135 (govinfo), approved Nov. 10, 2003",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ108/html/PLAW-108publ108.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Redesignated by FY2004 Interior Appropriations Act, sec. 135. Signed by G.W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

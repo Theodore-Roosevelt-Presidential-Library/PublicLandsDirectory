@@ -1,6 +1,6 @@
 {
   "slug": "cuyahoga-valley-national-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1974-12-27",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "88 Stat. 1784 (Statutes at Large, govinfo): Cuyahoga Valley NRA act, approved Dec. 27, 1974",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1784.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 93-555), Ford. This authorized it as a national recreation area.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1975-06-26",
@@ -41,10 +51,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Encyclopedia of Cleveland History (Case Western): Cuyahoga Valley National Park",
+          "url": "https://case.edu/ech/articles/c/cuyahoga-valley-national-park"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative establishment of the national recreation area; Ford in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2000-10-11",
@@ -63,10 +83,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "P.L. 106-291, sec. 149 (govinfo), approved Oct. 11, 2000",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ291/html/PLAW-106publ291.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Redesignated as a national park by the FY2001 Interior Appropriations Act, sec. 149. Signed by Clinton.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {
