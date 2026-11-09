@@ -70,9 +70,9 @@ Designation histories, guide text, social links, AllTrails links and Roosevelt c
 Planned development, roughly in order. Status as of November 2026.
 
 **Content gaps (in progress)**
-- Official websites: 1,284 of 1,346 sites verified. Remaining: 31 BLM, 23 FWS and 17 Forest Service units to match by hand.
-- Cover photos: about 1,000 of 1,355 sites have a cleared image. A wider Commons search (public domain and CC0 only) is filling the rest; every automatic pick waits for review on `/covers/`.
-- AllTrails: park pages and popular trails for national parks and T.R.-connected sites first, then the remaining sites in batches. A data partnership with AllTrails would cover everything and keep it in sync.
+- Official websites: 1,293 of 1,355 sites have one. Remaining: 31 BLM, 23 FWS and 17 Forest Service units to match by hand.
+- Cover photos: 1,083 of 1,355 sites have a cleared image. The other 272 need a photo found by hand or from the agencies; every automatic pick waits for review on `/covers/`.
+- AllTrails: 128 sites have park pages and popular trails. Next: the 88 national parks, forests and T.R. sites with no match (mostly combined national forests that AllTrails lists under joined names), then everything else in batches. A data partnership with AllTrails would cover everything and keep it in sync.
 - Guide text written by the Library (overview, what makes it special, see and do), drafted by site and hidden until reviewed.
 
 **Research batches (designation histories, HistorianPanel review)**
