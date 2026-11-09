@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sample page with the embedded directory | Public Lands Directory</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<script src="/embed/embed.js" async></script>
+<style>body{margin:0;font:16px/1.5 Georgia,serif;color:#222;background:#f4f1ea}header{background:#333;color:#fff;padding:18px 24px}header b{font:600 1.2rem system-ui,sans-serif}main{max-width:1200px;margin:0 auto;padding:24px}p.note{font:14px system-ui,sans-serif;color:#666}</style>
+</head><body>
+<header><b>Example Visitor Bureau</b> · a sample host page</header>
+<main>
+<h1>Explore public lands</h1>
+<p class="note">This is a stand-in for someone else's website. Everything below the line is the Public Lands Directory, embedded with one tag.</p>
+<hr>
+<div id="slot"></div>
+</main>
+<script>
+// Pass this page's own query (search, agency, state, tr) through as attributes, so the builder's settings show here.
+const p = new URLSearchParams(location.search), el = document.createElement('public-lands-directory');
+for (const k of ['search', 'agency', 'state', 'tr', 'site']) if (p.get(k)) el.setAttribute(k, p.get(k));
+document.getElementById('slot').appendChild(el);
+</script>
+</body></html>

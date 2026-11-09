@@ -32,6 +32,15 @@ textarea{width:100%;font:.82rem/1.4 ui-monospace,Menlo,monospace;padding:10px;bo
     <label for="m-code">Code to paste</label><textarea id="m-code" rows="4" readonly></textarea>
     <p><button class="btn" id="m-copy" type="button">Copy map code</button></p>
     <div id="m-preview" style="margin-bottom:24px"></div>
+    <h2>The whole directory</h2>
+    <p>Put the full directory on your own page: the search, the results and every site's full page, with maps, history, alerts and the Roosevelt connection, without the Library's banner. Readers click through without leaving your site. The frame grows to fit what it shows, and the page they are on is kept in your page's address, so links and the back button work.</p>
+    <label for="d-search">Start with a search (optional)</label><input id="d-search" placeholder="bison, Medora, canoeing">
+    <label for="d-agency">Agency</label><select id="d-agency"><option value="">All agencies</option><option value="NPS">National Park Service</option><option value="FWS">Fish and Wildlife Service</option><option value="USFS">Forest Service</option><option value="BLM">Bureau of Land Management</option></select>
+    <label for="d-state">State (two-letter code)</label><input id="d-state" maxlength="2" placeholder="ND">
+    <label for="d-tr">Roosevelt connection</label><select id="d-tr"><option value="">Any</option><option value="any">Only places with a Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="visited">T.R. was here</option><option value="both">Protected by T.R. and visited</option></select>
+    <label for="d-code">Code to paste</label><textarea id="d-code" rows="4" readonly></textarea>
+    <p><button class="btn" id="d-copy" type="button">Copy directory code</button> <a id="d-demo" href="/embed/directory-demo.html" target="_blank" rel="noopener">See it on a sample page</a></p>
+    <p class="muted">Where scripts are not allowed, use an iframe instead. It works the same but cannot resize itself, so give it a fixed height: <code id="d-iframe"></code></p>
     <h2>Other ways to embed</h2>
     <p><strong>Iframe map</strong> (works where scripts are not allowed, such as some content management systems):</p>
     <textarea id="iframe" rows="3" readonly></textarea>
@@ -56,6 +65,17 @@ function update() {
 ['site', 'view', 'theme'].forEach((k) => $(k).addEventListener('change', update));
 $('copy').onclick = () => { navigator.clipboard.writeText($('code').value); $('copy').textContent = 'Copied'; setTimeout(() => ($('copy').textContent = 'Copy code'), 1500); };
 update();
+function dirUpdate() {
+  const a = { search: $('d-search').value.trim(), agency: $('d-agency').value, state: $('d-state').value.trim().toUpperCase(), tr: $('d-tr').value };
+  const attrs = Object.entries(a).filter(([, v]) => v).map(([k, v]) => ` ${k}="${v.replace(/"/g, '')}"`).join('');
+  $('d-code').value = `<script src="${BASE}/embed/embed.js" async><\/script>\n<public-lands-directory${attrs}></public-lands-directory>`;
+  const qs = new URLSearchParams({ embed: '1', ...(a.search && { q: a.search }), ...(a.agency && { agency: a.agency }), ...(a.state && { state: a.state }), ...(a.tr && { tr: a.tr }) });
+  $('d-iframe').textContent = `<iframe src="${BASE}/?${qs}" width="100%" height="1400" style="border:0" title="Public Lands Directory"></iframe>`;
+  $('d-demo').href = `/embed/directory-demo.html?${new URLSearchParams(Object.entries(a).filter(([, v]) => v))}`;
+}
+['d-search', 'd-agency', 'd-state', 'd-tr'].forEach((k) => $(k).addEventListener('input', dirUpdate));
+$('d-copy').onclick = () => { navigator.clipboard.writeText($('d-code').value); $('d-copy').textContent = 'Copied'; setTimeout(() => ($('d-copy').textContent = 'Copy directory code'), 1500); };
+dirUpdate();
 function mapUpdate() {
   const a = { agency: $('m-agency').value, state: $('m-state').value.trim().toUpperCase(), tr: $('m-tr').value, sites: $('m-sites').value.replace(/\s+/g, '') };
   const attrs = Object.entries(a).filter(([, v]) => v).map(([k, v]) => `${k}="${v}"`).join(' ') + ($('m-controls').checked ? ' controls' : '');

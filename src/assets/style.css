@@ -137,3 +137,10 @@ h3 { font-size: 1.3rem; margin: 1.2em 0 .4em; }
 .wild li{margin:.3em 0}
 .trails li{margin:.3em 0}
 .small{font-size:.85em}
+/* Embedded in another site (<public-lands-directory>): no masthead, home banner or footer */
+html.embedded .masthead, html.embedded .foot, html.embedded .intro { display: none; }
+html.embedded body { background: transparent; }
+html.embedded .finder { padding-top: 12px; }
+.embed-back { max-width: 1180px; margin: 0 auto; padding: 10px 20px 0; font-size: .9rem; }
+.embed-back a { font-weight: 600; color: var(--forest, #1B4532); text-decoration: none; }
+.embed-back a:hover { text-decoration: underline; }

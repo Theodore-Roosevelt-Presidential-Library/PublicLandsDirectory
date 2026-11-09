@@ -42,6 +42,7 @@ function layout({ title, description, path, body, head = '', jsonld = null, imag
 <meta name="twitter:card" content="${image ? 'summary_large_image' : 'summary'}">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/style.css">
+<script src="/assets/embedded.js"></script>
 ${head}
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head><body>

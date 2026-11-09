@@ -73,7 +73,8 @@
   const sentinel = document.createElement('div');
   sentinel.setAttribute('aria-hidden', 'true');
   $('results').after(sentinel);
-  if ('IntersectionObserver' in window) {
+  // Embedded frames grow to fit their content, so the end of the list is always "in view"; use the button there.
+  if ('IntersectionObserver' in window && !document.documentElement.classList.contains('embedded')) {
     new IntersectionObserver((entries) => {
       if (entries.some((e) => e.isIntersecting) && view === 'list' && shown < filtered.length) more();
     }, { rootMargin: '800px 0px' }).observe(sentinel);
