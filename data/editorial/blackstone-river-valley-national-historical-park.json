@@ -1,0 +1,37 @@
+{
+  "slug": "blackstone-river-valley-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "2014-12-19",
+      "action": "established",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress established Blackstone River Valley National Historical Park in Massachusetts and Rhode Island in the defense authorization act for 2015.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 113-291, sec. 3031, 128 Stat. 3767",
+        "signedBy": "Barack Obama"
+      },
+      "note": "The act says the park 'is established'; the NPS Index lists it as 'authorized' on the same date. The John H. Chafee Blackstone River Valley National Heritage Corridor (1986) is a separate heritage-area designation and is not listed here.",
+      "sources": [
+        {
+          "name": "Public Law 113-291 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 93)",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

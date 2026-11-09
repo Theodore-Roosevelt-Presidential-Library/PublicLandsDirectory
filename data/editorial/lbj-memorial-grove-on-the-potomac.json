@@ -1,0 +1,37 @@
+{
+  "slug": "lbj-memorial-grove-on-the-potomac",
+  "designationHistory": [
+    {
+      "date": "1973-12-28",
+      "action": "authorized",
+      "designation": "memorial grove",
+      "name": "Lyndon Baines Johnson Memorial Grove on the Potomac",
+      "indexText": "Congress authorized the Interior Department to work with a private committee to create a living memorial grove to Lyndon B. Johnson in Lady Bird Johnson Park.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 93-211 (joint resolution), 87 Stat. 909",
+        "signedBy": "Richard Nixon"
+      },
+      "note": "The NPS Index gives a dedication date of Sept. 27, 1974, while the NPS History Collection quotes Lady Bird Johnson at a dedication on April 6, 1976; the dedication is not a designation and is not listed.",
+      "sources": [
+        {
+          "name": "Public Law 93-211, 87 Stat. 909 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg909.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 43), 'Authorized Dec. 28, 1973'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

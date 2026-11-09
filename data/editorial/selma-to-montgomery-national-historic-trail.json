@@ -1,0 +1,37 @@
+{
+  "slug": "selma-to-montgomery-national-historic-trail",
+  "designationHistory": [
+    {
+      "date": "1996-11-12",
+      "action": "designated",
+      "designation": "National Historic Trail",
+      "name": null,
+      "indexText": "Congress designated the Selma to Montgomery National Historic Trail in the Omnibus Parks and Public Lands Management Act of 1996.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 104-333, div. I, sec. 501, 110 Stat. 4153",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 104-333 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ333/html/PLAW-104publ333.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Nov. 12, 1996'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

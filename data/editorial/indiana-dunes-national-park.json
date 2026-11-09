@@ -1,0 +1,68 @@
+{
+  "slug": "indiana-dunes-national-park",
+  "designationHistory": [
+    {
+      "date": "1966-11-05",
+      "action": "authorized",
+      "designation": "National Lakeshore",
+      "name": "Indiana Dunes National Lakeshore",
+      "indexText": "Congress authorized the Secretary of the Interior to establish Indiana Dunes National Lakeshore on the southern shore of Lake Michigan.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 89-761, 80 Stat. 1309",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 89-761, 80 Stat. 1309 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg1309.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Indiana), 'Authorized Nov. 5, 1966'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2019-02-15",
+      "action": "redesignated",
+      "designation": "National Park",
+      "name": null,
+      "indexText": "Congress renamed Indiana Dunes National Lakeshore as Indiana Dunes National Park in the Consolidated Appropriations Act, 2019.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-6, div. E, title I, sec. 115, 133 Stat. 232",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": "The section is headed 'Indiana Dunes National Lakeshore retitled'; it replaces 'National Lakeshore' with 'National Park' in the 1966 act.",
+      "sources": [
+        {
+          "name": "Public Law 116-6 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ6/html/PLAW-116publ6.htm"
+        },
+        {
+          "name": "NPS History Collection, Indiana Dunes (establishment dates 1966 and 2019)",
+          "url": "https://npshistory.com/publications/indu/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

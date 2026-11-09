@@ -1,0 +1,37 @@
+{
+  "slug": "baltimore-washington-parkway",
+  "designationHistory": [
+    {
+      "date": "1950-08-03",
+      "action": "authorized",
+      "designation": "Parkway",
+      "name": null,
+      "indexText": "Congress made the Baltimore-Washington Parkway part of the park system of the National Capital and placed it under the National Park Service.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Harry S. Truman",
+        "citation": "Act of Aug. 3, 1950, ch. 525 (Public Law 81-643), 64 Stat. 400",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": "The parkway opened to traffic in October 1954 (NPS History Collection).",
+      "sources": [
+        {
+          "name": "64 Stat. 400, Public Law 643 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-Pg400.pdf"
+        },
+        {
+          "name": "NPS History Collection, Baltimore-Washington Parkway",
+          "url": "https://npshistory.com/publications/bawa/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,728 @@
+[
+ {
+  "slug": "pilot-knob-national-wildlife-refuge",
+  "name": "Pilot Knob National Wildlife Refuge",
+  "states": [
+   "MO"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/pilot-knob"
+ },
+ {
+  "slug": "pixley-national-wildlife-refuge",
+  "name": "Pixley National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/pixley"
+ },
+ {
+  "slug": "pleasant-lake-national-wildlife-refuge",
+  "name": "Pleasant Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/pleasant-lake"
+ },
+ {
+  "slug": "pretty-rock-national-wildlife-refuge",
+  "name": "Pretty Rock National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/pretty-rock"
+ },
+ {
+  "slug": "quillayute-needles-national-wildlife-refuge",
+  "name": "Quillayute Needles National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/quillayute-needles"
+ },
+ {
+  "slug": "rabb-lake-national-wildlife-refuge",
+  "name": "Rabb Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rabb-lake"
+ },
+ {
+  "slug": "rachel-carson-national-wildlife-refuge",
+  "name": "Rachel Carson National Wildlife Refuge",
+  "states": [
+   "ME"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rachel-carson"
+ },
+ {
+  "slug": "reelfoot-national-wildlife-refuge",
+  "name": "Reelfoot National Wildlife Refuge",
+  "states": [
+   "KY",
+   "TN"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/reelfoot"
+ },
+ {
+  "slug": "rio-mora-national-wildlife-refuge-and-conservation-area",
+  "name": "Rio Mora National Wildlife Refuge and Conservation Area",
+  "states": [
+   "NM"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rio-mora-national-wildlife-refuge-and-conservation-area"
+ },
+ {
+  "slug": "rock-lake-national-wildlife-refuge",
+  "name": "Rock Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rock-lake"
+ },
+ {
+  "slug": "rocky-flats-national-wildlife-refuge",
+  "name": "Rocky Flats National Wildlife Refuge",
+  "states": [
+   "CO"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rocky-flats"
+ },
+ {
+  "slug": "rocky-mountain-arsenal-national-wildlife-refuge",
+  "name": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "states": [
+   "CO"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rocky-mountain-arsenal"
+ },
+ {
+  "slug": "rose-atoll-national-wildlife-refuge",
+  "name": "Rose Atoll National Wildlife Refuge",
+  "states": [
+   "AS"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rose-atoll"
+ },
+ {
+  "slug": "rose-lake-national-wildlife-refuge",
+  "name": "Rose Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/rose-lake"
+ },
+ {
+  "slug": "ruby-lake-national-wildlife-refuge",
+  "name": "Ruby Lake National Wildlife Refuge",
+  "states": [
+   "NV"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/ruby-lake"
+ },
+ {
+  "slug": "sachuest-point-national-wildlife-refuge",
+  "name": "Sachuest Point National Wildlife Refuge",
+  "states": [
+   "RI"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sachuest-point"
+ },
+ {
+  "slug": "sacramento-national-wildlife-refuge",
+  "name": "Sacramento National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sacramento"
+ },
+ {
+  "slug": "sacramento-river-national-wildlife-refuge",
+  "name": "Sacramento River National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sacramento-river"
+ },
+ {
+  "slug": "saddle-mountain-national-wildlife-refuge",
+  "name": "Saddle Mountain National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/saddle-mountain"
+ },
+ {
+  "slug": "san-andres-national-wildlife-refuge",
+  "name": "San Andres National Wildlife Refuge",
+  "states": [
+   "NM"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/san-andres"
+ },
+ {
+  "slug": "san-juan-islands-national-wildlife-refuge",
+  "name": "San Juan Islands National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/san-juan-islands"
+ },
+ {
+  "slug": "school-section-lake-national-wildlife-refuge",
+  "name": "School Section Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/school-section-lake"
+ },
+ {
+  "slug": "seal-island-national-wildlife-refuge",
+  "name": "Seal Island National Wildlife Refuge",
+  "states": [
+   "ME"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/seal-island"
+ },
+ {
+  "slug": "seatuck-national-wildlife-refuge",
+  "name": "Seatuck National Wildlife Refuge",
+  "states": [
+   "NY"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/seatuck"
+ },
+ {
+  "slug": "selawik-national-wildlife-refuge",
+  "name": "Selawik National Wildlife Refuge",
+  "states": [
+   "AK"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/selawik"
+ },
+ {
+  "slug": "sevilleta-national-wildlife-refuge",
+  "name": "Sevilleta National Wildlife Refuge",
+  "states": [
+   "NM"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sevilleta"
+ },
+ {
+  "slug": "sheyenne-lake-national-wildlife-refuge",
+  "name": "Sheyenne Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sheyenne-lake"
+ },
+ {
+  "slug": "shiawassee-national-wildlife-refuge",
+  "name": "Shiawassee National Wildlife Refuge",
+  "states": [
+   "MI"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/shiawassee"
+ },
+ {
+  "slug": "sibley-lake-national-wildlife-refuge",
+  "name": "Sibley Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sibley-lake"
+ },
+ {
+  "slug": "silver-lake-national-wildlife-refuge",
+  "name": "Silver Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/silver-lake"
+ },
+ {
+  "slug": "silvio-o-conte-national-fish-and-wildlife-refuge",
+  "name": "Silvio O. Conte National Fish and Wildlife Refuge",
+  "states": [
+   "CT",
+   "MA",
+   "NH",
+   "VT"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/silvio-o-conte-national-fish-and-wildlife-refuge"
+ },
+ {
+  "slug": "slade-national-wildlife-refuge",
+  "name": "Slade National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/slade"
+ },
+ {
+  "slug": "snyder-lake-national-wildlife-refuge",
+  "name": "Snyder Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/snyder-lake"
+ },
+ {
+  "slug": "sonny-bono-salton-sea-national-wildlife-refuge",
+  "name": "Sonny Bono Salton Sea National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sonny-bono-salton-sea"
+ },
+ {
+  "slug": "southern-maryland-woodlands-national-wildlife-refuge",
+  "name": "Southern Maryland Woodlands National Wildlife Refuge",
+  "states": [
+   "MD"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/southern-maryland-woodlands"
+ },
+ {
+  "slug": "springwater-national-wildlife-refuge",
+  "name": "Springwater National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/springwater"
+ },
+ {
+  "slug": "stillwater-national-wildlife-refuge",
+  "name": "Stillwater National Wildlife Refuge",
+  "states": [
+   "NV"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/stillwater"
+ },
+ {
+  "slug": "stone-lakes-national-wildlife-refuge",
+  "name": "Stone Lakes National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/stone-lakes"
+ },
+ {
+  "slug": "stoney-slough-national-wildlife-refuge",
+  "name": "Stoney Slough National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/stoney-slough"
+ },
+ {
+  "slug": "storm-lake-national-wildlife-refuge",
+  "name": "Storm Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/storm-lake"
+ },
+ {
+  "slug": "stump-lake-national-wildlife-refuge",
+  "name": "Stump Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/stump-lake"
+ },
+ {
+  "slug": "sunburst-lake-national-wildlife-refuge",
+  "name": "Sunburst Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sunburst-lake"
+ },
+ {
+  "slug": "sutter-national-wildlife-refuge",
+  "name": "Sutter National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/sutter"
+ },
+ {
+  "slug": "swan-lake-national-wildlife-refuge",
+  "name": "Swan Lake National Wildlife Refuge",
+  "states": [
+   "MO"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/swan-lake"
+ },
+ {
+  "slug": "tallahatchie-national-wildlife-refuge",
+  "name": "Tallahatchie National Wildlife Refuge",
+  "states": [
+   "MS"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/tallahatchie"
+ },
+ {
+  "slug": "tamarac-national-wildlife-refuge",
+  "name": "Tamarac National Wildlife Refuge",
+  "states": [
+   "MN"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/tamarac"
+ },
+ {
+  "slug": "target-rock-national-wildlife-refuge",
+  "name": "Target Rock National Wildlife Refuge",
+  "states": [
+   "NY"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/target-rock"
+ },
+ {
+  "slug": "tennessee-national-wildlife-refuge",
+  "name": "Tennessee National Wildlife Refuge",
+  "states": [
+   "TN"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/tennessee"
+ },
+ {
+  "slug": "tetlin-national-wildlife-refuge",
+  "name": "Tetlin National Wildlife Refuge",
+  "states": [
+   "AK"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/tetlin"
+ },
+ {
+  "slug": "texas-point-national-wildlife-refuge",
+  "name": "Texas Point National Wildlife Refuge",
+  "states": [
+   "TX"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/texas-point"
+ },
+ {
+  "slug": "three-arch-rocks-national-wildlife-refuge",
+  "name": "Three Arch Rocks National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/three-arch-rocks"
+ },
+ {
+  "slug": "tomahawk-national-wildlife-refuge",
+  "name": "Tomahawk National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/tomahawk"
+ },
+ {
+  "slug": "toppenish-national-wildlife-refuge",
+  "name": "Toppenish National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/toppenish"
+ },
+ {
+  "slug": "trustom-pond-national-wildlife-refuge",
+  "name": "Trustom Pond National Wildlife Refuge",
+  "states": [
+   "RI"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/trustom-pond"
+ },
+ {
+  "slug": "two-ponds-national-wildlife-refuge",
+  "name": "Two Ponds National Wildlife Refuge",
+  "states": [
+   "CO"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/two-ponds"
+ },
+ {
+  "slug": "ul-bend-national-wildlife-refuge",
+  "name": "Ul Bend National Wildlife Refuge",
+  "states": [
+   "MT"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/ul-bend"
+ },
+ {
+  "slug": "upper-klamath-national-wildlife-refuge",
+  "name": "Upper Klamath National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/upper-klamath"
+ },
+ {
+  "slug": "upper-mississippi-river-national-wildlife-and-fish-refuge",
+  "name": "Upper Mississippi River National Wildlife and Fish Refuge",
+  "states": [
+   "IA",
+   "IL",
+   "MN",
+   "WI"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/upper-mississippi-river-national-wildlife-and-fish-refuge"
+ },
+ {
+  "slug": "upper-souris-national-wildlife-refuge",
+  "name": "Upper Souris National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/upper-souris"
+ },
+ {
+  "slug": "valentine-national-wildlife-refuge",
+  "name": "Valentine National Wildlife Refuge",
+  "states": [
+   "NE"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/valentine"
+ },
+ {
+  "slug": "valle-de-oro-national-wildlife-refuge",
+  "name": "Valle de Oro National Wildlife Refuge",
+  "states": [
+   "NM"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/valle-de-oro"
+ },
+ {
+  "slug": "wake-atoll-national-wildlife-refuge",
+  "name": "Wake Atoll National Wildlife Refuge",
+  "states": [],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wake-atoll"
+ },
+ {
+  "slug": "wallkill-river-national-wildlife-refuge",
+  "name": "Wallkill River National Wildlife Refuge",
+  "states": [
+   "NJ",
+   "NY"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wallkill-river"
+ },
+ {
+  "slug": "wallops-island-national-wildlife-refuge",
+  "name": "Wallops Island National Wildlife Refuge",
+  "states": [
+   "VA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wallops-island"
+ },
+ {
+  "slug": "wapato-lake-national-wildlife-refuge",
+  "name": "Wapato Lake National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wapato-lake"
+ },
+ {
+  "slug": "wassaw-national-wildlife-refuge",
+  "name": "Wassaw National Wildlife Refuge",
+  "states": [
+   "GA"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wassaw"
+ },
+ {
+  "slug": "wichita-mountains-wildlife-refuge",
+  "name": "Wichita Mountains Wildlife Refuge",
+  "states": [
+   "OK"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wichita-mountains-wildlife-refuge"
+ },
+ {
+  "slug": "wild-rice-lake-national-wildlife-refuge",
+  "name": "Wild Rice Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wild-rice-lake"
+ },
+ {
+  "slug": "willow-lake-national-wildlife-refuge",
+  "name": "Willow Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/willow-lake"
+ },
+ {
+  "slug": "wintering-river-national-wildlife-refuge",
+  "name": "Wintering River National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wintering-river"
+ },
+ {
+  "slug": "wood-lake-national-wildlife-refuge",
+  "name": "Wood Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/wood-lake"
+ },
+ {
+  "slug": "yukon-flats-national-wildlife-refuge",
+  "name": "Yukon Flats National Wildlife Refuge",
+  "states": [
+   "AK"
+  ],
+  "agency": "FWS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fws.gov/refuge/yukon-flats"
+ }
+]

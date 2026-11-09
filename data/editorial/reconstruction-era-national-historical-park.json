@@ -1,0 +1,68 @@
+{
+  "slug": "reconstruction-era-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "2017-01-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Reconstruction Era National Monument",
+      "indexText": "President Obama proclaimed Reconstruction Era National Monument in Beaufort County, South Carolina.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9567, 82 FR 6167",
+        "signedBy": "Barack Obama"
+      },
+      "note": "Signed Jan. 12, 2017, eight days before the end of the Obama administration; published Jan. 19, 2017.",
+      "sources": [
+        {
+          "name": "Proclamation 9567, Federal Register (federalregister.gov)",
+          "url": "https://www.federalregister.gov/documents/2017/01/19/2017-01363/establishment-of-the-reconstruction-era-national-monument"
+        },
+        {
+          "name": "NPS, Reconstruction Era Laws & Policies",
+          "url": "https://www.nps.gov/reer/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2019-03-12",
+      "action": "redesignated",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress redesignated Reconstruction Era National Monument as Reconstruction Era National Historical Park in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, sec. 2204, 133 Stat. 735",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "NPS, Reconstruction Era Laws & Policies",
+          "url": "https://www.nps.gov/reer/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

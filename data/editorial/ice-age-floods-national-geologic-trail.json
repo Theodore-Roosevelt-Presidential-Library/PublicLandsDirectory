@@ -1,0 +1,37 @@
+{
+  "slug": "ice-age-floods-national-geologic-trail",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "designated",
+      "designation": "National Geologic Trail",
+      "name": null,
+      "indexText": "Congress designated the Ice Age Floods National Geologic Trail across Montana, Idaho, Washington and Oregon in the Omnibus Public Land Management Act of 2009.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, sec. 5203, 123 Stat. 1155",
+        "signedBy": "Barack Obama"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 111-11 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+        },
+        {
+          "name": "NPS History Collection, Ice Age Floods NGT (designation March 30, 2009)",
+          "url": "https://npshistory.com/publications/iafl/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

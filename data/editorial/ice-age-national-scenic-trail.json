@@ -1,0 +1,37 @@
+{
+  "slug": "ice-age-national-scenic-trail",
+  "designationHistory": [
+    {
+      "date": "1980-10-03",
+      "action": "established",
+      "designation": "National Scenic Trail",
+      "name": null,
+      "indexText": "Congress established the Ice Age National Scenic Trail in Wisconsin by amending the National Trails System Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-370, 94 Stat. 1360",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 96-370, 94 Stat. 1360 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1360.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Oct. 3, 1980'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

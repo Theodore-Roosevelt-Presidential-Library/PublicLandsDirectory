@@ -1,0 +1,37 @@
+{
+  "slug": "new-philadelphia-national-historic-site",
+  "designationHistory": [
+    {
+      "date": "2022-12-29",
+      "action": "established",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "Congress established New Philadelphia National Historic Site in Illinois, the first town known to have been planned and registered by a free African American before the Civil War, in the Consolidated Appropriations Act, 2023.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Public Law 117-328, div. DD, sec. 601, 136 Stat. 5601",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": "The act uses 'there is established' with no acquisition condition. The description of the town follows the act's own purpose clause.",
+      "sources": [
+        {
+          "name": "Public Law 117-328 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ328/html/PLAW-117publ328.htm"
+        },
+        {
+          "name": "NPS, New Philadelphia Laws & Policies",
+          "url": "https://www.nps.gov/neph/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

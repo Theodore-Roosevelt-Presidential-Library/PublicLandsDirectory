@@ -1,0 +1,72 @@
+{
+  "slug": "anacostia-park",
+  "designationHistory": [
+    {
+      "date": "1918-08-31",
+      "action": "designated",
+      "designation": "park (District of Columbia park system)",
+      "name": null,
+      "indexText": "Congress declared the reclaimed Anacostia River flats part of the District of Columbia park system and named them Anacostia Park.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Woodrow Wilson",
+        "citation": "Act of Aug. 31, 1918, ch. 164 (Public No. 208, 65th Cong.), 40 Stat. 918, 950",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": "The designation is a proviso in an appropriations act, not a stand-alone park law.",
+      "sources": [
+        {
+          "name": "District of Columbia appropriations act, Aug. 31, 1918, 40 Stat. 918 (Anacostia Park proviso at p. 950) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg918.pdf#page=33"
+        },
+        {
+          "name": "D.C. Code sec. 10-155, Anacostia Park (D.C. Council)",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/10-155"
+        },
+        {
+          "name": "NPS History Collection, Anacostia Park (establishment 1918)",
+          "url": "https://npshistory.com/publications/anac/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Executive Order 6166 moved the parks of the National Capital, including Anacostia Park, to the Interior Department's national park office.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 6166 (June 10, 1933), effective 61 days later",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The order was signed June 10, 1933 and took effect 61 days later (Aug. 10). It applied to all National Capital parks, not Anacostia alone.",
+      "sources": [
+        {
+          "name": "Executive Order 6166, American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016, National Capital Parks-East (p. 43)",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

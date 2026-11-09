@@ -1,0 +1,72 @@
+{
+  "slug": "tule-lake-national-monument",
+  "designationHistory": [
+    {
+      "date": "2008-12-05",
+      "action": "established",
+      "designation": "National Monument (unit)",
+      "name": "World War II Valor in the Pacific National Monument (Tule Lake Unit)",
+      "indexText": "President George W. Bush proclaimed World War II Valor in the Pacific National Monument, which included sites at the Tule Lake Segregation Center in California.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "George W. Bush",
+        "citation": "Proclamation 8327, 73 FR 75293",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 8327, Federal Register (federalregister.gov)",
+          "url": "https://www.federalregister.gov/documents/2008/12/10/E8-29344/establishment-of-the-world-war-ii-valor-in-the-pacific-national-monument"
+        },
+        {
+          "name": "NPS, Tule Lake National Monument, Learn About the Park",
+          "url": "https://www.nps.gov/tule/learn/index.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016, 'Proclaimed Dec. 5, 2008'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2019-03-12",
+      "action": "redesignated",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Congress redesignated the California areas of World War II Valor in the Pacific National Monument as Tule Lake National Monument.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, sec. 2206(b), 133 Stat. 741",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "NPS, Tule Lake National Monument, Learn About the Park",
+          "url": "https://www.nps.gov/tule/learn/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

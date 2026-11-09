@@ -1,0 +1,37 @@
+{
+  "slug": "lincoln-boyhood-national-memorial",
+  "designationHistory": [
+    {
+      "date": "1962-02-19",
+      "action": "authorized",
+      "designation": "National Memorial",
+      "name": null,
+      "indexText": "Congress provided for Lincoln Boyhood National Memorial at the Tom Lincoln farm and Nancy Hanks Lincoln's grave in southern Indiana.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "John F. Kennedy",
+        "citation": "Public Law 87-407, 76 Stat. 9",
+        "signedBy": "John F. Kennedy"
+      },
+      "note": "The act called for formal establishment by Federal Register notice once enough land was acquired; that notice was not located. Indiana ran the site as a state memorial before 1962 (NPS History Collection).",
+      "sources": [
+        {
+          "name": "Public Law 87-407, 76 Stat. 9 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg9-3.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Indiana), 'Authorized Feb. 19, 1962'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

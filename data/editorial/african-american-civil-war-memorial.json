@@ -1,0 +1,45 @@
+{
+  "slug": "african-american-civil-war-memorial",
+  "designationHistory": [
+    {
+      "date": "1992-10-14",
+      "action": "authorized",
+      "designation": "memorial",
+      "name": null,
+      "indexText": "Congress authorized the District of Columbia government to build a memorial on federal land to African Americans who served with Union forces in the Civil War.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 102-412 (H.J. Res. 320), 106 Stat. 2104",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 102-412, 106 Stat. 2104 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2104.pdf"
+        },
+        {
+          "name": "40 U.S.C. 8903 notes (Cornell LII), 'African-Americans Civil War Union Memorial'",
+          "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+        },
+        {
+          "name": "Congressional Record Index 1992, Civil War entries for H.J. Res. 320 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/CRI-1992/html/CRI-1992-CIVIL-WAR-U-S.htm"
+        },
+        {
+          "name": "Rep. Eleanor Holmes Norton press release, July 17, 2018",
+          "url": "https://norton.house.gov/media-center/press-releases/norton-to-speak-at-20th-anniversary-celebration-of-african-american"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

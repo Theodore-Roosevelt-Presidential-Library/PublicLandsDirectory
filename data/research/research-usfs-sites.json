@@ -1,0 +1,1054 @@
+[
+ {
+  "slug": "admiralty-island-national-monument",
+  "name": "Admiralty Island National Monument",
+  "states": [
+   "AK"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r10/tongass/recreation"
+ },
+ {
+  "slug": "allegheny-national-forest",
+  "name": "Allegheny National Forest",
+  "states": [
+   "PA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/allegheny"
+ },
+ {
+  "slug": "allegheny-national-recreation-area",
+  "name": "Allegheny National Recreation Area",
+  "states": [
+   "PA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r09/allegheny"
+ },
+ {
+  "slug": "apalachicola-national-forest",
+  "name": "Apalachicola National Forest",
+  "states": [
+   "FL"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/florida"
+ },
+ {
+  "slug": "arapaho-national-recreation-area",
+  "name": "Arapaho National Recreation Area",
+  "states": [
+   "CO"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r02/arp/recreation"
+ },
+ {
+  "slug": "ashley-karst-national-recreation-and-geologic-area-national-recreation-area",
+  "name": "Ashley Karst National Recreation and Geologic Area National Recreation Area",
+  "states": [
+   "UT"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r04/ashley"
+ },
+ {
+  "slug": "barkshead-national-game-refuge",
+  "name": "Barkshead National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ozark-stfrancis"
+ },
+ {
+  "slug": "bear-creek-national-scenic-area",
+  "name": "Bear Creek National Scenic Area",
+  "states": [
+   "VA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r08/gwj"
+ },
+ {
+  "slug": "beech-creek-national-scenic-area",
+  "name": "Beech Creek National Scenic Area",
+  "states": [
+   "OK"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ },
+ {
+  "slug": "big-levels-national-game-refuge",
+  "name": "Big Levels National Game Refuge",
+  "states": [
+   "VA"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/gwj"
+ },
+ {
+  "slug": "black-kettle-national-grassland",
+  "name": "Black Kettle National Grassland",
+  "states": [
+   "OK",
+   "TX"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r03/cibola"
+ },
+ {
+  "slug": "black-mountain-national-game-refuge",
+  "name": "Black Mountain National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ozark-stfrancis"
+ },
+ {
+  "slug": "boise-national-forest",
+  "name": "Boise National Forest",
+  "states": [
+   "ID"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r04/boise"
+ },
+ {
+  "slug": "buffalo-gap-national-grassland",
+  "name": "Buffalo Gap National Grassland",
+  "states": [
+   "SD"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/nebraska/recreation"
+ },
+ {
+  "slug": "butte-valley-national-grassland",
+  "name": "Butte Valley National Grassland",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r05/klamath"
+ },
+ {
+  "slug": "cache-national-forest",
+  "name": "Cache National Forest",
+  "states": [
+   "ID",
+   "UT"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r04/uinta-wasatch-cache"
+ },
+ {
+  "slug": "caddo-national-grassland",
+  "name": "Caddo National Grassland",
+  "states": [
+   "TX"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r08/texas"
+ },
+ {
+  "slug": "caney-creek-national-game-refuge",
+  "name": "Caney Creek National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ },
+ {
+  "slug": "cascade-head-national-scenic-and-research-area",
+  "name": "Cascade Head National Scenic And Research Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "other",
+  "official": "https://www.fs.usda.gov/r06/siuslaw"
+ },
+ {
+  "slug": "cedar-river-national-grassland",
+  "name": "Cedar River National Grassland",
+  "states": [
+   "ND"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r01/dpg/recreation"
+ },
+ {
+  "slug": "challis-national-forest",
+  "name": "Challis National Forest",
+  "states": [
+   "ID"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r04/salmon-challis"
+ },
+ {
+  "slug": "cherokee-1-national-game-refuge",
+  "name": "Cherokee #1 National Game Refuge",
+  "states": [
+   "TN"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/cherokee"
+ },
+ {
+  "slug": "cherokee-national-forest",
+  "name": "Cherokee National Forest",
+  "states": [
+   "NC",
+   "TN"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/cherokee"
+ },
+ {
+  "slug": "cimarron-national-grassland",
+  "name": "Cimarron National Grassland",
+  "states": [
+   "KS"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/psicc/offices"
+ },
+ {
+  "slug": "columbia-river-gorge-national-scenic-area",
+  "name": "Columbia River Gorge National Scenic Area",
+  "states": [
+   "OR",
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "river",
+  "official": "https://www.fs.usda.gov/r06/columbiarivergorge"
+ },
+ {
+  "slug": "comanche-national-grassland",
+  "name": "Comanche National Grassland",
+  "states": [
+   "CO"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/psicc"
+ },
+ {
+  "slug": "coosa-bald-national-scenic-area",
+  "name": "Coosa Bald National Scenic Area",
+  "states": [
+   "GA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r08/chattahoochee-oconee"
+ },
+ {
+  "slug": "cradle-of-forestry-in-america-national-historic-area",
+  "name": "Cradle of Forestry in America National Historic Area",
+  "states": [
+   "NC"
+  ],
+  "agency": "USFS",
+  "category": "historic-site",
+  "official": "https://www.fs.usda.gov/r08/northcarolina"
+ },
+ {
+  "slug": "crooked-river-national-grassland",
+  "name": "Crooked River National Grassland",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r06/ochoco"
+ },
+ {
+  "slug": "curlew-national-grassland",
+  "name": "Curlew National Grassland",
+  "states": [
+   "ID"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r04/caribou-targhee/offices/westside-district-and-curlew-national-grassland-office"
+ },
+ {
+  "slug": "de-soto-national-forest",
+  "name": "De Soto National Forest",
+  "states": [
+   "MS"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/mississippi"
+ },
+ {
+  "slug": "dixie-national-forest",
+  "name": "Dixie National Forest",
+  "states": [
+   "NV",
+   "UT"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r04/dixie"
+ },
+ {
+  "slug": "ed-jenkins-national-recreation-area",
+  "name": "Ed Jenkins National Recreation Area",
+  "states": [
+   "GA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r08/chattahoochee-oconee"
+ },
+ {
+  "slug": "el-yunque-national-forest",
+  "name": "El Yunque National Forest",
+  "states": [
+   "PR"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/elyunque"
+ },
+ {
+  "slug": "finger-lakes-national-forest",
+  "name": "Finger Lakes National Forest",
+  "states": [
+   "NY"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/gmfl"
+ },
+ {
+  "slug": "flaming-gorge-national-recreation-area",
+  "name": "Flaming Gorge National Recreation Area",
+  "states": [
+   "UT",
+   "WY"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r04/ashley"
+ },
+ {
+  "slug": "fort-pierre-national-grassland",
+  "name": "Fort Pierre National Grassland",
+  "states": [
+   "SD"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/nebraska/recreation"
+ },
+ {
+  "slug": "francis-marion-national-wildlife-refuge",
+  "name": "Francis Marion National Wildlife Refuge",
+  "states": [
+   "SC"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/francismarionsumter"
+ },
+ {
+  "slug": "grand-canyon-preserve-national-game-refuge",
+  "name": "Grand Canyon Preserve National Game Refuge",
+  "states": [
+   "AZ"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r03/kaibab"
+ },
+ {
+  "slug": "grand-island-national-recreation-area",
+  "name": "Grand Island National Recreation Area",
+  "states": [
+   "MI"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r09/hiawatha"
+ },
+ {
+  "slug": "grand-river-national-grassland",
+  "name": "Grand River National Grassland",
+  "states": [
+   "ND",
+   "SD"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r01/dpg/recreation/grand-river-national-grassland"
+ },
+ {
+  "slug": "haw-creek-national-game-refuge",
+  "name": "Haw Creek National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ozark-stfrancis"
+ },
+ {
+  "slug": "hells-canyon-national-recreation-area",
+  "name": "Hells Canyon National Recreation Area",
+  "states": [
+   "ID",
+   "OR",
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r06/wallowa-whitman"
+ },
+ {
+  "slug": "hoosier-national-forest",
+  "name": "Hoosier National Forest",
+  "states": [
+   "IN",
+   "KY"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/hoosier"
+ },
+ {
+  "slug": "huron-national-forest",
+  "name": "Huron National Forest",
+  "states": [
+   "MI"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/huron-manistee"
+ },
+ {
+  "slug": "indian-nations-national-scenic-and-wildlife-area",
+  "name": "Indian Nations National Scenic And Wildlife Area",
+  "states": [
+   "OK"
+  ],
+  "agency": "USFS",
+  "category": "other",
+  "official": "https://www.fs.usda.gov/r08/ouachita/recreation/indian-nations-national-scenic-and-wildlife-area"
+ },
+ {
+  "slug": "jemez-national-recreation-area",
+  "name": "Jemez National Recreation Area",
+  "states": [
+   "NM"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r03/santafe/recreation/jemez-ranger-district"
+ },
+ {
+  "slug": "kaniksu-national-forest",
+  "name": "Kaniksu National Forest",
+  "states": [
+   "ID",
+   "MT",
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r01/idahopanhandle"
+ },
+ {
+  "slug": "kiowa-national-grassland",
+  "name": "Kiowa National Grassland",
+  "states": [
+   "NM"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r03/cibola/recreation/kiowa-national-grasslands-0"
+ },
+ {
+  "slug": "land-between-the-lakes-national-recreation-area",
+  "name": "Land Between the Lakes National Recreation Area",
+  "states": [
+   "KY",
+   "TN"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": null
+ },
+ {
+  "slug": "little-missouri-national-grassland",
+  "name": "Little Missouri National Grassland",
+  "states": [
+   "ND"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r01/dpg/recreation"
+ },
+ {
+  "slug": "livingston-national-game-refuge",
+  "name": "Livingston National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ozark-stfrancis"
+ },
+ {
+  "slug": "lyndon-b-johnson-national-grassland",
+  "name": "Lyndon B. Johnson National Grassland",
+  "states": [
+   "TX"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r08/texas"
+ },
+ {
+  "slug": "mcclellan-creek-national-grassland",
+  "name": "McClellan Creek National Grassland",
+  "states": [
+   "TX"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r08/texas"
+ },
+ {
+  "slug": "misty-fjords-national-monument",
+  "name": "Misty Fjords National Monument",
+  "states": [
+   "AK"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r10/tongass"
+ },
+ {
+  "slug": "moccasin-national-game-refuge",
+  "name": "Moccasin National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ozark-stfrancis"
+ },
+ {
+  "slug": "modoc-national-forest",
+  "name": "Modoc National Forest",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r05/modoc"
+ },
+ {
+  "slug": "mono-basin-national-scenic-area",
+  "name": "Mono Basin National Scenic Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r05/inyo"
+ },
+ {
+  "slug": "monongahela-national-forest",
+  "name": "Monongahela National Forest",
+  "states": [
+   "VA",
+   "WV"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/monongahela"
+ },
+ {
+  "slug": "moosalamoo-national-recreation-area",
+  "name": "Moosalamoo National Recreation Area",
+  "states": [
+   "VT"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r09/gmfl"
+ },
+ {
+  "slug": "mount-baker-national-recreation-area",
+  "name": "Mount Baker National Recreation Area",
+  "states": [
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r06/mbs/recreation"
+ },
+ {
+  "slug": "mount-hood-national-recreation-area",
+  "name": "Mount Hood National Recreation Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r06/mthood"
+ },
+ {
+  "slug": "mount-pleasant-national-scenic-area",
+  "name": "Mount Pleasant National Scenic Area",
+  "states": [
+   "VA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r08/gwj"
+ },
+ {
+  "slug": "mount-rogers-national-recreation-area",
+  "name": "Mount Rogers National Recreation Area",
+  "states": [
+   "VA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r08/gwj"
+ },
+ {
+  "slug": "mount-st-helens-national-volcanic-monument",
+  "name": "Mount St. Helens National Volcanic Monument",
+  "states": [
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r06/giffordpinchot/recreation"
+ },
+ {
+  "slug": "newberry-national-volcanic-monument",
+  "name": "Newberry National Volcanic Monument",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r06/deschutes"
+ },
+ {
+  "slug": "noontootly-national-game-refuge",
+  "name": "Noontootly National Game Refuge",
+  "states": [
+   "GA"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/chattahoochee-oconee"
+ },
+ {
+  "slug": "norbeck-wildlife-preserve-national-game-refuge",
+  "name": "Norbeck Wildlife Preserve National Game Refuge",
+  "states": [
+   "SD"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r02/blackhills/wilderness/norbeck-wildlife-preserve"
+ },
+ {
+  "slug": "north-cascades-national-scenic-area",
+  "name": "North Cascades National Scenic Area",
+  "states": [
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r06/okanogan-wenatchee"
+ },
+ {
+  "slug": "oak-mountain-national-game-refuge",
+  "name": "Oak Mountain National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ },
+ {
+  "slug": "ocala-national-game-refuge",
+  "name": "Ocala National Game Refuge",
+  "states": [
+   "FL"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/florida"
+ },
+ {
+  "slug": "oglala-national-grassland",
+  "name": "Oglala National Grassland",
+  "states": [
+   "NE",
+   "SD"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/nebraska/recreation"
+ },
+ {
+  "slug": "okanogan-national-forest",
+  "name": "Okanogan National Forest",
+  "states": [
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r06/okanogan-wenatchee"
+ },
+ {
+  "slug": "opal-creek-national-scenic-recreation-area",
+  "name": "Opal Creek National Scenic Recreation Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r06/willamette"
+ },
+ {
+  "slug": "oregon-dunes-national-recreation-area",
+  "name": "Oregon Dunes National Recreation Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r06/siuslaw/recreation"
+ },
+ {
+  "slug": "ouachita-national-wildlife-refuge",
+  "name": "Ouachita National Wildlife Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ },
+ {
+  "slug": "pawnee-national-grassland",
+  "name": "Pawnee National Grassland",
+  "states": [
+   "CO"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/arp"
+ },
+ {
+  "slug": "pigeon-creek-national-game-refuge",
+  "name": "Pigeon Creek National Game Refuge",
+  "states": [
+   "AR"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ },
+ {
+  "slug": "pine-ridge-national-recreation-area",
+  "name": "Pine Ridge National Recreation Area",
+  "states": [
+   "NE"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r02/nebraska/recreation"
+ },
+ {
+  "slug": "pisgah-national-forest",
+  "name": "Pisgah National Forest",
+  "states": [
+   "NC",
+   "TN"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/northcarolina/recreation"
+ },
+ {
+  "slug": "pisgah-national-game-refuge",
+  "name": "Pisgah National Game Refuge",
+  "states": [
+   "NC"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/northcarolina"
+ },
+ {
+  "slug": "rattlesnake-national-recreation-area",
+  "name": "Rattlesnake National Recreation Area",
+  "states": [
+   "MT"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r01/lolo"
+ },
+ {
+  "slug": "red-dirt-national-wildlife-refuge",
+  "name": "Red Dirt National Wildlife Refuge",
+  "states": [
+   "LA"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r08/kisatchie"
+ },
+ {
+  "slug": "rita-blanca-national-grassland",
+  "name": "Rita Blanca National Grassland",
+  "states": [
+   "NM",
+   "OK",
+   "TX"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r03/cibola"
+ },
+ {
+  "slug": "robert-t-stafford-white-rocks-national-recreation-area",
+  "name": "Robert T. Stafford White Rocks National Recreation Area",
+  "states": [
+   "VT"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r09/gmfl"
+ },
+ {
+  "slug": "saint-francis-dam-national-monument",
+  "name": "Saint Francis Dam National Monument",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r05/angeles"
+ },
+ {
+  "slug": "sattitla-highlands-national-monument",
+  "name": "Sattitla Highlands National Monument",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-monument",
+  "official": "https://www.fs.usda.gov/r05/modoc"
+ },
+ {
+  "slug": "sawtooth-national-recreation-area",
+  "name": "Sawtooth National Recreation Area",
+  "states": [
+   "ID"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r04/sawtooth"
+ },
+ {
+  "slug": "seng-mountain-national-scenic-area",
+  "name": "Seng Mountain National Scenic Area",
+  "states": [
+   "VA"
+  ],
+  "agency": "USFS",
+  "category": "scenic-area",
+  "official": "https://www.fs.usda.gov/r08/gwj"
+ },
+ {
+  "slug": "sheep-mountain-game-refuge-national-game-refuge",
+  "name": "Sheep Mountain Game Refuge National Game Refuge",
+  "states": [
+   "WY"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r02/mbrtb"
+ },
+ {
+  "slug": "sheyenne-national-grassland",
+  "name": "Sheyenne National Grassland",
+  "states": [
+   "ND"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r01/dpg/recreation"
+ },
+ {
+  "slug": "smith-river-national-recreation-area",
+  "name": "Smith River National Recreation Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r05/sixrivers"
+ },
+ {
+  "slug": "spring-mountains-national-recreation-area",
+  "name": "Spring Mountains National Recreation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r04/humboldt-toiyabe"
+ },
+ {
+  "slug": "spruce-knob-seneca-rocks-national-recreation-area",
+  "name": "Spruce Knob-Seneca Rocks National Recreation Area",
+  "states": [
+   "WV"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r09/monongahela"
+ },
+ {
+  "slug": "st-joe-national-forest",
+  "name": "St. Joe National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r01/idahopanhandle"
+ },
+ {
+  "slug": "tahquitz-national-game-refuge",
+  "name": "Tahquitz National Game Refuge",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-wildlife-refuge",
+  "official": "https://www.fs.usda.gov/r05/sanbernardino"
+ },
+ {
+  "slug": "talladega-national-forest",
+  "name": "Talladega National Forest",
+  "states": [
+   "AL",
+   "GA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r08/alabama"
+ },
+ {
+  "slug": "thunder-basin-national-grassland",
+  "name": "Thunder Basin National Grassland",
+  "states": [
+   "WY"
+  ],
+  "agency": "USFS",
+  "category": "national-grassland",
+  "official": "https://www.fs.usda.gov/r02/mbrtb"
+ },
+ {
+  "slug": "tonto-national-forest",
+  "name": "Tonto National Forest",
+  "states": [
+   "AZ"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r03/tonto"
+ },
+ {
+  "slug": "umatilla-national-forest",
+  "name": "Umatilla National Forest",
+  "states": [
+   "OR",
+   "WA"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r06/umatilla"
+ },
+ {
+  "slug": "wayne-national-forest",
+  "name": "Wayne National Forest",
+  "states": [
+   "OH",
+   "WV"
+  ],
+  "agency": "USFS",
+  "category": "national-forest",
+  "official": "https://www.fs.usda.gov/r09/wayne"
+ },
+ {
+  "slug": "whiskeytown-shasta-trinity-national-recreation-area",
+  "name": "Whiskeytown Shasta-Trinity National Recreation Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r05/shasta-trinity"
+ },
+ {
+  "slug": "winding-stair-mountain-national-recreation-area",
+  "name": "Winding Stair Mountain National Recreation Area",
+  "states": [
+   "OK"
+  ],
+  "agency": "USFS",
+  "category": "national-recreation-area",
+  "official": "https://www.fs.usda.gov/r08/ouachita"
+ }
+]

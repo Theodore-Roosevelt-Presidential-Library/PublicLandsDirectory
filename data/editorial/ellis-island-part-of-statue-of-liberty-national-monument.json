@@ -1,0 +1,41 @@
+{
+  "slug": "ellis-island-part-of-statue-of-liberty-national-monument",
+  "designationHistory": [
+    {
+      "date": "1965-05-11",
+      "action": "designated",
+      "designation": "part of Statue of Liberty National Monument",
+      "name": null,
+      "indexText": "President Lyndon B. Johnson proclaimed Ellis Island part of the Statue of Liberty National Monument.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Proclamation 3656",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 3656, American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3656-adding-ellis-island-the-statue-liberty-national-monument"
+        },
+        {
+          "name": "Johnson's remarks upon signing the proclamation, May 11, 1965 (American Presidency Project)",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-upon-signing-proclamation-adding-ellis-island-the-liberty-island-national-monument"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 84), 'Ellis Island proclaimed May 11, 1965'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

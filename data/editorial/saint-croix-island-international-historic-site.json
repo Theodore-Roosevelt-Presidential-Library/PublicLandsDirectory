@@ -1,0 +1,68 @@
+{
+  "slug": "saint-croix-island-international-historic-site",
+  "designationHistory": [
+    {
+      "date": "1949-06-08",
+      "action": "authorized",
+      "designation": "National Monument",
+      "name": "Saint Croix Island National Monument",
+      "indexText": "Congress authorized Saint Croix Island National Monument in Maine, to be established once enough of the island was in federal hands.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Harry S. Truman",
+        "citation": "Act of June 8, 1949, ch. 180 (Public Law 81-87), 63 Stat. 158",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": "The Secretary's order establishing the monument was to be published in the Federal Register; it was not located. A local dedication of the monument took place June 30, 1968 (NPS History Collection).",
+      "sources": [
+        {
+          "name": "63 Stat. 158 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg158-2.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Maine), 'Authorized as a national monument June 8, 1949'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1984-09-25",
+      "action": "redesignated",
+      "designation": "International Historic Site",
+      "name": null,
+      "indexText": "Congress redesignated Saint Croix Island National Monument as Saint Croix Island International Historic Site, noting the site's importance to both Canada and the United States.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 98-422 (S.J. Res. 25), 98 Stat. 1615",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 98-422, 98 Stat. 1615 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg1615.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Maine), 'redesignated an international historic site Sept. 25, 1984'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "effigy-mounds-national-monument",
+  "designationHistory": [
+    {
+      "date": "1949-10-25",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "President Truman proclaimed Effigy Mounds National Monument in northeastern Iowa under the Antiquities Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Harry S. Truman",
+        "citation": "Proclamation 2860, 64 Stat. A371",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": "This entry covers only the federal designation. Any copy describing the mounds or their builders touches Indigenous history and goes to the Library's human reviewers.",
+      "sources": [
+        {
+          "name": "Proclamation 2860, 64 Stat. A371 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-PgA371.pdf"
+        },
+        {
+          "name": "Proclamation 2860, American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2860-establishing-the-effigy-mounds-national-monument"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 54), 'Proclaimed Oct. 25, 1949'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
