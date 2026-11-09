@@ -117,7 +117,7 @@
       const id = (this._id = Math.random().toString(36).slice(2, 9));
       // Starting page: the host URL's ?pl-dir= (a page the visitor was on), else the attributes.
       let path = on && new URLSearchParams(location.search).get(pre + 'dir');
-      if (!path || !/^\/(sites\/[\w-]+\/|roosevelt\/|about\/)?(\?[^#]*)?$/.test(path)) {
+      if (!path || !/^\/(sites\/[\w-]+\/|roosevelt\/|about\/|map\/)?(\?[^#]*)?$/.test(path)) {
         const site = this.getAttribute('site');
         if (site) path = `/sites/${encodeURIComponent(site)}/`;
         else {

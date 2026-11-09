@@ -1,4 +1,5 @@
 // Build the static site into dist/ for GitHub Pages.
+import { nationalMap } from './national-map.mjs';
 import { join } from 'node:path';
 import { cp, rm, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
@@ -6,6 +7,7 @@ import { ROOT, DATA, readJSON, writeJSON, writeText, CATEGORIES, AGENCIES } from
 
 const DIST = join(ROOT, 'dist');
 const SITE = process.env.SITE_URL || 'https://directory.labs.trlibrary.com';
+const MAPCOLORS = { NPS: '#1B4532', FWS: '#E7805D', USFS: '#87BB41', BLM: '#092A4D' };
 const LEAFLET_CSS = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
 const LEAFLET_JS = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
 
@@ -27,7 +29,7 @@ const fmtDate = (iso) => { if (!iso) return ''; const [y, m, d] = iso.split('-')
   if (!d) return new Date(Date.UTC(y, m - 1, 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', timeZone: 'UTC' }); return new Date(Date.UTC(y, m - 1, d || 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }); };
 const num = (n) => Math.round(n).toLocaleString('en-US');
 const AUTH = { 'act-of-congress': 'Act of Congress', 'presidential-proclamation': 'Presidential proclamation', 'executive-order': 'Executive order', 'secretarial-order': 'Secretarial order', 'public-land-order': 'Public land order', other: 'Other authority' };
-const authLine = (a) => a && a.type === 'unspecified' ? (a.administration ? `${esc(a.administration)} administration` : '') : a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
+const authLine = (a) => a && a.type === 'unspecified' ? (a.administration ? `${esc(a.administration)} administration` : '') : a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? (a.signedBy ? `, signed by ${esc(a.signedBy)}` : '') : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
 const pendingTag = (reviewed) => reviewed ? '' : ' <span class="tag tag-pending" title="This entry is waiting for review by the Library\u2019s historians">Pending historian review</span>';
 
 function layout({ title, description, path, body, head = '', jsonld = null, image = null }) {
@@ -48,7 +50,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 </head><body>
 <header class="masthead"><div class="wrap">
   <a class="brand" href="/"><span class="brand-kicker">Theodore Roosevelt Presidential Library</span><span class="brand-title">Public Lands Directory</span></a>
-  <nav><a href="/">Directory</a><a href="/roosevelt/">T.R.\u2019s public lands</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav>
+  <nav><a href="/">Directory</a><a href="/map/">Map</a><a href="/roosevelt/">T.R.\u2019s public lands</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav>
 </div></header>
 <main>${body}</main>
 <footer class="foot"><div class="wrap">
@@ -317,6 +319,28 @@ await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Director
     const lg=L.control({position:'bottomright'});lg.onAdd=()=>{const d=L.DomUtil.create('div');d.style.cssText='background:#fff;padding:6px 9px;font:12px Arial;border-radius:4px';d.innerHTML='<span style="color:#E7805D">●</span> T.R. was here<br><span style="color:#1B4532">●</span> Protected by T.R.<br><span style="color:#87BB41">●</span> His proclamations and orders';return d};lg.addTo(map);
   })();
   </script>`;
+  // ---- National map: every boundary in one simplified file, zoom and click ----
+  await writeJSON(join(DIST, 'map', 'boundaries.json'), await nationalMap(sites, DATA), false);
+  await writeText(join(DIST, 'map', 'index.html'), layout({
+    title: 'Map of America\u2019s public lands | Public Lands Directory',
+    description: 'Every national park, forest, grassland, wildlife refuge, monument and conservation area in one map. Zoom in and click any place to open its page.',
+    path: '/map/',
+    head: `<link rel="stylesheet" href="${LEAFLET_CSS}"><script defer src="${LEAFLET_JS}"></script><script defer src="/assets/national-map.js"></script>`,
+    body: `<section class="natmap">
+  <div class="natmap-bar">
+    <h1>America\u2019s public lands, all on one map</h1>
+    <div class="natmap-controls">
+      <input id="nm-q" type="search" placeholder="Find a place" aria-label="Find a place" list="nm-names">
+      <datalist id="nm-names"></datalist>
+      ${Object.entries(AGENCIES).map(([k, v]) => `<label class="check nm-ag"><input type="checkbox" value="${k}" checked> <span class="swatch" style="background:${MAPCOLORS[k]}"></span> ${esc({ NPS: 'National Park Service', FWS: 'Fish and Wildlife Service', USFS: 'Forest Service', BLM: 'Bureau of Land Management' }[k] || v.name)}</label>`).join('')}
+      <label class="check"><input type="checkbox" id="nm-tr"> <span>Only Roosevelt connections</span></label>
+    </div>
+  </div>
+  <div id="natmap" role="application" aria-label="Map of public lands"></div>
+  <p class="muted small natmap-note">Boundaries are simplified for the national view; each site\u2019s page has the detailed boundary. Small sites show as dots. Dashed outlines are wildlife refuge program areas, where the U.S. Fish and Wildlife Service may acquire land or easements; most of the land inside them is private. Sources: National Park Service, U.S. Fish and Wildlife Service, USDA Forest Service and Bureau of Land Management.</p>
+</section>`,
+  }));
+
   await writeText(join(DIST, 'roosevelt', 'index.html'), layout({ title: 'Theodore Roosevelt’s public lands | Public Lands Directory', description: 'Public lands Theodore Roosevelt protected as President, places that trace to his proclamations and orders, and places his own record shows he visited.', path: '/roosevelt/', body, head: `<link rel="stylesheet" href="${LEAFLET_CSS}"><script defer src="${LEAFLET_JS}"></script>` }));
 }
 
