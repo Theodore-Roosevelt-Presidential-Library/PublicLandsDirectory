@@ -1,0 +1,68 @@
+{
+  "slug": "misty-fjords-national-monument",
+  "designationHistory": [
+    {
+      "date": "1978-12-01",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Misty Fiords National Monument",
+      "indexText": "President Carter proclaimed Misty Fiords National Monument under the Antiquities Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Jimmy Carter",
+        "citation": "Proclamation 4623, Dec. 1, 1978, 93 Stat. 1466",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 4623, 93 Stat. 1466 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1466.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1980-12-02",
+      "action": "redesignated",
+      "designation": "National Monument",
+      "name": "Misty Fjords National Monument",
+      "indexText": "The Alaska National Interest Lands Conservation Act established Misty Fjords National Monument by statute within the Tongass National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-487, title V, sec. 503(a), 94 Stat. 2371, 2399",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 96-487 (ANILCA), 94 Stat. 2371 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

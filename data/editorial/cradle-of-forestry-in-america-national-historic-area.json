@@ -1,0 +1,37 @@
+{
+  "slug": "cradle-of-forestry-in-america-national-historic-area",
+  "designationHistory": [
+    {
+      "date": "1968-07-11",
+      "action": "established",
+      "designation": "Historic area (Cradle of Forestry in America)",
+      "name": "Cradle of Forestry in America",
+      "indexText": "Congress authorized the Secretary of Agriculture to establish the Cradle of Forestry in America in the Pisgah National Forest, North Carolina, to preserve the birthplace of forestry and forestry education in America.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 90-398, sec. 1, 82 Stat. 342",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": "The act names the area 'the Cradle of Forestry in America'; the phrase 'National Historic Area' does not appear in the statute.",
+      "sources": [
+        {
+          "name": "Public Law 90-398, 82 Stat. 342 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg342.pdf"
+        },
+        {
+          "name": "16 U.S.C. 471f (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/471f"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

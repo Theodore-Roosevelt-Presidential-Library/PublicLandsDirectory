@@ -1,0 +1,37 @@
+{
+  "slug": "saint-francis-dam-national-monument",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Saint Francis Dam Disaster National Monument",
+      "indexText": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Saint Francis Dam Disaster National Monument in the Angeles National Forest, California, and authorized a memorial at the dam site.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, title I, sec. 1111, 133 Stat. 580, 611",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-133/pdf/STATUTE-133-Pg580.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

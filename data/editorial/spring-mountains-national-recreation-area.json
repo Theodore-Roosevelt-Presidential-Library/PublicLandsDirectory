@@ -1,0 +1,37 @@
+{
+  "slug": "spring-mountains-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1993-08-04",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Spring Mountains National Recreation Area in the Toiyabe National Forest, Nevada.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 103-63, 107 Stat. 296",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "govinfo files the law as a document beginning on page 297 of volume 107; the U.S. Code cites its sections from 107 Stat. 296-297.",
+      "sources": [
+        {
+          "name": "Public Law 103-63, 107 Stat. 296 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg297.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460hhh-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460hhh-1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

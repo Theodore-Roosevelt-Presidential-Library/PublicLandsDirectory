@@ -1,0 +1,40 @@
+{
+  "slug": "black-mountain-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1926-04-26",
+      "action": "established",
+      "designation": "National Game Refuge",
+      "name": null,
+      "indexText": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Black Mountain was one of these four has not been confirmed.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Black Mountain to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams.",
+      "sources": [
+        {
+          "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+        },
+        {
+          "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "rattlesnake-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1980-10-19",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress designated the Rattlesnake National Recreation Area in the Lolo National Forest, Montana.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-476, sec. 3, 94 Stat. 2271, 2272",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 96-476, 94 Stat. 2271 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2271.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ll-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ll-2"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

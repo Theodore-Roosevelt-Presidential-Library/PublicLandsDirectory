@@ -1,0 +1,41 @@
+{
+  "slug": "cache-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-05-26",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Theodore Roosevelt abolished the Bear River National Forest and made part of it the Cache National Forest in Idaho and Utah.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 802, May 26, 1908 (effective July 1, 1908)",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "The executive order text was not located online; FS-612 and the WPA list agree on EO 802 of May 26, 1908, and Davis gives the effective date, July 1, 1908. Bear River Forest Reserve had been created May 28, 1906 from the Logan Forest Reserve (May 29, 1903) and other land.",
+      "sources": [
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

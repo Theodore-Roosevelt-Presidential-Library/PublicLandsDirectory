@@ -1,0 +1,45 @@
+{
+  "slug": "oak-mountain-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-03-08",
+      "action": "established",
+      "designation": "National Game Refuge",
+      "name": "Oak Mountain Refuge (Refuge No. 2)",
+      "indexText": "President Franklin D. Roosevelt established Refuge No. 2, the Oak Mountain Refuge, as a game sanctuary and refuge in the Ouachita National Forest, Arkansas.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2119, Mar. 8, 1935, 49 Stat. 3439 (under Act of June 13, 1933, 48 Stat. 128)",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2119, Ouachita National Game Refuges, Mar. 8, 1935, 49 Stat. 3439 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3439.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2119, Ouachita National Game Refuges, Arkansas",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2119-ouachita-national-game-refuges-arkansas"
+        },
+        {
+          "name": "16 U.S.C. 693 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/693"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "north-cascades-national-scenic-area",
+  "designationHistory": [
+    {
+      "date": "1984-07-03",
+      "action": "designated",
+      "designation": "Scenic Area",
+      "name": null,
+      "indexText": "The Washington State Wilderness Act of 1984 directed that about 87,757 acres along the North Cascades Highway in the Mount Baker-Snoqualmie and Okanogan National Forests be managed to preserve their scenic values.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 98-339, sec. 8, 98 Stat. 299",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": "Section 8 refers to the area by a map titled 'North Cascades Scenic Highway' and calls it a 'scenic area'; it does not use the name 'North Cascades National Scenic Area'. The Forest Service Land Areas Report lists it as the North Cascades National Scenic Area (about 88,000 acres). The section is uncodified, so no U.S. Code note was used.",
+      "sources": [
+        {
+          "name": "Public Law 98-339, 98 Stat. 299 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg299.pdf"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 12: National Scenic Areas by State (FY2017)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2017/Table-12-NationalScenicAreasbyState.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

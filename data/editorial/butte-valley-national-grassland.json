@@ -1,0 +1,41 @@
+{
+  "slug": "butte-valley-national-grassland",
+  "designationHistory": [
+    {
+      "date": "1991-01-18",
+      "action": "designated",
+      "designation": "National Grassland",
+      "name": null,
+      "indexText": "Secretary of Agriculture Clayton Yeutter designated the Butte Valley Land Utilization Project (CA-22) in Siskiyou County, California, as the Butte Valley National Grassland.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "George H. W. Bush",
+        "citation": "Designation order of Jan. 18, 1991, published at 56 F.R. 8279 (Feb. 28, 1991); 36 CFR 213.1(e)",
+        "signedBy": null
+      },
+      "note": "The signed order printed in the Federal Register is dated Jan. 18, 1991; the preamble of the same notice misprints the year once as 1990. The notice's effective date is Feb. 28, 1991.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 56, No. 40 (Feb. 28, 1991), 56 F.R. 8279-8280 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1991-02-28/pdf/FR-1991-02-28.pdf"
+        },
+        {
+          "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+          "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+        },
+        {
+          "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+          "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

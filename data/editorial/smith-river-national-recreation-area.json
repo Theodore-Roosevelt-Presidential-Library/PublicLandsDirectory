@@ -1,0 +1,37 @@
+{
+  "slug": "smith-river-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1990-11-16",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The Smith River National Recreation Area Act established the recreation area in the Six Rivers National Forest, California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-612, sec. 4, 104 Stat. 3209, 3210",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 101-612, 104 Stat. 3209 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg3209.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460bbb-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460bbb-2"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

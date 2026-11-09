@@ -1,0 +1,41 @@
+{
+  "slug": "tahquitz-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1926-07-03",
+      "action": "established",
+      "designation": "National Game Preserve",
+      "name": "Tahquitz National Game Preserve",
+      "indexText": "Congress created the Tahquitz National Game Preserve in the San Bernardino National Forest, Riverside County, California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Calvin Coolidge",
+        "citation": "Act of July 3, 1926, ch. 776, 44 Stat. 889",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "The act made the preserve subject to the condition that the land within its boundary first become the property of the United States.",
+      "sources": [
+        {
+          "name": "Act of July 3, 1926, ch. 776, 44 Stat. 889 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg889.pdf"
+        },
+        {
+          "name": "16 U.S.C. 689 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/689"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

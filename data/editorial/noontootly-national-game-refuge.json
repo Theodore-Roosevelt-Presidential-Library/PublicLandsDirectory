@@ -1,0 +1,76 @@
+{
+  "slug": "noontootly-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1924-08-05",
+      "action": "established",
+      "designation": "National Game Refuge",
+      "name": "Cherokee National Game Refuge No. 2",
+      "indexText": "President Coolidge set aside Cherokee National Game Refuges Numbers One and Two on Weeks Act lands in Tennessee and Georgia; No. 2 was the Georgia refuge.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1707, Setting Aside Cherokee National Game Refuges Numbers One and Two",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1707-setting-aside-cherokee-national-game-refuges-numbers-one-and-two"
+        },
+        {
+          "name": "Proclamation 2287 of June 6, 1938, 52 Stat. 1549, reciting Refuge No. 2 in Georgia (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1549.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1938-06-06",
+      "action": "renamed",
+      "designation": "National Game Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt renamed Cherokee National Game Refuge No. 2 in Georgia the Noontootly National Game Refuge and redrew its boundaries.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2287, June 6, 1938, 52 Stat. 1549",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2287, 52 Stat. 1549 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1549.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2287, Noontootly National Game Refuge, Georgia",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2287-noontootly-national-game-refuge-georgia"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

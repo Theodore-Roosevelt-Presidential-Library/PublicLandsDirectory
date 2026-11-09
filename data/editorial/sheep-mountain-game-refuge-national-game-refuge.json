@@ -1,0 +1,49 @@
+{
+  "slug": "sheep-mountain-game-refuge-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1924-08-08",
+      "action": "established",
+      "designation": "Game Refuge",
+      "name": null,
+      "indexText": "President Coolidge added public land to the Medicine Bow National Forest, Wyoming, and set the added area aside as a game refuge and breeding place for game animals and birds.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of Aug. 8, 1924, 43 Stat. 1964 (under Act of June 7, 1924, ch. 307, 43 Stat. 594)",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "Neither the act nor the proclamation uses the name Sheep Mountain; they describe townships 14 and 15 north, range 77 west. The link to Sheep Mountain rests on a secondary account (wyoachs.com), which says the refuge came from a bill by Sen. John Kendrick and Coolidge's proclamation, and on the Land Areas Report, which lists Sheep Mountain Game Refuge on the Medicine Bow.",
+      "sources": [
+        {
+          "name": "Proclamation of Aug. 8, 1924, 43 Stat. 1964 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964-2.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1708, Enlarging Area of the Medicine Bow National Forest, Wyoming",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1708-enlarging-area-the-medicine-bow-national-forest-wyoming"
+        },
+        {
+          "name": "Act of June 7, 1924, ch. 307, 43 Stat. 594 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg594-2.pdf"
+        },
+        {
+          "name": "wyoachs.com, 'Sheep Mountain Game Refuge, an overlooked gem'",
+          "url": "https://wyoachs.com/places/sheep-mountain-game-refuge-an-overlooked-gema-good-area-for-an-experienced-hiker"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

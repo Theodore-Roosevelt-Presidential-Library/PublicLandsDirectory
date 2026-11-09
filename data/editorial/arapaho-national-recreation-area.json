@@ -1,0 +1,37 @@
+{
+  "slug": "arapaho-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1978-10-11",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Arapaho National Recreation Area in the Arapaho and Roosevelt National Forests, Colorado.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 95-450, sec. 4, 92 Stat. 1095",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 95-450, 92 Stat. 1095 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1095.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460jj (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460jj"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

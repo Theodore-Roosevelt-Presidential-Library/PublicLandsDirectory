@@ -1,0 +1,3805 @@
+{
+ "admiralty-island-national-monument": {
+  "events": [
+   {
+    "date": "1978-12-01",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Admiralty Island National Monument",
+    "text": "President Carter proclaimed Admiralty Island National Monument under the Antiquities Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 4611, Dec. 1, 1978, 93 Stat. 1446",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 4611, 93 Stat. 1446 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1446.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, 'National Monuments Established Under Presidential Proclamation' (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1980-12-02",
+    "action": "redesignated",
+    "designation": "National Monument",
+    "name": "Admiralty Island National Monument",
+    "text": "The Alaska National Interest Lands Conservation Act established Admiralty Island National Monument by statute within the Tongass National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 96-487, title V, sec. 503(b), 94 Stat. 2371, 2399",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 96-487 (ANILCA), 94 Stat. 2371 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "allegheny-national-forest": {
+  "events": [
+   {
+    "date": "1923-09-24",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Coolidge proclaimed the Allegheny National Forest in Pennsylvania on lands bought under the Weeks Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Sept. 24, 1923, 43 Stat. 1925",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Sept. 24, 1923, 43 Stat. 1925 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1925.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1675, Setting Apart the Allegheny National Forest, Pennsylvania",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1675-setting-apart-the-allegheny-national-forest-pennsylvania"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "FS-612 (2012) prints the citation as 42 Stat. 1925; the proclamation is in volume 43, as govinfo and Davis show."
+   }
+  ],
+  "note": null
+ },
+ "allegheny-national-recreation-area": {
+  "events": [
+   {
+    "date": "1984-10-30",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The Pennsylvania Wilderness Act of 1984 established the Allegheny National Recreation Area in the Allegheny National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 98-585, sec. 6, 98 Stat. 3100, 3101",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 98-585, 98 Stat. 3100 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg3100.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460qq (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460qq"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "apalachicola-national-forest": {
+  "events": [
+   {
+    "date": "1936-05-13",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Franklin D. Roosevelt proclaimed the Apalachicola National Forest in Florida.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2169, May 13, 1936, 49 Stat. 3516; 1 F.R. 408",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2169, 49 Stat. 3516 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3516-2.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2169, Apalachicola National Forest, Florida",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2169-apalachicola-national-forest-florida"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "arapaho-national-recreation-area": {
+  "events": [
+   {
+    "date": "1978-10-11",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Arapaho National Recreation Area in the Arapaho and Roosevelt National Forests, Colorado.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 95-450, sec. 4, 92 Stat. 1095",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 95-450, 92 Stat. 1095 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1095.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460jj (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460jj"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "ashley-karst-national-recreation-and-geologic-area-national-recreation-area": {
+  "events": [
+   {
+    "date": "2019-03-12",
+    "action": "established",
+    "designation": "National Recreation and Geologic Area",
+    "name": "Ashley Karst National Recreation and Geologic Area",
+    "text": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Ashley Karst National Recreation and Geologic Area in the Ashley National Forest, Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 116-9, title I, sec. 1117, 133 Stat. 580, 623",
+     "president": "Donald J. Trump"
+    },
+    "sources": [
+     {
+      "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-133/pdf/STATUTE-133-Pg580.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460bbbb (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460bbbb"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The statutory name is 'Ashley Karst National Recreation and Geologic Area'; the directory name repeats 'National Recreation Area'."
+ },
+ "barkshead-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-04-26",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Barkshead was one of these four has not been confirmed.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+     },
+     {
+      "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Barkshead to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams."
+   }
+  ],
+  "note": "Barkshead appears as a Forest Service national game refuge on the Ozark National Forest in the Land Areas Report."
+ },
+ "bear-creek-national-scenic-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "designated",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 designated the Bear Creek Scenic Area in the Jefferson National Forest, Virginia, as a national scenic area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title I, sec. 1104, 123 Stat. 991, 1004",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+     },
+     {
+      "name": "16 U.S.C. 546b (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/546b"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "beech-creek-national-scenic-area": {
+  "events": [
+   {
+    "date": "1988-10-18",
+    "action": "designated",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Winding Stair Mountain National Recreation and Wilderness Area Act designated the Beech Creek National Scenic Area in the Ouachita National Forest, Oklahoma.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 100-499, sec. 11, 102 Stat. 2491, 2496",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 100-499, 102 Stat. 2491 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2491.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460vv-9 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460vv-9"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "big-levels-national-game-refuge": {
+  "events": [
+   {
+    "date": "1935-07-06",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Big Levels Game Refuge",
+    "text": "President Franklin D. Roosevelt set aside the Big Levels Game Refuge as a game sanctuary and refuge in the George Washington National Forest, Virginia.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2128, July 6, 1935, 49 Stat. 3448 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2128, 49 Stat. 3448 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3448.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2128, Big Levels Game Refuge, Virginia",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2128-big-levels-game-refuge-virginia"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "black-kettle-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Roger Mills land utilization project",
+    "text": "The Secretary of Agriculture designated the Roger Mills land utilization project (OK-22) in Roger Mills County, Oklahoma a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Black Kettle National Grassland'. It listed the area as the Roger Mills land utilization project (OK-22) in Roger Mills County, Oklahoma. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date. The Texas portion (Lake Marvin, TX-LU-22, Hemphill County) was added to the 36 CFR 213.1 list by order of Dec. 6, 1962 (27 F.R. 12217)."
+   }
+  ],
+  "note": null
+ },
+ "black-mountain-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-04-26",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Black Mountain was one of these four has not been confirmed.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+     },
+     {
+      "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Black Mountain to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams."
+   }
+  ],
+  "note": "Black Mountain appears as a Forest Service national game refuge on the Ozark National Forest in the Land Areas Report."
+ },
+ "boise-national-forest": {
+  "events": [
+   {
+    "date": "1908-06-26",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Theodore Roosevelt created the Boise National Forest in Idaho from part of the Sawtooth National Forest.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 857, June 26, 1908 (effective July 1, 1908)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The executive order text was not located online. FS-612 and the 1944 WPA list of executive orders (compiled from the orders) agree on EO 857 of June 26, 1908; Davis gives the effective date, July 1, 1908. On Apr. 1, 1944 (PLO 217, 9 F.R. 3655) the old Payette National Forest was added to Boise; that consolidation is treated here as a boundary change."
+   }
+  ],
+  "note": null
+ },
+ "buffalo-gap-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Badlands-Fall River land utilization project",
+    "text": "The Secretary of Agriculture designated the Badlands-Fall River land utilization project (SD-1) in Custer, Fall River, Jackson and Pennington Counties, South Dakota a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Buffalo Gap National Grassland'. It listed the area as the Badlands-Fall River land utilization project (SD-1) in Custer, Fall River, Jackson and Pennington Counties, South Dakota. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "butte-valley-national-grassland": {
+  "events": [
+   {
+    "date": "1991-01-18",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": null,
+    "text": "Secretary of Agriculture Clayton Yeutter designated the Butte Valley Land Utilization Project (CA-22) in Siskiyou County, California, as the Butte Valley National Grassland.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Designation order of Jan. 18, 1991, published at 56 F.R. 8279 (Feb. 28, 1991); 36 CFR 213.1(e)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 56, No. 40 (Feb. 28, 1991), 56 F.R. 8279-8280 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1991-02-28/pdf/FR-1991-02-28.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The signed order printed in the Federal Register is dated Jan. 18, 1991; the preamble of the same notice misprints the year once as 1990. The notice's effective date is Feb. 28, 1991."
+   }
+  ],
+  "note": null
+ },
+ "cache-national-forest": {
+  "events": [
+   {
+    "date": "1908-05-26",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Theodore Roosevelt abolished the Bear River National Forest and made part of it the Cache National Forest in Idaho and Utah.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 802, May 26, 1908 (effective July 1, 1908)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The executive order text was not located online; FS-612 and the WPA list agree on EO 802 of May 26, 1908, and Davis gives the effective date, July 1, 1908. Bear River Forest Reserve had been created May 28, 1906 from the Logan Forest Reserve (May 29, 1903) and other land."
+   }
+  ],
+  "note": "Cache is now administered as part of the Uinta-Wasatch-Cache National Forest (Utah) and the Caribou-Targhee National Forest (Idaho); those are administrative combinations, not new designations, and no dated instrument for them is listed."
+ },
+ "caddo-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Ladonia and Northeast Texas land utilization projects",
+    "text": "The Secretary of Agriculture designated the Ladonia (TX-29) and Northeast Texas (TX-7) land utilization projects in Fannin County, Texas a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Caddo National Grassland'. It listed the area as the Ladonia (TX-29) and Northeast Texas (TX-7) land utilization projects in Fannin County, Texas. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "caney-creek-national-game-refuge": {
+  "events": [
+   {
+    "date": "1935-03-08",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Caney Creek Refuge (Refuge No. 4)",
+    "text": "President Franklin D. Roosevelt established Refuge No. 4, the Caney Creek Refuge, as a game sanctuary and refuge in the Ouachita National Forest, Arkansas.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2119, Mar. 8, 1935, 49 Stat. 3439 (under Act of June 13, 1933, 48 Stat. 128)",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2119, Ouachita National Game Refuges, 49 Stat. 3439 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3439.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2119, Ouachita National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2119-ouachita-national-game-refuges-arkansas"
+     },
+     {
+      "name": "16 U.S.C. 693 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/693"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "cascade-head-national-scenic-and-research-area": {
+  "events": [
+   {
+    "date": "1974-12-22",
+    "action": "established",
+    "designation": "Scenic-Research Area",
+    "name": "Cascade Head Scenic-Research Area",
+    "text": "Congress established the Cascade Head Scenic-Research Area in the Siuslaw National Forest, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 93-535, sec. 1, 88 Stat. 1732",
+     "president": "Gerald R. Ford"
+    },
+    "sources": [
+     {
+      "name": "Public Law 93-535, 88 Stat. 1732 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1732.pdf"
+     },
+     {
+      "name": "16 U.S.C. 541 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/541"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The statutory name is 'Cascade Head Scenic-Research Area'."
+ },
+ "cedar-river-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Cedar land utilization project",
+    "text": "The Secretary of Agriculture designated the Cedar land utilization project (ND-25) in Grant and Sioux Counties, North Dakota a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Cedar River National Grassland'. It listed the area as the Cedar land utilization project (ND-25) in Grant and Sioux Counties, North Dakota. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "challis-national-forest": {
+  "events": [
+   {
+    "date": "1908-06-26",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Theodore Roosevelt created the Challis National Forest in Idaho from parts of the Salmon River and Sawtooth National Forests.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 840 (effective July 1, 1908)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "Sources disagree on the signing date. FS-612 (1997 and 2012) dates EO 840 June 25, 1908 in its Challis row but June 26, 1908 in its Salmon River row for the same order; the 1944 WPA list gives June 26, 1908 (EO 838 is June 25, EO 839 June 26). The effective date, July 1, 1908, is not in doubt. Check the order itself (National Archives, RG 11) before publishing a signing date."
+   }
+  ],
+  "note": "Challis is now administered with the Salmon as the Salmon-Challis National Forest, an administrative combination."
+ },
+ "cherokee-1-national-game-refuge": {
+  "events": [
+   {
+    "date": "1924-08-05",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Cherokee National Game Refuge No. 1",
+    "text": "President Coolidge set aside Cherokee National Game Refuges Numbers One and Two on Weeks Act lands of the Cherokee National Forest in Tennessee and Georgia.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1707, Setting Aside Cherokee National Game Refuges Numbers One and Two",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1707-setting-aside-cherokee-national-game-refuges-numbers-one-and-two"
+     },
+     {
+      "name": "Proclamation 2105 of Oct. 22, 1934, 49 Stat. 3423, reciting that Refuge No. 1 in Tennessee was established Aug. 5, 1924 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3423.pdf"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Proclamation 2105 of Oct. 22, 1934 redrew the refuge's boundaries; that boundary change is not listed."
+   }
+  ],
+  "note": null
+ },
+ "cherokee-national-forest": {
+  "events": [
+   {
+    "date": "1920-06-14",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Wilson proclaimed the Cherokee National Forest on lands bought under the Weeks Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of June 14, 1920, 41 Stat. 1798",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of June 14, 1920, 41 Stat. 1798 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1798.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1920 proclamation is titled for Georgia and Tennessee. In July 1936 (Proclamations 2183 and 2184) the forest was reorganized and its Georgia land went to the new Chattahoochee National Forest; those are treated here as boundary changes."
+   }
+  ],
+  "note": null
+ },
+ "cimarron-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Morton County land utilization project",
+    "text": "The Secretary of Agriculture designated the Morton County land utilization project (KA-21) in Morton and Stevens Counties, Kansas a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Cimarron National Grassland'. It listed the area as the Morton County land utilization project (KA-21) in Morton and Stevens Counties, Kansas. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "columbia-river-gorge-national-scenic-area": {
+  "events": [
+   {
+    "date": "1986-11-17",
+    "action": "established",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Columbia River Gorge National Scenic Area Act established the scenic area in Oregon and Washington.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 99-663, sec. 4, 100 Stat. 4274, 4276",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 99-663, 100 Stat. 4274 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg4274.pdf"
+     },
+     {
+      "name": "16 U.S.C. 544b (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/544b"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "comanche-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Southeastern Colorado and Southern Otero land utilization projects",
+    "text": "The Secretary of Agriculture designated the Southeastern Colorado (CO-22) and Southern Otero (CO-4) land utilization projects in Baca, Las Animas and Otero Counties, Colorado a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Comanche National Grassland'. It listed the area as the Southeastern Colorado (CO-22) and Southern Otero (CO-4) land utilization projects in Baca, Las Animas and Otero Counties, Colorado. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "coosa-bald-national-scenic-area": {
+  "events": [
+   {
+    "date": "1991-12-11",
+    "action": "designated",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Chattahoochee National Forest Protection Act of 1991 designated the Coosa Bald National Scenic Area in Georgia.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 102-217, sec. 3, 105 Stat. 1667",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 102-217, 105 Stat. 1667 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1667.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ggg-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ggg-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "cradle-of-forestry-in-america-national-historic-area": {
+  "events": [
+   {
+    "date": "1968-07-11",
+    "action": "established",
+    "designation": "Historic area (Cradle of Forestry in America)",
+    "name": "Cradle of Forestry in America",
+    "text": "Congress authorized the Secretary of Agriculture to establish the Cradle of Forestry in America in the Pisgah National Forest, North Carolina, to preserve the birthplace of forestry and forestry education in America.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 90-398, sec. 1, 82 Stat. 342",
+     "president": "Lyndon B. Johnson"
+    },
+    "sources": [
+     {
+      "name": "Public Law 90-398, 82 Stat. 342 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg342.pdf"
+     },
+     {
+      "name": "16 U.S.C. 471f (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/471f"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The act names the area 'the Cradle of Forestry in America'; the phrase 'National Historic Area' does not appear in the statute."
+   }
+  ],
+  "note": null
+ },
+ "crooked-river-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Central Oregon land utilization project",
+    "text": "The Secretary of Agriculture designated the Central Oregon land utilization project (OR-2) in Jefferson County, Oregon a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Crooked River National Grassland'. It listed the area as the Central Oregon land utilization project (OR-2) in Jefferson County, Oregon. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "curlew-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Southeastern Idaho land utilization project",
+    "text": "The Secretary of Agriculture designated the Southeastern Idaho land utilization project (ID-1) in Oneida and Power Counties, Idaho a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Curlew National Grassland'. It listed the area as the Southeastern Idaho land utilization project (ID-1) in Oneida and Power Counties, Idaho. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "de-soto-national-forest": {
+  "events": [
+   {
+    "date": "1936-06-17",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Franklin D. Roosevelt proclaimed the De Soto National Forest in Mississippi.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2174, June 17, 1936, 49 Stat. 3524; 1 F.R. 609",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2174, 49 Stat. 3524 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3524.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2174, De Soto National Forest, Mississippi",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2174-de-soto-national-forest-mississippi"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "dixie-national-forest": {
+  "events": [
+   {
+    "date": "1905-09-25",
+    "action": "established",
+    "designation": "Forest Reserve",
+    "name": "Dixie Forest Reserve",
+    "text": "President Theodore Roosevelt proclaimed the Dixie Forest Reserve in Utah.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Sept. 25, 1905, 34 Stat. 3147",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Sept. 25, 1905, 34 Stat. 3147 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3147.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 593, Establishment of the Dixie Forest Reserve, Utah",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-593-establishment-the-dixie-forest-reserve-utah"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "UCSB's '593' is the American Presidency Project's own document number, not an official proclamation number."
+   },
+   {
+    "date": "1907-03-04",
+    "action": "redesignated",
+    "designation": "National Forest",
+    "name": "Dixie National Forest",
+    "text": "Congress provided that forest reserves would be known as national forests, so the Dixie Forest Reserve became the Dixie National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day."
+   }
+  ],
+  "note": "Davis prints the 1905 citation as '24 Stat 3147'; the proclamation is in volume 34. Later additions (part of Sevier, 1922; all of Powell, 1944-45) are boundary changes."
+ },
+ "ed-jenkins-national-recreation-area": {
+  "events": [
+   {
+    "date": "1991-12-11",
+    "action": "designated",
+    "designation": "National Recreation Area",
+    "name": "Springer Mountain National Recreation Area",
+    "text": "The Chattahoochee National Forest Protection Act of 1991 designated the Springer Mountain National Recreation Area in Georgia.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 102-217, sec. 4, 105 Stat. 1667, 1668",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 102-217, 105 Stat. 1667 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1667.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ggg-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ggg-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1992-10-23",
+    "action": "renamed",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress renamed the Springer Mountain National Recreation Area the Ed Jenkins National Recreation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 102-456, 106 Stat. 2264",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 102-456, 106 Stat. 2264 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2264.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ggg-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ggg-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "el-yunque-national-forest": {
+  "events": [
+   {
+    "date": "1903-01-17",
+    "action": "established",
+    "designation": "Forest Reserve",
+    "name": "Luquillo Forest Reserve",
+    "text": "President Theodore Roosevelt proclaimed the Luquillo Forest Reserve in Puerto Rico.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Jan. 17, 1903, 32 Stat. 2029",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Jan. 17, 1903, 32 Stat. 2029 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2029.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 495, Establishment of the Luquillo Forest Reserve",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-495-establishment-the-luquillo-forest-reserve"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "UCSB's '495' is the American Presidency Project's own document number; the Statutes at Large print this as proclamation No. 41 of the 57th Congress."
+   },
+   {
+    "date": "1907-03-04",
+    "action": "redesignated",
+    "designation": "National Forest",
+    "name": "Luquillo National Forest",
+    "text": "Congress provided that forest reserves would be known as national forests, so the Luquillo Forest Reserve became the Luquillo National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day."
+   },
+   {
+    "date": "1935-06-04",
+    "action": "renamed",
+    "designation": "National Forest",
+    "name": "Caribbean National Forest",
+    "text": "President Franklin D. Roosevelt renamed the Luquillo National Forest the Caribbean National Forest.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 7059-A, June 4, 1935",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Executive Order 7059-A, Changing the Name of the Luquillo National Forest",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-7059-changing-the-name-the-luquillo-national-forest"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1935 order predates the Federal Register; it is listed in FS-612, Davis and the WPA list, and its text is reproduced by the American Presidency Project."
+   },
+   {
+    "date": "2007-04-02",
+    "action": "renamed",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President George W. Bush renamed the Caribbean National Forest the El Yunque National Forest.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 13428, Apr. 2, 2007, 72 F.R. 16693",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Executive Order 13428, 72 F.R. 16693 (Apr. 4, 2007) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2007-04-04/pdf/07-1704.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Executive Order 13428, Renaming a National Forest in the Commonwealth of Puerto Rico",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-13428-renaming-national-forest-the-commonwealth-puerto-rico"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "FS-612 notes the area had long been a forest reserve under Spanish rule before 1903."
+ },
+ "finger-lakes-national-forest": {
+  "events": [
+   {
+    "date": "1985-09-16",
+    "action": "designated",
+    "designation": "National Forest",
+    "name": null,
+    "text": "The Assistant Secretary of Agriculture designated the Hector Ranger District of the Green Mountain National Forest as the Hector Ranger District, Finger Lakes National Forest, New York.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of Sept. 16, 1985 (effective Oct. 1, 1985), 50 F.R. 40042-40043"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 50, No. 190 (Oct. 1, 1985), 50 F.R. 40042-40043 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1985-10-01/pdf/FR-1985-10-01.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed Sept. 16, 1985 by Peter C. Myers, Assistant Secretary for Natural Resources and Environment, effective Oct. 1, 1985; FS-612 lists the order under Oct. 1, 1985, its effective date. The land, the former Hector Land Use Project, had been given national forest status as part of the Green Mountain National Forest by Public Law 98-175 (Nov. 29, 1983); that addition is a boundary change of the Green Mountain."
+   }
+  ],
+  "note": null
+ },
+ "flaming-gorge-national-recreation-area": {
+  "events": [
+   {
+    "date": "1968-10-01",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Flaming Gorge National Recreation Area in Utah and Wyoming.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 90-540, sec. 1, 82 Stat. 904",
+     "president": "Lyndon B. Johnson"
+    },
+    "sources": [
+     {
+      "name": "Public Law 90-540, 82 Stat. 904 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg904.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460v (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460v"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "fort-pierre-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "South Central South Dakota land utilization project",
+    "text": "The Secretary of Agriculture designated the South Central South Dakota land utilization project (SD-2) in Jones, Lyman and Stanley Counties a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Fort Pierre National Grassland'. It listed the area as the South Central South Dakota land utilization project (SD-2) in Jones, Lyman and Stanley Counties. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "francis-marion-national-wildlife-refuge": {
+  "events": [
+   {
+    "date": "1948-05-10",
+    "action": "established",
+    "designation": "Wildlife Preserve",
+    "name": "Francis Marion National Forest Wildlife Preserve",
+    "text": "President Truman established the Francis Marion National Forest Wildlife Preserve as a game sanctuary and refuge in the Francis Marion National Forest, South Carolina.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2785, May 10, 1948, 62 Stat. 1510 (under Public Law 80-257, July 30, 1947, 61 Stat. 516)",
+     "president": "Harry S. Truman"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2785, 62 Stat. 1510 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg1510.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2785, Francis Marion National Forest Wildlife Preserve",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2785-francis-marion-national-forest-wildlife-preserve"
+     },
+     {
+      "name": "Public Law 80-257, 61 Stat. 516 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg516.pdf"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "This is a Forest Service game refuge, not a unit of the National Wildlife Refuge System; the Land Areas Report lists it as the Francis Marion national game refuge. The directory name 'National Wildlife Refuge' does not match the proclamation."
+ },
+ "grand-canyon-preserve-national-game-refuge": {
+  "events": [
+   {
+    "date": "1906-11-28",
+    "action": "established",
+    "designation": "Game Preserve",
+    "name": "Grand Canyon Game Preserve",
+    "text": "President Theodore Roosevelt designated a game preserve in the Grand Canyon Forest Reserve, Arizona Territory, for the protection of game animals.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Nov. 28, 1906, 34 Stat. 3263 (under Act of June 29, 1906, 34 Stat. 607)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Nov. 28, 1906, 34 Stat. 3263 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3263-2.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 694, Setting Aside Game Preserve in Grand Canyon Forest Reserve, Arizona",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-694-setting-aside-game-preserve-grand-canyon-forest-reserve-arizona"
+     },
+     {
+      "name": "16 U.S.C. 684 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/684"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed by Theodore Roosevelt and countersigned by Secretary of State Elihu Root, Nov. 28, 1906. T.R.'s proclamation of June 23, 1908 (35 Stat. 2192) enlarged it and calls it the Grand Canyon National Game Preserve; the 1919 Grand Canyon National Park act removed park lands from it (16 U.S.C. 687). Both are boundary changes."
+   }
+  ],
+  "note": "Now on the Kaibab National Forest."
+ },
+ "grand-island-national-recreation-area": {
+  "events": [
+   {
+    "date": "1990-05-17",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Grand Island National Recreation Area in Lake Superior, Michigan.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 101-292, sec. 1, 104 Stat. 185",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 101-292, 104 Stat. 185 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg185.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460aaa (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460aaa"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "grand-river-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Perkins Corson land utilization project",
+    "text": "The Secretary of Agriculture designated the Perkins Corson land utilization project (SD-21) in Corson, Perkins and Ziebach Counties, South Dakota a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Grand River National Grassland'. It listed the area as the Perkins Corson land utilization project (SD-21) in Corson, Perkins and Ziebach Counties, South Dakota. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date. The 1960 order and 36 CFR 213.1 list only South Dakota counties for Grand River."
+   }
+  ],
+  "note": null
+ },
+ "haw-creek-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-04-26",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Haw Creek was one of these four has not been confirmed.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+     },
+     {
+      "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Haw Creek to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams."
+   }
+  ],
+  "note": "Haw Creek appears as a Forest Service national game refuge on the Ozark National Forest in the Land Areas Report."
+ },
+ "hells-canyon-national-recreation-area": {
+  "events": [
+   {
+    "date": "1975-12-31",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Hells Canyon National Recreation Area in Oregon and Idaho.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 94-199, sec. 1, 89 Stat. 1117",
+     "president": "Gerald R. Ford"
+    },
+    "sources": [
+     {
+      "name": "Public Law 94-199, 89 Stat. 1117 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg1117.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460gg (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460gg"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "hoosier-national-forest": {
+  "events": [
+   {
+    "date": "1951-09-04",
+    "action": "designated",
+    "designation": "National Forest",
+    "name": null,
+    "text": "The Acting Secretary of Agriculture ordered that Weeks Act lands in the described areas of Indiana be administered as the Hoosier National Forest from Oct. 1, 1951.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, Sept. 4, 1951 (effective Oct. 1, 1951), 16 F.R. 9174"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 16 (Sept. 8, 1951), 16 F.R. 9174, 'Wayne and Hoosier National Forests' (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1951-09-08/pdf/FR-1951-09-08.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed Sept. 4, 1951 by Acting Secretary K. T. Hutchinson; effective Oct. 1, 1951. Davis prints the year as 1961, an evident misprint given its 16 F.R. citation. Hoosier was later administered jointly with the Wayne (Wayne-Hoosier); that was administrative."
+   }
+  ],
+  "note": null
+ },
+ "huron-national-forest": {
+  "events": [
+   {
+    "date": "1928-07-30",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Coolidge established the Huron National Forest in Michigan from part of the Michigan National Forest and other land.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of July 30, 1928, 45 Stat. 2959",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of July 30, 1928, 45 Stat. 2959 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2959-2.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1844, Establishing the Huron National Forest, Michigan",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1844-establishing-the-huron-national-forest-michigan"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "Administered with the Manistee as the Huron-Manistee National Forests since 1955 (Davis), an administrative combination."
+ },
+ "indian-nations-national-scenic-and-wildlife-area": {
+  "events": [
+   {
+    "date": "1988-10-18",
+    "action": "designated",
+    "designation": "National Scenic and Wildlife Area",
+    "name": null,
+    "text": "The Winding Stair Mountain National Recreation and Wilderness Area Act designated the Indian Nations National Scenic and Wildlife Area in the Ouachita National Forest, Oklahoma.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 100-499, sec. 10, 102 Stat. 2491, 2496",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 100-499, 102 Stat. 2491 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2491.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460vv-8 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460vv-8"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "jemez-national-recreation-area": {
+  "events": [
+   {
+    "date": "1993-10-12",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Jemez National Recreation Area in the Santa Fe National Forest, New Mexico.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 103-104, sec. 1, 107 Stat. 1025",
+     "president": "Bill Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 103-104, 107 Stat. 1025 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1025.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460jjj (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460jjj"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "kaniksu-national-forest": {
+  "events": [
+   {
+    "date": "1908-06-26",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Theodore Roosevelt created the Kaniksu National Forest from part of the Priest River National Forest in Idaho and Washington.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 845, 1908-06-26 (effective July 1, 1908)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The executive order text was not located online. FS-612 and the 1944 WPA list of executive orders (compiled from the orders) agree on EO 845 of 1908-06-26; Davis gives the effective date, July 1, 1908."
+   }
+  ],
+  "note": "Kaniksu land is now administered as part of the Idaho Panhandle National Forests (with the St. Joe and Coeur d'Alene, combined administratively in 1973) and the Colville National Forest; those combinations are administrative."
+ },
+ "kiowa-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Mills and Union County land utilization projects",
+    "text": "The Secretary of Agriculture designated the Mills (NM-5) and Union County (NM-21) land utilization projects in Colfax, Harding, Mora and Union Counties, New Mexico a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Kiowa National Grassland'. It listed the area as the Mills (NM-5) and Union County (NM-21) land utilization projects in Colfax, Harding, Mora and Union Counties, New Mexico. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "land-between-the-lakes-national-recreation-area": {
+  "events": [
+   {
+    "date": "1998-10-21",
+    "action": "transferred",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The Land Between the Lakes Protection Act of 1998 provided for transfer of the Land Between the Lakes from the Tennessee Valley Authority to the Secretary of Agriculture and established it as a national recreation area in the National Forest System.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 105-277, div. A, sec. 101(e), title V, 112 Stat. 2681-231, 2681-312",
+     "president": "Bill Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 105-277, 112 Stat. 2681 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-112/pdf/STATUTE-112-Pg2681.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460lll-11 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460lll-11"
+     },
+     {
+      "name": "16 U.S.C. 460lll-41, effective date of transfer (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460lll-41"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Under 16 U.S.C. 460lll-41 the transfer took effect on Oct. 1 of the first fiscal year for which Congress did not appropriate at least $6 million to TVA for the area; the Forest Service gives Oct. 1, 1999, which was not checked against a primary record."
+   }
+  ],
+  "note": "The Tennessee Valley Authority managed Land Between the Lakes before the transfer; no dated instrument for TVA's original designation was verified."
+ },
+ "little-missouri-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Western North Dakota land utilization project",
+    "text": "The Secretary of Agriculture designated the Western North Dakota land utilization project (ND-24) in Billings, Golden Valley, McKenzie and Slope Counties a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Little Missouri National Grassland'. It listed the area as the Western North Dakota land utilization project (ND-24) in Billings, Golden Valley, McKenzie and Slope Counties. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "livingston-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-04-26",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Livingston was one of these four has not been confirmed.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+     },
+     {
+      "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Livingston to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams."
+   }
+  ],
+  "note": "Livingston appears as a Forest Service national game refuge on the Ozark National Forest in the Land Areas Report."
+ },
+ "lyndon-b-johnson-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Cross Timbers land utilization project",
+    "text": "The Secretary of Agriculture designated the Cross Timbers land utilization project (TX-25) in Montague and Wise Counties, Texas a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Lyndon B. Johnson National Grassland'. It listed the area as the Cross Timbers land utilization project (TX-25) in Montague and Wise Counties, Texas. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date. The name Lyndon B. Johnson appears in the 36 CFR 213.1 table as revised Sept. 9, 1976 (41 F.R. 38164); the date and instrument of the change from the Cross Timbers name were not found."
+   }
+  ],
+  "note": null
+ },
+ "mcclellan-creek-national-grassland": {
+  "events": [
+   {
+    "date": "1962-12-06",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": null,
+    "text": "The Assistant Secretary of Agriculture added land utilization project TX-LU-24 in Gray County, Texas, to the list of national grasslands.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of Dec. 6, 1962, 27 F.R. 12217 (36 CFR 213.1(e)), effective Dec. 11, 1962"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 27 (Dec. 11, 1962), 27 F.R. 12217: order of Dec. 6, 1962 adding TX-LU-22 and TX-LU-24 to 36 CFR 213.1(e) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1962-12-11/pdf/FR-1962-12-11.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed Dec. 6, 1962 by Assistant Secretary John A. Baker; effective Dec. 11, 1962. The order lists the project by number and county only; FS-612 identifies TX-24 as McClellan Creek."
+   }
+  ],
+  "note": null
+ },
+ "misty-fjords-national-monument": {
+  "events": [
+   {
+    "date": "1978-12-01",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Misty Fiords National Monument",
+    "text": "President Carter proclaimed Misty Fiords National Monument under the Antiquities Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 4623, Dec. 1, 1978, 93 Stat. 1466",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 4623, 93 Stat. 1466 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1466.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1980-12-02",
+    "action": "redesignated",
+    "designation": "National Monument",
+    "name": "Misty Fjords National Monument",
+    "text": "The Alaska National Interest Lands Conservation Act established Misty Fjords National Monument by statute within the Tongass National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 96-487, title V, sec. 503(a), 94 Stat. 2371, 2399",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 96-487 (ANILCA), 94 Stat. 2371 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The 1978 proclamation spells the name 'Fiords'; ANILCA spells it 'Fjords'."
+ },
+ "moccasin-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-04-26",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Coolidge set aside the Ozark National Game Refuges Numbers One through Four in the Ozark National Forest; whether Moccasin was one of these four has not been confirmed.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 26, 1926, 44 Stat. 2611 (under Act of Feb. 28, 1925, 43 Stat. 1091)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 26, 1926 setting aside the Ozark National Game Refuges Numbers One to Four, 44 Stat. 2611 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2611.pdf"
+     },
+     {
+      "name": "Proclamation of June 13, 1928 enlarging the Ozark National Forest and setting aside National Game Refuge No. 5, 45 Stat. 2953 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2953.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1771, Setting Aside the Ozark National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1771-setting-aside-the-ozark-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "unresolved",
+    "note": "The proclamations number the Ozark refuges (Nos. 1-4 in 1926, No. 5 in 1928) and do not name them. No source was found that matches the name Moccasin to a refuge number, so the establishing date could be Apr. 26, 1926 or June 13, 1928. Check the Ozark-St. Francis National Forests' records or the proclamation diagrams."
+   }
+  ],
+  "note": "Moccasin appears as a Forest Service national game refuge on the Ozark National Forest in the Land Areas Report."
+ },
+ "modoc-national-forest": {
+  "events": [
+   {
+    "date": "1904-11-29",
+    "action": "established",
+    "designation": "Forest Reserve",
+    "name": "Modoc Forest Reserve",
+    "text": "President Theodore Roosevelt proclaimed the Modoc Forest Reserve in California.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Nov. 29, 1904, 33 Stat. 2380",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Nov. 29, 1904, 33 Stat. 2380 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2380.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 535, Establishment of the Modoc Forest Reserve, California",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-535-establishment-the-modoc-forest-reserve-california"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "UCSB's '535' is the American Presidency Project's own document number; the Statutes at Large print this as proclamation No. 37 of the 58th Congress."
+   },
+   {
+    "date": "1907-03-04",
+    "action": "redesignated",
+    "designation": "National Forest",
+    "name": "Modoc National Forest",
+    "text": "Congress provided that forest reserves would be known as national forests, so the Modoc Forest Reserve became the Modoc National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day."
+   }
+  ],
+  "note": "The Warner Mountains National Forest was added July 1, 1908 (EO 908); that is a boundary change."
+ },
+ "mono-basin-national-scenic-area": {
+  "events": [
+   {
+    "date": "1984-09-28",
+    "action": "established",
+    "designation": "National Forest Scenic Area",
+    "name": "Mono Basin National Forest Scenic Area",
+    "text": "The California Wilderness Act of 1984 established the Mono Basin National Forest Scenic Area in the Inyo National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 98-425, title III, sec. 301, 98 Stat. 1619, 1632",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 98-425, 98 Stat. 1619 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg1619.pdf"
+     },
+     {
+      "name": "16 U.S.C. 543 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/543"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The statutory name is 'Mono Basin National Forest Scenic Area'."
+ },
+ "monongahela-national-forest": {
+  "events": [
+   {
+    "date": "1920-04-28",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Wilson proclaimed the Monongahela National Forest in West Virginia and Virginia on lands bought under the Weeks Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Apr. 28, 1920, 41 Stat. 1792",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Apr. 28, 1920, 41 Stat. 1792 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1792.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1561, Setting Apart the Monongahela National Forest, Virginia and West Virginia",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1561-setting-apart-the-monongahela-national-forest-virginia-and-west-virginia"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "moosalamoo-national-recreation-area": {
+  "events": [
+   {
+    "date": "2006-12-01",
+    "action": "designated",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The New England Wilderness Act of 2006 designated the Moosalamoo National Recreation Area in the Green Mountain National Forest, Vermont.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 109-382, title II, sec. 221, 120 Stat. 2673, 2676",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 109-382, 120 Stat. 2673 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-120/pdf/STATUTE-120-Pg2673.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ttt (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ttt"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "mount-baker-national-recreation-area": {
+  "events": [
+   {
+    "date": "1984-07-03",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The Washington State Wilderness Act of 1984 established the Mount Baker National Recreation Area in the Mount Baker-Snoqualmie National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 98-339, sec. 7, 98 Stat. 299, 304",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 98-339, 98 Stat. 299 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg299.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460pp (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460pp"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "mount-hood-national-recreation-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 established the Mount Hood National Recreation Area in the Mount Hood National Forest, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title I, sec. 1204, 123 Stat. 991, 1013",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460uuu (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460uuu"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "mount-pleasant-national-scenic-area": {
+  "events": [
+   {
+    "date": "1994-08-26",
+    "action": "established",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Mount Pleasant National Scenic Area Act established the scenic area in the George Washington National Forest, Virginia.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 103-314, 108 Stat. 1703",
+     "president": "Bill Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 103-314, 108 Stat. 1703 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg1703.pdf"
+     },
+     {
+      "name": "16 U.S.C. 545 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/545"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "mount-rogers-national-recreation-area": {
+  "events": [
+   {
+    "date": "1966-05-31",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress provided for the Mount Rogers National Recreation Area in the Jefferson National Forest, Virginia.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 89-438, 80 Stat. 190",
+     "president": "Lyndon B. Johnson"
+    },
+    "sources": [
+     {
+      "name": "Public Law 89-438, 80 Stat. 190 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg190.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460r-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460r-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The act directed the Secretary of Agriculture to designate the boundaries and publish them in the Federal Register; that later notice was not checked."
+   }
+  ],
+  "note": null
+ },
+ "mount-st-helens-national-volcanic-monument": {
+  "events": [
+   {
+    "date": "1982-08-26",
+    "action": "established",
+    "designation": "National Volcanic Monument",
+    "name": null,
+    "text": "Congress designated the Mount St. Helens National Volcanic Monument in the Gifford Pinchot National Forest, Washington.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 97-243, 96 Stat. 301",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 97-243, 96 Stat. 301 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-96/pdf/STATUTE-96-Pg301.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "newberry-national-volcanic-monument": {
+  "events": [
+   {
+    "date": "1990-11-05",
+    "action": "established",
+    "designation": "National Volcanic Monument",
+    "name": null,
+    "text": "Congress established the Newberry National Volcanic Monument in the Deschutes National Forest, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 101-522, 104 Stat. 2288",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 101-522, 104 Stat. 2288 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2288.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "noontootly-national-game-refuge": {
+  "events": [
+   {
+    "date": "1924-08-05",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Cherokee National Game Refuge No. 2",
+    "text": "President Coolidge set aside Cherokee National Game Refuges Numbers One and Two on Weeks Act lands in Tennessee and Georgia; No. 2 was the Georgia refuge.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1707, Setting Aside Cherokee National Game Refuges Numbers One and Two",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1707-setting-aside-cherokee-national-game-refuges-numbers-one-and-two"
+     },
+     {
+      "name": "Proclamation 2287 of June 6, 1938, 52 Stat. 1549, reciting Refuge No. 2 in Georgia (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1549.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1938-06-06",
+    "action": "renamed",
+    "designation": "National Game Refuge",
+    "name": null,
+    "text": "President Franklin D. Roosevelt renamed Cherokee National Game Refuge No. 2 in Georgia the Noontootly National Game Refuge and redrew its boundaries.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2287, June 6, 1938, 52 Stat. 1549",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2287, 52 Stat. 1549 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1549.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2287, Noontootly National Game Refuge, Georgia",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2287-noontootly-national-game-refuge-georgia"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "Now on the Chattahoochee National Forest."
+ },
+ "norbeck-wildlife-preserve-national-game-refuge": {
+  "events": [
+   {
+    "date": "1920-10-09",
+    "action": "established",
+    "designation": "Game Sanctuary",
+    "name": "Custer State Park Game Sanctuary",
+    "text": "President Wilson designated lands of the Harney National Forest next to Custer State Park, South Dakota, as the Custer State Park Game Sanctuary.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Oct. 9, 1920, 41 Stat. 1805 (under Act of June 5, 1920, 41 Stat. 986)",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Oct. 9, 1920, 41 Stat. 1805 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1805.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1576, Setting Aside Custer State Park Game Sanctuary, South Dakota",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1576-setting-aside-custer-state-park-game-sanctuary-south-dakota"
+     },
+     {
+      "name": "Act of June 5, 1920, ch. 247, 41 Stat. 986 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg986.pdf"
+     },
+     {
+      "name": "16 U.S.C. 675 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/675"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The Act of June 5, 1920 authorized the President to designate the sanctuary; the proclamation made the designation. Enlargements in 1925 and 1929 are boundary changes."
+   },
+   {
+    "date": "1949-10-06",
+    "action": "renamed",
+    "designation": "Wildlife Preserve",
+    "name": "Norbeck Wildlife Preserve",
+    "text": "Congress renamed the Custer State Park Game Sanctuary in the Harney National Forest the Norbeck Wildlife Preserve.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 81-326, ch. 620, 63 Stat. 708",
+     "president": "Harry S. Truman"
+    },
+    "sources": [
+     {
+      "name": "Public Law 81-326, 63 Stat. 708 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg708-2.pdf"
+     },
+     {
+      "name": "16 U.S.C. 675 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/675"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "Now on the Black Hills National Forest; the statutory name is Norbeck Wildlife Preserve."
+ },
+ "north-cascades-national-scenic-area": {
+  "events": [
+   {
+    "date": "1984-07-03",
+    "action": "designated",
+    "designation": "Scenic Area",
+    "name": null,
+    "text": "The Washington State Wilderness Act of 1984 directed that about 87,757 acres along the North Cascades Highway in the Mount Baker-Snoqualmie and Okanogan National Forests be managed to preserve their scenic values.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 98-339, sec. 8, 98 Stat. 299",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 98-339, 98 Stat. 299 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg299.pdf"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 12: National Scenic Areas by State (FY2017)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2017/Table-12-NationalScenicAreasbyState.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Section 8 refers to the area by a map titled 'North Cascades Scenic Highway' and calls it a 'scenic area'; it does not use the name 'North Cascades National Scenic Area'. The Forest Service Land Areas Report lists it as the North Cascades National Scenic Area (about 88,000 acres). The section is uncodified, so no U.S. Code note was used."
+   }
+  ],
+  "note": null
+ },
+ "oak-mountain-national-game-refuge": {
+  "events": [
+   {
+    "date": "1935-03-08",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Oak Mountain Refuge (Refuge No. 2)",
+    "text": "President Franklin D. Roosevelt established Refuge No. 2, the Oak Mountain Refuge, as a game sanctuary and refuge in the Ouachita National Forest, Arkansas.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2119, Mar. 8, 1935, 49 Stat. 3439 (under Act of June 13, 1933, 48 Stat. 128)",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2119, Ouachita National Game Refuges, Mar. 8, 1935, 49 Stat. 3439 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3439.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2119, Ouachita National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2119-ouachita-national-game-refuges-arkansas"
+     },
+     {
+      "name": "16 U.S.C. 693 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/693"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "ocala-national-game-refuge": {
+  "events": [
+   {
+    "date": "1930-07-24",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Ocala National Game Refuge",
+    "text": "President Hoover set aside lands in the Ocala National Forest, Florida, as the Ocala National Game Refuge.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of July 24, 1930, 46 Stat. 3031 (under Act of June 28, 1930, 46 Stat. 827)",
+     "president": "Herbert Hoover"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of July 24, 1930, 46 Stat. 3031 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3031.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1918, Ocala Game Refuge, Florida",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1918-ocala-game-refuge-florida"
+     },
+     {
+      "name": "16 U.S.C. 692 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/692"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "oglala-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Pine Ridge land utilization project",
+    "text": "The Secretary of Agriculture designated the Pine Ridge land utilization project (NB-1) in Dawes and Sioux Counties, Nebraska, except the part south of the White River a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Oglala National Grassland'. It listed the area as the Pine Ridge land utilization project (NB-1) in Dawes and Sioux Counties, Nebraska, except the part south of the White River. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "okanogan-national-forest": {
+  "events": [
+   {
+    "date": "1911-06-30",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Taft set apart the Okanogan National Forest in Washington from part of the Chelan National Forest.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of June 30, 1911, 37 Stat. 1701 (effective July 1, 1911)",
+     "president": "William Howard Taft"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of June 30, 1911, 37 Stat. 1701 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1701-2.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1150, Setting Apart the Okanogan National Forest, Washington",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1150-setting-apart-the-okanogan-national-forest-washington"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1920-12-31",
+    "action": "transferred",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Wilson transferred the whole Okanogan National Forest to the Chelan National Forest, and the Okanogan name was dropped.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 3380, Dec. 31, 1920 (effective July 1, 1921)",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The order text was not located online; FS-612 and the WPA list agree on EO 3380 of Dec. 31, 1920, and Davis gives the effective date, July 1, 1921."
+   },
+   {
+    "date": "1955-03-23",
+    "action": "renamed",
+    "designation": "National Forest",
+    "name": "Chelan National Forest",
+    "text": "The Department of the Interior, on the Secretary of Agriculture's recommendation, changed the name of the Chelan National Forest to the Okanogan National Forest.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Public Land Order 1101, Mar. 23, 1955, 20 F.R. 1890"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 20, No. 61 (Mar. 29, 1955), Public Land Order 1101, 20 F.R. 1890 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1955-03-29/pdf/FR-1955-03-29.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed by Orme Lewis, Assistant Secretary of the Interior, under presidential authority delegated by EO 10355. The order says the Chelan National Forest was established by EO 823 of June 18, 1908."
+   }
+  ],
+  "note": "Today's Okanogan National Forest descends from the 1908 Chelan National Forest, renamed in 1955; it is administered with the Wenatchee as the Okanogan-Wenatchee National Forest."
+ },
+ "opal-creek-national-scenic-recreation-area": {
+  "events": [
+   {
+    "date": "1996-09-30",
+    "action": "established",
+    "designation": "Scenic Recreation Area",
+    "name": "Opal Creek Scenic Recreation Area",
+    "text": "Congress established the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area in the Willamette National Forest, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 104-208, div. B, title I, 110 Stat. 3009-523; re-enacted by Public Law 104-333, div. I, title X, sec. 1023, 110 Stat. 4215 (Nov. 12, 1996)",
+     "president": "Bill Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 104-208, 110 Stat. 3009 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg3009.pdf"
+     },
+     {
+      "name": "Public Law 104-333, 110 Stat. 4093 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+     },
+     {
+      "name": "16 U.S.C. 545b and codification note (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/545b"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The U.S. Code codifies the Nov. 12, 1996 enactment (Public Law 104-333, sec. 1023) and notes that substantially identical provisions were first enacted Sept. 30, 1996 by Public Law 104-208."
+   }
+  ],
+  "note": "The statutory name is 'Opal Creek Scenic Recreation Area'."
+ },
+ "oregon-dunes-national-recreation-area": {
+  "events": [
+   {
+    "date": "1972-03-23",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Oregon Dunes National Recreation Area in the Siuslaw National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 92-260, sec. 1, 86 Stat. 99",
+     "president": "Richard Nixon"
+    },
+    "sources": [
+     {
+      "name": "Public Law 92-260, 86 Stat. 99 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg99.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460z (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460z"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "ouachita-national-wildlife-refuge": {
+  "events": [
+   {
+    "date": "1935-03-08",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Muddy Creek Refuge (Refuge No. 3)",
+    "text": "President Franklin D. Roosevelt established Refuge No. 3, the Muddy Creek Refuge, as a game sanctuary and refuge in the Ouachita National Forest, Arkansas.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2119, Mar. 8, 1935, 49 Stat. 3439",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2119, Ouachita National Game Refuges, Mar. 8, 1935, 49 Stat. 3439 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3439.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2119, Ouachita National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2119-ouachita-national-game-refuges-arkansas"
+     },
+     {
+      "name": "Proclamation 2308 of Oct. 29, 1938, 53 Stat. 2495, reciting the 1935 designation of the Muddy Creek Refuge (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2495.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "1938-10-29",
+    "action": "renamed",
+    "designation": "Wildlife Preserve",
+    "name": "Ouachita National Wildlife Preserve",
+    "text": "President Franklin D. Roosevelt enlarged the Muddy Creek Refuge and renamed it the Ouachita National Wildlife Preserve.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2308, Oct. 29, 1938, 53 Stat. 2495",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2308, 53 Stat. 2495 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2495.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2308, Ouachita National Wildlife Preserve, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2308-ouachita-national-wildlife-preserve-arkansas"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "This is a Forest Service game refuge on the Ouachita National Forest (listed as 'Ouachita' in Land Areas Report Table 17), not a unit of the National Wildlife Refuge System."
+ },
+ "pawnee-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Northeast Colorado land utilization project",
+    "text": "The Secretary of Agriculture designated the Northeast Colorado land utilization project (CO-21) in Weld County, Colorado a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Pawnee National Grassland'. It listed the area as the Northeast Colorado land utilization project (CO-21) in Weld County, Colorado. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "pigeon-creek-national-game-refuge": {
+  "events": [
+   {
+    "date": "1935-03-08",
+    "action": "established",
+    "designation": "National Game Refuge",
+    "name": "Pigeon Creek Refuge (Refuge No. 1)",
+    "text": "President Franklin D. Roosevelt established Refuge No. 1, the Pigeon Creek Refuge, as a game sanctuary and refuge in the Ouachita National Forest, Arkansas.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2119, Mar. 8, 1935, 49 Stat. 3439 (under Act of June 13, 1933, 48 Stat. 128)",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2119, Ouachita National Game Refuges, Mar. 8, 1935, 49 Stat. 3439 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3439.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2119, Ouachita National Game Refuges, Arkansas",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2119-ouachita-national-game-refuges-arkansas"
+     },
+     {
+      "name": "16 U.S.C. 693 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/693"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "pine-ridge-national-recreation-area": {
+  "events": [
+   {
+    "date": "1986-10-20",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Pine Ridge National Recreation Area in the Nebraska National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 99-504, title II, sec. 201, 100 Stat. 1802, 1804",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 99-504, 100 Stat. 1802 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg1802.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460rr (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460rr"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "pisgah-national-forest": {
+  "events": [
+   {
+    "date": "1916-10-17",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Wilson proclaimed the boundaries of the Pisgah National Forest in North Carolina on lands bought under the Weeks Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Oct. 17, 1916, 39 Stat. 1811",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Oct. 17, 1916, 39 Stat. 1811 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg1811.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1349, Setting Apart the Pisgah National Forest, North Carolina",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1349-setting-apart-the-pisgah-national-forest-north-carolina"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The proclamation recites that the Secretary of Agriculture had designated these lands the Pisgah National Forest on Sept. 29, 1916 under section 11 of the Weeks Act; that secretarial designation was not separately checked."
+   }
+  ],
+  "note": null
+ },
+ "pisgah-national-game-refuge": {
+  "events": [
+   {
+    "date": "1916-10-17",
+    "action": "established",
+    "designation": "National Game Preserve",
+    "name": "Pisgah National Game Preserve",
+    "text": "President Wilson set aside the Weeks Act lands of the Pisgah National Forest, North Carolina, for the protection of game animals, birds and fish as the Pisgah National Game Preserve.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Oct. 17, 1916, 39 Stat. 1811 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+     "president": "Woodrow Wilson"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Oct. 17, 1916 setting aside the Pisgah National Game Preserve, 39 Stat. 1811 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg1811-2.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1350, Setting Aside the Pisgah National Game Preserve, North Carolina",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1350-setting-aside-the-pisgah-national-game-preserve-north-carolina"
+     },
+     {
+      "name": "16 U.S.C. 683 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/683"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "govinfo files this proclamation as a second document beginning on page 1811 of volume 39; it may run onto page 1812."
+   }
+  ],
+  "note": null
+ },
+ "rattlesnake-national-recreation-area": {
+  "events": [
+   {
+    "date": "1980-10-19",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress designated the Rattlesnake National Recreation Area in the Lolo National Forest, Montana.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 96-476, sec. 3, 94 Stat. 2271, 2272",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 96-476, 94 Stat. 2271 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2271.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ll-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ll-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "red-dirt-national-wildlife-refuge": {
+  "events": [
+   {
+    "date": "1941-09-27",
+    "action": "established",
+    "designation": "Wildlife Management Preserve",
+    "name": "National Red Dirt Wildlife Management Preserve",
+    "text": "President Franklin D. Roosevelt set aside Weeks Act lands of the Kisatchie National Forest, Louisiana, as the National Red Dirt Wildlife Management Preserve.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2514, Sept. 27, 1941, 55 Stat. 1688 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2514, 55 Stat. 1688 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-55/pdf/STATUTE-55-Pg1688.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2514, National Red Dirt Wildlife Management Preserve, Louisiana",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2514-national-red-dirt-wildlife-management-preserve-louisiana"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "A Forest Service game refuge, not a unit of the National Wildlife Refuge System."
+ },
+ "rita-blanca-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Cimarron and Dallam County land utilization projects",
+    "text": "The Secretary of Agriculture designated the Cimarron (OK-21) and Dallam County (TX-23) land utilization projects in Cimarron County, Oklahoma, and Dallam County, Texas a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Rita Blanca National Grassland'. It listed the area as the Cimarron (OK-21) and Dallam County (TX-23) land utilization projects in Cimarron County, Oklahoma, and Dallam County, Texas. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "robert-t-stafford-white-rocks-national-recreation-area": {
+  "events": [
+   {
+    "date": "1984-06-19",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": "White Rocks National Recreation Area",
+    "text": "The Vermont Wilderness Act of 1984 established the White Rocks National Recreation Area in the Green Mountain National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 98-322, title II, sec. 202, 98 Stat. 253, 257",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 98-322, 98 Stat. 253 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg253.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460nn-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460nn-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "2007-01-17",
+    "action": "renamed",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress renamed the White Rocks National Recreation Area the Robert T. Stafford White Rocks National Recreation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 110-1, sec. 1, 121 Stat. 3",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 110-1, 121 Stat. 3 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-121/pdf/STATUTE-121-Pg3.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460nn-1, Change of Name note (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460nn-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "saint-francis-dam-national-monument": {
+  "events": [
+   {
+    "date": "2019-03-12",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Saint Francis Dam Disaster National Monument",
+    "text": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Saint Francis Dam Disaster National Monument in the Angeles National Forest, California, and authorized a memorial at the dam site.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 116-9, title I, sec. 1111, 133 Stat. 580, 611",
+     "president": "Donald J. Trump"
+    },
+    "sources": [
+     {
+      "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-133/pdf/STATUTE-133-Pg580.pdf"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The statutory name is 'Saint Francis Dam Disaster National Monument'."
+ },
+ "sattitla-highlands-national-monument": {
+  "events": [
+   {
+    "date": "2025-01-14",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Sáttítla Highlands National Monument",
+    "text": "President Biden proclaimed the Sáttítla Highlands National Monument in northern California under the Antiquities Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 10882, Jan. 14, 2025, 90 F.R. 6727",
+     "president": "Joseph R. Biden Jr."
+    },
+    "sources": [
+     {
+      "name": "Proclamation 10882, 90 F.R. 6727 (Jan. 17, 2025) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-17/pdf/2025-01443.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 10882, Establishment of the Sattitla Highlands National Monument",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-10882-establishment-the-sattitla-highlands-national-monument"
+     },
+     {
+      "name": "USDA Forest Service: Sáttítla Highlands National Monument",
+      "url": "https://www.fs.usda.gov/visit/national-monuments/sattitla-highlands-national-monument"
+     },
+     {
+      "name": "CalMatters commentary, January 2026: A California national monument may lose protected status",
+      "url": "https://calmatters.org/commentary/2026/01/california-national-monument-protected-status/"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "In 2025 the administration said it would seek to rescind the designation. As of early 2026 the monument remained in place."
+   }
+  ],
+  "note": "Monument status contested since 2025; see event note."
+ },
+ "sawtooth-national-recreation-area": {
+  "events": [
+   {
+    "date": "1972-08-22",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Sawtooth National Recreation Area in Idaho.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 92-400, sec. 1, 86 Stat. 612",
+     "president": "Richard Nixon"
+    },
+    "sources": [
+     {
+      "name": "Public Law 92-400, 86 Stat. 612 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg612.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460aa (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460aa"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "seng-mountain-national-scenic-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "designated",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 designated the Seng Mountain Scenic Area in the Jefferson National Forest, Virginia, as a national scenic area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title I, sec. 1104, 123 Stat. 991, 1004",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+     },
+     {
+      "name": "16 U.S.C. 546b (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/546b"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "sheep-mountain-game-refuge-national-game-refuge": {
+  "events": [
+   {
+    "date": "1924-08-08",
+    "action": "established",
+    "designation": "Game Refuge",
+    "name": null,
+    "text": "President Coolidge added public land to the Medicine Bow National Forest, Wyoming, and set the added area aside as a game refuge and breeding place for game animals and birds.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Aug. 8, 1924, 43 Stat. 1964 (under Act of June 7, 1924, ch. 307, 43 Stat. 594)",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Aug. 8, 1924, 43 Stat. 1964 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964-2.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1708, Enlarging Area of the Medicine Bow National Forest, Wyoming",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1708-enlarging-area-the-medicine-bow-national-forest-wyoming"
+     },
+     {
+      "name": "Act of June 7, 1924, ch. 307, 43 Stat. 594 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg594-2.pdf"
+     },
+     {
+      "name": "wyoachs.com, 'Sheep Mountain Game Refuge, an overlooked gem'",
+      "url": "https://wyoachs.com/places/sheep-mountain-game-refuge-an-overlooked-gema-good-area-for-an-experienced-hiker"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Neither the act nor the proclamation uses the name Sheep Mountain; they describe townships 14 and 15 north, range 77 west. The link to Sheep Mountain rests on a secondary account (wyoachs.com), which says the refuge came from a bill by Sen. John Kendrick and Coolidge's proclamation, and on the Land Areas Report, which lists Sheep Mountain Game Refuge on the Medicine Bow."
+   }
+  ],
+  "note": null
+ },
+ "sheyenne-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Sheyenne River land utilization project",
+    "text": "The Secretary of Agriculture designated the Sheyenne River land utilization project (ND-6) in Ransom and Richland Counties, North Dakota a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Sheyenne National Grassland'. It listed the area as the Sheyenne River land utilization project (ND-6) in Ransom and Richland Counties, North Dakota. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "smith-river-national-recreation-area": {
+  "events": [
+   {
+    "date": "1990-11-16",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "The Smith River National Recreation Area Act established the recreation area in the Six Rivers National Forest, California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 101-612, sec. 4, 104 Stat. 3209, 3210",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 101-612, 104 Stat. 3209 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg3209.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460bbb-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460bbb-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "spring-mountains-national-recreation-area": {
+  "events": [
+   {
+    "date": "1993-08-04",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Spring Mountains National Recreation Area in the Toiyabe National Forest, Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 103-63, 107 Stat. 296",
+     "president": "Bill Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 103-63, 107 Stat. 296 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg297.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460hhh-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460hhh-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "govinfo files the law as a document beginning on page 297 of volume 107; the U.S. Code cites its sections from 107 Stat. 296-297."
+   }
+  ],
+  "note": null
+ },
+ "spruce-knob-seneca-rocks-national-recreation-area": {
+  "events": [
+   {
+    "date": "1965-09-28",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress provided for the Spruce Knob-Seneca Rocks National Recreation Area in the Monongahela National Forest, West Virginia.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 89-207, 79 Stat. 843",
+     "president": "Lyndon B. Johnson"
+    },
+    "sources": [
+     {
+      "name": "Public Law 89-207, 79 Stat. 843 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg842.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460p-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460p-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The act directed the Secretary of Agriculture to designate the area and publish its boundaries in the Federal Register; that later notice was not checked. govinfo files the law as beginning on page 842."
+   }
+  ],
+  "note": null
+ },
+ "st-joe-national-forest": {
+  "events": [
+   {
+    "date": "1911-06-29",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Taft set apart the St. Joe National Forest in Idaho from parts of the Clearwater and Coeur d'Alene National Forests.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of June 29, 1911, 37 Stat. 1697 (effective July 1, 1911)",
+     "president": "William Howard Taft"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of June 29, 1911, 37 Stat. 1697 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1697-2.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 1143, Setting Apart the St. Joe National Forest, Idaho",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-1143-setting-apart-the-st-joe-national-forest-idaho"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "Administered since 1973 as part of the Idaho Panhandle National Forests, an administrative combination."
+ },
+ "tahquitz-national-game-refuge": {
+  "events": [
+   {
+    "date": "1926-07-03",
+    "action": "established",
+    "designation": "National Game Preserve",
+    "name": "Tahquitz National Game Preserve",
+    "text": "Congress created the Tahquitz National Game Preserve in the San Bernardino National Forest, Riverside County, California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Act of July 3, 1926, ch. 776, 44 Stat. 889",
+     "president": "Calvin Coolidge"
+    },
+    "sources": [
+     {
+      "name": "Act of July 3, 1926, ch. 776, 44 Stat. 889 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg889.pdf"
+     },
+     {
+      "name": "16 U.S.C. 689 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/689"
+     },
+     {
+      "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+      "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The act made the preserve subject to the condition that the land within its boundary first become the property of the United States."
+   }
+  ],
+  "note": null
+ },
+ "talladega-national-forest": {
+  "events": [
+   {
+    "date": "1936-07-17",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Franklin D. Roosevelt proclaimed the Talladega National Forest in Alabama.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 2190, July 17, 1936, 50 Stat. 1755; 1 F.R. 860",
+     "president": "Franklin D. Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 2190, 50 Stat. 1755 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1755.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 2190, Talladega National Forest, Alabama",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-2190-talladega-national-forest-alabama"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "thunder-basin-national-grassland": {
+  "events": [
+   {
+    "date": "1960-06-20",
+    "action": "designated",
+    "designation": "National Grassland",
+    "name": "Northeastern Wyoming land utilization project",
+    "text": "The Secretary of Agriculture designated the Northeastern Wyoming land utilization project (WY-21) in Campbell, Converse, Crook, Niobrara and Weston Counties a national grassland, to be part of the National Forest System.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+     },
+     {
+      "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+      "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The 1960 order did not use the name 'Thunder Basin National Grassland'. It listed the area as the Northeastern Wyoming land utilization project (WY-21) in Campbell, Converse, Crook, Niobrara and Weston Counties. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date."
+   }
+  ],
+  "note": null
+ },
+ "tonto-national-forest": {
+  "events": [
+   {
+    "date": "1905-10-03",
+    "action": "established",
+    "designation": "Forest Reserve",
+    "name": "Tonto Forest Reserve",
+    "text": "President Theodore Roosevelt proclaimed the Tonto Forest Reserve in Arizona Territory.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation of Oct. 3, 1905, 34 Stat. 3166",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Proclamation of Oct. 3, 1905, 34 Stat. 3166 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3166.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "American Presidency Project (UC Santa Barbara), Proclamation 598, Establishment of the Tonto Forest Reserve, Arizona",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-598-establishment-the-tonto-forest-reserve-arizona"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "UCSB's '598' is the American Presidency Project's own document number, not an official proclamation number."
+   },
+   {
+    "date": "1907-03-04",
+    "action": "redesignated",
+    "designation": "National Forest",
+    "name": "Tonto National Forest",
+    "text": "Congress provided that forest reserves would be known as national forests, so the Tonto Forest Reserve became the Tonto National Forest.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day."
+   }
+  ],
+  "note": null
+ },
+ "umatilla-national-forest": {
+  "events": [
+   {
+    "date": "1908-06-13",
+    "action": "established",
+    "designation": "National Forest",
+    "name": null,
+    "text": "President Theodore Roosevelt created the Umatilla National Forest from the Heppner National Forest and part of the Blue Mountains National Forest in Oregon.",
+    "authority": {
+     "type": "executive-order",
+     "citation": "Executive Order 815, 1908-06-13 (effective July 1, 1908)",
+     "president": "Theodore Roosevelt"
+    },
+    "sources": [
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+      "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The executive order text was not located online. FS-612 and the 1944 WPA list of executive orders (compiled from the orders) agree on EO 815 of 1908-06-13; Davis gives the effective date, July 1, 1908. The scanned WPA list reads 'June 18', but its orders 812 and 818 are dated June 10 and June 15, so 815 falls on June 13; FS-612 (1997 and 2012) gives June 13."
+   }
+  ],
+  "note": "Wenaha National Forest was added Nov. 5, 1920 (EO 3349); that is a boundary change."
+ },
+ "wayne-national-forest": {
+  "events": [
+   {
+    "date": "1951-09-04",
+    "action": "designated",
+    "designation": "National Forest",
+    "name": null,
+    "text": "The Acting Secretary of Agriculture ordered that Weeks Act lands in the described areas of Ohio be administered as the Wayne National Forest from Oct. 1, 1951.",
+    "authority": {
+     "type": "secretarial-order",
+     "citation": "Order of the Secretary of Agriculture, Sept. 4, 1951 (effective Oct. 1, 1951), 16 F.R. 9174"
+    },
+    "sources": [
+     {
+      "name": "Federal Register, Vol. 16 (Sept. 8, 1951), 16 F.R. 9174, 'Wayne and Hoosier National Forests' (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1951-09-08/pdf/FR-1951-09-08.pdf"
+     },
+     {
+      "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+     },
+     {
+      "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+      "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed Sept. 4, 1951 by Acting Secretary K. T. Hutchinson; effective Oct. 1, 1951. Wayne was later administered jointly with the Hoosier (Wayne-Hoosier); that was administrative."
+   }
+  ],
+  "note": null
+ },
+ "whiskeytown-shasta-trinity-national-recreation-area": {
+  "events": [
+   {
+    "date": "1965-11-08",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Whiskeytown-Shasta-Trinity National Recreation Area in California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 89-336, sec. 1, 79 Stat. 1295",
+     "president": "Lyndon B. Johnson"
+    },
+    "sources": [
+     {
+      "name": "Public Law 89-336, 79 Stat. 1295 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg1295.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460q (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460q"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The National Park Service manages the Whiskeytown unit; the Forest Service manages the Shasta and Trinity units."
+ },
+ "winding-stair-mountain-national-recreation-area": {
+  "events": [
+   {
+    "date": "1988-10-18",
+    "action": "established",
+    "designation": "National Recreation Area",
+    "name": null,
+    "text": "Congress established the Winding Stair Mountain National Recreation Area in the Ouachita National Forest, Oklahoma.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 100-499, sec. 8, 102 Stat. 2491, 2494",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 100-499, 102 Stat. 2491 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2491.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460vv-6 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460vv-6"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ }
+}

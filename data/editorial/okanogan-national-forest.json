@@ -1,0 +1,115 @@
+{
+  "slug": "okanogan-national-forest",
+  "designationHistory": [
+    {
+      "date": "1911-06-30",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Taft set apart the Okanogan National Forest in Washington from part of the Chelan National Forest.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William Howard Taft",
+        "citation": "Proclamation of June 30, 1911, 37 Stat. 1701 (effective July 1, 1911)",
+        "signedBy": "William Howard Taft"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation of June 30, 1911, 37 Stat. 1701 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1701-2.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1150, Setting Apart the Okanogan National Forest, Washington",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1150-setting-apart-the-okanogan-national-forest-washington"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1920-12-31",
+      "action": "transferred",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Wilson transferred the whole Okanogan National Forest to the Chelan National Forest, and the Okanogan name was dropped.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": "Executive Order 3380, Dec. 31, 1920 (effective July 1, 1921)",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": "The order text was not located online; FS-612 and the WPA list agree on EO 3380 of Dec. 31, 1920, and Davis gives the effective date, July 1, 1921.",
+      "sources": [
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1955-03-23",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Chelan National Forest",
+      "indexText": "The Department of the Interior, on the Secretary of Agriculture's recommendation, changed the name of the Chelan National Forest to the Okanogan National Forest.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Land Order 1101, Mar. 23, 1955, 20 F.R. 1890",
+        "signedBy": null
+      },
+      "note": "Signed by Orme Lewis, Assistant Secretary of the Interior, under presidential authority delegated by EO 10355. The order says the Chelan National Forest was established by EO 823 of June 18, 1908.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 20, No. 61 (Mar. 29, 1955), Public Land Order 1101, 20 F.R. 1890 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1955-03-29/pdf/FR-1955-03-29.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

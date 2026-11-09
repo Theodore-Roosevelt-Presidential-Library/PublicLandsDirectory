@@ -1,0 +1,37 @@
+{
+  "slug": "mount-hood-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The Omnibus Public Land Management Act of 2009 established the Mount Hood National Recreation Area in the Mount Hood National Forest, Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, title I, sec. 1204, 123 Stat. 991, 1013",
+        "signedBy": "Barack Obama"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460uuu (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460uuu"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

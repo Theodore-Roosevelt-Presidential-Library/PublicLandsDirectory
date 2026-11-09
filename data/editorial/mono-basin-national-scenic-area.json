@@ -1,0 +1,37 @@
+{
+  "slug": "mono-basin-national-scenic-area",
+  "designationHistory": [
+    {
+      "date": "1984-09-28",
+      "action": "established",
+      "designation": "National Forest Scenic Area",
+      "name": "Mono Basin National Forest Scenic Area",
+      "indexText": "The California Wilderness Act of 1984 established the Mono Basin National Forest Scenic Area in the Inyo National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 98-425, title III, sec. 301, 98 Stat. 1619, 1632",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 98-425, 98 Stat. 1619 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg1619.pdf"
+        },
+        {
+          "name": "16 U.S.C. 543 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/543"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

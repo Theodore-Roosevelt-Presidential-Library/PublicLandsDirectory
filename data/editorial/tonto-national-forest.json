@@ -1,0 +1,80 @@
+{
+  "slug": "tonto-national-forest",
+  "designationHistory": [
+    {
+      "date": "1905-10-03",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Tonto Forest Reserve",
+      "indexText": "President Theodore Roosevelt proclaimed the Tonto Forest Reserve in Arizona Territory.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation of Oct. 3, 1905, 34 Stat. 3166",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "UCSB's '598' is the American Presidency Project's own document number, not an official proclamation number.",
+      "sources": [
+        {
+          "name": "Proclamation of Oct. 3, 1905, 34 Stat. 3166 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3166.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 598, Establishment of the Tonto Forest Reserve, Arizona",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-598-establishment-the-tonto-forest-reserve-arizona"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1907-03-04",
+      "action": "redesignated",
+      "designation": "National Forest",
+      "name": "Tonto National Forest",
+      "indexText": "Congress provided that forest reserves would be known as national forests, so the Tonto Forest Reserve became the Tonto National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Theodore Roosevelt",
+        "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day.",
+      "sources": [
+        {
+          "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

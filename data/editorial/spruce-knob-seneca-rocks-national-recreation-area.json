@@ -1,0 +1,37 @@
+{
+  "slug": "spruce-knob-seneca-rocks-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1965-09-28",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress provided for the Spruce Knob-Seneca Rocks National Recreation Area in the Monongahela National Forest, West Virginia.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 89-207, 79 Stat. 843",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": "The act directed the Secretary of Agriculture to designate the area and publish its boundaries in the Federal Register; that later notice was not checked. govinfo files the law as beginning on page 842.",
+      "sources": [
+        {
+          "name": "Public Law 89-207, 79 Stat. 843 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg842.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460p-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460p-1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

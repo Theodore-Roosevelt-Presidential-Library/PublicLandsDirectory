@@ -1,0 +1,37 @@
+{
+  "slug": "grand-island-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1990-05-17",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Grand Island National Recreation Area in Lake Superior, Michigan.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-292, sec. 1, 104 Stat. 185",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 101-292, 104 Stat. 185 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg185.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460aaa (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460aaa"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

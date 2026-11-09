@@ -1,0 +1,37 @@
+{
+  "slug": "mount-pleasant-national-scenic-area",
+  "designationHistory": [
+    {
+      "date": "1994-08-26",
+      "action": "established",
+      "designation": "National Scenic Area",
+      "name": null,
+      "indexText": "The Mount Pleasant National Scenic Area Act established the scenic area in the George Washington National Forest, Virginia.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 103-314, 108 Stat. 1703",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 103-314, 108 Stat. 1703 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg1703.pdf"
+        },
+        {
+          "name": "16 U.S.C. 545 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/545"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

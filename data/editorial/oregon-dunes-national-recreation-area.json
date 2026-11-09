@@ -1,0 +1,37 @@
+{
+  "slug": "oregon-dunes-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1972-03-23",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Oregon Dunes National Recreation Area in the Siuslaw National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-260, sec. 1, 86 Stat. 99",
+        "signedBy": "Richard Nixon"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 92-260, 86 Stat. 99 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg99.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460z (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460z"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

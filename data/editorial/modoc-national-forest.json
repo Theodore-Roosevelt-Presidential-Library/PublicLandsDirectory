@@ -1,0 +1,80 @@
+{
+  "slug": "modoc-national-forest",
+  "designationHistory": [
+    {
+      "date": "1904-11-29",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Modoc Forest Reserve",
+      "indexText": "President Theodore Roosevelt proclaimed the Modoc Forest Reserve in California.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation of Nov. 29, 1904, 33 Stat. 2380",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "UCSB's '535' is the American Presidency Project's own document number; the Statutes at Large print this as proclamation No. 37 of the 58th Congress.",
+      "sources": [
+        {
+          "name": "Proclamation of Nov. 29, 1904, 33 Stat. 2380 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2380.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 535, Establishment of the Modoc Forest Reserve, California",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-535-establishment-the-modoc-forest-reserve-california"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1907-03-04",
+      "action": "redesignated",
+      "designation": "National Forest",
+      "name": "Modoc National Forest",
+      "indexText": "Congress provided that forest reserves would be known as national forests, so the Modoc Forest Reserve became the Modoc National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Theodore Roosevelt",
+        "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day.",
+      "sources": [
+        {
+          "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "finger-lakes-national-forest",
+  "designationHistory": [
+    {
+      "date": "1985-09-16",
+      "action": "designated",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "The Assistant Secretary of Agriculture designated the Hector Ranger District of the Green Mountain National Forest as the Hector Ranger District, Finger Lakes National Forest, New York.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Ronald Reagan",
+        "citation": "Order of Sept. 16, 1985 (effective Oct. 1, 1985), 50 F.R. 40042-40043",
+        "signedBy": null
+      },
+      "note": "Signed Sept. 16, 1985 by Peter C. Myers, Assistant Secretary for Natural Resources and Environment, effective Oct. 1, 1985; FS-612 lists the order under Oct. 1, 1985, its effective date. The land, the former Hector Land Use Project, had been given national forest status as part of the Green Mountain National Forest by Public Law 98-175 (Nov. 29, 1983); that addition is a boundary change of the Green Mountain.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 50, No. 190 (Oct. 1, 1985), 50 F.R. 40042-40043 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1985-10-01/pdf/FR-1985-10-01.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

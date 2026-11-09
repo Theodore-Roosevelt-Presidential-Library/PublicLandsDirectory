@@ -1,0 +1,41 @@
+{
+  "slug": "cherokee-national-forest",
+  "designationHistory": [
+    {
+      "date": "1920-06-14",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Wilson proclaimed the Cherokee National Forest on lands bought under the Weeks Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Woodrow Wilson",
+        "citation": "Proclamation of June 14, 1920, 41 Stat. 1798",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": "The 1920 proclamation is titled for Georgia and Tennessee. In July 1936 (Proclamations 2183 and 2184) the forest was reorganized and its Georgia land went to the new Chattahoochee National Forest; those are treated here as boundary changes.",
+      "sources": [
+        {
+          "name": "Proclamation of June 14, 1920, 41 Stat. 1798 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1798.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

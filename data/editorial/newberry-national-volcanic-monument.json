@@ -1,0 +1,37 @@
+{
+  "slug": "newberry-national-volcanic-monument",
+  "designationHistory": [
+    {
+      "date": "1990-11-05",
+      "action": "established",
+      "designation": "National Volcanic Monument",
+      "name": null,
+      "indexText": "Congress established the Newberry National Volcanic Monument in the Deschutes National Forest, Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-522, 104 Stat. 2288",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 101-522, 104 Stat. 2288 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2288.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

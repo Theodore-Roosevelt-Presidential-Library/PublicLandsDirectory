@@ -1,0 +1,45 @@
+{
+  "slug": "huron-national-forest",
+  "designationHistory": [
+    {
+      "date": "1928-07-30",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Coolidge established the Huron National Forest in Michigan from part of the Michigan National Forest and other land.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of July 30, 1928, 45 Stat. 2959",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation of July 30, 1928, 45 Stat. 2959 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2959-2.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1844, Establishing the Huron National Forest, Michigan",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1844-establishing-the-huron-national-forest-michigan"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
