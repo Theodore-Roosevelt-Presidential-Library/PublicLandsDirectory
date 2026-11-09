@@ -1,69 +1,100 @@
 {
-  "slug": "bighorn-national-forest",
-  "designationHistory": [
+ "slug": "bighorn-national-forest",
+ "designationHistory": [
+  {
+   "date": "1897-02-22",
+   "action": "established",
+   "designation": "Forest Reserve",
+   "name": "Big Horn Forest Reserve",
+   "indexText": "Big Horn: Established reserve.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "Grover Cleveland",
+    "citation": "29 Stat. 909"
+   },
+   "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+   "sources": [
     {
-      "date": "1897-02-22",
-      "action": "established",
-      "designation": "Forest Reserve",
-      "name": "Big Horn Forest Reserve",
-      "indexText": "Big Horn: Established reserve.",
-      "authority": {
-        "type": "presidential-proclamation",
-        "administration": "Grover Cleveland",
-        "citation": "29 Stat. 909"
-      },
-      "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
-    },
-    {
-      "date": "1908-07-02",
-      "action": "renamed",
-      "designation": "National Forest",
-      "name": "Bighorn National Forest",
-      "indexText": "Big Horn: Name changed to Bighorn.",
-      "authority": {
-        "type": "executive-order",
-        "administration": "Theodore Roosevelt",
-        "citation": "Executive Order 908"
-      },
-      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
-    },
-    {
-      "date": "1897-02-22",
-      "action": "established",
-      "designation": "Forest Reserve",
-      "name": null,
-      "indexText": "Big Horn: Established reserve.",
-      "authority": {
-        "type": "presidential-proclamation",
-        "administration": "Grover Cleveland",
-        "citation": "29 Stat. 909"
-      },
-      "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
+     "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+     "url": "https://archive.org/details/CAT92970816"
     }
-  ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+   ],
+   "research": "fs612",
+   "reviewed": false
+  },
+  {
+   "date": "1908-07-02",
+   "action": "renamed",
+   "designation": "National Forest",
+   "name": "Bighorn National Forest",
+   "indexText": "Big Horn: Name changed to Bighorn.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 908"
+   },
+   "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+   "sources": [
+    {
+     "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+     "url": "https://archive.org/details/CAT92970816"
+    }
+   ],
+   "research": "fs612",
+   "reviewed": false
+  },
+  {
+   "date": "1897-02-22",
+   "action": "established",
+   "designation": "Forest Reserve",
+   "name": null,
+   "indexText": "Big Horn: Established reserve.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "Grover Cleveland",
+    "citation": "29 Stat. 909"
+   },
+   "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+   "sources": [
+    {
+     "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+     "url": "https://archive.org/details/CAT92970816"
+    }
+   ],
+   "research": "fs612",
+   "reviewed": false
+  }
+ ],
+ "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+ "trConnections": [
+  {
+   "id": "review-visit-1884-09-03",
+   "type": "visited",
+   "label": "T.R. was here",
+   "place": "Bighorn Mountains high country, Ten Sleep and Crazy Woman headwaters",
+   "first": "1884-09-03",
+   "last": "1884-09-17",
+   "text": "In September 1884 T.R. hunted elk and grizzly bears in the high country of Wyoming's Bighorn Mountains, where he killed his first bear on September 13.",
+   "sources": [
+    {
+     "name": "T.R. diary, Aug.-Sept. 1884 entries (Library of Congress, Theodore Roosevelt Papers, Series 8, Personal Diaries)",
+     "url": "https://www.loc.gov/resource/mss38299.mss38299-430_0108_0149/?sp=21"
+    },
+    {
+     "name": "Theodore Roosevelt, The Wilderness Hunter (1893): 'In 1884, on a trip to the Bighorn Mountains, I killed three bear, six elk and six deer'",
+     "url": "https://www.gutenberg.org/ebooks/77136"
+    },
+    {
+     "name": "Hermann Hagedorn, Roosevelt in the Bad Lands (1921), ch. X-XI (from interviews with Merrifield and the diaries)",
+     "url": "https://www.gutenberg.org/ebooks/24317"
+    }
+   ],
+   "dataset": "historian-review",
+   "reviewed": true,
+   "review": {
+    "by": "HistorianPanel accuracy review, T.R. visits",
+    "date": "2026-11-09"
+   }
+  }
+ ]
 }

@@ -1,0 +1,260 @@
+[
+ {
+  "slug": "kaibab-national-forest",
+  "verdict": "confirmed",
+  "place": "Kaibab Plateau (Buckskin Mountain), North Kaibab",
+  "first": "1913-08-01",
+  "last": "1913-08-01",
+  "text": "In the summer of 1913 T.R. spent two weeks hunting cougars with his sons on the Kaibab Plateau, then rode down its eastern slope into House Rock Valley on the way to Lees Ferry.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), ch. I 'A Cougar Hunt on the Rim of the Grand Canyon' and ch. II 'Across the Navajo Desert'",
+    "url": "https://www.gutenberg.org/ebooks/34135"
+   },
+   {
+    "name": "Harvey Leake, 'Theodore Roosevelt's 1913 trip through the Navajo country,' Canyon Country Zephyr, July 30, 2019 (draws on Nicholas Roosevelt's recollections)",
+    "url": "https://canyoncountryzephyr.com/?p=14954"
+   },
+   {
+    "name": "T.R. to Kermit Roosevelt, July 27, 1913, written during the cougar hunt (Theodore Roosevelt Center, Dickinson State University)",
+    "url": "https://www.theodorerooseveltcenter.org/digital-library/o281699"
+   }
+  ],
+  "note": "T.R. says the party spent 'the next fortnight' on the plateau 'locally known as Buckskin Mountain,' the 'heart of the forest and game reserve' (ch. I), and that they 'dropped down from Buckskin Mountain' through pinyon and cedar slopes to the desert (ch. II). Day by Day dates the descent to Kane and House Rock Valley 1913-08-01. Boundary check against the directory's own polygons: every route from the plateau top down the east slope to Kane Ranch crosses today's Kaibab NF (North Kaibab RD). The named hunt sites of 07-16..07-23 (Owens' cabin at Harvey Meadow, Kanabownits Canyon, Point Sublime, Cliff Spring, Greenland Lake) are inside today's Grand Canyon NP, not the forest, so the dates are limited to the one day firmly on forest land. The Bar Z camp of 07-24..07-31 was on the plateau near its east edge and may also have been on forest land, but its site is not established. Pass A: TR text + Day by Day; Pass B: Leake (independent, Nicholas Roosevelt-based) + boundary geometry. Agree."
+ },
+ {
+  "slug": "grand-canyon-preserve-national-game-refuge",
+  "verdict": "confirmed",
+  "place": "Kaibab Plateau (Buckskin Mountain), North Kaibab",
+  "first": "1913-08-01",
+  "last": "1913-08-01",
+  "text": "In 1913 T.R. hunted cougars on the Kaibab Plateau with game warden Jim Owens, whose post existed because of the game preserve T.R. created in 1906, and rode down the plateau's eastern slope on his way to Lees Ferry.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), ch. I 'A Cougar Hunt on the Rim of the Grand Canyon' and ch. II 'Across the Navajo Desert'",
+    "url": "https://www.gutenberg.org/ebooks/34135"
+   },
+   {
+    "name": "Harvey Leake, 'Theodore Roosevelt's 1913 trip through the Navajo country,' Canyon Country Zephyr, July 30, 2019 (draws on Nicholas Roosevelt's recollections)",
+    "url": "https://canyoncountryzephyr.com/?p=14954"
+   },
+   {
+    "name": "'Uncle Jimmy Owens of the Grand Canyon,' National Parks Now and Then (Owens as first game warden of the 1906 preserve; guided T.R. in 1913)",
+    "url": "https://npnowandthen.substack.com/p/uncle-jimmy-owens-of-the-grand-canyon"
+   }
+  ],
+  "note": "Same evidence as kaibab-national-forest. In 1913 the whole plateau was inside the Grand Canyon Game Preserve; today the preserve polygon in the directory lies entirely within Kaibab NF (0.2% overlap with the park), so the hunt sites now in the park no longer count. The 1913-08-01 descent of the east slope crosses today's preserve. T.R. calls Owens game warden of the 'forest and game reserve' (ch. I). The Substack source is a secondary popular piece without a bibliography; it supports Owens' role only, not the route. Dates are deliberately narrow; see the Kaibab NF note."
+ },
+ {
+  "slug": "bighorn-national-forest",
+  "verdict": "confirmed",
+  "place": "Bighorn Mountains high country, Ten Sleep and Crazy Woman headwaters",
+  "first": "1884-09-03",
+  "last": "1884-09-17",
+  "text": "In September 1884 T.R. hunted elk and grizzly bears in the high country of Wyoming's Bighorn Mountains, where he killed his first bear on September 13.",
+  "sources": [
+   {
+    "name": "T.R. diary, Aug.-Sept. 1884 entries (Library of Congress, Theodore Roosevelt Papers, Series 8, Personal Diaries)",
+    "url": "https://www.loc.gov/resource/mss38299.mss38299-430_0108_0149/?sp=21"
+   },
+   {
+    "name": "Theodore Roosevelt, The Wilderness Hunter (1893): 'In 1884, on a trip to the Bighorn Mountains, I killed three bear, six elk and six deer'",
+    "url": "https://www.gutenberg.org/ebooks/77136"
+   },
+   {
+    "name": "Hermann Hagedorn, Roosevelt in the Bad Lands (1921), ch. X-XI (from interviews with Merrifield and the diaries)",
+    "url": "https://www.gutenberg.org/ebooks/24317"
+   }
+  ],
+  "note": "Diary: party left the wagon at a sawmill on Crazy Woman Creek a few miles south of Buffalo (09-02), climbed to the plateau and camped on Willow Creek (09-03), hunted at about 8,000 ft, moved to a fork of the Ten Sleep (09-09), first grizzly 09-13, started down 09-17, back at the sawmill 09-18. Hagedorn independently describes the same route from Crazy Woman Creek 'into the mountains'. Boundary check: the Crazy Woman and Ten Sleep headwaters above 8,000 ft lie inside today's Bighorn NF. The sawmill days (09-02, 09-18) are excluded because the foothill sawmill site may be outside the forest. Exact camp sites are not fixed; the claim rests on the high-country hunt as a whole. Pass A diary + Wilderness Hunter; Pass B Hagedorn + geometry. Agree."
+ },
+ {
+  "slug": "petrified-forest-national-park",
+  "verdict": "rejected",
+  "place": "Painted Desert (Navajo country north of the Little Colorado)",
+  "first": null,
+  "last": null,
+  "text": "T.R. crossed the Painted Desert country between Lees Ferry and Tuba City in August 1913, well north of today's Petrified Forest National Park.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), ch. I 'A Cougar Hunt on the Rim of the Grand Canyon' and ch. II 'Across the Navajo Desert'",
+    "url": "https://www.gutenberg.org/ebooks/34135"
+   },
+   {
+    "name": "Harvey Leake, 'Theodore Roosevelt's 1913 trip through the Navajo country,' Canyon Country Zephyr, July 30, 2019 (draws on Nicholas Roosevelt's recollections)",
+    "url": "https://canyoncountryzephyr.com/?p=14954"
+   }
+  ],
+  "note": "Day by Day's 'painted-desert' tag on 1913-07-23..08-04 refers to the desert between House Rock Valley, Lees Ferry and Tuba City. His route then ran Tuba City, Marsh Pass, Kayenta, Rainbow Bridge, Black Mesa, Walpi, Ganado, St. Michaels, Gallup (08-23). None of these is in or near the park, which lies south of Holbrook's railroad corridor. No source puts him in the park in 1913 or on any other trip."
+ },
+ {
+  "slug": "white-river-national-forest",
+  "verdict": "unresolved",
+  "place": "Upper East Divide Creek and West Divide Creek, south of New Castle, Colo.",
+  "first": null,
+  "last": null,
+  "text": "In April and May 1905 T.R. hunted bears from camps on the upper waters of East Divide Creek and at the mouth of Clear Creek on West Divide Creek, south of New Castle, Colorado.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, Outdoor Pastimes of an American Hunter (1905), ch. II 'With the Cougar Hounds' and ch. III 'A Colorado Bear Hunt'",
+    "url": "https://www.gutenberg.org/ebooks/61935"
+   },
+   {
+    "name": "'Historiography: Teddy Roosevelt, the conservation president,' Sopris Sun (quotes Rocky Mountain News, April 15, 1905, on Camp Roosevelt about 27 miles from Newcastle on East Divide Creek)",
+    "url": "https://soprissun.com/historiography-teddy-roosevelt-the-conservation-president/"
+   }
+  ],
+  "note": "Camps are firmly sourced (T.R.: 'upper waters of East Divide Creek' from 1905-04-15, then 'where Clear Creek joins West Divide Creek' from 04-22; Day by Day agrees, with Divide Creek camp to 05-05 and ride out to Glenwood Springs 05-06). Grand Mesa NF, the other candidate, is not in the input list. Boundary check: today's White River NF line runs at roughly 39.35 N across these drainages; the Clear Creek/West Divide confluence (about 39.38-39.39 N) falls just outside it, and the East Divide camp's exact site is not fixed. T.R. describes long rides over snowy summits and plateaus, which very likely entered today's forest, but no source names a camp or kill site that can be placed inside the boundary. To close: locate Camp Roosevelt (Rocky Mountain News, Apr. 15, 1905; Denver Post/Avalanche-Echo May 18, 1905 Borah interview) on a USGS map. Separate 1901 cougar hunt from Meeker does not qualify: T.R. says it was 'north of the White River,' around Coyote Basin and Colorow Mountain, outside the forest."
+ },
+ {
+  "slug": "coeur-dalene-national-forest",
+  "verdict": "unresolved",
+  "place": "Coeur d'Alene range, reached from Thompson Falls, Mont.",
+  "first": null,
+  "last": null,
+  "text": "In late August and September 1886 T.R. hunted mountain goats with John Willis and Bill Merrifield in the mountains reached from Thompson Falls, Montana.",
+  "sources": [
+   {
+    "name": "Hermann Hagedorn, Roosevelt in the Bad Lands (1921)",
+    "url": "https://www.gutenberg.org/ebooks/24317"
+   },
+   {
+    "name": "T.R. to Frances Theodora Dana, Oct. 21, 1886 (mentions killing 'White Antelope-goats' that summer), Theodore Roosevelt Center",
+    "url": "https://www.theodorerooseveltcenter.org/subject/mountain-goat-hunting/"
+   }
+  ],
+  "note": "Hagedorn says T.R. went 'to the Coeur d'Alênes, in northern Idaho' and met Willis at a mountain way-station; Day by Day has him meeting Willis at Thompson Falls 1886-08-21 and camping on 'Vermilion Creek' 08-22, then 'Idaho' through 09-17. The Vermilion River enters the Clark Fork in Sanders County, Montana, which conflicts with 'northern Idaho'. Depending on which is right the ground could be today's Coeur d'Alene NF (now Idaho Panhandle), Lolo NF or Kootenai NF; none of the sample points along the Vermilion fell inside the directory's polygons for those three. T.R.'s own goat chapter in The Wilderness Hunter describes a Big Hole Basin trip instead (see beaverhead-national-forest), so his published account does not settle the 1886 ground. Needs T.R.'s 1886 letters to Lodge/Bamie or Willis's reminiscences (TRC holds Willis-Roosevelt correspondence) to fix the drainage."
+ },
+ {
+  "slug": "bitterroot-national-forest",
+  "verdict": "unresolved",
+  "place": "Bitterroot Mountains and ranges to the southeast, Idaho-Montana line",
+  "first": null,
+  "last": null,
+  "text": "In 1889 T.R. hunted along the Idaho-Montana line in the Bitterroot Mountains and the ranges southeast of them, where he shot his first moose.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, The Wilderness Hunter (1893)",
+    "url": "https://www.gutenberg.org/ebooks/77136"
+   }
+  ],
+  "note": "The Wilderness Hunter: 'in 1889 I hunted ... on the boundary between Idaho and Montana' and the first-moose hunt 'among the Bitter Root Mountains, and the ranges lying southeast of them,' starting 'about the first of September' with Willis, plus an elk hunt 'at the southern end of the Bitter Root range.' No drainage, camp or date is named, and the ground could fall in today's Bitterroot, Salmon or Beaverhead NF (or outside them). Day by Day has almost no 1889 field entries (Helena 08-28; letter reporting two moose, a bison, two bears and a cougar). The 'first of September' start also sits awkwardly with the 08-28 'month off is over' letter; the year of each episode needs checking. Only one source (T.R.) so far; needs T.R.'s Aug.-Sept. 1889 letters (Morison, Letters vol. 1) to fix place and dates."
+ },
+ {
+  "slug": "beaverhead-national-forest",
+  "verdict": "unresolved",
+  "place": "Mountains beside the Big Hole Basin near the Big Hole Battlefield, Mont.",
+  "first": null,
+  "last": null,
+  "text": "On a late-August goat hunt with John Willis, T.R. left the Big Hole valley road near the Big Hole battlefield and camped in the forested mountains above it.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, The Wilderness Hunter (1893)",
+    "url": "https://www.gutenberg.org/ebooks/77136"
+   }
+  ],
+  "note": "T.R.'s 'The White Goat' chapter: left the railroad at Divide, drove up the Big Hole, 'reached the neighborhood of the Battle Ground' (Big Hole Battlefield), turned 'toward the mountains,' and camped in forested glades; frost on 'the 20th of August.' Boundary check: the forested mountains flanking the Big Hole near the battlefield lie inside today's Beaverhead NF polygon. But T.R. gives no year, and the trip conflicts with the other 1886/1889 accounts (Hagedorn puts the 1886 Willis goat hunt in the Coeur d'Alenes). One source only and no year; cannot date. Needs a letter or diary fixing the year (likely 1886 or 1889)."
+ },
+ {
+  "slug": "bridger-national-forest",
+  "verdict": "rejected",
+  "place": "Two Ocean Pass, northwest Wyoming",
+  "first": null,
+  "last": null,
+  "text": "T.R.'s September 1891 elk hunt at Two Ocean Pass took place in what is now the Teton Wilderness of Bridger-Teton National Forest, outside the former Bridger National Forest.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, The Wilderness Hunter (1893)",
+    "url": "https://www.gutenberg.org/ebooks/77136"
+   },
+   {
+    "name": "Day by Day, 1891-09-22 (Two Ocean Pass, from the TRA Chronological Record)",
+    "url": "https://daybyday.labs.trlibrary.com/day.html?date=1891-09-22"
+   }
+  ],
+  "note": "Year checked: T.R. writes 'In September, 1891, with my ranch-partner, Ferguson, I made an elk-hunt ... among the Shoshone Mountains' and spent 'a week at Two-Ocean Pass,' then moved to Wolverine Pass near Pinyon Peak and the mouth of Wolverine Creek. He later noted the hunting ground was 'now part of the National Forest Reserve.' Two Ocean Pass (44.04 N, 110.17 W) lies about 66 km north of the directory's Bridger NF polygon (the pre-1973 Bridger NF); it was in the old Teton NF, which is not in the input list. No input-list site contains the pass or Pinyon Peak."
+ },
+ {
+  "slug": "shoshone-national-forest",
+  "verdict": "unresolved",
+  "place": "Shoshone/Absaroka mountains near Two Ocean Pass, Wyo.",
+  "first": null,
+  "last": null,
+  "text": "T.R.'s September 1891 elk hunt ranged through the Shoshone Mountains 'where they join the Hoodoo and Absaroka ranges,' near today's Shoshone National Forest.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, The Wilderness Hunter (1893)",
+    "url": "https://www.gutenberg.org/ebooks/77136"
+   }
+  ],
+  "note": "Two Ocean Pass itself is about 31 km from the directory's Shoshone NF polygon and the named camps (Two Ocean Pass, Wolverine Pass, Wolverine Creek) are outside it. T.R. mentions the Hoodoos and Absarokas as scenery, and his route into and out of the hunting ground is not documented. No evidence he was on today's Shoshone NF land. Could be rejected outright; left unresolved only because the approach route is unknown."
+ },
+ {
+  "slug": "wichita-mountains-wildlife-refuge",
+  "verdict": "rejected",
+  "place": "Big Pasture, Comanche Reserve, near Frederick, Okla.",
+  "first": null,
+  "last": null,
+  "text": "T.R.'s April 1905 coyote hunt ran over the prairies near Frederick, Oklahoma, south of the Wichita Mountains, not in today's refuge.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, Outdoor Pastimes of an American Hunter (1905), ch. II 'With the Cougar Hounds' and ch. III 'A Colorado Bear Hunt'",
+    "url": "https://www.gutenberg.org/ebooks/61935"
+   },
+   {
+    "name": "Day by Day, 1905-04-08 to 04-13 (Frederick, Deep Red Creek, Red River)",
+    "url": "https://daybyday.labs.trlibrary.com/day.html?date=1905-04-11"
+   }
+  ],
+  "note": "T.R.: the coursing was 'on the flats and great rolling prairies which stretched north from our camp toward the Wichita Mountains and south toward the Red River' (Outdoor Pastimes, 'Wolf-coursing'). Camps on Deep Red Creek and the Red River bend lie roughly 40-60 km south of the refuge. No source puts him in the Wichita Mountains or the refuge, before or after he proclaimed the Wichita Game Preserve (1905-06-02)."
+ },
+ {
+  "slug": "black-hills-national-forest",
+  "verdict": "unresolved",
+  "place": "Deadwood and the northern Black Hills, S.D.",
+  "first": null,
+  "last": null,
+  "text": "T.R. rode on horseback from the Little Missouri to Deadwood, apparently by way of Spearfish, and spoke in Deadwood in 1892 and 1900.",
+  "sources": [
+   {
+    "name": "Theodore Roosevelt, An Autobiography (1913), ch. 'In Cowboy Land'",
+    "url": "https://www.gutenberg.org/ebooks/3335"
+   },
+   {
+    "name": "Day by Day, 1892-08-25/26 and 1900-10-03 (Deadwood)",
+    "url": "https://daybyday.labs.trlibrary.com/day.html?date=1892-08-25"
+   }
+  ],
+  "note": "Documented visits are to the town of Deadwood (1892-08-25/26 campaign opening at the Opera House; 1900-10-03 speech), which does not count under the town rule. The Autobiography describes riding down to Deadwood with Sylvane Ferris and Bill Jones, passing 'Spearfish, I think'; that road from Spearfish to Deadwood crosses land now inside the forest boundary, but it is a transit ride, much of the corridor is private, and T.R. himself is unsure of the town. 1903 Kermit trip was Kermit, not T.R. Needs a documented stop on forest land (e.g. a hunt or camp in the hills) to confirm."
+ },
+ {
+  "slug": "medicine-bow-national-forest",
+  "verdict": "unresolved",
+  "place": "Laramie-to-Cheyenne horseback ride over the Laramie Range (Pole Mountain area)",
+  "first": null,
+  "last": null,
+  "text": "On May 30, 1903, T.R. rode horseback about 65 miles from Laramie to Cheyenne across the Laramie Range.",
+  "sources": [
+   {
+    "name": "Day by Day, 1903-05-30 (from the TRA Chronological Record)",
+    "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-05-30"
+   }
+  ],
+  "note": "A straight line from Laramie to Cheyenne crosses about 15 km of the Pole Mountain unit of today's Medicine Bow NF (directory polygon), but the 1903 route (via the Van Tassell ranch, with five horse changes) is not mapped, Pole Mountain was not forest land then, and this is transit, not a visit. Only one source, and it is the Library's own tool. Needs contemporary Wyoming newspapers (Laramie Boomerang, Cheyenne Leader, May 30-31, 1903) for the route."
+ },
+ {
+  "slug": "sierra-national-forest",
+  "verdict": "unresolved",
+  "place": "Raymond-Wawona stage road (Fish Camp area), Calif.",
+  "first": "1903-05-15",
+  "last": "1903-05-18",
+  "text": "In May 1903 T.R. traveled the stage road from Raymond to Wawona on his way to and from his Yosemite camping trip with John Muir.",
+  "sources": [
+   {
+    "name": "Day by Day, 1903-05-15 and 05-18 (Raymond, Grub Gulch, Wawona)",
+    "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-05-15"
+   }
+  ],
+  "note": "Transit only. The Raymond-Wawona road runs through the Fish Camp area, inside today's Sierra NF polygon, but the camps (Mariposa Grove, near Glacier Point, Bridalveil Fall) are all in Yosemite NP. Unresolved because the caller's rule covers towns, not road transit; recommend treating like the town rule and rejecting unless a stop on forest land is documented. Only the Library's tool cited so far; contemporary California papers would be needed."
+ }
+]

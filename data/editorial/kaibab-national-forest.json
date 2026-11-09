@@ -1,27 +1,58 @@
 {
-  "slug": "kaibab-national-forest",
-  "designationHistory": [
+ "slug": "kaibab-national-forest",
+ "designationHistory": [
+  {
+   "date": "1908-07-02",
+   "action": "established",
+   "designation": "National Forest",
+   "name": null,
+   "indexText": "Kaibab: Established.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 909"
+   },
+   "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+   "sources": [
     {
-      "date": "1908-07-02",
-      "action": "established",
-      "designation": "National Forest",
-      "name": null,
-      "indexText": "Kaibab: Established.",
-      "authority": {
-        "type": "executive-order",
-        "administration": "Theodore Roosevelt",
-        "citation": "Executive Order 909"
-      },
-      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
+     "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+     "url": "https://archive.org/details/CAT92970816"
     }
-  ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+   ],
+   "research": "fs612",
+   "reviewed": false
+  }
+ ],
+ "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+ "trConnections": [
+  {
+   "id": "review-visit-1913-08-01",
+   "type": "visited",
+   "label": "T.R. was here",
+   "place": "Kaibab Plateau (Buckskin Mountain), North Kaibab",
+   "first": "1913-08-01",
+   "last": "1913-08-01",
+   "text": "In the summer of 1913 T.R. spent two weeks hunting cougars with his sons on the Kaibab Plateau, then rode down its eastern slope into House Rock Valley on the way to Lees Ferry.",
+   "sources": [
+    {
+     "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), ch. I 'A Cougar Hunt on the Rim of the Grand Canyon' and ch. II 'Across the Navajo Desert'",
+     "url": "https://www.gutenberg.org/ebooks/34135"
+    },
+    {
+     "name": "Harvey Leake, 'Theodore Roosevelt's 1913 trip through the Navajo country,' Canyon Country Zephyr, July 30, 2019 (draws on Nicholas Roosevelt's recollections)",
+     "url": "https://canyoncountryzephyr.com/?p=14954"
+    },
+    {
+     "name": "T.R. to Kermit Roosevelt, July 27, 1913, written during the cougar hunt (Theodore Roosevelt Center, Dickinson State University)",
+     "url": "https://www.theodorerooseveltcenter.org/digital-library/o281699"
+    }
+   ],
+   "dataset": "historian-review",
+   "reviewed": true,
+   "review": {
+    "by": "HistorianPanel accuracy review, T.R. visits",
+    "date": "2026-11-09"
+   }
+  }
+ ]
 }
