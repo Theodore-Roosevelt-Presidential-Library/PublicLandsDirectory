@@ -1,0 +1,27 @@
+{
+  "slug": "big-oaks-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Big Oaks National Wildlife Refuge was established in June 2000 as an \"overlay\" national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Big Oaks National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/big-oaks/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

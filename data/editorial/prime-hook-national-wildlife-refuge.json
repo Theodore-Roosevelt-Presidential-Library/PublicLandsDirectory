@@ -1,0 +1,27 @@
+{
+  "slug": "prime-hook-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Trails Rules & Policies Get Involved Events News Species Map https://www.facebook.com/coastaldelawarecomplex/ About Us Established in 1963, the refuge is an important stopover site for migratory birds as they travel up and down the Atlantic Flyway and provides protected breeding habitat for federally and State-listed threatened and endangered species, as well as many neo-tropical migrating bird sp",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Prime Hook National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/prime-hook/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

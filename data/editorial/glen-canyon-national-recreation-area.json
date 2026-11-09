@@ -1,6 +1,6 @@
 {
   "slug": "glen-canyon-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1972-10-27",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Established Oct. 27, 1972",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-593, 86 Stat. 1311"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "86 Stat. 1311 (Statutes at Large, govinfo): P.L. 92-593, Oct. 27, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1311.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-593 established Glen Canyon NRA (Nixon).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

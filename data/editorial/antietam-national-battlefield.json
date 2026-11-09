@@ -3,72 +3,6 @@
   "status": "draft",
   "designationHistory": [
     {
-      "date": "1890-08-30",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established as a national battlefield site Aug. 30, 1890",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Benjamin Harrison",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1933-08-10",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Transferred from War Dept. Aug. 10, 1933",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Franklin D. Roosevelt",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1978-11-10",
-      "action": "redesignated",
-      "designation": null,
-      "name": null,
-      "indexText": "Redesignated as a na tional battlefield Nov. 10, 1978",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Jimmy Carter",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
       "date": "1870-07-14",
       "action": "redesignated",
       "designation": null,
@@ -88,7 +22,49 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "This event belongs to Antietam National Cemetery, not the battlefield, and the date looks wrong. The 1878 Maryland cession act recites a federal act of March 2, 1877 placing the cemetery under the Secretary of War, and the trustees handed it over in 1877. No federal act of July 14, 1870 on the cemetery was found. Grant was still President on March 2, 1877. Confirm the 19 Stat. page before publishing. Held: rests on a state law and one secondary source; confirm in 19 Stat. before publishing.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1890-08-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national battlefield site Aug. 30, 1890",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Benjamin Harrison",
+        "administration": "Benjamin Harrison",
+        "citation": "Act of Aug. 30, 1890, ch. 837, 26 Stat. 401"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II, App. I-III Battlefield Sites (reprints act of Aug. 30, 1890, 26 Stat. 401)",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/12_Appendix_I_III_Battlefield_Sites.pdf"
+        },
+        {
+          "name": "26 Stat. 371 (Statutes at Large, govinfo): sundry civil act, ch. 837, approved Aug. 30, 1890; Antietam provision at p. 401",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg371.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Sundry civil appropriations act of Aug. 30, 1890 funded marking the lines of battle at Antietam and placed acquired lands under the Secretary of War (Harrison).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -107,10 +83,85 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Antietam National Cemetery transferred from the War Department to the National Park Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index line belongs to Antietam National Cemetery (a separate sub-entry), so the text needs the cemetery name to avoid duplicating #1. Transfer under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Transferred from War Dept. Aug. 10, 1933"
+    },
+    {
+      "date": "1978-11-10",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as a na tional battlefield Nov. 10, 1978",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": "P.L. 95-625, sec. 319, 92 Stat. 3488"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "92 Stat. 3467 (Statutes at Large, govinfo): P.L. 95-625, Nov. 10, 1978, sec. 319 at 92 Stat. 3488",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978, sec. 319, redesignated the site as Antietam National Battlefield (Carter).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

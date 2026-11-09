@@ -1,0 +1,27 @@
+{
+  "slug": "deer-flat-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1909",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "It was established in 1909 to designate the new irrigation reservoir as a refuge and breeding grounds for migratory birds and other wildlife.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Deer Flat National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/deer-flat/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

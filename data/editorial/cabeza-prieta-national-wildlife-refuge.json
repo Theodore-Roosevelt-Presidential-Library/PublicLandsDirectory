@@ -1,0 +1,27 @@
+{
+  "slug": "cabeza-prieta-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939",
+      "action": "established",
+      "designation": null,
+      "name": "Game Range",
+      "indexText": "Cabeza Prieta National Wildlife Refuge was originally established in 1939 as a Game Range for the conservation and development of natural wildlife resources.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cabeza Prieta National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cabeza-prieta/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

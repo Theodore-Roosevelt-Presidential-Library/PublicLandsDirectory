@@ -1,0 +1,48 @@
+{
+  "slug": "pike-national-forest",
+  "designationHistory": [
+    {
+      "date": "1892-02-11",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "ikes Peak ^<;mber Land: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Benjamin Harrison",
+        "citation": "27 Stat. 1006"
+      },
+      "note": "Predecessor reserve name unreadable in the OCR; fill in from the original. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1908-07-01",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Pike National Forest",
+      "indexText": "Pikes Peak: Land transferred to Arapaho and Leadville. Land added from Medicine Bow. Name changed to Pike.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 888"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

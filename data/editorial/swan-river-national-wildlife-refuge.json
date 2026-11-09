@@ -1,0 +1,27 @@
+{
+  "slug": "swan-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1973",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Refuge was established in 1973at the request of Montana Senator Lee Metcalf, who often hunted the area and desired to see it preserved.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Swan River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/swan-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "little-pend-oreille-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Refuge was established on May 2, 1939 to protect and provide a breeding ground for migratory birds and other wildlife.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Little Pend Oreille National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/little-pend-oreille/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

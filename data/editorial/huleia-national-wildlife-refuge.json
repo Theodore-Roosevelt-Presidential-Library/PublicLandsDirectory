@@ -1,0 +1,27 @@
+{
+  "slug": "huleia-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1973",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Details Image Details About Us Image Details Hulē‘ia National Wildlife Refuge (NWR) is approximately 241 acres and was established in 1973 under the Endangered Species Act to recover threatened and endangered species including the koloa maoli ( Hawaiian duck, Anas wyvilliana ), ‘alae ke‘oke‘o ( Hawaiian coot, Fulica alai ), ‘alae ‘ula ( Hawaiian gallinule, Gallinula chloropus sandvicensis ), ae‘o ",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Huleia National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/huleia/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

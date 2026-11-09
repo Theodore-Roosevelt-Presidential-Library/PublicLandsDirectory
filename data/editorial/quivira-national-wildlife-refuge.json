@@ -1,0 +1,27 @@
+{
+  "slug": "quivira-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1956",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Quivira Refuge was established under these authorities and for these purposes: Migratory Bird Conservation Act (16 United States Code [U.S.C.] § 715d) for use as an inviolate sanctuary, or for any other management purpose, for migratory birds Fish and Wildlife Act of 1956 (16 U.S.C. § 742f(a)4) or the development, advancement, management, conservation, and protection of fish and wildlife resources",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Quivira National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/quivira/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

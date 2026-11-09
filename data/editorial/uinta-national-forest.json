@@ -1,0 +1,48 @@
+{
+  "slug": "uinta-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-01-16",
+      "action": "renamed",
+      "designation": "Forest Reserve",
+      "name": "Uinta Forest Reserve",
+      "indexText": "Uintah: Land added. Name changed to Uinta.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "34 Stat. 3186"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 16",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1908-07-01",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Uinta: Land added. Land transferred to establish Ashley. (E.O. 884) L",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 815, 35 Stat. 2193"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

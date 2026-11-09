@@ -1,0 +1,27 @@
+{
+  "slug": "tijuana-slough-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established in 1980 and is part of the 2,800-acre Tijuana River National Estuarine Research Reserve, one of only 30 such reserves in the United States.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tijuana Slough National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tijuana-slough/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

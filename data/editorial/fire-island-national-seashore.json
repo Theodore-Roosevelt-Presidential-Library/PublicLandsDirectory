@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 88-587, 78 Stat. 928"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "78 Stat. 928 (Statutes at Large, govinfo): P.L. 88-587, Sept. 11, 1964",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg928-2.pdf"
+        },
+        {
+          "name": "NPS Fire Island: Laws and Policies (P.L. 88-587, Sept. 11, 1964)",
+          "url": "https://www.nps.gov/fiis/learn/management/lawsandpolicies.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 88-587 authorized the Secretary to establish the seashore (LBJ).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1984-09-11",
@@ -44,7 +58,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No independent record found of an establishment action on Sept. 11, 1984. NPS's own legislative list gives 1984 acts of July 18 (P.L. 98-369) and Oct. 17 (P.L. 98-482) only, and the exact 20-year match with the 1964 act raises the chance of an Index error. Check for a Secretary's establishment notice in the Federal Register (Sept. 1984) or ask the park.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

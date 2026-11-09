@@ -18,10 +18,20 @@
         {
           "name": "Federal Register: Proclamation 9558, 82 FR 1139",
           "url": "https://www.federalregister.gov/documents/2017/01/05/2017-00038/establishment-of-the-bears-ears-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9558—Establishment of the Bears Ears National Monument, December 28, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9558-establishment-the-bears-ears-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9558, 82 FR 1139, signed 2016-12-28; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2017-12-04",
@@ -40,32 +50,61 @@
         {
           "name": "Federal Register: Proclamation 9681, 82 FR 58081",
           "url": "https://www.federalregister.gov/documents/2017/12/08/2017-26709/modifying-the-bears-ears-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9681—Modifying the Bears Ears National Monument, December 04, 2017",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9681-modifying-the-bears-ears-national-monument"
+        },
+        {
+          "name": "Federal Register (govinfo PDF): Proclamation 9681, 82 FR 58081",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2017-12-08/pdf/2017-26709.pdf"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9681, 82 FR 58081, signed 2017-12-04; FR API and APP agree on number, date and President. Reduced the monument to about 201,876 acres in two units (Indian Creek, Shash Jaa).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2021-10-08",
       "action": "modified",
       "designation": null,
       "name": null,
-      "indexText": "Bears Ears National Monument",
+      "indexText": "Restored and expanded the monument's boundaries (Proclamation 10285): about 1.36 million acres, the 2016 lands plus about 11,200 acres added in 2017",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Joseph R. Biden Jr.",
         "administration": "Joseph R. Biden Jr.",
         "citation": "Proclamation 10285, 86 FR 57321"
       },
-      "note": "Title names the monument only; read the proclamation to describe what it changed.",
+      "note": null,
       "sources": [
         {
           "name": "Federal Register: Proclamation 10285, 86 FR 57321",
           "url": "https://www.federalregister.gov/documents/2021/10/15/2021-22672/bears-ears-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10285—Bears Ears National Monument, October 08, 2021",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10285-bears-ears-national-monument"
+        },
+        {
+          "name": "Federal Register (govinfo PDF): Proclamation 10285, 86 FR 57321",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2021-10-15/pdf/2021-22672.pdf"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Proclamation 10285, 86 FR 57321, signed 2021-10-08; FR API and APP agree on number, date and President. Title names the monument only; operative text reserves the lands of the monument as of Dec. 3, 2017 plus the ~11,200 acres added by Proclamation 9681, about 1.36 million acres.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bears Ears National Monument"
     },
     {
       "date": "2026-07-13",
@@ -84,11 +123,26 @@
         {
           "name": "Federal Register: Proclamation 11043, 91 FR 45169",
           "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 11043—Modifying the Bears Ears National Monument, July 13, 2026",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-11043-modifying-the-bears-ears-national-monument"
+        },
+        {
+          "name": "Federal Register (govinfo PDF): Proclamation 11043, 91 FR 45169",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14548.pdf"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 11043, 91 FR 45169, signed 2026-07-13; FR API and APP agree on number, date and President. Post-cutoff proclamation verified on federalregister.gov and govinfo (published July 17, 2026): reduced the monument to about 121,096 acres in the Indian Creek and Shash Jaa units.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

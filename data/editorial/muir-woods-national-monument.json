@@ -1,6 +1,6 @@
 {
   "slug": "muir-woods-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1908-01-09",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Proclamation 793"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 793, Jan. 9, 1908",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-793-setting-aside-muir-woods-national-monument-california"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 793, Theodore Roosevelt; APP signing clause matches the date.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -86,6 +86,7 @@ const allTrails = (await readJSON(join(DATA, 'reference', 'alltrails.json'), { s
 const geomOf = new Map();
 const visits = (await readJSON(join(DATA, 'reference', 'visitation.json'), { sites: {} })).sites;
 const recGov = (await readJSON(join(DATA, 'reference', 'recgov.json'), { sites: {} })).sites;
+const manualLinks = (await readJSON(join(DATA, 'editorial', '_official-links.json'), { sites: {} })).sites;
 const verifiedLinks = (await readJSON(join(DATA, 'reference', 'links.json'), { sites: {} })).sites;
 const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
@@ -158,7 +159,7 @@ for (const recs of groups.values()) {
       trConnections: [...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))],
       trTypes: [...new Set([...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))].map((c) => c.type))],
       links: {
-        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || null,
+        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || manualLinks[slug]?.url || null,
         social: ed.links?.social || verifiedLinks[slug]?.social || {},
         ...(!ed.links?.social && verifiedLinks[slug]?.social && Object.keys(verifiedLinks[slug].social).length ? { socialSource: verifiedLinks[slug].socialSource || 'Wikidata' } : {}),
         recreationGov: ed.links?.recreationGov || rec.links?.recreationGov || recGov[slug]?.url || null,

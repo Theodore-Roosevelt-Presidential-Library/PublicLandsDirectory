@@ -1,0 +1,27 @@
+{
+  "slug": "fremont-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-09-17",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Fremont: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "34 Stat. 3231"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

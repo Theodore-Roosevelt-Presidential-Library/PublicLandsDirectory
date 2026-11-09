@@ -1,0 +1,27 @@
+{
+  "slug": "desoto-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1958",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "DeSoto National Wildlife Refuge was established in March of 1958 with the approval of the Migratory Bird Conservation Commission with the dual intention of providing for the needs of migratory birds and providing public recreation to local communities.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Desoto National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/desoto/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

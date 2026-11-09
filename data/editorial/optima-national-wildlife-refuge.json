@@ -1,0 +1,27 @@
+{
+  "slug": "optima-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1975",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Optima National Wildlife Refuge was established in 1975 under the authority of the Fish and Wildlife Coordination Act, by agreement between the Department of the Interior and the U.S.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Optima National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/optima/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "trinity-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1994",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Trinity River National Wildlife Refuge was established in 1994 to protect what was once a much larger, frequently flooded, bottomland hardwood forest ecosystem along the Trinity River.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Trinity River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/trinity-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

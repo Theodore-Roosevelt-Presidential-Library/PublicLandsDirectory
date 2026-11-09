@@ -1,0 +1,27 @@
+{
+  "slug": "cherry-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2008-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cherry Valley National Wildlife Refuge was established in December 2008 for the conservation of migratory birds and federal trust species, and the habitats they depend on.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cherry Valley National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cherry-valley/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "white-river-national-forest",
+  "designationHistory": [
+    {
+      "date": "1891-10-16",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Jhjite River Plateau Timber Land Reserve",
+      "indexText": "Jhjite River Plateau Timber Land: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Benjamin Harrison",
+        "citation": "27 Stat. 993"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1902-06-28",
+      "action": "renamed",
+      "designation": "Forest Reserve",
+      "name": "White River Forest Reserve",
+      "indexText": "White River Plateau: Boundary redescribed. Name changed to White River.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "32 Stat. 2008"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 11",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

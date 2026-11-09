@@ -1,0 +1,27 @@
+{
+  "slug": "merced-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1951",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "It was established in 1951 under the Lea Act and Migratory Bird Conservation Act to attract wintering waterfowl from neighboring farmland where their foraging activities were causing crop damage.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Merced National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/merced/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

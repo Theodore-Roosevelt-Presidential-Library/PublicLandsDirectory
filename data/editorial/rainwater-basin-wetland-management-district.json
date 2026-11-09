@@ -1,0 +1,27 @@
+{
+  "slug": "rainwater-basin-wetland-management-district",
+  "designationHistory": [
+    {
+      "date": "1963",
+      "action": "established",
+      "designation": "Wetland Management District",
+      "name": null,
+      "indexText": "It was established in 1963 when the Service began acquiring critical migratory waterfowl habitat in southeastern Nebraska.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Rainwater Basin Wetland Management District, About Us",
+          "url": "https://www.fws.gov/refuge/rainwater-basin-wetland-management-district/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

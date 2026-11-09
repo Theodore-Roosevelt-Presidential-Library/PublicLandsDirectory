@@ -1,0 +1,27 @@
+{
+  "slug": "becharof-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Becharof National Wildlife Refuge About Us What We Do Projects & Research Contact Us Visit Us Activities Trails Get Involved Events News Library Species Map https://www.facebook.com/alaskapeninsulabecharof https://twitter.com/USFWSAlaska About Us Established in 1980, Becharof is located in the Aleutian Range of the Alaska Peninsula in southwestern Alaska and adjacent to Katmai National Park and Pr",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Becharof National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/becharof/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

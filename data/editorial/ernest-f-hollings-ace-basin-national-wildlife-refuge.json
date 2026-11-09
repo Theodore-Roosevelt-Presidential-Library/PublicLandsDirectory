@@ -1,0 +1,27 @@
+{
+  "slug": "ernest-f-hollings-ace-basin-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990-09",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "et Involved News Library Species Map Jehossee Island About Us Image Details Combahee Unit Impoundment ACE Basin NWR was established in September 1990 for its significance for wetland and habitat protection, migratory bird benefits and conservation opportunities served by the lands and waters of the refuge.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ernest F. Hollings Ace Basin National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ernest-f-hollings-ace-basin/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

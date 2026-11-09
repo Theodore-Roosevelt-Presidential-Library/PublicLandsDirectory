@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 7295, 65 FR 24095",
           "url": "https://www.federalregister.gov/documents/2000/04/25/00-10312/establishment-of-the-giant-sequoia-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7295—Establishment of the Giant Sequoia National Monument, April 15, 2000",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7295-establishment-the-giant-sequoia-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7295, 65 FR 24095, signed 2000-04-15; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

@@ -1,0 +1,27 @@
+{
+  "slug": "waccamaw-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1997-12-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Waccamaw National Wildlife Refuge was established on December 1, 1997 and consists of wetland habitats ranging from historic, broken and actively managed tidal rice fields, to black water and alluvial flood plain forested wetlands of the Waccamaw and Great Pee Dee Rivers.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Waccamaw National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/waccamaw/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nezperce-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-06-26",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Nezperce: Established.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 854"
+      },
+      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 26",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

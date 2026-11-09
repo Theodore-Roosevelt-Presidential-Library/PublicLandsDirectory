@@ -1,0 +1,28 @@
+{
+  "slug": "dungeness-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1915-01-20",
+      "action": "established",
+      "designation": null,
+      "name": "Dungeness Spit Reservation",
+      "indexText": "Dungeness National Wildlife Refuge was established by Executive Order on January 20, 1915 for the land to be “ . . . as a refuge, preserve and breeding ground for native birds. ” The original 226.02 acres were known as the Dungeness Spit Reservation.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order",
+        "citation": null,
+        "signedBy": "Executive Order"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Dungeness National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/dungeness/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

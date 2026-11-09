@@ -1,0 +1,27 @@
+{
+  "slug": "currituck-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1670",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Algonkians called the area “Coratank” which means “The Land of the Wild Goose.” The governor of colonial North Carolina established Currituck County in 1670 from part of Albemarle County.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Currituck National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/currituck/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

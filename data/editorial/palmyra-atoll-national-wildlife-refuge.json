@@ -1,0 +1,27 @@
+{
+  "slug": "palmyra-atoll-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001-01-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established in January 18, 2001, by the Secretary of the Interior and included submerged lands and associated waters out to 12 nautical miles from the atoll.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Palmyra Atoll National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/palmyra-atoll/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

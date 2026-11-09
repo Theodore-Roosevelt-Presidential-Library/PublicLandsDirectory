@@ -1,0 +1,27 @@
+{
+  "slug": "bandon-marsh-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Rules & Policies Get Involved Events News Species Map https://www.facebook.com/usfwsoregoncoast About Us Image Details Established in 1983, Bandon Marsh NWR is located along the picturesque southern Oregon coast near the mouth of the Coquille River and the city of Bandon.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bandon Marsh National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bandon-marsh/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

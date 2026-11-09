@@ -1,0 +1,28 @@
+{
+  "slug": "florence-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "8119",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Florence Lake National Wildlife Refuge was established through Executive Order No. 8119 “… as a refuge and breeding ground for migratory birds and other wildlife” and “...for use as an inviolate sanctuary, or for any other management purpose, for migratory birds.” (Migratory Bird Conservation Act.) Our History On May 10, 1939, Florence Lake National Wildlife Refuge was established by President Fra",
+      "authority": {
+        "type": "executive-order",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Florence Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/florence-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

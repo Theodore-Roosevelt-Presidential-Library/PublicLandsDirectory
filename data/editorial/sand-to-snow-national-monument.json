@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9396, 81 FR 8379",
           "url": "https://www.federalregister.gov/documents/2016/02/18/2016-03548/establishment-of-the-sand-to-snow-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9396—Establishment of the Sand to Snow National Monument, February 12, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9396-establishment-the-sand-snow-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9396, 81 FR 8379, signed 2016-02-12; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

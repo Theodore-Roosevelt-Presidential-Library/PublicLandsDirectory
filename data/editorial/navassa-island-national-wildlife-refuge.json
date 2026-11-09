@@ -1,0 +1,27 @@
+{
+  "slug": "navassa-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1999",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Navassa Island National Wildlife Refuge About Us Contact Us Visit Us Species Map About Us Established in 1999, Navassa Island National Wildlife Refuge is an uninhabited, 5 km² island in the Caribbean Sea between Haiti and Jamaica.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Navassa Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/navassa-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

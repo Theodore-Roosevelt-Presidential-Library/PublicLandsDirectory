@@ -1,0 +1,28 @@
+{
+  "slug": "imperial-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "8685",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Imperial National Wildlife Refuge was established by Executive Order 8685 on February 14, 1941.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order",
+        "citation": null,
+        "signedBy": "Executive Order"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Imperial National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/imperial/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

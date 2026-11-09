@@ -1,0 +1,27 @@
+{
+  "slug": "st-johns-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1971-08-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Johns NWR was established on August 16, 1971, to provide habitat for threatened and endangered species, specifically for the conservation of the dusky seaside sparrow ( Ammodramus maritimus nigrescens ).",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: St. Johns National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/st-johns/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

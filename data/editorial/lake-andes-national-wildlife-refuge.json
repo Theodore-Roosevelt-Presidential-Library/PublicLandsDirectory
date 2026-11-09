@@ -1,0 +1,27 @@
+{
+  "slug": "lake-andes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Refuge was established in 1936 with the purchase of 365 acres of land in the Owen's Bay area.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Andes National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-andes/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "emiquon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Emiquon National Wildlife Refuge was established in 1993 to restore and protect wetland habitats at the confluence of the Illinois and Spoon Rivers and to help fulfill international obligations contained in various migratory bird treaties and conventions.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Emiquon National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/emiquon/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

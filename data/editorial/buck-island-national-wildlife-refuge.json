@@ -1,0 +1,27 @@
+{
+  "slug": "buck-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Laguna Cartagena National Wildlife Refuge Established in 1989, Laguna Cartagena National Wildlife Refuge is one of the most important freshwater habitats for migrating and resident aquatic birds in Puerto Rico.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Buck Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/buck-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

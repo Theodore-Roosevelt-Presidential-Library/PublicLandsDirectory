@@ -1,0 +1,28 @@
+{
+  "slug": "island-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-10-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Refuge was established as a \". . . preserve and breeding ground for native birds\" on October 23, 1908, through Executive Order 958 signed by President Theodore Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": null,
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Island Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/island-bay/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

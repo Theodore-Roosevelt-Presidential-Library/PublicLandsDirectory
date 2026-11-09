@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 10870, 89 FR 100289",
           "url": "https://www.federalregister.gov/documents/2024/12/12/2024-29459/establishment-of-the-carlisle-federal-indian-boarding-school-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10870—Establishment of the Carlisle Federal Indian Boarding School National Monument, December 09, 2024",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10870-establishment-the-carlisle-federal-indian-boarding-school-national"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10870, 89 FR 100289, signed 2024-12-09; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

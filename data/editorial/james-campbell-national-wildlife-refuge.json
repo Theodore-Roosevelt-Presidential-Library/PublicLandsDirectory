@@ -1,0 +1,27 @@
+{
+  "slug": "james-campbell-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1976",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "the Refuge was established in 1976 for the purpose of providing habitat for endangered Hawaiian waterbirds.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: James Campbell National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/james-campbell/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

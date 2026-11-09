@@ -1,0 +1,27 @@
+{
+  "slug": "minnesota-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1976",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "ons Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/MNvalleyNWR/ About Us Established in 1976 by motivated residents, the refuge preserved wildlife resources threatened by commercial and industrial development.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Minnesota Valley National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/minnesota-valley/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

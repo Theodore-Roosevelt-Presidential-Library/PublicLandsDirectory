@@ -1,0 +1,28 @@
+{
+  "slug": "creedman-coulee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941",
+      "action": "established",
+      "designation": null,
+      "name": "Migratory Waterfowl Refuge",
+      "indexText": "Creedman Coulee National Wildlife Refuge was established in 1941 by Executive Order Number 8924 as a Migratory Waterfowl Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order Number",
+        "citation": null,
+        "signedBy": "Executive Order Number"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Creedman Coulee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/creedman-coulee/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

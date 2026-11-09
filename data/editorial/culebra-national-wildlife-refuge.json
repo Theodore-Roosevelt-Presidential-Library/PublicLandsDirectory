@@ -1,0 +1,27 @@
+{
+  "slug": "culebra-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Culebra National Wildlife Refuge About Us Contact Us Visit Us Activities Get Involved Events Library Species Map Open for Public Comment https://www.facebook.com/culebra.nwr About Us Established in 1983, Culebra National Wildlife Refuge prioritizes breeding grounds for native birds and the conservation, management, and restoration of other wildlife, and plant resources and their habitats.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Culebra National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/culebra/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

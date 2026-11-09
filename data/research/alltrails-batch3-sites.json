@@ -1,0 +1,10058 @@
+[
+ {
+  "slug": "agassiz-national-wildlife-refuge",
+  "name": "Agassiz National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 48.2655,
+   "longitude": -96.0708
+  },
+  "ne": {
+   "latitude": 48.4275,
+   "longitude": -95.7975
+  },
+  "lat": 48.3458,
+  "lon": -95.9453
+ },
+ {
+  "slug": "alamosa-national-wildlife-refuge",
+  "name": "Alamosa National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 37.349,
+   "longitude": -105.8525
+  },
+  "ne": {
+   "latitude": 37.4657,
+   "longitude": -105.7431
+  },
+  "lat": 37.4208,
+  "lon": -105.7757
+ },
+ {
+  "slug": "alaska-maritime-national-wildlife-refuge",
+  "name": "Alaska Maritime National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 51.2099,
+   "longitude": -179.1501
+  },
+  "ne": {
+   "latitude": 70.3294,
+   "longitude": 179.7748
+  },
+  "lat": 54.7366,
+  "lon": -164.0974
+ },
+ {
+  "slug": "alaska-peninsula-national-wildlife-refuge",
+  "name": "Alaska Peninsula National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 54.8077,
+   "longitude": -163.388
+  },
+  "ne": {
+   "latitude": 57.9293,
+   "longitude": -156.0202
+  },
+  "lat": 55.9098,
+  "lon": -160.109
+ },
+ {
+  "slug": "alligator-river-national-wildlife-refuge",
+  "name": "Alligator River National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.5284,
+   "longitude": -76.2024
+  },
+  "ne": {
+   "latitude": 35.9778,
+   "longitude": -75.709
+  },
+  "lat": 35.7351,
+  "lon": -75.8919
+ },
+ {
+  "slug": "amagansett-national-wildlife-refuge",
+  "name": "Amagansett National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.9669,
+   "longitude": -72.1311
+  },
+  "ne": {
+   "latitude": 40.972,
+   "longitude": -72.1243
+  },
+  "lat": 40.9693,
+  "lon": -72.1278
+ },
+ {
+  "slug": "anaho-island-national-wildlife-refuge",
+  "name": "Anaho Island National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 39.9473,
+   "longitude": -119.5214
+  },
+  "ne": {
+   "latitude": 39.9622,
+   "longitude": -119.5079
+  },
+  "lat": 39.9531,
+  "lon": -119.5152
+ },
+ {
+  "slug": "ankeny-national-wildlife-refuge",
+  "name": "Ankeny National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 44.7632,
+   "longitude": -123.1003
+  },
+  "ne": {
+   "latitude": 44.8121,
+   "longitude": -123.0101
+  },
+  "lat": 44.7862,
+  "lon": -123.077
+ },
+ {
+  "slug": "antioch-dunes-national-wildlife-refuge",
+  "name": "Antioch Dunes National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 38.0124,
+   "longitude": -121.7993
+  },
+  "ne": {
+   "latitude": 38.0172,
+   "longitude": -121.7803
+  },
+  "lat": 38.0148,
+  "lon": -121.7897
+ },
+ {
+  "slug": "appert-lake-national-wildlife-refuge",
+  "name": "Appert Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.4436,
+   "longitude": -100.2526
+  },
+  "ne": {
+   "latitude": 46.4586,
+   "longitude": -100.2002
+  },
+  "lat": 46.4527,
+  "lon": -100.225
+ },
+ {
+  "slug": "aransas-national-wildlife-refuge",
+  "name": "Aransas National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 27.8213,
+   "longitude": -97.731
+  },
+  "ne": {
+   "latitude": 29.0186,
+   "longitude": -95.9929
+  },
+  "lat": 28.3693,
+  "lon": -97.0009
+ },
+ {
+  "slug": "arapaho-national-wildlife-refuge",
+  "name": "Arapaho National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 40.527,
+   "longitude": -106.4921
+  },
+  "ne": {
+   "latitude": 40.9253,
+   "longitude": -106.2206
+  },
+  "lat": 40.6288,
+  "lon": -106.2885
+ },
+ {
+  "slug": "archie-carr-national-wildlife-refuge",
+  "name": "Archie Carr National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.7817,
+   "longitude": -80.5437
+  },
+  "ne": {
+   "latitude": 28.0384,
+   "longitude": -80.4058
+  },
+  "lat": 27.878,
+  "lon": -80.4589
+ },
+ {
+  "slug": "arctic-national-wildlife-refuge",
+  "name": "Arctic National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 66.742,
+   "longitude": -149.3872
+  },
+  "ne": {
+   "latitude": 70.1705,
+   "longitude": -141.0006
+  },
+  "lat": 68.5835,
+  "lon": -144.2523
+ },
+ {
+  "slug": "ardoch-national-wildlife-refuge",
+  "name": "Ardoch National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.2159,
+   "longitude": -97.3406
+  },
+  "ne": {
+   "latitude": 48.2669,
+   "longitude": -97.2961
+  },
+  "lat": 48.2412,
+  "lon": -97.3159
+ },
+ {
+  "slug": "aroostook-national-wildlife-refuge",
+  "name": "Aroostook National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 46.8856,
+   "longitude": -68.0352
+  },
+  "ne": {
+   "latitude": 46.9835,
+   "longitude": -67.8446
+  },
+  "lat": 46.964,
+  "lon": -67.8697
+ },
+ {
+  "slug": "arrowwood-national-wildlife-refuge",
+  "name": "Arrowwood National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.1388,
+   "longitude": -98.8687
+  },
+  "ne": {
+   "latitude": 47.3411,
+   "longitude": -98.7633
+  },
+  "lat": 47.2367,
+  "lon": -98.8291
+ },
+ {
+  "slug": "arrowwood-wetland-management-district",
+  "name": "Arrowwood Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.3265,
+   "longitude": -99.2973
+  },
+  "ne": {
+   "latitude": 47.847,
+   "longitude": -98.4993
+  },
+  "lat": 47.5872,
+  "lon": -98.8923
+ },
+ {
+  "slug": "arthur-r-marshall-loxahatchee-national-wildlife-refuge",
+  "name": "Arthur R. Marshall Loxahatchee National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.3524,
+   "longitude": -80.4633
+  },
+  "ne": {
+   "latitude": 26.6852,
+   "longitude": -80.2053
+  },
+  "lat": 26.507,
+  "lon": -80.3341
+ },
+ {
+  "slug": "ash-meadows-national-wildlife-refuge",
+  "name": "Ash Meadows National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 36.3573,
+   "longitude": -116.3792
+  },
+  "ne": {
+   "latitude": 36.4951,
+   "longitude": -116.2479
+  },
+  "lat": 36.4173,
+  "lon": -116.3117
+ },
+ {
+  "slug": "assabet-river-national-wildlife-refuge",
+  "name": "Assabet River National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 42.3799,
+   "longitude": -71.5236
+  },
+  "ne": {
+   "latitude": 42.4233,
+   "longitude": -71.4467
+  },
+  "lat": 42.4092,
+  "lon": -71.4721
+ },
+ {
+  "slug": "atchafalaya-national-wildlife-refuge",
+  "name": "Atchafalaya National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 30.4093,
+   "longitude": -91.7555
+  },
+  "ne": {
+   "latitude": 30.5567,
+   "longitude": -91.5493
+  },
+  "lat": 30.4763,
+  "lon": -91.6566
+ },
+ {
+  "slug": "attwater-prairie-chicken-national-wildlife-refuge",
+  "name": "Attwater Prairie Chicken National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.618,
+   "longitude": -96.3394
+  },
+  "ne": {
+   "latitude": 29.7665,
+   "longitude": -96.1151
+  },
+  "lat": 29.6961,
+  "lon": -96.227
+ },
+ {
+  "slug": "audubon-national-wildlife-refuge",
+  "name": "Audubon National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.5381,
+   "longitude": -101.2606
+  },
+  "ne": {
+   "latitude": 47.6169,
+   "longitude": -101.089
+  },
+  "lat": 47.5856,
+  "lon": -101.1667
+ },
+ {
+  "slug": "audubon-wetland-management-district",
+  "name": "Audubon Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.2055,
+   "longitude": -103.0997
+  },
+  "ne": {
+   "latitude": 47.8485,
+   "longitude": -100.0328
+  },
+  "lat": 47.4719,
+  "lon": -101.6702
+ },
+ {
+  "slug": "baca-national-wildlife-refuge",
+  "name": "Baca National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 37.7213,
+   "longitude": -105.9072
+  },
+  "ne": {
+   "latitude": 37.9881,
+   "longitude": -105.6895
+  },
+  "lat": 37.862,
+  "lon": -105.8
+ },
+ {
+  "slug": "back-bay-national-wildlife-refuge",
+  "name": "Back Bay National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 36.6105,
+   "longitude": -76.0226
+  },
+  "ne": {
+   "latitude": 36.7721,
+   "longitude": -75.8911
+  },
+  "lat": 36.6523,
+  "lon": -75.9422
+ },
+ {
+  "slug": "baker-island-national-wildlife-refuge",
+  "name": "Baker Island National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": -0.0119,
+   "longitude": -176.6861
+  },
+  "ne": {
+   "latitude": 0.4036,
+   "longitude": -176.27
+  },
+  "lat": 0.1952,
+  "lon": -176.478
+ },
+ {
+  "slug": "balcones-canyonlands-national-wildlife-refuge",
+  "name": "Balcones Canyonlands National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 30.4716,
+   "longitude": -98.2103
+  },
+  "ne": {
+   "latitude": 30.6901,
+   "longitude": -97.9491
+  },
+  "lat": 30.5948,
+  "lon": -98.0711
+ },
+ {
+  "slug": "bald-knob-national-wildlife-refuge",
+  "name": "Bald Knob National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 35.1879,
+   "longitude": -91.6317
+  },
+  "ne": {
+   "latitude": 35.2974,
+   "longitude": -91.4832
+  },
+  "lat": 35.2388,
+  "lon": -91.5677
+ },
+ {
+  "slug": "bamforth-national-wildlife-refuge",
+  "name": "Bamforth National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 41.3646,
+   "longitude": -105.759
+  },
+  "ne": {
+   "latitude": 41.3954,
+   "longitude": -105.7106
+  },
+  "lat": 41.3711,
+  "lon": -105.7423
+ },
+ {
+  "slug": "bandon-marsh-national-wildlife-refuge",
+  "name": "Bandon Marsh National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 43.1258,
+   "longitude": -124.4106
+  },
+  "ne": {
+   "latitude": 43.1614,
+   "longitude": -124.3648
+  },
+  "lat": 43.1534,
+  "lon": -124.3809
+ },
+ {
+  "slug": "banks-lake-national-wildlife-refuge",
+  "name": "Banks Lake National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 30.9833,
+   "longitude": -83.1699
+  },
+  "ne": {
+   "latitude": 31.0381,
+   "longitude": -83.072
+  },
+  "lat": 31.014,
+  "lon": -83.1341
+ },
+ {
+  "slug": "baskett-slough-national-wildlife-refuge",
+  "name": "Baskett Slough National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 44.9407,
+   "longitude": -123.281
+  },
+  "ne": {
+   "latitude": 44.9906,
+   "longitude": -123.235
+  },
+  "lat": 44.9663,
+  "lon": -123.2573
+ },
+ {
+  "slug": "bayou-cocodrie-national-wildlife-refuge",
+  "name": "Bayou Cocodrie National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 31.4822,
+   "longitude": -91.6762
+  },
+  "ne": {
+   "latitude": 31.6136,
+   "longitude": -91.5483
+  },
+  "lat": 31.5505,
+  "lon": -91.6189
+ },
+ {
+  "slug": "bayou-sauvage-urban-national-wildlife-refuge",
+  "name": "Bayou Sauvage Urban National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.9777,
+   "longitude": -89.9383
+  },
+  "ne": {
+   "latitude": 30.1541,
+   "longitude": -89.763
+  },
+  "lat": 30.0606,
+  "lon": -89.8628
+ },
+ {
+  "slug": "bayou-teche-national-wildlife-refuge",
+  "name": "Bayou Teche National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.6701,
+   "longitude": -91.6052
+  },
+  "ne": {
+   "latitude": 29.8244,
+   "longitude": -91.3948
+  },
+  "lat": 29.7521,
+  "lon": -91.488
+ },
+ {
+  "slug": "bear-butte-national-wildlife-refuge",
+  "name": "Bear Butte National Wildlife Refuge",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 44.4501,
+   "longitude": -103.4574
+  },
+  "ne": {
+   "latitude": 44.4615,
+   "longitude": -103.432
+  },
+  "lat": 44.4563,
+  "lon": -103.4458
+ },
+ {
+  "slug": "bear-lake-national-wildlife-refuge",
+  "name": "Bear Lake National Wildlife Refuge",
+  "states": [
+   "Idaho"
+  ],
+  "sw": {
+   "latitude": 42.1104,
+   "longitude": -111.3778
+  },
+  "ne": {
+   "latitude": 42.2598,
+   "longitude": -111.2594
+  },
+  "lat": 42.172,
+  "lon": -111.3222
+ },
+ {
+  "slug": "bear-river-migratory-bird-refuge",
+  "name": "Bear River Migratory Bird Refuge",
+  "states": [
+   "Utah"
+  ],
+  "sw": {
+   "latitude": 41.3938,
+   "longitude": -112.4515
+  },
+  "ne": {
+   "latitude": 41.5504,
+   "longitude": -112.0534
+  },
+  "lat": 41.4795,
+  "lon": -112.2403
+ },
+ {
+  "slug": "bear-valley-national-wildlife-refuge",
+  "name": "Bear Valley National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 42.0386,
+   "longitude": -121.958
+  },
+  "ne": {
+   "latitude": 42.0824,
+   "longitude": -121.8972
+  },
+  "lat": 42.0617,
+  "lon": -121.9291
+ },
+ {
+  "slug": "becharof-national-wildlife-refuge",
+  "name": "Becharof National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 57.4384,
+   "longitude": -156.8907
+  },
+  "ne": {
+   "latitude": 58.566,
+   "longitude": -155.0841
+  },
+  "lat": 57.9933,
+  "lon": -156.1826
+ },
+ {
+  "slug": "benton-lake-national-wildlife-refuge",
+  "name": "Benton Lake National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.6182,
+   "longitude": -111.7093
+  },
+  "ne": {
+   "latitude": 47.7054,
+   "longitude": -111.2609
+  },
+  "lat": 47.6656,
+  "lon": -111.3287
+ },
+ {
+  "slug": "benton-lake-wetland-management-district",
+  "name": "Benton Lake Wetland Management District",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 46.2659,
+   "longitude": -114.0682
+  },
+  "ne": {
+   "latitude": 48.9992,
+   "longitude": -109.4635
+  },
+  "lat": 47.9061,
+  "lon": -111.7346
+ },
+ {
+  "slug": "big-boggy-national-wildlife-refuge",
+  "name": "Big Boggy National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 28.5204,
+   "longitude": -96.59
+  },
+  "ne": {
+   "latitude": 29.2298,
+   "longitude": -95.5039
+  },
+  "lat": 28.8267,
+  "lon": -96.1182
+ },
+ {
+  "slug": "big-branch-marsh-national-wildlife-refuge",
+  "name": "Big Branch Marsh National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 30.1798,
+   "longitude": -90.0182
+  },
+  "ne": {
+   "latitude": 30.3367,
+   "longitude": -89.6908
+  },
+  "lat": 30.272,
+  "lon": -89.9129
+ },
+ {
+  "slug": "big-lake-national-wildlife-refuge",
+  "name": "Big Lake National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 35.8147,
+   "longitude": -90.1503
+  },
+  "ne": {
+   "latitude": 35.9979,
+   "longitude": -90.092
+  },
+  "lat": 35.9077,
+  "lon": -90.1221
+ },
+ {
+  "slug": "big-muddy-national-fish-and-wildlife-refuge",
+  "name": "Big Muddy National Fish and Wildlife Refuge",
+  "states": [
+   "Kansas",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 38.4534,
+   "longitude": -94.6073
+  },
+  "ne": {
+   "latitude": 39.5,
+   "longitude": -90.1144
+  },
+  "lat": 39.0637,
+  "lon": -92.7788
+ },
+ {
+  "slug": "big-oaks-national-wildlife-refuge",
+  "name": "Big Oaks National Wildlife Refuge",
+  "states": [
+   "Indiana"
+  ],
+  "sw": {
+   "latitude": 38.8376,
+   "longitude": -85.4824
+  },
+  "ne": {
+   "latitude": 39.0602,
+   "longitude": -85.3594
+  },
+  "lat": 38.9541,
+  "lon": -85.4178
+ },
+ {
+  "slug": "big-stone-national-wildlife-refuge",
+  "name": "Big Stone National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 45.204,
+   "longitude": -96.4518
+  },
+  "ne": {
+   "latitude": 45.2906,
+   "longitude": -96.2752
+  },
+  "lat": 45.2417,
+  "lon": -96.3639
+ },
+ {
+  "slug": "bill-williams-river-national-wildlife-refuge",
+  "name": "Bill Williams River National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 34.2492,
+   "longitude": -114.1142
+  },
+  "ne": {
+   "latitude": 34.3173,
+   "longitude": -113.9573
+  },
+  "lat": 34.2766,
+  "lon": -114.0466
+ },
+ {
+  "slug": "billy-frank-jr-nisqually-national-wildlife-refuge",
+  "name": "Billy Frank Jr. Nisqually National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.9053,
+   "longitude": -123.0346
+  },
+  "ne": {
+   "latitude": 47.1198,
+   "longitude": -122.6606
+  },
+  "lat": 47.0759,
+  "lon": -122.7083
+ },
+ {
+  "slug": "bitter-creek-national-wildlife-refuge",
+  "name": "Bitter Creek National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 34.887,
+   "longitude": -119.4864
+  },
+  "ne": {
+   "latitude": 34.996,
+   "longitude": -119.299
+  },
+  "lat": 34.9323,
+  "lon": -119.3777
+ },
+ {
+  "slug": "bitter-lake-national-wildlife-refuge",
+  "name": "Bitter Lake National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 33.3694,
+   "longitude": -104.4629
+  },
+  "ne": {
+   "latitude": 33.6282,
+   "longitude": -104.3543
+  },
+  "lat": 33.5219,
+  "lon": -104.4019
+ },
+ {
+  "slug": "black-bayou-lake-national-wildlife-refuge",
+  "name": "Black Bayou Lake National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 32.563,
+   "longitude": -92.0655
+  },
+  "ne": {
+   "latitude": 32.6407,
+   "longitude": -92.0057
+  },
+  "lat": 32.5992,
+  "lon": -92.0333
+ },
+ {
+  "slug": "black-coulee-national-wildlife-refuge",
+  "name": "Black Coulee National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.6807,
+   "longitude": -108.4338
+  },
+  "ne": {
+   "latitude": 48.7062,
+   "longitude": -108.39
+  },
+  "lat": 48.6916,
+  "lon": -108.4145
+ },
+ {
+  "slug": "blackbeard-island-national-wildlife-refuge",
+  "name": "Blackbeard Island National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 31.4425,
+   "longitude": -81.2335
+  },
+  "ne": {
+   "latitude": 31.5456,
+   "longitude": -81.1622
+  },
+  "lat": 31.5025,
+  "lon": -81.203
+ },
+ {
+  "slug": "blackwater-national-wildlife-refuge",
+  "name": "Blackwater National Wildlife Refuge",
+  "states": [
+   "Delaware",
+   "Maryland"
+  ],
+  "sw": {
+   "latitude": 38.1238,
+   "longitude": -76.2793
+  },
+  "ne": {
+   "latitude": 39.5723,
+   "longitude": -75.7003
+  },
+  "lat": 38.4319,
+  "lon": -76.1406
+ },
+ {
+  "slug": "block-island-national-wildlife-refuge",
+  "name": "Block Island National Wildlife Refuge",
+  "states": [
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.1965,
+   "longitude": -71.5879
+  },
+  "ne": {
+   "latitude": 41.232,
+   "longitude": -71.5621
+  },
+  "lat": 41.2129,
+  "lon": -71.5727
+ },
+ {
+  "slug": "blue-ridge-national-wildlife-refuge",
+  "name": "Blue Ridge National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 36.2593,
+   "longitude": -118.8711
+  },
+  "ne": {
+   "latitude": 36.2954,
+   "longitude": -118.8364
+  },
+  "lat": 36.2776,
+  "lon": -118.8525
+ },
+ {
+  "slug": "bogue-chitto-national-wildlife-refuge",
+  "name": "Bogue Chitto National Wildlife Refuge",
+  "states": [
+   "Louisiana",
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 30.3866,
+   "longitude": -89.8683
+  },
+  "ne": {
+   "latitude": 30.7103,
+   "longitude": -89.6984
+  },
+  "lat": 30.5623,
+  "lon": -89.7987
+ },
+ {
+  "slug": "bombay-hook-national-wildlife-refuge",
+  "name": "Bombay Hook National Wildlife Refuge",
+  "states": [
+   "Delaware"
+  ],
+  "sw": {
+   "latitude": 39.1838,
+   "longitude": -75.5304
+  },
+  "ne": {
+   "latitude": 39.3358,
+   "longitude": -75.3961
+  },
+  "lat": 39.2622,
+  "lon": -75.4532
+ },
+ {
+  "slug": "bon-secour-national-wildlife-refuge",
+  "name": "Bon Secour National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 30.224,
+   "longitude": -88.1245
+  },
+  "ne": {
+   "latitude": 30.37,
+   "longitude": -87.7167
+  },
+  "lat": 30.3317,
+  "lon": -87.7919
+ },
+ {
+  "slug": "bond-swamp-national-wildlife-refuge",
+  "name": "Bond Swamp National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 32.6257,
+   "longitude": -83.6359
+  },
+  "ne": {
+   "latitude": 32.8044,
+   "longitude": -83.525
+  },
+  "lat": 32.714,
+  "lon": -83.5819
+ },
+ {
+  "slug": "bone-hill-national-wildlife-refuge",
+  "name": "Bone Hill National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.5439,
+   "longitude": -98.8715
+  },
+  "ne": {
+   "latitude": 46.5584,
+   "longitude": -98.8505
+  },
+  "lat": 46.5511,
+  "lon": -98.861
+ },
+ {
+  "slug": "bosque-del-apache-national-wildlife-refuge",
+  "name": "Bosque del Apache National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 33.6854,
+   "longitude": -106.9734
+  },
+  "ne": {
+   "latitude": 33.8702,
+   "longitude": -106.7574
+  },
+  "lat": 33.8002,
+  "lon": -106.8736
+ },
+ {
+  "slug": "bowdoin-national-wildlife-refuge",
+  "name": "Bowdoin National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.3623,
+   "longitude": -107.7369
+  },
+  "ne": {
+   "latitude": 48.4381,
+   "longitude": -107.5629
+  },
+  "lat": 48.4023,
+  "lon": -107.664
+ },
+ {
+  "slug": "bowdoin-wetland-management-district",
+  "name": "Bowdoin Wetland Management District",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.4495,
+   "longitude": -110.2155
+  },
+  "ne": {
+   "latitude": 48.9992,
+   "longitude": -105.8044
+  },
+  "lat": 48.3673,
+  "lon": -107.869
+ },
+ {
+  "slug": "boyer-chute-national-wildlife-refuge",
+  "name": "Boyer Chute National Wildlife Refuge",
+  "states": [
+   "Iowa",
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 41.404,
+   "longitude": -96.0101
+  },
+  "ne": {
+   "latitude": 41.4779,
+   "longitude": -95.9087
+  },
+  "lat": 41.4445,
+  "lon": -95.9576
+ },
+ {
+  "slug": "brazoria-national-wildlife-refuge",
+  "name": "Brazoria National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 28.9757,
+   "longitude": -95.3185
+  },
+  "ne": {
+   "latitude": 29.2114,
+   "longitude": -95.1494
+  },
+  "lat": 29.1405,
+  "lon": -95.2274
+ },
+ {
+  "slug": "breton-national-wildlife-refuge",
+  "name": "Breton National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.4609,
+   "longitude": -89.2085
+  },
+  "ne": {
+   "latitude": 30.0568,
+   "longitude": -88.8191
+  },
+  "lat": 29.9074,
+  "lon": -88.8417
+ },
+ {
+  "slug": "browns-park-national-wildlife-refuge",
+  "name": "Browns Park National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 40.7467,
+   "longitude": -109.049
+  },
+  "ne": {
+   "latitude": 40.8952,
+   "longitude": -108.8772
+  },
+  "lat": 40.8194,
+  "lon": -108.9624
+ },
+ {
+  "slug": "brumba-national-wildlife-refuge",
+  "name": "Brumba National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.7183,
+   "longitude": -99.2631
+  },
+  "ne": {
+   "latitude": 48.7618,
+   "longitude": -99.2304
+  },
+  "lat": 48.7396,
+  "lon": -99.248
+ },
+ {
+  "slug": "buck-island-national-wildlife-refuge",
+  "name": "Buck Island National Wildlife Refuge",
+  "states": [
+   "U.S. Virgin Islands"
+  ],
+  "sw": {
+   "latitude": 18.2744,
+   "longitude": -64.8988
+  },
+  "ne": {
+   "latitude": 18.2793,
+   "longitude": -64.8905
+  },
+  "lat": 18.2768,
+  "lon": -64.8943
+ },
+ {
+  "slug": "buenos-aires-national-wildlife-refuge",
+  "name": "Buenos Aires National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 31.4533,
+   "longitude": -111.588
+  },
+  "ne": {
+   "latitude": 31.827,
+   "longitude": -111.262
+  },
+  "lat": 31.6411,
+  "lon": -111.4573
+ },
+ {
+  "slug": "buffalo-lake-national-wildlife-refuge",
+  "name": "Buffalo Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota",
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 34.8547,
+   "longitude": -102.1516
+  },
+  "ne": {
+   "latitude": 48.036,
+   "longitude": -99.8228
+  },
+  "lat": 34.8922,
+  "lon": -102.1234
+ },
+ {
+  "slug": "cabeza-prieta-national-wildlife-refuge",
+  "name": "Cabeza Prieta National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 31.9612,
+   "longitude": -113.9614
+  },
+  "ne": {
+   "latitude": 32.5053,
+   "longitude": -112.9321
+  },
+  "lat": 32.266,
+  "lon": -113.3926
+ },
+ {
+  "slug": "cabo-rojo-national-wildlife-refuge",
+  "name": "Cabo Rojo National Wildlife Refuge",
+  "states": [
+   "Puerto Rico"
+  ],
+  "sw": {
+   "latitude": 17.9455,
+   "longitude": -67.2148
+  },
+  "ne": {
+   "latitude": 17.9836,
+   "longitude": -67.1593
+  },
+  "lat": 17.9666,
+  "lon": -67.191
+ },
+ {
+  "slug": "cache-river-national-wildlife-refuge",
+  "name": "Cache River National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 34.667,
+   "longitude": -91.4703
+  },
+  "ne": {
+   "latitude": 35.7083,
+   "longitude": -90.9656
+  },
+  "lat": 35.0938,
+  "lon": -91.2506
+ },
+ {
+  "slug": "caddo-lake-national-wildlife-refuge",
+  "name": "Caddo Lake National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 32.6303,
+   "longitude": -94.175
+  },
+  "ne": {
+   "latitude": 32.6998,
+   "longitude": -94.1004
+  },
+  "lat": 32.6697,
+  "lon": -94.1364
+ },
+ {
+  "slug": "cahaba-river-national-wildlife-refuge",
+  "name": "Cahaba River National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 33.0421,
+   "longitude": -87.0934
+  },
+  "ne": {
+   "latitude": 33.1298,
+   "longitude": -87.0253
+  },
+  "lat": 33.0844,
+  "lon": -87.0558
+ },
+ {
+  "slug": "caloosahatchee-national-wildlife-refuge",
+  "name": "Caloosahatchee National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.6897,
+   "longitude": -81.8127
+  },
+  "ne": {
+   "latitude": 26.7011,
+   "longitude": -81.7918
+  },
+  "lat": 26.696,
+  "lon": -81.8018
+ },
+ {
+  "slug": "camas-national-wildlife-refuge",
+  "name": "Camas National Wildlife Refuge",
+  "states": [
+   "Idaho"
+  ],
+  "sw": {
+   "latitude": 43.8994,
+   "longitude": -112.3126
+  },
+  "ne": {
+   "latitude": 43.9931,
+   "longitude": -112.2169
+  },
+  "lat": 43.9391,
+  "lon": -112.2628
+ },
+ {
+  "slug": "cameron-prairie-national-wildlife-refuge",
+  "name": "Cameron Prairie National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.8192,
+   "longitude": -93.3243
+  },
+  "ne": {
+   "latitude": 29.9915,
+   "longitude": -93.0297
+  },
+  "lat": 29.847,
+  "lon": -93.221
+ },
+ {
+  "slug": "camp-lake-national-wildlife-refuge",
+  "name": "Camp Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.7467,
+   "longitude": -100.8751
+  },
+  "ne": {
+   "latitude": 47.783,
+   "longitude": -100.8429
+  },
+  "lat": 47.765,
+  "lon": -100.8595
+ },
+ {
+  "slug": "canaan-valley-national-wildlife-refuge",
+  "name": "Canaan Valley National Wildlife Refuge",
+  "states": [
+   "West Virginia"
+  ],
+  "sw": {
+   "latitude": 38.9735,
+   "longitude": -79.455
+  },
+  "ne": {
+   "latitude": 39.1824,
+   "longitude": -79.3218
+  },
+  "lat": 39.0945,
+  "lon": -79.3895
+ },
+ {
+  "slug": "canfield-lake-national-wildlife-refuge",
+  "name": "Canfield Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.1856,
+   "longitude": -100.4746
+  },
+  "ne": {
+   "latitude": 47.1966,
+   "longitude": -100.4479
+  },
+  "lat": 47.1901,
+  "lon": -100.4598
+ },
+ {
+  "slug": "cape-may-national-wildlife-refuge",
+  "name": "Cape May National Wildlife Refuge",
+  "states": [
+   "New Jersey"
+  ],
+  "sw": {
+   "latitude": 38.9346,
+   "longitude": -74.9317
+  },
+  "ne": {
+   "latitude": 39.2659,
+   "longitude": -74.6743
+  },
+  "lat": 39.2196,
+  "lon": -74.7498
+ },
+ {
+  "slug": "cape-meares-national-wildlife-refuge",
+  "name": "Cape Meares National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.4786,
+   "longitude": -123.9768
+  },
+  "ne": {
+   "latitude": 45.4928,
+   "longitude": -123.9631
+  },
+  "lat": 45.4894,
+  "lon": -123.9677
+ },
+ {
+  "slug": "cape-romain-national-wildlife-refuge",
+  "name": "Cape Romain National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 32.876,
+   "longitude": -79.6748
+  },
+  "ne": {
+   "latitude": 33.1103,
+   "longitude": -79.3268
+  },
+  "lat": 33.008,
+  "lon": -79.5
+ },
+ {
+  "slug": "carolina-sandhills-national-wildlife-refuge",
+  "name": "Carolina Sandhills National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 34.4847,
+   "longitude": -80.4195
+  },
+  "ne": {
+   "latitude": 34.7291,
+   "longitude": -80.1389
+  },
+  "lat": 34.599,
+  "lon": -80.2689
+ },
+ {
+  "slug": "castle-rock-national-wildlife-refuge",
+  "name": "Castle Rock National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 41.7612,
+   "longitude": -124.2504
+  },
+  "ne": {
+   "latitude": 41.7625,
+   "longitude": -124.2469
+  },
+  "lat": 41.762,
+  "lon": -124.2491
+ },
+ {
+  "slug": "cat-island-national-wildlife-refuge",
+  "name": "Cat Island National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 30.7343,
+   "longitude": -91.5928
+  },
+  "ne": {
+   "latitude": 30.9063,
+   "longitude": -91.3916
+  },
+  "lat": 30.7919,
+  "lon": -91.4909
+ },
+ {
+  "slug": "catahoula-national-wildlife-refuge",
+  "name": "Catahoula National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 31.4905,
+   "longitude": -92.6717
+  },
+  "ne": {
+   "latitude": 31.7898,
+   "longitude": -91.8719
+  },
+  "lat": 31.6469,
+  "lon": -91.957
+ },
+ {
+  "slug": "cedar-island-national-wildlife-refuge",
+  "name": "Cedar Island National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 34.889,
+   "longitude": -76.4093
+  },
+  "ne": {
+   "latitude": 35.0367,
+   "longitude": -76.2755
+  },
+  "lat": 34.9596,
+  "lon": -76.3314
+ },
+ {
+  "slug": "cedar-keys-national-wildlife-refuge",
+  "name": "Cedar Keys National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 29.0957,
+   "longitude": -83.0942
+  },
+  "ne": {
+   "latitude": 29.1936,
+   "longitude": -82.9982
+  },
+  "lat": 29.0995,
+  "lon": -83.067
+ },
+ {
+  "slug": "cedar-point-national-wildlife-refuge",
+  "name": "Cedar Point National Wildlife Refuge",
+  "states": [
+   "Ohio"
+  ],
+  "sw": {
+   "latitude": 41.6719,
+   "longitude": -83.3514
+  },
+  "ne": {
+   "latitude": 41.7115,
+   "longitude": -83.2847
+  },
+  "lat": 41.6876,
+  "lon": -83.3203
+ },
+ {
+  "slug": "charles-m-russell-national-wildlife-refuge",
+  "name": "Charles M. Russell National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.3142,
+   "longitude": -108.8319
+  },
+  "ne": {
+   "latitude": 48.0684,
+   "longitude": -106.133
+  },
+  "lat": 47.6912,
+  "lon": -107.2767
+ },
+ {
+  "slug": "charles-m-russell-wetland-management-district",
+  "name": "Charles M. Russell Wetland Management District",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 45.1672,
+   "longitude": -110.0638
+  },
+  "ne": {
+   "latitude": 47.5985,
+   "longitude": -107.4634
+  },
+  "lat": 46.2753,
+  "lon": -108.6288
+ },
+ {
+  "slug": "chase-lake-national-wildlife-refuge",
+  "name": "Chase Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.9838,
+   "longitude": -99.4811
+  },
+  "ne": {
+   "latitude": 47.0307,
+   "longitude": -99.4178
+  },
+  "lat": 47.0075,
+  "lon": -99.4445
+ },
+ {
+  "slug": "chase-lake-prairie-project-wetland-management-district",
+  "name": "Chase Lake Prairie Project Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.6312,
+   "longitude": -100.0695
+  },
+  "ne": {
+   "latitude": 47.8478,
+   "longitude": -98.439
+  },
+  "lat": 47.2,
+  "lon": -99.2134
+ },
+ {
+  "slug": "chassahowitzka-national-wildlife-refuge",
+  "name": "Chassahowitzka National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 28.6059,
+   "longitude": -82.7319
+  },
+  "ne": {
+   "latitude": 28.7758,
+   "longitude": -82.6002
+  },
+  "lat": 28.7041,
+  "lon": -82.6675
+ },
+ {
+  "slug": "chautauqua-national-wildlife-refuge",
+  "name": "Chautauqua National Wildlife Refuge",
+  "states": [
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 40.3528,
+   "longitude": -90.0512
+  },
+  "ne": {
+   "latitude": 41.0907,
+   "longitude": -89.3545
+  },
+  "lat": 40.376,
+  "lon": -90.0012
+ },
+ {
+  "slug": "cherry-valley-national-wildlife-refuge",
+  "name": "Cherry Valley National Wildlife Refuge",
+  "states": [
+   "Pennsylvania"
+  ],
+  "sw": {
+   "latitude": 40.845,
+   "longitude": -75.3929
+  },
+  "ne": {
+   "latitude": 40.9919,
+   "longitude": -75.1207
+  },
+  "lat": 40.9019,
+  "lon": -75.2575
+ },
+ {
+  "slug": "chickasaw-national-wildlife-refuge",
+  "name": "Chickasaw National Wildlife Refuge",
+  "states": [
+   "Arkansas",
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 35.6699,
+   "longitude": -89.9327
+  },
+  "ne": {
+   "latitude": 35.9462,
+   "longitude": -89.4879
+  },
+  "lat": 35.8482,
+  "lon": -89.6451
+ },
+ {
+  "slug": "chincoteague-national-wildlife-refuge",
+  "name": "Chincoteague National Wildlife Refuge",
+  "states": [
+   "Maryland",
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.5911,
+   "longitude": -75.6382
+  },
+  "ne": {
+   "latitude": 38.0739,
+   "longitude": -75.2286
+  },
+  "lat": 37.9467,
+  "lon": -75.3158
+ },
+ {
+  "slug": "choctaw-national-wildlife-refuge",
+  "name": "Choctaw National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 31.764,
+   "longitude": -88.2129
+  },
+  "ne": {
+   "latitude": 31.8513,
+   "longitude": -88.1603
+  },
+  "lat": 31.8095,
+  "lon": -88.1837
+ },
+ {
+  "slug": "cibola-national-wildlife-refuge",
+  "name": "Cibola National Wildlife Refuge",
+  "states": [
+   "Arizona",
+   "California"
+  ],
+  "sw": {
+   "latitude": 33.2016,
+   "longitude": -114.7348
+  },
+  "ne": {
+   "latitude": 33.3758,
+   "longitude": -114.659
+  },
+  "lat": 33.2982,
+  "lon": -114.6922
+ },
+ {
+  "slug": "clarence-cannon-national-wildlife-refuge",
+  "name": "Clarence Cannon National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 39.2524,
+   "longitude": -90.8271
+  },
+  "ne": {
+   "latitude": 39.302,
+   "longitude": -90.7499
+  },
+  "lat": 39.2693,
+  "lon": -90.7893
+ },
+ {
+  "slug": "clarks-river-national-wildlife-refuge",
+  "name": "Clarks River National Wildlife Refuge",
+  "states": [
+   "Kentucky"
+  ],
+  "sw": {
+   "latitude": 36.7676,
+   "longitude": -88.6118
+  },
+  "ne": {
+   "latitude": 37.0132,
+   "longitude": -88.262
+  },
+  "lat": 36.8983,
+  "lon": -88.4638
+ },
+ {
+  "slug": "clear-lake-national-wildlife-refuge",
+  "name": "Clear Lake National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 41.7938,
+   "longitude": -121.2287
+  },
+  "ne": {
+   "latitude": 41.928,
+   "longitude": -121.0587
+  },
+  "lat": 41.8649,
+  "lon": -121.1413
+ },
+ {
+  "slug": "coachella-valley-national-wildlife-refuge",
+  "name": "Coachella Valley National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 33.7728,
+   "longitude": -116.3535
+  },
+  "ne": {
+   "latitude": 33.8166,
+   "longitude": -116.3011
+  },
+  "lat": 33.796,
+  "lon": -116.3241
+ },
+ {
+  "slug": "cokeville-meadows-national-wildlife-refuge",
+  "name": "Cokeville Meadows National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 41.8355,
+   "longitude": -111.0463
+  },
+  "ne": {
+   "latitude": 42.07,
+   "longitude": -110.9315
+  },
+  "lat": 41.931,
+  "lon": -110.9834
+ },
+ {
+  "slug": "cold-springs-national-wildlife-refuge",
+  "name": "Cold Springs National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.8389,
+   "longitude": -119.1843
+  },
+  "ne": {
+   "latitude": 45.8752,
+   "longitude": -119.1097
+  },
+  "lat": 45.8603,
+  "lon": -119.1493
+ },
+ {
+  "slug": "coldwater-river-national-wildlife-refuge",
+  "name": "Coldwater River National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 34.0135,
+   "longitude": -90.1668
+  },
+  "ne": {
+   "latitude": 34.1419,
+   "longitude": -90.1239
+  },
+  "lat": 34.0679,
+  "lon": -90.143
+ },
+ {
+  "slug": "columbia-national-wildlife-refuge",
+  "name": "Columbia National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.7956,
+   "longitude": -119.9188
+  },
+  "ne": {
+   "latitude": 46.9838,
+   "longitude": -119.1615
+  },
+  "lat": 46.88,
+  "lon": -119.3147
+ },
+ {
+  "slug": "colusa-national-wildlife-refuge",
+  "name": "Colusa National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 39.1152,
+   "longitude": -122.0603
+  },
+  "ne": {
+   "latitude": 39.1956,
+   "longitude": -122.027
+  },
+  "lat": 39.1554,
+  "lon": -122.0462
+ },
+ {
+  "slug": "conboy-lake-national-wildlife-refuge",
+  "name": "Conboy Lake National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.92,
+   "longitude": -121.3854
+  },
+  "ne": {
+   "latitude": 46.0155,
+   "longitude": -121.2193
+  },
+  "lat": 45.964,
+  "lon": -121.313
+ },
+ {
+  "slug": "congressman-lester-wolff-oyster-bay-national-wildlife-refuge",
+  "name": "Congressman Lester Wolff Oyster Bay National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.8707,
+   "longitude": -73.6085
+  },
+  "ne": {
+   "latitude": 40.9176,
+   "longitude": -73.4806
+  },
+  "lat": 40.8955,
+  "lon": -73.5205
+ },
+ {
+  "slug": "conscience-point-national-wildlife-refuge",
+  "name": "Conscience Point National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.9377,
+   "longitude": -72.425
+  },
+  "ne": {
+   "latitude": 40.9459,
+   "longitude": -72.4191
+  },
+  "lat": 40.942,
+  "lon": -72.4208
+ },
+ {
+  "slug": "copalis-national-wildlife-refuge",
+  "name": "Copalis National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 47.1334,
+   "longitude": -124.4785
+  },
+  "ne": {
+   "latitude": 47.4834,
+   "longitude": -124.1856
+  },
+  "lat": 47.3258,
+  "lon": -124.3315
+ },
+ {
+  "slug": "cottonwood-lake-national-wildlife-refuge",
+  "name": "Cottonwood Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8587,
+   "longitude": -100.682
+  },
+  "ne": {
+   "latitude": 47.8821,
+   "longitude": -100.6498
+  },
+  "lat": 47.8716,
+  "lon": -100.662
+ },
+ {
+  "slug": "crab-orchard-national-wildlife-refuge",
+  "name": "Crab Orchard National Wildlife Refuge",
+  "states": [
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 37.5836,
+   "longitude": -89.1665
+  },
+  "ne": {
+   "latitude": 37.7677,
+   "longitude": -88.9603
+  },
+  "lat": 37.6776,
+  "lon": -89.0749
+ },
+ {
+  "slug": "crane-meadows-national-wildlife-refuge",
+  "name": "Crane Meadows National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 45.8526,
+   "longitude": -94.2849
+  },
+  "ne": {
+   "latitude": 45.9706,
+   "longitude": -94.1611
+  },
+  "lat": 45.9246,
+  "lon": -94.2144
+ },
+ {
+  "slug": "creedman-coulee-national-wildlife-refuge",
+  "name": "Creedman Coulee National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.943,
+   "longitude": -109.7976
+  },
+  "ne": {
+   "latitude": 48.9792,
+   "longitude": -109.7314
+  },
+  "lat": 48.96,
+  "lon": -109.7584
+ },
+ {
+  "slug": "crescent-lake-national-wildlife-refuge",
+  "name": "Crescent Lake National Wildlife Refuge",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 41.6559,
+   "longitude": -102.7122
+  },
+  "ne": {
+   "latitude": 41.9183,
+   "longitude": -102.1667
+  },
+  "lat": 41.7317,
+  "lon": -102.3499
+ },
+ {
+  "slug": "crocodile-lake-national-wildlife-refuge",
+  "name": "Crocodile Lake National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 25.1728,
+   "longitude": -80.4075
+  },
+  "ne": {
+   "latitude": 25.3478,
+   "longitude": -80.2689
+  },
+  "lat": 25.2486,
+  "lon": -80.3364
+ },
+ {
+  "slug": "crosby-wetland-management-district",
+  "name": "Crosby Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.956,
+   "longitude": -104.0487
+  },
+  "ne": {
+   "latitude": 48.9999,
+   "longitude": -102.0212
+  },
+  "lat": 48.5887,
+  "lon": -103.2431
+ },
+ {
+  "slug": "cross-creeks-national-wildlife-refuge",
+  "name": "Cross Creeks National Wildlife Refuge",
+  "states": [
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 36.4011,
+   "longitude": -87.8124
+  },
+  "ne": {
+   "latitude": 36.5206,
+   "longitude": -87.6623
+  },
+  "lat": 36.4636,
+  "lon": -87.7267
+ },
+ {
+  "slug": "cross-island-national-wildlife-refuge",
+  "name": "Cross Island National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 44.5975,
+   "longitude": -67.3232
+  },
+  "ne": {
+   "latitude": 44.6261,
+   "longitude": -67.2366
+  },
+  "lat": 44.6094,
+  "lon": -67.2998
+ },
+ {
+  "slug": "crystal-river-national-wildlife-refuge",
+  "name": "Crystal River National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 28.7737,
+   "longitude": -82.7373
+  },
+  "ne": {
+   "latitude": 28.892,
+   "longitude": -82.5859
+  },
+  "lat": 28.7887,
+  "lon": -82.6815
+ },
+ {
+  "slug": "culebra-national-wildlife-refuge",
+  "name": "Culebra National Wildlife Refuge",
+  "states": [
+   "Puerto Rico"
+  ],
+  "sw": {
+   "latitude": 18.2458,
+   "longitude": -65.4179
+  },
+  "ne": {
+   "latitude": 18.3835,
+   "longitude": -65.2006
+  },
+  "lat": 18.3147,
+  "lon": -65.3093
+ },
+ {
+  "slug": "currituck-national-wildlife-refuge",
+  "name": "Currituck National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 36.2282,
+   "longitude": -75.912
+  },
+  "ne": {
+   "latitude": 36.5505,
+   "longitude": -75.7756
+  },
+  "lat": 36.4745,
+  "lon": -75.8716
+ },
+ {
+  "slug": "cypress-creek-national-wildlife-refuge",
+  "name": "Cypress Creek National Wildlife Refuge",
+  "states": [
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 37.0774,
+   "longitude": -89.275
+  },
+  "ne": {
+   "latitude": 37.3788,
+   "longitude": -89.0213
+  },
+  "lat": 37.2548,
+  "lon": -89.1383
+ },
+ {
+  "slug": "darbonne-national-wildlife-refuge",
+  "name": "D'arbonne National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 32.5681,
+   "longitude": -92.2601
+  },
+  "ne": {
+   "latitude": 32.6783,
+   "longitude": -92.1573
+  },
+  "lat": 32.6198,
+  "lon": -92.2135
+ },
+ {
+  "slug": "dahomey-national-wildlife-refuge",
+  "name": "Dahomey National Wildlife Refuge",
+  "states": [
+   "Arkansas",
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.6459,
+   "longitude": -91.1436
+  },
+  "ne": {
+   "latitude": 33.7833,
+   "longitude": -90.8568
+  },
+  "lat": 33.717,
+  "lon": -90.9923
+ },
+ {
+  "slug": "dakota-lake-national-wildlife-refuge",
+  "name": "Dakota Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 45.9361,
+   "longitude": -98.1794
+  },
+  "ne": {
+   "latitude": 46.0474,
+   "longitude": -98.127
+  },
+  "lat": 46.0015,
+  "lon": -98.155
+ },
+ {
+  "slug": "dale-bumpers-white-river-national-wildlife-refuge",
+  "name": "Dale Bumpers White River National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 33.9288,
+   "longitude": -91.4773
+  },
+  "ne": {
+   "latitude": 34.6887,
+   "longitude": -90.9986
+  },
+  "lat": 34.3051,
+  "lon": -91.1582
+ },
+ {
+  "slug": "deep-fork-national-wildlife-refuge",
+  "name": "Deep Fork National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 35.4782,
+   "longitude": -96.0418
+  },
+  "ne": {
+   "latitude": 35.6791,
+   "longitude": -95.8789
+  },
+  "lat": 35.5681,
+  "lon": -95.9643
+ },
+ {
+  "slug": "deer-flat-national-wildlife-refuge",
+  "name": "Deer Flat National Wildlife Refuge",
+  "states": [
+   "Idaho",
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 43.2913,
+   "longitude": -117.2061
+  },
+  "ne": {
+   "latitude": 44.2833,
+   "longitude": -116.5116
+  },
+  "lat": 43.5541,
+  "lon": -116.6702
+ },
+ {
+  "slug": "delevan-national-wildlife-refuge",
+  "name": "Delevan National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 39.2755,
+   "longitude": -122.1167
+  },
+  "ne": {
+   "latitude": 39.3419,
+   "longitude": -122.0751
+  },
+  "lat": 39.3074,
+  "lon": -122.0979
+ },
+ {
+  "slug": "delta-national-wildlife-refuge",
+  "name": "Delta National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.1476,
+   "longitude": -89.3044
+  },
+  "ne": {
+   "latitude": 29.3348,
+   "longitude": -89.1157
+  },
+  "lat": 29.2369,
+  "lon": -89.2051
+ },
+ {
+  "slug": "des-lacs-national-wildlife-refuge",
+  "name": "Des Lacs National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.5881,
+   "longitude": -102.2231
+  },
+  "ne": {
+   "latitude": 48.9988,
+   "longitude": -101.9949
+  },
+  "lat": 48.8152,
+  "lon": -102.1002
+ },
+ {
+  "slug": "desecheo-national-wildlife-refuge",
+  "name": "Desecheo National Wildlife Refuge",
+  "states": [
+   "Puerto Rico"
+  ],
+  "sw": {
+   "latitude": 18.3778,
+   "longitude": -67.4902
+  },
+  "ne": {
+   "latitude": 18.3905,
+   "longitude": -67.4727
+  },
+  "lat": 18.3841,
+  "lon": -67.4801
+ },
+ {
+  "slug": "desert-national-wildlife-refuge",
+  "name": "Desert National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 36.3348,
+   "longitude": -115.8965
+  },
+  "ne": {
+   "latitude": 37.2832,
+   "longitude": -114.9219
+  },
+  "lat": 36.8282,
+  "lon": -115.396
+ },
+ {
+  "slug": "desoto-national-wildlife-refuge",
+  "name": "Desoto National Wildlife Refuge",
+  "states": [
+   "Iowa",
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 41.4809,
+   "longitude": -96.0547
+  },
+  "ne": {
+   "latitude": 41.551,
+   "longitude": -95.985
+  },
+  "lat": 41.5206,
+  "lon": -96.0174
+ },
+ {
+  "slug": "detroit-river-international-wildlife-refuge",
+  "name": "Detroit River International Wildlife Refuge",
+  "states": [
+   "Michigan",
+   "Ohio"
+  ],
+  "sw": {
+   "latitude": 41.7321,
+   "longitude": -83.4886
+  },
+  "ne": {
+   "latitude": 42.2809,
+   "longitude": -83.1045
+  },
+  "lat": 41.9381,
+  "lon": -83.2685
+ },
+ {
+  "slug": "devils-lake-wetland-management-district",
+  "name": "Devils Lake Wetland Management District",
+  "states": [
+   "Minnesota",
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.6725,
+   "longitude": -99.8481
+  },
+  "ne": {
+   "latitude": 49.0007,
+   "longitude": -96.8856
+  },
+  "lat": 48.3447,
+  "lon": -98.3402
+ },
+ {
+  "slug": "don-edwards-san-francisco-bay-national-wildlife-refuge",
+  "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 37.4124,
+   "longitude": -122.2509
+  },
+  "ne": {
+   "latitude": 37.6908,
+   "longitude": -121.9244
+  },
+  "lat": 37.4964,
+  "lon": -122.0375
+ },
+ {
+  "slug": "driftless-area-national-wildlife-refuge",
+  "name": "Driftless Area National Wildlife Refuge",
+  "states": [
+   "Iowa",
+   "Illinois",
+   "Minnesota",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 41.7278,
+   "longitude": -92.69
+  },
+  "ne": {
+   "latitude": 44.597,
+   "longitude": -89.5993
+  },
+  "lat": 43.2142,
+  "lon": -91.1864
+ },
+ {
+  "slug": "dungeness-national-wildlife-refuge",
+  "name": "Dungeness National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 48.0212,
+   "longitude": -123.1945
+  },
+  "ne": {
+   "latitude": 48.1852,
+   "longitude": -123.0157
+  },
+  "lat": 48.1664,
+  "lon": -123.148
+ },
+ {
+  "slug": "eastern-neck-national-wildlife-refuge",
+  "name": "Eastern Neck National Wildlife Refuge",
+  "states": [
+   "Maryland"
+  ],
+  "sw": {
+   "latitude": 39.0083,
+   "longitude": -76.2422
+  },
+  "ne": {
+   "latitude": 39.0546,
+   "longitude": -76.2001
+  },
+  "lat": 39.0308,
+  "lon": -76.2232
+ },
+ {
+  "slug": "eastern-shore-of-virginia-national-wildlife-refuge",
+  "name": "Eastern Shore of Virginia National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.1171,
+   "longitude": -76.0139
+  },
+  "ne": {
+   "latitude": 37.2307,
+   "longitude": -75.9248
+  },
+  "lat": 37.1544,
+  "lon": -75.9552
+ },
+ {
+  "slug": "edwin-b-forsythe-national-wildlife-refuge",
+  "name": "Edwin B. Forsythe National Wildlife Refuge",
+  "states": [
+   "New Jersey"
+  ],
+  "sw": {
+   "latitude": 39.4352,
+   "longitude": -74.4872
+  },
+  "ne": {
+   "latitude": 40.0538,
+   "longitude": -74.051
+  },
+  "lat": 39.4819,
+  "lon": -74.4018
+ },
+ {
+  "slug": "egmont-key-national-wildlife-refuge",
+  "name": "Egmont Key National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.5756,
+   "longitude": -82.7648
+  },
+  "ne": {
+   "latitude": 27.5991,
+   "longitude": -82.7559
+  },
+  "lat": 27.5932,
+  "lon": -82.762
+ },
+ {
+  "slug": "elizabeth-alexandra-morton-national-wildlife-refuge",
+  "name": "Elizabeth Alexandra Morton National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.9868,
+   "longitude": -72.3766
+  },
+  "ne": {
+   "latitude": 41.0195,
+   "longitude": -72.3666
+  },
+  "lat": 40.9995,
+  "lon": -72.3705
+ },
+ {
+  "slug": "elizabeth-hartwell-mason-neck-national-wildlife-refuge",
+  "name": "Elizabeth Hartwell Mason Neck National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 38.618,
+   "longitude": -77.2104
+  },
+  "ne": {
+   "latitude": 38.6581,
+   "longitude": -77.1445
+  },
+  "lat": 38.6349,
+  "lon": -77.1762
+ },
+ {
+  "slug": "ellicott-slough-national-wildlife-refuge",
+  "name": "Ellicott Slough National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 36.9184,
+   "longitude": -121.8494
+  },
+  "ne": {
+   "latitude": 36.9631,
+   "longitude": -121.8225
+  },
+  "lat": 36.9322,
+  "lon": -121.8303
+ },
+ {
+  "slug": "emiquon-national-wildlife-refuge",
+  "name": "Emiquon National Wildlife Refuge",
+  "states": [
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 40.2947,
+   "longitude": -90.1297
+  },
+  "ne": {
+   "latitude": 40.3865,
+   "longitude": -90.0303
+  },
+  "lat": 40.34,
+  "lon": -90.085
+ },
+ {
+  "slug": "erie-national-wildlife-refuge",
+  "name": "Erie National Wildlife Refuge",
+  "states": [
+   "Pennsylvania"
+  ],
+  "sw": {
+   "latitude": 41.5621,
+   "longitude": -80.0213
+  },
+  "ne": {
+   "latitude": 41.8047,
+   "longitude": -79.921
+  },
+  "lat": 41.6075,
+  "lon": -79.9703
+ },
+ {
+  "slug": "ernest-f-hollings-ace-basin-national-wildlife-refuge",
+  "name": "Ernest F. Hollings Ace Basin National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 32.6059,
+   "longitude": -80.8456
+  },
+  "ne": {
+   "latitude": 32.708,
+   "longitude": -80.3353
+  },
+  "lat": 32.6807,
+  "lon": -80.743
+ },
+ {
+  "slug": "eufaula-national-wildlife-refuge",
+  "name": "Eufaula National Wildlife Refuge",
+  "states": [
+   "Alabama",
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 31.9515,
+   "longitude": -85.1659
+  },
+  "ne": {
+   "latitude": 32.0939,
+   "longitude": -85.0334
+  },
+  "lat": 31.9958,
+  "lon": -85.0831
+ },
+ {
+  "slug": "everglades-headwaters-national-wildlife-refuge-and-conservation-area",
+  "name": "Everglades Headwaters National Wildlife Refuge and Conservation Area",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.4802,
+   "longitude": -81.5846
+  },
+  "ne": {
+   "latitude": 28.2612,
+   "longitude": -80.8659
+  },
+  "lat": 27.6772,
+  "lon": -81.0125
+ },
+ {
+  "slug": "fallon-national-wildlife-refuge",
+  "name": "Fallon National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 39.6947,
+   "longitude": -118.6822
+  },
+  "ne": {
+   "latitude": 39.8109,
+   "longitude": -118.5689
+  },
+  "lat": 39.7137,
+  "lon": -118.6275
+ },
+ {
+  "slug": "farallon-islands-national-wildlife-refuge",
+  "name": "Farallon Islands National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 37.6935,
+   "longitude": -123.1661
+  },
+  "ne": {
+   "latitude": 37.793,
+   "longitude": -122.9993
+  },
+  "lat": 37.6986,
+  "lon": -123.0035
+ },
+ {
+  "slug": "featherstone-national-wildlife-refuge",
+  "name": "Featherstone National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 38.601,
+   "longitude": -77.2621
+  },
+  "ne": {
+   "latitude": 38.6274,
+   "longitude": -77.246
+  },
+  "lat": 38.614,
+  "lon": -77.2517
+ },
+ {
+  "slug": "felsenthal-national-wildlife-refuge",
+  "name": "Felsenthal National Wildlife Refuge",
+  "states": [
+   "Arkansas",
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 33.0077,
+   "longitude": -92.3301
+  },
+  "ne": {
+   "latitude": 33.8731,
+   "longitude": -91.3384
+  },
+  "lat": 33.1478,
+  "lon": -92.1542
+ },
+ {
+  "slug": "fern-cave-national-wildlife-refuge",
+  "name": "Fern Cave National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 34.6605,
+   "longitude": -86.3182
+  },
+  "ne": {
+   "latitude": 34.6792,
+   "longitude": -86.3019
+  },
+  "lat": 34.6697,
+  "lon": -86.3093
+ },
+ {
+  "slug": "fish-springs-national-wildlife-refuge",
+  "name": "Fish Springs National Wildlife Refuge",
+  "states": [
+   "Utah"
+  ],
+  "sw": {
+   "latitude": 39.8106,
+   "longitude": -113.4183
+  },
+  "ne": {
+   "latitude": 39.9054,
+   "longitude": -113.3236
+  },
+  "lat": 39.8604,
+  "lon": -113.3653
+ },
+ {
+  "slug": "fisherman-island-national-wildlife-refuge",
+  "name": "Fisherman Island National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.0815,
+   "longitude": -75.9797
+  },
+  "ne": {
+   "latitude": 37.1126,
+   "longitude": -75.9385
+  },
+  "lat": 37.0943,
+  "lon": -75.9606
+ },
+ {
+  "slug": "flattery-rocks-national-wildlife-refuge",
+  "name": "Flattery Rocks National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 48.0333,
+   "longitude": -124.8603
+  },
+  "ne": {
+   "latitude": 48.3833,
+   "longitude": -124.6582
+  },
+  "lat": 48.2072,
+  "lon": -124.7542
+ },
+ {
+  "slug": "flint-hills-national-wildlife-refuge",
+  "name": "Flint Hills National Wildlife Refuge",
+  "states": [
+   "Kansas"
+  ],
+  "sw": {
+   "latitude": 38.246,
+   "longitude": -96.0158
+  },
+  "ne": {
+   "latitude": 38.3615,
+   "longitude": -95.8026
+  },
+  "lat": 38.3022,
+  "lon": -95.9103
+ },
+ {
+  "slug": "florence-lake-national-wildlife-refuge",
+  "name": "Florence Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.2759,
+   "longitude": -100.347
+  },
+  "ne": {
+   "latitude": 47.3157,
+   "longitude": -100.3042
+  },
+  "lat": 47.2982,
+  "lon": -100.3193
+ },
+ {
+  "slug": "florida-panther-national-wildlife-refuge",
+  "name": "Florida Panther National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.1531,
+   "longitude": -81.4909
+  },
+  "ne": {
+   "latitude": 26.2521,
+   "longitude": -81.3417
+  },
+  "lat": 26.1911,
+  "lon": -81.4046
+ },
+ {
+  "slug": "fort-niobrara-national-wildlife-refuge",
+  "name": "Fort Niobrara National Wildlife Refuge",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 42.8389,
+   "longitude": -100.514
+  },
+  "ne": {
+   "latitude": 42.933,
+   "longitude": -100.3952
+  },
+  "lat": 42.8838,
+  "lon": -100.4431
+ },
+ {
+  "slug": "fox-river-national-wildlife-refuge",
+  "name": "Fox River National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 43.6717,
+   "longitude": -89.4273
+  },
+  "ne": {
+   "latitude": 43.7006,
+   "longitude": -89.3929
+  },
+  "lat": 43.6895,
+  "lon": -89.4093
+ },
+ {
+  "slug": "franklin-island-national-wildlife-refuge",
+  "name": "Franklin Island National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 43.8897,
+   "longitude": -69.3757
+  },
+  "ne": {
+   "latitude": 43.8936,
+   "longitude": -69.3738
+  },
+  "lat": 43.8916,
+  "lon": -69.3746
+ },
+ {
+  "slug": "franz-lake-national-wildlife-refuge",
+  "name": "Franz Lake National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.5984,
+   "longitude": -122.1099
+  },
+  "ne": {
+   "latitude": 45.6148,
+   "longitude": -122.0585
+  },
+  "lat": 45.605,
+  "lon": -122.0799
+ },
+ {
+  "slug": "glacial-ridge-national-wildlife-refuge",
+  "name": "Glacial Ridge National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 47.6438,
+   "longitude": -96.395
+  },
+  "ne": {
+   "latitude": 47.7604,
+   "longitude": -96.1803
+  },
+  "lat": 47.7043,
+  "lon": -96.2936
+ },
+ {
+  "slug": "grand-bay-national-wildlife-refuge",
+  "name": "Grand Bay National Wildlife Refuge",
+  "states": [
+   "Alabama",
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 30.3419,
+   "longitude": -88.4967
+  },
+  "ne": {
+   "latitude": 30.4727,
+   "longitude": -88.3224
+  },
+  "lat": 30.4172,
+  "lon": -88.4135
+ },
+ {
+  "slug": "grand-cote-national-wildlife-refuge",
+  "name": "Grand Cote National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 31.0506,
+   "longitude": -92.2837
+  },
+  "ne": {
+   "latitude": 31.144,
+   "longitude": -92.1138
+  },
+  "lat": 31.1024,
+  "lon": -92.1422
+ },
+ {
+  "slug": "grass-lake-national-wildlife-refuge",
+  "name": "Grass Lake National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 45.9148,
+   "longitude": -109.1322
+  },
+  "ne": {
+   "latitude": 45.9701,
+   "longitude": -109.0895
+  },
+  "lat": 45.9419,
+  "lon": -109.1119
+ },
+ {
+  "slug": "gravel-island-national-wildlife-refuge",
+  "name": "Gravel Island National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 45.2059,
+   "longitude": -86.9798
+  },
+  "ne": {
+   "latitude": 45.2564,
+   "longitude": -86.9581
+  },
+  "lat": 45.2539,
+  "lon": -86.9627
+ },
+ {
+  "slug": "grays-harbor-national-wildlife-refuge",
+  "name": "Grays Harbor National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.9578,
+   "longitude": -123.985
+  },
+  "ne": {
+   "latitude": 46.9836,
+   "longitude": -123.9181
+  },
+  "lat": 46.9745,
+  "lon": -123.9589
+ },
+ {
+  "slug": "grays-lake-national-wildlife-refuge",
+  "name": "Grays Lake National Wildlife Refuge",
+  "states": [
+   "Idaho"
+  ],
+  "sw": {
+   "latitude": 42.9801,
+   "longitude": -111.5198
+  },
+  "ne": {
+   "latitude": 43.1544,
+   "longitude": -111.3626
+  },
+  "lat": 43.0661,
+  "lon": -111.438
+ },
+ {
+  "slug": "great-bay-national-wildlife-refuge",
+  "name": "Great Bay National Wildlife Refuge",
+  "states": [
+   "New Hampshire"
+  ],
+  "sw": {
+   "latitude": 43.0681,
+   "longitude": -71.4955
+  },
+  "ne": {
+   "latitude": 43.2096,
+   "longitude": -70.8016
+  },
+  "lat": 43.0835,
+  "lon": -70.8469
+ },
+ {
+  "slug": "great-dismal-swamp-national-wildlife-refuge",
+  "name": "Great Dismal Swamp National Wildlife Refuge",
+  "states": [
+   "North Carolina",
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 36.4334,
+   "longitude": -76.5699
+  },
+  "ne": {
+   "latitude": 36.7728,
+   "longitude": -76.3516
+  },
+  "lat": 36.6113,
+  "lon": -76.4704
+ },
+ {
+  "slug": "great-meadows-national-wildlife-refuge",
+  "name": "Great Meadows National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 42.3356,
+   "longitude": -71.4017
+  },
+  "ne": {
+   "latitude": 42.5467,
+   "longitude": -71.295
+  },
+  "lat": 42.3828,
+  "lon": -71.3782
+ },
+ {
+  "slug": "great-river-national-wildlife-refuge",
+  "name": "Great River National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 39.2801,
+   "longitude": -91.5061
+  },
+  "ne": {
+   "latitude": 40.3501,
+   "longitude": -90.7704
+  },
+  "lat": 40.0667,
+  "lon": -91.4793
+ },
+ {
+  "slug": "great-swamp-national-wildlife-refuge",
+  "name": "Great Swamp National Wildlife Refuge",
+  "states": [
+   "New Jersey"
+  ],
+  "sw": {
+   "latitude": 40.6823,
+   "longitude": -74.5319
+  },
+  "ne": {
+   "latitude": 40.7425,
+   "longitude": -74.4116
+  },
+  "lat": 40.7129,
+  "lon": -74.4752
+ },
+ {
+  "slug": "great-thicket-national-wildlife-refuge",
+  "name": "Great Thicket National Wildlife Refuge",
+  "states": [
+   "Connecticut",
+   "Massachusetts",
+   "Maine",
+   "New Hampshire",
+   "New York",
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.3252,
+   "longitude": -73.5867
+  },
+  "ne": {
+   "latitude": 43.5812,
+   "longitude": -70.223
+  },
+  "lat": 41.4153,
+  "lon": -71.6189
+ },
+ {
+  "slug": "great-white-heron-national-wildlife-refuge",
+  "name": "Great White Heron National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 24.5852,
+   "longitude": -81.8105
+  },
+  "ne": {
+   "latitude": 24.8219,
+   "longitude": -81.1424
+  },
+  "lat": 24.7228,
+  "lon": -81.514
+ },
+ {
+  "slug": "green-bay-national-wildlife-refuge",
+  "name": "Green Bay National Wildlife Refuge",
+  "states": [
+   "Michigan",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 44.4567,
+   "longitude": -88.0502
+  },
+  "ne": {
+   "latitude": 45.9144,
+   "longitude": -86.3491
+  },
+  "lat": 45.2015,
+  "lon": -87.0596
+ },
+ {
+  "slug": "green-cay-national-wildlife-refuge",
+  "name": "Green Cay National Wildlife Refuge",
+  "states": [
+   "U.S. Virgin Islands"
+  ],
+  "sw": {
+   "latitude": 17.7648,
+   "longitude": -64.6663
+  },
+  "ne": {
+   "latitude": 17.7692,
+   "longitude": -64.6643
+  },
+  "lat": 17.7675,
+  "lon": -64.6656
+ },
+ {
+  "slug": "green-river-national-wildlife-refuge",
+  "name": "Green River National Wildlife Refuge",
+  "states": [
+   "Indiana",
+   "Kentucky"
+  ],
+  "sw": {
+   "latitude": 37.7642,
+   "longitude": -87.6174
+  },
+  "ne": {
+   "latitude": 37.9689,
+   "longitude": -87.2919
+  },
+  "lat": 37.8775,
+  "lon": -87.38
+ },
+ {
+  "slug": "grulla-national-wildlife-refuge",
+  "name": "Grulla National Wildlife Refuge",
+  "states": [
+   "New Mexico",
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 34.0657,
+   "longitude": -103.118
+  },
+  "ne": {
+   "latitude": 34.1057,
+   "longitude": -103.0437
+  },
+  "lat": 34.0877,
+  "lon": -103.0766
+ },
+ {
+  "slug": "guadalupe-nipomo-dunes-national-wildlife-refuge",
+  "name": "Guadalupe-Nipomo Dunes National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 34.964,
+   "longitude": -120.6502
+  },
+  "ne": {
+   "latitude": 35.081,
+   "longitude": -120.5889
+  },
+  "lat": 35.0125,
+  "lon": -120.6176
+ },
+ {
+  "slug": "guam-national-wildlife-refuge",
+  "name": "Guam National Wildlife Refuge",
+  "states": [
+   "Guam"
+  ],
+  "sw": {
+   "latitude": 13.2776,
+   "longitude": 144.6176
+  },
+  "ne": {
+   "latitude": 13.6602,
+   "longitude": 144.9622
+  },
+  "lat": 13.6035,
+  "lon": 144.8811
+ },
+ {
+  "slug": "hackmatack-national-wildlife-refuge",
+  "name": "Hackmatack National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 42.3601,
+   "longitude": -88.5107
+  },
+  "ne": {
+   "latitude": 42.5238,
+   "longitude": -88.301
+  },
+  "lat": 42.4141,
+  "lon": -88.3738
+ },
+ {
+  "slug": "hagerman-national-wildlife-refuge",
+  "name": "Hagerman National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 33.6793,
+   "longitude": -96.8398
+  },
+  "ne": {
+   "latitude": 33.77,
+   "longitude": -96.7149
+  },
+  "lat": 33.7338,
+  "lon": -96.7805
+ },
+ {
+  "slug": "hailstone-national-wildlife-refuge",
+  "name": "Hailstone National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 45.9867,
+   "longitude": -109.1917
+  },
+  "ne": {
+   "latitude": 46.0307,
+   "longitude": -109.155
+  },
+  "lat": 46.0089,
+  "lon": -109.1767
+ },
+ {
+  "slug": "hakalau-forest-national-wildlife-refuge",
+  "name": "Hakalau Forest National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 19.3267,
+   "longitude": -155.8774
+  },
+  "ne": {
+   "latitude": 19.9579,
+   "longitude": -155.1438
+  },
+  "lat": 19.8269,
+  "lon": -155.256
+ },
+ {
+  "slug": "half-way-lake-national-wildlife-refuge",
+  "name": "Half-Way Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.8377,
+   "longitude": -99.2951
+  },
+  "ne": {
+   "latitude": 46.845,
+   "longitude": -99.2846
+  },
+  "lat": 46.8414,
+  "lon": -99.2898
+ },
+ {
+  "slug": "hamden-slough-national-wildlife-refuge",
+  "name": "Hamden Slough National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 46.873,
+   "longitude": -95.9979
+  },
+  "ne": {
+   "latitude": 46.9992,
+   "longitude": -95.9428
+  },
+  "lat": 46.9367,
+  "lon": -95.9681
+ },
+ {
+  "slug": "hanalei-national-wildlife-refuge",
+  "name": "Hanalei National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 22.1883,
+   "longitude": -159.485
+  },
+  "ne": {
+   "latitude": 22.2127,
+   "longitude": -159.4588
+  },
+  "lat": 22.2013,
+  "lon": -159.471
+ },
+ {
+  "slug": "handy-brake-national-wildlife-refuge",
+  "name": "Handy Brake National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 32.8173,
+   "longitude": -91.8174
+  },
+  "ne": {
+   "latitude": 32.844,
+   "longitude": -91.7987
+  },
+  "lat": 32.8289,
+  "lon": -91.8056
+ },
+ {
+  "slug": "harbor-island-national-wildlife-refuge",
+  "name": "Harbor Island National Wildlife Refuge",
+  "states": [
+   "Michigan"
+  ],
+  "sw": {
+   "latitude": 46.0437,
+   "longitude": -83.7743
+  },
+  "ne": {
+   "latitude": 46.068,
+   "longitude": -83.7433
+  },
+  "lat": 46.0545,
+  "lon": -83.7577
+ },
+ {
+  "slug": "harris-neck-national-wildlife-refuge",
+  "name": "Harris Neck National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 31.6153,
+   "longitude": -81.2906
+  },
+  "ne": {
+   "latitude": 31.6493,
+   "longitude": -81.2406
+  },
+  "lat": 31.6336,
+  "lon": -81.2684
+ },
+ {
+  "slug": "hart-mountain-national-antelope-refuge",
+  "name": "Hart Mountain National Antelope Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 42.2515,
+   "longitude": -120.3771
+  },
+  "ne": {
+   "latitude": 42.749,
+   "longitude": -119.3653
+  },
+  "lat": 42.497,
+  "lon": -119.6127
+ },
+ {
+  "slug": "hatchie-national-wildlife-refuge",
+  "name": "Hatchie National Wildlife Refuge",
+  "states": [
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 35.458,
+   "longitude": -89.2977
+  },
+  "ne": {
+   "latitude": 35.5312,
+   "longitude": -89.1274
+  },
+  "lat": 35.4973,
+  "lon": -89.2161
+ },
+ {
+  "slug": "havasu-national-wildlife-refuge",
+  "name": "Havasu National Wildlife Refuge",
+  "states": [
+   "Arizona",
+   "California"
+  ],
+  "sw": {
+   "latitude": 34.5029,
+   "longitude": -114.6216
+  },
+  "ne": {
+   "latitude": 34.8662,
+   "longitude": -114.3607
+  },
+  "lat": 34.6854,
+  "lon": -114.4571
+ },
+ {
+  "slug": "hawaiian-islands-national-wildlife-refuge",
+  "name": "Hawaiian Islands National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 23.0556,
+   "longitude": -175.9902
+  },
+  "ne": {
+   "latitude": 27.9615,
+   "longitude": -161.9133
+  },
+  "lat": 23.7628,
+  "lon": -166.1746
+ },
+ {
+  "slug": "hewitt-lake-national-wildlife-refuge",
+  "name": "Hewitt Lake National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.5248,
+   "longitude": -107.6278
+  },
+  "ne": {
+   "latitude": 48.5466,
+   "longitude": -107.5731
+  },
+  "lat": 48.5367,
+  "lon": -107.6026
+ },
+ {
+  "slug": "hiddenwood-national-wildlife-refuge",
+  "name": "Hiddenwood National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8403,
+   "longitude": -101.8182
+  },
+  "ne": {
+   "latitude": 47.8549,
+   "longitude": -101.7914
+  },
+  "lat": 47.8463,
+  "lon": -101.8057
+ },
+ {
+  "slug": "hillside-national-wildlife-refuge",
+  "name": "Hillside National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 32.9837,
+   "longitude": -90.3284
+  },
+  "ne": {
+   "latitude": 33.1401,
+   "longitude": -90.1911
+  },
+  "lat": 33.055,
+  "lon": -90.2604
+ },
+ {
+  "slug": "hobart-lake-national-wildlife-refuge",
+  "name": "Hobart Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.8921,
+   "longitude": -98.1655
+  },
+  "ne": {
+   "latitude": 46.9362,
+   "longitude": -98.1123
+  },
+  "lat": 46.91,
+  "lon": -98.1463
+ },
+ {
+  "slug": "holla-bend-national-wildlife-refuge",
+  "name": "Holla Bend National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 35.113,
+   "longitude": -93.1068
+  },
+  "ne": {
+   "latitude": 35.1714,
+   "longitude": -93.0099
+  },
+  "lat": 35.1409,
+  "lon": -93.0595
+ },
+ {
+  "slug": "holt-collier-national-wildlife-refuge",
+  "name": "Holt Collier National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.1685,
+   "longitude": -90.8164
+  },
+  "ne": {
+   "latitude": 33.253,
+   "longitude": -90.6788
+  },
+  "lat": 33.2097,
+  "lon": -90.7521
+ },
+ {
+  "slug": "hopper-mountain-national-wildlife-refuge",
+  "name": "Hopper Mountain National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 34.4374,
+   "longitude": -118.8805
+  },
+  "ne": {
+   "latitude": 34.468,
+   "longitude": -118.8323
+  },
+  "lat": 34.4561,
+  "lon": -118.8538
+ },
+ {
+  "slug": "horicon-national-wildlife-refuge",
+  "name": "Horicon National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 43.5234,
+   "longitude": -88.7058
+  },
+  "ne": {
+   "latitude": 43.6487,
+   "longitude": -88.5761
+  },
+  "lat": 43.5778,
+  "lon": -88.6474
+ },
+ {
+  "slug": "howland-island-national-wildlife-refuge",
+  "name": "Howland Island National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 0.5933,
+   "longitude": -176.8238
+  },
+  "ne": {
+   "latitude": 1.0213,
+   "longitude": -176.4114
+  },
+  "lat": 0.8073,
+  "lon": -176.6177
+ },
+ {
+  "slug": "huleia-national-wildlife-refuge",
+  "name": "Huleia National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 21.943,
+   "longitude": -159.3973
+  },
+  "ne": {
+   "latitude": 21.9509,
+   "longitude": -159.3694
+  },
+  "lat": 21.9467,
+  "lon": -159.3846
+ },
+ {
+  "slug": "humboldt-bay-national-wildlife-refuge",
+  "name": "Humboldt Bay National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 40.6646,
+   "longitude": -124.2772
+  },
+  "ne": {
+   "latitude": 40.9158,
+   "longitude": -124.0827
+  },
+  "lat": 40.7073,
+  "lon": -124.2339
+ },
+ {
+  "slug": "huron-national-wildlife-refuge",
+  "name": "Huron National Wildlife Refuge",
+  "states": [
+   "Michigan"
+  ],
+  "sw": {
+   "latitude": 46.9463,
+   "longitude": -88.0059
+  },
+  "ne": {
+   "latitude": 46.9665,
+   "longitude": -87.9503
+  },
+  "lat": 46.9522,
+  "lon": -87.9717
+ },
+ {
+  "slug": "huron-wetland-management-district",
+  "name": "Huron Wetland Management District",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 43.8499,
+   "longitude": -100.7293
+  },
+  "ne": {
+   "latitude": 44.8982,
+   "longitude": -97.8495
+  },
+  "lat": 44.4204,
+  "lon": -99.1308
+ },
+ {
+  "slug": "hutchinson-lake-national-wildlife-refuge",
+  "name": "Hutchinson Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.1699,
+   "longitude": -100.108
+  },
+  "ne": {
+   "latitude": 47.1846,
+   "longitude": -100.0865
+  },
+  "lat": 47.1765,
+  "lon": -100.0972
+ },
+ {
+  "slug": "hutton-lake-national-wildlife-refuge",
+  "name": "Hutton Lake National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 41.161,
+   "longitude": -105.7351
+  },
+  "ne": {
+   "latitude": 41.205,
+   "longitude": -105.6982
+  },
+  "lat": 41.1774,
+  "lon": -105.7158
+ },
+ {
+  "slug": "imperial-national-wildlife-refuge",
+  "name": "Imperial National Wildlife Refuge",
+  "states": [
+   "Arizona",
+   "California"
+  ],
+  "sw": {
+   "latitude": 32.9705,
+   "longitude": -114.7219
+  },
+  "ne": {
+   "latitude": 33.2016,
+   "longitude": -114.4572
+  },
+  "lat": 33.0694,
+  "lon": -114.6137
+ },
+ {
+  "slug": "innoko-national-wildlife-refuge",
+  "name": "Innoko National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 62.7257,
+   "longitude": -160.0603
+  },
+  "ne": {
+   "latitude": 64.8639,
+   "longitude": -156.4177
+  },
+  "lat": 63.3691,
+  "lon": -158.3343
+ },
+ {
+  "slug": "iroquois-national-wildlife-refuge",
+  "name": "Iroquois National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 43.1068,
+   "longitude": -78.4578
+  },
+  "ne": {
+   "latitude": 43.1601,
+   "longitude": -78.3249
+  },
+  "lat": 43.1302,
+  "lon": -78.388
+ },
+ {
+  "slug": "island-bay-national-wildlife-refuge",
+  "name": "Island Bay National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.7712,
+   "longitude": -82.2072
+  },
+  "ne": {
+   "latitude": 26.8064,
+   "longitude": -82.1712
+  },
+  "lat": 26.7726,
+  "lon": -82.2036
+ },
+ {
+  "slug": "izembek-national-wildlife-refuge",
+  "name": "Izembek National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 55.0359,
+   "longitude": -163.4241
+  },
+  "ne": {
+   "latitude": 55.5487,
+   "longitude": -162.1208
+  },
+  "lat": 55.2757,
+  "lon": -162.6409
+ },
+ {
+  "slug": "j-clark-salyer-national-wildlife-refuge",
+  "name": "J. Clark Salyer National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.4977,
+   "longitude": -100.9888
+  },
+  "ne": {
+   "latitude": 48.9996,
+   "longitude": -100.3912
+  },
+  "lat": 48.6527,
+  "lon": -100.6877
+ },
+ {
+  "slug": "j-clark-salyer-wetland-management-district",
+  "name": "J. Clark Salyer Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8476,
+   "longitude": -102.0215
+  },
+  "ne": {
+   "latitude": 48.9997,
+   "longitude": -99.4932
+  },
+  "lat": 48.4483,
+  "lon": -100.7804
+ },
+ {
+  "slug": "j-n-ding-darling-national-wildlife-refuge",
+  "name": "J. N. \"ding\" Darling National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.4238,
+   "longitude": -82.1954
+  },
+  "ne": {
+   "latitude": 26.5485,
+   "longitude": -82.04
+  },
+  "lat": 26.4569,
+  "lon": -82.1094
+ },
+ {
+  "slug": "james-campbell-national-wildlife-refuge",
+  "name": "James Campbell National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 21.6777,
+   "longitude": -157.9765
+  },
+  "ne": {
+   "latitude": 21.7066,
+   "longitude": -157.9448
+  },
+  "lat": 21.6922,
+  "lon": -157.9603
+ },
+ {
+  "slug": "james-river-national-wildlife-refuge",
+  "name": "James River National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.2412,
+   "longitude": -77.1644
+  },
+  "ne": {
+   "latitude": 37.3002,
+   "longitude": -77.102
+  },
+  "lat": 37.2747,
+  "lon": -77.1334
+ },
+ {
+  "slug": "jarvis-island-national-wildlife-refuge",
+  "name": "Jarvis Island National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": -0.5818,
+   "longitude": -160.2132
+  },
+  "ne": {
+   "latitude": -0.1626,
+   "longitude": -159.7852
+  },
+  "lat": -0.3736,
+  "lon": -159.9981
+ },
+ {
+  "slug": "jocelyn-nungaray-national-wildlife-refuge",
+  "name": "Jocelyn Nungaray National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.522,
+   "longitude": -94.6805
+  },
+  "ne": {
+   "latitude": 29.8234,
+   "longitude": -94.3731
+  },
+  "lat": 29.6221,
+  "lon": -94.5165
+ },
+ {
+  "slug": "john-h-chafee-national-wildlife-refuge",
+  "name": "John H. Chafee National Wildlife Refuge",
+  "states": [
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.3931,
+   "longitude": -71.5226
+  },
+  "ne": {
+   "latitude": 41.4741,
+   "longitude": -71.4376
+  },
+  "lat": 41.4494,
+  "lon": -71.459
+ },
+ {
+  "slug": "john-hay-national-wildlife-refuge",
+  "name": "John Hay National Wildlife Refuge",
+  "states": [
+   "New Hampshire"
+  ],
+  "sw": {
+   "latitude": 43.3455,
+   "longitude": -72.0511
+  },
+  "ne": {
+   "latitude": 43.3515,
+   "longitude": -72.0385
+  },
+  "lat": 43.3486,
+  "lon": -72.0439
+ },
+ {
+  "slug": "john-heinz-national-wildlife-refuge-at-tinicum",
+  "name": "John Heinz National Wildlife Refuge at Tinicum",
+  "states": [
+   "Pennsylvania"
+  ],
+  "sw": {
+   "latitude": 39.8694,
+   "longitude": -75.3138
+  },
+  "ne": {
+   "latitude": 39.8986,
+   "longitude": -75.251
+  },
+  "lat": 39.8816,
+  "lon": -75.2737
+ },
+ {
+  "slug": "john-w-and-louise-seier-national-wildlife-refuge",
+  "name": "John W. and Louise Seier National Wildlife Refuge",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 42.1771,
+   "longitude": -99.6429
+  },
+  "ne": {
+   "latitude": 42.2169,
+   "longitude": -99.5507
+  },
+  "lat": 42.1904,
+  "lon": -99.6185
+ },
+ {
+  "slug": "johnson-lake-national-wildlife-refuge",
+  "name": "Johnson Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.6524,
+   "longitude": -98.5376
+  },
+  "ne": {
+   "latitude": 47.7014,
+   "longitude": -98.504
+  },
+  "lat": 47.6771,
+  "lon": -98.5218
+ },
+ {
+  "slug": "johnston-atoll-national-wildlife-refuge",
+  "name": "Johnston Atoll National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 16.5049,
+   "longitude": -169.7674
+  },
+  "ne": {
+   "latitude": 16.9858,
+   "longitude": -169.2512
+  },
+  "lat": 16.7442,
+  "lon": -169.5063
+ },
+ {
+  "slug": "julia-butler-hansen-refuge-for-the-columbian-white-tail-deer",
+  "name": "Julia Butler Hansen Refuge for the Columbian White Tail Deer",
+  "states": [
+   "Oregon",
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.1166,
+   "longitude": -123.4792
+  },
+  "ne": {
+   "latitude": 46.2683,
+   "longitude": -123.1213
+  },
+  "lat": 46.2509,
+  "lon": -123.4189
+ },
+ {
+  "slug": "kakahaia-national-wildlife-refuge",
+  "name": "Kakahaia National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 21.0622,
+   "longitude": -156.9449
+  },
+  "ne": {
+   "latitude": 21.0663,
+   "longitude": -156.9389
+  },
+  "lat": 21.0641,
+  "lon": -156.9423
+ },
+ {
+  "slug": "kankakee-national-wildlife-refuge-and-conservation-area",
+  "name": "Kankakee National Wildlife Refuge and Conservation Area",
+  "states": [
+   "Illinois",
+   "Indiana"
+  ],
+  "sw": {
+   "latitude": 40.9653,
+   "longitude": -87.6529
+  },
+  "ne": {
+   "latitude": 41.1795,
+   "longitude": -87.526
+  },
+  "lat": 41.056,
+  "lon": -87.5609
+ },
+ {
+  "slug": "kanuti-national-wildlife-refuge",
+  "name": "Kanuti National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 65.9892,
+   "longitude": -152.977
+  },
+  "ne": {
+   "latitude": 66.8984,
+   "longitude": -150.9814
+  },
+  "lat": 66.4062,
+  "lon": -151.8879
+ },
+ {
+  "slug": "karl-e-mundt-national-wildlife-refuge",
+  "name": "Karl E. Mundt National Wildlife Refuge",
+  "states": [
+   "Nebraska",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 42.995,
+   "longitude": -98.5521
+  },
+  "ne": {
+   "latitude": 43.0388,
+   "longitude": -98.5058
+  },
+  "lat": 43.0173,
+  "lon": -98.5308
+ },
+ {
+  "slug": "kealia-pond-national-wildlife-refuge",
+  "name": "Kealia Pond National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 20.6311,
+   "longitude": -156.5013
+  },
+  "ne": {
+   "latitude": 20.8023,
+   "longitude": -156.4652
+  },
+  "lat": 20.7961,
+  "lon": -156.4772
+ },
+ {
+  "slug": "kellys-slough-national-wildlife-refuge",
+  "name": "Kellys Slough National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9547,
+   "longitude": -97.2984
+  },
+  "ne": {
+   "latitude": 47.9909,
+   "longitude": -97.2606
+  },
+  "lat": 47.975,
+  "lon": -97.2776
+ },
+ {
+  "slug": "kenai-national-wildlife-refuge",
+  "name": "Kenai National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 59.4328,
+   "longitude": -151.2136
+  },
+  "ne": {
+   "latitude": 61.039,
+   "longitude": -149.7154
+  },
+  "lat": 60.3844,
+  "lon": -150.4908
+ },
+ {
+  "slug": "kern-national-wildlife-refuge",
+  "name": "Kern National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 35.7174,
+   "longitude": -119.6531
+  },
+  "ne": {
+   "latitude": 35.7897,
+   "longitude": -119.5795
+  },
+  "lat": 35.7486,
+  "lon": -119.6168
+ },
+ {
+  "slug": "key-cave-national-wildlife-refuge",
+  "name": "Key Cave National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 34.7449,
+   "longitude": -87.8011
+  },
+  "ne": {
+   "latitude": 34.7642,
+   "longitude": -87.7703
+  },
+  "lat": 34.755,
+  "lon": -87.787
+ },
+ {
+  "slug": "key-west-national-wildlife-refuge",
+  "name": "Key West National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 24.45,
+   "longitude": -82.1667
+  },
+  "ne": {
+   "latitude": 24.6671,
+   "longitude": -81.8165
+  },
+  "lat": 24.5585,
+  "lon": -81.9916
+ },
+ {
+  "slug": "kilauea-point-national-wildlife-refuge",
+  "name": "Kilauea Point National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 22.2035,
+   "longitude": -159.4057
+  },
+  "ne": {
+   "latitude": 22.2321,
+   "longitude": -159.3769
+  },
+  "lat": 22.2173,
+  "lon": -159.3946
+ },
+ {
+  "slug": "kingman-reef-national-wildlife-refuge",
+  "name": "Kingman Reef National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 6.1806,
+   "longitude": -162.5878
+  },
+  "ne": {
+   "latitude": 6.6301,
+   "longitude": -162.1364
+  },
+  "lat": 6.4015,
+  "lon": -162.3664
+ },
+ {
+  "slug": "kirtlands-warbler-wildlife-management-area",
+  "name": "Kirtlands Warbler Wildlife Management Area",
+  "states": [
+   "Michigan"
+  ],
+  "sw": {
+   "latitude": 43.8136,
+   "longitude": -85.3341
+  },
+  "ne": {
+   "latitude": 45.6262,
+   "longitude": -83.3817
+  },
+  "lat": 44.6526,
+  "lon": -84.4186
+ },
+ {
+  "slug": "kirwin-national-wildlife-refuge",
+  "name": "Kirwin National Wildlife Refuge",
+  "states": [
+   "Kansas"
+  ],
+  "sw": {
+   "latitude": 39.5935,
+   "longitude": -99.2535
+  },
+  "ne": {
+   "latitude": 39.6874,
+   "longitude": -99.1227
+  },
+  "lat": 39.6539,
+  "lon": -99.1834
+ },
+ {
+  "slug": "klamath-marsh-national-wildlife-refuge",
+  "name": "Klamath Marsh National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 42.8163,
+   "longitude": -121.7699
+  },
+  "ne": {
+   "latitude": 43.0677,
+   "longitude": -121.5387
+  },
+  "lat": 42.9389,
+  "lon": -121.667
+ },
+ {
+  "slug": "kodiak-national-wildlife-refuge",
+  "name": "Kodiak National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 56.7429,
+   "longitude": -154.7989
+  },
+  "ne": {
+   "latitude": 58.4811,
+   "longitude": -152.5484
+  },
+  "lat": 57.3667,
+  "lon": -153.8192
+ },
+ {
+  "slug": "kofa-national-wildlife-refuge",
+  "name": "Kofa National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 32.942,
+   "longitude": -114.2519
+  },
+  "ne": {
+   "latitude": 33.5516,
+   "longitude": -113.7499
+  },
+  "lat": 33.2533,
+  "lon": -113.99
+ },
+ {
+  "slug": "kootenai-national-wildlife-refuge",
+  "name": "Kootenai National Wildlife Refuge",
+  "states": [
+   "Idaho"
+  ],
+  "sw": {
+   "latitude": 48.6847,
+   "longitude": -116.4188
+  },
+  "ne": {
+   "latitude": 48.7388,
+   "longitude": -116.3842
+  },
+  "lat": 48.7156,
+  "lon": -116.4037
+ },
+ {
+  "slug": "koyukuk-national-wildlife-refuge",
+  "name": "Koyukuk National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 64.831,
+   "longitude": -158.7613
+  },
+  "ne": {
+   "latitude": 66.3006,
+   "longitude": -153.8056
+  },
+  "lat": 65.6282,
+  "lon": -156.543
+ },
+ {
+  "slug": "kulm-wetland-management-district",
+  "name": "Kulm Wetland Management District",
+  "states": [
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 45.9361,
+   "longitude": -99.9173
+  },
+  "ne": {
+   "latitude": 46.633,
+   "longitude": -98.0063
+  },
+  "lat": 46.2858,
+  "lon": -98.9588
+ },
+ {
+  "slug": "lacassine-national-wildlife-refuge",
+  "name": "Lacassine National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.9108,
+   "longitude": -92.9628
+  },
+  "ne": {
+   "latitude": 30.0534,
+   "longitude": -92.7746
+  },
+  "lat": 29.9896,
+  "lon": -92.8856
+ },
+ {
+  "slug": "lacreek-national-wildlife-refuge",
+  "name": "Lacreek National Wildlife Refuge",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 43.0459,
+   "longitude": -101.7021
+  },
+  "ne": {
+   "latitude": 43.1772,
+   "longitude": -101.5139
+  },
+  "lat": 43.0946,
+  "lon": -101.5898
+ },
+ {
+  "slug": "lacreek-wetland-management-district",
+  "name": "Lacreek Wetland Management District",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 43.7076,
+   "longitude": -102.0073
+  },
+  "ne": {
+   "latitude": 44.7835,
+   "longitude": -99.8921
+  },
+  "lat": 44.2611,
+  "lon": -101.0661
+ },
+ {
+  "slug": "laguna-atascosa-national-wildlife-refuge",
+  "name": "Laguna Atascosa National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 25.9605,
+   "longitude": -97.6082
+  },
+  "ne": {
+   "latitude": 26.5639,
+   "longitude": -97.1821
+  },
+  "lat": 26.1841,
+  "lon": -97.3738
+ },
+ {
+  "slug": "laguna-cartagena-national-wildlife-refuge",
+  "name": "Laguna Cartagena National Wildlife Refuge",
+  "states": [
+   "Puerto Rico"
+  ],
+  "sw": {
+   "latitude": 17.9945,
+   "longitude": -67.1091
+  },
+  "ne": {
+   "latitude": 18.021,
+   "longitude": -67.0855
+  },
+  "lat": 18.0121,
+  "lon": -67.0997
+ },
+ {
+  "slug": "lake-alice-national-wildlife-refuge",
+  "name": "Lake Alice National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.2819,
+   "longitude": -99.1629
+  },
+  "ne": {
+   "latitude": 48.3852,
+   "longitude": -99.0546
+  },
+  "lat": 48.3346,
+  "lon": -99.1134
+ },
+ {
+  "slug": "lake-andes-national-wildlife-refuge",
+  "name": "Lake Andes National Wildlife Refuge",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 43.15,
+   "longitude": -98.56
+  },
+  "ne": {
+   "latitude": 43.2431,
+   "longitude": -98.3875
+  },
+  "lat": 43.1838,
+  "lon": -98.4468
+ },
+ {
+  "slug": "lake-andes-wetland-management-district",
+  "name": "Lake Andes Wetland Management District",
+  "states": [
+   "Nebraska",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 42.8371,
+   "longitude": -100.231
+  },
+  "ne": {
+   "latitude": 43.9378,
+   "longitude": -97.9643
+  },
+  "lat": 43.4142,
+  "lon": -99.0412
+ },
+ {
+  "slug": "lake-george-national-wildlife-refuge",
+  "name": "Lake George National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.7116,
+   "longitude": -99.5134
+  },
+  "ne": {
+   "latitude": 46.7625,
+   "longitude": -99.4691
+  },
+  "lat": 46.7386,
+  "lon": -99.4885
+ },
+ {
+  "slug": "lake-ilo-national-wildlife-refuge",
+  "name": "Lake Ilo National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.3213,
+   "longitude": -102.7161
+  },
+  "ne": {
+   "latitude": 47.3648,
+   "longitude": -102.6312
+  },
+  "lat": 47.3411,
+  "lon": -102.6709
+ },
+ {
+  "slug": "lake-isom-national-wildlife-refuge",
+  "name": "Lake Isom National Wildlife Refuge",
+  "states": [
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 36.275,
+   "longitude": -89.4365
+  },
+  "ne": {
+   "latitude": 36.3316,
+   "longitude": -89.4009
+  },
+  "lat": 36.3053,
+  "lon": -89.4171
+ },
+ {
+  "slug": "lake-mason-national-wildlife-refuge",
+  "name": "Lake Mason National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 46.5034,
+   "longitude": -108.8941
+  },
+  "ne": {
+   "latitude": 46.7501,
+   "longitude": -108.6329
+  },
+  "lat": 46.5341,
+  "lon": -108.672
+ },
+ {
+  "slug": "lake-nettie-national-wildlife-refuge",
+  "name": "Lake Nettie National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.594,
+   "longitude": -101.0253
+  },
+  "ne": {
+   "latitude": 47.647,
+   "longitude": -100.9825
+  },
+  "lat": 47.6191,
+  "lon": -101.0023
+ },
+ {
+  "slug": "lake-ophelia-national-wildlife-refuge",
+  "name": "Lake Ophelia National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 31.1408,
+   "longitude": -91.9758
+  },
+  "ne": {
+   "latitude": 31.2963,
+   "longitude": -91.8043
+  },
+  "lat": 31.2154,
+  "lon": -91.8798
+ },
+ {
+  "slug": "lake-otis-national-wildlife-refuge",
+  "name": "Lake Otis National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8046,
+   "longitude": -100.9289
+  },
+  "ne": {
+   "latitude": 47.8192,
+   "longitude": -100.918
+  },
+  "lat": 47.8119,
+  "lon": -100.9235
+ },
+ {
+  "slug": "lake-patricia-national-wildlife-refuge",
+  "name": "Lake Patricia National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.4583,
+   "longitude": -101.2055
+  },
+  "ne": {
+   "latitude": 46.4801,
+   "longitude": -101.1639
+  },
+  "lat": 46.4708,
+  "lon": -101.1863
+ },
+ {
+  "slug": "lake-thibadeau-national-wildlife-refuge",
+  "name": "Lake Thibadeau National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.7342,
+   "longitude": -109.626
+  },
+  "ne": {
+   "latitude": 48.7924,
+   "longitude": -109.571
+  },
+  "lat": 48.7572,
+  "lon": -109.6027
+ },
+ {
+  "slug": "lake-wales-ridge-national-wildlife-refuge",
+  "name": "Lake Wales Ridge National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.1204,
+   "longitude": -81.7486
+  },
+  "ne": {
+   "latitude": 28.1721,
+   "longitude": -81.3172
+  },
+  "lat": 27.5329,
+  "lon": -81.4101
+ },
+ {
+  "slug": "lake-woodruff-national-wildlife-refuge",
+  "name": "Lake Woodruff National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 29.0183,
+   "longitude": -81.5013
+  },
+  "ne": {
+   "latitude": 29.1438,
+   "longitude": -81.3545
+  },
+  "lat": 29.0851,
+  "lon": -81.4118
+ },
+ {
+  "slug": "lake-zahl-national-wildlife-refuge",
+  "name": "Lake Zahl National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.5394,
+   "longitude": -103.6895
+  },
+  "ne": {
+   "latitude": 48.5939,
+   "longitude": -103.6243
+  },
+  "lat": 48.5699,
+  "lon": -103.66
+ },
+ {
+  "slug": "lambs-lake-national-wildlife-refuge",
+  "name": "Lambs Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9257,
+   "longitude": -98.1077
+  },
+  "ne": {
+   "latitude": 47.9476,
+   "longitude": -98.0645
+  },
+  "lat": 47.9365,
+  "lon": -98.086
+ },
+ {
+  "slug": "lamesteer-national-wildlife-refuge",
+  "name": "Lamesteer National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 46.7865,
+   "longitude": -104.1655
+  },
+  "ne": {
+   "latitude": 46.801,
+   "longitude": -104.1337
+  },
+  "lat": 46.793,
+  "lon": -104.1517
+ },
+ {
+  "slug": "las-vegas-national-wildlife-refuge",
+  "name": "Las Vegas National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 35.4961,
+   "longitude": -105.2169
+  },
+  "ne": {
+   "latitude": 35.565,
+   "longitude": -105.1338
+  },
+  "lat": 35.532,
+  "lon": -105.17
+ },
+ {
+  "slug": "lee-metcalf-national-wildlife-refuge",
+  "name": "Lee Metcalf National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 46.5338,
+   "longitude": -114.1019
+  },
+  "ne": {
+   "latitude": 46.5883,
+   "longitude": -114.0505
+  },
+  "lat": 46.5563,
+  "lon": -114.0854
+ },
+ {
+  "slug": "leslie-canyon-national-wildlife-refuge",
+  "name": "Leslie Canyon National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 31.5532,
+   "longitude": -109.5444
+  },
+  "ne": {
+   "latitude": 31.7025,
+   "longitude": -109.4297
+  },
+  "lat": 31.633,
+  "lon": -109.4891
+ },
+ {
+  "slug": "lewis-and-clark-national-wildlife-refuge",
+  "name": "Lewis and Clark National Wildlife Refuge",
+  "states": [
+   "Oregon",
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.1717,
+   "longitude": -123.7751
+  },
+  "ne": {
+   "latitude": 46.2705,
+   "longitude": -123.447
+  },
+  "lat": 46.2247,
+  "lon": -123.6276
+ },
+ {
+  "slug": "little-goose-national-wildlife-refuge",
+  "name": "Little Goose National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9258,
+   "longitude": -97.8611
+  },
+  "ne": {
+   "latitude": 47.9368,
+   "longitude": -97.8397
+  },
+  "lat": 47.9301,
+  "lon": -97.85
+ },
+ {
+  "slug": "little-pend-oreille-national-wildlife-refuge",
+  "name": "Little Pend Oreille National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 48.1291,
+   "longitude": -117.8215
+  },
+  "ne": {
+   "latitude": 48.6043,
+   "longitude": -117.4958
+  },
+  "lat": 48.4942,
+  "lon": -117.629
+ },
+ {
+  "slug": "little-river-national-wildlife-refuge",
+  "name": "Little River National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 33.9246,
+   "longitude": -94.8092
+  },
+  "ne": {
+   "latitude": 33.99,
+   "longitude": -94.5133
+  },
+  "lat": 33.954,
+  "lon": -94.7082
+ },
+ {
+  "slug": "little-sandy-national-wildlife-refuge",
+  "name": "Little Sandy National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 32.5604,
+   "longitude": -95.2917
+  },
+  "ne": {
+   "latitude": 32.597,
+   "longitude": -95.2046
+  },
+  "lat": 32.5813,
+  "lon": -95.2506
+ },
+ {
+  "slug": "loess-bluffs-national-wildlife-refuge",
+  "name": "Loess Bluffs National Wildlife Refuge",
+  "states": [
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 40.0484,
+   "longitude": -95.2863
+  },
+  "ne": {
+   "latitude": 40.1269,
+   "longitude": -95.2155
+  },
+  "lat": 40.0887,
+  "lon": -95.2485
+ },
+ {
+  "slug": "logan-cave-national-wildlife-refuge",
+  "name": "Logan Cave National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 36.1936,
+   "longitude": -94.4013
+  },
+  "ne": {
+   "latitude": 36.2012,
+   "longitude": -94.3901
+  },
+  "lat": 36.1983,
+  "lon": -94.3957
+ },
+ {
+  "slug": "long-lake-national-wildlife-refuge",
+  "name": "Long Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.6411,
+   "longitude": -100.2961
+  },
+  "ne": {
+   "latitude": 46.7855,
+   "longitude": -99.9011
+  },
+  "lat": 46.719,
+  "lon": -100.0982
+ },
+ {
+  "slug": "long-lake-wetland-management-district",
+  "name": "Long Lake Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 45.9417,
+   "longitude": -100.9652
+  },
+  "ne": {
+   "latitude": 47.3276,
+   "longitude": -99.4448
+  },
+  "lat": 46.7491,
+  "lon": -100.1797
+ },
+ {
+  "slug": "lords-lake-national-wildlife-refuge",
+  "name": "Lords Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.7697,
+   "longitude": -100.2267
+  },
+  "ne": {
+   "latitude": 48.7951,
+   "longitude": -100.1611
+  },
+  "lat": 48.7799,
+  "lon": -100.1947
+ },
+ {
+  "slug": "lost-lake-national-wildlife-refuge",
+  "name": "Lost Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.244,
+   "longitude": -100.9077
+  },
+  "ne": {
+   "latitude": 47.2658,
+   "longitude": -100.8756
+  },
+  "lat": 47.2537,
+  "lon": -100.8882
+ },
+ {
+  "slug": "lost-trail-national-wildlife-refuge",
+  "name": "Lost Trail National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.1465,
+   "longitude": -114.9765
+  },
+  "ne": {
+   "latitude": 48.2063,
+   "longitude": -114.789
+  },
+  "lat": 48.179,
+  "lon": -114.8955
+ },
+ {
+  "slug": "lostwood-national-wildlife-refuge",
+  "name": "Lostwood National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.4885,
+   "longitude": -102.5381
+  },
+  "ne": {
+   "latitude": 48.6768,
+   "longitude": -102.3643
+  },
+  "lat": 48.5931,
+  "lon": -102.4534
+ },
+ {
+  "slug": "lostwood-wetland-management-district",
+  "name": "Lostwood Wetland Management District",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.7514,
+   "longitude": -102.8859
+  },
+  "ne": {
+   "latitude": 48.8072,
+   "longitude": -101.8354
+  },
+  "lat": 48.26,
+  "lon": -102.3061
+ },
+ {
+  "slug": "lower-hatchie-national-wildlife-refuge",
+  "name": "Lower Hatchie National Wildlife Refuge",
+  "states": [
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 35.5518,
+   "longitude": -89.9006
+  },
+  "ne": {
+   "latitude": 35.675,
+   "longitude": -89.5947
+  },
+  "lat": 35.6302,
+  "lon": -89.7557
+ },
+ {
+  "slug": "lower-klamath-national-wildlife-refuge",
+  "name": "Lower Klamath National Wildlife Refuge",
+  "states": [
+   "California",
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 41.8703,
+   "longitude": -121.89
+  },
+  "ne": {
+   "latitude": 42.1589,
+   "longitude": -121.5937
+  },
+  "lat": 41.9638,
+  "lon": -121.7196
+ },
+ {
+  "slug": "lower-rio-grande-valley-national-wildlife-refuge",
+  "name": "Lower Rio Grande Valley National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 25.8375,
+   "longitude": -99.1715
+  },
+  "ne": {
+   "latitude": 26.7811,
+   "longitude": -97.1453
+  },
+  "lat": 26.3904,
+  "lon": -98.0644
+ },
+ {
+  "slug": "lower-suwannee-national-wildlife-refuge",
+  "name": "Lower Suwannee National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 29.1389,
+   "longitude": -83.2368
+  },
+  "ne": {
+   "latitude": 29.8579,
+   "longitude": -82.8811
+  },
+  "lat": 29.3247,
+  "lon": -83.0988
+ },
+ {
+  "slug": "mackay-island-national-wildlife-refuge",
+  "name": "Mackay Island National Wildlife Refuge",
+  "states": [
+   "North Carolina",
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 36.4849,
+   "longitude": -76.0182
+  },
+  "ne": {
+   "latitude": 36.5646,
+   "longitude": -75.9247
+  },
+  "lat": 36.526,
+  "lon": -75.9579
+ },
+ {
+  "slug": "madison-wetland-management-district",
+  "name": "Madison Wetland Management District",
+  "states": [
+   "Iowa",
+   "Minnesota",
+   "Nebraska",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 42.4834,
+   "longitude": -98.1604
+  },
+  "ne": {
+   "latitude": 44.9775,
+   "longitude": -96.4363
+  },
+  "lat": 43.755,
+  "lon": -97.181
+ },
+ {
+  "slug": "malheur-national-wildlife-refuge",
+  "name": "Malheur National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 42.8022,
+   "longitude": -119.3768
+  },
+  "ne": {
+   "latitude": 43.3921,
+   "longitude": -118.6271
+  },
+  "lat": 43.2047,
+  "lon": -118.9434
+ },
+ {
+  "slug": "mandalay-national-wildlife-refuge",
+  "name": "Mandalay National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.5015,
+   "longitude": -90.828
+  },
+  "ne": {
+   "latitude": 29.648,
+   "longitude": -90.7064
+  },
+  "lat": 29.5331,
+  "lon": -90.7952
+ },
+ {
+  "slug": "maple-river-national-wildlife-refuge",
+  "name": "Maple River National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.0595,
+   "longitude": -98.4221
+  },
+  "ne": {
+   "latitude": 46.0887,
+   "longitude": -98.3901
+  },
+  "lat": 46.0705,
+  "lon": -98.4032
+ },
+ {
+  "slug": "marais-des-cygnes-national-wildlife-refuge",
+  "name": "Marais Des Cygnes National Wildlife Refuge",
+  "states": [
+   "Kansas",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 38.1862,
+   "longitude": -94.6955
+  },
+  "ne": {
+   "latitude": 38.2579,
+   "longitude": -94.5154
+  },
+  "lat": 38.2221,
+  "lon": -94.6062
+ },
+ {
+  "slug": "mariana-arc-of-fire-national-wildlife-refuge",
+  "name": "Mariana Arc of Fire National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 12.6966,
+   "longitude": 143.4404
+  },
+  "ne": {
+   "latitude": 21.9584,
+   "longitude": 145.8685
+  },
+  "lat": 12.9365,
+  "lon": 143.6335
+ },
+ {
+  "slug": "mariana-trench-national-wildlife-refuge",
+  "name": "Mariana Trench National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 10.9583,
+   "longitude": 142.3319
+  },
+  "ne": {
+   "latitude": 23.8931,
+   "longitude": 148.7139
+  },
+  "lat": 17.7038,
+  "lon": 146.3071
+ },
+ {
+  "slug": "marin-islands-national-wildlife-refuge",
+  "name": "Marin Islands National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 37.9572,
+   "longitude": -122.4786
+  },
+  "ne": {
+   "latitude": 37.9757,
+   "longitude": -122.4547
+  },
+  "lat": 37.9704,
+  "lon": -122.4678
+ },
+ {
+  "slug": "martin-national-wildlife-refuge",
+  "name": "Martin National Wildlife Refuge",
+  "states": [
+   "Maryland",
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.7874,
+   "longitude": -76.0489
+  },
+  "ne": {
+   "latitude": 38.0398,
+   "longitude": -75.8903
+  },
+  "lat": 38.0107,
+  "lon": -76.0097
+ },
+ {
+  "slug": "mashpee-national-wildlife-refuge",
+  "name": "Mashpee National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 41.5549,
+   "longitude": -70.5672
+  },
+  "ne": {
+   "latitude": 41.6753,
+   "longitude": -70.4642
+  },
+  "lat": 41.6108,
+  "lon": -70.5091
+ },
+ {
+  "slug": "massasoit-national-wildlife-refuge",
+  "name": "Massasoit National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 41.8831,
+   "longitude": -70.6558
+  },
+  "ne": {
+   "latitude": 41.901,
+   "longitude": -70.6344
+  },
+  "lat": 41.8878,
+  "lon": -70.6435
+ },
+ {
+  "slug": "mathews-brake-national-wildlife-refuge",
+  "name": "Mathews Brake National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.3415,
+   "longitude": -90.294
+  },
+  "ne": {
+   "latitude": 33.3924,
+   "longitude": -90.1876
+  },
+  "lat": 33.3674,
+  "lon": -90.2412
+ },
+ {
+  "slug": "matlacha-pass-national-wildlife-refuge",
+  "name": "Matlacha Pass National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.4791,
+   "longitude": -82.118
+  },
+  "ne": {
+   "latitude": 26.6869,
+   "longitude": -81.9756
+  },
+  "lat": 26.4843,
+  "lon": -81.9805
+ },
+ {
+  "slug": "mattamuskeet-national-wildlife-refuge",
+  "name": "Mattamuskeet National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.4487,
+   "longitude": -76.3249
+  },
+  "ne": {
+   "latitude": 35.5658,
+   "longitude": -76.0527
+  },
+  "lat": 35.5022,
+  "lon": -76.1855
+ },
+ {
+  "slug": "maxwell-national-wildlife-refuge",
+  "name": "Maxwell National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 36.5514,
+   "longitude": -104.613
+  },
+  "ne": {
+   "latitude": 36.5916,
+   "longitude": -104.5602
+  },
+  "lat": 36.5704,
+  "lon": -104.5831
+ },
+ {
+  "slug": "mcfaddin-national-wildlife-refuge",
+  "name": "McFaddin National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.5556,
+   "longitude": -94.3961
+  },
+  "ne": {
+   "latitude": 29.803,
+   "longitude": -94.0325
+  },
+  "lat": 29.6843,
+  "lon": -94.1784
+ },
+ {
+  "slug": "mckay-creek-national-wildlife-refuge",
+  "name": "McKay Creek National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.555,
+   "longitude": -118.8021
+  },
+  "ne": {
+   "latitude": 45.6094,
+   "longitude": -118.7631
+  },
+  "lat": 45.5872,
+  "lon": -118.7835
+ },
+ {
+  "slug": "mclean-national-wildlife-refuge",
+  "name": "McLean National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8006,
+   "longitude": -101.9685
+  },
+  "ne": {
+   "latitude": 47.8187,
+   "longitude": -101.947
+  },
+  "lat": 47.81,
+  "lon": -101.9574
+ },
+ {
+  "slug": "mcnary-national-wildlife-refuge",
+  "name": "McNary National Wildlife Refuge",
+  "states": [
+   "Oregon",
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.9185,
+   "longitude": -119.2713
+  },
+  "ne": {
+   "latitude": 46.4498,
+   "longitude": -118.814
+  },
+  "lat": 46.1178,
+  "lon": -118.9476
+ },
+ {
+  "slug": "medicine-lake-national-wildlife-refuge",
+  "name": "Medicine Lake National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 48.3675,
+   "longitude": -104.5918
+  },
+  "ne": {
+   "latitude": 48.5631,
+   "longitude": -104.1731
+  },
+  "lat": 48.4784,
+  "lon": -104.3595
+ },
+ {
+  "slug": "merced-national-wildlife-refuge",
+  "name": "Merced National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 37.1279,
+   "longitude": -120.6646
+  },
+  "ne": {
+   "latitude": 37.1861,
+   "longitude": -120.5826
+  },
+  "lat": 37.1777,
+  "lon": -120.6309
+ },
+ {
+  "slug": "meredosia-national-wildlife-refuge",
+  "name": "Meredosia National Wildlife Refuge",
+  "states": [
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 39.8304,
+   "longitude": -90.5849
+  },
+  "ne": {
+   "latitude": 39.9308,
+   "longitude": -90.5057
+  },
+  "lat": 39.8808,
+  "lon": -90.5506
+ },
+ {
+  "slug": "merritt-island-national-wildlife-refuge",
+  "name": "Merritt Island National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 28.4094,
+   "longitude": -80.8674
+  },
+  "ne": {
+   "latitude": 28.852,
+   "longitude": -80.5693
+  },
+  "lat": 28.6316,
+  "lon": -80.7021
+ },
+ {
+  "slug": "michigan-islands-national-wildlife-refuge",
+  "name": "Michigan Islands National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Indiana",
+   "Michigan",
+   "Minnesota",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 41.6203,
+   "longitude": -92.2941
+  },
+  "ne": {
+   "latitude": 48.3043,
+   "longitude": -82.1229
+  },
+  "lat": 45.4943,
+  "lon": -86.793
+ },
+ {
+  "slug": "middle-mississippi-river-national-wildlife-refuge",
+  "name": "Middle Mississippi River National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 36.9643,
+   "longitude": -90.3804
+  },
+  "ne": {
+   "latitude": 38.8877,
+   "longitude": -89.1469
+  },
+  "lat": 37.9413,
+  "lon": -89.8175
+ },
+ {
+  "slug": "midway-atoll-national-wildlife-refuge",
+  "name": "Midway Atoll National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 27.9926,
+   "longitude": -177.6504
+  },
+  "ne": {
+   "latitude": 28.4801,
+   "longitude": -177.0884
+  },
+  "lat": 28.2313,
+  "lon": -177.3696
+ },
+ {
+  "slug": "mille-lacs-national-wildlife-refuge",
+  "name": "Mille Lacs National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 46.1516,
+   "longitude": -93.6448
+  },
+  "ne": {
+   "latitude": 46.1794,
+   "longitude": -93.531
+  },
+  "lat": 46.1792,
+  "lon": -93.5315
+ },
+ {
+  "slug": "mingo-national-wildlife-refuge",
+  "name": "Mingo National Wildlife Refuge",
+  "states": [
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 36.9355,
+   "longitude": -90.2597
+  },
+  "ne": {
+   "latitude": 37.0526,
+   "longitude": -90.1051
+  },
+  "lat": 36.9932,
+  "lon": -90.1734
+ },
+ {
+  "slug": "minidoka-national-wildlife-refuge",
+  "name": "Minidoka National Wildlife Refuge",
+  "states": [
+   "Idaho"
+  ],
+  "sw": {
+   "latitude": 42.5968,
+   "longitude": -113.4919
+  },
+  "ne": {
+   "latitude": 42.6971,
+   "longitude": -113.0815
+  },
+  "lat": 42.6554,
+  "lon": -113.3501
+ },
+ {
+  "slug": "minnesota-valley-national-wildlife-refuge",
+  "name": "Minnesota Valley National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 44.5255,
+   "longitude": -93.9222
+  },
+  "ne": {
+   "latitude": 45.0792,
+   "longitude": -93.1701
+  },
+  "lat": 44.5994,
+  "lon": -93.8662
+ },
+ {
+  "slug": "missisquoi-national-wildlife-refuge",
+  "name": "Missisquoi National Wildlife Refuge",
+  "states": [
+   "Vermont"
+  ],
+  "sw": {
+   "latitude": 44.9325,
+   "longitude": -73.2138
+  },
+  "ne": {
+   "latitude": 45.0128,
+   "longitude": -72.1807
+  },
+  "lat": 44.9653,
+  "lon": -73.1655
+ },
+ {
+  "slug": "mississippi-sandhill-crane-national-wildlife-refuge",
+  "name": "Mississippi Sandhill Crane National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 30.383,
+   "longitude": -88.8331
+  },
+  "ne": {
+   "latitude": 30.5163,
+   "longitude": -88.6129
+  },
+  "lat": 30.4565,
+  "lon": -88.7343
+ },
+ {
+  "slug": "moapa-valley-national-wildlife-refuge",
+  "name": "Moapa Valley National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 36.6817,
+   "longitude": -114.73
+  },
+  "ne": {
+   "latitude": 36.7349,
+   "longitude": -114.68
+  },
+  "lat": 36.7125,
+  "lon": -114.7044
+ },
+ {
+  "slug": "modoc-national-wildlife-refuge",
+  "name": "Modoc National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 41.407,
+   "longitude": -120.5834
+  },
+  "ne": {
+   "latitude": 41.4986,
+   "longitude": -120.4591
+  },
+  "lat": 41.4554,
+  "lon": -120.5309
+ },
+ {
+  "slug": "monomoy-national-wildlife-refuge",
+  "name": "Monomoy National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 41.5397,
+   "longitude": -70.0328
+  },
+  "ne": {
+   "latitude": 41.6635,
+   "longitude": -69.9572
+  },
+  "lat": 41.5961,
+  "lon": -69.9969
+ },
+ {
+  "slug": "monte-vista-national-wildlife-refuge",
+  "name": "Monte Vista National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 37.4589,
+   "longitude": -106.1718
+  },
+  "ne": {
+   "latitude": 37.5313,
+   "longitude": -105.9848
+  },
+  "lat": 37.4883,
+  "lon": -106.085
+ },
+ {
+  "slug": "montezuma-national-wildlife-refuge",
+  "name": "Montezuma National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 42.9211,
+   "longitude": -76.8478
+  },
+  "ne": {
+   "latitude": 43.166,
+   "longitude": -76.7038
+  },
+  "lat": 43.0288,
+  "lon": -76.7772
+ },
+ {
+  "slug": "moody-national-wildlife-refuge",
+  "name": "Moody National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.5368,
+   "longitude": -94.7466
+  },
+  "ne": {
+   "latitude": 29.6133,
+   "longitude": -94.642
+  },
+  "lat": 29.5745,
+  "lon": -94.6901
+ },
+ {
+  "slug": "moosehorn-national-wildlife-refuge",
+  "name": "Moosehorn National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 44.7682,
+   "longitude": -67.3691
+  },
+  "ne": {
+   "latitude": 45.1582,
+   "longitude": -67.1428
+  },
+  "lat": 45.0922,
+  "lon": -67.2925
+ },
+ {
+  "slug": "morgan-brake-national-wildlife-refuge",
+  "name": "Morgan Brake National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.1758,
+   "longitude": -90.2298
+  },
+  "ne": {
+   "latitude": 33.2608,
+   "longitude": -90.1299
+  },
+  "lat": 33.2249,
+  "lon": -90.1891
+ },
+ {
+  "slug": "mortenson-lake-national-wildlife-refuge",
+  "name": "Mortenson Lake National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 41.2044,
+   "longitude": -105.8653
+  },
+  "ne": {
+   "latitude": 41.2322,
+   "longitude": -105.7649
+  },
+  "lat": 41.213,
+  "lon": -105.8211
+ },
+ {
+  "slug": "mountain-longleaf-national-wildlife-refuge",
+  "name": "Mountain Longleaf National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 33.6581,
+   "longitude": -85.8231
+  },
+  "ne": {
+   "latitude": 33.7493,
+   "longitude": -85.7254
+  },
+  "lat": 33.7026,
+  "lon": -85.7593
+ },
+ {
+  "slug": "muleshoe-national-wildlife-refuge",
+  "name": "Muleshoe National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 33.5149,
+   "longitude": -102.7848
+  },
+  "ne": {
+   "latitude": 34.0069,
+   "longitude": -100.9062
+  },
+  "lat": 33.9637,
+  "lon": -102.751
+ },
+ {
+  "slug": "muscatatuck-national-wildlife-refuge",
+  "name": "Muscatatuck National Wildlife Refuge",
+  "states": [
+   "Indiana"
+  ],
+  "sw": {
+   "latitude": 38.8942,
+   "longitude": -86.5719
+  },
+  "ne": {
+   "latitude": 39.2914,
+   "longitude": -85.7774
+  },
+  "lat": 38.9338,
+  "lon": -85.8029
+ },
+ {
+  "slug": "nansemond-national-wildlife-refuge",
+  "name": "Nansemond National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 36.808,
+   "longitude": -76.5555
+  },
+  "ne": {
+   "latitude": 36.8259,
+   "longitude": -76.5377
+  },
+  "lat": 36.8138,
+  "lon": -76.5456
+ },
+ {
+  "slug": "nantucket-national-wildlife-refuge",
+  "name": "Nantucket National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 41.2464,
+   "longitude": -70.3099
+  },
+  "ne": {
+   "latitude": 41.3922,
+   "longitude": -69.9697
+  },
+  "lat": 41.3517,
+  "lon": -70.0244
+ },
+ {
+  "slug": "nathaniel-p-reed-hobe-sound-national-wildlife-refuge",
+  "name": "Nathaniel P. Reed Hobe Sound National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.9937,
+   "longitude": -80.3688
+  },
+  "ne": {
+   "latitude": 27.5501,
+   "longitude": -80.0926
+  },
+  "lat": 27.1051,
+  "lon": -80.1365
+ },
+ {
+  "slug": "national-elk-refuge",
+  "name": "National Elk Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 43.4797,
+   "longitude": -110.7624
+  },
+  "ne": {
+   "latitude": 43.6403,
+   "longitude": -110.5831
+  },
+  "lat": 43.5575,
+  "lon": -110.6799
+ },
+ {
+  "slug": "national-key-deer-refuge",
+  "name": "National Key Deer Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 24.6466,
+   "longitude": -81.5228
+  },
+  "ne": {
+   "latitude": 24.8219,
+   "longitude": -81.2373
+  },
+  "lat": 24.7343,
+  "lon": -81.3804
+ },
+ {
+  "slug": "navassa-island-national-wildlife-refuge",
+  "name": "Navassa Island National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 18.2081,
+   "longitude": -75.2218
+  },
+  "ne": {
+   "latitude": 18.5962,
+   "longitude": -74.8119
+  },
+  "lat": 18.4032,
+  "lon": -75.0158
+ },
+ {
+  "slug": "neal-smith-national-wildlife-refuge",
+  "name": "Neal Smith National Wildlife Refuge",
+  "states": [
+   "Iowa"
+  ],
+  "sw": {
+   "latitude": 41.5225,
+   "longitude": -93.3257
+  },
+  "ne": {
+   "latitude": 41.6047,
+   "longitude": -93.2292
+  },
+  "lat": 41.5621,
+  "lon": -93.277
+ },
+ {
+  "slug": "necedah-national-wildlife-refuge",
+  "name": "Necedah National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 44.0247,
+   "longitude": -90.2324
+  },
+  "ne": {
+   "latitude": 44.2505,
+   "longitude": -90.0633
+  },
+  "lat": 44.1324,
+  "lon": -90.1548
+ },
+ {
+  "slug": "neches-river-national-wildlife-refuge",
+  "name": "Neches River National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 31.7032,
+   "longitude": -95.4929
+  },
+  "ne": {
+   "latitude": 31.9591,
+   "longitude": -95.3231
+  },
+  "lat": 31.8201,
+  "lon": -95.4082
+ },
+ {
+  "slug": "nestucca-bay-national-wildlife-refuge",
+  "name": "Nestucca Bay National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.1038,
+   "longitude": -123.982
+  },
+  "ne": {
+   "latitude": 45.2143,
+   "longitude": -123.9106
+  },
+  "lat": 45.1706,
+  "lon": -123.9468
+ },
+ {
+  "slug": "ninepipe-national-wildlife-refuge",
+  "name": "Ninepipe National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.3266,
+   "longitude": -114.2572
+  },
+  "ne": {
+   "latitude": 47.5444,
+   "longitude": -114.0116
+  },
+  "lat": 47.4527,
+  "lon": -114.1362
+ },
+ {
+  "slug": "ninigret-national-wildlife-refuge",
+  "name": "Ninigret National Wildlife Refuge",
+  "states": [
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.3527,
+   "longitude": -71.6991
+  },
+  "ne": {
+   "latitude": 41.4077,
+   "longitude": -71.6387
+  },
+  "lat": 41.3962,
+  "lon": -71.6481
+ },
+ {
+  "slug": "nomans-land-island-national-wildlife-refuge",
+  "name": "Nomans Land Island National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 41.2499,
+   "longitude": -70.8313
+  },
+  "ne": {
+   "latitude": 41.2649,
+   "longitude": -70.8017
+  },
+  "lat": 41.2564,
+  "lon": -70.8154
+ },
+ {
+  "slug": "north-platte-national-wildlife-refuge",
+  "name": "North Platte National Wildlife Refuge",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 41.9203,
+   "longitude": -104.0525
+  },
+  "ne": {
+   "latitude": 41.9991,
+   "longitude": -103.468
+  },
+  "lat": 41.9886,
+  "lon": -103.6124
+ },
+ {
+  "slug": "northeast-montana-wetland-management-district",
+  "name": "Northeast Montana Wetland Management District",
+  "states": [
+   "Montana",
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9961,
+   "longitude": -106.152
+  },
+  "ne": {
+   "latitude": 48.9999,
+   "longitude": -104.0441
+  },
+  "lat": 48.5547,
+  "lon": -104.9953
+ },
+ {
+  "slug": "northern-tallgrass-prairie-national-wildlife-refuge",
+  "name": "Northern Tallgrass Prairie National Wildlife Refuge",
+  "states": [
+   "Iowa",
+   "Minnesota",
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 41.5054,
+   "longitude": -97.2389
+  },
+  "ne": {
+   "latitude": 49.0007,
+   "longitude": -93.0289
+  },
+  "lat": 44.6563,
+  "lon": -95.2963
+ },
+ {
+  "slug": "northwest-montana-wetland-management-district-flathead-county",
+  "name": "Northwest Montana Wetland Management District-Flathead County",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.5964,
+   "longitude": -115.021
+  },
+  "ne": {
+   "latitude": 49.0011,
+   "longitude": -112.8786
+  },
+  "lat": 48.2951,
+  "lon": -114.0498
+ },
+ {
+  "slug": "northwest-montana-wetland-management-district-lake-county",
+  "name": "Northwest Montana Wetland Management District-Lake County",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.1382,
+   "longitude": -114.6047
+  },
+  "ne": {
+   "latitude": 48.0519,
+   "longitude": -113.5983
+  },
+  "lat": 47.6459,
+  "lon": -114.0892
+ },
+ {
+  "slug": "nowitna-national-wildlife-refuge",
+  "name": "Nowitna National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 63.9216,
+   "longitude": -155.4744
+  },
+  "ne": {
+   "latitude": 65.1937,
+   "longitude": -152.7699
+  },
+  "lat": 64.6632,
+  "lon": -153.8989
+ },
+ {
+  "slug": "oahu-forest-national-wildlife-refuge",
+  "name": "Oahu Forest National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 21.4664,
+   "longitude": -157.9701
+  },
+  "ne": {
+   "latitude": 21.5096,
+   "longitude": -157.8904
+  },
+  "lat": 21.49,
+  "lon": -157.9274
+ },
+ {
+  "slug": "occoquan-bay-national-wildlife-refuge",
+  "name": "Occoquan Bay National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 38.6377,
+   "longitude": -77.2479
+  },
+  "ne": {
+   "latitude": 38.6498,
+   "longitude": -77.2241
+  },
+  "lat": 38.6442,
+  "lon": -77.2359
+ },
+ {
+  "slug": "ohio-river-islands-national-wildlife-refuge",
+  "name": "Ohio River Islands National Wildlife Refuge",
+  "states": [
+   "Kentucky",
+   "Ohio",
+   "Pennsylvania",
+   "West Virginia"
+  ],
+  "sw": {
+   "latitude": 38.5943,
+   "longitude": -83.6016
+  },
+  "ne": {
+   "latitude": 40.6462,
+   "longitude": -80.438
+  },
+  "lat": 39.272,
+  "lon": -81.6231
+ },
+ {
+  "slug": "okefenokee-national-wildlife-refuge",
+  "name": "Okefenokee National Wildlife Refuge",
+  "states": [
+   "Florida",
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 30.5183,
+   "longitude": -82.5814
+  },
+  "ne": {
+   "latitude": 31.1586,
+   "longitude": -82.0669
+  },
+  "lat": 30.8015,
+  "lon": -82.3151
+ },
+ {
+  "slug": "optima-national-wildlife-refuge",
+  "name": "Optima National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 36.6164,
+   "longitude": -101.2633
+  },
+  "ne": {
+   "latitude": 36.6682,
+   "longitude": -101.1698
+  },
+  "lat": 36.6416,
+  "lon": -101.211
+ },
+ {
+  "slug": "oregon-islands-national-wildlife-refuge",
+  "name": "Oregon Islands National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 41.9985,
+   "longitude": -124.7037
+  },
+  "ne": {
+   "latitude": 46.2565,
+   "longitude": -123.929
+  },
+  "lat": 44.0584,
+  "lon": -124.2368
+ },
+ {
+  "slug": "ottawa-national-wildlife-refuge",
+  "name": "Ottawa National Wildlife Refuge",
+  "states": [
+   "Ohio"
+  ],
+  "sw": {
+   "latitude": 41.2558,
+   "longitude": -83.4098
+  },
+  "ne": {
+   "latitude": 41.7246,
+   "longitude": -82.5965
+  },
+  "lat": 41.4378,
+  "lon": -82.9987
+ },
+ {
+  "slug": "ouray-national-wildlife-refuge",
+  "name": "Ouray National Wildlife Refuge",
+  "states": [
+   "Utah"
+  ],
+  "sw": {
+   "latitude": 40.0935,
+   "longitude": -109.6789
+  },
+  "ne": {
+   "latitude": 40.204,
+   "longitude": -109.5653
+  },
+  "lat": 40.1502,
+  "lon": -109.6164
+ },
+ {
+  "slug": "overflow-national-wildlife-refuge",
+  "name": "Overflow National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 33.007,
+   "longitude": -91.6986
+  },
+  "ne": {
+   "latitude": 33.1742,
+   "longitude": -91.5894
+  },
+  "lat": 33.0865,
+  "lon": -91.6456
+ },
+ {
+  "slug": "oxbow-national-wildlife-refuge",
+  "name": "Oxbow National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 42.491,
+   "longitude": -71.6376
+  },
+  "ne": {
+   "latitude": 42.5759,
+   "longitude": -71.6007
+  },
+  "lat": 42.5101,
+  "lon": -71.6223
+ },
+ {
+  "slug": "ozark-cavefish-national-wildlife-refuge",
+  "name": "Ozark Cavefish National Wildlife Refuge",
+  "states": [
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 36.8625,
+   "longitude": -94.3632
+  },
+  "ne": {
+   "latitude": 37.2017,
+   "longitude": -93.6931
+  },
+  "lat": 37.1999,
+  "lon": -93.6961
+ },
+ {
+  "slug": "ozark-plateau-national-wildlife-refuge",
+  "name": "Ozark Plateau National Wildlife Refuge",
+  "states": [
+   "Arkansas",
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 35.4614,
+   "longitude": -95.3112
+  },
+  "ne": {
+   "latitude": 36.9988,
+   "longitude": -94.4596
+  },
+  "lat": 36.1493,
+  "lon": -94.8644
+ },
+ {
+  "slug": "pablo-national-wildlife-refuge",
+  "name": "Pablo National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.6203,
+   "longitude": -114.1881
+  },
+  "ne": {
+   "latitude": 47.6495,
+   "longitude": -114.1304
+  },
+  "lat": 47.6355,
+  "lon": -114.1594
+ },
+ {
+  "slug": "pahranagat-national-wildlife-refuge",
+  "name": "Pahranagat National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 37.188,
+   "longitude": -115.1412
+  },
+  "ne": {
+   "latitude": 37.3178,
+   "longitude": -115.0233
+  },
+  "lat": 37.2423,
+  "lon": -115.0947
+ },
+ {
+  "slug": "paint-rock-river-national-wildlife-refuge",
+  "name": "Paint Rock River National Wildlife Refuge",
+  "states": [
+   "Alabama",
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 34.9895,
+   "longitude": -86.2857
+  },
+  "ne": {
+   "latitude": 35.1022,
+   "longitude": -86.0298
+  },
+  "lat": 35.0346,
+  "lon": -86.1299
+ },
+ {
+  "slug": "palmyra-atoll-national-wildlife-refuge",
+  "name": "Palmyra Atoll National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 5.6631,
+   "longitude": -162.3291
+  },
+  "ne": {
+   "latitude": 6.1003,
+   "longitude": -161.8278
+  },
+  "lat": 5.8806,
+  "lon": -162.0765
+ },
+ {
+  "slug": "panther-swamp-national-wildlife-refuge",
+  "name": "Panther Swamp National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 32.5751,
+   "longitude": -90.7312
+  },
+  "ne": {
+   "latitude": 33.0459,
+   "longitude": -90.3862
+  },
+  "lat": 32.8239,
+  "lon": -90.5813
+ },
+ {
+  "slug": "parker-river-national-wildlife-refuge",
+  "name": "Parker River National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 42.7032,
+   "longitude": -70.8512
+  },
+  "ne": {
+   "latitude": 42.8152,
+   "longitude": -70.7687
+  },
+  "lat": 42.7453,
+  "lon": -70.8079
+ },
+ {
+  "slug": "passage-key-national-wildlife-refuge",
+  "name": "Passage Key National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.5525,
+   "longitude": -82.7438
+  },
+  "ne": {
+   "latitude": 27.5595,
+   "longitude": -82.7427
+  },
+  "lat": 27.5557,
+  "lon": -82.7432
+ },
+ {
+  "slug": "pathfinder-national-wildlife-refuge",
+  "name": "Pathfinder National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 42.2373,
+   "longitude": -107.0832
+  },
+  "ne": {
+   "latitude": 42.5495,
+   "longitude": -106.8919
+  },
+  "lat": 42.5162,
+  "lon": -106.9847
+ },
+ {
+  "slug": "patoka-river-national-wildlife-refuge",
+  "name": "Patoka River National Wildlife Refuge",
+  "states": [
+   "Indiana"
+  ],
+  "sw": {
+   "latitude": 38.3163,
+   "longitude": -87.7806
+  },
+  "ne": {
+   "latitude": 38.4071,
+   "longitude": -87.0955
+  },
+  "lat": 38.3769,
+  "lon": -87.3638
+ },
+ {
+  "slug": "patuxent-research-refuge",
+  "name": "Patuxent Research Refuge",
+  "states": [
+   "Maryland"
+  ],
+  "sw": {
+   "latitude": 39.0039,
+   "longitude": -76.8322
+  },
+  "ne": {
+   "latitude": 39.0932,
+   "longitude": -76.7208
+  },
+  "lat": 39.0567,
+  "lon": -76.7817
+ },
+ {
+  "slug": "pea-island-national-wildlife-refuge",
+  "name": "Pea Island National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.6067,
+   "longitude": -75.5519
+  },
+  "ne": {
+   "latitude": 35.7819,
+   "longitude": -75.4618
+  },
+  "lat": 35.6949,
+  "lon": -75.504
+ },
+ {
+  "slug": "pearl-harbor-national-wildlife-refuge",
+  "name": "Pearl Harbor National Wildlife Refuge",
+  "states": [
+   "Hawaii"
+  ],
+  "sw": {
+   "latitude": 21.2955,
+   "longitude": -158.0862
+  },
+  "ne": {
+   "latitude": 21.3886,
+   "longitude": -157.9763
+  },
+  "lat": 21.298,
+  "lon": -158.0846
+ },
+ {
+  "slug": "pee-dee-national-wildlife-refuge",
+  "name": "Pee Dee National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.0456,
+   "longitude": -80.1016
+  },
+  "ne": {
+   "latitude": 35.1188,
+   "longitude": -80.0113
+  },
+  "lat": 35.0814,
+  "lon": -80.0546
+ },
+ {
+  "slug": "pelican-island-national-wildlife-refuge",
+  "name": "Pelican Island National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.7652,
+   "longitude": -80.4731
+  },
+  "ne": {
+   "latitude": 27.8447,
+   "longitude": -80.4121
+  },
+  "lat": 27.8101,
+  "lon": -80.4408
+ },
+ {
+  "slug": "petit-manan-national-wildlife-refuge",
+  "name": "Petit Manan National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 42.9804,
+   "longitude": -70.6173
+  },
+  "ne": {
+   "latitude": 44.9229,
+   "longitude": -67.0379
+  },
+  "lat": 44.4278,
+  "lon": -67.9005
+ },
+ {
+  "slug": "piedmont-national-wildlife-refuge",
+  "name": "Piedmont National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 32.9873,
+   "longitude": -83.8124
+  },
+  "ne": {
+   "latitude": 33.1703,
+   "longitude": -83.6197
+  },
+  "lat": 33.0992,
+  "lon": -83.6957
+ },
+ {
+  "slug": "pierce-national-wildlife-refuge",
+  "name": "Pierce National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.6254,
+   "longitude": -122.019
+  },
+  "ne": {
+   "latitude": 45.6368,
+   "longitude": -121.9876
+  },
+  "lat": 45.6309,
+  "lon": -122.0003
+ },
+ {
+  "slug": "pilot-knob-national-wildlife-refuge",
+  "name": "Pilot Knob National Wildlife Refuge",
+  "states": [
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 37.6149,
+   "longitude": -90.628
+  },
+  "ne": {
+   "latitude": 37.6252,
+   "longitude": -90.6206
+  },
+  "lat": 37.6178,
+  "lon": -90.6243
+ },
+ {
+  "slug": "pinckney-island-national-wildlife-refuge",
+  "name": "Pinckney Island National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 32.2241,
+   "longitude": -80.799
+  },
+  "ne": {
+   "latitude": 32.2838,
+   "longitude": -80.7422
+  },
+  "lat": 32.249,
+  "lon": -80.7645
+ },
+ {
+  "slug": "pine-island-national-wildlife-refuge",
+  "name": "Pine Island National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 26.4891,
+   "longitude": -82.2318
+  },
+  "ne": {
+   "latitude": 26.6889,
+   "longitude": -82.0221
+  },
+  "lat": 26.6834,
+  "lon": -82.2038
+ },
+ {
+  "slug": "pinellas-national-wildlife-refuge",
+  "name": "Pinellas National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 27.6594,
+   "longitude": -82.7185
+  },
+  "ne": {
+   "latitude": 27.7055,
+   "longitude": -82.6842
+  },
+  "lat": 27.6668,
+  "lon": -82.6908
+ },
+ {
+  "slug": "pixley-national-wildlife-refuge",
+  "name": "Pixley National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 35.8919,
+   "longitude": -119.4845
+  },
+  "ne": {
+   "latitude": 36.051,
+   "longitude": -119.2903
+  },
+  "lat": 35.918,
+  "lon": -119.3755
+ },
+ {
+  "slug": "pleasant-lake-national-wildlife-refuge",
+  "name": "Pleasant Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.3363,
+   "longitude": -99.8159
+  },
+  "ne": {
+   "latitude": 48.3616,
+   "longitude": -99.7938
+  },
+  "lat": 48.3495,
+  "lon": -99.8056
+ },
+ {
+  "slug": "plum-tree-island-national-wildlife-refuge",
+  "name": "Plum Tree Island National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.105,
+   "longitude": -76.3749
+  },
+  "ne": {
+   "latitude": 37.171,
+   "longitude": -76.2919
+  },
+  "lat": 37.1376,
+  "lon": -76.3325
+ },
+ {
+  "slug": "pocosin-lakes-national-wildlife-refuge",
+  "name": "Pocosin Lakes National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.5761,
+   "longitude": -76.6121
+  },
+  "ne": {
+   "latitude": 35.9262,
+   "longitude": -76.0506
+  },
+  "lat": 35.7078,
+  "lon": -76.3657
+ },
+ {
+  "slug": "pond-creek-national-wildlife-refuge",
+  "name": "Pond Creek National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 33.7806,
+   "longitude": -94.39
+  },
+  "ne": {
+   "latitude": 33.929,
+   "longitude": -94.1175
+  },
+  "lat": 33.8541,
+  "lon": -94.248
+ },
+ {
+  "slug": "pond-island-national-wildlife-refuge",
+  "name": "Pond Island National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 43.7376,
+   "longitude": -69.7721
+  },
+  "ne": {
+   "latitude": 43.7409,
+   "longitude": -69.77
+  },
+  "lat": 43.7394,
+  "lon": -69.7711
+ },
+ {
+  "slug": "port-louisa-national-wildlife-refuge",
+  "name": "Port Louisa National Wildlife Refuge",
+  "states": [
+   "Iowa",
+   "Illinois"
+  ],
+  "sw": {
+   "latitude": 40.8805,
+   "longitude": -92.6306
+  },
+  "ne": {
+   "latitude": 41.9684,
+   "longitude": -90.9429
+  },
+  "lat": 41.8649,
+  "lon": -92.2493
+ },
+ {
+  "slug": "presquile-national-wildlife-refuge",
+  "name": "Presquile National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.3414,
+   "longitude": -77.2756
+  },
+  "ne": {
+   "latitude": 37.3798,
+   "longitude": -77.2459
+  },
+  "lat": 37.3644,
+  "lon": -77.2597
+ },
+ {
+  "slug": "pretty-rock-national-wildlife-refuge",
+  "name": "Pretty Rock National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.2416,
+   "longitude": -101.9572
+  },
+  "ne": {
+   "latitude": 46.2635,
+   "longitude": -101.9364
+  },
+  "lat": 46.2541,
+  "lon": -101.9457
+ },
+ {
+  "slug": "prime-hook-national-wildlife-refuge",
+  "name": "Prime Hook National Wildlife Refuge",
+  "states": [
+   "Delaware"
+  ],
+  "sw": {
+   "latitude": 38.8029,
+   "longitude": -75.3132
+  },
+  "ne": {
+   "latitude": 38.9124,
+   "longitude": -75.1922
+  },
+  "lat": 38.8507,
+  "lon": -75.2674
+ },
+ {
+  "slug": "protection-island-national-wildlife-refuge",
+  "name": "Protection Island National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 48.1164,
+   "longitude": -122.9512
+  },
+  "ne": {
+   "latitude": 48.1332,
+   "longitude": -122.9085
+  },
+  "lat": 48.126,
+  "lon": -122.9304
+ },
+ {
+  "slug": "quillayute-needles-national-wildlife-refuge",
+  "name": "Quillayute Needles National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 47.6334,
+   "longitude": -124.8031
+  },
+  "ne": {
+   "latitude": 48.0333,
+   "longitude": -124.3832
+  },
+  "lat": 47.822,
+  "lon": -124.5939
+ },
+ {
+  "slug": "quivira-national-wildlife-refuge",
+  "name": "Quivira National Wildlife Refuge",
+  "states": [
+   "Kansas"
+  ],
+  "sw": {
+   "latitude": 38.071,
+   "longitude": -98.5648
+  },
+  "ne": {
+   "latitude": 38.2313,
+   "longitude": -98.4545
+  },
+  "lat": 38.1617,
+  "lon": -98.5033
+ },
+ {
+  "slug": "rabb-lake-national-wildlife-refuge",
+  "name": "Rabb Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.9899,
+   "longitude": -100.1562
+  },
+  "ne": {
+   "latitude": 48.9984,
+   "longitude": -100.1399
+  },
+  "lat": 48.9939,
+  "lon": -100.1476
+ },
+ {
+  "slug": "rachel-carson-national-wildlife-refuge",
+  "name": "Rachel Carson National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 43.0843,
+   "longitude": -70.7628
+  },
+  "ne": {
+   "latitude": 43.6009,
+   "longitude": -70.2296
+  },
+  "lat": 43.3482,
+  "lon": -70.5382
+ },
+ {
+  "slug": "rainwater-basin-wetland-management-district",
+  "name": "Rainwater Basin Wetland Management District",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 40.0021,
+   "longitude": -100.0951
+  },
+  "ne": {
+   "latitude": 41.395,
+   "longitude": -96.911
+  },
+  "lat": 40.646,
+  "lon": -98.2254
+ },
+ {
+  "slug": "rappahannock-river-valley-national-wildlife-refuge",
+  "name": "Rappahannock River Valley National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.7128,
+   "longitude": -77.3446
+  },
+  "ne": {
+   "latitude": 38.2838,
+   "longitude": -76.5521
+  },
+  "lat": 38.0174,
+  "lon": -76.9032
+ },
+ {
+  "slug": "red-river-national-wildlife-refuge",
+  "name": "Red River National Wildlife Refuge",
+  "states": [
+   "Arkansas",
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 31.4924,
+   "longitude": -93.8615
+  },
+  "ne": {
+   "latitude": 33.0194,
+   "longitude": -92.7385
+  },
+  "lat": 32.1312,
+  "lon": -93.5081
+ },
+ {
+  "slug": "red-rock-lakes-national-wildlife-refuge",
+  "name": "Red Rock Lakes National Wildlife Refuge",
+  "states": [
+   "Idaho",
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 44.533,
+   "longitude": -112.2789
+  },
+  "ne": {
+   "latitude": 44.74,
+   "longitude": -111.5373
+  },
+  "lat": 44.6504,
+  "lon": -111.9361
+ },
+ {
+  "slug": "reelfoot-national-wildlife-refuge",
+  "name": "Reelfoot National Wildlife Refuge",
+  "states": [
+   "Kentucky",
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 36.3887,
+   "longitude": -89.3681
+  },
+  "ne": {
+   "latitude": 36.5393,
+   "longitude": -89.2952
+  },
+  "lat": 36.4332,
+  "lon": -89.3364
+ },
+ {
+  "slug": "rice-lake-national-wildlife-refuge",
+  "name": "Rice Lake National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 46.4871,
+   "longitude": -93.4327
+  },
+  "ne": {
+   "latitude": 46.5773,
+   "longitude": -93.2831
+  },
+  "lat": 46.5278,
+  "lon": -93.3538
+ },
+ {
+  "slug": "ridgefield-national-wildlife-refuge",
+  "name": "Ridgefield National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.7416,
+   "longitude": -122.7896
+  },
+  "ne": {
+   "latitude": 45.8628,
+   "longitude": -122.7406
+  },
+  "lat": 45.8122,
+  "lon": -122.7625
+ },
+ {
+  "slug": "rio-mora-national-wildlife-refuge-and-conservation-area",
+  "name": "Rio Mora National Wildlife Refuge and Conservation Area",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 35.5623,
+   "longitude": -105.556
+  },
+  "ne": {
+   "latitude": 36.3572,
+   "longitude": -104.3816
+  },
+  "lat": 35.8926,
+  "lon": -105.059
+ },
+ {
+  "slug": "roanoke-river-national-wildlife-refuge",
+  "name": "Roanoke River National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.6589,
+   "longitude": -77.601
+  },
+  "ne": {
+   "latitude": 36.4389,
+   "longitude": -76.6421
+  },
+  "lat": 36.0526,
+  "lon": -77.1594
+ },
+ {
+  "slug": "rock-lake-national-wildlife-refuge",
+  "name": "Rock Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.7617,
+   "longitude": -99.2958
+  },
+  "ne": {
+   "latitude": 48.8777,
+   "longitude": -99.1931
+  },
+  "lat": 48.809,
+  "lon": -99.2433
+ },
+ {
+  "slug": "rocky-flats-national-wildlife-refuge",
+  "name": "Rocky Flats National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 39.8705,
+   "longitude": -105.2412
+  },
+  "ne": {
+   "latitude": 39.9134,
+   "longitude": -105.1668
+  },
+  "lat": 39.8903,
+  "lon": -105.202
+ },
+ {
+  "slug": "rocky-mountain-arsenal-national-wildlife-refuge",
+  "name": "Rocky Mountain Arsenal National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 39.7985,
+   "longitude": -104.9028
+  },
+  "ne": {
+   "latitude": 39.8705,
+   "longitude": -104.7909
+  },
+  "lat": 39.8344,
+  "lon": -104.8398
+ },
+ {
+  "slug": "rose-atoll-national-wildlife-refuge",
+  "name": "Rose Atoll National Wildlife Refuge",
+  "states": [
+   "American Samoa"
+  ],
+  "sw": {
+   "latitude": -14.5595,
+   "longitude": -168.1721
+  },
+  "ne": {
+   "latitude": -14.5302,
+   "longitude": -168.1393
+  },
+  "lat": -14.5448,
+  "lon": -168.1561
+ },
+ {
+  "slug": "rose-lake-national-wildlife-refuge",
+  "name": "Rose Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9765,
+   "longitude": -98.4725
+  },
+  "ne": {
+   "latitude": 48.0018,
+   "longitude": -98.4402
+  },
+  "lat": 47.9854,
+  "lon": -98.4582
+ },
+ {
+  "slug": "ruby-lake-national-wildlife-refuge",
+  "name": "Ruby Lake National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 40.04,
+   "longitude": -115.5394
+  },
+  "ne": {
+   "latitude": 40.3008,
+   "longitude": -115.3951
+  },
+  "lat": 40.1731,
+  "lon": -115.4694
+ },
+ {
+  "slug": "rydell-national-wildlife-refuge",
+  "name": "Rydell National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 47.6414,
+   "longitude": -96.1307
+  },
+  "ne": {
+   "latitude": 47.6768,
+   "longitude": -96.0885
+  },
+  "lat": 47.6579,
+  "lon": -96.1072
+ },
+ {
+  "slug": "sabine-national-wildlife-refuge",
+  "name": "Sabine National Wildlife Refuge",
+  "states": [
+   "Louisiana",
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.8339,
+   "longitude": -93.7838
+  },
+  "ne": {
+   "latitude": 29.9927,
+   "longitude": -93.3254
+  },
+  "lat": 29.9038,
+  "lon": -93.5832
+ },
+ {
+  "slug": "sachuest-point-national-wildlife-refuge",
+  "name": "Sachuest Point National Wildlife Refuge",
+  "states": [
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.4723,
+   "longitude": -71.2516
+  },
+  "ne": {
+   "latitude": 41.4936,
+   "longitude": -71.2373
+  },
+  "lat": 41.4833,
+  "lon": -71.2448
+ },
+ {
+  "slug": "sacramento-national-wildlife-refuge",
+  "name": "Sacramento National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 39.3636,
+   "longitude": -122.195
+  },
+  "ne": {
+   "latitude": 39.4511,
+   "longitude": -122.136
+  },
+  "lat": 39.4098,
+  "lon": -122.1641
+ },
+ {
+  "slug": "sacramento-river-national-wildlife-refuge",
+  "name": "Sacramento River National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 39.214,
+   "longitude": -122.2028
+  },
+  "ne": {
+   "latitude": 40.1582,
+   "longitude": -121.9351
+  },
+  "lat": 39.7092,
+  "lon": -122.0302
+ },
+ {
+  "slug": "saddle-mountain-national-wildlife-refuge",
+  "name": "Saddle Mountain National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.3652,
+   "longitude": -119.8121
+  },
+  "ne": {
+   "latitude": 46.7956,
+   "longitude": -119.2592
+  },
+  "lat": 46.6958,
+  "lon": -119.4987
+ },
+ {
+  "slug": "salinas-river-national-wildlife-refuge",
+  "name": "Salinas River National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 36.726,
+   "longitude": -121.8066
+  },
+  "ne": {
+   "latitude": 36.7491,
+   "longitude": -121.7879
+  },
+  "lat": 36.7393,
+  "lon": -121.7993
+ },
+ {
+  "slug": "salt-plains-national-wildlife-refuge",
+  "name": "Salt Plains National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 36.6808,
+   "longitude": -98.2983
+  },
+  "ne": {
+   "latitude": 36.8877,
+   "longitude": -98.1325
+  },
+  "lat": 36.7527,
+  "lon": -98.2236
+ },
+ {
+  "slug": "sam-d-hamilton-noxubee-national-wildlife-refuge",
+  "name": "Sam D. Hamilton Noxubee National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.1892,
+   "longitude": -88.9453
+  },
+  "ne": {
+   "latitude": 33.4031,
+   "longitude": -88.6974
+  },
+  "lat": 33.2764,
+  "lon": -88.8372
+ },
+ {
+  "slug": "san-andres-national-wildlife-refuge",
+  "name": "San Andres National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 32.4118,
+   "longitude": -106.6401
+  },
+  "ne": {
+   "latitude": 32.8299,
+   "longitude": -106.4618
+  },
+  "lat": 32.6934,
+  "lon": -106.537
+ },
+ {
+  "slug": "san-bernard-national-wildlife-refuge",
+  "name": "San Bernard National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 28.5777,
+   "longitude": -96.317
+  },
+  "ne": {
+   "latitude": 29.6094,
+   "longitude": -95.0612
+  },
+  "lat": 29.134,
+  "lon": -95.7173
+ },
+ {
+  "slug": "san-bernardino-national-wildlife-refuge",
+  "name": "San Bernardino National Wildlife Refuge",
+  "states": [
+   "Arizona"
+  ],
+  "sw": {
+   "latitude": 31.3341,
+   "longitude": -109.2852
+  },
+  "ne": {
+   "latitude": 31.3565,
+   "longitude": -109.2304
+  },
+  "lat": 31.3435,
+  "lon": -109.26
+ },
+ {
+  "slug": "san-diego-bay-national-wildlife-refuge",
+  "name": "San Diego Bay National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 32.5867,
+   "longitude": -117.1345
+  },
+  "ne": {
+   "latitude": 32.6577,
+   "longitude": -117.0884
+  },
+  "lat": 32.6126,
+  "lon": -117.1145
+ },
+ {
+  "slug": "san-diego-national-wildlife-refuge",
+  "name": "San Diego National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 32.5431,
+   "longitude": -117.1985
+  },
+  "ne": {
+   "latitude": 32.9545,
+   "longitude": -116.7879
+  },
+  "lat": 32.6878,
+  "lon": -116.9007
+ },
+ {
+  "slug": "san-joaquin-river-national-wildlife-refuge",
+  "name": "San Joaquin River National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 37.3488,
+   "longitude": -121.2438
+  },
+  "ne": {
+   "latitude": 37.7247,
+   "longitude": -120.9486
+  },
+  "lat": 37.5017,
+  "lon": -121.0778
+ },
+ {
+  "slug": "san-juan-islands-national-wildlife-refuge",
+  "name": "San Juan Islands National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 48.317,
+   "longitude": -123.186
+  },
+  "ne": {
+   "latitude": 48.777,
+   "longitude": -122.5779
+  },
+  "lat": 48.7466,
+  "lon": -122.8361
+ },
+ {
+  "slug": "san-luis-national-wildlife-refuge",
+  "name": "San Luis National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 36.9828,
+   "longitude": -120.9531
+  },
+  "ne": {
+   "latitude": 37.3081,
+   "longitude": -120.5011
+  },
+  "lat": 37.2362,
+  "lon": -120.8522
+ },
+ {
+  "slug": "san-pablo-bay-national-wildlife-refuge",
+  "name": "San Pablo Bay National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 38.0461,
+   "longitude": -122.5297
+  },
+  "ne": {
+   "latitude": 38.2235,
+   "longitude": -122.2594
+  },
+  "lat": 38.1283,
+  "lon": -122.392
+ },
+ {
+  "slug": "sand-lake-national-wildlife-refuge",
+  "name": "Sand Lake National Wildlife Refuge",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 45.6542,
+   "longitude": -98.3159
+  },
+  "ne": {
+   "latitude": 45.8934,
+   "longitude": -98.1654
+  },
+  "lat": 45.7855,
+  "lon": -98.2451
+ },
+ {
+  "slug": "sand-lake-wetland-management-district",
+  "name": "Sand Lake Wetland Management District",
+  "states": [
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 44.6317,
+   "longitude": -102.0007
+  },
+  "ne": {
+   "latitude": 45.9445,
+   "longitude": -97.9772
+  },
+  "lat": 45.397,
+  "lon": -99.7988
+ },
+ {
+  "slug": "sandy-point-national-wildlife-refuge",
+  "name": "Sandy Point National Wildlife Refuge",
+  "states": [
+   "U.S. Virgin Islands"
+  ],
+  "sw": {
+   "latitude": 17.674,
+   "longitude": -64.9019
+  },
+  "ne": {
+   "latitude": 17.6929,
+   "longitude": -64.8782
+  },
+  "lat": 17.6846,
+  "lon": -64.892
+ },
+ {
+  "slug": "santa-ana-national-wildlife-refuge",
+  "name": "Santa Ana National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 26.0504,
+   "longitude": -98.1624
+  },
+  "ne": {
+   "latitude": 26.0853,
+   "longitude": -98.1244
+  },
+  "lat": 26.0695,
+  "lon": -98.1464
+ },
+ {
+  "slug": "santee-national-wildlife-refuge",
+  "name": "Santee National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 33.2105,
+   "longitude": -80.4921
+  },
+  "ne": {
+   "latitude": 33.5971,
+   "longitude": -79.9657
+  },
+  "lat": 33.4975,
+  "lon": -80.3165
+ },
+ {
+  "slug": "sauta-cave-national-wildlife-refuge",
+  "name": "Sauta Cave National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 34.6094,
+   "longitude": -86.1415
+  },
+  "ne": {
+   "latitude": 34.6164,
+   "longitude": -86.1226
+  },
+  "lat": 34.6132,
+  "lon": -86.1318
+ },
+ {
+  "slug": "savannah-national-wildlife-refuge",
+  "name": "Savannah National Wildlife Refuge",
+  "states": [
+   "Georgia",
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 32.1026,
+   "longitude": -81.1999
+  },
+  "ne": {
+   "latitude": 32.351,
+   "longitude": -81.0034
+  },
+  "lat": 32.2217,
+  "lon": -81.135
+ },
+ {
+  "slug": "school-section-lake-national-wildlife-refuge",
+  "name": "School Section Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.9377,
+   "longitude": -100.0077
+  },
+  "ne": {
+   "latitude": 48.9539,
+   "longitude": -99.9868
+  },
+  "lat": 48.9458,
+  "lon": -99.9973
+ },
+ {
+  "slug": "seal-beach-national-wildlife-refuge",
+  "name": "Seal Beach National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 33.7281,
+   "longitude": -118.0898
+  },
+  "ne": {
+   "latitude": 33.7528,
+   "longitude": -118.0603
+  },
+  "lat": 33.7391,
+  "lon": -118.0752
+ },
+ {
+  "slug": "seal-island-national-wildlife-refuge",
+  "name": "Seal Island National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 43.8829,
+   "longitude": -68.7513
+  },
+  "ne": {
+   "latitude": 43.8936,
+   "longitude": -68.7311
+  },
+  "lat": 43.8869,
+  "lon": -68.7411
+ },
+ {
+  "slug": "seatuck-national-wildlife-refuge",
+  "name": "Seatuck National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.7052,
+   "longitude": -73.2135
+  },
+  "ne": {
+   "latitude": 40.7204,
+   "longitude": -73.2037
+  },
+  "lat": 40.7141,
+  "lon": -73.2087
+ },
+ {
+  "slug": "seedskadee-national-wildlife-refuge",
+  "name": "Seedskadee National Wildlife Refuge",
+  "states": [
+   "Wyoming"
+  ],
+  "sw": {
+   "latitude": 41.7269,
+   "longitude": -110.0125
+  },
+  "ne": {
+   "latitude": 41.9726,
+   "longitude": -109.7093
+  },
+  "lat": 41.8554,
+  "lon": -109.8348
+ },
+ {
+  "slug": "selawik-national-wildlife-refuge",
+  "name": "Selawik National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 65.9857,
+   "longitude": -161.8853
+  },
+  "ne": {
+   "latitude": 67.0176,
+   "longitude": -156.4461
+  },
+  "lat": 66.586,
+  "lon": -159.3074
+ },
+ {
+  "slug": "seney-national-wildlife-refuge",
+  "name": "Seney National Wildlife Refuge",
+  "states": [
+   "Michigan"
+  ],
+  "sw": {
+   "latitude": 46.1582,
+   "longitude": -86.2673
+  },
+  "ne": {
+   "latitude": 46.7711,
+   "longitude": -84.9479
+  },
+  "lat": 46.2608,
+  "lon": -86.0919
+ },
+ {
+  "slug": "sequoyah-national-wildlife-refuge",
+  "name": "Sequoyah National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 35.3704,
+   "longitude": -95.1536
+  },
+  "ne": {
+   "latitude": 35.4866,
+   "longitude": -94.9161
+  },
+  "lat": 35.437,
+  "lon": -95.0328
+ },
+ {
+  "slug": "sevilleta-national-wildlife-refuge",
+  "name": "Sevilleta National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 34.1883,
+   "longitude": -107.0898
+  },
+  "ne": {
+   "latitude": 34.422,
+   "longitude": -106.5139
+  },
+  "lat": 34.3195,
+  "lon": -106.8144
+ },
+ {
+  "slug": "shawangunk-grasslands-national-wildlife-refuge",
+  "name": "Shawangunk Grasslands National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 41.629,
+   "longitude": -74.2223
+  },
+  "ne": {
+   "latitude": 41.6492,
+   "longitude": -74.1953
+  },
+  "lat": 41.6368,
+  "lon": -74.2078
+ },
+ {
+  "slug": "sheldon-national-wildlife-refuge",
+  "name": "Sheldon National Wildlife Refuge",
+  "states": [
+   "Nevada",
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 41.577,
+   "longitude": -119.6752
+  },
+  "ne": {
+   "latitude": 42.0261,
+   "longitude": -118.7736
+  },
+  "lat": 41.8173,
+  "lon": -119.2186
+ },
+ {
+  "slug": "shell-keys-national-wildlife-refuge",
+  "name": "Shell Keys National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 29.4114,
+   "longitude": -91.8561
+  },
+  "ne": {
+   "latitude": 29.427,
+   "longitude": -91.8522
+  },
+  "lat": 29.4264,
+  "lon": -91.8538
+ },
+ {
+  "slug": "shell-lake-national-wildlife-refuge",
+  "name": "Shell Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.1679,
+   "longitude": -102.1326
+  },
+  "ne": {
+   "latitude": 48.2114,
+   "longitude": -102.0843
+  },
+  "lat": 48.1846,
+  "lon": -102.1107
+ },
+ {
+  "slug": "sherburne-national-wildlife-refuge",
+  "name": "Sherburne National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 45.4042,
+   "longitude": -93.8456
+  },
+  "ne": {
+   "latitude": 45.5412,
+   "longitude": -93.6309
+  },
+  "lat": 45.4907,
+  "lon": -93.7216
+ },
+ {
+  "slug": "sheyenne-lake-national-wildlife-refuge",
+  "name": "Sheyenne Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.6742,
+   "longitude": -100.2036
+  },
+  "ne": {
+   "latitude": 47.7028,
+   "longitude": -100.137
+  },
+  "lat": 47.6956,
+  "lon": -100.1917
+ },
+ {
+  "slug": "shiawassee-national-wildlife-refuge",
+  "name": "Shiawassee National Wildlife Refuge",
+  "states": [
+   "Michigan"
+  ],
+  "sw": {
+   "latitude": 43.3215,
+   "longitude": -84.1016
+  },
+  "ne": {
+   "latitude": 43.4812,
+   "longitude": -83.8642
+  },
+  "lat": 43.366,
+  "lon": -83.9974
+ },
+ {
+  "slug": "sibley-lake-national-wildlife-refuge",
+  "name": "Sibley Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.5078,
+   "longitude": -98.3617
+  },
+  "ne": {
+   "latitude": 47.5367,
+   "longitude": -98.3295
+  },
+  "lat": 47.5217,
+  "lon": -98.3462
+ },
+ {
+  "slug": "siletz-bay-national-wildlife-refuge",
+  "name": "Siletz Bay National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 44.8864,
+   "longitude": -124.0289
+  },
+  "ne": {
+   "latitude": 44.928,
+   "longitude": -123.9897
+  },
+  "lat": 44.9061,
+  "lon": -124.0132
+ },
+ {
+  "slug": "silver-lake-national-wildlife-refuge",
+  "name": "Silver Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.1805,
+   "longitude": -99.2757
+  },
+  "ne": {
+   "latitude": 48.2626,
+   "longitude": -99.1789
+  },
+  "lat": 48.2081,
+  "lon": -99.2363
+ },
+ {
+  "slug": "silvio-o-conte-national-fish-and-wildlife-refuge",
+  "name": "Silvio O. Conte National Fish and Wildlife Refuge",
+  "states": [
+   "Connecticut",
+   "Massachusetts",
+   "New Hampshire",
+   "Vermont"
+  ],
+  "sw": {
+   "latitude": 41.2646,
+   "longitude": -73.2026
+  },
+  "ne": {
+   "latitude": 45.3009,
+   "longitude": -71.0717
+  },
+  "lat": 43.239,
+  "lon": -72.3256
+ },
+ {
+  "slug": "slade-national-wildlife-refuge",
+  "name": "Slade National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.8137,
+   "longitude": -99.743
+  },
+  "ne": {
+   "latitude": 46.8499,
+   "longitude": -99.7007
+  },
+  "lat": 46.8326,
+  "lon": -99.7208
+ },
+ {
+  "slug": "snyder-lake-national-wildlife-refuge",
+  "name": "Snyder Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.6605,
+   "longitude": -99.2426
+  },
+  "ne": {
+   "latitude": 48.7182,
+   "longitude": -99.1989
+  },
+  "lat": 48.6998,
+  "lon": -99.2233
+ },
+ {
+  "slug": "sonny-bono-salton-sea-national-wildlife-refuge",
+  "name": "Sonny Bono Salton Sea National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 33.0632,
+   "longitude": -115.8567
+  },
+  "ne": {
+   "latitude": 33.2506,
+   "longitude": -115.5755
+  },
+  "lat": 33.2065,
+  "lon": -115.7381
+ },
+ {
+  "slug": "southern-maryland-woodlands-national-wildlife-refuge",
+  "name": "Southern Maryland Woodlands National Wildlife Refuge",
+  "states": [
+   "Maryland"
+  ],
+  "sw": {
+   "latitude": 38.2017,
+   "longitude": -77.2739
+  },
+  "ne": {
+   "latitude": 39.0951,
+   "longitude": -76.3802
+  },
+  "lat": 38.5181,
+  "lon": -77.0141
+ },
+ {
+  "slug": "springwater-national-wildlife-refuge",
+  "name": "Springwater National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.2907,
+   "longitude": -100.1272
+  },
+  "ne": {
+   "latitude": 46.3052,
+   "longitude": -100.0955
+  },
+  "lat": 46.2979,
+  "lon": -100.1114
+ },
+ {
+  "slug": "st-catherine-creek-national-wildlife-refuge",
+  "name": "St. Catherine Creek National Wildlife Refuge",
+  "states": [
+   "Louisiana",
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 31.3045,
+   "longitude": -91.518
+  },
+  "ne": {
+   "latitude": 31.5215,
+   "longitude": -91.3985
+  },
+  "lat": 31.4151,
+  "lon": -91.4663
+ },
+ {
+  "slug": "st-johns-national-wildlife-refuge",
+  "name": "St. Johns National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 28.432,
+   "longitude": -80.9218
+  },
+  "ne": {
+   "latitude": 28.5858,
+   "longitude": -80.8369
+  },
+  "lat": 28.5622,
+  "lon": -80.8856
+ },
+ {
+  "slug": "st-marks-national-wildlife-refuge",
+  "name": "St. Marks National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 29.8634,
+   "longitude": -84.6007
+  },
+  "ne": {
+   "latitude": 30.1994,
+   "longitude": -83.9486
+  },
+  "lat": 30.1124,
+  "lon": -84.2167
+ },
+ {
+  "slug": "st-vincent-national-wildlife-refuge",
+  "name": "St. Vincent National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 29.6285,
+   "longitude": -85.3752
+  },
+  "ne": {
+   "latitude": 29.7165,
+   "longitude": -85.0742
+  },
+  "lat": 29.6619,
+  "lon": -85.1345
+ },
+ {
+  "slug": "steigerwald-lake-national-wildlife-refuge",
+  "name": "Steigerwald Lake National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.5547,
+   "longitude": -122.3405
+  },
+  "ne": {
+   "latitude": 45.5764,
+   "longitude": -122.2669
+  },
+  "lat": 45.5647,
+  "lon": -122.2994
+ },
+ {
+  "slug": "stewart-b-mckinney-national-wildlife-refuge",
+  "name": "Stewart B. McKinney National Wildlife Refuge",
+  "states": [
+   "Connecticut"
+  ],
+  "sw": {
+   "latitude": 40.9893,
+   "longitude": -73.6424
+  },
+  "ne": {
+   "latitude": 41.3308,
+   "longitude": -71.8775
+  },
+  "lat": 41.1603,
+  "lon": -73.143
+ },
+ {
+  "slug": "stewart-lake-national-wildlife-refuge",
+  "name": "Stewart Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.3378,
+   "longitude": -103.4466
+  },
+  "ne": {
+   "latitude": 46.3668,
+   "longitude": -103.4049
+  },
+  "lat": 46.3512,
+  "lon": -103.428
+ },
+ {
+  "slug": "stillwater-national-wildlife-refuge",
+  "name": "Stillwater National Wildlife Refuge",
+  "states": [
+   "Nevada"
+  ],
+  "sw": {
+   "latitude": 39.4606,
+   "longitude": -118.5562
+  },
+  "ne": {
+   "latitude": 39.7246,
+   "longitude": -118.3427
+  },
+  "lat": 39.6181,
+  "lon": -118.4704
+ },
+ {
+  "slug": "stone-lakes-national-wildlife-refuge",
+  "name": "Stone Lakes National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 38.2689,
+   "longitude": -121.5112
+  },
+  "ne": {
+   "latitude": 38.4654,
+   "longitude": -121.4459
+  },
+  "lat": 38.3403,
+  "lon": -121.4877
+ },
+ {
+  "slug": "stoney-slough-national-wildlife-refuge",
+  "name": "Stoney Slough National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.7179,
+   "longitude": -98.1657
+  },
+  "ne": {
+   "latitude": 46.7399,
+   "longitude": -98.1025
+  },
+  "lat": 46.7263,
+  "lon": -98.1359
+ },
+ {
+  "slug": "storm-lake-national-wildlife-refuge",
+  "name": "Storm Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.2467,
+   "longitude": -97.4887
+  },
+  "ne": {
+   "latitude": 46.2685,
+   "longitude": -97.4561
+  },
+  "lat": 46.2552,
+  "lon": -97.4714
+ },
+ {
+  "slug": "stump-lake-national-wildlife-refuge",
+  "name": "Stump Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.8966,
+   "longitude": -98.4562
+  },
+  "ne": {
+   "latitude": 47.9181,
+   "longitude": -98.4363
+  },
+  "lat": 47.9126,
+  "lon": -98.4531
+ },
+ {
+  "slug": "sunburst-lake-national-wildlife-refuge",
+  "name": "Sunburst Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.3567,
+   "longitude": -100.5046
+  },
+  "ne": {
+   "latitude": 46.3717,
+   "longitude": -100.4836
+  },
+  "lat": 46.3654,
+  "lon": -100.4924
+ },
+ {
+  "slug": "sunkhaze-meadows-national-wildlife-refuge",
+  "name": "Sunkhaze Meadows National Wildlife Refuge",
+  "states": [
+   "Maine"
+  ],
+  "sw": {
+   "latitude": 44.9401,
+   "longitude": -68.635
+  },
+  "ne": {
+   "latitude": 45.0235,
+   "longitude": -68.5082
+  },
+  "lat": 44.9858,
+  "lon": -68.5655
+ },
+ {
+  "slug": "supawna-meadows-national-wildlife-refuge",
+  "name": "Supawna Meadows National Wildlife Refuge",
+  "states": [
+   "Delaware",
+   "New Jersey"
+  ],
+  "sw": {
+   "latitude": 39.5713,
+   "longitude": -75.5572
+  },
+  "ne": {
+   "latitude": 39.6301,
+   "longitude": -75.4743
+  },
+  "lat": 39.6007,
+  "lon": -75.5198
+ },
+ {
+  "slug": "susquehanna-national-wildlife-refuge",
+  "name": "Susquehanna National Wildlife Refuge",
+  "states": [
+   "Maryland"
+  ],
+  "sw": {
+   "latitude": 39.4945,
+   "longitude": -76.0843
+  },
+  "ne": {
+   "latitude": 39.4955,
+   "longitude": -76.0829
+  },
+  "lat": 39.4947,
+  "lon": -76.0834
+ },
+ {
+  "slug": "sutter-national-wildlife-refuge",
+  "name": "Sutter National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 38.987,
+   "longitude": -121.7875
+  },
+  "ne": {
+   "latitude": 39.1209,
+   "longitude": -121.7181
+  },
+  "lat": 39.0582,
+  "lon": -121.7489
+ },
+ {
+  "slug": "swan-lake-national-wildlife-refuge",
+  "name": "Swan Lake National Wildlife Refuge",
+  "states": [
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 39.5691,
+   "longitude": -93.241
+  },
+  "ne": {
+   "latitude": 39.6459,
+   "longitude": -93.1297
+  },
+  "lat": 39.6112,
+  "lon": -93.1852
+ },
+ {
+  "slug": "swan-river-national-wildlife-refuge",
+  "name": "Swan River National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.8815,
+   "longitude": -113.8877
+  },
+  "ne": {
+   "latitude": 47.9296,
+   "longitude": -113.8351
+  },
+  "lat": 47.9031,
+  "lon": -113.8587
+ },
+ {
+  "slug": "swanquarter-national-wildlife-refuge",
+  "name": "Swanquarter National Wildlife Refuge",
+  "states": [
+   "North Carolina"
+  ],
+  "sw": {
+   "latitude": 35.294,
+   "longitude": -76.4407
+  },
+  "ne": {
+   "latitude": 35.4578,
+   "longitude": -76.178
+  },
+  "lat": 35.3622,
+  "lon": -76.3163
+ },
+ {
+  "slug": "tallahatchie-national-wildlife-refuge",
+  "name": "Tallahatchie National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.7253,
+   "longitude": -90.1752
+  },
+  "ne": {
+   "latitude": 33.8685,
+   "longitude": -90.0345
+  },
+  "lat": 33.7919,
+  "lon": -90.1035
+ },
+ {
+  "slug": "tamarac-national-wildlife-refuge",
+  "name": "Tamarac National Wildlife Refuge",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 46.8904,
+   "longitude": -95.71
+  },
+  "ne": {
+   "latitude": 47.0862,
+   "longitude": -95.5408
+  },
+  "lat": 46.9823,
+  "lon": -95.6188
+ },
+ {
+  "slug": "target-rock-national-wildlife-refuge",
+  "name": "Target Rock National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.9245,
+   "longitude": -73.4407
+  },
+  "ne": {
+   "latitude": 40.9298,
+   "longitude": -73.4297
+  },
+  "lat": 40.9265,
+  "lon": -73.434
+ },
+ {
+  "slug": "ten-thousand-islands-national-wildlife-refuge",
+  "name": "Ten Thousand Islands National Wildlife Refuge",
+  "states": [
+   "Florida"
+  ],
+  "sw": {
+   "latitude": 25.8026,
+   "longitude": -81.6528
+  },
+  "ne": {
+   "latitude": 25.9906,
+   "longitude": -81.4963
+  },
+  "lat": 25.9134,
+  "lon": -81.5675
+ },
+ {
+  "slug": "tennessee-national-wildlife-refuge",
+  "name": "Tennessee National Wildlife Refuge",
+  "states": [
+   "Tennessee"
+  ],
+  "sw": {
+   "latitude": 35.6454,
+   "longitude": -88.1625
+  },
+  "ne": {
+   "latitude": 36.4197,
+   "longitude": -87.8691
+  },
+  "lat": 35.9345,
+  "lon": -87.9488
+ },
+ {
+  "slug": "tensas-river-national-wildlife-refuge",
+  "name": "Tensas River National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 32.0688,
+   "longitude": -91.487
+  },
+  "ne": {
+   "latitude": 32.5228,
+   "longitude": -91.2057
+  },
+  "lat": 32.2627,
+  "lon": -91.3728
+ },
+ {
+  "slug": "tetlin-national-wildlife-refuge",
+  "name": "Tetlin National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 62.4239,
+   "longitude": -142.8821
+  },
+  "ne": {
+   "latitude": 63.2197,
+   "longitude": -141.0015
+  },
+  "lat": 62.7164,
+  "lon": -141.8507
+ },
+ {
+  "slug": "tewaukon-national-wildlife-refuge",
+  "name": "Tewaukon National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 45.9869,
+   "longitude": -97.5665
+  },
+  "ne": {
+   "latitude": 46.0513,
+   "longitude": -97.3175
+  },
+  "lat": 46.0028,
+  "lon": -97.3863
+ },
+ {
+  "slug": "tewaukon-wetland-management-district",
+  "name": "Tewaukon Wetland Management District",
+  "states": [
+   "Minnesota",
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 45.9352,
+   "longitude": -98.0345
+  },
+  "ne": {
+   "latitude": 46.6316,
+   "longitude": -96.5545
+  },
+  "lat": 46.2742,
+  "lon": -97.3275
+ },
+ {
+  "slug": "texas-point-national-wildlife-refuge",
+  "name": "Texas Point National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.6778,
+   "longitude": -93.9824
+  },
+  "ne": {
+   "latitude": 29.7303,
+   "longitude": -93.8391
+  },
+  "lat": 29.6957,
+  "lon": -93.9008
+ },
+ {
+  "slug": "thacher-island-national-wildlife-refuge",
+  "name": "Thacher Island National Wildlife Refuge",
+  "states": [
+   "Massachusetts"
+  ],
+  "sw": {
+   "latitude": 42.6377,
+   "longitude": -70.5779
+  },
+  "ne": {
+   "latitude": 42.6406,
+   "longitude": -70.5728
+  },
+  "lat": 42.6389,
+  "lon": -70.5749
+ },
+ {
+  "slug": "theodore-roosevelt-national-wildlife-refuge",
+  "name": "Theodore Roosevelt National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 32.6882,
+   "longitude": -90.9134
+  },
+  "ne": {
+   "latitude": 32.7491,
+   "longitude": -90.8616
+  },
+  "lat": 32.722,
+  "lon": -90.8848
+ },
+ {
+  "slug": "three-arch-rocks-national-wildlife-refuge",
+  "name": "Three Arch Rocks National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.4589,
+   "longitude": -123.9933
+  },
+  "ne": {
+   "latitude": 45.4664,
+   "longitude": -123.9773
+  },
+  "lat": 45.4622,
+  "lon": -123.9857
+ },
+ {
+  "slug": "tijuana-slough-national-wildlife-refuge",
+  "name": "Tijuana Slough National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 32.5362,
+   "longitude": -117.1325
+  },
+  "ne": {
+   "latitude": 32.5758,
+   "longitude": -117.0972
+  },
+  "lat": 32.5557,
+  "lon": -117.1195
+ },
+ {
+  "slug": "tishomingo-national-wildlife-refuge",
+  "name": "Tishomingo National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 34.1225,
+   "longitude": -96.7103
+  },
+  "ne": {
+   "latitude": 34.2252,
+   "longitude": -96.5838
+  },
+  "lat": 34.178,
+  "lon": -96.6394
+ },
+ {
+  "slug": "togiak-national-wildlife-refuge",
+  "name": "Togiak National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 58.3935,
+   "longitude": -162.1753
+  },
+  "ne": {
+   "latitude": 60.1262,
+   "longitude": -158.5296
+  },
+  "lat": 59.3359,
+  "lon": -160.2133
+ },
+ {
+  "slug": "tomahawk-national-wildlife-refuge",
+  "name": "Tomahawk National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.0707,
+   "longitude": -98.193
+  },
+  "ne": {
+   "latitude": 47.0851,
+   "longitude": -98.1663
+  },
+  "lat": 47.0773,
+  "lon": -98.1797
+ },
+ {
+  "slug": "toppenish-national-wildlife-refuge",
+  "name": "Toppenish National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.252,
+   "longitude": -120.6122
+  },
+  "ne": {
+   "latitude": 46.3463,
+   "longitude": -120.0881
+  },
+  "lat": 46.3149,
+  "lon": -120.3285
+ },
+ {
+  "slug": "trempealeau-national-wildlife-refuge",
+  "name": "Trempealeau National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 44.0195,
+   "longitude": -91.6272
+  },
+  "ne": {
+   "latitude": 44.0987,
+   "longitude": -91.4952
+  },
+  "lat": 44.0471,
+  "lon": -91.5409
+ },
+ {
+  "slug": "trinity-river-national-wildlife-refuge",
+  "name": "Trinity River National Wildlife Refuge",
+  "states": [
+   "Texas"
+  ],
+  "sw": {
+   "latitude": 29.8969,
+   "longitude": -94.9267
+  },
+  "ne": {
+   "latitude": 30.4136,
+   "longitude": -94.7475
+  },
+  "lat": 30.2469,
+  "lon": -94.8281
+ },
+ {
+  "slug": "trustom-pond-national-wildlife-refuge",
+  "name": "Trustom Pond National Wildlife Refuge",
+  "states": [
+   "Rhode Island"
+  ],
+  "sw": {
+   "latitude": 41.3653,
+   "longitude": -71.6049
+  },
+  "ne": {
+   "latitude": 41.4097,
+   "longitude": -71.5554
+  },
+  "lat": 41.3866,
+  "lon": -71.5819
+ },
+ {
+  "slug": "tualatin-river-national-wildlife-refuge",
+  "name": "Tualatin River National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.3426,
+   "longitude": -122.9051
+  },
+  "ne": {
+   "latitude": 45.4148,
+   "longitude": -122.8059
+  },
+  "lat": 45.3886,
+  "lon": -122.8449
+ },
+ {
+  "slug": "tule-lake-national-wildlife-refuge",
+  "name": "Tule Lake National Wildlife Refuge",
+  "states": [
+   "California"
+  ],
+  "sw": {
+   "latitude": 41.7945,
+   "longitude": -121.5934
+  },
+  "ne": {
+   "latitude": 41.9866,
+   "longitude": -121.3793
+  },
+  "lat": 41.8785,
+  "lon": -121.4927
+ },
+ {
+  "slug": "turnbull-national-wildlife-refuge",
+  "name": "Turnbull National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 47.345,
+   "longitude": -117.7364
+  },
+  "ne": {
+   "latitude": 47.5183,
+   "longitude": -117.4342
+  },
+  "lat": 47.3922,
+  "lon": -117.627
+ },
+ {
+  "slug": "two-ponds-national-wildlife-refuge",
+  "name": "Two Ponds National Wildlife Refuge",
+  "states": [
+   "Colorado"
+  ],
+  "sw": {
+   "latitude": 39.8372,
+   "longitude": -105.1099
+  },
+  "ne": {
+   "latitude": 39.8417,
+   "longitude": -105.1007
+  },
+  "lat": 39.8396,
+  "lon": -105.1053
+ },
+ {
+  "slug": "two-rivers-national-wildlife-refuge",
+  "name": "Two Rivers National Wildlife Refuge",
+  "states": [
+   "Illinois",
+   "Missouri"
+  ],
+  "sw": {
+   "latitude": 38.9246,
+   "longitude": -90.7025
+  },
+  "ne": {
+   "latitude": 39.3605,
+   "longitude": -90.3428
+  },
+  "lat": 38.9605,
+  "lon": -90.5464
+ },
+ {
+  "slug": "tybee-national-wildlife-refuge",
+  "name": "Tybee National Wildlife Refuge",
+  "states": [
+   "Georgia",
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 32.0374,
+   "longitude": -80.9366
+  },
+  "ne": {
+   "latitude": 32.0589,
+   "longitude": -80.8837
+  },
+  "lat": 32.0451,
+  "lon": -80.9126
+ },
+ {
+  "slug": "ul-bend-national-wildlife-refuge",
+  "name": "Ul Bend National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 47.4494,
+   "longitude": -108.0994
+  },
+  "ne": {
+   "latitude": 47.7048,
+   "longitude": -107.7778
+  },
+  "lat": 47.5907,
+  "lon": -107.8972
+ },
+ {
+  "slug": "umatilla-national-wildlife-refuge",
+  "name": "Umatilla National Wildlife Refuge",
+  "states": [
+   "Oregon",
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 45.8319,
+   "longitude": -119.8368
+  },
+  "ne": {
+   "latitude": 45.9395,
+   "longitude": -119.4771
+  },
+  "lat": 45.8871,
+  "lon": -119.6518
+ },
+ {
+  "slug": "umbagog-national-wildlife-refuge",
+  "name": "Umbagog National Wildlife Refuge",
+  "states": [
+   "Maine",
+   "New Hampshire"
+  ],
+  "sw": {
+   "latitude": 44.6346,
+   "longitude": -71.1752
+  },
+  "ne": {
+   "latitude": 44.8972,
+   "longitude": -70.8667
+  },
+  "lat": 44.777,
+  "lon": -71.0237
+ },
+ {
+  "slug": "union-slough-national-wildlife-refuge",
+  "name": "Union Slough National Wildlife Refuge",
+  "states": [
+   "Iowa"
+  ],
+  "sw": {
+   "latitude": 43.1968,
+   "longitude": -94.1727
+  },
+  "ne": {
+   "latitude": 43.3277,
+   "longitude": -94.0688
+  },
+  "lat": 43.2725,
+  "lon": -94.1346
+ },
+ {
+  "slug": "upper-klamath-national-wildlife-refuge",
+  "name": "Upper Klamath National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 42.3013,
+   "longitude": -122.0962
+  },
+  "ne": {
+   "latitude": 42.6465,
+   "longitude": -121.8172
+  },
+  "lat": 42.5454,
+  "lon": -122.0358
+ },
+ {
+  "slug": "upper-mississippi-river-national-wildlife-and-fish-refuge",
+  "name": "Upper Mississippi River National Wildlife and Fish Refuge",
+  "states": [
+   "Iowa",
+   "Illinois",
+   "Minnesota",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 41.6805,
+   "longitude": -92.0831
+  },
+  "ne": {
+   "latitude": 44.4295,
+   "longitude": -90.0715
+  },
+  "lat": 42.7639,
+  "lon": -90.9545
+ },
+ {
+  "slug": "upper-ouachita-national-wildlife-refuge",
+  "name": "Upper Ouachita National Wildlife Refuge",
+  "states": [
+   "Louisiana"
+  ],
+  "sw": {
+   "latitude": 32.7338,
+   "longitude": -92.1905
+  },
+  "ne": {
+   "latitude": 33.0084,
+   "longitude": -91.9587
+  },
+  "lat": 32.9101,
+  "lon": -92.0601
+ },
+ {
+  "slug": "upper-souris-national-wildlife-refuge",
+  "name": "Upper Souris National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.372,
+   "longitude": -101.8355
+  },
+  "ne": {
+   "latitude": 48.8215,
+   "longitude": -101.4899
+  },
+  "lat": 48.5837,
+  "lon": -101.6343
+ },
+ {
+  "slug": "valentine-national-wildlife-refuge",
+  "name": "Valentine National Wildlife Refuge",
+  "states": [
+   "Nebraska"
+  ],
+  "sw": {
+   "latitude": 42.407,
+   "longitude": -100.736
+  },
+  "ne": {
+   "latitude": 42.5967,
+   "longitude": -100.3495
+  },
+  "lat": 42.498,
+  "lon": -100.5644
+ },
+ {
+  "slug": "valle-de-oro-national-wildlife-refuge",
+  "name": "Valle de Oro National Wildlife Refuge",
+  "states": [
+   "New Mexico"
+  ],
+  "sw": {
+   "latitude": 34.9713,
+   "longitude": -106.6851
+  },
+  "ne": {
+   "latitude": 34.986,
+   "longitude": -106.6658
+  },
+  "lat": 34.9782,
+  "lon": -106.6797
+ },
+ {
+  "slug": "valley-city-wetland-management-district",
+  "name": "Valley City Wetland Management District",
+  "states": [
+   "Minnesota",
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.6302,
+   "longitude": -98.5001
+  },
+  "ne": {
+   "latitude": 47.6724,
+   "longitude": -96.7533
+  },
+  "lat": 47.1505,
+  "lon": -97.6467
+ },
+ {
+  "slug": "vieques-national-wildlife-refuge",
+  "name": "Vieques National Wildlife Refuge",
+  "states": [
+   "Puerto Rico"
+  ],
+  "sw": {
+   "latitude": 18.0813,
+   "longitude": -65.5778
+  },
+  "ne": {
+   "latitude": 18.1625,
+   "longitude": -65.2676
+  },
+  "lat": 18.1337,
+  "lon": -65.3736
+ },
+ {
+  "slug": "waccamaw-national-wildlife-refuge",
+  "name": "Waccamaw National Wildlife Refuge",
+  "states": [
+   "South Carolina"
+  ],
+  "sw": {
+   "latitude": 33.463,
+   "longitude": -79.2972
+  },
+  "ne": {
+   "latitude": 33.838,
+   "longitude": -79.0201
+  },
+  "lat": 33.6411,
+  "lon": -79.1194
+ },
+ {
+  "slug": "wake-atoll-national-wildlife-refuge",
+  "name": "Wake Atoll National Wildlife Refuge",
+  "states": [],
+  "sw": {
+   "latitude": 19.0685,
+   "longitude": 166.383
+  },
+  "ne": {
+   "latitude": 19.5252,
+   "longitude": 166.8695
+  },
+  "lat": 19.2971,
+  "lon": 166.6291
+ },
+ {
+  "slug": "wallkill-river-national-wildlife-refuge",
+  "name": "Wallkill River National Wildlife Refuge",
+  "states": [
+   "New Jersey",
+   "New York"
+  ],
+  "sw": {
+   "latitude": 41.1333,
+   "longitude": -74.7366
+  },
+  "ne": {
+   "latitude": 41.2992,
+   "longitude": -74.5176
+  },
+  "lat": 41.2241,
+  "lon": -74.5781
+ },
+ {
+  "slug": "wallops-island-national-wildlife-refuge",
+  "name": "Wallops Island National Wildlife Refuge",
+  "states": [
+   "Virginia"
+  ],
+  "sw": {
+   "latitude": 37.9141,
+   "longitude": -75.4808
+  },
+  "ne": {
+   "latitude": 37.9347,
+   "longitude": -75.4563
+  },
+  "lat": 37.9238,
+  "lon": -75.466
+ },
+ {
+  "slug": "wapack-national-wildlife-refuge",
+  "name": "Wapack National Wildlife Refuge",
+  "states": [
+   "New Hampshire"
+  ],
+  "sw": {
+   "latitude": 42.8716,
+   "longitude": -71.8826
+  },
+  "ne": {
+   "latitude": 42.9036,
+   "longitude": -71.8428
+  },
+  "lat": 42.8877,
+  "lon": -71.8662
+ },
+ {
+  "slug": "wapanocca-national-wildlife-refuge",
+  "name": "Wapanocca National Wildlife Refuge",
+  "states": [
+   "Arkansas"
+  ],
+  "sw": {
+   "latitude": 35.3097,
+   "longitude": -90.2553
+  },
+  "ne": {
+   "latitude": 35.3746,
+   "longitude": -90.1468
+  },
+  "lat": 35.3435,
+  "lon": -90.2128
+ },
+ {
+  "slug": "wapato-lake-national-wildlife-refuge",
+  "name": "Wapato Lake National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 45.3748,
+   "longitude": -123.1431
+  },
+  "ne": {
+   "latitude": 45.4801,
+   "longitude": -123.0894
+  },
+  "lat": 45.431,
+  "lon": -123.1216
+ },
+ {
+  "slug": "war-horse-national-wildlife-refuge",
+  "name": "War Horse National Wildlife Refuge",
+  "states": [
+   "Montana"
+  ],
+  "sw": {
+   "latitude": 46.8798,
+   "longitude": -108.5882
+  },
+  "ne": {
+   "latitude": 47.1705,
+   "longitude": -108.4469
+  },
+  "lat": 46.8929,
+  "lon": -108.4884
+ },
+ {
+  "slug": "washita-national-wildlife-refuge",
+  "name": "Washita National Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 35.5662,
+   "longitude": -99.3148
+  },
+  "ne": {
+   "latitude": 35.6605,
+   "longitude": -99.2196
+  },
+  "lat": 35.615,
+  "lon": -99.2627
+ },
+ {
+  "slug": "wassaw-national-wildlife-refuge",
+  "name": "Wassaw National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 31.8583,
+   "longitude": -81.0549
+  },
+  "ne": {
+   "latitude": 31.9294,
+   "longitude": -80.9345
+  },
+  "lat": 31.8943,
+  "lon": -80.9951
+ },
+ {
+  "slug": "watercress-darter-national-wildlife-refuge",
+  "name": "Watercress Darter National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 33.373,
+   "longitude": -86.9729
+  },
+  "ne": {
+   "latitude": 33.5865,
+   "longitude": -86.7077
+  },
+  "lat": 33.5828,
+  "lon": -86.7117
+ },
+ {
+  "slug": "waubay-national-wildlife-refuge",
+  "name": "Waubay National Wildlife Refuge",
+  "states": [
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 45.3987,
+   "longitude": -97.3866
+  },
+  "ne": {
+   "latitude": 45.4427,
+   "longitude": -97.2977
+  },
+  "lat": 45.4216,
+  "lon": -97.3374
+ },
+ {
+  "slug": "waubay-wetland-management-district",
+  "name": "Waubay Wetland Management District",
+  "states": [
+   "Minnesota",
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 44.5439,
+   "longitude": -97.9831
+  },
+  "ne": {
+   "latitude": 45.936,
+   "longitude": -96.4521
+  },
+  "lat": 45.3217,
+  "lon": -97.3306
+ },
+ {
+  "slug": "wertheim-national-wildlife-refuge",
+  "name": "Wertheim National Wildlife Refuge",
+  "states": [
+   "New York"
+  ],
+  "sw": {
+   "latitude": 40.7412,
+   "longitude": -73.109
+  },
+  "ne": {
+   "latitude": 41.1418,
+   "longitude": -72.1454
+  },
+  "lat": 40.7789,
+  "lon": -72.8906
+ },
+ {
+  "slug": "west-sister-island-national-wildlife-refuge",
+  "name": "West Sister Island National Wildlife Refuge",
+  "states": [
+   "Ohio"
+  ],
+  "sw": {
+   "latitude": 41.7371,
+   "longitude": -83.1109
+  },
+  "ne": {
+   "latitude": 41.7422,
+   "longitude": -83.1033
+  },
+  "lat": 41.7392,
+  "lon": -83.1059
+ },
+ {
+  "slug": "wheeler-national-wildlife-refuge",
+  "name": "Wheeler National Wildlife Refuge",
+  "states": [
+   "Alabama"
+  ],
+  "sw": {
+   "latitude": 34.4883,
+   "longitude": -86.9736
+  },
+  "ne": {
+   "latitude": 34.6562,
+   "longitude": -86.6135
+  },
+  "lat": 34.6025,
+  "lon": -86.8077
+ },
+ {
+  "slug": "white-horse-hill-national-game-preserve",
+  "name": "White Horse Hill National Game Preserve",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9636,
+   "longitude": -99.0177
+  },
+  "ne": {
+   "latitude": 48.0021,
+   "longitude": -98.9569
+  },
+  "lat": 47.9904,
+  "lon": -98.9715
+ },
+ {
+  "slug": "white-lake-national-wildlife-refuge",
+  "name": "White Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.468,
+   "longitude": -103.2328
+  },
+  "ne": {
+   "latitude": 46.4825,
+   "longitude": -103.1961
+  },
+  "lat": 46.4755,
+  "lon": -103.2133
+ },
+ {
+  "slug": "whittlesey-creek-national-wildlife-refuge",
+  "name": "Whittlesey Creek National Wildlife Refuge",
+  "states": [
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 46.5871,
+   "longitude": -91.0698
+  },
+  "ne": {
+   "latitude": 46.6381,
+   "longitude": -90.9477
+  },
+  "lat": 46.6106,
+  "lon": -91.0213
+ },
+ {
+  "slug": "wichita-mountains-wildlife-refuge",
+  "name": "Wichita Mountains Wildlife Refuge",
+  "states": [
+   "Oklahoma"
+  ],
+  "sw": {
+   "latitude": 34.6817,
+   "longitude": -98.8088
+  },
+  "ne": {
+   "latitude": 34.8264,
+   "longitude": -98.51
+  },
+  "lat": 34.752,
+  "lon": -98.6871
+ },
+ {
+  "slug": "wild-rice-lake-national-wildlife-refuge",
+  "name": "Wild Rice Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.0756,
+   "longitude": -97.4054
+  },
+  "ne": {
+   "latitude": 46.0943,
+   "longitude": -97.3845
+  },
+  "lat": 46.0853,
+  "lon": -97.3952
+ },
+ {
+  "slug": "willapa-national-wildlife-refuge",
+  "name": "Willapa National Wildlife Refuge",
+  "states": [
+   "Washington"
+  ],
+  "sw": {
+   "latitude": 46.3264,
+   "longitude": -124.091
+  },
+  "ne": {
+   "latitude": 46.7364,
+   "longitude": -123.8919
+  },
+  "lat": 46.3712,
+  "lon": -123.9327
+ },
+ {
+  "slug": "william-l-finley-national-wildlife-refuge",
+  "name": "William L. Finley National Wildlife Refuge",
+  "states": [
+   "Oregon"
+  ],
+  "sw": {
+   "latitude": 44.3773,
+   "longitude": -123.3537
+  },
+  "ne": {
+   "latitude": 44.4372,
+   "longitude": -123.2009
+  },
+  "lat": 44.4052,
+  "lon": -123.3159
+ },
+ {
+  "slug": "willow-lake-national-wildlife-refuge",
+  "name": "Willow Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 48.9069,
+   "longitude": -100.1696
+  },
+  "ne": {
+   "latitude": 48.9467,
+   "longitude": -100.0483
+  },
+  "lat": 48.9219,
+  "lon": -100.144
+ },
+ {
+  "slug": "wintering-river-national-wildlife-refuge",
+  "name": "Wintering River National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9242,
+   "longitude": -100.7791
+  },
+  "ne": {
+   "latitude": 47.9351,
+   "longitude": -100.7574
+  },
+  "lat": 47.9303,
+  "lon": -100.7683
+ },
+ {
+  "slug": "wolf-island-national-wildlife-refuge",
+  "name": "Wolf Island National Wildlife Refuge",
+  "states": [
+   "Georgia"
+  ],
+  "sw": {
+   "latitude": 31.2925,
+   "longitude": -81.3369
+  },
+  "ne": {
+   "latitude": 31.3692,
+   "longitude": -81.2834
+  },
+  "lat": 31.3464,
+  "lon": -81.306
+ },
+ {
+  "slug": "wood-lake-national-wildlife-refuge",
+  "name": "Wood Lake National Wildlife Refuge",
+  "states": [
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 47.9056,
+   "longitude": -98.8456
+  },
+  "ne": {
+   "latitude": 47.9202,
+   "longitude": -98.8347
+  },
+  "lat": 47.9138,
+  "lon": -98.8399
+ },
+ {
+  "slug": "yazoo-national-wildlife-refuge",
+  "name": "Yazoo National Wildlife Refuge",
+  "states": [
+   "Mississippi"
+  ],
+  "sw": {
+   "latitude": 33.0312,
+   "longitude": -91.0416
+  },
+  "ne": {
+   "latitude": 33.1419,
+   "longitude": -90.94
+  },
+  "lat": 33.0958,
+  "lon": -90.9934
+ },
+ {
+  "slug": "yukon-delta-national-wildlife-refuge",
+  "name": "Yukon Delta National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 59.6325,
+   "longitude": -167.8523
+  },
+  "ne": {
+   "latitude": 63.4884,
+   "longitude": -159.137
+  },
+  "lat": 61.2823,
+  "lon": -163.261
+ },
+ {
+  "slug": "yukon-flats-national-wildlife-refuge",
+  "name": "Yukon Flats National Wildlife Refuge",
+  "states": [
+   "Alaska"
+  ],
+  "sw": {
+   "latitude": 65.7151,
+   "longitude": -150.0418
+  },
+  "ne": {
+   "latitude": 67.4614,
+   "longitude": -141.9816
+  },
+  "lat": 66.5101,
+  "lon": -145.9857
+ },
+ {
+  "slug": "zz",
+  "name": "Zz",
+  "states": [
+   "Iowa",
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 41.4818,
+   "longitude": -95.8612
+  },
+  "ne": {
+   "latitude": 43.5008,
+   "longitude": -92.5332
+  },
+  "lat": 42.6068,
+  "lon": -94.0679
+ },
+ {
+  "slug": "zz-fws",
+  "name": "Zz",
+  "states": [
+   "Illinois",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 42.492,
+   "longitude": -90.3124
+  },
+  "ne": {
+   "latitude": 44.3276,
+   "longitude": -87.5072
+  },
+  "lat": 43.4464,
+  "lon": -88.8514
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 46.2766,
+   "longitude": -95.6031
+  },
+  "ne": {
+   "latitude": 48.7118,
+   "longitude": -93.0807
+  },
+  "lat": 47.7077,
+  "lon": -94.4961
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 43.5004,
+   "longitude": -96.4533
+  },
+  "ne": {
+   "latitude": 44.6985,
+   "longitude": -92.449
+  },
+  "lat": 43.8799,
+  "lon": -94.8295
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Michigan",
+   "Ohio"
+  ],
+  "sw": {
+   "latitude": 41.6961,
+   "longitude": -86.3648
+  },
+  "ne": {
+   "latitude": 43.2948,
+   "longitude": -83.6642
+  },
+  "lat": 42.3857,
+  "lon": -85.0827
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 44.4562,
+   "longitude": -95.4835
+  },
+  "ne": {
+   "latitude": 47.0304,
+   "longitude": -93.0539
+  },
+  "lat": 45.2979,
+  "lon": -94.6552
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 46.6291,
+   "longitude": -97.1633
+  },
+  "ne": {
+   "latitude": 48.5445,
+   "longitude": -95.1623
+  },
+  "lat": 47.5561,
+  "lon": -96.2339
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 43.8477,
+   "longitude": -94.7868
+  },
+  "ne": {
+   "latitude": 45.731,
+   "longitude": -92.6465
+  },
+  "lat": 44.5651,
+  "lon": -93.5606
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "Wisconsin"
+  ],
+  "sw": {
+   "latitude": 44.4073,
+   "longitude": -92.8894
+  },
+  "ne": {
+   "latitude": 46.1577,
+   "longitude": -91.5402
+  },
+  "lat": 45.3445,
+  "lon": -92.1537
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "North Dakota",
+   "South Dakota"
+  ],
+  "sw": {
+   "latitude": 44.5416,
+   "longitude": -96.8578
+  },
+  "ne": {
+   "latitude": 46.0219,
+   "longitude": -95.1316
+  },
+  "lat": 45.2743,
+  "lon": -95.9317
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota",
+   "North Dakota"
+  ],
+  "sw": {
+   "latitude": 45.7589,
+   "longitude": -96.7911
+  },
+  "ne": {
+   "latitude": 46.8054,
+   "longitude": -94.728
+  },
+  "lat": 46.2937,
+  "lon": -95.7412
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "states": [
+   "Minnesota"
+  ],
+  "sw": {
+   "latitude": 44.1957,
+   "longitude": -96.4528
+  },
+  "ne": {
+   "latitude": 44.6312,
+   "longitude": -95.5935
+  },
+  "lat": 44.413,
+  "lon": -96.0242
+ }
+]

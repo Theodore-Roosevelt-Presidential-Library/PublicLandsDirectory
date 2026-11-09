@@ -1,0 +1,28 @@
+{
+  "slug": "loess-bluffs-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-08-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established on August 23, 1935 by President Franklin D.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Loess Bluffs National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/loess-bluffs/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

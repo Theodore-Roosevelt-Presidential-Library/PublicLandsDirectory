@@ -1,0 +1,48 @@
+{
+  "slug": "william-b-bankhead-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-06-19",
+      "action": "established",
+      "designation": "National Forest",
+      "name": "Black Warrior Forest Reserve",
+      "indexText": "Black Warrior: 1-F.R. 645 Established. 49 Stat. 3526",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2178"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1942-06-06",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "William B. Bankhead National Forest",
+      "indexText": "Black Warrior: Name changed to William B. Bankhead.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Public Law 595, 56 Stat. 327"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 84",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

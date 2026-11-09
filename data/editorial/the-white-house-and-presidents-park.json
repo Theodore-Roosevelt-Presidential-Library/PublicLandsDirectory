@@ -1,270 +1,71 @@
 {
   "slug": "the-white-house-and-presidents-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1933-08-10",
-      "action": "established",
+      "action": "transferred",
       "designation": null,
       "name": null,
-      "indexText": "Transferred Aug. 10, 1933, to National Park Service, the legal successor of three Federal Commissioners appointed by the president under the act of July 16, 1790, who directed initial construction",
+      "indexText": "Transferred to the National Park Service, Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1790-07-16",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Transferred Aug. 10, 1933, to National Park Service, the legal successor of three Federal Commissioners appointed by the president under the act of July 16, 1790, who directed initial construction",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "George Washington",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1802-05-01",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Their authority developed through acts of May 1, 1802",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Thomas Jefferson",
-        "citation": null
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR). Action corrected from \"established\": this was a transfer of administration.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
       },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1816-04-29",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "April 29, 1816",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "James Madison",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1849-03-03",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "March 3, 1849",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "James K. Polk",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1867-03-02",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "March 2, 1867",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Andrew Johnson",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1898-07-01",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "July 1, 1898",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "William McKinley",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1925-02-26",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Feb. 26, 1925",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Calvin Coolidge",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1933-03-03",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "March 3, 1933",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Herbert Hoover",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1933-06-10",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "And Executive Order of June 10, 1933",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Franklin D. Roosevelt",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+      "indexOriginal": "Transferred Aug. 10, 1933, to National Park Service, the legal successor of three Federal Commissioners appointed by the president under the act of July 16, 1790, who directed initial construction"
     },
     {
       "date": "1961-09-22",
-      "action": "transferred",
+      "action": "designated",
       "designation": null,
       "name": null,
       "indexText": "Under act of Sept. 22, 1961, “the White House . . . shall be administered pursuant to the act of August 25, 1916” and supplementary and amendatory acts",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-286, 75 Stat. 586"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1916-08-25",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Under act of Sept. 22, 1961, “the White House . . . shall be administered pursuant to the act of August 25, 1916” and supplementary and amendatory acts",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Woodrow Wilson",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 45",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "75 Stat. 586 (Statutes at Large, govinfo): P.L. 87-286, Sept. 22, 1961",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg586-2.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-286: the White House \"shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916\" (JFK). The Index ellipsis quote is faithful.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

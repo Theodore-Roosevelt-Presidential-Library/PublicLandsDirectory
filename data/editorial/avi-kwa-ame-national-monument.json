@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 10533, 88 FR 17987",
           "url": "https://www.federalregister.gov/documents/2023/03/27/2023-06387/establishment-of-the-avi-kwa-ame-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10533—Establishment of the Avi Kwa Ame National Monument, March 21, 2023",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10533-establishment-the-avi-kwa-ame-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10533, 88 FR 17987, signed 2023-03-21; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

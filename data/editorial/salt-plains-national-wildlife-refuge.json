@@ -1,0 +1,27 @@
+{
+  "slug": "salt-plains-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1930-03-26",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Salt Plains National Wildlife Refuge was established March 26, 1930, originally encompassing the majority of the salt flats.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Salt Plains National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/salt-plains/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

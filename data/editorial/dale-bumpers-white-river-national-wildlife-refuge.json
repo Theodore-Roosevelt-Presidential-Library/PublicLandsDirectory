@@ -1,0 +1,28 @@
+{
+  "slug": "dale-bumpers-white-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-09-05",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Dale Bumpers White River National Wildlife Refuge was established on September 5, 1935 by President Franklin D.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Dale Bumpers White River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/dale-bumpers-white-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

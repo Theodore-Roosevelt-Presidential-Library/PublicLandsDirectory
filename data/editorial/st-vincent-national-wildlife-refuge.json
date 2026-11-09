@@ -1,0 +1,28 @@
+{
+  "slug": "st-vincent-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1822",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Up until the Port of Apalachicola was established in 1822, land around the Apalachicola area was occupied by Native Americans.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Native Americans",
+        "citation": null,
+        "signedBy": "Native Americans"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: St. Vincent National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/st-vincent/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

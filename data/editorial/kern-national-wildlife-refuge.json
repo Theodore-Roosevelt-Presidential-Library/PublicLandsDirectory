@@ -1,0 +1,27 @@
+{
+  "slug": "kern-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-11-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Kern National Wildlife Refuge was established on November 18, 1960 and consists of 11,249-acres of natural desert uplands, a relict riparian riparian Definition of riparian habitat or riparian areas.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Kern National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/kern/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "minidoka-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1909-02-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Minidoka National Wildlife Refuge was established on February 25, 1909 as part of the executive order 1032 signed by President Theodore Roosevelt for the protection of “native birds.” About half of the refuge’s 20,699 acres is open water and wetlands.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": null,
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Minidoka National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/minidoka/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "petit-manan-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1875",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Egg Rock Light, Winter Harbor, Maine Image Details Station Established - 1875 Present Lighthouse Built - 1875 Automated - 1976 Height of Tower - 40 feet Height of Focal Plane - 64 feet Original Optic / Present Optic - Fifth order Fresnel / 190 mm Fog Signal - Two blasts every 30 seconds Other Structures Still Standing - 1875 keeper’s house (integral to tower) Libby Island Light, Machiasport, Maine",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Island Light",
+        "citation": null,
+        "signedBy": "Island Light"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Petit Manan National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/petit-manan/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

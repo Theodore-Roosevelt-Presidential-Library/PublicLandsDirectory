@@ -1,0 +1,27 @@
+{
+  "slug": "johnston-atoll-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2010",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Air Force takes control. 2009 January 6 - The Pacific Islands Heritage Marine National Monument is established, which expanded the protected boundaries of Johnston Atoll out to 50 miles. 2010 - U.S.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Johnston Atoll National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/johnston-atoll/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

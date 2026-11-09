@@ -1,0 +1,27 @@
+{
+  "slug": "tensas-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Tensas River National Wildlife Refuge was established in 1980 “For the preservation and development of the environmental resources ... to conserve the diversity of fish and wildlife and their habitat ... for the conservation and development of wildlife and natural resources, the development of outdoor recreation opportunities, and interpretative education,” and “to give special consideration to ma",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tensas River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tensas-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

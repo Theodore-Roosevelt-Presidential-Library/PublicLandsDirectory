@@ -1,0 +1,27 @@
+{
+  "slug": "bamforth-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Bamforth National Wildlife Refuge and Hutton Lake National Wildlife Refuge were established by executive orders in 1932 within one day of each other.",
+      "authority": {
+        "type": "executive-order",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bamforth National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bamforth/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

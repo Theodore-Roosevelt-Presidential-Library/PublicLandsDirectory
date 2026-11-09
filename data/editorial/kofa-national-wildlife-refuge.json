@@ -1,0 +1,27 @@
+{
+  "slug": "kofa-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Kofa National Wildlife Refuge was established in 1939 for the protection of desert bighorn sheep and other native wildlife following a 1936 campaign by the Arizona Boy Scouts.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Kofa National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/kofa/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

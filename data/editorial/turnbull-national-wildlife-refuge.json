@@ -1,0 +1,27 @@
+{
+  "slug": "turnbull-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Turnbull National Wildlife Refuge, established in 1937 by Franklin D.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Turnbull National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/turnbull/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

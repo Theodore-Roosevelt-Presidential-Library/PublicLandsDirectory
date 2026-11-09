@@ -1,0 +1,27 @@
+{
+  "slug": "lost-trail-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1999-08-24",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Lost Trail National Wildlife Refuge was established on August 24, 1999 and became the 519th refuge in the National Wildlife Refuge System.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lost Trail National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lost-trail/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

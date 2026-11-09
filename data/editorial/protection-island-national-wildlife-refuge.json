@@ -1,0 +1,27 @@
+{
+  "slug": "protection-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1982",
+      "action": "established",
+      "designation": null,
+      "name": "Wildlife Refuge",
+      "indexText": "Protection Island National Wildlife Refuge Image Details Established as a Wildlife Refuge in 1982 Image Details Image Details Image Details Protection Island National Wildlife Refuge About Us What We Do Projects & Research Law Enforcement Contact Us Visit Us Locations Get Involved News Library Species Map http://www.facebook.com/usfws About Us Image Details Protection Island National Wildlife Refu",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Protection Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/protection-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

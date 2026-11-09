@@ -1,0 +1,28 @@
+{
+  "slug": "cold-springs-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1909-02-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cold Springs National Wildlife Refuge was one of the first refuges established in the West, created by President Theodore Roosevelt on February 25, 1909.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Theodore Roosevelt",
+        "citation": null,
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cold Springs National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cold-springs/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

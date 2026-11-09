@@ -1,0 +1,28 @@
+{
+  "slug": "caloosahatchee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1920-07-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established by President Woodrow Wilson on July 1, 1920, through Executive Order 3299 as a \". . . preserve and breeding ground for native birds\" upon the recommendation of Thomas and Mina Edison.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": null,
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Caloosahatchee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/caloosahatchee/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

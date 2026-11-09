@@ -1,0 +1,48 @@
+{
+  "slug": "ouachita-national-forest",
+  "designationHistory": [
+    {
+      "date": "1907-12-18",
+      "action": "established",
+      "designation": "National Forest",
+      "name": "Arkansas Forest Reserve",
+      "indexText": "Arkansas: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 786, 35 Stat. 2167"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 23",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1926-04-29",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Ouachita National Forest",
+      "indexText": "Arkansas: Name changed to Ouachita.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 4436"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 61",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

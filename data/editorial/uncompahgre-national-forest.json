@@ -1,0 +1,27 @@
+{
+  "slug": "uncompahgre-national-forest",
+  "designationHistory": [
+    {
+      "date": "1905-06-14",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Uncompahgre: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "34 Stat. 3109"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 14",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

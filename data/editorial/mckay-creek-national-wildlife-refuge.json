@@ -1,0 +1,28 @@
+{
+  "slug": "mckay-creek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1927-06-07",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "McKay Creek National Wildlife Refuge was established by President Calvin Coolidge on June 7, 1927, as \"a refuge and breeding ground for birds.\" The 1,837-acre refuge overlays McKay Creek Reservoir, a U.S.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Calvin Coolidge",
+        "citation": null,
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: McKay Creek National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mckay-creek/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "cedar-keys-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1929-07-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cedar Keys National Wildlife Refuge was established on July 16, 1929, by Presidential Executive Order 5158, to protect a breeding ground for colonial nesting migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Presidential Executive Order",
+        "citation": null,
+        "signedBy": "Presidential Executive Order"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cedar Keys National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cedar-keys/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

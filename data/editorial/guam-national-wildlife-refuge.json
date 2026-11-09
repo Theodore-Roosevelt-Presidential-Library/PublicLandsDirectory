@@ -1,0 +1,27 @@
+{
+  "slug": "guam-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Ritidian Unit was established in 1993 in response to the 1984 listing of six species as endangered.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Guam National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/guam/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

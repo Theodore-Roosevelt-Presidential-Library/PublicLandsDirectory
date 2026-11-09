@@ -1,6 +1,6 @@
 {
   "slug": "statue-of-liberty-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1924-10-15",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Calvin Coolidge",
         "administration": "Calvin Coolidge",
-        "citation": null
+        "citation": "Proclamation 1713"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1713, Oct. 15, 1924",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1713-historic-areas-certain-military-reservations-declared-national-monuments"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1713 (Coolidge) declared the Statue of Liberty on Fort Wood, Bedloe's Island, a national monument, with other War Department sites.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -41,32 +55,53 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1965-05-11",
-      "action": "designated",
+      "action": "modified",
       "designation": null,
       "name": null,
-      "indexText": "Ellis Island proclaimed May 11, 1965",
+      "indexText": "Ellis Island added to the Statue of Liberty National Monument by Proclamation 3656, May 11, 1965",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "Proclamation 3656"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3656, May 11, 1965",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3656-adding-ellis-island-the-statue-liberty-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Proclamation 3656 (LBJ) added Ellis Island to the existing monument; this is a modification, not a new designation.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Ellis Island proclaimed May 11, 1965"
     }
   ],
   "historySource": {

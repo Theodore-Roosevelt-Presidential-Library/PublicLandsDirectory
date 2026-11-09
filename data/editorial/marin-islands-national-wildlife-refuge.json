@@ -1,0 +1,27 @@
+{
+  "slug": "marin-islands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1852",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "buildings in San Francisco was quarried from East Marin Island by prisoners from the State penitentiary at San Quentin, established in 1852.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Marin Islands National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/marin-islands/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

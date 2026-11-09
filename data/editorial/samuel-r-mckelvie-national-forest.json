@@ -1,0 +1,27 @@
+{
+  "slug": "samuel-r-mckelvie-national-forest",
+  "designationHistory": [
+    {
+      "date": "1971-10-15",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Samuel R. McKelvie: Established. CT 18,-1971 (Boundary extended) ot designated. ublished in .R. NOV 11, 1971. AN AN",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 142, 85 Stat. 393"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 110",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

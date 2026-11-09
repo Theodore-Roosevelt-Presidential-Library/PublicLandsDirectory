@@ -1,0 +1,27 @@
+{
+  "slug": "benton-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1929",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "the Refuge was established in 1929, the flooding of the wetland basin fluctuated with the amount of natural runoff received.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Benton Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/benton-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

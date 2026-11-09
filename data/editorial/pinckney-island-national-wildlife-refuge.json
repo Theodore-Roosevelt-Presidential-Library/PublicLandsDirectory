@@ -1,0 +1,27 @@
+{
+  "slug": "pinckney-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1975-12-04",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Pinckney Island NWR, established December 4, 1975, was once included in the plantation of Major General Charles Cotesworth Pinckney.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pinckney Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pinckney-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

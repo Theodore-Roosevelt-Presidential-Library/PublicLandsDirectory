@@ -1,0 +1,27 @@
+{
+  "slug": "atchafalaya-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1984",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Atchafalaya National Wildlife Refuge, established in 1984, is located in the floodplain of the Atchafalaya River, a tributary of the Mississippi that flows into the Gulf of Mexico.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Atchafalaya National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/atchafalaya/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

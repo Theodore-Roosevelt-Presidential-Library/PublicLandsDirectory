@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 7320, 65 FR 37259",
           "url": "https://www.federalregister.gov/documents/2000/06/13/00-15112/establishment-of-the-ironwood-forest-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7320—Establishment of the Ironwood Forest National Monument, June 09, 2000",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7320-establishment-the-ironwood-forest-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7320, 65 FR 37259, signed 2000-06-09; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

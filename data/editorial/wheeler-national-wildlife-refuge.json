@@ -1,0 +1,28 @@
+{
+  "slug": "wheeler-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-07-07",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Wheeler National Wildlife Refuge was established on July 7, 1938 by President Franklin D.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Wheeler National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/wheeler/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

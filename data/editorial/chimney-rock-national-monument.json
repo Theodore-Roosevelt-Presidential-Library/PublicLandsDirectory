@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 8868, 77 FR 59275",
           "url": "https://www.federalregister.gov/documents/2012/09/27/2012-23863/establishment-of-the-chimney-rock-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 8868—Establishment of the Chimney Rock National Monument, September 21, 2012",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-8868-establishment-the-chimney-rock-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 8868, 77 FR 59275, signed 2012-09-21; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

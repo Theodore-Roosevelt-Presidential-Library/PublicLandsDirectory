@@ -1,0 +1,28 @@
+{
+  "slug": "tybee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-05-09",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Tybee National Wildlife Refuge (NWR) was established on May 9, 1938, by Executive Order No. 7882, as a breeding area for migratory birds and other wildlife, and to \"effectuate further the purposes of the Migratory Bird Conservation Act.\" The majority of the refuge is covered with sand deposits from the U.S.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order No",
+        "citation": null,
+        "signedBy": "Executive Order No"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tybee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tybee/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

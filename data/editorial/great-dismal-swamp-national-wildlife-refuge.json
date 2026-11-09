@@ -1,0 +1,27 @@
+{
+  "slug": "great-dismal-swamp-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1962",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Great Dismal Swamp National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/great-dismal-swamp/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

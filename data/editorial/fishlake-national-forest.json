@@ -1,0 +1,69 @@
+{
+  "slug": "fishlake-national-forest",
+  "designationHistory": [
+    {
+      "date": "1899-02-10",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Fish Lake Forest Reserve",
+      "indexText": "Fish Lake: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William McKinley",
+        "citation": "30 Stat. 1787"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1908-07-02",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Fishlake National Forest",
+      "indexText": "Fish Lake: Glenwood added. Name changed to Fishlake.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 908"
+      },
+      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 33",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1899-02-10",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Fish Lake: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William McKinley",
+        "citation": "30 Stat. 1787"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

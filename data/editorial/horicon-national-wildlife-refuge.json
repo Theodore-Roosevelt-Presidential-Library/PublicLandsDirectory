@@ -1,0 +1,27 @@
+{
+  "slug": "horicon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established in 1941 to provide an undisturbed sanctuary for a number of migratory birds and waterfowl including the redhead duck as well as to provide opportunities for people to connect with nature through many wildlife dependent recreational activities such as wildlife observation, photography, environmental education, interpretation, fishing and hunting.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Horicon National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/horicon/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "great-swamp-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-11-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established by an act of Congress on November 3, 1960.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Great Swamp National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/great-swamp/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hackmatack-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2012-11-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Hackmatack National Wildlife Refuge was established on November 6, 2012 with the donation of a 12 acre conservation easement conservation easement A conservation easement is a voluntary legal agreement between a landowner and a government agency or qualified conservation organization that restricts the type and amount of development that may take place on a property in the future.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Hackmatack National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/hackmatack/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

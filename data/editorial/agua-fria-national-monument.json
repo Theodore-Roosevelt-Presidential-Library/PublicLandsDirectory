@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 7263, 65 FR 2817",
           "url": "https://www.federalregister.gov/documents/2000/01/18/00-1294/establishment-of-the-agua-fria-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7263—Establishment of the Agua Fria National Monument, January 11, 2000",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7263-establishment-the-agua-fria-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7263, 65 FR 2817, signed 2000-01-11; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

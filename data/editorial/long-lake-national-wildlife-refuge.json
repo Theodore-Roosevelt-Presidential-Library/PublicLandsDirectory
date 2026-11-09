@@ -1,0 +1,28 @@
+{
+  "slug": "long-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-02-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Refuge was established on February 25, 1932 by President Herbert Hoover to provide sanctuary and habitat for migratory birds that use the Central Flyway migration corridor.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Herbert Hoover",
+        "citation": null,
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Long Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/long-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "buenos-aires-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1985",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1985, the refuge was created under the authority of the Endangered Species Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Buenos Aires National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/buenos-aires/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

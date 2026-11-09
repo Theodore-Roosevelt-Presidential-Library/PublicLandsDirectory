@@ -1,0 +1,27 @@
+{
+  "slug": "umatilla-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Umatilla National Wildlife Refuge was original established in 1969 under the authority of the Fish and Wildlife Coordination Act it’s Mission (Purposes) are derived from this law and expanded upon through various public laws, plans, and agreements.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Umatilla National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/umatilla/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

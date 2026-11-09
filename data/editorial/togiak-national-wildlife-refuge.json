@@ -1,0 +1,27 @@
+{
+  "slug": "togiak-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-02-11",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Togiak National Wildlife Refuge was established on February 11, 1980, but is part of a much larger region that has its own special history.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Togiak National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/togiak/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

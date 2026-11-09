@@ -1,0 +1,27 @@
+{
+  "slug": "merritt-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Lake Woodruff National Wildlife Refuge Lake Woodruff NWR was established in 1964 as a migratory bird refuge, part of five million-plus acres purchased by US Fish & Wildlife Service with proceeds from the Federal Duck Stamp Program.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Merritt Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/merritt-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

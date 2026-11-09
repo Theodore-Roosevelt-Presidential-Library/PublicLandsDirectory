@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9559, 82 FR 1149",
           "url": "https://www.federalregister.gov/documents/2017/01/05/2017-00039/establishment-of-the-gold-butte-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9559—Establishment of the Gold Butte National Monument, December 28, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9559-establishment-the-gold-butte-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9559, 82 FR 1149, signed 2016-12-28; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

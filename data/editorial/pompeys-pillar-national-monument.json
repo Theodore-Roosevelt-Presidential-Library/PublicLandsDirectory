@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 7396, 66 FR 7351",
           "url": "https://www.federalregister.gov/documents/2001/01/22/01-2101/establishment-of-the-pompeys-pillar-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7396—Establishment of the Pompeys Pillar National Monument, January 17, 2001",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7396-establishment-the-pompeys-pillar-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7396, 66 FR 7351, signed 2001-01-17; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

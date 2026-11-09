@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 10602, 88 FR 48705",
           "url": "https://www.federalregister.gov/documents/2023/07/28/2023-16211/establishment-of-the-emmett-till-and-mamie-till--mobley-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10602—Establishment of the Emmett Till and Mamie Till-Mobley National Monument, July 25, 2023",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10602-establishment-the-emmett-till-and-mamie-till-mobley-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10602, 88 FR 48705, signed 2023-07-25; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

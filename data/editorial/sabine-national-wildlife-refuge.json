@@ -1,0 +1,27 @@
+{
+  "slug": "sabine-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1907",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "shore waters of the Louisiana Gulf Coast, west of the Atchafalaya River Delta and south of Marsh Island Refuge, and was established in 1907, as a reserve and breeding ground for native birds.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sabine National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sabine/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

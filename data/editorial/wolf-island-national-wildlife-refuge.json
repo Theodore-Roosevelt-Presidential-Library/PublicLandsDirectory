@@ -1,0 +1,28 @@
+{
+  "slug": "wolf-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "5316",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Wolf Island NWR established by Executive Order No. 5316 as a 538-acre sanctuary for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order No",
+        "citation": null,
+        "signedBy": "Executive Order No"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Wolf Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/wolf-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

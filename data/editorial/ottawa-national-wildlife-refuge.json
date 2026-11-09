@@ -1,0 +1,27 @@
+{
+  "slug": "ottawa-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1961",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1961 under the authority of the Migratory Bird Conservation Act for use an inviolate sanctuary, or for any other management purpose, for migratory birds, the refuge manages about 8,100 acres of wetland, grassland and wooded habitat.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ottawa National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ottawa/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

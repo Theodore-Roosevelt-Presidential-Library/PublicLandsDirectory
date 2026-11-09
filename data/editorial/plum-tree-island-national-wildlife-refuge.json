@@ -1,0 +1,27 @@
+{
+  "slug": "plum-tree-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1991",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "National Wildlife Refuge Charles City, VA James River National Wildlife Refuge James River NWR was established in 1991 to protect bald eagles and other species of special concern within 4800 acres of forests and wetlands.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Plum Tree Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/plum-tree-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

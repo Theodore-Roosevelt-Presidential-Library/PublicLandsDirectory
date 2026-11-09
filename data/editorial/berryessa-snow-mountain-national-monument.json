@@ -18,10 +18,20 @@
         {
           "name": "Federal Register: Proclamation 9298, 80 FR 41975",
           "url": "https://www.federalregister.gov/documents/2015/07/15/2015-17560/establishment-of-the-berryessa-snow-mountain-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9298—Establishment of the Berryessa Snow Mountain National Monument, July 10, 2015",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9298-establishment-the-berryessa-snow-mountain-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9298, 80 FR 41975, signed 2015-07-10; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2024-05-02",
@@ -40,11 +50,22 @@
         {
           "name": "Federal Register: Proclamation 10745, 89 FR 39531",
           "url": "https://www.federalregister.gov/documents/2024/05/09/2024-10266/boundary-enlargement-of-the-berryessa-snow-mountain-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10745—Boundary Enlargement of the Berryessa Snow Mountain National Monument, May 02, 2024",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10745-boundary-enlargement-the-berryessa-snow-mountain-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10745, 89 FR 39531, signed 2024-05-02; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

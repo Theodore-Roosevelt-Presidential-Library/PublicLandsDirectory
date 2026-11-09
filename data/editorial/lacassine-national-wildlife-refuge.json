@@ -1,0 +1,27 @@
+{
+  "slug": "lacassine-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-12-30",
+      "action": "established",
+      "designation": null,
+      "name": "Lacassine Migratory Waterfowl Refuge",
+      "indexText": "Lacassine National Wildlife Refuge was established on December 30, 1937, as Lacassine Migratory Waterfowl Refuge by the following: 1) Executive Order 7780, “...as a Refuge and breeding ground for migratory birds and other wildlife...;” 2) the Migratory Bird Conservation Act, “... for use as an inviolate 14 Lacassine National Wildlife Refuge sanctuary, or any other management purpose, for migratory",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lacassine National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lacassine/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

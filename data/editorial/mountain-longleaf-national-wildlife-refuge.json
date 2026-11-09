@@ -1,0 +1,27 @@
+{
+  "slug": "mountain-longleaf-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2003-05-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The 7,759 acre refuge was legislatively established on May 31, 2003 within the former military training base of Fort McClellan.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Mountain Longleaf National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mountain-longleaf/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

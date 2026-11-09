@@ -1,0 +1,27 @@
+{
+  "slug": "flathead-national-forest",
+  "designationHistory": [
+    {
+      "date": "1897-02-22",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Flathead: Established reserve. ) contains, among other things the following proviso: ed February twenty-second, eighteen hundred and ninety-seven, Wyoming, Utah, Montana, Washington, Idaho, and South Dakota as d lands embraced therein restored to the public domain the same d: Provided further, That ",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Grover Cleveland",
+        "citation": "29 Stat. 911"
+      },
+      "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

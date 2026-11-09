@@ -1,0 +1,28 @@
+{
+  "slug": "shell-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Shell Lake National Wildlife Refuge was established on June 12 th , 1939 by President Franklin D.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Shell Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/shell-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

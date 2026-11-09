@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9297, 80 FR 41969",
           "url": "https://www.federalregister.gov/documents/2015/07/15/2015-17549/establishment-of-the-basin-and-range-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9297—Establishment of the Basin and Range National Monument, July 10, 2015",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9297-establishment-the-basin-and-range-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9297, 80 FR 41969, signed 2015-07-10; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

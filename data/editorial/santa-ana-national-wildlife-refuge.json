@@ -1,0 +1,27 @@
+{
+  "slug": "santa-ana-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1943",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Santa Ana National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Tours Trails Rules & Policies Get Involved Events News Library Species Map Rio Reforestation https://www.facebook.com/SantaAnaNWR About Us Established in 1943 for the protection of migratory birds, Santa Ana National Wildlife Refuge is positioned along an east-west and north-south juncture of two major migratory ",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Santa Ana National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/santa-ana/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

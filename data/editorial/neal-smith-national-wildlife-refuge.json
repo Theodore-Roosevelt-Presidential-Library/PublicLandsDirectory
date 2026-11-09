@@ -1,0 +1,27 @@
+{
+  "slug": "neal-smith-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Neal Smith National Wildlife Refuge was established in 1990 with the mission to actively protect, restore, reconstruct and manage the diverse native ecosystems of tallgrass prairie, oak savanna and sedge meadow.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Neal Smith National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/neal-smith/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

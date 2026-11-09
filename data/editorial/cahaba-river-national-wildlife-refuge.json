@@ -1,0 +1,27 @@
+{
+  "slug": "cahaba-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2002-09-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cahaba River National Wildlife Refuge was established September 25, 2002 for the purpose of protecting and managing a unique section of the Cahaba River and land adjacent to it.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cahaba River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cahaba-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

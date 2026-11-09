@@ -1,0 +1,1692 @@
+[
+ {
+  "slug": "alaska-maritime-national-wildlife-refuge",
+  "name": "Alaska Maritime National Wildlife Refuge",
+  "states": [
+   "AK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-27 set aside Bering Sea Reservation",
+   "1909-02-27 set aside Tuxedni Reservation",
+   "1909-02-27 set aside Saint Lazaria Reservation"
+  ]
+ },
+ {
+  "slug": "arapaho-national-forest",
+  "name": "Arapaho National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Arapaho National Forest"
+  ]
+ },
+ {
+  "slug": "beaverhead-national-forest",
+  "name": "Beaverhead National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Beaverhead National Forest"
+  ]
+ },
+ {
+  "slug": "bighorn-national-forest",
+  "name": "Bighorn National Forest",
+  "states": [
+   "MT",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1904-12-23 Proclamation 537"
+  ]
+ },
+ {
+  "slug": "bitterroot-national-forest",
+  "name": "Bitterroot National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1904-06-14 Proclamation 531"
+  ]
+ },
+ {
+  "slug": "black-hills-national-forest",
+  "name": "Black Hills National Forest",
+  "states": [
+   "SD",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-03-01 Proclamation 716"
+  ]
+ },
+ {
+  "slug": "boise-national-forest",
+  "name": "Boise National Forest",
+  "states": [
+   "ID"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Boise National Forest",
+   "1905-06-03 Proclamation 566"
+  ]
+ },
+ {
+  "slug": "breton-national-wildlife-refuge",
+  "name": "Breton National Wildlife Refuge",
+  "states": [
+   "LA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1904-10-04 set aside Breton Island Reservation",
+   "1904-10-04 Unnumbered order (Lord no. 98)",
+   "1905-11-11 Executive Order 369-A"
+  ]
+ },
+ {
+  "slug": "bridger-national-forest",
+  "name": "Bridger National Forest",
+  "states": [
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Bridger National Forest"
+  ]
+ },
+ {
+  "slug": "cache-national-forest",
+  "name": "Cache National Forest",
+  "states": [
+   "ID",
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Cache National Forest"
+  ]
+ },
+ {
+  "slug": "caribou-national-forest",
+  "name": "Caribou National Forest",
+  "states": [
+   "ID",
+   "UT",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Caribou National Forest"
+  ]
+ },
+ {
+  "slug": "carson-national-forest",
+  "name": "Carson National Forest",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Carson National Forest",
+   "1906-11-07 Proclamation 691",
+   "1906-11-07 Proclamation 692"
+  ]
+ },
+ {
+  "slug": "chaco-culture-national-historical-park",
+  "name": "Chaco Culture National Historical Park",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-03-11 set aside Chaco Canyon National Monument",
+   "1907-03-11 Proclamation 740"
+  ]
+ },
+ {
+  "slug": "challis-national-forest",
+  "name": "Challis National Forest",
+  "states": [
+   "ID"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Challis National Forest"
+  ]
+ },
+ {
+  "slug": "chase-lake-national-wildlife-refuge",
+  "name": "Chase Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-08-28 set aside Chase Lake Reservation",
+   "1908-08-28 Executive Order 932"
+  ]
+ },
+ {
+  "slug": "chickasaw-national-recreation-area",
+  "name": "Chickasaw National Recreation Area",
+  "states": [
+   "OK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-06-29 set aside Platt National Park"
+  ]
+ },
+ {
+  "slug": "chippewa-national-forest",
+  "name": "Chippewa National Forest",
+  "states": [
+   "MN"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Chippewa National Forest"
+  ]
+ },
+ {
+  "slug": "chugach-national-forest",
+  "name": "Chugach National Forest",
+  "states": [
+   "AK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Chugach National Forest",
+   "1909-02-23 Proclamation 852"
+  ]
+ },
+ {
+  "slug": "cibola-national-forest",
+  "name": "Cibola National Forest",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Cibola National Forest",
+   "1906-11-06 Proclamation 685",
+   "1908-04-16 Proclamation 803"
+  ]
+ },
+ {
+  "slug": "coconino-national-forest",
+  "name": "Coconino National Forest",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1902-04-12 Proclamation 469",
+   "1908-07-02 Proclamation 818",
+   "1908-07-02 Executive Order 909"
+  ]
+ },
+ {
+  "slug": "coeur-dalene-national-forest",
+  "name": "Coeur D’alene National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Coeur d'Alene National Forest"
+  ]
+ },
+ {
+  "slug": "cold-springs-national-wildlife-refuge",
+  "name": "Cold Springs National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-25 set aside Cold Springs Reservation",
+   "1909-02-25 Executive Order 1032"
+  ]
+ },
+ {
+  "slug": "colville-national-forest",
+  "name": "Colville National Forest",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Colville National Forest"
+  ]
+ },
+ {
+  "slug": "copalis-national-wildlife-refuge",
+  "name": "Copalis National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-10-23 set aside Copalis Rock Reservation",
+   "1907-10-23 Executive Order 704"
+  ]
+ },
+ {
+  "slug": "coronado-national-forest",
+  "name": "Coronado National Forest",
+  "states": [
+   "AZ",
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Coronado National Forest",
+   "1902-04-11 Proclamation 468",
+   "1902-07-02 Proclamation 481"
+  ]
+ },
+ {
+  "slug": "crater-lake-national-park",
+  "name": "Crater Lake National Park",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1902-05-22 set aside Crater Lake National Park"
+  ]
+ },
+ {
+  "slug": "culebra-national-wildlife-refuge",
+  "name": "Culebra National Wildlife Refuge",
+  "states": [
+   "PR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-27 set aside Culebra Reservation"
+  ]
+ },
+ {
+  "slug": "custer-national-forest",
+  "name": "Custer National Forest",
+  "states": [
+   "MT",
+   "SD"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Custer National Forest"
+  ]
+ },
+ {
+  "slug": "deer-flat-national-wildlife-refuge",
+  "name": "Deer Flat National Wildlife Refuge",
+  "states": [
+   "ID",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-25 set aside Deer Flat Reservation",
+   "1909-02-25 Executive Order 1032"
+  ]
+ },
+ {
+  "slug": "deerlodge-national-forest",
+  "name": "Deerlodge National Forest",
+  "states": [
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Deerlodge National Forest"
+  ]
+ },
+ {
+  "slug": "devils-tower-national-monument",
+  "name": "Devils Tower National Monument",
+  "states": [
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-09-24 set aside Devils Tower National Monument",
+   "1906-09-24 Proclamation 658"
+  ]
+ },
+ {
+  "slug": "dixie-national-forest",
+  "name": "Dixie National Forest",
+  "states": [
+   "NV",
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Dixie National Forest",
+   "1903-10-24 Proclamation 507",
+   "1905-09-25 Proclamation 593"
+  ]
+ },
+ {
+  "slug": "dry-tortugas-national-park",
+  "name": "Dry Tortugas National Park",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-04-06 set aside Tortugas Keys Reservation",
+   "1908-04-06 Executive Order 779"
+  ]
+ },
+ {
+  "slug": "el-morro-national-monument",
+  "name": "El Morro National Monument",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-12-08 set aside El Morro National Monument",
+   "1906-12-08 Proclamation 695"
+  ]
+ },
+ {
+  "slug": "el-yunque-national-forest",
+  "name": "El Yunque National Forest",
+  "states": [
+   "PR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside El Yunque National Forest",
+   "1903-01-17 Proclamation 495"
+  ]
+ },
+ {
+  "slug": "farallon-islands-national-wildlife-refuge",
+  "name": "Farallon Islands National Wildlife Refuge",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-27 set aside Farallon Reservation"
+  ]
+ },
+ {
+  "slug": "fishlake-national-forest",
+  "name": "Fishlake National Forest",
+  "states": [
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1904-05-02 Proclamation 522",
+   "1906-01-22 Proclamation 611"
+  ]
+ },
+ {
+  "slug": "flattery-rocks-national-wildlife-refuge",
+  "name": "Flattery Rocks National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-10-23 set aside Flattery Rocks Reservation",
+   "1907-10-23 Executive Order 703"
+  ]
+ },
+ {
+  "slug": "fremont-national-forest",
+  "name": "Fremont National Forest",
+  "states": [
+   "CA",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Fremont National Forest"
+  ]
+ },
+ {
+  "slug": "gifford-pinchot-national-forest",
+  "name": "Gifford Pinchot National Forest",
+  "states": [
+   "OR",
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-06-18 Executive Order 820"
+  ]
+ },
+ {
+  "slug": "gila-cliff-dwellings-national-monument",
+  "name": "Gila Cliff Dwellings National Monument",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-11-16 set aside Gila Cliff Dwellings National Monument",
+   "1907-11-16 Proclamation 781"
+  ]
+ },
+ {
+  "slug": "gila-national-forest",
+  "name": "Gila National Forest",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1902-07-22 Proclamation 485",
+   "1908-06-18 Proclamation 811",
+   "1908-06-18 Proclamation 812"
+  ]
+ },
+ {
+  "slug": "grand-canyon-national-park",
+  "name": "Grand Canyon National Park",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": true,
+  "how": [
+   "1908-01-11 set aside Grand Canyon National Monument",
+   "1906-11-28 Proclamation 694",
+   "1908-01-11 Proclamation 794"
+  ]
+ },
+ {
+  "slug": "grand-canyon-preserve-national-game-refuge",
+  "name": "Grand Canyon Preserve National Game Refuge",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-11-28 set aside Grand Canyon Game Preserve"
+  ]
+ },
+ {
+  "slug": "gunnison-national-forest",
+  "name": "Gunnison National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Gunnison National Forest",
+   "1908-07-01 Executive Order 891"
+  ]
+ },
+ {
+  "slug": "hawaiian-islands-national-wildlife-refuge",
+  "name": "Hawaiian Islands National Wildlife Refuge",
+  "states": [
+   "HI"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-03 Executive Order 1019"
+  ]
+ },
+ {
+  "slug": "helena-national-forest",
+  "name": "Helena National Forest",
+  "states": [
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Helena National Forest"
+  ]
+ },
+ {
+  "slug": "hiawatha-national-forest",
+  "name": "Hiawatha National Forest",
+  "states": [
+   "MI"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-10 Proclamation 838",
+   "1909-02-11 Proclamation 841"
+  ]
+ },
+ {
+  "slug": "humboldt-national-forest",
+  "name": "Humboldt National Forest",
+  "states": [
+   "NV"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Humboldt National Forest"
+  ]
+ },
+ {
+  "slug": "huron-national-forest",
+  "name": "Huron National Forest",
+  "states": [
+   "MI"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Huron National Forest"
+  ]
+ },
+ {
+  "slug": "huron-national-wildlife-refuge",
+  "name": "Huron National Wildlife Refuge",
+  "states": [
+   "MI"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-10-10 set aside Huron Islands Reservation",
+   "1905-10-10 Executive Order 357-D"
+  ]
+ },
+ {
+  "slug": "inyo-national-forest",
+  "name": "Inyo National Forest",
+  "states": [
+   "CA",
+   "NV"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Inyo National Forest",
+   "1908-07-02 Executive Order 899"
+  ]
+ },
+ {
+  "slug": "island-bay-national-wildlife-refuge",
+  "name": "Island Bay National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-10-23 set aside Island Bay Reservation"
+  ]
+ },
+ {
+  "slug": "isle-royale-national-park",
+  "name": "Isle Royale National Park",
+  "states": [
+   "MI"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-10-10 Executive Order 357-C"
+  ]
+ },
+ {
+  "slug": "jewel-cave-national-monument",
+  "name": "Jewel Cave National Monument",
+  "states": [
+   "SD"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-02-07 set aside Jewel Cave National Monument",
+   "1908-02-07 Proclamation 799"
+  ]
+ },
+ {
+  "slug": "kaibab-national-forest",
+  "name": "Kaibab National Forest",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-11-28 Proclamation 694",
+   "1908-07-02 Proclamation 818",
+   "1908-07-02 Executive Order 909"
+  ]
+ },
+ {
+  "slug": "key-west-national-wildlife-refuge",
+  "name": "Key West National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-08-08 set aside Key West Reservation",
+   "1908-06-08 Executive Order 808",
+   "1908-08-08 Executive Order 923"
+  ]
+ },
+ {
+  "slug": "klamath-national-forest",
+  "name": "Klamath National Forest",
+  "states": [
+   "CA",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Klamath National Forest",
+   "1905-05-06 Proclamation 544",
+   "1908-07-02 Proclamation 817"
+  ]
+ },
+ {
+  "slug": "kootenai-national-forest",
+  "name": "Kootenai National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Kootenai National Forest",
+   "1906-08-13 Proclamation 643",
+   "1906-11-05 Proclamation 677"
+  ]
+ },
+ {
+  "slug": "lassen-national-forest",
+  "name": "Lassen National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Lassen National Forest",
+   "1905-06-02 Proclamation 564",
+   "1905-07-14 Proclamation 579"
+  ]
+ },
+ {
+  "slug": "lassen-volcanic-national-park",
+  "name": "Lassen Volcanic National Park",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-05-06 set aside Lassen Peak National Monument",
+   "1907-05-06 set aside Cinder Cone National Monument",
+   "1907-05-06 Proclamation 753"
+  ]
+ },
+ {
+  "slug": "lincoln-national-forest",
+  "name": "Lincoln National Forest",
+  "states": [
+   "NM",
+   "TX"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Lincoln National Forest",
+   "1902-07-26 Proclamation 486",
+   "1908-03-03 Proclamation 801"
+  ]
+ },
+ {
+  "slug": "lolo-national-forest",
+  "name": "Lolo National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Lolo National Forest",
+   "1906-09-20 Proclamation 654",
+   "1906-11-06 Proclamation 689"
+  ]
+ },
+ {
+  "slug": "los-padres-national-forest",
+  "name": "Los Padres National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1903-12-22 Proclamation 512",
+   "1906-06-25 Proclamation 635",
+   "1906-06-25 Proclamation 636"
+  ]
+ },
+ {
+  "slug": "lower-klamath-national-wildlife-refuge",
+  "name": "Lower Klamath National Wildlife Refuge",
+  "states": [
+   "CA",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-08-08 set aside Klamath Lake Reservation",
+   "1908-08-08 Executive Order 924"
+  ]
+ },
+ {
+  "slug": "malheur-national-forest",
+  "name": "Malheur National Forest",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Malheur National Forest",
+   "1906-03-15 Proclamation 618"
+  ]
+ },
+ {
+  "slug": "malheur-national-wildlife-refuge",
+  "name": "Malheur National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-08-18 set aside Lake Malheur Reservation",
+   "1908-08-18 Executive Order 929"
+  ]
+ },
+ {
+  "slug": "manti-la-sal-national-forest",
+  "name": "Manti-la Sal National Forest",
+  "states": [
+   "CO",
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Manti-La Sal National Forest",
+   "1903-05-29 Proclamation 499",
+   "1906-01-18 Proclamation 610"
+  ]
+ },
+ {
+  "slug": "matlacha-pass-national-wildlife-refuge",
+  "name": "Matlacha Pass National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-09-26 set aside Matlacha Pass Reservation",
+   "1908-09-26 Executive Order 943"
+  ]
+ },
+ {
+  "slug": "medicine-bow-national-forest",
+  "name": "Medicine Bow National Forest",
+  "states": [
+   "CO",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Medicine Bow National Forest",
+   "1902-05-22 Proclamation 474"
+  ]
+ },
+ {
+  "slug": "mendocino-national-forest",
+  "name": "Mendocino National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Mendocino National Forest"
+  ]
+ },
+ {
+  "slug": "mesa-verde-national-park",
+  "name": "Mesa Verde National Park",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-06-29 set aside Mesa Verde National Park"
+  ]
+ },
+ {
+  "slug": "midway-atoll-national-wildlife-refuge",
+  "name": "Midway Atoll National Wildlife Refuge",
+  "states": [],
+  "visitedAlready": false,
+  "how": [
+   "1903-01-20 Executive Order 199-A"
+  ]
+ },
+ {
+  "slug": "minidoka-national-wildlife-refuge",
+  "name": "Minidoka National Wildlife Refuge",
+  "states": [
+   "ID"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-25 set aside Minidoka Reservation"
+  ]
+ },
+ {
+  "slug": "modoc-national-forest",
+  "name": "Modoc National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Modoc National Forest",
+   "1904-11-29 Proclamation 534",
+   "1904-11-29 Proclamation 535"
+  ]
+ },
+ {
+  "slug": "montezuma-castle-national-monument",
+  "name": "Montezuma Castle National Monument",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-12-08 set aside Montezuma Castle National Monument",
+   "1906-12-08 Proclamation 696"
+  ]
+ },
+ {
+  "slug": "montezuma-national-wildlife-refuge",
+  "name": "Montezuma National Wildlife Refuge",
+  "states": [
+   "NY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-06-13 Proclamation 575"
+  ]
+ },
+ {
+  "slug": "muir-woods-national-monument",
+  "name": "Muir Woods National Monument",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-01-09 set aside Muir Woods National Monument",
+   "1908-01-09 Proclamation 793"
+  ]
+ },
+ {
+  "slug": "natural-bridges-national-monument",
+  "name": "Natural Bridges National Monument",
+  "states": [
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-04-16 set aside Natural Bridges National Monument",
+   "1908-04-16 Proclamation 804"
+  ]
+ },
+ {
+  "slug": "nebraska-national-forest",
+  "name": "Nebraska National Forest",
+  "states": [
+   "NE"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Nebraska National Forest",
+   "1902-04-16 Proclamation 471",
+   "1906-03-10 Proclamation 617"
+  ]
+ },
+ {
+  "slug": "ocala-national-forest",
+  "name": "Ocala National Forest",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Ocala National Forest",
+   "1908-11-24 Proclamation 823"
+  ]
+ },
+ {
+  "slug": "ochoco-national-forest",
+  "name": "Ochoco National Forest",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Ochoco National Forest",
+   "1905-06-02 Proclamation 565"
+  ]
+ },
+ {
+  "slug": "olympic-national-forest",
+  "name": "Olympic National Forest",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-03-02 Proclamation 869"
+  ]
+ },
+ {
+  "slug": "olympic-national-park",
+  "name": "Olympic National Park",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-03-02 set aside Mount Olympus National Monument",
+   "1909-03-02 Proclamation 869"
+  ]
+ },
+ {
+  "slug": "ouachita-national-forest",
+  "name": "Ouachita National Forest",
+  "states": [
+   "AR",
+   "OK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Ouachita National Forest"
+  ]
+ },
+ {
+  "slug": "ozark-national-forest",
+  "name": "Ozark National Forest",
+  "states": [
+   "AR",
+   "OK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Ozark National Forest"
+  ]
+ },
+ {
+  "slug": "passage-key-national-wildlife-refuge",
+  "name": "Passage Key National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-10-10 set aside Passage Key Reservation",
+   "1905-10-10 Executive Order 357-B"
+  ]
+ },
+ {
+  "slug": "pathfinder-national-wildlife-refuge",
+  "name": "Pathfinder National Wildlife Refuge",
+  "states": [
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1909-02-25 set aside Pathfinder Reservation"
+  ]
+ },
+ {
+  "slug": "payette-national-forest",
+  "name": "Payette National Forest",
+  "states": [
+   "ID",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Payette National Forest",
+   "1905-05-25 Proclamation 561"
+  ]
+ },
+ {
+  "slug": "pelican-island-national-wildlife-refuge",
+  "name": "Pelican Island National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1903-03-14 set aside Pelican Island Reservation",
+   "1903-03-13 Unnumbered order (Lord no. 54)",
+   "1909-01-26 Executive Order 1014"
+  ]
+ },
+ {
+  "slug": "petrified-forest-national-park",
+  "name": "Petrified Forest National Park",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-12-08 set aside Petrified Forest National Monument",
+   "1906-12-08 Proclamation 697"
+  ]
+ },
+ {
+  "slug": "pike-national-forest",
+  "name": "Pike National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-07-01 Executive Order 888"
+  ]
+ },
+ {
+  "slug": "pine-island-national-wildlife-refuge",
+  "name": "Pine Island National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-09-15 set aside Pine Island Reservation",
+   "1908-09-15 Executive Order 939"
+  ]
+ },
+ {
+  "slug": "pinellas-national-wildlife-refuge",
+  "name": "Pinellas National Wildlife Refuge",
+  "states": [
+   "FL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-02-10 Executive Order 409"
+  ]
+ },
+ {
+  "slug": "pinnacles-national-park",
+  "name": "Pinnacles National Park",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-01-16 set aside Pinnacles National Monument",
+   "1908-01-16 Proclamation 796"
+  ]
+ },
+ {
+  "slug": "plumas-national-forest",
+  "name": "Plumas National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Plumas National Forest",
+   "1905-03-27 Proclamation 540",
+   "1905-07-14 Proclamation 579"
+  ]
+ },
+ {
+  "slug": "quillayute-needles-national-wildlife-refuge",
+  "name": "Quillayute Needles National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-10-23 set aside Quillayute Needles Reservation",
+   "1907-10-23 Executive Order 705"
+  ]
+ },
+ {
+  "slug": "rio-grande-national-forest",
+  "name": "Rio Grande National Forest",
+  "states": [
+   "CO",
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Rio Grande National Forest",
+   "1908-07-01 Executive Order 887",
+   "1908-12-07 Proclamation 831"
+  ]
+ },
+ {
+  "slug": "roosevelt-national-forest",
+  "name": "Roosevelt National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Roosevelt National Forest"
+  ]
+ },
+ {
+  "slug": "routt-national-forest",
+  "name": "Routt National Forest",
+  "states": [
+   "CO",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Routt National Forest",
+   "1905-06-12 Proclamation 569"
+  ]
+ },
+ {
+  "slug": "salmon-national-forest",
+  "name": "Salmon National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Salmon National Forest"
+  ]
+ },
+ {
+  "slug": "samuel-r-mckelvie-national-forest",
+  "name": "Samuel R. McKelvie National Forest",
+  "states": [
+   "NE"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Samuel R. McKelvie National Forest",
+   "1902-04-16 Proclamation 470"
+  ]
+ },
+ {
+  "slug": "san-bernardino-national-forest",
+  "name": "San Bernardino National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-01-07 Proclamation 790"
+  ]
+ },
+ {
+  "slug": "san-isabel-national-forest",
+  "name": "San Isabel National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside San Isabel National Forest",
+   "1902-04-11 Proclamation 467",
+   "1905-06-12 Proclamation 572"
+  ]
+ },
+ {
+  "slug": "san-juan-islands-national-wildlife-refuge",
+  "name": "San Juan Islands National Wildlife Refuge",
+  "states": [
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-02-12 Executive Order 561"
+  ]
+ },
+ {
+  "slug": "san-juan-national-forest",
+  "name": "San Juan National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside San Juan National Forest",
+   "1905-06-03 Proclamation 567",
+   "1905-06-13 Proclamation 575"
+  ]
+ },
+ {
+  "slug": "santa-fe-national-forest",
+  "name": "Santa Fe National Forest",
+  "states": [
+   "NM"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-04-24 Proclamation 806"
+  ]
+ },
+ {
+  "slug": "sawtooth-national-forest",
+  "name": "Sawtooth National Forest",
+  "states": [
+   "ID",
+   "UT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Sawtooth National Forest",
+   "1905-05-29 Proclamation 562",
+   "1905-06-12 Proclamation 573"
+  ]
+ },
+ {
+  "slug": "sequoia-national-forest",
+  "name": "Sequoia National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-07-02 Executive Order 904",
+   "1909-03-02 Proclamation 871"
+  ]
+ },
+ {
+  "slug": "shasta-national-forest",
+  "name": "Shasta National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Shasta National Forest"
+  ]
+ },
+ {
+  "slug": "shell-keys-national-wildlife-refuge",
+  "name": "Shell Keys National Wildlife Refuge",
+  "states": [
+   "LA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-08-17 set aside Shell Keys Reservation",
+   "1907-08-17 Executive Order 682"
+  ]
+ },
+ {
+  "slug": "shoshone-national-forest",
+  "name": "Shoshone National Forest",
+  "states": [
+   "MT",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1903-01-29 Proclamation 496",
+   "1904-05-04 Proclamation 524",
+   "1908-07-01 Executive Order 895"
+  ]
+ },
+ {
+  "slug": "sierra-national-forest",
+  "name": "Sierra National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-04-20 Proclamation 805"
+  ]
+ },
+ {
+  "slug": "siskiyou-national-forest",
+  "name": "Siskiyou National Forest",
+  "states": [
+   "CA",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Siskiyou National Forest"
+  ]
+ },
+ {
+  "slug": "siuslaw-national-forest",
+  "name": "Siuslaw National Forest",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Siuslaw National Forest"
+  ]
+ },
+ {
+  "slug": "six-rivers-national-forest",
+  "name": "Six Rivers National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Six Rivers National Forest"
+  ]
+ },
+ {
+  "slug": "st-joe-national-forest",
+  "name": "St. Joe National Forest",
+  "states": [
+   "ID",
+   "MT"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside St. Joe National Forest"
+  ]
+ },
+ {
+  "slug": "stanislaus-national-forest",
+  "name": "Stanislaus National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1906-09-07 Proclamation 649",
+   "1908-07-02 Executive Order 901"
+  ]
+ },
+ {
+  "slug": "stump-lake-national-wildlife-refuge",
+  "name": "Stump Lake National Wildlife Refuge",
+  "states": [
+   "ND"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-03-09 set aside Stump Lake Reservation",
+   "1905-03-09 Executive Order 296-A"
+  ]
+ },
+ {
+  "slug": "superior-national-forest",
+  "name": "Superior National Forest",
+  "states": [
+   "MN"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Superior National Forest",
+   "1909-02-13 Proclamation 848"
+  ]
+ },
+ {
+  "slug": "tahoe-national-forest",
+  "name": "Tahoe National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-10-03 Proclamation 597",
+   "1905-11-11 Proclamation 606",
+   "1906-09-17 Proclamation 652"
+  ]
+ },
+ {
+  "slug": "targhee-national-forest",
+  "name": "Targhee National Forest",
+  "states": [
+   "ID",
+   "MT",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Targhee National Forest"
+  ]
+ },
+ {
+  "slug": "three-arch-rocks-national-wildlife-refuge",
+  "name": "Three Arch Rocks National Wildlife Refuge",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-10-14 set aside Three Arch Rocks Reservation",
+   "1907-10-14 Executive Order 699"
+  ]
+ },
+ {
+  "slug": "toiyabe-national-forest",
+  "name": "Toiyabe National Forest",
+  "states": [
+   "CA",
+   "NV"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Toiyabe National Forest"
+  ]
+ },
+ {
+  "slug": "tongass-national-forest",
+  "name": "Tongass National Forest",
+  "states": [
+   "AK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Tongass National Forest",
+   "1902-08-20 Proclamation 491",
+   "1907-09-10 Proclamation 772"
+  ]
+ },
+ {
+  "slug": "tonto-national-forest",
+  "name": "Tonto National Forest",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": true,
+  "how": [
+   "null set aside Tonto National Forest",
+   "1902-07-22 Proclamation 485",
+   "1905-03-20 Proclamation 539"
+  ]
+ },
+ {
+  "slug": "tonto-national-monument",
+  "name": "Tonto National Monument",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1907-12-19 set aside Tonto National Monument",
+   "1907-12-19 Proclamation 787"
+  ]
+ },
+ {
+  "slug": "trinity-national-forest",
+  "name": "Trinity National Forest",
+  "states": [
+   "CA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Trinity National Forest"
+  ]
+ },
+ {
+  "slug": "tumacacori-national-historical-park",
+  "name": "Tumacácori National Historical Park",
+  "states": [
+   "AZ"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-09-15 set aside Tumacácori National Monument",
+   "1908-09-15 Proclamation 821"
+  ]
+ },
+ {
+  "slug": "umatilla-national-forest",
+  "name": "Umatilla National Forest",
+  "states": [
+   "OR",
+   "WA"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Umatilla National Forest",
+   "1905-05-12 Proclamation 548",
+   "1906-03-15 Proclamation 618"
+  ]
+ },
+ {
+  "slug": "umpqua-national-forest",
+  "name": "Umpqua National Forest",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Umpqua National Forest"
+  ]
+ },
+ {
+  "slug": "uncompahgre-national-forest",
+  "name": "Uncompahgre National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Uncompahgre National Forest"
+  ]
+ },
+ {
+  "slug": "wallowa-national-forest",
+  "name": "Wallowa National Forest",
+  "states": [
+   "ID",
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Wallowa National Forest"
+  ]
+ },
+ {
+  "slug": "wasatch-national-forest",
+  "name": "Wasatch National Forest",
+  "states": [
+   "UT",
+   "WY"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Wasatch National Forest"
+  ]
+ },
+ {
+  "slug": "wheeler-national-wildlife-refuge",
+  "name": "Wheeler National Wildlife Refuge",
+  "states": [
+   "AL"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1908-12-07 set aside Wheeler National Monument",
+   "1908-12-07 Proclamation 831"
+  ]
+ },
+ {
+  "slug": "white-horse-hill-national-game-preserve",
+  "name": "White Horse Hill National Game Preserve",
+  "states": [
+   "ND"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1904-06-02 set aside Sully's Hill National Park",
+   "1904-06-02 Proclamation 530"
+  ]
+ },
+ {
+  "slug": "white-river-national-forest",
+  "name": "White River National Forest",
+  "states": [
+   "CO"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1902-06-28 Proclamation 479",
+   "1905-08-25 Proclamation 592"
+  ]
+ },
+ {
+  "slug": "whitman-national-forest",
+  "name": "Whitman National Forest",
+  "states": [
+   "OR"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "null set aside Whitman National Forest"
+  ]
+ },
+ {
+  "slug": "wichita-mountains-wildlife-refuge",
+  "name": "Wichita Mountains Wildlife Refuge",
+  "states": [
+   "OK"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1905-06-02 set aside Wichita Game Preserve",
+   "1905-06-02 Proclamation 563"
+  ]
+ },
+ {
+  "slug": "wind-cave-national-park",
+  "name": "Wind Cave National Park",
+  "states": [
+   "SD"
+  ],
+  "visitedAlready": false,
+  "how": [
+   "1903-01-09 set aside Wind Cave National Park"
+  ]
+ }
+]

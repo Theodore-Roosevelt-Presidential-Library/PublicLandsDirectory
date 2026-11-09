@@ -1,0 +1,27 @@
+{
+  "slug": "desecheo-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Thomas, was established in 1969 for its \"particular value in carrying out the national migratory bird management program.\" The refuge consists of the entire 45-acre island.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Desecheo National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/desecheo/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

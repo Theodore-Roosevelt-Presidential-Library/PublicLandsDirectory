@@ -1,0 +1,27 @@
+{
+  "slug": "ozark-plateau-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1986",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Ozark Plateau National Wildlife Refuge was established in 1986 (formerly Oklahoma Bat Caves National Wildlife Refuge until 1995) to protect the federally threatened and endangered species found in the Ozark Plateau’s cave system, including the Ozark big-eared bat, gray bat, Indiana bat and Ozark cave fish.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ozark Plateau National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ozark-plateau/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

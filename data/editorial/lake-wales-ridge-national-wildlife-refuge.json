@@ -1,0 +1,27 @@
+{
+  "slug": "lake-wales-ridge-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Lake Wales Ridge National Wildlife Refuge was established in 1993 as the first refuge designated for the recovery of endangered and threatened plants.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Wales Ridge National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-wales-ridge/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

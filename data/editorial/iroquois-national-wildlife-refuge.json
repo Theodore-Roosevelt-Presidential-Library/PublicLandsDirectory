@@ -1,0 +1,28 @@
+{
+  "slug": "iroquois-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "In response, on May 19, 1958, the federal government established the Oak Orchard National Wildlife Refuge using funds from Migratory Bird Hunting and Conservation Stamps, or \"Duck Stamps.\" To avoid confusion with the nearby Oak Orchard State Wildlife Management Area, the refuge was renamed Iroquois National Wildlife Refuge (NWR) in 1964.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Oak Orchard State Wildlife",
+        "citation": null,
+        "signedBy": "Oak Orchard State Wildlife"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Iroquois National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/iroquois/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

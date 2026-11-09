@@ -1,0 +1,27 @@
+{
+  "slug": "ridgefield-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1965",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Ridgefield NWR was established in 1965 to provide wintering habitat for the dusky subspecies of the Canada goose whose habitat is extremely limited.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ridgefield National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ridgefield/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

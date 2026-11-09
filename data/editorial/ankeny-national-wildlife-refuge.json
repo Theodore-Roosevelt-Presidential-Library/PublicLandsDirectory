@@ -1,0 +1,27 @@
+{
+  "slug": "ankeny-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established in 1964, with the primary management goal of providing wintering...",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ankeny National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ankeny/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

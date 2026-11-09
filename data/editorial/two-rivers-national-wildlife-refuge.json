@@ -1,0 +1,27 @@
+{
+  "slug": "two-rivers-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1946",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Two Rivers National Wildlife Refuge was originally established in 1946 as part of the Upper Mississippi River National Wildlife and Fish Refuge to protect and enhance habitat for migratory birds.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Two Rivers National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/two-rivers/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

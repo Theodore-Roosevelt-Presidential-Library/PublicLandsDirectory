@@ -1,0 +1,28 @@
+{
+  "slug": "lake-nettie-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Lake Nettie National Wildlife Refuge was established on June 12, 1939 through Executive Order 8155 by President Franklin D.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "President Franklin",
+        "citation": null,
+        "signedBy": "President Franklin"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Nettie National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-nettie/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9476, 81 FR 59121",
           "url": "https://www.federalregister.gov/documents/2016/08/29/2016-20786/establishment-of-the-katahdin-woods-and-waters-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9476—Establishment of the Katahdin Woods and Waters National Monument, August 24, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9476-establishment-the-katahdin-woods-and-waters-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9476, 81 FR 59121, signed 2016-08-24; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

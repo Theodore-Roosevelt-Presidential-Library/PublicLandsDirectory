@@ -1,0 +1,48 @@
+{
+  "slug": "tahoe-national-forest",
+  "designationHistory": [
+    {
+      "date": "1899-04-13",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Lake Tahoe Forest Reserve",
+      "indexText": "Lake Tahoe: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William McKinley",
+        "citation": "31 Stat. 1953"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1905-10-03",
+      "action": "renamed",
+      "designation": "Forest Reserve",
+      "name": "Tahoe Forest Reserve",
+      "indexText": "La.*. Tahoe: Boundary redescribed. Name changed to Tahoe.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "34 Stat. 3163"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

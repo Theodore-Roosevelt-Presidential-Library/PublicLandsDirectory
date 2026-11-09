@@ -23,7 +23,8 @@ await writeText(join(DIST, '.nojekyll'), '');
 // ---------- helpers ----------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const paras = (s) => String(s || '').split(/\n{2,}|\r?\n/).filter((x) => x.trim()).map((p) => `<p>${esc(p.trim())}</p>`).join('');
-const fmtDate = (iso) => { if (!iso) return ''; const [y, m, d] = iso.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d || 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }); };
+const fmtDate = (iso) => { if (!iso) return ''; const [y, m, d] = iso.split('-').map(Number); if (!m) return String(y); // year-only dates, where the source gives only a year
+  if (!d) return new Date(Date.UTC(y, m - 1, 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', timeZone: 'UTC' }); return new Date(Date.UTC(y, m - 1, d || 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }); };
 const num = (n) => Math.round(n).toLocaleString('en-US');
 const AUTH = { 'act-of-congress': 'Act of Congress', 'presidential-proclamation': 'Presidential proclamation', 'executive-order': 'Executive order', 'secretarial-order': 'Secretarial order', 'public-land-order': 'Public land order', other: 'Other authority' };
 const authLine = (a) => a && a.type === 'unspecified' ? (a.administration ? `${esc(a.administration)} administration` : '') : a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
@@ -88,6 +89,7 @@ function trHTML(s) {
       let line;
       if (type === 'protected') line = `<strong>${fmtDate(c.date)}</strong>: as President, Theodore Roosevelt ${c.thenKind === 'national park' ? 'signed the act creating' : 'set aside'} ${esc(c.then)}${c.thenKind && !new RegExp(c.thenKind, 'i').test(c.then) ? ` (${esc(c.thenKind)})` : ''}.`;
       else if (type === 'executive-action') line = `<strong>${fmtDate(c.date)}</strong>: ${esc(c.document)}, \u201c${esc(c.title)}.\u201d Today\u2019s site ${esc(c.relation)}.`;
+      else if (type === 'visited' && !c.days) line = `<strong>${esc(c.place)}</strong>: ${fmtDate(c.first)}${c.last && c.last !== c.first ? ` to ${fmtDate(c.last)}` : ''}.${c.text ? ` ${esc(c.text)}` : ''}`;
       else if (type === 'visited') line = c.days > 1 ? `<strong>${esc(c.place)}</strong>: ${c.days.toLocaleString('en-US')} days in Roosevelt\u2019s record, ${fmtDate(c.first)} to ${fmtDate(c.last)}.` : `<strong>${esc(c.place)}</strong>: ${fmtDate(c.first)}.`;
       else line = `${c.date ? `<strong>${fmtDate(c.date)}</strong>: ` : ''}${esc(c.text)}`;
       return `<li>${line}${c.note ? ` <span class="muted">${esc(c.note)}</span>` : ''}${pendingTag(c.reviewed !== false)}${src ? `<br><span class="src">${src}</span>` : ''}</li>`;
@@ -268,7 +270,7 @@ const home = `
     <label><span>State</span><select id="state"><option value="">All states</option></select></label>
     <label><span>Administration</span><select id="admin"><option value="">Any</option></select></label>
     <label><span>Activity</span><select id="act"><option value="">Any activity</option></select></label>
-    <label><span>Roosevelt connection</span><select id="tr"><option value="">Any</option><option value="any">Any Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option></select></label>
+    <label><span>Roosevelt connection</span><select id="tr"><option value="">Any</option><option value="any">Any Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option><option value="both">Protected by T.R. and visited</option></select></label>
     <label class="check"><input type="checkbox" id="alerts"> <span>Has alerts</span></label>
     <label class="check"><input type="checkbox" id="wild"> <span>Has wilderness</span></label>
   </form>
@@ -298,7 +300,8 @@ await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Director
   </div></section>
   <div class="wrap" style="padding-top:26px">
   <div id="trmap" class="map map-big" data-points='${esc(JSON.stringify(pts))}'></div>
-  ${groupHTML('visited', 'T.R. was here', 'Places where Roosevelt’s own record, compiled in <a href="https://daybyday.labs.trlibrary.com">Theodore Roosevelt Day by Day</a>, puts him on the ground.')}
+  ${(() => { const both = trSites.filter((x) => x.trTypes.includes('visited') && (x.trTypes.includes('protected') || x.trTypes.includes('executive-action'))); return both.length ? `<section class="block"><h2>Protected by T.R. and visited</h2><p>Places Roosevelt set aside or acted on as President and also saw for himself, before or after.</p><ul class="tr-groups">${both.map((x) => `<li><a href="/sites/${x.slug}/">${esc(x.name)}</a> <span class="muted">${esc(x.trConnections.filter((y) => y.type === 'visited').map((y) => (y.first || '').slice(0, 4)).filter((v, i, a) => v && a.indexOf(v) === i).join(', '))}</span></li>`).join('')}</ul></section>` : ''; })()}
+  ${groupHTML('visited', 'T.R. was here', 'Places where Roosevelt’s own record, compiled in <a href="https://daybyday.labs.trlibrary.com">Theodore Roosevelt Day by Day</a>, puts him on the ground, plus visits confirmed by the Library’s historical accuracy review.')}
   ${groupHTML('protected', 'Protected by T.R.', 'Parks, monuments, forest reserves, bird reservations and game preserves he created as President, from <a href="https://publiclands.labs.trlibrary.com">Roosevelt’s Public Lands</a>. Many have new names today.')}
   ${groupHTML('executive-action', 'His proclamations and orders', 'Places that trace to one of his proclamations or executive orders, from <a href="https://executiveactions.labs.trlibrary.com/then-and-now.html">Theodore Roosevelt’s Executive Orders and Proclamations</a>.')}
   ${groupHTML('lived', 'Where T.R. lived and worked', '')}

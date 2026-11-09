@@ -1,0 +1,28 @@
+{
+  "slug": "white-horse-hill-national-game-preserve",
+  "designationHistory": [
+    {
+      "date": "1916",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Ziebach became the first manager of the park (1906-1913?) 1914 - Ten years after the Park was established, appropriations were made for the creation of a big-game preserve within the Park to be jointly administered by the Department of Interior, National Park Service and the Department of Agriculture, Biological Survey. 1916 - The big game fence was built to enclose a 700-acre tract of land design",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order",
+        "citation": null,
+        "signedBy": "Executive Order"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: White Horse Hill National Game Preserve, About Us",
+          "url": "https://www.fws.gov/refuge/white-horse-hill-national-game-preserve/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

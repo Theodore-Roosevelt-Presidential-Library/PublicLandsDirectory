@@ -1,0 +1,27 @@
+{
+  "slug": "green-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1885",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Commission on Fish and Fisheries is established to respond to the dramatic decline in the nation’s fisheries stocks. 1885 – The Bureau of Biological Survey is established to study and map the nation’s faunal resources. 1890 – Due to increasing shipping traffic in the Port des Morts and prompted by a number of wrecks in the passage, the Lighthouse Board requests a $21,000 congressional appropriatio",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Green Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/green-bay/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

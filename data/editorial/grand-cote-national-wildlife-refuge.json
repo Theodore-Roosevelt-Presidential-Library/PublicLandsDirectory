@@ -1,0 +1,27 @@
+{
+  "slug": "grand-cote-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Grand Cote National Wildlife Refuge was established in 1989 to provide valuable waterfowl habitat in the Mississippi/Red River floodplain as part of the North American Waterfowl Management Plan.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Grand Cote National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/grand-cote/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

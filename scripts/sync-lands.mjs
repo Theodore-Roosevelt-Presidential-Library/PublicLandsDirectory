@@ -46,6 +46,8 @@ async function fws() {
   const out = [];
   for (const [code, fs] of groups) {
     const p = fs[0].properties;
+    // The FWS layer carries placeholder records (name and unit code "ZZ") for tracts not yet assigned to a refuge.
+    if (/^zz$/i.test(String(p.ORGNAME || '').trim()) || /^zz$/i.test(String(p.LIT || '').trim())) continue;
     const name = titleCase(p.ORGNAME).replace(/\bNWR\b/, 'National Wildlife Refuge');
     const isWMD = p.RSL_TYPE === 'WMD';
     const acres = fs.reduce((s, f) => s + (f.properties.GISACRES || 0), 0);

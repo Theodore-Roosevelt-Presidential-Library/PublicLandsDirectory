@@ -1,0 +1,69 @@
+{
+  "slug": "bridger-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-07-01",
+      "action": "established",
+      "designation": "National Forest",
+      "name": "Wyoming Forest Reserve",
+      "indexText": "Wyoming: Established.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 873"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1941-03-10",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Bridger National Forest",
+      "indexText": "Wyoming: 6-F.R. 1400 Name changed to Bridger.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8709"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 83",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1911-06-30",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Br idger: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William Howard Taft",
+        "citation": "Proclamation 1164, 37 Stat. 1713"
+      },
+      "note": "Effective 1911-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 42",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

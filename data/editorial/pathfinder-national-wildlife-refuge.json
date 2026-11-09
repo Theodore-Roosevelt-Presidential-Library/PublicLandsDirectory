@@ -1,0 +1,27 @@
+{
+  "slug": "pathfinder-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "3725",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "the refuge over the years: EO 1032 (February 25, 1909)—established Pathfinder Wildlife Refuge on the Pathfinder Reservoir site “as a preserve and breeding ground for native birds.” EO 3725 (August 18, 1922)—revoked that part of EO 1032 reserving the Pathfinder Reservoir site for use “as a preserve and breeding ground for native birds.” EO 4860 (April 19, 1928)—reestablished the area created by EO ",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pathfinder National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pathfinder/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

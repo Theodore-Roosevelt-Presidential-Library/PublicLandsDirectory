@@ -1,0 +1,27 @@
+{
+  "slug": "shawangunk-grasslands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1999-07",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Shawangunk Grasslands National Wildlife Refuge, which protects 597 acres in Ulster County, NY, was established in July 1999 to support grassland-dependent migratory birds and wintering raptors.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Shawangunk Grasslands National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/shawangunk-grasslands/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

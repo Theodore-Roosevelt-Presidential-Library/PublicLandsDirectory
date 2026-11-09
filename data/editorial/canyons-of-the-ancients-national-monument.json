@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 7317, 65 FR 37243",
           "url": "https://www.federalregister.gov/documents/2000/06/13/00-15109/establishment-of-the-canyons-of-the-ancients-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7317—Establishment of the Canyons of the Ancients National Monument, June 09, 2000",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7317-establishment-the-canyons-the-ancients-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7317, 65 FR 37243, signed 2000-06-09; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

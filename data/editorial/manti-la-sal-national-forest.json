@@ -1,0 +1,48 @@
+{
+  "slug": "manti-la-sal-national-forest",
+  "designationHistory": [
+    {
+      "date": "1903-05-29",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Manti Forest Reserve",
+      "indexText": "Manti: 33 Stat. 2308 Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 12",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    },
+    {
+      "date": "1950-08-28",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Manti-la Sal National Forest",
+      "indexText": "Manti: 15-F.R. 5957 Name changed to Manti-La Sal.",
+      "authority": {
+        "type": "administrative-order",
+        "administration": "Harry S. Truman",
+        "citation": "P.L.O. 667"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 91",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

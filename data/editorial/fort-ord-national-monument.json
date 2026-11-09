@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 8803, 77 FR 24579",
           "url": "https://www.federalregister.gov/documents/2012/04/25/2012-10114/establishment-of-the-fort-ord-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 8803—Establishment of the Fort Ord National Monument, April 20, 2012",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-8803-establishment-the-fort-ord-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 8803, 77 FR 24579, signed 2012-04-20; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

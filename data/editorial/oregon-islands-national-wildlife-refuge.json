@@ -1,0 +1,27 @@
+{
+  "slug": "oregon-islands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-05-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established on May 6, 1935, as a sanctuary and breeding ground for seabirds and marine mammals, the scenic and rugged Oregon Islands NWR includes 1,853 rocks, reefs, and islands and stretches from Tillamook Head near Seaside south to the California border.",
+      "authority": {
+        "type": "unspecified",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Oregon Islands National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/oregon-islands/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

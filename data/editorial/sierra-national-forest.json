@@ -1,0 +1,27 @@
+{
+  "slug": "sierra-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-07-02",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Sierra: Land transferred to Inyo, I Mono and Stanislaus. Portion deleted to establish Sequoia.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 902"
+      },
+      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

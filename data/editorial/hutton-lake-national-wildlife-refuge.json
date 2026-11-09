@@ -1,0 +1,28 @@
+{
+  "slug": "hutton-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-01-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Hutton Lake National Wildlife Refuge was established on January 28, 1932, by Executive Order.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Executive Order",
+        "citation": null,
+        "signedBy": "Executive Order"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Hutton Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/hutton-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

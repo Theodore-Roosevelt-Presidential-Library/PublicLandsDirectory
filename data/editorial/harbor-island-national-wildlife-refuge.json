@@ -1,0 +1,27 @@
+{
+  "slug": "harbor-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2019",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established as part of the Unique Ecosystems program. 2019 – Standerson Island was added to the refuge.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Harbor Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/harbor-island/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

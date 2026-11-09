@@ -1,0 +1,27 @@
+{
+  "slug": "theodore-roosevelt-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Bayou Cocodrie National Wildlife Refuge Bayou Cocodrie National Wildlife Refuge was established in 1990 to conserve some of the last remaining, least disturbed and largest stands of bottomland hardwoods in the Lower Mississippi Valley.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Theodore Roosevelt National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/theodore-roosevelt/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

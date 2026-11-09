@@ -1,0 +1,27 @@
+{
+  "slug": "watercress-darter-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Watercress Darter National Wildlife Refuge, located within the city limits of Bessemer, Alabama, was established by the Service in October of 1980 to provide protection for the watercress darter and to conserve and restore its crucial habitat.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Watercress Darter National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/watercress-darter/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

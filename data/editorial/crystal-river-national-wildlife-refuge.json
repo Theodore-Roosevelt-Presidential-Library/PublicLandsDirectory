@@ -1,0 +1,27 @@
+{
+  "slug": "crystal-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Crystal River National Wildlife Refuge, established in 1983, is the only refuge created specifically for the protection of the threatened Florida manatee, a subspecies of the West Indian manatee.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Crystal River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/crystal-river/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

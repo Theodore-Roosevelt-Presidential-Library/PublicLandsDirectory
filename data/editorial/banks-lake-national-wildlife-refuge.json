@@ -1,0 +1,27 @@
+{
+  "slug": "banks-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1985",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Banks Lake National Wildlife Refuge was established in 1985 under the Fish and Wildlife Act of 1956 and the Land and Water Conservation Fund Act of 1965.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Banks Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/banks-lake/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

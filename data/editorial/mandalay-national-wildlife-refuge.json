@@ -1,0 +1,27 @@
+{
+  "slug": "mandalay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "A Bayou Teche National Wildlife Refuge Located in the heart of the “Cajun Coast,” Bayou Teche National Wildlife Refuge, established in 2001, sits along Bayou Teche, an ancient channel of the Mississippi River.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Mandalay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mandalay/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

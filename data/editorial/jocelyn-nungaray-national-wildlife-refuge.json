@@ -1,0 +1,27 @@
+{
+  "slug": "jocelyn-nungaray-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Jocelyn Nungaray National Wildlife Refuge (originally named Anahuac) was established in 1963 to provide wintering and migration habitat for ducks and geese.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Jocelyn Nungaray National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/jocelyn-nungaray/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

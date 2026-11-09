@@ -1,0 +1,27 @@
+{
+  "slug": "sam-d-hamilton-noxubee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1940",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Us Visit Us Activities Trails Get Involved Events News Library Species Map https://www.facebook.com/NoxubeeNWR About Us Established in 1940, Noxubee National Wildlife Refuge is located in three counties (Noxubee, Oktibbeha, and Winston), and was created from lands obtained through the 1930s Resettlement Administration.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sam D. Hamilton Noxubee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sam-d-hamilton-noxubee/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}
