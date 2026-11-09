@@ -1,0 +1,37 @@
+{
+  "slug": "canaan-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1994-08-11",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Canaan Valley National Wildlife Refuge in Tucker County, West Virginia, was established when the Fish and Wildlife Service bought its first tract, 86 acres, with help from The Conservation Fund; it was the 500th national wildlife refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Land acquisition (Emergency Wetlands Resources Act of 1986 and other authorities)",
+        "signedBy": null
+      },
+      "note": "The CCP gives August 11, 1994 in one place and 'September 11, 1994' in another; the encyclopedia gives August 11, 1994. The refuge was formally dedicated as the 500th refuge on October 22, 1994 (FWS news release, Oct. 19, 1994: https://www.fws.gov/sites/default/files/documents/historic-news-releases/1994/19941019a.pdf).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Canaan Valley NWR Comprehensive Conservation Plan, 2011 (ServCat 1398)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1398"
+        },
+        {
+          "name": "e-WV: The West Virginia Encyclopedia, 'Canaan Valley National Wildlife Refuge'",
+          "url": "https://www.wvencyclopedia.org/articles/909"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

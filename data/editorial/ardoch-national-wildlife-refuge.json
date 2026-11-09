@@ -1,0 +1,37 @@
+{
+  "slug": "ardoch-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Ardoch Lake Migratory Waterfowl Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 8147 setting apart about 2,980 acres in Walsh County, North Dakota, as a refuge and breeding ground for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8147",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Both sources carry the same order text (APP transcribes the Federal Register); no FWS document with the date was found. The order itself is the primary record.",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 8147",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8147-establishing-the-ardoch-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register, Executive Order 8147 (issue of 1939-06-15)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1939-06-15/pdf/FR-1939-06-15.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

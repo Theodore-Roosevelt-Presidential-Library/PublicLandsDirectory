@@ -1,0 +1,28 @@
+{
+  "slug": "fox-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1979",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Fox River National Wildlife Refuge in Wisconsin was formally established in spring 1979, when the Fish and Wildlife Service acquired a marsh property under a federal consent decree.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land acquisition under a consent decree",
+        "signedBy": null
+      },
+      "note": "FWS only, and the CCP also says in one passage that the refuge was established in 1977.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Horicon and Fox River NWRs Comprehensive Conservation Plan, 2007 (ServCat 5985)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5985"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

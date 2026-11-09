@@ -1,0 +1,32 @@
+{
+  "slug": "big-stone-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1975-05-21",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Big Stone National Wildlife Refuge was established when the Army Corps of Engineers transferred 10,540 acres bought for the Big Stone Lake-Whetstone River flood-control project to the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Gerald R. Ford",
+        "citation": "Transfer from the U.S. Army Corps of Engineers; Fish and Wildlife Coordination Act and other authorities",
+        "signedBy": null
+      },
+      "note": "Both sources FWS; they agree on May 21, 1975. No non-FWS source checked.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Big Stone NWR Comprehensive Conservation Plan, 2012 (ServCat 43592)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43592"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Big Stone NWR 2026-2027 Hunt and Fish Compliance Documentation (ServCat 194364)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194364"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "bond-swamp-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989-10-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Bond Swamp National Wildlife Refuge was established on the Ocmulgee River floodplain near Macon, Georgia, through work by the Fish and Wildlife Service and The Nature Conservancy.",
+      "authority": {
+        "type": "administrative",
+        "administration": "George H. W. Bush",
+        "citation": "Fish and Wildlife Act of 1956; Emergency Wetlands Resources Act of 1986",
+        "signedBy": null
+      },
+      "note": "FWS only (CCP narrative and its 'Date Established' entry agree). No non-FWS source checked.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Bond Swamp NWR Comprehensive Conservation Plan, 2008 (ServCat 168160)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168160"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

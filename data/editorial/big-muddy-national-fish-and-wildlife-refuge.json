@@ -1,0 +1,28 @@
+{
+  "slug": "big-muddy-national-fish-and-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1994-09-09",
+      "action": "established",
+      "designation": "National Fish and Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service bought its first parcel of Missouri River floodplain for the Big Muddy National Fish and Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Not confirmed",
+        "signedBy": null
+      },
+      "note": "One FWS source; it says the refuge was established in 1994 and dates the first purchase September 9, 1994. Authority not stated.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Big Muddy NFWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/big-muddy/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

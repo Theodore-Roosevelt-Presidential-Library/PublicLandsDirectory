@@ -1,0 +1,37 @@
+{
+  "slug": "caddo-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000-10-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service approved establishment of Caddo Lake National Wildlife Refuge on part of the former Longhorn Army Ammunition Plant in Harrison County, Texas.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Service approval; land transferred from the U.S. Army",
+        "signedBy": null
+      },
+      "note": "Both give October 19, 2000. Land has been conveyed from the Army in stages as cleanup is completed; the refuge opened to the public September 26, 2009 (Caddo Lake Institute). See also the October 19, 2000 Federal Register notices.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Caddo Lake NWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/caddo-lake/about-us"
+        },
+        {
+          "name": "Caddo Lake Institute, 'It's been TEN years - Happy Birthday to the Caddo Lake National Wildlife Refuge!!'",
+          "url": "https://caddolakeinstitute.org/?p=3281"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "cross-creeks-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1962",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cross Creeks National Wildlife Refuge on Lake Barkley in Tennessee was set aside on Corps of Engineers land to replace waterfowl habitat lost when the reservoir flooded part of the former Kentucky Woodlands National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Memorandum of understanding with the U.S. Army Corps of Engineers (November 9, 1962); Public Land Order 4560",
+        "signedBy": null
+      },
+      "note": "FWS only and internally inconsistent: the narrative says established in 1962 (the MOU year), while the purposes appendix gives 'Date Established: January 31, 1967', the date it assigns to Public Land Order 4560. A PLO numbered 4560 would ordinarily date to about 1969, so the PLO date also needs checking in the Federal Register.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Cross Creeks NWR Comprehensive Conservation Plan, 2009 (ServCat 169401)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169401"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

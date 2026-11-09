@@ -1,0 +1,28 @@
+{
+  "slug": "amagansett-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1968",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Amagansett National Wildlife Refuge was created in 1968 on the site of the former Amagansett Lifesaving Station on Long Island's south fork.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Not confirmed",
+        "signedBy": null
+      },
+      "note": "One FWS web source; it says the land was acquired in 1968 and 'declared a National Wildlife Refuge by President Lyndon Johnson'. No order or other record of a presidential action was found, so the authority is left unconfirmed. Wikipedia also gives 1968 (lead only).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Amagansett NWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/amagansett/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

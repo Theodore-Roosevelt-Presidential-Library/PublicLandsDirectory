@@ -1,0 +1,32 @@
+{
+ "slug": "anaho-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1913-09-04",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Anaho Island Reservation",
+   "indexText": "Woodrow Wilson signed Executive Order 1819 reserving Anaho Island in Pyramid Lake as a preserve and breeding ground for native birds.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Woodrow Wilson",
+    "citation": "Executive Order 1819",
+    "signedBy": "Woodrow Wilson"
+   },
+   "note": "The order itself describes the island as within the Pyramid Lake Indian Reservation; the 2015 FWS plan says the order recognized it as part of the Pyramid Lake Paiute Tribe's reservation. Any copy about that relationship goes to the Library's human reviewers (Indigenous history). Held for human review: touches Indigenous history (Pyramid Lake Paiute Tribe).",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Natural Resource Management Plan: Anaho Island National Wildlife Refuge, 2015 (ServCat 56469)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/56469"
+    },
+    {
+     "name": "Wikisource transcription of Executive Order 1819 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1819"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": false
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

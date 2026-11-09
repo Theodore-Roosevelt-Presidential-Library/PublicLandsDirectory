@@ -1,0 +1,32 @@
+{
+  "slug": "blackbeard-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1926-09-20",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Blackbeard Island Reservation",
+      "indexText": "An executive order set Blackbeard Island aside for use as a bird refuge and an experiment station for acclimatizing foreign game birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 4512",
+        "signedBy": null
+      },
+      "note": "Sources conflict. The FWS plan cites Executive Order 4512 of September 20, 1926. The New Georgia Encyclopedia says Woodrow Wilson made the island a wildlife preserve by executive order in 1914 and that it became a refuge in 1924. The island had been a Navy timber reserve since 1800. Check the 1914 and 1924-26 orders in the National Archives before publishing.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Interim Inventory and Monitoring Plan for Blackbeard Island NWR, 2022 (ServCat 143743)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143743"
+        },
+        {
+          "name": "New Georgia Encyclopedia, 'Blackbeard Island'",
+          "url": "https://www.georgiaencyclopedia.org/articles/geography-environment/blackbeard-island/"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

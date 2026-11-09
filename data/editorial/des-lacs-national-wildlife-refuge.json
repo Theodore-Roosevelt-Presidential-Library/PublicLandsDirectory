@@ -1,0 +1,37 @@
+{
+  "slug": "des-lacs-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-08-22",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Des Lacs Migratory Waterfowl Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 7154-A reserving about 24,100 acres in Burke and Ward counties, North Dakota, along the Des Lacs River as a migratory waterfowl refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7154-A",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "CCP names EO 7154-A and the 1935 establishment; APP gives August 22, 1935. Renamed Des Lacs National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 7154-A",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7154-establishing-des-lacs-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Comprehensive Conservation Plan: Des Lacs, J. Clark Salyer and Upper Souris NWRs, 2007 (ServCat 5971)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5971"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

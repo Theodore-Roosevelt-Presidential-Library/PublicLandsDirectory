@@ -1,0 +1,32 @@
+{
+  "slug": "featherstone-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1970-10-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress authorized the Interior Secretary to acquire a wetland tract in Prince William County, Virginia, that became Featherstone National Wildlife Refuge.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 91-499 (84 Stat. 1095)",
+        "signedBy": "Richard Nixon"
+      },
+      "note": "FWS sources conflict and none is independent. The CCP says Public Law 91-499 was approved October 22, 1970, but its purposes appendix gives 'Date Established: 23 February 1970', and its narrative says the land was first acquired from the District of Columbia in 1979; the FWS web page says the land was acquired in 1970. The statute text was not read.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Mason Neck and Featherstone NWRs Comprehensive Conservation Plan, 2011 (ServCat 43710)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43710"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Featherstone NWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/featherstone/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

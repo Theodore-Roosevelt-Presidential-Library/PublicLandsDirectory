@@ -1,0 +1,32 @@
+{
+  "slug": "columbia-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1944-06-13",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Columbia National Wildlife Refuge in central Washington was established when the first parcel was bought under the Migratory Bird Conservation Act, following the Migratory Bird Conservation Commission's approval in August 1943.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+        "signedBy": null
+      },
+      "note": "Both sources FWS (the web page gives 1944 only). Public Land Order 243 (September 6, 1944) then added withdrawn public lands (CCP).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Columbia NWR Comprehensive Conservation Plan, 2011 (ServCat 20246)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/20246"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Columbia NWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/columbia/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "dakota-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Dakota Lake Migratory Waterfowl Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 8117 setting apart 2,784 acres in Dickey County, North Dakota, as a refuge and breeding ground for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8117",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Both sources carry the same order text; no FWS document with the date was found. The order describes land in North Dakota only, though the directory lists ND and SD. Renamed Dakota Lake National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 8117",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8117-establishing-dakota-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register, Executive Order 8117 (issue of 1939-05-12)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1939-05-12/pdf/FR-1939-05-12.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

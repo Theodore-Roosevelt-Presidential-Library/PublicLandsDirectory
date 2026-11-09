@@ -1,0 +1,37 @@
+{
+  "slug": "browns-park-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1970-12-11",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Interior Department formally established Browns Park National Wildlife Refuge on the Green River in northwest Colorado by withdrawing public land for it under Public Land Order 4973.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Richard Nixon",
+        "citation": "Public Land Order 4973 (35 FR 19107)",
+        "signedBy": null
+      },
+      "note": "The CCP says the refuge was formally established by PLO 4973 of December 11, 1970; the order appears in the December 17, 1970 Federal Register. Land purchases under the Migratory Bird Conservation Act began earlier (CCP); those dates were not verified.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Browns Park NWR Comprehensive Conservation Plan, 1999 (ServCat 1395)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1395"
+        },
+        {
+          "name": "Federal Register, Public Land Order 4973, 'Withdrawal for Browns Park National Wildlife Refuge' (issue of 1970-12-17)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1970-12-17/pdf/FR-1970-12-17.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

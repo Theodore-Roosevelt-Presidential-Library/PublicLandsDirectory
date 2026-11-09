@@ -1,0 +1,37 @@
+{
+  "slug": "grays-harbor-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988-08-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress passed the act 'to establish the Grays Harbor National Wildlife Refuge' at Bowerman Basin in Washington, protecting a major spring stopover for migrating shorebirds.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 100-406, 102 Stat. 1041",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": "Signer per the CCP (President Reagan signed August 19, 1988) and the statute date. The CCP says the refuge was actually established with its first parcel in 1990.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Grays Harbor NWR and Black River Unit CCP, 2016 (ServCat 121229)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/121229"
+        },
+        {
+          "name": "Public Law 100-406, 102 Stat. 1041 (govinfo, U.S. Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg1041.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "conscience-point-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service acquired the land for Conscience Point National Wildlife Refuge, 60 acres of maritime grassland at Southampton on Long Island, by donation from a private individual.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Donation",
+        "signedBy": null
+      },
+      "note": "One FWS web source, which gives the acquisition year (1964), not a formal establishment date. Wikipedia and other secondary sites give a different year (1971); not resolved.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Amagansett NWR 'About Us' page (Long Island NWR Complex listing)",
+          "url": "https://www.fws.gov/refuge/amagansett/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
