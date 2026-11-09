@@ -1,0 +1,28 @@
+{
+  "slug": "two-ponds-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Two Ponds National Wildlife Refuge, a 72-acre urban refuge in Arvada, Colorado, was established in 1992.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Not determined",
+        "signedBy": null
+      },
+      "note": "Only the FWS brochure gives a year (\"Established in 1992\"). The establishing action and authority were not found, and there is no independent record yet.",
+      "sources": [
+        {
+          "name": "FWS, Two Ponds NWR general brochure",
+          "url": "https://www.fws.gov/sites/default/files/documents/Two%20Ponds%20NWR%20Gen%20Brochure%20WEB.pdf"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

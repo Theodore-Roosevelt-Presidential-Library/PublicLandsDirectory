@@ -1,0 +1,41 @@
+{
+  "slug": "upper-klamath-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1928-04-03",
+      "action": "established",
+      "designation": "Wild Life Refuge",
+      "name": "Upper Klamath Wild Life Refuge",
+      "indexText": "President Calvin Coolidge established the Upper Klamath Wild Life Refuge by Executive Order 4851 on April 3, 1928 on 7,560 acres of reclamation lands.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 4851",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "Pass A (2016 CCP: Coolidge reserved 7,560 acres as the Upper Klamath Wild Life Refuge by EO 4851, April 3, 1928) and Pass B (Monthly Catalog entry for EO 4851 dated April 3, 1928; Oregon Assistant Attorney General memo quoting the order) agree. Renamed Upper Klamath National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "Monthly Catalog of U.S. Government Publications, April 1928: Executive order, Upper Klamath Wild Life Refuge, Oreg. (No. 4851)",
+          "url": "https://mocat.library.unt.edu/catalog/400-ch1571"
+        },
+        {
+          "name": "Oregon Department of Justice, Assistant Attorney General advice on FWS Klamath Basin refuge water claims",
+          "url": "https://www.oregon.gov/OWRD/programs/WaterRights/Adjudications/KlamathRiverBasinAdj/Documents/Asst.%20Attorney%20General%20advice%20relating%20to%20U.S.%20Fish%20and%20Wildlife%20Service%20claims.pdf"
+        },
+        {
+          "name": "FWS, Klamath Basin Refuges CCP/EIS (2016), ch. 1, Upper Klamath history",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/114424"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

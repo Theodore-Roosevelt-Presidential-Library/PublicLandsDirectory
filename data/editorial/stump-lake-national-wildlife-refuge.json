@@ -1,0 +1,41 @@
+{
+  "slug": "stump-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1905-03-09",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Stump Lake Reservation",
+      "indexText": "President Theodore Roosevelt set aside four islands in Stump Lake, 27.39 acres, as the Stump Lake Reservation, a preserve and breeding ground for native birds, by executive order on March 9, 1905.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 296-A",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Pass A (FWS Realty record: EO 296A, March 9, 1905, 27.39 acres) and Pass B (order text on Wikisource: four islands in T. 151 N., R. 61 W., total 27.39 acres, \"to be known as the Stump Lake Reservation,\" dated March 9, 1905) agree. Signed by T.R. Renamed Stump Lake National Wildlife Refuge by Proclamation 2416, July 25, 1940. Wikisource is a transcription; a scan check against the original order or the GLO record would add a primary image.",
+      "sources": [
+        {
+          "name": "Wikisource: Executive Order 296-A (text, dated The White House, March 9, 1905)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_296-A"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: Stump Lake Reservation, EO 296A (9 Mar 1905)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143679"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416 (renaming, 1940)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

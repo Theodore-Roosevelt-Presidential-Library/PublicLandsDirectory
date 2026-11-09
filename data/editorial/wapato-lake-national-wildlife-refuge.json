@@ -1,0 +1,41 @@
+{
+  "slug": "wapato-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2013",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Wapato Lake, first acquired from 2008 as a unit of Tualatin River National Wildlife Refuge, was established as its own national wildlife refuge in 2013.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Fish and Wildlife Service administrative action",
+        "signedBy": null
+      },
+      "note": "Pass A (fws.gov: officially established in 2013 as part of the Tualatin River NWR Complex) and Pass B (Oregon Encyclopedia: named Wapato Lake National Wildlife Refuge in 2013; OPB: established in 2013) agree on the year. No exact date or establishing document was found. Public access opened February 1, 2023.",
+      "sources": [
+        {
+          "name": "Oregon Encyclopedia, \"Wapato Lake National Refuge\"",
+          "url": "https://oregonencyclopedia.org/articles/wapato_lake_national_refuge"
+        },
+        {
+          "name": "OPB, Think Out Loud, \"Wapato Lake wildlife refuge\" (Apr. 4, 2023)",
+          "url": "https://www.opb.org/article/2023/04/04/think-out-loud-wapato-lake-wildlife-refuge/"
+        },
+        {
+          "name": "FWS, Wapato Lake NWR page",
+          "url": "https://www.fws.gov/refuge/wapato-lake"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

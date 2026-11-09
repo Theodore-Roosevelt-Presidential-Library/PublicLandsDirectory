@@ -1,0 +1,37 @@
+{
+  "slug": "wake-atoll-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2009-01-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "After the Pacific Remote Islands Marine National Monument was proclaimed on January 6, 2009, Secretary of the Interior Order 3284 of January 16, 2009 placed the waters around Wake Atoll under Fish and Wildlife Service management as part of the National Wildlife Refuge System.",
+      "authority": {
+        "type": "administrative",
+        "administration": "George W. Bush",
+        "citation": "Secretary of the Interior Order 3284 (implementing Proclamation 8336)",
+        "signedBy": null
+      },
+      "note": "Pass A (FWS Realty record: SO 3284 of January 16, 2009 directs FWS to manage the lands and waters of Wake out to 12 nautical miles as a unit of the Refuge System) and Pass B (USGS report: on January 16, 2009, through Secretary Order 3284, management was delegated; the Air Force keeps managing the atoll itself under a 1972 agreement; FWS manages the areas from mean low water out to 50 nautical miles as part of the Refuge System) agree on date and order. They differ on the seaward extent (12 vs 50 nautical miles).",
+      "sources": [
+        {
+          "name": "USGS Open-File Report 2023-1066, Biodiversity Surveys of Wake Atoll",
+          "url": "https://pubs.usgs.gov/publication/ofr20231066/full"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: Wake Atoll NWR, Secretarial Order 3284 (16 Jan 2009)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144310"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

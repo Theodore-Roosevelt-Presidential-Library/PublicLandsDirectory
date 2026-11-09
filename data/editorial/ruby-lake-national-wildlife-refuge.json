@@ -1,0 +1,41 @@
+{
+  "slug": "ruby-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-07-02",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Ruby Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Ruby Lake Migratory Waterfowl Refuge by Executive Order 7923 on July 2, 1938, and it was renamed Ruby Lake National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7923",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS Realty establishment record) and Pass B (order text on the American Presidency Project; National Archives table) agree. Renamed Ruby Lake National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 7923",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7923-establishing-ruby-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1938 (3 FR 1639)",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1938.html"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: EO 7923",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143119"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

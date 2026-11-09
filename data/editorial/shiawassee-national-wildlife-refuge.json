@@ -1,0 +1,28 @@
+{
+  "slug": "shiawassee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1953",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Shiawassee National Wildlife Refuge was established in 1953 near Saginaw, Michigan, to provide habitat for migratory waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (presumed; not verified)",
+        "signedBy": null
+      },
+      "note": "FWS-only source for the year. The establishing authority and exact date were not found; the FWS Realty \"refuge purpose\" sheet exists in ServCat but was not read in full. Needs a Migratory Bird Conservation Commission report or a 1953 Michigan newspaper.",
+      "sources": [
+        {
+          "name": "FWS, Shiawassee NWR page",
+          "url": "https://www.fws.gov/refuge/shiawassee"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

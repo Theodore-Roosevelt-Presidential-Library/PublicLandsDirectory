@@ -1,0 +1,37 @@
+{
+  "slug": "sonny-bono-salton-sea-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1930-11-25",
+      "action": "established",
+      "designation": "Wild Life Refuge",
+      "name": "Salton Sea Wild Life Refuge",
+      "indexText": "President Herbert Hoover established the Salton Sea Wild Life Refuge by Executive Order 5498 on November 25, 1930 as a refuge and breeding ground for birds and wild animals.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5498",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": "Pass A (2014 CCP: Hoover issued EO 5498 on November 25, 1930, setting aside 32,766 acres) and Pass B (order text on the American Presidency Project) agree. Renamed Salton Sea National Wildlife Refuge by Proclamation 2416 (1940) and Sonny Bono Salton Sea National Wildlife Refuge by act of Congress in 1998 (112 Stat. 3380).",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 5498",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5498-salton-sea-wild-life-refuge"
+        },
+        {
+          "name": "FWS, Sonny Bono Salton Sea NWR Complex Final CCP (2014), vol. 1, ch. 1",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/108501"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

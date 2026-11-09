@@ -1,0 +1,28 @@
+{
+  "slug": "wood-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1948-12-21",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Fish and Wildlife Service records give December 21, 1948 as the establishment date of Wood Lake National Wildlife Refuge, a limited-interest (easement) refuge, under the Act of August 14, 1946, the forerunner of the Fish and Wildlife Coordination Act.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Harry S. Truman",
+        "citation": "Act of August 14, 1946 (Fish and Wildlife Coordination Act amendments), 16 U.S.C. 661-667e",
+        "signedBy": null
+      },
+      "note": "Pass A found the date only in the FWS limited-interest refuges CCP (Table 4). Pass B found no independent record: no executive order or proclamation for this refuge appears in the National Archives disposition tables (1937-1952) or on the American Presidency Project, and it is not among the North Dakota refuges renamed by Proclamation 2416 in 1940. FWS narrative reports for \"North Dakota Easement Refuges\" from 1945-1947 suggest the easements predate 1948, so the 1948 date may record a later administrative designation rather than the first protection. Needs a non-FWS source (Federal Register, Interior order, or county easement deed).",
+      "sources": [
+        {
+          "name": "FWS, Comprehensive Conservation Plan: North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

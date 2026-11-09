@@ -1,0 +1,32 @@
+{
+  "slug": "sutter-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1945",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Sutter National Wildlife Refuge was established in 1945 in the Sutter Bypass as a refuge and breeding ground for migratory birds and to reduce waterfowl damage to crops.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (presumed; later acquisitions under the Lea Act of 1948)",
+        "signedBy": null
+      },
+      "note": "FWS-only sources for 1945. The FWS Realty file cites the Lea Act of May 18, 1948 (62 Stat. 238), which postdates 1945, so the founding authority is unclear. No independent record found.",
+      "sources": [
+        {
+          "name": "FWS, Sacramento, Delevan, Colusa and Sutter NWRs Final CCP (2009)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/8237"
+        },
+        {
+          "name": "FWS, Sutter NWR page",
+          "url": "https://www.fws.gov/refuge/sutter"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

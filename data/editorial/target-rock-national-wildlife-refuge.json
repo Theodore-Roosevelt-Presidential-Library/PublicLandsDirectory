@@ -1,0 +1,37 @@
+{
+  "slug": "target-rock-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1967",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Eberstadt family donated the 80-acre former estate of New York banker Ferdinand Eberstadt at Lloyd Harbor to the Interior Department in 1967 under the Migratory Bird Conservation Act, creating Target Rock National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Donation accepted under the Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "Pass A (fws.gov: the Eberstadts donated 80 acres in 1967 through the Migratory Bird Conservation Act) and Pass B (Town of Huntington trail guide: the Eberstadt estate was donated to the Interior Department in 1967) agree on the year and donor. No exact date was found.",
+      "sources": [
+        {
+          "name": "Town of Huntington, NY, Trails Guide: Target Rock (estate of Ferdinand Eberstadt donated to the Interior Department in 1967)",
+          "url": "https://huntingtonny.gov/filestorage/13749/13843/15187/99828/153038/17956/Trails_Guide_Target_Rock.pdf"
+        },
+        {
+          "name": "FWS, Target Rock NWR About Us",
+          "url": "https://www.fws.gov/refuge/target-rock/about-us"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "tennessee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1945-12-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Harry S. Truman established the Tennessee National Wildlife Refuge by Executive Order 9670 on December 28, 1945 on Tennessee Valley Authority lands along Kentucky Lake.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Harry S. Truman",
+        "citation": "Executive Order 9670",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": "Pass A (FWS Realty establishment record; fws.gov page) and Pass B (order text on the American Presidency Project) agree. The order followed a November 29, 1945 agreement between the Tennessee Valley Authority and the Interior Department.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 9670",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-9670-establishing-the-tennessee-national-wildlife-refuge"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: EO 9670",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143805"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

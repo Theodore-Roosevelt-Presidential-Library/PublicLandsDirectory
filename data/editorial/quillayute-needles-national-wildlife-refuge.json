@@ -1,0 +1,37 @@
+{
+  "slug": "quillayute-needles-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1907-10-23",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Quillayute Needles Reservation",
+      "indexText": "President Theodore Roosevelt set aside the small islands off the Washington coast between latitudes 47°38′ and 48°02′ N, including the Quillayute Needles, as the Quillayute Needles Reservation by Executive Order 705 on October 23, 1907.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 705",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Pass A (2007 CCP: the three Washington island reservations were set aside by T.R. on October 23, 1907, by EOs 703, 704 and 705) and Pass B (order text on Wikisource: EO 705 creates the \"Quillayute Needles Reservation,\" dated October 23, 1907) agree. The CCP is inconsistent about which of the three order numbers belongs to which refuge; the order text settles it as 705. Renamed Quillayute Needles National Wildlife Refuge by Proclamation 2416, dated July 25, 1940 (one CCP passage says July 30).",
+      "sources": [
+        {
+          "name": "Wikisource: Executive Order 705 (text, dated October 23, 1907)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_705"
+        },
+        {
+          "name": "FWS, Washington Islands NWRs (Flattery Rocks, Quillayute Needles, Copalis) Final CCP/EA (2007)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1470"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

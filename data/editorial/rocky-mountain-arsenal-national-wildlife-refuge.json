@@ -1,0 +1,41 @@
+{
+  "slug": "rocky-mountain-arsenal-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2004-04",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Rocky Mountain Arsenal National Wildlife Refuge was formally established in April 2004, after the Army transferred about 4,930 acres of the former arsenal to the Interior Department under the Rocky Mountain Arsenal National Wildlife Refuge Act of 1992.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Rocky Mountain Arsenal National Wildlife Refuge Act of 1992, Public Law 102-402, 106 Stat. 1961 (Oct. 9, 1992); formal establishment notice 69 FR 21570",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": "Pass A (FWS: established in 2004) and Pass B (Federal Register notice: transfer of jurisdiction on April 2, 2004, formal establishment announced April 21, 2004; statute text of the 1992 act, which provides for the refuge after transfer) agree. The 1992 act was signed by President George H. W. Bush; the establishment itself was an Interior Department action under that act, so the date given is April 2004.",
+      "sources": [
+        {
+          "name": "Federal Register, Notice of Formal Establishment of the Rocky Mountain Arsenal NWR, 69 FR 21570 (Apr. 21, 2004)",
+          "url": "https://www.federalregister.gov/documents/2004/04/21/04-8990/notice-of-formal-establishment-of-the-rocky-mountain-arsenal-national-wildlife-refuge-adams-county-co"
+        },
+        {
+          "name": "Public Law 102-402, 106 Stat. 1961 (Oct. 9, 1992), govinfo",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg1961.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: 106 Stat. 1961",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143115"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

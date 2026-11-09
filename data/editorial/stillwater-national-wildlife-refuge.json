@@ -1,0 +1,41 @@
+{
+  "slug": "stillwater-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1949-10-21",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Under a November 26, 1948 agreement with the Truckee-Carson Irrigation District and the Nevada fish and game board, the Fish and Wildlife Service designated the Stillwater National Wildlife Refuge in a notice dated October 17, 1949, effective on publication in the Federal Register on October 21, 1949.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Harry S. Truman",
+        "citation": "FWS designation under the Act of March 10, 1934, as amended Aug. 14, 1946 (14 FR 6449)",
+        "signedBy": null
+      },
+      "note": "Pass A (FWS: established in 1949; Realty records the 1948 agreement and the 1949 Federal Register notice) and Pass B (notice text in the Federal Register, signed by Acting Director M. C. James on October 17, 1949, effective on publication, October 21, 1949) agree. The Federal Register notice was written by the Fish and Wildlife Service but is the official published designation.",
+      "sources": [
+        {
+          "name": "Federal Register, vol. 14 (Oct. 21, 1949), p. 6449-6450, \"Designation of the Stillwater National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1949-10-21/pdf/FR-1949-10-21.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: Cooperative Agreement (26 Nov 1948) and 14 FR 6449",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143668"
+        },
+        {
+          "name": "FWS, Stillwater NWR page",
+          "url": "https://www.fws.gov/refuge/stillwater"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

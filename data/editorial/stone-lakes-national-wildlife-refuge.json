@@ -1,0 +1,32 @@
+{
+  "slug": "stone-lakes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1994",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Stone Lakes National Wildlife Refuge, south of Sacramento, was officially established in 1994 with the acquisition of its first property, becoming the 505th unit of the National Wildlife Refuge System.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "FWS administrative establishment (first land acquisition)",
+        "signedBy": null
+      },
+      "note": "FWS-only sources, and they are not fully consistent: fws.gov and the CCP introduction say established in 1994 (first acquisition), while another CCP passage says the Service \"established the Refuge in 1992,\" which likely refers to approval of the acquisition boundary. No independent record found.",
+      "sources": [
+        {
+          "name": "FWS, Stone Lakes NWR page",
+          "url": "https://www.fws.gov/refuge/stone-lakes"
+        },
+        {
+          "name": "FWS, Stone Lakes NWR Comprehensive Conservation Plan (2007)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/44003"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

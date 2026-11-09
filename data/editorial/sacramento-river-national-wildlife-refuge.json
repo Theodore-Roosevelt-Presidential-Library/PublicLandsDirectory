@@ -1,0 +1,32 @@
+{
+  "slug": "sacramento-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Sacramento River National Wildlife Refuge was established in 1989 to protect riparian habitat along the Sacramento River between Red Bluff and Princeton.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "FWS administrative establishment (land acquisition)",
+        "signedBy": null
+      },
+      "note": "FWS-only sources (fws.gov: established in 1989). The FWS Realty record lists a 1988 act (102 Stat. 1778) authorizing land acquisition, which may relate. No independent record found.",
+      "sources": [
+        {
+          "name": "FWS, Sacramento River NWR page",
+          "url": "https://www.fws.gov/refuge/sacramento-river"
+        },
+        {
+          "name": "FWS, Sacramento River NWR Final CCP (2005)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1511"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

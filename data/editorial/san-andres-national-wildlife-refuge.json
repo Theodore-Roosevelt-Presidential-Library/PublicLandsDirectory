@@ -1,0 +1,41 @@
+{
+  "slug": "san-andres-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-01-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the San Andres National Wildlife Refuge by Executive Order 8646 on January 22, 1941 to conserve desert bighorn sheep.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8646",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS) and Pass B (order text; National Archives table) agree on the order and year. The FWS Realty record dates the order January 23, 1941; the American Presidency Project and the National Archives table both give January 22, 1941 (published 6 FR 592, January 25, 1941), so January 22 is used.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 8646",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8646-establishing-the-san-andres-national-wildlife-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1941 (6 FR 592)",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1941.html"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: EO 8646",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143158"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

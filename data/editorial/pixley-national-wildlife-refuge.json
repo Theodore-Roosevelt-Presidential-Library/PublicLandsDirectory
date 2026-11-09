@@ -1,0 +1,41 @@
+{
+  "slug": "pixley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1959-11-17",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Secretary of the Interior Fred A. Seaton's Order 2843 of November 17, 1959 transferred about 4,357 acres of the San Joaquin land utilization project in Tulare County to the Bureau of Sport Fisheries and Wildlife, to be administered as the Pixley National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Secretary of the Interior Order 2843 (24 FR 9488-9489)",
+        "signedBy": null
+      },
+      "note": "Pass A (FWS Realty record and 2005 CCP: Secretarial Order 2843 dated November 17, 1959) and Pass B (order text in the Federal Register of November 25, 1959: lands \"will be administered as the Pixley National Wildlife Refuge\") agree. The order's date line was not legible in the scanned issue, so November 17 rests on the FWS records; fws.gov says the establishment was announced November 20, 1959. Secretary Seaton is named on fws.gov; the order number is confirmed by the Federal Register.",
+      "sources": [
+        {
+          "name": "Federal Register, vol. 24 (Nov. 25, 1959), p. 9488-9489, Order 2843",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1959-11-25/pdf/FR-1959-11-25.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: Secretarial Order 2843 (17 Nov 1959)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/142897"
+        },
+        {
+          "name": "FWS, Kern and Pixley NWRs Final CCP (2005)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1444"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

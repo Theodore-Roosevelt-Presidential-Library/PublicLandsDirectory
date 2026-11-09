@@ -1,0 +1,37 @@
+{
+  "slug": "yukon-flats-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established the Yukon Flats National Wildlife Refuge, about 8,630,000 acres, in the Alaska National Interest Lands Conservation Act, which President Jimmy Carter signed on December 2, 1980.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Alaska National Interest Lands Conservation Act, Public Law 96-487, sec. 302(9), 94 Stat. 2371",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": "Pass A (FWS Realty establishment record and fws.gov: created in 1980 by ANILCA) and Pass B (statute text, sec. 302(9), in the Statutes at Large on govinfo) agree. FWS says the area had been designated a national monument in December 1978 and that ANILCA dropped the monument designation and created the refuge; the 1978 monument action was not separately verified here.",
+      "sources": [
+        {
+          "name": "Public Law 96-487 (Alaska National Interest Lands Conservation Act), 94 Stat. 2371, Dec. 2, 1980, sec. 302",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: Yukon Flats NWR (94 Stat., 2 Dec 1980)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144670"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

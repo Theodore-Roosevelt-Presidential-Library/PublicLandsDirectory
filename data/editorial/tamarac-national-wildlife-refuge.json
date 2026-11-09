@@ -1,0 +1,41 @@
+{
+  "slug": "tamarac-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-05-31",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Tamarac Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Tamarac Migratory Waterfowl Refuge by Executive Order 7902 on May 31, 1938, and it was renamed Tamarac National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7902",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS Realty establishment record; fws.gov page) and Pass B (order text; National Archives table) agree. Renamed Tamarac National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 7902",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7902-establishing-the-tamarac-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1938 (3 FR 1255)",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1938.html"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: EO 7902",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143797"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

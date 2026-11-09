@@ -1,0 +1,45 @@
+{
+  "slug": "springwater-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-02-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Springwater National Wildlife Refuge by Executive Order 8661 on February 3, 1941.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8661",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS limited-interest refuges CCP, Table 4) and Pass B (American Presidency Project text and National Archives Executive Orders Disposition Table, 6 FR 770) agree on order number and date. The refuge is a limited-interest (easement) refuge on private land.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 8661",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8661-establishing-the-springwater-national-wildlife-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1941",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1941.html"
+        },
+        {
+          "name": "FWS, Comprehensive Conservation Plan: North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents (EO 8661)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143577"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

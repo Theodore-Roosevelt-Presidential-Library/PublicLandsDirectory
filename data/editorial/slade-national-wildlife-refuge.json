@@ -1,0 +1,28 @@
+{
+  "slug": "slade-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Slade National Wildlife Refuge was established in 1941 through a donation of land around Harker Lake in Kidder County, North Dakota, by Northern Pacific Railroad executive George T. Slade.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Donation",
+        "signedBy": null
+      },
+      "note": "FWS-only source. Wikipedia (lead only) says Slade gave the land in 1940 and the refuge dates from 1941, so the gift and establishment years may differ. No executive order for Slade appears in the National Archives disposition tables for 1940-1941.",
+      "sources": [
+        {
+          "name": "FWS, Slade NWR page",
+          "url": "https://www.fws.gov/refuge/slade"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

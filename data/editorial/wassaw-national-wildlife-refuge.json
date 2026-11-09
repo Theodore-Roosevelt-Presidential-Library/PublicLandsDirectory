@@ -1,0 +1,37 @@
+{
+  "slug": "wassaw-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Wassaw Island Trust, formed by the Parsons family, sold Wassaw Island to The Nature Conservancy in 1969, which conveyed it to the federal government as Wassaw National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Deed from The Nature Conservancy (FWS cites a Deed of Donation dated October 20, 1969)",
+        "signedBy": null
+      },
+      "note": "Pass A (2011 CCP: designated a refuge on October 20, 1969, by a Deed of Donation from The Nature Conservancy \"for the sum of one dollar\") and Pass B (New Georgia Encyclopedia: in 1969 the trust sold the island to the Conservancy for $1 million and the Conservancy then sold it to the federal government for the same amount) agree on 1969 and the route through The Nature Conservancy. They disagree on the price; the exact day, October 20, rests on the FWS source.",
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia, \"Wassaw Island\"",
+          "url": "https://www.georgiaencyclopedia.org/articles/geography-environment/wassaw-island/"
+        },
+        {
+          "name": "FWS, Savannah Coastal Refuges Complex CCP (2011), refuge purposes",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/20277"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

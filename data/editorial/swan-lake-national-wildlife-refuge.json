@@ -1,0 +1,41 @@
+{
+  "slug": "swan-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-02-27",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Swan Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Swan Lake Migratory Waterfowl Refuge by Executive Order 7563 on February 27, 1937, and it was renamed Swan Lake National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7563",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS Realty establishment record; fws.gov history) and Pass B (order text; National Archives table) agree. Renamed Swan Lake National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 7563",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7563-establishing-swan-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1937 (2 FR 537)",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1937.html"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: EO 7563",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143688"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

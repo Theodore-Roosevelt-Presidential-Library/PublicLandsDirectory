@@ -1,0 +1,37 @@
+{
+  "slug": "three-arch-rocks-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1907-10-14",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Three Arch Rocks Reservation",
+      "indexText": "President Theodore Roosevelt set aside the Three Arch Rocks off the Oregon coast as a preserve and breeding ground for native birds and animals by Executive Order 699 on October 14, 1907.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 699",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Pass A (2009 CCP: \"On October 14, 1907, President T. Roosevelt signed E.O. 699 establishing the Three Arch Rocks Reservation\") and Pass B (order text on Wikisource, dated October 14, 1907, \"to be known as Three Arch Rocks Reservation\") agree. Renamed Three Arch Rocks National Wildlife Refuge by Proclamation 2416, July 25, 1940. FWS calls it the first national wildlife refuge west of the Mississippi; that ranking is the agency's claim and was not checked here.",
+      "sources": [
+        {
+          "name": "Wikisource: Executive Order 699 (text, dated October 14, 1907)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_699"
+        },
+        {
+          "name": "FWS, Oregon Islands, Three Arch Rocks and Cape Meares NWRs CCP (2009), sec. 1.7.2",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1531"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
