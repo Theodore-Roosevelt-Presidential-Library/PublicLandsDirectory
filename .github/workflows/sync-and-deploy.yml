@@ -1,0 +1,108 @@
+name: Sync data and deploy
+
+on:
+  schedule:
+    - cron: '17 9 * * *'      # nightly full sync (agency facts, boundaries, photos) ~3:17 a.m. Central
+    - cron: '41 * * * *'      # hourly alerts (NPS alerts, NWS warnings, wildfire perimeters)
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Run a full agency sync'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Restore last synced agency data
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            data/sources
+            data/boundaries
+            data/directory.json
+          key: agency-data-${{ github.run_id }}
+          restore-keys: agency-data-
+
+      - name: Decide sync type
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "41 * * * *" ] && [ -f data/directory.json ]; then
+            echo "full=false" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full }}" = "false" ] && [ -f data/directory.json ]; then
+            echo "full=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "full=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Full sync (NPS, FWS, USFS, BLM)
+        if: steps.mode.outputs.full == 'true'
+        run: |
+          node scripts/sync-nps.mjs
+          node scripts/sync-lands.mjs
+          node scripts/merge.mjs
+
+      - name: Re-merge editorial changes
+        if: steps.mode.outputs.full != 'true'
+        run: node scripts/merge.mjs
+
+      - name: Save agency data
+        if: steps.mode.outputs.full == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            data/sources
+            data/boundaries
+            data/directory.json
+          key: agency-data-${{ github.run_id }}
+
+      - name: Live alerts
+        run: node scripts/sync-alerts.mjs
+
+      - name: Keep the weather-zone cache
+        run: |
+          if ! git diff --quiet -- data/reference; then
+            git config user.name "public-lands-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/reference
+            git commit -m "Update NWS zone cache [skip ci]"
+            git push || echo "push skipped"
+          fi
+
+      - name: Build site
+        run: node scripts/build.mjs
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

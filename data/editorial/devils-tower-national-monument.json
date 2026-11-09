@@ -1,0 +1,22 @@
+{
+  "slug": "devils-tower-national-monument",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1906-09-24",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Devils Tower National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": "The first national monument proclaimed under the Antiquities Act.",
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/sources/
+data/boundaries/
+data/directory.json
+data/live/
+raw/
+.DS_Store

@@ -1,0 +1,67 @@
+{
+  "slug": "grand-canyon-national-park",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1893-02-20",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Grand Canyon Forest Reserve",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Benjamin Harrison",
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    },
+    {
+      "date": "1906-11-28",
+      "action": "designated",
+      "designation": "Game Reserve",
+      "name": "Grand Canyon Game Reserve",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    },
+    {
+      "date": "1908-01-11",
+      "action": "designated",
+      "designation": "National Monument",
+      "name": "Grand Canyon National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": "Proclaimed under the Antiquities Act.",
+      "sources": [],
+      "reviewed": false
+    },
+    {
+      "date": "1919-02-26",
+      "action": "redesignated",
+      "designation": "National Park",
+      "name": "Grand Canyon National Park",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Embed a public land | Public Lands Directory</title>
+<meta name="description" content="Add a live card, alerts, designation history or boundary map for any U.S. public land to your website.">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/style.css">
+<script src="/embed/embed.js" async></script>
+<style>.builder{display:grid;grid-template-columns:minmax(0,1fr) 460px;gap:30px;margin-top:20px}@media(max-width:900px){.builder{grid-template-columns:1fr}}
+.builder label{display:block;font:600 .8rem var(--ui);text-transform:uppercase;letter-spacing:.06em;color:var(--forest);margin:14px 0 4px}
+.builder input,.builder select{font:1rem var(--ui);padding:8px;border:1px solid #b9b3a2;border-radius:6px;width:100%}
+textarea{width:100%;font:.82rem/1.4 ui-monospace,Menlo,monospace;padding:10px;border-radius:6px;border:1px solid #ccc}</style>
+</head><body>
+<header class="masthead"><div class="wrap"><a class="brand" href="/"><span class="brand-kicker">Theodore Roosevelt Presidential Library</span><span class="brand-title">Public Lands Directory</span></a><nav><a href="/">Directory</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav></div></header>
+<main class="wrap prose" style="max-width:1180px">
+<h1>Embed a public land</h1>
+<p>Add a live card for any site to your own web page. Cards update on their own: when the managing agency posts a closure or the National Weather Service issues a warning, your page shows it within the hour. Free for anyone to use.</p>
+<div class="builder">
+  <div>
+    <label for="site">Site</label><input id="site" list="sites" value="theodore-roosevelt-national-park" autocomplete="off"><datalist id="sites"></datalist>
+    <label for="view">What to show</label>
+    <select id="view"><option value="card">Card: photo, summary, key facts, alerts</option><option value="compact">Compact: key facts and alert count</option><option value="alerts">Alerts only</option><option value="history">Designation history</option><option value="map">Boundary map</option></select>
+    <label for="theme">Style</label><select id="theme"><option value="light">Light</option><option value="dark">Dark</option></select>
+    <label for="code">Code to paste</label><textarea id="code" rows="4" readonly></textarea>
+    <p><button class="btn" id="copy" type="button">Copy code</button></p>
+    <h2>Other ways to embed</h2>
+    <p><strong>Iframe map</strong> (works where scripts are not allowed, such as some content management systems):</p>
+    <textarea id="iframe" rows="3" readonly></textarea>
+    <p><strong>Several sites on one map:</strong> list slugs separated by commas in the <code>site</code> parameter of <code>/embed/map.html</code>.</p>
+    <p><strong>Your own design:</strong> use the <a href="/api/">open data</a> directly.</p>
+  </div>
+  <div><label>Preview</label><div id="preview"></div></div>
+</div>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const BASE = location.origin;
+fetch('/api/index.json').then((r) => r.json()).then((d) => { $('sites').innerHTML = d.sites.map((s) => `<option value="${s.s}">${s.n}</option>`).join(''); });
+const q = new URLSearchParams(location.search); if (q.get('site')) $('site').value = q.get('site');
+function update() {
+  const site = $('site').value.trim(), view = $('view').value, theme = $('theme').value;
+  const attrs = `site="${site}"${view !== 'card' ? ` view="${view}"` : ''}${theme !== 'light' ? ` theme="${theme}"` : ''}`;
+  $('code').value = `<script src="${BASE}/embed/embed.js" async><\/script>\n<public-lands-card ${attrs}></public-lands-card>`;
+  $('iframe').value = `<iframe src="${BASE}/embed/map.html?site=${site}" width="100%" height="360" style="border:0" title="Map" loading="lazy"></iframe>`;
+  $('preview').innerHTML = `<public-lands-card ${attrs}></public-lands-card>`;
+}
+['site', 'view', 'theme'].forEach((k) => $(k).addEventListener('change', update));
+$('copy').onclick = () => { navigator.clipboard.writeText($('code').value); $('copy').textContent = 'Copied'; setTimeout(() => ($('copy').textContent = 'Copy code'), 1500); };
+update();
+</script>
+</body></html>
