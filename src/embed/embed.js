@@ -44,7 +44,7 @@
       const url = s.url;
       const img = this.getAttribute('photo') !== 'false' && s.images && s.images[0];
       const alerts = (s.alerts || []).slice(0, 4);
-      const alertsHTML = alerts.length ? alerts.map((a) => `<div class="al"><strong>${esc(a.source === 'NWS' ? 'Weather' : a.source === 'NIFC' ? 'Wildfire' : a.kind || 'Alert')}:</strong> ${esc(a.title)}</div>`).join('') + ((s.alerts.length > 4) ? `<p><a href="${url}#alerts" target="_blank" rel="noopener">${s.alerts.length - 4} more alerts</a></p>` : '') : '<p class="ok">No current alerts.</p>';
+      const alertsHTML = alerts.length ? alerts.map((a) => `<div class="al"><strong>${esc(a.source === 'NWS' ? 'Weather' : a.source === 'NIFC' ? 'Wildfire' : a.kind || 'Alert')}:</strong> ${esc(a.title)}</div>`).join('') + ((s.alerts.length > 4) ? `<p><a href="${url}#alerts" target="_blank" rel="noopener">${s.alerts.length - 4} more alerts</a></p>` : '') : '<p class="ok">All clear: no current alerts.</p>';
       const est = s.established;
       const estHTML = est ? `<b>${esc(est.designation)} since</b><span>${fmt(est.date)} · ${esc(AUTH[est.authority?.type] || '')}${est.authority?.signedBy ? `, ${esc(est.authority.signedBy)}` : ''}${est.reviewed ? '' : ' <span class="pend">pending review</span>'}</span>` : '';
       const head = `${img && view !== 'compact' && view !== 'map' ? `<div class="img" style="background-image:url('${esc(img.url)}')" role="img" aria-label="${esc(img.alt || s.name)}"></div>` : ''}<div class="b"><h3>${esc(s.name)}</h3><p class="m">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.name).join(' & '))} · ${esc(s.stateNames.join(', '))}</p>`;

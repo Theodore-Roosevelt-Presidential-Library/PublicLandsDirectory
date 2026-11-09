@@ -2,7 +2,7 @@
 
 Agency data covers the facts the agencies publish. Everything that makes the directory a guide, and the history the agencies do not publish in structured form, is written here: one JSON file per site in `data/editorial/`, named by the site's slug (the last part of its URL).
 
-Anything carrying the Library's name follows the TRPL Brand and Editorial Standards and the Story Guide. Theodore Roosevelt quotes must be verbatim with a citation, or left out.
+Anything carrying the Library's name follows the [TRPL brand guide](https://brand.labs.trlibrary.com) (voice and tone, editorial style guide, accuracy and approvals) and the Story Guide. Theodore Roosevelt quotes must be verbatim with a citation, or left out.
 
 ## File format
 
@@ -63,11 +63,12 @@ The site shows the **first** entry as "First protected" and the **latest** `esta
 
 ## Review rules
 
-1. Every entry starts with `"reviewed": false` and shows a *Pending historian review* tag on the site.
+1. Every entry starts with `"reviewed": false`. **Unreviewed entries are not published.** The live build leaves them out; run `SHOW_UNREVIEWED=1 npm run merge && npm run build` to preview them locally, where they carry a *Pending historian review* tag.
 2. Run the entry through HistorianPanel (`accuracy-review`). Add at least one primary or official source to `sources` (Statutes at Large, the proclamation text, NPS legislative history, the Federal Register).
 3. Only then set `"reviewed": true`.
 4. `tribalHomelands` text needs tribal review as well as historian review, following the Library's hard-chapters routing.
-5. The by-administration filter has the same sensitivity as the PresidentialPublicLands project. Keep entries factual (date, authority, signer) with no characterization of any administration.
+5. Entries that name a recent or current President, or a monument designation still in public debate, route through Bridget (Javelin) before `reviewed` is set, per the Library's nonpartisan rule.
+6. The by-administration filter has the same sensitivity as the PresidentialPublicLands project. Keep entries factual (date, authority, signer) with no characterization of any administration.
 
 ## Seeded entries (2026-11-08)
 

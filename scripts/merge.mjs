@@ -5,6 +5,7 @@ import { existsSync } from 'node:fs';
 import { DATA, readJSON, writeJSON, listJSON, slugify, arcgisQuery, AGENCIES, CATEGORIES, STATE_NAMES, nowISO, bboxOf, labelPoint } from './lib.mjs';
 import { pointInGeom, sampleVertices } from './geo.mjs';
 
+const SHOW_UNREVIEWED = process.env.SHOW_UNREVIEWED === '1';
 const AGENCY_PRIORITY = { NPS: 0, FWS: 1, BLM: 2, USFS: 3 };
 
 // Spherical polygon area (acres) — holes subtracted.
@@ -90,7 +91,15 @@ for (const recs of groups.values()) {
     if (slugs.has(slug)) slug = `${slug}-${rec.agencyUnitCode}`.toLowerCase();
     slugs.add(slug);
 
-    const ed = editorial.get(rec.id) || editorial.get(slug) || {};
+    const raw = editorial.get(rec.id) || editorial.get(slug) || {};
+    // Accuracy gate: unreviewed history, guide text and Roosevelt connections stay off the public site
+    // unless SHOW_UNREVIEWED=1 (for review previews). See docs/EDITORIAL.md.
+    const ed = SHOW_UNREVIEWED ? raw : {
+      ...raw,
+      designationHistory: (raw.designationHistory || []).filter((h) => h.reviewed),
+      guide: raw.guide && raw.guide.reviewed !== false ? raw.guide : {},
+      trConnection: raw.trConnection && raw.trConnection.reviewed !== false ? raw.trConnection : null,
+    };
     const location = rec.location || (geometry ? labelPoint(geometry) : null);
     const st = rec.states?.length ? rec.states : statesFor(geometry, location);
     const bbox = geometry ? bboxOf(geometry) : null;
@@ -118,6 +127,7 @@ for (const recs of groups.values()) {
       administrations,
       designationHistory: history,
       summary: ed.summary || rec.description || null,
+      summarySource: ed.summary ? null : rec.description ? AGENCIES[rec.agency].name : null,
       guide: ed.guide || {},
       trConnection: ed.trConnection || null,
       links: {

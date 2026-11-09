@@ -58,11 +58,11 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 // ---------- alerts ----------
 function alertsHTML(slug) {
   const list = alerts.sites[slug] || [];
-  if (!list.length) return `<div class="alerts-empty">No current alerts from the managing agency, the National Weather Service or wildfire reporting.</div>`;
+  if (!list.length) return `<div class="alerts-empty">All clear. The managing agency, the National Weather Service and wildfire reporting show no current alerts.</div>`;
   return list.map((a) => `<details class="alert alert-${esc((a.source + '-' + (a.severity || a.kind || '')).toLowerCase().replace(/[^a-z]+/g, '-'))}">
-    <summary><span class="alert-src">${esc(a.source === 'NWS' ? 'Weather' : a.source === 'NIFC' ? 'Wildfire' : a.kind || 'Alert')}</span> ${esc(a.title)}</summary>
+    <summary><span class="alert-src">${esc(a.source === 'NWS' ? 'Weather' : a.source === 'NIFC' ? (a.kind || 'Wildfire') : a.kind || 'Alert')}</span> ${esc(a.title)}</summary>
     ${a.text ? `<div class="alert-body">${paras(a.text)}${a.instruction ? `<p><strong>What to do:</strong> ${esc(a.instruction)}</p>` : ''}</div>` : ''}
-    ${a.url ? `<p class="alert-link"><a href="${esc(a.url)}" rel="noopener">Details</a>${a.ends ? ` · Until ${esc(new Date(a.ends).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }))}` : ''}</p>` : ''}
+    ${a.url ? `<p class="alert-link"><a href="${esc(a.url)}" rel="noopener">Read the full alert</a>${a.ends ? ` · Until ${esc(new Date(a.ends).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }))}` : ''}</p>` : ''}
   </details>`).join('');
 }
 
@@ -101,7 +101,7 @@ for (const s of sites) {
   const social = Object.entries(s.links.social || {}).filter(([, v]) => v);
   const linkList = [
     s.links.official && `<a class="btn" href="${esc(s.links.official)}">Official website</a>`,
-    s.links.recreationGov ? `<a class="btn btn-ghost" href="${esc(s.links.recreationGov)}">Recreation.gov</a>` : `<a class="btn btn-ghost" href="${esc(s.links.recreationGovSearch)}">Permits &amp; camping on Recreation.gov</a>`,
+    s.links.recreationGov ? `<a class="btn btn-ghost" href="${esc(s.links.recreationGov)}">Recreation.gov</a>` : `<a class="btn btn-ghost" href="${esc(s.links.recreationGovSearch)}">Permits and camping on Recreation.gov</a>`,
     s.links.alltrails ? `<a class="btn btn-ghost" href="${esc(s.links.alltrails)}">Trails on AllTrails</a>` : s.links.alltrailsExplore ? `<a class="btn btn-ghost" href="${esc(s.links.alltrailsExplore)}">Find trails on AllTrails</a>` : null,
     s.links.directions && `<a class="btn btn-ghost" href="${esc(s.links.directions)}">Directions</a>`,
     ...social.map(([k, v]) => `<a class="btn btn-ghost" href="${esc(v)}">${esc(LINK_LABELS[k] || k)}</a>`),
@@ -150,7 +150,7 @@ for (const s of sites) {
 
   const body = `
 <article class="site" data-slug="${s.slug}">
-  <div class="hero${hero ? '' : ' hero-plain'}"${hero ? ` style="--hero:url('${esc(hero.url)}')"` : ''}>
+  <div class="hero${hero ? '' : ' hero-plain'}"${hero ? ` style="--hero:url('${esc(hero.url)}')" role="img" aria-label="${esc(hero.alt || hero.title || s.name)}"` : ''}>
     <div class="wrap hero-inner">
       <p class="eyebrow">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.code).join(' / '))} · ${esc(s.states.join(', '))}</p>
       <h1>${esc(s.name)}</h1>
@@ -160,7 +160,7 @@ for (const s of sites) {
   <div class="wrap grid">
     <div class="main">
       <section id="alerts" class="block alerts" aria-live="polite"><h2>Alerts and conditions</h2><div class="alerts-list" data-generated="${esc(alerts.generated || '')}">${alertsHTML(s.slug)}</div></section>
-      ${section('overview', 'Overview', paras(s.summary))}
+      ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">From the ${esc(s.summarySource)}</p>` : '') : '')}
       ${section('special', 'What makes it special', g.special ? paras(g.special) + guidePending : '')}
       ${section('history', 'History', historyHTML)}
       ${s.trConnection ? section('roosevelt', 'The Roosevelt connection', paras(s.trConnection.summary) + pendingTag(s.trConnection.reviewed)) : ''}
@@ -249,7 +249,7 @@ const about = `<div class="wrap prose">
 <tr><td>Designation history, guide text, Roosevelt connections</td><td>Theodore Roosevelt Presidential Library, reviewed by its historians</td><td>As written</td></tr>
 </tbody></table>
 <h2>How designation history works</h2>
-<p>Each site\u2019s history lists every change in its status: the date, the designation, the legal authority (an act of Congress, a presidential proclamation, an executive order or a secretarial order) and the administration in office. For acts of Congress, the entry names the President who signed the law. Entries marked <span class="tag tag-pending">Pending historian review</span> have not yet been checked against primary sources.</p>
+<p>Each site\u2019s history lists every change in its status: the date, the designation, the legal authority (an act of Congress, a presidential proclamation, an executive order or a secretarial order) and the administration in office. For acts of Congress, the entry names the President who signed the law. Each history appears here once the Library’s historians have checked it against primary sources.</p>
 <h2>Boundaries and acreage</h2>
 <p>Boundaries are simplified to about 200 meters so pages load quickly. They are for trip planning, not navigation or legal use; follow each source link for official full-resolution data. Refuge acreage reflects the approved acquisition boundary, which can be larger than the land the Fish and Wildlife Service actually manages. Acreage marked \u201cestimate\u201d is computed from the simplified boundary.</p>
 <h2>Places managed by more than one agency</h2>

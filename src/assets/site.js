@@ -24,6 +24,6 @@
   fetch('/api/alerts.json', { cache: 'no-cache' }).then((r) => r.json()).then((d) => {
     if (!d.generated || d.generated <= (list.dataset.generated || '')) return;
     const a = d.sites[art.dataset.slug] || [];
-    list.innerHTML = a.length ? a.map((x) => `<details class="alert alert-${esc((x.source + '-' + (x.severity || x.kind || '')).toLowerCase().replace(/[^a-z]+/g, '-'))}"><summary><span class="alert-src">${esc(x.source === 'NWS' ? 'Weather' : x.source === 'NIFC' ? 'Wildfire' : x.kind || 'Alert')}</span> ${esc(x.title)}</summary>${x.text ? `<div class="alert-body"><p>${esc(x.text)}</p></div>` : ''}${x.url ? `<p class="alert-link"><a href="${esc(x.url)}">Details</a></p>` : ''}</details>`).join('') : '<div class="alerts-empty">No current alerts from the managing agency, the National Weather Service or wildfire reporting.</div>';
+    list.innerHTML = a.length ? a.map((x) => `<details class="alert alert-${esc((x.source + '-' + (x.severity || x.kind || '')).toLowerCase().replace(/[^a-z]+/g, '-'))}"><summary><span class="alert-src">${esc(x.source === 'NWS' ? 'Weather' : x.source === 'NIFC' ? 'Wildfire' : x.kind || 'Alert')}</span> ${esc(x.title)}</summary>${x.text ? `<div class="alert-body"><p>${esc(x.text)}</p></div>` : ''}${x.url ? `<p class="alert-link"><a href="${esc(x.url)}">Read the full alert</a></p>` : ''}</details>`).join('') : '<div class="alerts-empty">All clear. The managing agency, the National Weather Service and wildfire reporting show no current alerts.</div>';
   }).catch(() => {});
 })();
