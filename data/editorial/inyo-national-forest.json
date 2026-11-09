@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": "35 Stat. 2134"
+        "citation": "Proclamation 756, 35 Stat. 2134"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 22",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2134 (Statutes at Large, govinfo): Proclamation of May 25, 1907, Theodore Roosevelt, Inyo National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2134.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 756, May 25, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-756-setting-apart-inyo-national-forest-california"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 756, May 25, 1907, 35 Stat. 2134, Theodore Roosevelt; issued after the act of March 4, 1907, so \"National Forest\" is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

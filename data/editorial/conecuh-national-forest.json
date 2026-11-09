@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Franklin D. Roosevelt",
-        "citation": "Proclamation 2189"
+        "citation": "Proclamation 2189, 50 Stat. 1754"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "50 Stat. 1754 (Statutes at Large, govinfo): Proclamation No. 2189, July 17, 1936, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1754.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2189, July 17, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2189-conecuh-national-forest-alabama"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2189, July 17, 1936, 50 Stat. 1754, Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

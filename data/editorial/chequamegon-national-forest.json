@@ -12,16 +12,31 @@
         "administration": "Franklin D. Roosevelt",
         "citation": "Proclamation 2061, 48 Stat. 1716"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 73",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "48 Stat. 1716 (Statutes at Large, govinfo): Proclamation No. 2061, Nov. 13, 1933, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg1716.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2061, Nov. 13, 1933",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2061-chequamegon-national-forest-wisconsin"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2061, Nov. 13, 1933, 48 Stat. 1716, Franklin D. Roosevelt. (In the 1930s Statutes the bracketed number prints after each proclamation, so the \"[No. 2060]\" above the Chequamegon text belongs to the Nicolet order.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

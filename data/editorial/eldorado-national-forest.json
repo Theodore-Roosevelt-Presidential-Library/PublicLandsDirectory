@@ -12,16 +12,31 @@
         "administration": "William Howard Taft",
         "citation": "Proclamation 1070, 36 Stat. 2729"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 38",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "36 Stat. 2729 (Statutes at Large, govinfo): Proclamation of July 28, 1910, William H. Taft, Eldorado National Forest (begins on p. 2729)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2728.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1070, July 28, 1910",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1070-setting-apart-the-eldorado-national-forest-california-and-nevada"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1070, July 28, 1910, 36 Stat. 2729, Taft.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

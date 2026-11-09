@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Franklin D. Roosevelt",
-        "citation": "Proclamation 2362"
+        "citation": "Proclamation 2362, 54 Stat. 2655"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 81",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "54 Stat. 2655 (Statutes at Large, govinfo): Proclamation No. 2362, Sept. 11, 1939, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-54/pdf/STATUTE-54-Pg2655.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2362, Sept. 11, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2362-mark-twain-national-forest-missouri"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2362, Sept. 11, 1939, 54 Stat. 2655 (4 FR 3907), Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

@@ -20,28 +20,13 @@
         }
       ],
       "research": "fs612",
-      "reviewed": false
-    },
-    {
-      "date": "1908-07-01",
-      "action": "established",
-      "designation": "National Forest",
-      "name": null,
-      "indexText": "Uinta: Land added. Land transferred to establish Ashley. (E.O. 884) L",
-      "authority": {
-        "type": "presidential-proclamation",
-        "administration": "Theodore Roosevelt",
-        "citation": "Proclamation 815, 35 Stat. 2193"
-      },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "The proclamation of Jan. 16, 1906 (Proclamation 608, 34 Stat. 3186, Theodore Roosevelt) is real and did add land, but its text and diagram still say \"Uintah.\" It did not change the name. The first presidential text with \"Uinta\" is Proclamation 629 of May 29, 1906 (34 Stat. 3207), which says the name had already changed. The instrument and date of the change were not found. Fix to \"Uintah: Land added (Proclamation 608),\" and drop the rename, unless an administrative order turns up.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"

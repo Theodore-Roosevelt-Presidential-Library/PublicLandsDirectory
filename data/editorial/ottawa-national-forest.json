@@ -12,16 +12,31 @@
         "administration": "Herbert Hoover",
         "citation": "Proclamation 1932, 46 Stat. 3044"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 68",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "46 Stat. 3044 (Statutes at Large, govinfo): Proclamation of Jan. 27, 1931, Herbert Hoover, Ottawa National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3044.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1932, Jan. 27, 1931",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1932-ottawa-national-forest-michigan"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1932, Jan. 27, 1931, 46 Stat. 3044, Hoover.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

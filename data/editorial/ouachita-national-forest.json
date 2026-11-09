@@ -5,22 +5,36 @@
       "date": "1907-12-18",
       "action": "established",
       "designation": "National Forest",
-      "name": "Arkansas Forest Reserve",
+      "name": "Arkansas National Forest",
       "indexText": "Arkansas: Established.",
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
         "citation": "Proclamation 786, 35 Stat. 2167"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 23",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2167 (Statutes at Large, govinfo): Proclamation of Dec. 18, 1907, Theodore Roosevelt, \"the Arkansas National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2167.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 786, Dec. 18, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-786-setting-apart-arkansas-national-forest-arkansas"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, Proclamation 786 and Theodore Roosevelt are right, but in December 1907 the predecessor was the Arkansas National Forest, not a \"forest reserve.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1926-04-29",
@@ -33,16 +47,31 @@
         "administration": "Calvin Coolidge",
         "citation": "Executive Order 4436"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 61",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 4436: April 29, 1926, Arkansas National Forest, Ark., renamed the Ouachita National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 4436, April 29, 1926, Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

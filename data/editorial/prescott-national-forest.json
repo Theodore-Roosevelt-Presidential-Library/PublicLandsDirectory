@@ -12,16 +12,31 @@
         "administration": "William McKinley",
         "citation": "30 Stat. 1771"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "30 Stat. 1771 (Statutes at Large, govinfo): Proclamation No. 9, May 10, 1898, William McKinley, reserve in the Territory of Arizona",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1771.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation of May 10, 1898 (No. 9), 30 Stat. 1771, McKinley.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

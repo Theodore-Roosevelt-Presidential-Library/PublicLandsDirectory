@@ -12,16 +12,31 @@
         "administration": "Franklin D. Roosevelt",
         "citation": "Executive Order 6104"
       },
-      "note": "Effective 1933-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 72",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6104, April 6, 1933: Cascade and Santiam \"shall hereafter be known as the Willamette National Forest\"",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6104-transfer-lands-from-the-cascade-and-santiam-national-forests-the"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 6104: April 6, 1933, Willamette National Forest, Oreg., created by consolidation of the Cascade National Forest with the Santiam National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 6104, April 6, 1933 (effective July 1, 1933), Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

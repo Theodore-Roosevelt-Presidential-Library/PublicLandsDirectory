@@ -10,39 +10,68 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Proclamation 499, 33 Stat. 2308"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 12",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "33 Stat. 2308 (Statutes at Large, govinfo): Proclamation No. 2, May 29, 1903, Theodore Roosevelt: \"shall be known as The Manti Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2308.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 499, May 29, 1903",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-499-establishment-the-manti-forest-reserve"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 499, May 29, 1903, 33 Stat. 2308, Theodore Roosevelt. Adds the missing citation.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1950-08-28",
       "action": "renamed",
       "designation": "National Forest",
-      "name": "Manti-la Sal National Forest",
+      "name": "Manti-La Sal National Forest",
       "indexText": "Manti: 15-F.R. 5957 Name changed to Manti-La Sal.",
       "authority": {
         "type": "administrative-order",
         "administration": "Harry S. Truman",
-        "citation": "P.L.O. 667"
+        "citation": "Public Land Order 667, 15 FR 5957"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 91",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Federal Register (govinfo): Public Land Order 667, \"Changing the Name of the Manti National Forest to the Manti-La Sal National Forest,\" signed Oscar L. Chapman, Secretary of the Interior, 15 FR 5957 (Sept. 2, 1950)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1950-09-02/pdf/FR-1950-09-02.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and order are right. The official name is \"Manti-La Sal\" (capital L). PLO 667 was signed by Secretary of the Interior Oscar L. Chapman under EO 9337, not by the President; Truman was in office.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

@@ -5,22 +5,36 @@
       "date": "1918-05-16",
       "action": "established",
       "designation": "National Forest",
-      "name": "Shenandoah Forest Reserve",
+      "name": "Shenandoah National Forest",
       "indexText": "Shenandoah: Established.",
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Woodrow Wilson",
         "citation": "Proclamation 1448, 40 Stat. 1779"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 50",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "40 Stat. 1779 (Statutes at Large, govinfo): Proclamation of May 16, 1918, Woodrow Wilson, Shenandoah National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1779-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1448, May 16, 1918",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1448-setting-apart-the-shenandoah-national-forest-virginia-and-west-virginia"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, Proclamation 1448 and Wilson are right, but in 1918 the predecessor was the Shenandoah National Forest, not a \"forest reserve.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1932-06-28",
@@ -33,16 +47,31 @@
         "administration": "Herbert Hoover",
         "citation": "Executive Order 5867"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 71",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5867, June 28, 1932",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5867-george-washington-national-forest-virginia-and-west-virginia"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 5867, June 28, 1932, Herbert Hoover. (The leaf with EO 5853-5879 is missing from the archive.org scan of the 1944 list.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

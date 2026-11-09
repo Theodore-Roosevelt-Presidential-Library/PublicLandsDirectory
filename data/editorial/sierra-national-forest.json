@@ -2,26 +2,47 @@
   "slug": "sierra-national-forest",
   "designationHistory": [
     {
-      "date": "1908-07-02",
+      "date": "1893-02-14",
       "action": "established",
-      "designation": "National Forest",
+      "designation": "Forest Reserve",
       "name": null,
-      "indexText": "Sierra: Land transferred to Inyo, I Mono and Stanislaus. Portion deleted to establish Sequoia.",
+      "indexText": "Sierra: Established reserve (Proclamation of Feb. 14, 1893)",
       "authority": {
-        "type": "executive-order",
-        "administration": "Theodore Roosevelt",
-        "citation": "Executive Order 902"
+        "type": "presidential-proclamation",
+        "administration": "Benjamin Harrison",
+        "citation": "27 Stat. 1059",
+        "signedBy": "Benjamin Harrison"
       },
-      "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "27 Stat. 1059 (Statutes at Large, govinfo): Proclamation No. 43, Feb. 14, 1893, Benjamin Harrison, reserve in California",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1059.pdf"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 902: July 2, 1908, Sierra National Forest, Calif., diminished by the exclusion of lands that constituted the Sequoia National Forest and parts of the Stanislaus, Inyo, and Mono",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong event. EO 902 (July 2, 1908) diminished the Sierra to form the Sequoia and parts of other forests; it did not establish the Sierra. The Sierra Forest Reserve was established by Benjamin Harrison, Proclamation of Feb. 14, 1893 (No. 43), 27 Stat. 1059. (Davis misprints the volume as 26.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sierra: Land transferred to Inyo, I Mono and Stanislaus. Portion deleted to establish Sequoia."
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": "34 Stat. 3225"
+        "citation": "Proclamation 644, 34 Stat. 3225"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3225 (Statutes at Large, govinfo): Proclamation of Aug. 16, 1906, Theodore Roosevelt, Wasatch Forest Reserve (begins on p. 3225)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3225-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 644, Aug. 16, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-644-setting-apart-the-wasatch-forest-reserve-utah"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 644, Aug. 16, 1906, 34 Stat. 3225, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

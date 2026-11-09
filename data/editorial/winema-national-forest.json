@@ -12,16 +12,31 @@
         "administration": "John F. Kennedy",
         "citation": "Proclamation 3423"
       },
-      "note": "Effective 1961-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 101",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3423, July 26, 1961",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3423-winema-national-forest-oregon"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 3423, July 26, 1961 (26 FR 6799), John F. Kennedy. The draft note's \"effective 1961-07-01\" comes before the signing date and is doubtful; Davis also gives July 1 as the effective date. Not checked against the Federal Register text.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

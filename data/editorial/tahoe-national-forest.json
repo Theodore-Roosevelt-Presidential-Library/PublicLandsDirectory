@@ -10,17 +10,31 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "William McKinley",
-        "citation": "31 Stat. 1953"
+        "citation": "Proclamation 437, 31 Stat. 1953"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "31 Stat. 1953 (Statutes at Large, govinfo): Proclamation No. 3, April 13, 1899, William McKinley: \"shall be known as The Lake Tahoe Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-31/pdf/STATUTE-31-Pg1953.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 437, April 13, 1899",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-437-establishing-the-lake-tahoe-forest-reserve-the-state-california"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 437, April 13, 1899, 31 Stat. 1953, McKinley; predecessor name Lake Tahoe Forest Reserve is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1905-10-03",
@@ -31,18 +45,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": "34 Stat. 3163"
+        "citation": "Proclamation 597, 34 Stat. 3163"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3163 (Statutes at Large, govinfo): Proclamation of Oct. 3, 1905, Theodore Roosevelt: \"This reservation shall be known hereafter as the Tahoe Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3163.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 597, Oct. 3, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-597-enlargement-and-name-change-lake-tahoe-forest-reserve-california-and"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 597, Oct. 3, 1905, 34 Stat. 3163, Theodore Roosevelt; enlarged the reserve and renamed it Tahoe.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": "35 Stat. 2152"
+        "citation": "Proclamation 772, 35 Stat. 2152"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 23",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2152 (Statutes at Large, govinfo): Proclamation of Sept. 10, 1907, Theodore Roosevelt, Tongass National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2152.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 772, Sept. 10, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-772-setting-apart-tongass-national-forest-alaska"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 772, Sept. 10, 1907, 35 Stat. 2152, Theodore Roosevelt; \"National Forest\" is right after March 4, 1907.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

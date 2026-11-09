@@ -12,16 +12,31 @@
         "administration": "Benjamin Harrison",
         "citation": "27 Stat. 1068"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "27 Stat. 1068 (Statutes at Large, govinfo): Proclamation No. 48, Feb. 25, 1893, Benjamin Harrison, reserve in California",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1068.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation of Feb. 25, 1893 (No. 48), 27 Stat. 1068, Harrison, a week before he left office (not inauguration day). Lineage: absorbed into the Angeles in 1908 and re-created in 1925 (Proc. 1750).",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

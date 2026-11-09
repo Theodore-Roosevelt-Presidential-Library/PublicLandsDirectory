@@ -10,18 +10,33 @@
       "authority": {
         "type": "administrative-order",
         "administration": "Dwight D. Eisenhower",
-        "citation": "Sec. of Agr. Order"
+        "citation": "Secretary of Agriculture order of Jan. 12, 1961, 26 FR 627"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 100",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Federal Register (govinfo): Secretary of Agriculture order dated Jan. 12, 1961, signed E. T. Benson, 26 FR 627-628, \"Uwharrie National Forest—North Carolina\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1961-01-20/pdf/FR-1961-01-20.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretary of Agriculture order of Jan. 12, 1961 (26 FR 627-628), signed by Ezra Taft Benson. Not a presidential act; Eisenhower was President at the time.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

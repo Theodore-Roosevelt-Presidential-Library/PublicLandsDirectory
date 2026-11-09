@@ -5,22 +5,36 @@
       "date": "1908-05-23",
       "action": "established",
       "designation": "National Forest",
-      "name": "Minnesota Forest Reserve",
+      "name": "Minnesota National Forest",
       "indexText": "Minnesota: Established.",
       "authority": {
         "type": "act-of-congress",
         "administration": "Theodore Roosevelt",
-        "citation": "Public Law 137, 35 Stat. 268"
+        "citation": "Act of May 23, 1908, ch. 193 (Public No. 137, 60th Congress), 35 Stat. 268"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 268 (Statutes at Large, govinfo): Act of May 23, 1908, ch. 193 (Public, No. 137): \"there is hereby established in the State of Minnesota a national forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg268.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, act and President (Theodore Roosevelt) are right, but in 1908 the unit was a national forest, the Minnesota National Forest, not a \"forest reserve.\" Its predecessor reservation came from the act of June 27, 1902 (32 Stat. 400). Davis gives a proclamation citation (34 Stat. 3259) for this event; the Statutes show it was an act of Congress.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1928-06-22",
@@ -33,16 +47,31 @@
         "administration": "Calvin Coolidge",
         "citation": "Executive Order 4913"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 64",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 4913: June 22, 1928, Minnesota National Forest, Minn., renamed Chippewa National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 4913, June 22, 1928, Calvin Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

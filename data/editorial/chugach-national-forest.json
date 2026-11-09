@@ -2,26 +2,47 @@
   "slug": "chugach-national-forest",
   "designationHistory": [
     {
-      "date": "1941-12-17",
+      "date": "1907-07-23",
       "action": "established",
       "designation": "National Forest",
       "name": null,
-      "indexText": "Chugach: Established Afognak. C 23, 1941 1942",
+      "indexText": "Chugach: Established (Proclamation 770, July 23, 1907)",
       "authority": {
-        "type": "executive-order",
-        "administration": "Franklin D. Roosevelt",
-        "citation": "Executive Order 8979"
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 770, 35 Stat. 2149",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 83",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2149 (Statutes at Large, govinfo): Proclamation of July 23, 1907, Theodore Roosevelt, Chugach National Forest, Territory of Alaska",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2149.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 770, July 23, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-770-setting-apart-chugach-national-forest-alaska"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8979, Dec. 16, 1941, establishing the Kenai National Moose Range",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8979-establishing-the-kenai-national-moose-range"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Extraction error. Executive Order 8979 (Dec. 16, 1941) established the Kenai National Moose Range; it did not establish Chugach. The Chugach National Forest was established by Theodore Roosevelt, Proclamation 770, July 23, 1907, 35 Stat. 2149. Afognak was added by EO 908 in 1908.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Chugach: Established Afognak. C 23, 1941 1942"
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

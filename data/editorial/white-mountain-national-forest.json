@@ -12,16 +12,31 @@
         "administration": "Woodrow Wilson",
         "citation": "Proclamation 1449, 40 Stat. 1779"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 50",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "40 Stat. 1779 (Statutes at Large, govinfo): Proclamation of May 16, 1918, Woodrow Wilson, White Mountain National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1779-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1449, May 16, 1918",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1449-setting-apart-the-white-mountain-national-forest-new-hampshire"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1449, May 16, 1918, 40 Stat. 1779, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

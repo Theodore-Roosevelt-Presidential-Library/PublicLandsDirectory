@@ -5,22 +5,75 @@
       "date": "1897-02-22",
       "action": "established",
       "designation": "Forest Reserve",
-      "name": "Lewis & Clarke Forest Reserve",
+      "name": "Lewis and Clarke Forest Reserve",
       "indexText": "Lewis & Clarke: Established reserve.",
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Grover Cleveland",
         "citation": "29 Stat. 907"
       },
-      "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "29 Stat. 907 (Statutes at Large, govinfo): Proclamation No. 29, Feb. 22, 1897, Grover Cleveland, reserve in Montana",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg907.pdf"
+        },
+        {
+          "name": "34 Stat. 3304 (Statutes at Large, govinfo): Proclamation of March 2, 1907, reciting establishment Feb. 22, 1897 \"under the name of the Lewis and Clarke Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3304.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, proclamation (No. 29, 29 Stat. 907) and Cleveland are right; effective March 1, 1898. Name spelled \"Lewis and Clarke\" in the official texts, not \"Lewis & Clarke.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1897-02-22",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Lewis & Clarke: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Grover Cleveland",
+        "citation": "29 Stat. 907"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "29 Stat. 907 (Statutes at Large, govinfo): Proclamation No. 29, Feb. 22, 1897, Grover Cleveland",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg907.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Same event as lewis-and-clark-national-forest#0 (duplicate row); facts confirmed. Consider dropping the duplicate.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1907-03-02",
@@ -41,28 +94,13 @@
         }
       ],
       "research": "fs612",
-      "reviewed": false
-    },
-    {
-      "date": "1897-02-22",
-      "action": "established",
-      "designation": "Forest Reserve",
-      "name": null,
-      "indexText": "Lewis & Clarke: Established reserve.",
-      "authority": {
-        "type": "presidential-proclamation",
-        "administration": "Grover Cleveland",
-        "citation": "29 Stat. 907"
-      },
-      "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original.",
-      "sources": [
-        {
-          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
-          "url": "https://archive.org/details/CAT92970816"
-        }
-      ],
-      "research": "fs612",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "The date, Proclamation 733, 34 Stat. 3304 and Theodore Roosevelt are confirmed, and it did add land. But the proclamation does not order a name change: it already calls the reserve \"Lewis and Clark\" and notes the old spelling. The spelling changed some time between June 9, 1903 and March 2, 1907, by an instrument not found. Safe wording: \"Land added (Proclamation 733); first proclamation to use the spelling Lewis and Clark.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"

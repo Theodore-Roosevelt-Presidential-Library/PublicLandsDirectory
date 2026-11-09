@@ -10,18 +10,33 @@
       "authority": {
         "type": "presidential-proclamation",
         "administration": "Theodore Roosevelt",
-        "citation": "34 Stat. 3157"
+        "citation": "Proclamation 596, 34 Stat. 3157"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3157 (Statutes at Large, govinfo): Proclamation of Oct. 3, 1905, Theodore Roosevelt: \"shall be known as the Shasta Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3157.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 596, Oct. 3, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-596-establishment-the-shasta-forest-reserve-california"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 596, Oct. 3, 1905, 34 Stat. 3157, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

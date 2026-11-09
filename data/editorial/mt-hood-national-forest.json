@@ -5,23 +5,38 @@
       "date": "1924-01-21",
       "action": "renamed",
       "designation": "National Forest",
-      "name": "Mt. Hood National Forest",
+      "name": "Mount Hood National Forest",
       "indexText": "Oregon: Name changed to Mt. Hood.",
       "authority": {
         "type": "executive-order",
         "administration": "Calvin Coolidge",
         "citation": "Executive Order 3944"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 58",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 3944: Jan. 21, 1924, Oregon National Forest, Oreg., renamed Mount Hood National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Executive Order 3944, Jan. 21, 1924, Coolidge, is right; the order spells the name \"Mount Hood National Forest.\" Predecessor: Oregon National Forest (EO 864, June 30, 1908).",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

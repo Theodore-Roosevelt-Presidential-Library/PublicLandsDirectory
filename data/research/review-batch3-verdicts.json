@@ -1,0 +1,2799 @@
+[
+ {
+  "id": "angeles-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 846: June 26, 1908, Angeles National Forest, Calif., created from the San Bernardino National Forest and portions of the San Gabriel and Santa Barbara National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 846, signed June 26, 1908 by Theodore Roosevelt (effective July 1, 1908)."
+ },
+ {
+  "id": "angelina-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1780 (Statutes at Large, govinfo): Proclamation No. 2202, Oct. 13, 1936, Franklin D. Roosevelt, Angelina National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1780.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2202, Oct. 13, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2202-angelina-national-forest-texas"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2202, 50 Stat. 1780"
+  },
+  "note": "Proclamation 2202, Oct. 13, 1936, 50 Stat. 1780 (1 FR 1601), Franklin D. Roosevelt."
+ },
+ {
+  "id": "apache-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 876: July 1, 1908, Apache National Forest, Ariz., created from a portion of the Black Mesa National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 876, July 1, 1908, Theodore Roosevelt. Checked against the page image of the 1944 list (OCR of a neighbouring entry also reads 876; that one is 875, Absaroka)."
+ },
+ {
+  "id": "arapaho-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 893: July 1, 1908, Arapaho National Forest, Colo., created from portions of the Medicine Bow, Pikes Peak, and Leadville National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 893, July 1, 1908, Theodore Roosevelt. (Davis prints the year as 1903; that is a typo: EO 893 is in the July 1908 run.)"
+ },
+ {
+  "id": "ashley-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 884: July 1, 1908, Uinta National Forest, Utah, modified by exclusion of certain lands constituted the Ashley National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 884, July 1, 1908, Theodore Roosevelt: the lands cut from the Uinta became the Ashley National Forest."
+ },
+ {
+  "id": "beaverhead-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 877: July 1, 1908, Beaverhead National Forest, Mont., created from portions of the Big Hole, Hell Gate, and Bitter Root National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 877, July 1, 1908, Theodore Roosevelt."
+ },
+ {
+  "id": "bienville-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "49 Stat. 3521 (Statutes at Large, govinfo): Proclamation No. 2175, June 15, 1936, Franklin D. Roosevelt, Bienville National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3521.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2175, June 15, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2175-bienville-national-forest-mississippi"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2175, 49 Stat. 3521"
+  },
+  "note": "Proclamation 2175, June 15, 1936, 49 Stat. 3521, Franklin D. Roosevelt."
+ },
+ {
+  "id": "bighorn-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 909 (Statutes at Large, govinfo): Proclamation No. 30, Feb. 22, 1897, Grover Cleveland, forest reservation in the Big Horn Mountains, Wyoming",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg909.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 30), 29 Stat. 909, Grover Cleveland; reserve in the Big Horn Mountains of Wyoming, later known as the Big Horn Forest Reserve. Suspended by the act of June 4, 1897 until March 1, 1898. The 1897 proclamations do not print a reserve name; the name comes from later records."
+ },
+ {
+  "id": "bighorn-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests in designated States and Territories consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908 of July 2, 1908 (Theodore Roosevelt) is the omnibus order that consolidated or renamed 55 national forests; Davis records the Big Horn to Bighorn change under it, effective July 1, 1908. The 1944 list does not itemize the 55 forests, so the per-forest detail rests on Davis."
+ },
+ {
+  "id": "bighorn-national-forest#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 909 (Statutes at Large, govinfo): Proclamation No. 30, Feb. 22, 1897, Grover Cleveland",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg909.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Same event as bighorn-national-forest#0 (duplicate row); facts confirmed. Consider dropping the duplicate."
+ },
+ {
+  "id": "bitterroot-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 883: July 1, 1908, Bitterroot National Forest, Mont., enlarged by the addition of portions of the Hell Gate and Big Hole National Forests, and other portions of the old Bitter Root National Forest constituted parts of Clearwater, Nezperce, Salmon, and Beaverhead",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Executive Order 883",
+   "text": "Bitter Root: Name changed to Bitterroot; lands added from Hell Gate and Big Hole (E.O. 883, July 1, 1908)"
+  },
+  "note": "Wrong order number: the draft picked up the Missoula row (EO 882). The Bitterroot order is Executive Order 883, July 1, 1908, Theodore Roosevelt. Date, action and President are right."
+ },
+ {
+  "id": "bitterroot-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 899 (Statutes at Large, govinfo): Proclamation No. 23, Feb. 22, 1897, Grover Cleveland, reserve in Idaho and Montana",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg899.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 23), 29 Stat. 899, Grover Cleveland, the Bitter Root reserve in Idaho and Montana; effective March 1, 1898. (Davis misprints the page as 809.)"
+ },
+ {
+  "id": "black-hills-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 902 (Statutes at Large, govinfo): Proclamation No. 25, Feb. 22, 1897, Grover Cleveland, reserve in South Dakota (Black Hills Meridian)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg902.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 25), 29 Stat. 902, Grover Cleveland; effective March 1, 1898."
+ },
+ {
+  "id": "bridger-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 873: July 1, 1908, Wyoming National Forest, Wyo., created from a portion of the Yellowstone National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Wyoming National Forest"
+  },
+  "note": "Executive Order 873, July 1, 1908, Theodore Roosevelt, is right, but the predecessor was the Wyoming National Forest, not a \"forest reserve\": reserves were renamed national forests by the act of March 4, 1907."
+ },
+ {
+  "id": "bridger-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8709, March 10, 1941",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8709-changing-the-name-the-wyoming-national-forest-bridger-national-forest"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 8709, March 10, 1941 (6 FR 1400), Franklin D. Roosevelt, renamed the Wyoming National Forest the Bridger National Forest."
+ },
+ {
+  "id": "bridger-national-forest#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "37 Stat. 1713 (Statutes at Large, govinfo): Proclamation of June 30, 1911, William H. Taft, setting apart the Bridger National Forest from part of the Bonneville",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1713-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1164, June 30, 1911",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1164-setting-apart-the-bridger-national-forest-wyoming"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1164, June 30, 1911 (effective July 1, 1911), 37 Stat. 1713, Taft; created from part of the Bonneville NF. This first Bridger NF was merged into the Wyoming NF in 1923 (EO 3842) and the name was revived in 1941."
+ },
+ {
+  "id": "caribou-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3267 (Statutes at Large, govinfo): Proclamation of Jan. 15, 1907, Theodore Roosevelt, Caribou Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3267.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 698, Jan. 15, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-698-setting-apart-the-caribou-forest-reserve-idaho-and-wyoming"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 698, 34 Stat. 3267"
+  },
+  "note": "Proclamation 698, Jan. 15, 1907, 34 Stat. 3267, Theodore Roosevelt."
+ },
+ {
+  "id": "carson-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 848: June 26, 1908, Carson National Forest, N. Mex., created from the Taos National Forest and a portion of the Jemez National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 848, June 26, 1908, Theodore Roosevelt (effective July 1, 1908)."
+ },
+ {
+  "id": "chattahoochee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1739 (Statutes at Large, govinfo): Proclamation No. 2184, July 9, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1739.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2184, July 9, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2184-chattahoochee-national-forest-georgia"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2184, 50 Stat. 1739"
+  },
+  "note": "Proclamation 2184, July 9, 1936, 50 Stat. 1739 (1 FR 776), Franklin D. Roosevelt."
+ },
+ {
+  "id": "chequamegon-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "48 Stat. 1716 (Statutes at Large, govinfo): Proclamation No. 2061, Nov. 13, 1933, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg1716.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2061, Nov. 13, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2061-chequamegon-national-forest-wisconsin"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2061, Nov. 13, 1933, 48 Stat. 1716, Franklin D. Roosevelt. (In the 1930s Statutes the bracketed number prints after each proclamation, so the \"[No. 2060]\" above the Chequamegon text belongs to the Nicolet order.)"
+ },
+ {
+  "id": "chippewa-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "35 Stat. 268 (Statutes at Large, govinfo): Act of May 23, 1908, ch. 193 (Public, No. 137): \"there is hereby established in the State of Minnesota a national forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg268.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Minnesota National Forest",
+   "citation": "Act of May 23, 1908, ch. 193 (Public No. 137, 60th Congress), 35 Stat. 268"
+  },
+  "note": "Date, act and President (Theodore Roosevelt) are right, but in 1908 the unit was a national forest, the Minnesota National Forest, not a \"forest reserve.\" Its predecessor reservation came from the act of June 27, 1902 (32 Stat. 400). Davis gives a proclamation citation (34 Stat. 3259) for this event; the Statutes show it was an act of Congress."
+ },
+ {
+  "id": "chippewa-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 4913: June 22, 1928, Minnesota National Forest, Minn., renamed Chippewa National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 4913, June 22, 1928, Calvin Coolidge."
+ },
+ {
+  "id": "chugach-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "35 Stat. 2149 (Statutes at Large, govinfo): Proclamation of July 23, 1907, Theodore Roosevelt, Chugach National Forest, Territory of Alaska",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2149.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 770, July 23, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-770-setting-apart-chugach-national-forest-alaska"
+   },
+   {
+    "name": "American Presidency Project: Executive Order 8979, Dec. 16, 1941, establishing the Kenai National Moose Range",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8979-establishing-the-kenai-national-moose-range"
+   }
+  ],
+  "correction": {
+   "date": "1907-07-23",
+   "action": "established",
+   "designation": "National Forest",
+   "authorityType": "presidential-proclamation",
+   "citation": "Proclamation 770, 35 Stat. 2149",
+   "president": "Theodore Roosevelt",
+   "text": "Chugach: Established (Proclamation 770, July 23, 1907)"
+  },
+  "note": "Extraction error. Executive Order 8979 (Dec. 16, 1941) established the Kenai National Moose Range; it did not establish Chugach. The Chugach National Forest was established by Theodore Roosevelt, Proclamation 770, July 23, 1907, 35 Stat. 2149. Afognak was added by EO 908 in 1908."
+ },
+ {
+  "id": "cibola-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3257 (Statutes at Large, govinfo): Proclamation of Nov. 6, 1906, Theodore Roosevelt, Manzano Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3257-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 685, Nov. 6, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-685-setting-apart-the-manzano-forest-reserve-new-mexico"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 685, 34 Stat. 3257"
+  },
+  "note": "Proclamation 685, Nov. 6, 1906, 34 Stat. 3257, Theodore Roosevelt; predecessor name Manzano Forest Reserve is right."
+ },
+ {
+  "id": "cibola-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5752, Dec. 3, 1931",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5752-transfer-lands-from-the-datil-the-cibola-formerly-manzano-national"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5752: Dec. 3, 1931, Datil NF diminished, excluded lands transferred to the Manzano NF and its name changed to Cibola",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 5752, Dec. 3, 1931, Herbert Hoover."
+ },
+ {
+  "id": "clearwater-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 842: June 26, 1908, Clearwater National Forest, Idaho, created from portions of the Coeur d'Alene and Bitter Root National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 842, June 26, 1908, Theodore Roosevelt (effective July 1, 1908)."
+ },
+ {
+  "id": "cleveland-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Cleveland formed by consolidating the San Jacinto and Trabuco Canyon forests (effective July 1). The 1944 list does not itemize EO 908, so the per-forest detail rests on Davis."
+ },
+ {
+  "id": "coconino-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2196 (Statutes at Large, govinfo): Proclamation of July 2, 1908, Theodore Roosevelt, consolidating lands \"into one National Forest, which should be known as the Coconino National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2196.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 818, July 2, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-818-setting-apart-the-coconino-and-kaibab-national-forests-arizona"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 818, July 2, 1908, 35 Stat. 2196, Theodore Roosevelt."
+ },
+ {
+  "id": "coeur-dalene-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3256 (Statutes at Large, govinfo): Proclamation of Nov. 6, 1906, Theodore Roosevelt, Coeur d'Alene Forest Reserve (begins on p. 3256)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3255.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 683, Nov. 6, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-683-setting-apart-the-coeur-dalene-forest-reserve-idaho"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 683, 34 Stat. 3256"
+  },
+  "note": "Proclamation 683, Nov. 6, 1906, 34 Stat. 3256, Theodore Roosevelt. (govinfo files the page with the preceding document at p. 3255; the Coeur d'Alene text begins on p. 3256.)"
+ },
+ {
+  "id": "colville-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3288 (Statutes at Large, govinfo): Proclamation of March 1, 1907, Theodore Roosevelt, Colville Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3288.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 717, March 1, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-717-establishing-the-colville-forest-reserve-washington"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 717, 34 Stat. 3288"
+  },
+  "note": "Proclamation 717, March 1, 1907, 34 Stat. 3288, Theodore Roosevelt; three days before the act of March 4, 1907, so \"Forest Reserve\" is right."
+ },
+ {
+  "id": "conecuh-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1754 (Statutes at Large, govinfo): Proclamation No. 2189, July 17, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1754.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2189, July 17, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2189-conecuh-national-forest-alabama"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2189, 50 Stat. 1754"
+  },
+  "note": "Proclamation 2189, July 17, 1936, 50 Stat. 1754, Franklin D. Roosevelt."
+ },
+ {
+  "id": "coronado-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Coronado formed by consolidating the Dragoon, Santa Catalina and Santa Rita forests (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "croatan-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1759 (Statutes at Large, govinfo): Proclamation No. 2192, July 29, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1759.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2192, July 29, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2192-croatan-national-forest-north-carolina"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2192, 50 Stat. 1759"
+  },
+  "note": "Proclamation 2192, July 29, 1936, 50 Stat. 1759, Franklin D. Roosevelt."
+ },
+ {
+  "id": "custer-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Otter National Forest renamed Custer (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "daniel-boone-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "50 Stat. 1818 (Statutes at Large, govinfo): Proclamation No. 2227, Feb. 23, 1937, Franklin D. Roosevelt, \"the Cumberland National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1818.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2227, Feb. 23, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2227-cumberland-national-forest-kentucky"
+   }
+  ],
+  "correction": {
+   "name": "Cumberland National Forest",
+   "citation": "Proclamation 2227, 50 Stat. 1818"
+  },
+  "note": "Date, proclamation and President are right, but the predecessor was the Cumberland National Forest (1937), not a \"forest reserve.\""
+ },
+ {
+  "id": "daniel-boone-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3715, April 11, 1966",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3715-designating-the-cumberland-national-forest-ky-daniel-boone-national"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3715, April 11, 1966 (31 FR 5807), Lyndon B. Johnson."
+ },
+ {
+  "id": "davy-crockett-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1782 (Statutes at Large, govinfo): Proclamation No. 2203, Oct. 13, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1782.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2203, Oct. 13, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2203-davy-crockett-national-forest-texas"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2203, 50 Stat. 1782"
+  },
+  "note": "Proclamation 2203, Oct. 13, 1936, 50 Stat. 1782, Franklin D. Roosevelt."
+ },
+ {
+  "id": "deerlodge-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 880: July 1, 1908, Deerlodge National Forest, Mont., created from portions of the Helena, Hell Gate, and Big Hole National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 880, July 1, 1908, Theodore Roosevelt."
+ },
+ {
+  "id": "delta-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (govinfo): Secretary of Agriculture order \"Designating Certain Lands as National Forests,\" dated Jan. 12, 1961, signed E. T. Benson, 26 FR 627 (Jan. 20, 1961), \"Delta National Forest—Mississippi\"",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1961-01-20/pdf/FR-1961-01-20.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Secretary of Agriculture order of Jan. 12, 1961, 26 FR 627"
+  },
+  "note": "Secretary of Agriculture order of Jan. 12, 1961 (26 FR 627), signed by Ezra Taft Benson under sec. 11 of the Weeks Act. Not a presidential act; Eisenhower was President at the time."
+ },
+ {
+  "id": "deschutes-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 816: June 13, 1908, Deschutes National Forest, Oreg., created from portions of the Blue Mountains, Cascade, and Fremont National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 816, June 13, 1908, Theodore Roosevelt (effective July 1). The 1944 list OCR reads \"June 18\"; the page image reads June 13."
+ },
+ {
+  "id": "eldorado-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "36 Stat. 2729 (Statutes at Large, govinfo): Proclamation of July 28, 1910, William H. Taft, Eldorado National Forest (begins on p. 2729)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2728.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1070, July 28, 1910",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1070-setting-apart-the-eldorado-national-forest-california-and-nevada"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1070, July 28, 1910, 36 Stat. 2729, Taft."
+ },
+ {
+  "id": "fishlake-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "30 Stat. 1787 (Statutes at Large, govinfo): Proclamation No. 23, Feb. 10, 1899, William McKinley, reserve in Utah",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1787.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 10, 1899 (No. 23), 30 Stat. 1787, McKinley; the Fish Lake Forest Reserve."
+ },
+ {
+  "id": "fishlake-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Fish Lake renamed Fishlake and Glenwood added (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "fishlake-national-forest#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "30 Stat. 1787 (Statutes at Large, govinfo): Proclamation No. 23, Feb. 10, 1899, William McKinley",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1787.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Same event as fishlake-national-forest#0 (duplicate row); facts confirmed. Consider dropping the duplicate."
+ },
+ {
+  "id": "flathead-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 911 (Statutes at Large, govinfo): Proclamation No. 31, Feb. 22, 1897, Grover Cleveland, reserve in Montana",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg911.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 31), 29 Stat. 911, Cleveland; effective March 1, 1898. Lineage note: this Flathead Forest Reserve was merged into Lewis and Clarke in 1903 (33 Stat. 2311); the present Flathead NF was re-created from Lewis and Clark by EO 835, June 25, 1908."
+ },
+ {
+  "id": "francis-marion-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1744 (Statutes at Large, govinfo): Proclamation No. 2186, July 10, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1744.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2186, July 10, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2186-francis-marion-national-forest-south-carolina"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2186, 50 Stat. 1744"
+  },
+  "note": "Proclamation 2186, July 10, 1936, 50 Stat. 1744, Franklin D. Roosevelt."
+ },
+ {
+  "id": "fremont-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3231 (Statutes at Large, govinfo): Proclamation of Sept. 17, 1906, Theodore Roosevelt, Fremont Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3231-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 651, Sept. 17, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-651-setting-apart-the-fremont-forest-reserve-oregon"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 651, 34 Stat. 3231"
+  },
+  "note": "Proclamation 651, Sept. 17, 1906, 34 Stat. 3231, Theodore Roosevelt."
+ },
+ {
+  "id": "gallatin-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "30 Stat. 1788 (Statutes at Large, govinfo): Proclamation No. 24, Feb. 10, 1899, William McKinley, reserve in Montana",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1788.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 10, 1899 (No. 24), 30 Stat. 1788, McKinley."
+ },
+ {
+  "id": "george-washington-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "40 Stat. 1779 (Statutes at Large, govinfo): Proclamation of May 16, 1918, Woodrow Wilson, Shenandoah National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1779-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1448, May 16, 1918",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1448-setting-apart-the-shenandoah-national-forest-virginia-and-west-virginia"
+   }
+  ],
+  "correction": {
+   "name": "Shenandoah National Forest"
+  },
+  "note": "Date, Proclamation 1448 and Wilson are right, but in 1918 the predecessor was the Shenandoah National Forest, not a \"forest reserve.\""
+ },
+ {
+  "id": "george-washington-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5867, June 28, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5867-george-washington-national-forest-virginia-and-west-virginia"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 5867, June 28, 1932, Herbert Hoover. (The leaf with EO 5853-5879 is missing from the archive.org scan of the 1944 list.)"
+ },
+ {
+  "id": "gifford-pinchot-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "63 Stat. 1277 (Statutes at Large, govinfo): Proclamation No. 2845, June 15, 1949, Harry S. Truman: the Columbia National Forest \"is hereby designated and hereafter shall be known as the Gifford Pinchot National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg1276-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2845, June 15, 1949",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2845-designating-the-columbia-national-forest-the-gifford-pinchot-national"
+   }
+  ],
+  "correction": {
+   "action": "renamed",
+   "name": "Gifford Pinchot National Forest",
+   "citation": "Proclamation 2845, 63 Stat. 1277"
+  },
+  "note": "Wrong action: Proclamation 2845 (June 15, 1949, Truman) renamed the Columbia National Forest. The forest itself was created as the Columbia NF by Theodore Roosevelt, Executive Order 820, June 18, 1908."
+ },
+ {
+  "id": "gila-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3126 (Statutes at Large, govinfo): Proclamation of March 2, 1899, William McKinley, Gila River Forest Reserve (printed in vol. 34)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3126.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of March 2, 1899, McKinley, printed at 34 Stat. 3126; predecessor name Gila River Forest Reserve is right."
+ },
+ {
+  "id": "gila-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3123 (Statutes at Large, govinfo): Proclamation of July 21, 1905, Theodore Roosevelt: \"This reservation shall be known hereafter as the Gila Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3123.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 582, July 21, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-582-enlargement-the-gila-forest-reserve-new-mexico"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 582, 34 Stat. 3123"
+  },
+  "note": "Proclamation 582, July 21, 1905, 34 Stat. 3123, Theodore Roosevelt; enlarged the reserve and renamed it Gila."
+ },
+ {
+  "id": "grand-mesa-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 3970: March 11, 1924, Battlement National Forest, Colo., renamed Grand Mesa National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "action": "renamed",
+   "name": "Grand Mesa National Forest"
+  },
+  "note": "Wrong action: Executive Order 3970 (March 11, 1924, Coolidge) renamed the Battlement National Forest. The Battlement NF was created from the Battlement Mesa Forest Reserve by Theodore Roosevelt, EO 894, July 1, 1908."
+ },
+ {
+  "id": "green-mountain-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "47 Stat. 2509 (Statutes at Large, govinfo): Proclamation No. 1997, April 25, 1932, Herbert Hoover",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg2509.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1997, April 25, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1997-green-mountain-national-forest-vermont"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1997, April 25, 1932, 47 Stat. 2509, Hoover."
+ },
+ {
+  "id": "gunnison-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3025 (Statutes at Large, govinfo): Proclamation of May 12, 1905, Theodore Roosevelt, Gunnison Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3025.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 553, May 12, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-553-establishment-the-gunnison-forest-reserve-colorado"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 553, 34 Stat. 3025"
+  },
+  "note": "Proclamation 553, May 12, 1905, 34 Stat. 3025, Theodore Roosevelt."
+ },
+ {
+  "id": "helena-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3196 (Statutes at Large, govinfo): Proclamation of April 12, 1906, Theodore Roosevelt, Helena Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3196-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 619, April 12, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-619-setting-apart-the-helena-forest-reserve-montana"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 619, 34 Stat. 3196"
+  },
+  "note": "Proclamation 619, April 12, 1906, 34 Stat. 3196, Theodore Roosevelt."
+ },
+ {
+  "id": "hiawatha-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "46 Stat. 3043 (Statutes at Large, govinfo): Proclamation of Jan. 16, 1931, Herbert Hoover, Hiawatha National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3043.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1931, Jan. 16, 1931",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1931-hiawatha-national-forest-michigan"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1931, Jan. 16, 1931, 46 Stat. 3043, Hoover."
+ },
+ {
+  "id": "holly-springs-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "49 Stat. 3522 (Statutes at Large, govinfo): Proclamation No. 2176, June 15, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3522.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2176, June 15, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2176-holly-springs-national-forest-mississippi"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2176, 49 Stat. 3522"
+  },
+  "note": "Proclamation 2176, June 15, 1936, 49 Stat. 3522, Franklin D. Roosevelt."
+ },
+ {
+  "id": "homochitto-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1758 (Statutes at Large, govinfo): Proclamation No. 2191, July 20, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1758.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2191, July 20, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2191-homochitto-national-forest-mississippi"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2191, 50 Stat. 1758"
+  },
+  "note": "Proclamation 2191, July 20, 1936, 50 Stat. 1758, Franklin D. Roosevelt."
+ },
+ {
+  "id": "humboldt-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Humboldt formed by consolidating the Independence and Ruby Mountains forests (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "inyo-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2134 (Statutes at Large, govinfo): Proclamation of May 25, 1907, Theodore Roosevelt, Inyo National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2134.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 756, May 25, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-756-setting-apart-inyo-national-forest-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 756, 35 Stat. 2134"
+  },
+  "note": "Proclamation 756, May 25, 1907, 35 Stat. 2134, Theodore Roosevelt; issued after the act of March 4, 1907, so \"National Forest\" is right."
+ },
+ {
+  "id": "jefferson-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "49 Stat. 3506 (Statutes at Large, govinfo): Proclamation No. 2165, April 21, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3506.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2165, April 21, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2165-jefferson-national-forest-virginia"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2165, April 21, 1936, 49 Stat. 3506, Franklin D. Roosevelt. (A different Jefferson NF in Montana existed 1908-1932.)"
+ },
+ {
+  "id": "kaibab-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 818, July 2, 1908, Coconino and Kaibab",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-818-setting-apart-the-coconino-and-kaibab-national-forests-arizona"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 909: July 2, 1908, Kaibab National Forest, Ariz., created from a portion of the Grand Canyon National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 909, July 2, 1908, Theodore Roosevelt (effective July 1). Proclamation 818 of the same day also added lands to the Kaibab."
+ },
+ {
+  "id": "kisatchie-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "49 Stat. 3520 (Statutes at Large, govinfo): Proclamation No. 2173, June 3, 1936, Franklin D. Roosevelt (begins on p. 3520)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3519.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2173, June 3, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2173-kisatchie-national-forest-louisiana"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2173, 49 Stat. 3520"
+  },
+  "note": "Proclamation 2173, June 3, 1936, 49 Stat. 3520, Franklin D. Roosevelt. Davis notes an earlier Secretary of Agriculture designation (June 10, 1930)."
+ },
+ {
+  "id": "klamath-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3001 (Statutes at Large, govinfo): Proclamation of May 6, 1905, Theodore Roosevelt, Klamath Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3001.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 544, May 6, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-544-establishment-the-klamath-forest-reserve-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 544, 34 Stat. 3001"
+  },
+  "note": "Proclamation 544, May 6, 1905, 34 Stat. 3001, Theodore Roosevelt."
+ },
+ {
+  "id": "kootenai-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3225 (Statutes at Large, govinfo): Proclamation of Aug. 13, 1906, Theodore Roosevelt, Kootenai Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3225-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 643, Aug. 13, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-643-setting-apart-the-kootenai-forest-reserve-montana"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 643, 34 Stat. 3225"
+  },
+  "note": "Proclamation 643, Aug. 13, 1906, 34 Stat. 3225, Theodore Roosevelt."
+ },
+ {
+  "id": "lassen-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3063 (Statutes at Large, govinfo): Proclamation of June 2, 1905, Theodore Roosevelt, Lassen Peak Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3063.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 564, June 2, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-564-establishing-the-lassen-peak-forest-reserve-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 564, 34 Stat. 3063"
+  },
+  "note": "Proclamation 564, June 2, 1905, 34 Stat. 3063, Theodore Roosevelt; predecessor name Lassen Peak Forest Reserve is right."
+ },
+ {
+  "id": "lassen-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 906: July 2, 1908, Lassen National Forest, Calif., created from the Lassen Peak National Forest and portions of the Diamond Mountain, Plumas, and Shasta National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 906, July 2, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "lewis-and-clark-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "29 Stat. 907 (Statutes at Large, govinfo): Proclamation No. 29, Feb. 22, 1897, Grover Cleveland, reserve in Montana",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg907.pdf"
+   },
+   {
+    "name": "34 Stat. 3304 (Statutes at Large, govinfo): Proclamation of March 2, 1907, reciting establishment Feb. 22, 1897 \"under the name of the Lewis and Clarke Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3304.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Lewis and Clarke Forest Reserve"
+  },
+  "note": "Date, proclamation (No. 29, 29 Stat. 907) and Cleveland are right; effective March 1, 1898. Name spelled \"Lewis and Clarke\" in the official texts, not \"Lewis & Clarke.\""
+ },
+ {
+  "id": "lewis-and-clark-national-forest#1",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "34 Stat. 3304 (Statutes at Large, govinfo): Proclamation of March 2, 1907, Theodore Roosevelt, enlarging the \"Lewis and Clark Forest Reserve\" established \"under the name of the Lewis and Clarke Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3304.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 733, March 2, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-733-enlarging-boundaries-the-lewis-and-clark-forest-reserve-montana"
+   },
+   {
+    "name": "33 Stat. 2311 (Statutes at Large, govinfo): Proclamation of June 9, 1903, still using \"Lewis and Clarke\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2311.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The date, Proclamation 733, 34 Stat. 3304 and Theodore Roosevelt are confirmed, and it did add land. But the proclamation does not order a name change: it already calls the reserve \"Lewis and Clark\" and notes the old spelling. The spelling changed some time between June 9, 1903 and March 2, 1907, by an instrument not found. Safe wording: \"Land added (Proclamation 733); first proclamation to use the spelling Lewis and Clark.\""
+ },
+ {
+  "id": "lewis-and-clark-national-forest#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 907 (Statutes at Large, govinfo): Proclamation No. 29, Feb. 22, 1897, Grover Cleveland",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg907.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Same event as lewis-and-clark-national-forest#0 (duplicate row); facts confirmed. Consider dropping the duplicate."
+ },
+ {
+  "id": "lincoln-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 2018 (Statutes at Large, govinfo): Proclamation No. 32, July 26, 1902, Theodore Roosevelt: \"shall be known as The Lincoln Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2018.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 486, July 26, 1902",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-486-establishment-the-lincoln-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 486, 32 Stat. 2018"
+  },
+  "note": "Proclamation 486, July 26, 1902, 32 Stat. 2018, Theodore Roosevelt."
+ },
+ {
+  "id": "lolo-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3234 (Statutes at Large, govinfo): Proclamation of Sept. 20, 1906, Theodore Roosevelt, Lolo Forest Reserve (begins on p. 3234)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3233.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 654, Sept. 20, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-654-setting-apart-the-lolo-forest-reserve-montana"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 654, 34 Stat. 3234"
+  },
+  "note": "Proclamation 654, Sept. 20, 1906, 34 Stat. 3234, Theodore Roosevelt."
+ },
+ {
+  "id": "los-padres-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "33 Stat. 2327 (Statutes at Large, govinfo): Proclamation No. 14, Dec. 22, 1903, Theodore Roosevelt, establishing \"The Santa Barbara Forest Reserve\" from the Pine Mountain and Zaca Lake and Santa Ynez reserves",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2327.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 512, Dec. 22, 1903",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-512-establishment-the-santa-barbara-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 512, 33 Stat. 2327"
+  },
+  "note": "Proclamation 512, Dec. 22, 1903, 33 Stat. 2327, Theodore Roosevelt; predecessor name Santa Barbara Forest Reserve is right."
+ },
+ {
+  "id": "los-padres-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7501, Dec. 3, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7501-changing-the-name-the-santa-barbara-national-forest-california-los"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 7501: Dec. 3, 1936, Santa Barbara National Forest, Calif., renamed Los Padres National Forest. 1 Fed. Reg. 2141",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 7501, Dec. 3, 1936 (1 FR 2141), Franklin D. Roosevelt."
+ },
+ {
+  "id": "malheur-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 814: June 13, 1908, Malheur National Forest, Oreg., created from a portion of the Blue Mountains National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 814, June 13, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "manistee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "53 Stat. 2492 (Statutes at Large, govinfo): Proclamation No. 2306, Oct. 25, 1938, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2492.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2306, Oct. 25, 1938",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2306-manistee-national-forest-michigan"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2306, 53 Stat. 2492"
+  },
+  "note": "Proclamation 2306, Oct. 25, 1938, 53 Stat. 2492 (3 FR 2577), Franklin D. Roosevelt."
+ },
+ {
+  "id": "manti-la-sal-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "33 Stat. 2308 (Statutes at Large, govinfo): Proclamation No. 2, May 29, 1903, Theodore Roosevelt: \"shall be known as The Manti Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-33/pdf/STATUTE-33-Pg2308.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 499, May 29, 1903",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-499-establishment-the-manti-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 499, 33 Stat. 2308"
+  },
+  "note": "Proclamation 499, May 29, 1903, 33 Stat. 2308, Theodore Roosevelt. Adds the missing citation."
+ },
+ {
+  "id": "manti-la-sal-national-forest#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register (govinfo): Public Land Order 667, \"Changing the Name of the Manti National Forest to the Manti-La Sal National Forest,\" signed Oscar L. Chapman, Secretary of the Interior, 15 FR 5957 (Sept. 2, 1950)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1950-09-02/pdf/FR-1950-09-02.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Manti-La Sal National Forest",
+   "citation": "Public Land Order 667, 15 FR 5957"
+  },
+  "note": "Date and order are right. The official name is \"Manti-La Sal\" (capital L). PLO 667 was signed by Secretary of the Interior Oscar L. Chapman under EO 9337, not by the President; Truman was in office."
+ },
+ {
+  "id": "mark-twain-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "54 Stat. 2655 (Statutes at Large, govinfo): Proclamation No. 2362, Sept. 11, 1939, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-54/pdf/STATUTE-54-Pg2655.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2362, Sept. 11, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2362-mark-twain-national-forest-missouri"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2362, 54 Stat. 2655"
+  },
+  "note": "Proclamation 2362, Sept. 11, 1939, 54 Stat. 2655 (4 FR 3907), Franklin D. Roosevelt."
+ },
+ {
+  "id": "medicine-bow-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 2003 (Statutes at Large, govinfo): Proclamation No. 20, May 22, 1902, Theodore Roosevelt: \"shall be known as The Medicine Bow Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2003.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 474, May 22, 1902",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-474-establishing-the-medicine-bow-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 474, 32 Stat. 2003"
+  },
+  "note": "Proclamation 474, May 22, 1902, 32 Stat. 2003, Theodore Roosevelt."
+ },
+ {
+  "id": "mendocino-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 907: July 2, 1908, California National Forest, Calif., created from portions of the Stony Creek and Trinity National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "California National Forest"
+  },
+  "note": "Executive Order 907, July 2, 1908, Theodore Roosevelt, is right, but the predecessor was the California National Forest, not a \"forest reserve.\""
+ },
+ {
+  "id": "mendocino-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5885, July 12, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5885-mendocino-national-forest-california"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5885: July 12, 1932, California National Forest, Calif., renamed Mendocino National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 5885, July 12, 1932, Herbert Hoover."
+ },
+ {
+  "id": "mt-baker-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 904 (Statutes at Large, govinfo): Proclamation No. 27, Feb. 22, 1897, Grover Cleveland, reserve in Washington",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg904.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 27), 29 Stat. 904, Cleveland; the Washington Forest Reserve, effective March 1, 1898."
+ },
+ {
+  "id": "mt-baker-national-forest#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 3943: Jan. 21, 1924, Washington National Forest, Wash., renamed Mount Baker National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Mount Baker National Forest"
+  },
+  "note": "Executive Order 3943, Jan. 21, 1924, Coolidge, is right. The order spells the name \"Mount Baker National Forest.\" (Davis misprints the order number as 3843 in one entry.)"
+ },
+ {
+  "id": "mt-hood-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 3944: Jan. 21, 1924, Oregon National Forest, Oreg., renamed Mount Hood National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Mount Hood National Forest"
+  },
+  "note": "Executive Order 3944, Jan. 21, 1924, Coolidge, is right; the order spells the name \"Mount Hood National Forest.\" Predecessor: Oregon National Forest (EO 864, June 30, 1908)."
+ },
+ {
+  "id": "nantahala-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "41 Stat. 1785 (Statutes at Large, govinfo): Proclamation of Jan. 29, 1920, Woodrow Wilson, Nantahala National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1785.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1554, Jan. 29, 1920",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1554-setting-apart-the-nantahala-national-forest-georgia-north-carolina-and"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1554, Jan. 29, 1920, 41 Stat. 1785, Wilson. (Davis misprints the date as 1907.)"
+ },
+ {
+  "id": "nebraska-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Nebraska NF formed by consolidating the Dismal River, Niobrara and North Platte forests (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "nezperce-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 854: June 26, 1908, Nezperce National Forest created from portions of the Bitter Root and Weiser National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 854, June 26, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "nicolet-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "47 Stat. 2561 (Statutes at Large, govinfo): Proclamation No. 2035, March 2, 1933, Herbert Hoover (begins on p. 2561)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg2560.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2035, March 2, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2035-nicolet-national-forest-wisconsin"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2035, March 2, 1933, 47 Stat. 2561, Hoover, two days before the inauguration of Franklin D. Roosevelt (not inauguration day)."
+ },
+ {
+  "id": "ocala-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2206 (Statutes at Large, govinfo): Proclamation of Nov. 24, 1908, Theodore Roosevelt, Ocala National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2206.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 823, Nov. 24, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-823-setting-apart-the-ocala-national-forest-florida"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 823, Nov. 24, 1908, 35 Stat. 2206, Theodore Roosevelt. Lineage: merged into the Florida NF in 1911 and re-created in 1927 (Proc. 1816)."
+ },
+ {
+  "id": "ochoco-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "37 Stat. 1713 (Statutes at Large, govinfo): Proclamation of June 30, 1911, William H. Taft, Ochoco National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1713-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1165, June 30, 1911",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1165-setting-apart-the-ochoco-national-forest-oregon"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1165, June 30, 1911 (effective July 1, 1911), 37 Stat. 1713, Taft."
+ },
+ {
+  "id": "oconee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3326, Nov. 27, 1959",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3326-establishing-the-tuskegee-national-forest-alabama-the-oconee-national"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3326, Nov. 27, 1959 (24 FR 9651), Eisenhower."
+ },
+ {
+  "id": "olympic-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 901 (Statutes at Large, govinfo): Proclamation No. 24, Feb. 22, 1897, Grover Cleveland, reserve in Washington",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg901.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 24), 29 Stat. 901, Cleveland; effective March 1, 1898."
+ },
+ {
+  "id": "osceola-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "47 Stat. 2465 (Statutes at Large, govinfo): Proclamation No. 1961, July 10, 1931 (\"Done ... this 10th day of July\"), Herbert Hoover (begins on p. 2465)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg2464.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1961 (dated July 3, 1931 on this site)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1961-osceola-national-forest-florida"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1961, July 10, 1931, 47 Stat. 2465, Hoover. The sources disagree: the American Presidency Project dates it July 3, 1931, but the Statutes text reads July 10, and the Statutes are the official printing."
+ },
+ {
+  "id": "ottawa-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "46 Stat. 3044 (Statutes at Large, govinfo): Proclamation of Jan. 27, 1931, Herbert Hoover, Ottawa National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3044.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1932, Jan. 27, 1931",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1932-ottawa-national-forest-michigan"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1932, Jan. 27, 1931, 46 Stat. 3044, Hoover."
+ },
+ {
+  "id": "ouachita-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "35 Stat. 2167 (Statutes at Large, govinfo): Proclamation of Dec. 18, 1907, Theodore Roosevelt, \"the Arkansas National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2167.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 786, Dec. 18, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-786-setting-apart-arkansas-national-forest-arkansas"
+   }
+  ],
+  "correction": {
+   "name": "Arkansas National Forest"
+  },
+  "note": "Date, Proclamation 786 and Theodore Roosevelt are right, but in December 1907 the predecessor was the Arkansas National Forest, not a \"forest reserve.\""
+ },
+ {
+  "id": "ouachita-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 4436: April 29, 1926, Arkansas National Forest, Ark., renamed the Ouachita National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 4436, April 29, 1926, Coolidge."
+ },
+ {
+  "id": "ozark-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2182 (Statutes at Large, govinfo): Proclamation of March 6, 1908, Theodore Roosevelt, Ozark National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2182.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 802, March 6, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-802-setting-apart-ozark-national-forest-arkansas"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 802, March 6, 1908, 35 Stat. 2182, Theodore Roosevelt. (Davis gives March 5; the Statutes and the Presidency Project agree on March 6.)"
+ },
+ {
+  "id": "payette-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3067 (Statutes at Large, govinfo): Proclamation of June 3, 1905, Theodore Roosevelt: \"shall be known as The Payette Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3067.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 566, June 3, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-566-establishing-the-payette-forest-reserve-idaho"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 566, 34 Stat. 3067"
+  },
+  "note": "Proclamation 566, June 3, 1905, 34 Stat. 3067, Theodore Roosevelt. Lineage: this first Payette was folded into the Boise in 1944, and the present Payette was re-formed from the Idaho and Weiser forests (PLO 218, 1944)."
+ },
+ {
+  "id": "pike-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "27 Stat. 1006 (Statutes at Large, govinfo): Proclamation No. 15, Feb. 11, 1892, Benjamin Harrison, forest reservation in Colorado",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1006.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 554, May 12, 1905, combining the Pikes Peak Timber Land Reserve and others as the Pikes Peak Forest Reserve",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-554-establishment-the-pikes-peak-forest-reserve-colorado"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Pikes Peak Timber Land Reserve",
+   "text": "Pikes Peak Timber Land Reserve: Established reserve."
+  },
+  "note": "Date, 27 Stat. 1006 and Harrison are right. Predecessor name restored: Pikes Peak Timber Land Reserve (OCR \"ikes Peak ^<;mber Land\"). It became the Pikes Peak Forest Reserve in 1905 and the Pike NF in 1908."
+ },
+ {
+  "id": "pike-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 888: July 1, 1908, Pike National Forest, Colo., created from portions of the Pikes Peak and Medicine Bow National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 888, July 1, 1908, Theodore Roosevelt; Davis treats it as the Pikes Peak to Pike name change, with land changes."
+ },
+ {
+  "id": "plumas-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 2992 (Statutes at Large, govinfo): Proclamation of March 27, 1905, Theodore Roosevelt: \"shall be known as The Plumas Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg2992.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 540, March 27, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-540-establishing-the-plumas-forest-reserve-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 540, 34 Stat. 2992"
+  },
+  "note": "Proclamation 540, March 27, 1905, 34 Stat. 2992, Theodore Roosevelt."
+ },
+ {
+  "id": "prescott-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "30 Stat. 1771 (Statutes at Large, govinfo): Proclamation No. 9, May 10, 1898, William McKinley, reserve in the Territory of Arizona",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg1771.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of May 10, 1898 (No. 9), 30 Stat. 1771, McKinley."
+ },
+ {
+  "id": "rio-grande-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 887: July 1, 1908, Rio Grande National Forest, Colo., created from portions of the San Juan and Cochetopah National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 887, July 1, 1908, Theodore Roosevelt."
+ },
+ {
+  "id": "rogue-river-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 867: June 30, 1908, Crater National Forest, Oreg. and Calif., created from the Ashland National Forest and portions of the Cascade, Siskiyou, and Klamath National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Crater National Forest"
+  },
+  "note": "Executive Order 867, June 30, 1908, Theodore Roosevelt, is right (effective July 1), but the predecessor was the Crater National Forest, not a \"forest reserve.\""
+ },
+ {
+  "id": "rogue-river-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5882, July 9, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5882-rogue-river-national-forest-oregon"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5882: July 9, 1932, Crater National Forest, Oreg., renamed Rogue River National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 5882, July 9, 1932, Hoover."
+ },
+ {
+  "id": "roosevelt-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "36 Stat. 2720 (Statutes at Large, govinfo): Proclamation of July 1, 1910, William H. Taft: the Medicine Bow National Forest in Colorado \"be known as the Colorado National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2720-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1062, July 1, 1910",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1062-setting-apart-the-colorado-national-forest-colorado"
+   }
+  ],
+  "correction": {
+   "action": "renamed",
+   "name": "Colorado National Forest"
+  },
+  "note": "Wrong action and designation. Proclamation 1062 (July 1, 1910, Taft, 36 Stat. 2720) renamed the Colorado part of the Medicine Bow National Forest as the Colorado National Forest; its diagram is captioned \"Name changed from Medicine Bow by this proclamation.\" It was a national forest, not a \"forest reserve.\""
+ },
+ {
+  "id": "roosevelt-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5826, March 28, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5826-roosevelt-national-forest-colorado"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5826: March 28, 1932, Colorado National Forest, Colo., renamed Roosevelt National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 5826, March 28, 1932, Hoover."
+ },
+ {
+  "id": "routt-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 837: June 25, 1908, Routt National Forest, Colo., created from portion of the Park Range National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 837, June 25, 1908, Theodore Roosevelt (effective July 1); date checked against the page image."
+ },
+ {
+  "id": "sabine-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1787 (Statutes at Large, govinfo): Proclamation No. 2204, Oct. 13, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1787.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2204, Oct. 13, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2204-sabine-national-forest-texas"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2204, 50 Stat. 1787"
+  },
+  "note": "Proclamation 2204, Oct. 13, 1936, 50 Stat. 1787, Franklin D. Roosevelt."
+ },
+ {
+  "id": "salmon-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 841: June 26, 1908, Salmon National Forest, Idaho, created from portions of the Salmon River, Bitter Root, and Lemhi National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 841, June 26, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "sam-houston-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1789 (Statutes at Large, govinfo): Proclamation No. 2205, Oct. 13, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1789.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2205, Oct. 13, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2205-sam-houston-national-forest-texas"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2205, 50 Stat. 1789"
+  },
+  "note": "Proclamation 2205, Oct. 13, 1936, 50 Stat. 1789, Franklin D. Roosevelt."
+ },
+ {
+  "id": "samuel-r-mckelvie-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "85 Stat. 393 (Statutes at Large, govinfo): Public Law 92-142, Oct. 15, 1971: the Nebraska National Forest, Niobrara division, \"shall be known and designated as the Samuel R. McKelvie National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg393.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Public Law 92-142, 85 Stat. 393"
+  },
+  "note": "Public Law 92-142, Oct. 15, 1971, 85 Stat. 393, Nixon. The act is worded as a renaming of the Niobrara division of the Nebraska NF, which made it a separately named national forest. (Davis misprints the page as 383.)"
+ },
+ {
+  "id": "san-bernardino-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "27 Stat. 1068 (Statutes at Large, govinfo): Proclamation No. 48, Feb. 25, 1893, Benjamin Harrison, reserve in California",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1068.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 25, 1893 (No. 48), 27 Stat. 1068, Harrison, a week before he left office (not inauguration day). Lineage: absorbed into the Angeles in 1908 and re-created in 1925 (Proc. 1750)."
+ },
+ {
+  "id": "san-isabel-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 1988 (Statutes at Large, govinfo): Proclamation No. 13, April 11, 1902, Theodore Roosevelt: \"shall be known as The San Isabel Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg1988.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 467, April 11, 1902",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-467-establishing-the-san-isabel-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 467, 32 Stat. 1988"
+  },
+  "note": "Proclamation 467, April 11, 1902, 32 Stat. 1988, Theodore Roosevelt."
+ },
+ {
+  "id": "san-juan-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3070 (Statutes at Large, govinfo): Proclamation of June 3, 1905, Theodore Roosevelt: \"shall be known as The San Juan Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3070.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 567, June 3, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-567-establishing-the-san-juan-forest-reserve-colorado"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 567, 34 Stat. 3070"
+  },
+  "note": "Proclamation 567, June 3, 1905, 34 Stat. 3070, Theodore Roosevelt."
+ },
+ {
+  "id": "santa-fe-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 2160: April 6, 1915, Santa Fe National Forest, N. Mex., enlarged by the addition of all lands of the Jemez and Pecos National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 2160, April 6, 1915 (effective July 1, 1915), Wilson. Davis: established by combining the Jemez and Pecos forests. The 1944 list summary says \"enlarged,\" but no earlier Santa Fe NF appears in either source, so \"established\" stands."
+ },
+ {
+  "id": "sawtooth-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "34 Stat. 3058 (Statutes at Large, govinfo): Proclamation of May 29, 1905, Theodore Roosevelt: \"shall be known as The Sawtooth Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3058.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 562, May 29, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-562-establishment-the-sawtooth-forest-reserve-idaho"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 858: June 26, 1908, Sawtooth National Forest, Idaho, diminished and the excluded lands constituted portions of the Boise, Challis, Lemhi, and Payette",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": {
+   "date": "1905-05-29",
+   "action": "established",
+   "designation": "Forest Reserve",
+   "authorityType": "presidential-proclamation",
+   "citation": "Proclamation 562, 34 Stat. 3058",
+   "president": "Theodore Roosevelt",
+   "text": "Sawtooth: Established reserve (Proclamation 562, May 29, 1905)"
+  },
+  "note": "Wrong event. EO 858 (June 26, 1908) cut land from the Sawtooth to form other forests; it did not establish the Sawtooth. The Sawtooth Forest Reserve was established by Theodore Roosevelt, Proclamation 562, May 29, 1905, 34 Stat. 3058."
+ },
+ {
+  "id": "sequoia-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 904: July 2, 1908, Sequoia National Forest, Calif., created from a portion of the Sierra National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 904, July 2, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "shasta-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3157 (Statutes at Large, govinfo): Proclamation of Oct. 3, 1905, Theodore Roosevelt: \"shall be known as the Shasta Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3157.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 596, Oct. 3, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-596-establishment-the-shasta-forest-reserve-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 596, 34 Stat. 3157"
+  },
+  "note": "Proclamation 596, Oct. 3, 1905, 34 Stat. 3157, Theodore Roosevelt."
+ },
+ {
+  "id": "shawnee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "54 Stat. 2649 (Statutes at Large, govinfo): Proclamation No. 2357, Sept. 6, 1939, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-54/pdf/STATUTE-54-Pg2649.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2357, Sept. 6, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2357-shawnee-national-forest-illinois"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2357, 54 Stat. 2649"
+  },
+  "note": "Proclamation 2357, Sept. 6, 1939, 54 Stat. 2649 (4 FR 3860), Franklin D. Roosevelt."
+ },
+ {
+  "id": "shoshone-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 895: July 1, 1908, Shoshone National Forest, Wyo., created from a portion of the Yellowstone National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 895, July 1, 1908, Theodore Roosevelt; checked against the page image (the OCR prints 895 as 896)."
+ },
+ {
+  "id": "sierra-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "27 Stat. 1059 (Statutes at Large, govinfo): Proclamation No. 43, Feb. 14, 1893, Benjamin Harrison, reserve in California",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1059.pdf"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 902: July 2, 1908, Sierra National Forest, Calif., diminished by the exclusion of lands that constituted the Sequoia National Forest and parts of the Stanislaus, Inyo, and Mono",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1893-02-14",
+   "action": "established",
+   "designation": "Forest Reserve",
+   "authorityType": "presidential-proclamation",
+   "citation": "27 Stat. 1059",
+   "president": "Benjamin Harrison",
+   "text": "Sierra: Established reserve (Proclamation of Feb. 14, 1893)"
+  },
+  "note": "Wrong event. EO 902 (July 2, 1908) diminished the Sierra to form the Sequoia and parts of other forests; it did not establish the Sierra. The Sierra Forest Reserve was established by Benjamin Harrison, Proclamation of Feb. 14, 1893 (No. 43), 27 Stat. 1059. (Davis misprints the volume as 26.)"
+ },
+ {
+  "id": "siskiyou-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3239 (Statutes at Large, govinfo): Proclamation of Oct. 5, 1906, Theodore Roosevelt, Siskiyou Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3239-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 661, Oct. 5, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-661-setting-apart-the-siskiyou-forest-reserve-oregon"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 661, 34 Stat. 3239"
+  },
+  "note": "Proclamation 661, Oct. 5, 1906, 34 Stat. 3239, Theodore Roosevelt."
+ },
+ {
+  "id": "sitgreaves-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 868: July 1, 1908, Sitgreaves National Forest, Ariz., created from portions of the Black Mesa and Tonto National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 868, July 1, 1908, Theodore Roosevelt."
+ },
+ {
+  "id": "siuslaw-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 860: June 30, 1908, Siuslaw National Forest, Oreg., created from portions of the Tillamook and Umpqua National Forests",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 860, June 30, 1908, Theodore Roosevelt (effective July 1)."
+ },
+ {
+  "id": "six-rivers-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "61 Stat. 1070 (Statutes at Large, govinfo): Proclamation No. 2733, June 3, 1947, Harry S. Truman",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg1070.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2733, June 3, 1947",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2733-six-rivers-national-forest-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2733, 61 Stat. 1070"
+  },
+  "note": "Proclamation 2733, June 3, 1947, 61 Stat. 1070 (12 FR 3647), Truman."
+ },
+ {
+  "id": "snoqualmie-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 824: June 18, 1908, Snoqualmie National Forest, Wash., created from a portion of the Washington National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 824, June 18, 1908, Theodore Roosevelt (effective July 1); date checked against the page image."
+ },
+ {
+  "id": "st-francis-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3379, Nov. 8, 1960",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3379-establishing-the-st-francis-national-forest-and-enlarging-the-ozark-and"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3379, Nov. 8, 1960 (25 FR 10863), Eisenhower. (Davis gives Nov. 6; the Presidency Project gives Nov. 8, which matches the draft.)"
+ },
+ {
+  "id": "stanislaus-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 898 (Statutes at Large, govinfo): Proclamation No. 22, Feb. 22, 1897, Grover Cleveland, reserve in California",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg898.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 22), 29 Stat. 898, Cleveland; effective March 1, 1898."
+ },
+ {
+  "id": "sumter-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "50 Stat. 1750 (Statutes at Large, govinfo): Proclamation No. 2188, July 13, 1936, Franklin D. Roosevelt",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1750.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2188, July 13, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2188-sumter-national-forest-south-carolina"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2188, 50 Stat. 1750"
+  },
+  "note": "Proclamation 2188, July 13, 1936, 50 Stat. 1750, Franklin D. Roosevelt."
+ },
+ {
+  "id": "superior-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2223 (Statutes at Large, govinfo): Proclamation of Feb. 13, 1909, Theodore Roosevelt, Superior National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2223-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 848, Feb. 13, 1909",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-848-setting-apart-the-superior-national-forest-minnesota"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 848, Feb. 13, 1909, 35 Stat. 2223, Theodore Roosevelt."
+ },
+ {
+  "id": "tahoe-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "31 Stat. 1953 (Statutes at Large, govinfo): Proclamation No. 3, April 13, 1899, William McKinley: \"shall be known as The Lake Tahoe Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-31/pdf/STATUTE-31-Pg1953.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 437, April 13, 1899",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-437-establishing-the-lake-tahoe-forest-reserve-the-state-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 437, 31 Stat. 1953"
+  },
+  "note": "Proclamation 437, April 13, 1899, 31 Stat. 1953, McKinley; predecessor name Lake Tahoe Forest Reserve is right."
+ },
+ {
+  "id": "tahoe-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3163 (Statutes at Large, govinfo): Proclamation of Oct. 3, 1905, Theodore Roosevelt: \"This reservation shall be known hereafter as the Tahoe Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3163.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 597, Oct. 3, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-597-enlargement-and-name-change-lake-tahoe-forest-reserve-california-and"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 597, 34 Stat. 3163"
+  },
+  "note": "Proclamation 597, Oct. 3, 1905, 34 Stat. 3163, Theodore Roosevelt; enlarged the reserve and renamed it Tahoe."
+ },
+ {
+  "id": "targhee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 871: July 1, 1908, Targhee National Forest, Idaho and Wyo., created from the Henry's Lake and a portion of the Yellowstone National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 871, July 1, 1908, Theodore Roosevelt."
+ },
+ {
+  "id": "teton-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "29 Stat. 906 (Statutes at Large, govinfo): Proclamation No. 28, Feb. 22, 1897, Grover Cleveland, reserve in Wyoming next to Yellowstone National Park",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg906.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation of Feb. 22, 1897 (No. 28), 29 Stat. 906, Cleveland; effective March 1, 1898. Lineage: merged into the Yellowstone reserve in 1903 and re-created as the Teton NF by EO 872, July 1, 1908."
+ },
+ {
+  "id": "toiyabe-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3278 (Statutes at Large, govinfo): Proclamation of March 1, 1907, Theodore Roosevelt, Toiyabe Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3278.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 707, March 1, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-707-setting-apart-the-toiyabe-forest-reserve-nevada"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 707, 34 Stat. 3278"
+  },
+  "note": "Proclamation 707, March 1, 1907, 34 Stat. 3278, Theodore Roosevelt. (Davis gives March 2; the Statutes and the Presidency Project say March 1.) Lineage: merged into the Nevada NF in 1932 and re-created in 1938 (EO 7884)."
+ },
+ {
+  "id": "tombigbee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3326, Nov. 27, 1959, establishing Tuskegee, Oconee and Tombigbee National Forests",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3326-establishing-the-tuskegee-national-forest-alabama-the-oconee-national"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3326, Nov. 27, 1959 (24 FR 9651), Eisenhower."
+ },
+ {
+  "id": "tongass-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "35 Stat. 2152 (Statutes at Large, govinfo): Proclamation of Sept. 10, 1907, Theodore Roosevelt, Tongass National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2152.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 772, Sept. 10, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-772-setting-apart-tongass-national-forest-alaska"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 772, 35 Stat. 2152"
+  },
+  "note": "Proclamation 772, Sept. 10, 1907, 35 Stat. 2152, Theodore Roosevelt; \"National Forest\" is right after March 4, 1907."
+ },
+ {
+  "id": "trinity-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 2998 (Statutes at Large, govinfo): Proclamation signed \"this 26th day of April,\" 1905, Theodore Roosevelt: \"shall be known as The Trinity Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg2998.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 543, April 26, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-543-establishment-the-trinity-forest-reserve-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 543, 34 Stat. 2998"
+  },
+  "note": "Proclamation 543, April 26, 1905, 34 Stat. 2998, Theodore Roosevelt. (The OCR of the margin date reads \"April 29\"; the signing line and the Presidency Project say April 26.)"
+ },
+ {
+  "id": "tuskegee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3326, Nov. 27, 1959",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3326-establishing-the-tuskegee-national-forest-alabama-the-oconee-national"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3326, Nov. 27, 1959, Eisenhower."
+ },
+ {
+  "id": "uinta-national-forest#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "34 Stat. 3186 (Statutes at Large, govinfo): Proclamation of Jan. 16, 1906, Theodore Roosevelt, enlarging the \"Uintah Forest Reserve\" (no name change in the text)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3186.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 608, Jan. 16, 1906, still calling it the Uintah Forest Reserve",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-608-enlarging-boundaries-the-uintah-forest-reserve-utah-and-wyoming"
+   },
+   {
+    "name": "34 Stat. 3207 (Statutes at Large, govinfo): Proclamation of May 29, 1906 (No. 629), first to call it the \"Uinta Forest Reserve\" ... \"established ... under the name of the Uintah Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3207-2.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The proclamation of Jan. 16, 1906 (Proclamation 608, 34 Stat. 3186, Theodore Roosevelt) is real and did add land, but its text and diagram still say \"Uintah.\" It did not change the name. The first presidential text with \"Uinta\" is Proclamation 629 of May 29, 1906 (34 Stat. 3207), which says the name had already changed. The instrument and date of the change were not found. Fix to \"Uintah: Land added (Proclamation 608),\" and drop the rename, unless an administrative order turns up."
+ },
+ {
+  "id": "uinta-national-forest#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "35 Stat. 2193 (Statutes at Large, govinfo): Proclamation of July 1, 1908, Theodore Roosevelt, modifying the boundaries of the Uinta National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2193-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 815, July 1, 1908, \"Enlarging Boundaries of Uinta National Forest\"",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-815-enlarging-boundaries-uinta-national-forest-utah"
+   }
+  ],
+  "correction": {
+   "remove": true,
+   "text": "Uinta: Land added and land transferred to establish Ashley (Proclamation 815, July 1, 1908) - not a designation"
+  },
+  "note": "Not a designation. Proclamation 815 (July 1, 1908, Theodore Roosevelt) enlarged the existing Uinta National Forest after EO 884 cut out the Ashley. The Uinta itself dates to the Uintah Forest Reserve of Feb. 22, 1897 (29 Stat. 895). Remove the event."
+ },
+ {
+  "id": "umpqua-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3301 (Statutes at Large, govinfo): Proclamation of March 2, 1907, Theodore Roosevelt, Umpqua Forest Reserve",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3301.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 730, March 2, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-730-setting-apart-the-umpqua-forest-reserve-oregon"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 730, 34 Stat. 3301"
+  },
+  "note": "Proclamation 730, March 2, 1907, 34 Stat. 3301, Theodore Roosevelt; two days before the act of March 4, 1907, so \"Forest Reserve\" is right."
+ },
+ {
+  "id": "uncompahgre-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3109 (Statutes at Large, govinfo): Proclamation of June 14, 1905, Theodore Roosevelt: \"shall be known as The Uncompahgre Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3109.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 576, June 14, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-576-establishing-the-uncompahgre-forest-reserve-colorado"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 576, 34 Stat. 3109"
+  },
+  "note": "Proclamation 576, June 14, 1905, 34 Stat. 3109, Theodore Roosevelt."
+ },
+ {
+  "id": "uwharrie-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (govinfo): Secretary of Agriculture order dated Jan. 12, 1961, signed E. T. Benson, 26 FR 627-628, \"Uwharrie National Forest—North Carolina\"",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1961-01-20/pdf/FR-1961-01-20.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Secretary of Agriculture order of Jan. 12, 1961, 26 FR 627"
+  },
+  "note": "Secretary of Agriculture order of Jan. 12, 1961 (26 FR 627-628), signed by Ezra Taft Benson. Not a presidential act; Eisenhower was President at the time."
+ },
+ {
+  "id": "wallowa-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3284 (Statutes at Large, govinfo): Proclamation of March 1, 1907, Theodore Roosevelt: the Wallowa and Chesnimnus proclamations \"hereby superseded, and the Imnaha Forest Reserve is hereby established\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3284.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 713, March 1, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-713-establishing-imnaha-forest-reserve-oregon-place-the-wallowa-and"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 713, 34 Stat. 3284"
+  },
+  "note": "Proclamation 713, March 1, 1907, 34 Stat. 3284, Theodore Roosevelt; predecessor name Imnaha Forest Reserve is right."
+ },
+ {
+  "id": "wallowa-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Imnaha renamed Wallowa (effective July 1). Per-forest detail rests on Davis."
+ },
+ {
+  "id": "wallowa-national-forest#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3004 (Statutes at Large, govinfo): Proclamation of May 6, 1905, Theodore Roosevelt: \"shall be known as The Wallowa Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3004-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 546, May 6, 1905",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-546-establishment-the-wallowa-forest-reserve-oregon"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 546, 34 Stat. 3004"
+  },
+  "note": "Proclamation 546, May 6, 1905, 34 Stat. 3004, Theodore Roosevelt. The first Wallowa Forest Reserve; superseded by the Imnaha in 1907."
+ },
+ {
+  "id": "wasatch-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 3225 (Statutes at Large, govinfo): Proclamation of Aug. 16, 1906, Theodore Roosevelt, Wasatch Forest Reserve (begins on p. 3225)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3225-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 644, Aug. 16, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-644-setting-apart-the-wasatch-forest-reserve-utah"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 644, 34 Stat. 3225"
+  },
+  "note": "Proclamation 644, Aug. 16, 1906, 34 Stat. 3225, Theodore Roosevelt."
+ },
+ {
+  "id": "wenatchee-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 825: June 18, 1908, Wenatchee National Forest, Wash., created from a portion of the Washington National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 825, June 18, 1908, Theodore Roosevelt (effective July 1); date checked against the page image."
+ },
+ {
+  "id": "white-mountain-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "40 Stat. 1779 (Statutes at Large, govinfo): Proclamation of May 16, 1918, Woodrow Wilson, White Mountain National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1779-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1449, May 16, 1918",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1449-setting-apart-the-white-mountain-national-forest-new-hampshire"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1449, May 16, 1918, 40 Stat. 1779, Wilson."
+ },
+ {
+  "id": "white-river-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "27 Stat. 993 (Statutes at Large, govinfo): Proclamation No. 8, Oct. 16, 1891, Benjamin Harrison, reserve in Colorado",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg993.pdf"
+   },
+   {
+    "name": "32 Stat. 2008 (Statutes at Large, govinfo): Proclamation of June 28, 1902, reciting \"the White River Plateau Timber Land Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2008.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "name": "White River Plateau Timber Land Reserve",
+   "text": "White River Plateau Timber Land Reserve: Established reserve."
+  },
+  "note": "Date, 27 Stat. 993 and Harrison are right. Predecessor name restored from the OCR \"Jhjite\": White River Plateau Timber Land Reserve."
+ },
+ {
+  "id": "white-river-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 2008 (Statutes at Large, govinfo): Proclamation No. 25, June 28, 1902, Theodore Roosevelt: \"This reservation shall hereafter be known as the White River Forest Reserve\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2008.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 479, June 28, 1902",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-479-establishment-the-white-river-forest-reserve"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 479, 32 Stat. 2008"
+  },
+  "note": "Proclamation 479, June 28, 1902, 32 Stat. 2008, Theodore Roosevelt; redescribed the boundary and renamed the reserve White River."
+ },
+ {
+  "id": "whitman-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 813: June 13, 1908, Whitman National Forest, Oreg., created from a portion of the Blue Mountains National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 813, June 13, 1908, Theodore Roosevelt (effective July 1). The 1944 list OCR reads \"June 18\"; the page image reads June 13."
+ },
+ {
+  "id": "willamette-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6104, April 6, 1933: Cascade and Santiam \"shall hereafter be known as the Willamette National Forest\"",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6104-transfer-lands-from-the-cascade-and-santiam-national-forests-the"
+   },
+   {
+    "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 6104: April 6, 1933, Willamette National Forest, Oreg., created by consolidation of the Cascade National Forest with the Santiam National Forest",
+    "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+   }
+  ],
+  "correction": null,
+  "note": "Executive Order 6104, April 6, 1933 (effective July 1, 1933), Franklin D. Roosevelt."
+ },
+ {
+  "id": "william-b-bankhead-national-forest#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "49 Stat. 3526 (Statutes at Large, govinfo): Proclamation of June 19, 1936, Franklin D. Roosevelt: margin \"Name changed\"; changes \"the name of said Alabama National Forest, as established by proclamation of January 15, 1918, 40 Stat. 1740, to the Black Warrior National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3526.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2178, June 19, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2178-black-warrior-national-forest-alabama"
+   },
+   {
+    "name": "40 Stat. 1740 (Statutes at Large, govinfo): Proclamation of Jan. 15, 1918, Woodrow Wilson, Alabama National Forest",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1740.pdf"
+   }
+  ],
+  "correction": {
+   "action": "renamed",
+   "name": "Black Warrior National Forest",
+   "citation": "Proclamation 2178, 49 Stat. 3526"
+  },
+  "note": "Wrong action and designation. Proclamation 2178 (June 19, 1936, Franklin D. Roosevelt) enlarged the Alabama National Forest and renamed it the Black Warrior National Forest. It was a national forest, not a \"forest reserve.\" The forest itself was established as the Alabama National Forest by Woodrow Wilson, Proclamation 1423, Jan. 15, 1918, 40 Stat. 1740. That event is missing from the draft and should be added."
+ },
+ {
+  "id": "william-b-bankhead-national-forest#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "56 Stat. 327 (Statutes at Large, govinfo): Act of June 6, 1942 (Public Law 595): the Black Warrior National Forest \"shall be known and designated as the William B. Bankhead National Forest\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-56/pdf/STATUTE-56-Pg327.pdf"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Public Law 77-595, 56 Stat. 327"
+  },
+  "note": "Act of June 6, 1942, Public Law 77-595, 56 Stat. 327, Franklin D. Roosevelt."
+ },
+ {
+  "id": "winema-national-forest#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3423, July 26, 1961",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3423-winema-national-forest-oregon"
+   },
+   {
+    "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+    "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 3423, July 26, 1961 (26 FR 6799), John F. Kennedy. The draft note's \"effective 1961-07-01\" comes before the signing date and is doubtful; Davis also gives July 1 as the effective date. Not checked against the Federal Register text."
+ }
+]

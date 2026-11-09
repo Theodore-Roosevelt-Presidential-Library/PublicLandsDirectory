@@ -12,16 +12,31 @@
         "administration": "Theodore Roosevelt",
         "citation": "Proclamation 802, 35 Stat. 2182"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2182 (Statutes at Large, govinfo): Proclamation of March 6, 1908, Theodore Roosevelt, Ozark National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2182.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 802, March 6, 1908",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-802-setting-apart-ozark-national-forest-arkansas"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 802, March 6, 1908, 35 Stat. 2182, Theodore Roosevelt. (Davis gives March 5; the Statutes and the Presidency Project agree on March 6.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }

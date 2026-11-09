@@ -3,24 +3,38 @@
   "designationHistory": [
     {
       "date": "1910-07-01",
-      "action": "established",
+      "action": "renamed",
       "designation": "National Forest",
-      "name": "Colorado Forest Reserve",
+      "name": "Colorado National Forest",
       "indexText": "Colorado: Established.",
       "authority": {
         "type": "presidential-proclamation",
         "administration": "William Howard Taft",
         "citation": "Proclamation 1062, 36 Stat. 2720"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 37",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "36 Stat. 2720 (Statutes at Large, govinfo): Proclamation of July 1, 1910, William H. Taft: the Medicine Bow National Forest in Colorado \"be known as the Colorado National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2720-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1062, July 1, 1910",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1062-setting-apart-the-colorado-national-forest-colorado"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong action and designation. Proclamation 1062 (July 1, 1910, Taft, 36 Stat. 2720) renamed the Colorado part of the Medicine Bow National Forest as the Colorado National Forest; its diagram is captioned \"Name changed from Medicine Bow by this proclamation.\" It was a national forest, not a \"forest reserve.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1932-03-28",
@@ -33,16 +47,31 @@
         "administration": "Herbert Hoover",
         "citation": "Executive Order 5826"
       },
-      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "note": null,
       "sources": [
         {
           "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 70",
           "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5826, March 28, 1932",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5826-roosevelt-national-forest-colorado"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5826: March 28, 1932, Colorado National Forest, Colo., renamed Roosevelt National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
         }
       ],
       "research": "fs612",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 5826, March 28, 1932, Hoover.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
 }
