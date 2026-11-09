@@ -6474,5 +6474,441 @@
   "parkLabel": null,
   "parkUrl": null,
   "trails": []
+ },
+ "upper-souris-national-wildlife-refuge": {
+  "parkLabel": "Upper Souris National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/north-dakota/upper-souris-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Oxbow Nature Extended Trail",
+    "url": "https://www.alltrails.com/trail/us/north-dakota/oxbow-nature-extended-trail",
+    "length_miles": 0.9,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "Cottonwood Nature Trail",
+    "url": "https://www.alltrails.com/trail/us/north-dakota/cottonwood-nature-trail",
+    "length_miles": 1.0,
+    "difficulty": "Moderate",
+    "route_type": "Loop",
+    "avg_rating": 3.9
+   }
+  ]
+ },
+ "valentine-national-wildlife-refuge": {
+  "parkLabel": "Valentine Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/nebraska/valentine-wildlife-refuge",
+  "trails": [
+   {
+    "name": "CCC Lookout Tower Number 1",
+    "url": "https://www.alltrails.com/trail/us/nebraska/ccc-lookout-tower-number-1",
+    "length_miles": 1.4,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.8
+   },
+   {
+    "name": "Valentine Wildlife Refuge Nature Trail",
+    "url": "https://www.alltrails.com/trail/us/nebraska/valentine-wildlife-refuge-nature-trail",
+    "length_miles": 0.3,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.1
+   }
+  ]
+ },
+ "valle-de-oro-national-wildlife-refuge": {
+  "parkLabel": "Valle de Oro National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/valle-de-oro-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Valle de Oro Bosque Loop",
+    "url": "https://www.alltrails.com/trail/us/new-mexico/valle-de-oro-bosque-loop",
+    "length_miles": 2.6,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.5
+   }
+  ]
+ },
+ "valley-city-wetland-management-district": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "vieques-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "waccamaw-national-wildlife-refuge": {
+  "parkLabel": "Waccamaw National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/south-carolina/waccamaw-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Waccamaw Yellow and Blue Loop",
+    "url": "https://www.alltrails.com/trail/us/south-carolina/waccamaw-yellow-and-blue-loop",
+    "length_miles": 2.7,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   }
+  ]
+ },
+ "wake-atoll-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wallkill-river-national-wildlife-refuge": {
+  "parkLabel": "Wallkill National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/new-york/wallkill-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Liberty Loop Trail",
+    "url": "https://www.alltrails.com/trail/us/new-york/liberty-loop-trail",
+    "length_miles": 2.5,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "Dagmar Dale Loop Trail",
+    "url": "https://www.alltrails.com/trail/us/new-jersey/dagmar-dale-loop-trail",
+    "length_miles": 2.4,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.5
+   }
+  ]
+ },
+ "wallops-island-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wapack-national-wildlife-refuge": {
+  "parkLabel": "Wapack National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/new-hampshire/wapack-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "North Pack Monadnock Mountain via Wapack Trail",
+    "url": "https://www.alltrails.com/trail/us/new-hampshire/north-pack-monadnock-mountain-via-wapack-trail",
+    "length_miles": 3.1,
+    "difficulty": "Moderate",
+    "route_type": "Out & back",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "North Pack Monadnock and Cliff Trail via Wapack Trail",
+    "url": "https://www.alltrails.com/trail/us/new-hampshire/north-pack-monadnock-and-cliff-trail-via-wapack-trail",
+    "length_miles": 4.8,
+    "difficulty": "Moderate",
+    "route_type": "Loop",
+    "avg_rating": 4.7
+   },
+   {
+    "name": "Wapack Trail via Northern Terminus Trailhead",
+    "url": "https://www.alltrails.com/trail/us/new-hampshire/wapack-trail-via-northern-terminus-trailhead",
+    "length_miles": 21.2,
+    "difficulty": "Hard",
+    "route_type": "Point to point",
+    "avg_rating": 4.5
+   }
+  ]
+ },
+ "wapanocca-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wapato-lake-national-wildlife-refuge": {
+  "parkLabel": "Wapato Lake National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/oregon/wapato-lake-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Levee Trail",
+    "url": "https://www.alltrails.com/trail/us/oregon/levee-trail",
+    "length_miles": 4.4,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.1
+   }
+  ]
+ },
+ "war-horse-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "washita-national-wildlife-refuge": {
+  "parkLabel": "Washita National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/oklahoma/washita-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Riverside Recreation Area",
+    "url": "https://www.alltrails.com/trail/us/oklahoma/riverside-recreation-area",
+    "length_miles": 1.1,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.5
+   },
+   {
+    "name": "Washita Centennial Trail",
+    "url": "https://www.alltrails.com/trail/us/oklahoma/washita-centennial-trail",
+    "length_miles": 0.4,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   }
+  ]
+ },
+ "wassaw-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "watercress-darter-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "waubay-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "waubay-wetland-management-district": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wertheim-national-wildlife-refuge": {
+  "parkLabel": "Wertheim National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/new-york/wertheim-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Wertheim Wildlife Trail",
+    "url": "https://www.alltrails.com/trail/us/new-york/wertheim-wildlife-trail",
+    "length_miles": 3.0,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "Black Tupelo Trail",
+    "url": "https://www.alltrails.com/trail/us/new-york/black-tupelo-trail",
+    "length_miles": 3.5,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.3
+   },
+   {
+    "name": "Carmans River Paddle Route",
+    "url": "https://www.alltrails.com/trail/us/new-york/carmans-river",
+    "length_miles": 5.4,
+    "difficulty": "Moderate",
+    "route_type": "Out & back",
+    "avg_rating": 4.8
+   }
+  ]
+ },
+ "west-sister-island-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wheeler-national-wildlife-refuge": {
+  "parkLabel": "Wheeler National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/alabama/wheeler-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Wheeler Hiking and Biking trail",
+    "url": "https://www.alltrails.com/trail/us/alabama/wheeler-hiking-and-biking-trail",
+    "length_miles": 4.6,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "Beaverdam Swamp Boardwalk",
+    "url": "https://www.alltrails.com/trail/us/alabama/beaverdam-swamp-boardwalk",
+    "length_miles": 1.1,
+    "difficulty": "Easy",
+    "route_type": "Out & back",
+    "avg_rating": 4.3
+   },
+   {
+    "name": "Flint Creek Trail",
+    "url": "https://www.alltrails.com/trail/us/alabama/flint-creek-trail",
+    "length_miles": 1.5,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.3
+   }
+  ]
+ },
+ "white-horse-hill-national-game-preserve": {
+  "parkLabel": "White Horse Hill Natural Game Preserve",
+  "parkUrl": "https://www.alltrails.com/parks/us/north-dakota/white-horse-hill-natural-game-preserve",
+  "trails": [
+   {
+    "name": "White Horse Loop",
+    "url": "https://www.alltrails.com/trail/us/north-dakota/white-horse-loop",
+    "length_miles": 1.9,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.4
+   }
+  ]
+ },
+ "white-lake-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "whittlesey-creek-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wichita-mountains-wildlife-refuge": {
+  "parkLabel": "Wichita Mountains National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/oklahoma/wichita-mountains-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Longhorn Trail and Bison Loop",
+    "url": "https://www.alltrails.com/trail/us/oklahoma/longhorn-trail-and-bison-loop",
+    "length_miles": 6.3,
+    "difficulty": "Moderate",
+    "route_type": "Loop",
+    "avg_rating": 4.7
+   },
+   {
+    "name": "Post Oak Falls Trail",
+    "url": "https://www.alltrails.com/trail/us/oklahoma/post-oak-falls-trail",
+    "length_miles": 1.4,
+    "difficulty": "Moderate",
+    "route_type": "Out & back",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "Wichita Mountains Forty-Foot Hole",
+    "url": "https://www.alltrails.com/trail/us/oklahoma/wichita-mountains-forty-foot-hole",
+    "length_miles": 0.9,
+    "difficulty": "Moderate",
+    "route_type": "Out & back",
+    "avg_rating": 4.6
+   }
+  ]
+ },
+ "wild-rice-lake-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "willapa-national-wildlife-refuge": {
+  "parkLabel": "Willapa National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/washington/willapa-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Waether Beach, Bearberry and Bay Loop",
+    "url": "https://www.alltrails.com/trail/us/washington/beach-trail--5",
+    "length_miles": 3.9,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.3
+   },
+   {
+    "name": "Willapa Bay Loop Trail",
+    "url": "https://www.alltrails.com/trail/us/washington/willapa-bay-loop-trail",
+    "length_miles": 1.2,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.3
+   }
+  ]
+ },
+ "william-l-finley-national-wildlife-refuge": {
+  "parkLabel": "William L Finley National Wildlife Refuge",
+  "parkUrl": "https://www.alltrails.com/parks/us/oregon/william-l-finley-national-wildlife-refuge",
+  "trails": [
+   {
+    "name": "Mill Hill Loop Trail",
+    "url": "https://www.alltrails.com/trail/us/oregon/mill-hill-loop-trail",
+    "length_miles": 3.6,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.5
+   },
+   {
+    "name": "Woodpecker Loop Trail",
+    "url": "https://www.alltrails.com/trail/us/oregon/woodpecker-loop-trail",
+    "length_miles": 1.3,
+    "difficulty": "Easy",
+    "route_type": "Loop",
+    "avg_rating": 4.6
+   },
+   {
+    "name": "William L. Finley National Wildlife Refuge Mega Loop",
+    "url": "https://www.alltrails.com/trail/us/oregon/william-l-finley-national-wildlife-refuge-mega-loop",
+    "length_miles": 8.3,
+    "difficulty": "Moderate",
+    "route_type": "Loop",
+    "avg_rating": 4.5
+   }
+  ]
+ },
+ "willow-lake-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wintering-river-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wolf-island-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "wood-lake-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "yazoo-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "yukon-delta-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "yukon-flats-national-wildlife-refuge": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "zz": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "zz-fws": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
+ },
+ "zz-fws-zz": {
+  "parkLabel": null,
+  "parkUrl": null,
+  "trails": []
  }
 }
