@@ -1,0 +1,41 @@
+{
+  "slug": "neches-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2006",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service approved and established the Neches River National Wildlife Refuge along the upper Neches River in Anderson and Cherokee Counties, Texas, in 2006.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service (approval of the refuge and acquisition boundary)",
+        "signedBy": null
+      },
+      "note": "FWS gives June 11, 2006. The City of Dallas and the State of Texas sued over the refuge, which delayed it; KETR reports the courts upheld its creation in 2010.",
+      "sources": [
+        {
+          "name": "FWS ServCat: R2 Neches River NWR 2026-2027 Hunt Plan: established June 11, 2006",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/194224"
+        },
+        {
+          "name": "FWS story, June 12, 2006: Fish and Wildlife Approves New Refuge in Texas",
+          "url": "https://www.fws.gov/story/2006-06/fish-and-wildlife-approves-new-refuge-texas"
+        },
+        {
+          "name": "KETR (Commerce, Texas), Feb. 23, 2010: Ruling Upheld in Creation of Wildlife Refuge",
+          "url": "https://www.ketr.org/2010-02-23/ruling-upheld-in-creation-of-wildlife-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

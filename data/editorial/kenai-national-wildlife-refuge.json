@@ -1,0 +1,37 @@
+{
+  "slug": "kenai-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-12-16",
+      "action": "established",
+      "designation": "National Moose Range",
+      "name": "Kenai National Moose Range",
+      "indexText": "President Franklin D. Roosevelt established the Kenai National Moose Range on Alaska's Kenai Peninsula by Executive Order 8979 to protect the breeding and feeding range of the Kenai moose.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8979",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The FWS document says ANILCA (1980) later changed the name to Kenai National Wildlife Refuge and modified boundaries and purposes; that second step was not independently verified here.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Kenai National Wildlife Refuge Compatibility Determination for Hunting (2007)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/79431"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8979",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8979-establishing-the-kenai-national-moose-range"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

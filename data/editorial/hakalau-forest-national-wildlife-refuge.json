@@ -1,0 +1,45 @@
+{
+  "slug": "hakalau-forest-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1985",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service, with The Nature Conservancy's help, bought Shipman Ranch lands on the windward slope of Mauna Kea and established the Hakalau Forest National Wildlife Refuge to protect endangered Hawaiian forest birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment under the Endangered Species Act of 1973 (16 U.S.C. 1534)",
+        "signedBy": null
+      },
+      "note": "FWS gives October 29, 1985 (the Hakalau Forest Unit); the non-FWS sources give only 1985. The Kona Forest Unit was added December 12, 1997.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, Hakalau Forest NWR (2010): established October 29, 1985",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/120513"
+        },
+        {
+          "name": "FWS ServCat: Hakalau Forest NWR Comprehensive Conservation Plan (2010)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/20251"
+        },
+        {
+          "name": "American Forests: Bringing Songbirds Back to Hawaii, One Forest at a Time",
+          "url": "https://www.americanforests.org/article/bringing-songbirds-back-to-hawaii-one-forest-at-a-time/"
+        },
+        {
+          "name": "Images of Old Hawaii (Peter T. Young): Hakalau",
+          "url": "https://imagesofoldhawaii.com/tag/hakalau/"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "moapa-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1979-09-10",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established the Moapa Valley National Wildlife Refuge to protect habitat for the endangered Moapa dace in the Warm Springs area of southern Nevada.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Jimmy Carter",
+        "citation": "Endangered Species Act of 1973 (land acquisition)",
+        "signedBy": null
+      },
+      "note": "Date from a single FWS document.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Research, Moapa Valley NWR (2020)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/123896"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

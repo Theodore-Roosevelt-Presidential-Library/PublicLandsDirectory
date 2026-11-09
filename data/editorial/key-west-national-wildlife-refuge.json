@@ -1,0 +1,41 @@
+{
+  "slug": "key-west-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-08-08",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Key West Reservation",
+      "indexText": "President Theodore Roosevelt set aside the keys and islands west of Key West, Florida, as the Key West Reservation, a preserve and breeding ground for native birds, by Executive Order 923.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 923",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "The FWS file holds a copy of the signed order, marked No. 923 and dated August 8, 1908. Renamed Key West National Wildlife Refuge by Proclamation 2416, July 25, 1940. Signed the same day as EO 924 (Klamath Lake Reservation).",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Key West Reservation (signed order, August 8, 1908, No. 923)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/135433"
+        },
+        {
+          "name": "FWS ServCat: Compatibility Determination, Key West NWR (2009)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129122"
+        },
+        {
+          "name": "Wikisource: Executive Order 923",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_923"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pee-dee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963-10",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "With local and state support, the Pee Dee National Wildlife Refuge in Anson and Richmond Counties, North Carolina, was established to provide wintering habitat for migratory waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+        "signedBy": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "FWS ServCat: Pee Dee NWR Comprehensive Conservation Plan (2008): established October 1963",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/20305"
+        },
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, Pee Dee NWR (2008)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129790"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

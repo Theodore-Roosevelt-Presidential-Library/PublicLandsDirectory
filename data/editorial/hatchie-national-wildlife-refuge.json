@@ -1,0 +1,32 @@
+{
+  "slug": "hatchie-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964-11-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The refuge was established at a meeting of the Migratory Bird Conservation Commission under the Migratory Bird Conservation Act.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+        "signedBy": null
+      },
+      "note": "FWS CCP: established November 16, 1964; first staff assigned November 1965.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Hatchie NWR Comprehensive Conservation Plan (2006)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/169402"
+        },
+        {
+          "name": "FWS ServCat: Lake Isom NWR Compatibility Determination, Hunting (2021), West Tennessee complex dates",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/136590"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

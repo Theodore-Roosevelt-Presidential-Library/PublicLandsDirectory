@@ -1,0 +1,41 @@
+{
+  "slug": "lost-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lost Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the refuge as the Lost Lake Migratory Waterfowl Refuge by Executive Order 8128.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8128",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Lost Lake Migratory Waterfowl Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/139108"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8128",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8128-establishing-lost-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "FWS ServCat: Comprehensive Conservation Plan, North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

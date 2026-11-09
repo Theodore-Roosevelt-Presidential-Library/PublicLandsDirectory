@@ -1,0 +1,32 @@
+{
+  "slug": "patoka-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1994-09",
+      "action": "established",
+      "designation": "National Wildlife Refuge and Management Area",
+      "name": null,
+      "indexText": "The Patoka River National Wildlife Refuge and Management Area in southwestern Indiana was established under the Emergency Wetlands Resources Act through a Record of Decision signed by Regional Director Sam Marler.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Record of Decision under the Emergency Wetlands Resources Act of 1986",
+        "signedBy": null
+      },
+      "note": "FWS sources disagree on the day (September 7 vs. September 8, 1994).",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Patoka River NWR (1996): established September 7, 1994",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/7422"
+        },
+        {
+          "name": "FWS ServCat: Patoka River NWR Compatibility Determination, Hunting (2020): established September 8, 1994",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/187386"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

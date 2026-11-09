@@ -1,0 +1,37 @@
+{
+  "slug": "ninepipe-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1921-06-25",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Nine-Pipe Reservation",
+      "indexText": "President Warren G. Harding set aside the Nine-Pipe reservoir site on the Flathead Irrigation Project, Montana, as the Nine-Pipe Reservation, a refuge and breeding ground for native birds, by Executive Order 3503.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Warren G. Harding",
+        "citation": "Executive Order 3503",
+        "signedBy": "Warren G. Harding"
+      },
+      "note": "Renamed Nine-Pipe Migratory Waterfowl Refuge by EO 8145 (May 31, 1939) and Nine-Pipe National Wildlife Refuge by Proclamation 2416 (1940). The Presidency Project has no page for EO 3503 itself; it is cited in EO 8145. Lands lie within the Flathead Indian Reservation; flag any copy about that for the Library's human reviewers.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Nine-pipe Reservation (EO 3503, June 25, 1921)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133277"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8145 (May 31, 1939), citing EO 3503 of June 25, 1921",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8145-changing-the-name-the-nine-pipe-reservation-nine-pipe-migratory"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

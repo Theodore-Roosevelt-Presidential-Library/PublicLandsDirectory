@@ -1,0 +1,32 @@
+{
+  "slug": "lower-hatchie-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-06-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established the Lower Hatchie National Wildlife Refuge in Lauderdale and Tipton Counties, Tennessee, under the Migratory Bird Conservation Act.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Jimmy Carter",
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "Date from a single FWS complex-wide list.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Lake Isom NWR Compatibility Determination, Hunting (2021): Lower Hatchie NWR - June 19, 1980",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/136590"
+        },
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, Lower Hatchie NWR (2006)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129457"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

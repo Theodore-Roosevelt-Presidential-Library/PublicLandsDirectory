@@ -1,0 +1,41 @@
+{
+  "slug": "john-heinz-national-wildlife-refuge-at-tinicum",
+  "designationHistory": [
+    {
+      "date": "1972-06-30",
+      "action": "established",
+      "designation": "National Environmental Center",
+      "name": "Tinicum National Environmental Center",
+      "indexText": "Congress directed the Secretary of the Interior to establish the Tinicum National Environmental Center, to protect the last true tidal marsh in Pennsylvania, as a unit of the National Wildlife Refuge System, in Public Law 92-326.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-326, 86 Stat. 391",
+        "signedBy": "Richard Nixon"
+      },
+      "note": "Signer inferred from the date (Nixon was President in June 1972). The FWS file includes Public Law 102-154 (Nov. 13, 1991), the Interior appropriations act associated with the later renaming for Senator John Heinz; the renaming wording was not read here.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, John Heinz NWR at Tinicum (2019): date established June 30, 1972",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/119909"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - Tinicum National Environmental Center",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144037"
+        },
+        {
+          "name": "Public Law 92-326 (June 30, 1972), 86 Stat. 391, govinfo",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg391.pdf"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

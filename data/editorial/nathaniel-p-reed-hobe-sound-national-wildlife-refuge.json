@@ -1,0 +1,28 @@
+{
+  "slug": "nathaniel-p-reed-hobe-sound-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Hobe Sound National Wildlife Refuge",
+      "indexText": "Hobe Sound National Wildlife Refuge was established through the generosity of Jupiter Island residents, with an approved boundary of about 400 acres.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973 and Refuge Recreation Act of 1962 (as cited by FWS); donated lands",
+        "signedBy": null
+      },
+      "note": "FWS gives 1969 but cites the 1973 Endangered Species Act among its authorities, which postdates 1969; the original authority needs checking. The renaming for Nathaniel P. Reed was not verified.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Fishing, Nathaniel P. Reed Hobe Sound NWR (2006)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129086"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

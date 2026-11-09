@@ -1,0 +1,37 @@
+{
+  "slug": "j-clark-salyer-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-09-04",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lower Souris Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Lower Souris Migratory Waterfowl Refuge, about 40,000 acres in Bottineau and McHenry Counties, North Dakota, by Executive Order 7170.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7170",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed Lower Souris National Wildlife Refuge by Proclamation 2416 (1940); later renamed J. Clark Salyer NWR (renaming date not verified here).",
+      "sources": [
+        {
+          "name": "FWS ServCat: Comprehensive Conservation Plan: Des Lacs, J. Clark Salyer and Upper Souris NWRs (2007)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5971"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7170",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7170-establishing-lower-souris-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

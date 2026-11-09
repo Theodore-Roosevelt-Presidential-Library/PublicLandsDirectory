@@ -1,0 +1,41 @@
+{
+  "slug": "mariana-arc-of-fire-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2009-01-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Volcanic Unit, Marianas Trench Marine National Monument",
+      "indexText": "Secretary of the Interior Dirk Kempthorne's Order 3284 directed that the Volcanic Unit of the Marianas Trench Marine National Monument, the submerged lands around 21 volcanic sites, be managed as a unit of the National Wildlife Refuge System.",
+      "authority": {
+        "type": "administrative",
+        "administration": "George W. Bush",
+        "citation": "Secretary of the Interior Order 3284",
+        "signedBy": null
+      },
+      "note": "Identification of the Mariana Arc of Fire NWR with the monument's Volcanic Unit rests on FWS descriptions; when the unit took this name was not verified. Monument proclaimed January 6, 2009 (Proclamation 8335).",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Mariana Trench Marine National Monument (Secretary's Order 3284, Jan. 16, 2009)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/139313"
+        },
+        {
+          "name": "House Report 111-484 (2010), footnote on Secretarial Order 3284, govinfo",
+          "url": "https://www.govinfo.gov/content/pkg/CRPT-111hrpt484/html/CRPT-111hrpt484.htm"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 8335 (Jan. 6, 2009)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-8335-establishment-the-marianas-trench-marine-national-monument"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

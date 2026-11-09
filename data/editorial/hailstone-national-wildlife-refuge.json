@@ -1,0 +1,37 @@
+{
+  "slug": "hailstone-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1942-12-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Hailstone National Wildlife Refuge by Executive Order 9292, in Stillwater County, Montana.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 9292",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The Presidency Project and the FWS file both date the order December 31, 1942.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Hailstone National Wildlife Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133530"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 9292",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-9292-establishing-the-hailstone-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

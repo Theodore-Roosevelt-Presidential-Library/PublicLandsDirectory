@@ -1,0 +1,32 @@
+{
+  "slug": "kankakee-national-wildlife-refuge-and-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2016",
+      "action": "established",
+      "designation": "National Wildlife Refuge and Conservation Area",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established the Kankakee National Wildlife Refuge and Conservation Area in Iroquois County, Illinois, by accepting a 66-acre donation from Friends of the Kankakee.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service (donation accepted; area first authorized in 2000 as Grand Kankakee Marsh NWR)",
+        "signedBy": null
+      },
+      "note": "FWS sources disagree: the May 25, 2016 press release announces the establishment that day, while the 2022 Land Protection Plan says September 2016. No non-FWS source was read. The area was authorized in 2000 as Grand Kankakee Marsh National Wildlife Refuge.",
+      "sources": [
+        {
+          "name": "FWS press release, May 25, 2016: Kankakee National Wildlife Refuge and Conservation Area established in Illinois",
+          "url": "https://www.fws.gov/press-release/2016-05/kankakee-national-wildlife-refuge-and-conservation-area-established-illinois"
+        },
+        {
+          "name": "FWS ServCat: Kankakee NWR and Conservation Area Land Protection Plan (2022): established September 2016",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/145815"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "johnson-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Johnson Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the refuge as the Johnson Lake Migratory Waterfowl Refuge by Executive Order 8122, reserving about 1,928 acres in Eddy and Nelson Counties, North Dakota.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8122",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The 2006 FWS North Dakota Limited-interest Refuges CCP (Table 4) lists Johnson Lake as EO 8120; that is a misprint. The order text in the FWS file and the Presidency Project both carry No. 8122 (EO 8120 established Half-Way Lake). Renamed by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Johnson Lake Migratory Waterfowl Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/134100"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8122",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8122-establishing-the-johnson-lake-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
