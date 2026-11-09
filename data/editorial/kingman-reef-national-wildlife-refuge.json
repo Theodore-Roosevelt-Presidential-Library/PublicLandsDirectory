@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Kingman Reef National Wildlife Refuge was officially established on January 18, 2001.",
+      "indexText": "Established Jan. 18, 2001, by Secretary of the Interior Order 3223.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "Secretarial Order 3223",
+        "signedBy": null
       },
       "note": "The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kingman Reef National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/kingman-reef/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan for Palmyra Atoll and Kingman Reef NWRs: Secretarial Order 3223, Jan. 18, 2001",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/124858"
+        },
+        {
+          "name": "Federal Register: Establishment of the Kingman Reef NWR, Jan. 24, 2001",
+          "url": "https://www.federalregister.gov/documents/2001/01/24/01-2148/establishment-of-the-kingman-reef-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right, but it was a Secretarial Order (Interior), not a presidential action; clear Clinton as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Kingman Reef National Wildlife Refuge was officially established on January 18, 2001."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

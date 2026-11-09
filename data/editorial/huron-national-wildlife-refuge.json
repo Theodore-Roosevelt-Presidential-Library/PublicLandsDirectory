@@ -2,26 +2,43 @@
   "slug": "huron-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1905",
+      "date": "1905-10-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The refuge was established in 1905 as a refuge and breeding ground for migratory birds and other wildlife, especially the herring gull, which had large nesting colonies on the islands.",
+      "name": "Huron Islands Reservation",
+      "indexText": "Established Oct. 10, 1905, as the Huron Islands Reservation by executive order of President Theodore Roosevelt, as a refuge and breeding ground for birds such as the herring gull.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order of Oct. 10, 1905",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Huron National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/huron/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7795, Jan. 21, 1938 (revokes \"the Executive Order of October 10, 1905, establishing the Huron Islands Reservation\")",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7795-establishing-the-huron-migratory-bird-refuge"
+        },
+        {
+          "name": "FWS ServCat: Seney NWR and satellites I&M plan: Huron NWR established by Executive Order dated Oct. 10, 1905",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; full date, name and T.R. signature from EO 7795, which re-established it as the Huron Migratory Bird Refuge in 1938.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1905 as a refuge and breeding ground for migratory birds and other wildlife, especially the herring gull, which had large nesting colonies on the islands."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

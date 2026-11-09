@@ -5,12 +5,12 @@
       "date": "1927-06-07",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "McKay Creek National Wildlife Refuge was established by President Calvin Coolidge on June 7, 1927, as \"a refuge and breeding ground for birds.\" The 1,837-acre refuge overlays McKay Creek Reservoir, a U.S.",
+      "name": "McKay Creek Bird Refuge",
+      "indexText": "Established June 7, 1927, as the McKay Creek Bird Refuge by Executive Order 4662, signed by President Calvin Coolidge.",
       "authority": {
-        "type": "unspecified",
+        "type": "executive-order",
         "administration": "Calvin Coolidge",
-        "citation": null,
+        "citation": "Executive Order 4662",
         "signedBy": "Calvin Coolidge"
       },
       "note": null,
@@ -18,11 +18,27 @@
         {
           "name": "U.S. Fish and Wildlife Service: McKay Creek National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mckay-creek/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Mid-Columbia River NWR Complex: McKay Creek NWR established by EO 4662 in 1927 as the \"McKay Creek Bird Refuge\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/112607"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year, EO number and name confirmed; the day (June 7) is from the FWS page only.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "McKay Creek National Wildlife Refuge was established by President Calvin Coolidge on June 7, 1927, as \"a refuge and breeding ground for birds.\" The 1,837-acre refuge overlays McKay Creek Reservoir, a U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

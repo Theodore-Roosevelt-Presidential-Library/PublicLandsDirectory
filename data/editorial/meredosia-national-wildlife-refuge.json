@@ -2,26 +2,39 @@
   "slug": "meredosia-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1936",
+      "date": "1973",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Chautauqua National Wildlife Refuge Chautauqua National Wildlife Refuge was established in 1936 for the main purpose of providing sanctuary for the millions of birds that migrate along the Illinois River.",
+      "indexText": "Established in 1973 under the Migratory Bird Conservation Act to protect Illinois River backwater habitat for migratory birds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Meredosia National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/meredosia/about-us"
+        },
+        {
+          "name": "FWS ServCat: Illinois River NWR Complex 2026-2027 Hunt and Fish compliance documentation: Meredosia NWR established in 1973 under the MBCA",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194335"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Chautauqua NWR sentence (1936). Meredosia NWR dates from 1973 per FWS complex documentation; a second independent source would strengthen this.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Chautauqua National Wildlife Refuge Chautauqua National Wildlife Refuge was established in 1936 for the main purpose of providing sanctuary for the millions of birds that migrate along the Illinois River."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

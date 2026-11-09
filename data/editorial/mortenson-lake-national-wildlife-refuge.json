@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Mortenson Lake National Wildlife Refuge was established in 1993 under the Endangered Species Act to protect the endangered Wyoming toad.",
+      "indexText": "Established in 1993 under the Endangered Species Act to protect the last known population of the endangered Wyoming toad.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mortenson Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mortenson-lake/about-us"
+        },
+        {
+          "name": "FWS ServCat: CCP: Bamforth, Hutton Lake and Mortenson Lake NWRs (Mortenson Lake established 1993 under the ESA)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1384"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mortenson Lake National Wildlife Refuge was established in 1993 under the Endangered Species Act to protect the endangered Wyoming toad."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

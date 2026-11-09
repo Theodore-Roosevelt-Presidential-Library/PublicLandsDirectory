@@ -6,22 +6,35 @@
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Kirtland’s Warbler Wildlife Management Area was established in 1980 in response to the need for more land dedicated to the recovery of the Kirtland’s warbler, which was on the endangered species list from 1967 to 2019.",
+      "indexText": "Established in 1980 to protect nesting habitat for the endangered Kirtland's warbler in northern Lower Michigan.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kirtlands Warbler Wildlife Management Area, About Us",
           "url": "https://www.fws.gov/refuge/kirtlands-warbler-wildlife-management-area/about-us"
+        },
+        {
+          "name": "FWS ServCat: Seney NWR and satellites I&M plan: Kirtland's Warbler WMA established in 1980",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Kirtland’s Warbler Wildlife Management Area was established in 1980 in response to the need for more land dedicated to the recovery of the Kirtland’s warbler, which was on the endangered species list from 1967 to 2019."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

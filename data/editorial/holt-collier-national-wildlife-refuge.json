@@ -2,26 +2,39 @@
   "slug": "holt-collier-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "2004",
+      "date": "2004-01-23",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Holt Collier NWR was established in 2004.",
+      "indexText": "Established Jan. 23, 2004, when an act of Congress made the Bogue Phalia Unit of Yazoo NWR the separate Holt Collier National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Consolidated Appropriations Act, 2004, P.L. 108-199, sec. 145",
+        "signedBy": "George W. Bush"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Holt Collier National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/holt-collier/about-us"
+        },
+        {
+          "name": "FWS ServCat: Theodore Roosevelt and Holt Collier NWRs CCP: sec. 145 of P.L. 108-199, signed Jan. 23, 2004",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168352"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; created by sec. 145 of P.L. 108-199 (the Theodore Roosevelt NWR Act), signed by George W. Bush. Named for Holt Collier, guide on T.R.'s 1902 Mississippi bear hunt.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Holt Collier NWR was established in 2004."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

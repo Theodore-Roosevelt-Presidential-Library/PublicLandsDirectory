@@ -2,26 +2,43 @@
   "slug": "mississippi-sandhill-crane-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1975",
+      "date": "1975-11-25",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Mississippi Sandhill Crane National Wildlife Refuge was established in 1975 under authority of the Endangered Species Act to protect the critically endangered Mississippi sandhill cranes and their unique, and itself endangered, wet pine savanna habitat.",
+      "indexText": "Established Nov. 25, 1975, under the Endangered Species Act with the purchase of 1,749 acres to protect the Mississippi sandhill crane.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mississippi Sandhill Crane National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mississippi-sandhill-crane/about-us"
+        },
+        {
+          "name": "FWS ServCat: Mississippi Sandhill Crane NWR CCP: established Nov. 25, 1975, with purchase of 1,749 acres from The Nature Conservancy",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168347"
+        },
+        {
+          "name": "Federal Register: Mississippi Sandhill Crane NWR notice, Oct. 9, 2007",
+          "url": "https://www.federalregister.gov/documents/2007/10/09/E7-19798/mississippi-sandhill-crane-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; CCP gives the day.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mississippi Sandhill Crane National Wildlife Refuge was established in 1975 under authority of the Endangered Species Act to protect the critically endangered Mississippi sandhill cranes and their unique, and itself endangered, wet pine savanna habitat."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,43 @@
   "slug": "huron-wetland-management-district",
   "designationHistory": [
     {
-      "date": "1905",
+      "date": "1992",
       "action": "established",
       "designation": "Wetland Management District",
       "name": null,
-      "indexText": "The refuge was established in 1905 as a refuge and breeding ground for migratory birds and other wildlife, especially the herring gull, which had large nesting colonies on the islands.",
+      "indexText": "Established in 1992 from lands previously managed by the Lake Andes and Sand Lake Wetland Management Districts in South Dakota.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Huron Wetland Management District, About Us",
           "url": "https://www.fws.gov/refuge/huron/about-us"
+        },
+        {
+          "name": "Federal Register: Huron, Madison and Sand Lake WMDs notice, Oct. 16, 2012 (Huron WMD established 1992)",
+          "url": "https://www.federalregister.gov/documents/2012/10/16/2012-25337/huron-wetland-management-district-madison-wetland-management-district-and-sand-lake-wetland"
+        },
+        {
+          "name": "FWS ServCat: CCP: Huron, Madison and Sand Lake WMDs (Huron WMD established 1992)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8143"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Huron NWR (Michigan) sentence. Huron WMD in South Dakota was established in 1992.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1905 as a refuge and breeding ground for migratory birds and other wildlife, especially the herring gull, which had large nesting colonies on the islands."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

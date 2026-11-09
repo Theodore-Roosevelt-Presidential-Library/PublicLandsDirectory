@@ -2,26 +2,43 @@
   "slug": "mattamuskeet-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1934",
+      "date": "1934-12-18",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Mattamuskeet National Wildlife Refuge, located on the Albemarle-Pamlico Peninsula in Hyde County, North Carolina, was established in 1934.",
+      "name": "Lake Mattamuskeet Wild Life Refuge",
+      "indexText": "Established Dec. 18, 1934, as the Lake Mattamuskeet Wild Life Refuge by Executive Order 6924, signed by President Franklin D. Roosevelt.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 6924",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mattamuskeet National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mattamuskeet/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6924, Dec. 18, 1934",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6924-establishment-lake-mattamuskeet-wild-life-refuge"
+        },
+        {
+          "name": "Federal Register: Mattamuskeet NWR notice, July 18, 2008 (established 1934)",
+          "url": "https://www.federalregister.gov/documents/2008/07/18/E8-16424/mattamuskeet-national-wildlife-refuge-hyde-county-nc"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; EO 6924 gives date and earlier name.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mattamuskeet National Wildlife Refuge, located on the Albemarle-Pamlico Peninsula in Hyde County, North Carolina, was established in 1934."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

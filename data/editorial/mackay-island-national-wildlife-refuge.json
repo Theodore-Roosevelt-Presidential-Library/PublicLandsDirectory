@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Mackay Island National Wildlife Refuge About Us What We Do Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/CoastalNorthCarolinaNWRC About Us Congress established the Mackay Island National Wildlife Refuge on December 30, 1960, by the authority of the Migratory Bird Conservation Act of 1929.",
+      "indexText": "Established Dec. 30, 1960, under the Migratory Bird Conservation Act as wintering habitat for greater snow geese and other waterfowl.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mackay Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mackay-island/about-us"
+        },
+        {
+          "name": "FWS ServCat: Mackay Island NWR CCP (established Dec. 30, 1960, under the Migratory Bird Conservation Act)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168357"
+        },
+        {
+          "name": "Federal Register: Notice of intent, Mackay Island and Currituck NWRs, May 25, 2001 (gives 1961)",
+          "url": "https://www.federalregister.gov/documents/2001/05/25/01-13240/environmental-statements-notice-of-intent-mackay-island-and-currituck-national-wildlife-refuges-nc"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date kept per the CCP (a 2001 FR notice gives 1961, probably first acquisition). Administrative purchase under the MBCA; clear Eisenhower as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mackay Island National Wildlife Refuge About Us What We Do Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/CoastalNorthCarolinaNWRC About Us Congress established the Mackay Island National Wildlife Refuge on December 30, 1960, by the authority of the Migratory Bird Conservation Act of 1929."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

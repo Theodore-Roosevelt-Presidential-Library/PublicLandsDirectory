@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Humboldt Bay National Wildlife Refuge Complex, which includes Castle Rock National Wildlife Refuge, was established in 1971, to conserve precious habitat for the great diversity of birds, mammals, fish, amphibians, invertebrates, and plants that occur along the Pacific Coast of northern California.",
+      "indexText": "Established in 1971 under the Migratory Bird Conservation Act to conserve Humboldt Bay habitat for migratory birds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Humboldt Bay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/humboldt-bay/about-us"
+        },
+        {
+          "name": "Federal Register: Humboldt Bay NWR notice, Jan. 29, 2007 (established 1971 under the MBCA)",
+          "url": "https://www.federalregister.gov/documents/2007/01/29/E7-1327/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-for-the"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. The draft sentence speaks of the complex; Castle Rock NWR is a separate refuge (1980).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Humboldt Bay National Wildlife Refuge Complex, which includes Castle Rock National Wildlife Refuge, was established in 1971, to conserve precious habitat for the great diversity of birds, mammals, fish, amphibians, invertebrates, and plants that occur along the Pacific Coast of northern California."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

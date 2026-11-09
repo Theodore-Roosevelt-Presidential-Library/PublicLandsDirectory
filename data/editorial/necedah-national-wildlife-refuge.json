@@ -2,26 +2,43 @@
   "slug": "necedah-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1939",
+      "date": "1939-03-14",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Established as a refuge for breeding and migratory birds and other wildlife while being an inviolate sanctuary for migratory birds. 1939 - The Bureau of Biological Survey from the Department of Agriculture and the Bureau of Fisheries from the Department of Commerce were transferred to the Department of the Interior and became the U.S.",
+      "name": "Necedah Migratory Waterfowl Refuge",
+      "indexText": "Established March 14, 1939, as the Necedah Migratory Waterfowl Refuge by Executive Order 8065, signed by President Franklin D. Roosevelt.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8065",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Necedah National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/necedah/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8065, Mar. 14, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8065-establishing-the-necedah-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "FWS ServCat: Necedah NWR Habitat Management Plan (established 1939 by EO 8065)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125276"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a timeline line about the 1939 merger of the Biological Survey and Bureau of Fisheries; the year matches only by chance. Real act: EO 8065.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established as a refuge for breeding and migratory birds and other wildlife while being an inviolate sanctuary for migratory birds. 1939 - The Bureau of Biological Survey from the Department of Agriculture and the Bureau of Fisheries from the Department of Commerce were transferred to the Department of the Interior and became the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,47 @@
   "slug": "innoko-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1980",
+      "date": "1980-12-02",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Innoko National Wildlife Refuge, traditional homelands of the Koyukon Athabascan people, was established by the Alaska National Interest Lands Conservation Act in 1980.",
+      "indexText": "Established Dec. 2, 1980, by the Alaska National Interest Lands Conservation Act, signed by President Jimmy Carter.",
       "authority": {
         "type": "act-of-congress",
-        "administration": null,
-        "citation": null
+        "administration": "Jimmy Carter",
+        "citation": "Alaska National Interest Lands Conservation Act, P.L. 96-487, sec. 302",
+        "signedBy": "Jimmy Carter"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Innoko National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/innoko/about-us"
+        },
+        {
+          "name": "94 Stat. 2371 (Statutes at Large, govinfo): ANILCA, P.L. 96-487, Dec. 2, 1980, sec. 302",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "FWS ServCat: Innoko NWR CCP summary (established 1980 by ANILCA)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/106506"
+        },
+        {
+          "name": "FWS ServCat: Koyukuk and Northern Unit of Innoko NWRs CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143944"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed; ANILCA signed Dec. 2, 1980.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Innoko National Wildlife Refuge, traditional homelands of the Koyukon Athabascan people, was established by the Alaska National Interest Lands Conservation Act in 1980."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

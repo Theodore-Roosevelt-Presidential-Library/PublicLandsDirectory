@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "cIslandsFWS/ https://twitter.com/USFWSPacific About Us Kakahai‘a National Wildlife Refuge on the island of Moloka‘i was established in 1976 to permanently protect wetland habitat for endangered waterbirds, primarily Hawaiian stilt and Hawaiian coot, and to provide habitat for wintering migratory wetland birds.",
+      "indexText": "Established in 1976 under the Endangered Species Act to protect wetland habitat for endangered Hawaiian waterbirds on Molokai.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kakahaia National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/kakahaia/about-us"
+        },
+        {
+          "name": "FWS ServCat: Kakahaia NWR CCP: established in 1976 under the ESA",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/111057"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year 1976 confirmed by the CCP (Wikipedia says 1977).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "cIslandsFWS/ https://twitter.com/USFWSPacific About Us Kakahai‘a National Wildlife Refuge on the island of Moloka‘i was established in 1976 to permanently protect wetland habitat for endangered waterbirds, primarily Hawaiian stilt and Hawaiian coot, and to provide habitat for wintering migratory wetland birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "the Refuge was established in 1976 for the purpose of providing habitat for endangered Hawaiian waterbirds.",
+      "indexText": "Established in 1976 on about 150 acres leased from the Estate of James Campbell, to provide habitat for endangered Hawaiian waterbirds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: James Campbell National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/james-campbell/about-us"
+        },
+        {
+          "name": "FWS ServCat: James Campbell NWR CCP (established 1976 on about 150 leased acres)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43256"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the Refuge was established in 1976 for the purpose of providing habitat for endangered Hawaiian waterbirds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

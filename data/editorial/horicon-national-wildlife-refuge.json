@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1941 to provide an undisturbed sanctuary for a number of migratory birds and waterfowl including the redhead duck as well as to provide opportunities for people to connect with nature through many wildlife dependent recreational activities such as wildlife observation, photography, environmental education, interpretation, fishing and hunting.",
+      "indexText": "Established in 1941 under the Migratory Bird Conservation Act to protect Horicon Marsh for migrating waterfowl.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Horicon National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/horicon/about-us"
+        },
+        {
+          "name": "FWS ServCat: Horicon and Fox River NWRs CCP: established 1941 under the Migratory Bird Conservation Act",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5985"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1941 to provide an undisturbed sanctuary for a number of migratory birds and waterfowl including the redhead duck as well as to provide opportunities for people to connect with nature through many wildlife dependent recreational activities such as wildlife observation, photography, environmental education, interpretation, fishing and hunting."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -1,28 +1,44 @@
 {
- "slug": "montezuma-national-wildlife-refuge",
- "designationHistory": [
-  {
-   "date": "7971",
-   "action": "established",
-   "designation": "National Wildlife Refuge",
-   "name": null,
-   "indexText": "Montezuma National Wildlife Refuge was established by Executive Order 7971 on September 12, 1938 “...as a refuge and breeding ground for migratory birds and other wildlife...” Montezuma NWR has acquired lands under the authority of the Migratory Bird Conservation Act (16 U.S.C. 715-715r), as amended, “...for use as an inviolate sanctuary, or for any other management purpose, for migratory birds.” ",
-   "authority": {
-    "type": "executive-order",
-    "administration": null,
-    "citation": null,
-    "signedBy": null
-   },
-   "note": "The refuge page gives only the month or year.",
-   "sources": [
+  "slug": "montezuma-national-wildlife-refuge",
+  "designationHistory": [
     {
-     "name": "U.S. Fish and Wildlife Service: Montezuma National Wildlife Refuge, About Us",
-     "url": "https://www.fws.gov/refuge/montezuma/about-us"
+      "date": "1938-09-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Montezuma Migratory Bird Refuge",
+      "indexText": "Established Sept. 12, 1938, as the Montezuma Migratory Bird Refuge by Executive Order 7971, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7971",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Montezuma National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/montezuma/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7971, Sept. 12, 1938",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7971-establishing-montezuma-migratory-bird-refuge"
+        },
+        {
+          "name": "FWS ServCat: Montezuma NWR CCP (EO 7971, Sept. 12, 1938)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43794"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date field held the EO number (7971) and signer a fragment.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Montezuma National Wildlife Refuge was established by Executive Order 7971 on September 12, 1938 “...as a refuge and breeding ground for migratory birds and other wildlife...” Montezuma NWR has acquired lands under the authority of the Migratory Bird Conservation Act (16 U.S.C. 715-715r), as amended, “...for use as an inviolate sanctuary, or for any other management purpose, for migratory birds.” "
     }
-   ],
-   "research": "fws-about",
-   "reviewed": false
-  }
- ],
- "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

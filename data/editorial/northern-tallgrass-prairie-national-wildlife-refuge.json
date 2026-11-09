@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Northern Tallgrass Prairie National Wildlife Refuge was established in 2000 to address the loss of America’s grasslands and the decline of grassland wildlife.",
+      "indexText": "Established in 2000 to protect remnant tallgrass prairie in western Minnesota and northwest Iowa through easements and purchases.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Northern Tallgrass Prairie National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/northern-tallgrass-prairie/about-us"
+        },
+        {
+          "name": "Minnesota Legacy Funds project page: Northern Tallgrass Prairie NWR, Phase XI (\"established in 2000\")",
+          "url": "https://www.legacy.mn.gov/projects/northern-tallgrass-prairie-national-wildlife-refuge-phase-xi"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by a Minnesota state source; no FWS planning document found.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Northern Tallgrass Prairie National Wildlife Refuge was established in 2000 to address the loss of America’s grasslands and the decline of grassland wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

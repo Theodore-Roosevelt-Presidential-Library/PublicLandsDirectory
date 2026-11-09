@@ -2,26 +2,39 @@
   "slug": "lee-metcalf-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1968",
+      "date": "1964-02-04",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "National Recreation Trails were established by the National Trails System Act of 1968 (Public Law 90-543), which authorized creation of a national trails system composed of National Recreation Trails, National Scenic Trails and National Historic Trails.",
+      "indexText": "Established Feb. 4, 1964, in Montana's Bitterroot Valley; renamed in 1978 for Sen. Lee Metcalf.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Lee Metcalf National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/lee-metcalf/about-us"
+        },
+        {
+          "name": "FWS ServCat: Lee Metcalf NWR CCP (2012): established Feb. 4, 1964; renamed 1978",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8144"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a sentence about the National Trails System Act (1968). Refuge established Feb. 4, 1964 (CCP). The earlier name (often given as Ravalli NWR) was not confirmed here, so name is left unset.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Recreation Trails were established by the National Trails System Act of 1968 (Public Law 90-543), which authorized creation of a national trails system composed of National Recreation Trails, National Scenic Trails and National Historic Trails."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

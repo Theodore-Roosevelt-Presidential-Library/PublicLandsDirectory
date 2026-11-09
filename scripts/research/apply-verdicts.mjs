@@ -37,7 +37,9 @@ for (const [slug, vs] of Object.entries(bySlug)) {
     if (c.authorityType) h.authority.type = c.authorityType;
     if (c.citation) h.authority.citation = c.citation;
     if (c.president) { h.authority.administration = c.president; h.authority.signedBy = h.authority.type === 'unspecified' ? null : c.president; h.note = null; }
-    if (h.authority.type === 'unspecified') h.authority.signedBy = null;
+    if ('president' in c && c.president === null) h.authority.signedBy = null;
+    // Only proclamations, executive orders and signed acts have a presidential signer.
+    if (!['presidential-proclamation', 'executive-order', 'act-of-congress'].includes(h.authority.type)) h.authority.signedBy = null;
     // Only a President can be a signer; drafts sometimes caught other words after "by" ("by Island Light").
     for (const k of ['signedBy', 'administration']) if (h.authority[k]) h.authority[k] = presidentName(h.authority[k]) || (k === 'administration' ? presidentName(c.president) : null);
     h.sources = [...h.sources, ...(v.sources || []).filter((s) => s.url && !h.sources.some((x) => x.url === s.url))];

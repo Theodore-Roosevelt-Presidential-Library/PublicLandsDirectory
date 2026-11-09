@@ -2,26 +2,43 @@
   "slug": "monte-vista-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1952",
+      "date": "1952-06-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Monte Vista National Wildlife Refuge was established in 1952 as the first national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S.",
+      "indexText": "Established June 10, 1952, when the Migratory Bird Conservation Commission approved it, Colorado's first national wildlife refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Commission approval",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Monte Vista National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/monte-vista/about-us"
+        },
+        {
+          "name": "FWS ServCat: Alamosa/Monte Vista NWR Complex CCP: approved for acquisition June 10, 1952, by the Migratory Bird Conservation Commission",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1373"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, San Luis Valley NWR Complex (MBCC approved establishment in 1952)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/69747"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; MBCC approval June 10, 1952.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Monte Vista National Wildlife Refuge was established in 1952 as the first national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

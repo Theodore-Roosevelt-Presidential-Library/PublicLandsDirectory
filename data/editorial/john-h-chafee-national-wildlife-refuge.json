@@ -2,26 +2,39 @@
   "slug": "john-h-chafee-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1973",
+      "date": "1988-11-05",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Established in 1973, the John H.",
+      "name": "Pettaquamscutt Cove National Wildlife Refuge",
+      "indexText": "Established Nov. 5, 1988, as Pettaquamscutt Cove National Wildlife Refuge by act of Congress (P.L. 100-610), signed by President Ronald Reagan; later renamed for Sen. John H. Chafee.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "P.L. 100-610, title II",
+        "signedBy": "Ronald Reagan"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: John H. Chafee National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/john-h-chafee/about-us"
+        },
+        {
+          "name": "FWS ServCat: John H. Chafee NWR CCP (2002): established Nov. 5, 1988, Public Law 100-610",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1439"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft 1973 is wrong (truncated sentence). Created by P.L. 100-610 (1988) as Pettaquamscutt Cove NWR. Day from the CCP's citation of the law.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1973, the John H."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

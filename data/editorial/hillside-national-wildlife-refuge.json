@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Hillside National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Trails Rules & Policies News Library Species Map About Us Image Details Established in 1975, Hillside National Wildlife Refuge supports hundreds of wildlife species.",
+      "indexText": "Established in 1975 to protect bottomland hardwood habitat at the edge of the Mississippi Delta.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Coordination Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Hillside National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/hillside/about-us"
+        },
+        {
+          "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by the complex CCP table.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Hillside National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Trails Rules & Policies News Library Species Map About Us Image Details Established in 1975, Hillside National Wildlife Refuge supports hundreds of wildlife species."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

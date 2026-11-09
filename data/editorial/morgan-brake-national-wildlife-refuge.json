@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Morgan Brake National Wildlife Refuge, established in 1977, encompasses about 7,400 acres in Holmes County along the ecological border between the Mississippi alluvial plain and loessal hills in the biologically and culturally unique Delta region of Mississippi.",
+      "indexText": "Established in 1977 under the Migratory Bird Conservation Act, along the border of the Mississippi Delta and the loess hills.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Morgan Brake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/morgan-brake/about-us"
+        },
+        {
+          "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by the complex CCP table.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Morgan Brake National Wildlife Refuge, established in 1977, encompasses about 7,400 acres in Holmes County along the ecological border between the Mississippi alluvial plain and loessal hills in the biologically and culturally unique Delta region of Mississippi."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

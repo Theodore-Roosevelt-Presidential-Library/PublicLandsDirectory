@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Midway Atoll National Wildlife Refuge was first established as an \"overlay\" refuge in 1988 to protect the area’s significant natural, cultural, and historic resources, while still under the primary jurisdiction of the Navy.",
+      "indexText": "Established in 1988 as an overlay refuge on Navy-controlled Midway Atoll.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Cooperative agreement with the U.S. Navy",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Midway Atoll National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/midway-atoll/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Midway Atoll NWR (overlay refuge established 1988)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/178306"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Midway Atoll National Wildlife Refuge was first established as an \"overlay\" refuge in 1988 to protect the area’s significant natural, cultural, and historic resources, while still under the primary jurisdiction of the Navy."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

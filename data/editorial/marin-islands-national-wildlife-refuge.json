@@ -2,26 +2,43 @@
   "slug": "marin-islands-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1852",
+      "date": "1992",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "buildings in San Francisco was quarried from East Marin Island by prisoners from the State penitentiary at San Quentin, established in 1852.",
+      "indexText": "Established in 1992 to protect a heron and egret nesting colony on West Marin Island in San Francisco Bay.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Marin Islands National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/marin-islands/about-us"
+        },
+        {
+          "name": "Federal Register: Marin Islands NWR notice of intent, Sept. 22, 2004 (established 1992)",
+          "url": "https://www.federalregister.gov/documents/2004/09/22/04-21268/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-a"
+        },
+        {
+          "name": "FWS ServCat: Marin Islands NWR CCP/EA",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8268"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a sentence about San Quentin prison (1852). Refuge established 1992.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "buildings in San Francisco was quarried from East Marin Island by prisoners from the State penitentiary at San Quentin, established in 1852."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

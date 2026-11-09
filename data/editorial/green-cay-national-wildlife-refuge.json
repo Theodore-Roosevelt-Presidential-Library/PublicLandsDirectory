@@ -2,26 +2,39 @@
   "slug": "green-cay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1977",
+      "date": "1977-12",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Green Cay National Wildlife Refuge was established in 1977 to protect the endangered St.",
+      "indexText": "Established in December 1977 to protect the largest known natural population of the endangered St. Croix ground lizard.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Green Cay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/green-cay/about-us"
+        },
+        {
+          "name": "FWS ServCat: Inventory and Monitoring Plan for Green Cay NWR (2025): established December 1977",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/188683"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; FWS I&M plan gives December 1977.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Green Cay National Wildlife Refuge was established in 1977 to protect the endangered St."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

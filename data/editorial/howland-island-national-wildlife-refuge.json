@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Howland Island National Wildlife Refuge was established in 1974 and includes 410,999 acres, of which 648 acres are terrestrial and 410,351 acres are submerged.",
+      "indexText": "Established in 1974 when the Department of the Interior placed Howland Island under the Fish and Wildlife Service as a national wildlife refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Howland Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/howland-island/about-us"
+        },
+        {
+          "name": "Federal Register: Notice of intent for Howland, Baker and Jarvis CCPs, Sept. 14, 2005 (established in 1974)",
+          "url": "https://www.federalregister.gov/documents/2005/09/14/05-18206/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-associated-environmental"
+        },
+        {
+          "name": "FWS ServCat: I&M plan for Howland, Baker, Jarvis NWRs",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/53562"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Howland Island National Wildlife Refuge was established in 1974 and includes 410,999 acres, of which 648 acres are terrestrial and 410,351 acres are submerged."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

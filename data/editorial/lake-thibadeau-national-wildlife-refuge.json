@@ -1,28 +1,44 @@
 {
- "slug": "lake-thibadeau-national-wildlife-refuge",
- "designationHistory": [
-  {
-   "date": "1937-09-28",
-   "action": "established",
-   "designation": "National Wildlife Refuge",
-   "name": null,
-   "indexText": "Lake Thibadeau National Wildlife Refuge was established on September 28, 1937 by Executive Order No. 7713 as \"a refuge and breeding ground for migratory birds and other wildlife.\" Our History The history of Lake Thibadeau National Wildlife Refuge is tied to the Emergency Relief Act and the Works Progress Administration program.",
-   "authority": {
-    "type": "executive-order",
-    "administration": "Franklin D. Roosevelt",
-    "citation": null,
-    "signedBy": null
-   },
-   "note": null,
-   "sources": [
+  "slug": "lake-thibadeau-national-wildlife-refuge",
+  "designationHistory": [
     {
-     "name": "U.S. Fish and Wildlife Service: Lake Thibadeau National Wildlife Refuge, About Us",
-     "url": "https://www.fws.gov/refuge/lake-thibadeau/about-us"
+      "date": "1937-09-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Lake Thibadeau Migratory Waterfowl Refuge",
+      "indexText": "Established Sept. 23, 1937, as the Lake Thibadeau Migratory Waterfowl Refuge by Executive Order 7713, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7713",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Thibadeau National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-thibadeau/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7713, signed Sept. 23, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7713-establishing-lake-thibadeau-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong day: EO 7713 is dated Sept. 23, 1937, not Sept. 28. Signer was a parsing fragment.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Thibadeau National Wildlife Refuge was established on September 28, 1937 by Executive Order No. 7713 as \"a refuge and breeding ground for migratory birds and other wildlife.\" Our History The history of Lake Thibadeau National Wildlife Refuge is tied to the Emergency Relief Act and the Works Progress Administration program."
     }
-   ],
-   "research": "fws-about",
-   "reviewed": false
-  }
- ],
- "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

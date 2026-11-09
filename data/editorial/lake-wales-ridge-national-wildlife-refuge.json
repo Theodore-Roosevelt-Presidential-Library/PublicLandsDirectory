@@ -2,26 +2,39 @@
   "slug": "lake-wales-ridge-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1993",
+      "date": "1994-04-22",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Lake Wales Ridge National Wildlife Refuge was established in 1993 as the first refuge designated for the recovery of endangered and threatened plants.",
+      "indexText": "Established April 22, 1994, under the Endangered Species Act to protect the rare scrub plants and animals of central Florida's Lake Wales Ridge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Lake Wales Ridge National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/lake-wales-ridge/about-us"
+        },
+        {
+          "name": "FWS ServCat: Lake Wales Ridge NWR CCP: approved Feb. 15, 1994; established April 22, 1994",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168120"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "FWS page says 1993 (the final EA and land protection plan date, Nov. 1993). The CCP says the refuge was approved Feb. 15, 1994, and established April 22, 1994.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Wales Ridge National Wildlife Refuge was established in 1993 as the first refuge designated for the recovery of endangered and threatened plants."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

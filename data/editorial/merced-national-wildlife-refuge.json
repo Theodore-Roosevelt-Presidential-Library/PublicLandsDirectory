@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "It was established in 1951 under the Lea Act and Migratory Bird Conservation Act to attract wintering waterfowl from neighboring farmland where their foraging activities were causing crop damage.",
+      "indexText": "Established in 1951 under the Lea Act and Migratory Bird Conservation Act to draw wintering waterfowl away from neighboring crops.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Lea Act; Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Merced National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/merced/about-us"
+        },
+        {
+          "name": "Federal Register: San Luis and Merced NWRs draft CCP notice, Sept. 11, 2023 (Merced established 1951)",
+          "url": "https://www.federalregister.gov/documents/2023/09/11/2023-19485/san-luis-and-merced-national-wildlife-refuges-and-grasslands-wildlife-management-area-ca-draft"
+        },
+        {
+          "name": "FWS ServCat: San Luis and Merced NWRs final CCP (first parcel acquired 1951)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/167996"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1951 under the Lea Act and Migratory Bird Conservation Act to attract wintering waterfowl from neighboring farmland where their foraging activities were causing crop damage."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

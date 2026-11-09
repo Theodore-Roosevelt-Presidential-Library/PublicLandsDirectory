@@ -2,26 +2,39 @@
   "slug": "minnesota-valley-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1976",
+      "date": "1976-10-08",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "ons Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/MNvalleyNWR/ About Us Established in 1976 by motivated residents, the refuge preserved wildlife resources threatened by commercial and industrial development.",
+      "indexText": "Established Oct. 8, 1976, by the Minnesota Valley National Wildlife Refuge Act, signed by President Gerald R. Ford.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "Gerald R. Ford",
+        "citation": "Minnesota Valley National Wildlife Refuge Act, P.L. 94-466",
+        "signedBy": "Gerald R. Ford"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Minnesota Valley National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/minnesota-valley/about-us"
+        },
+        {
+          "name": "FWS ServCat: Minnesota Valley NWR and WMD CCP: established by Congress in 1976 through the Minnesota Valley NWR Act (P.L. 94-466, Oct. 8, 1976)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1550"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; P.L. 94-466 gives date and authority.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "ons Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/MNvalleyNWR/ About Us Established in 1976 by motivated residents, the refuge preserved wildlife resources threatened by commercial and industrial development."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

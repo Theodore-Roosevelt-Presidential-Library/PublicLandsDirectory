@@ -1,0 +1,2284 @@
+[
+ {
+  "id": "great-swamp-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Great Swamp NWR final CCP notice, Nov. 21, 2014 (date Nov. 3, 1960)",
+    "url": "https://www.federalregister.gov/documents/2014/11/21/2014-27590/great-swamp-national-wildlife-refuge-morris-county-new-jersey-final-comprehensive-conservation-plan"
+   },
+   {
+    "name": "FWS news release, May 25, 1964: Great Swamp \"donated to Government as wildlife area\" by the North American Wildlife Foundation",
+    "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1964/19640525B.PDF"
+   },
+   {
+    "name": "EBSCO Research Starters: Great Swamp Wildlife Refuge Is Dedicated (first donated lands accepted by FWS in 1960)",
+    "url": "https://www.ebsco.com/research-starters/environmental-sciences/great-swamp-wildlife-refuge-dedicated"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Donation of land by the North American Wildlife Foundation, accepted by the Department of the Interior",
+   "text": "Established Nov. 3, 1960, when the Department of the Interior accepted land bought by citizens and donated through the North American Wildlife Foundation to block a jetport."
+  },
+  "note": "Date is right but there was no act of Congress: the refuge began with donated land accepted by Interior (FWS 1964 release). The 86th Congress had adjourned Sept. 1, 1960, so no act could pass Nov. 3. FWS planning documents repeat the \"act of Congress\" wording. Eisenhower did not sign anything; clear him as signer."
+ },
+ {
+  "id": "green-bay-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+   },
+   {
+    "name": "FWS ServCat: Green Bay and Gravel Island NWRs Habitat Management Plan",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/97909"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "date": "1912-02-21",
+   "action": "established",
+   "name": "Green Bay Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 1487",
+   "president": "William Howard Taft",
+   "text": "Established Feb. 21, 1912, as the Green Bay Reservation by Executive Order 1487, signed by President William Howard Taft, as a preserve and breeding ground for native birds."
+  },
+  "note": "Parser grabbed a timeline line about the Bureau of Biological Survey (1885). Real establishment: EO 1487, Feb. 21, 1912 (Taft). Renamed Green Bay NWR by Proclamation 2416 (1940)."
+ },
+ {
+  "id": "green-cay-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Inventory and Monitoring Plan for Green Cay NWR (2025): established December 1977",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/188683"
+   }
+  ],
+  "correction": {
+   "date": "1977-12",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in December 1977 to protect the largest known natural population of the endangered St. Croix ground lizard."
+  },
+  "note": "Year confirmed; FWS I&M plan gives December 1977."
+ },
+ {
+  "id": "guadalupe-nipomo-dunes-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Guadalupe-Nipomo Dunes NWR draft CCP notice, Mar. 2, 2016 (established in 2000 under the ESA)",
+    "url": "https://www.federalregister.gov/documents/2016/03/02/2016-04571/guadalupe-nipomo-dunes-national-wildlife-refuge-san-luis-obispo-county-ca-draft-comprehensive"
+   },
+   {
+    "name": "FWS ServCat: Guadalupe-Nipomo Dunes NWR CCP/EA (refuge created Aug. 1, 2000)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/114423"
+   }
+  ],
+  "correction": {
+   "date": "2000-08-01",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established Aug. 1, 2000, when management of 2,553 acres of the Mobil Coastal Preserve passed from The Nature Conservancy to the Fish and Wildlife Service."
+  },
+  "note": "Parser grabbed a sentence about a 1962 National Park Service program (Historic Sites Act). Refuge was established in 2000."
+ },
+ {
+  "id": "guam-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Guam NWR draft CCP/EA (established administratively in 1993)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/117524"
+   },
+   {
+    "name": "FWS ServCat: Guam NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1430"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established administratively in 1993, in response to the 1984 listing of six Guam species as endangered."
+  },
+  "note": "Year confirmed. The draft sentence names the Ritidian Unit; the refuge itself dates from 1993."
+ },
+ {
+  "id": "hackmatack-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Department of the Interior press release, Aug. 15, 2012: Salazar authorizes establishment; refuge official only when first parcel acquired",
+    "url": "https://www.doi.gov/news/pressreleases/Salazar-Green-Lights-New-Hackmatack-National-Wildlife-Refuge"
+   },
+   {
+    "name": "FWS press release reprinted by McHenry County Blog, Jan. 13, 2013: approved July 10, 2012; first parcel (12-acre easement from Openlands) added Nov. 6, 2012",
+    "url": "https://mchenrycountyblog.com/2013/01/13/hackmatack-national-wildlife-refuge-established-by-interior-department-secretary/"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Acceptance of a donated 12-acre conservation easement (Openlands)",
+   "text": "Established Nov. 6, 2012, when the Fish and Wildlife Service accepted a donated 12-acre conservation easement from Openlands."
+  },
+  "note": "Date right, but this was an administrative action (Secretary Salazar authorized; FWS approved July 10, 2012). No presidential signature; clear Obama as signer."
+ },
+ {
+  "id": "hagerman-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Hagerman NWR CCP: established by Public Land Order 314, Feb. 9, 1946",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1431"
+   }
+  ],
+  "correction": {
+   "date": "1946-02-09",
+   "authorityType": "administrative",
+   "citation": "Public Land Order 314",
+   "text": "Established Feb. 9, 1946, by Public Land Order 314 as an overlay refuge on Corps of Engineers land at Lake Texoma."
+  },
+  "note": "Year confirmed; PLO 314 gives the day."
+ },
+ {
+  "id": "hamden-slough-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Hamden Slough NWR CCP: Migratory Bird Conservation Commission established the refuge Sept. 19, 1989",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43682"
+   }
+  ],
+  "correction": {
+   "date": "1989-09-19",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Commission approval",
+   "text": "Established Sept. 19, 1989, by the Migratory Bird Conservation Commission to restore prairie pothole habitat for waterfowl."
+  },
+  "note": "Year confirmed; CCP gives the MBCC date."
+ },
+ {
+  "id": "hanalei-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Inventory and Monitoring Plan for Kauai NWR Complex: Hanalei NWR established in 1972",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/136342"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act",
+   "text": "Established in 1972 through the purchase of land along the Hanalei River to protect endangered Hawaiian waterbirds."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "harbor-island-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+   },
+   {
+    "name": "FWS ServCat: Seney NWR and satellites I&M plan (Harbor Island NWR)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
+   }
+  ],
+  "correction": {
+   "date": "1983",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Fish and Wildlife Act of 1956",
+   "text": "Established in 1983 with the purchase of Harbor Island in Lake Huron under the Fish and Wildlife Act of 1956."
+  },
+  "note": "Parser grabbed a 2019 timeline line (Standerson Island addition). The refuge was purchased/established in 1983."
+ },
+ {
+  "id": "harris-neck-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Harris Neck NWR Hunt Plan 2021: Wildlife Order 63, May 25, 1962; date established May 25, 1962",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/135342"
+   }
+  ],
+  "correction": {
+   "date": "1962-05-25",
+   "authorityType": "administrative",
+   "citation": "Wildlife Order 63 (transfer from the General Services Administration)",
+   "text": "Established May 25, 1962, when Wildlife Order 63 transferred the former Harris Neck Army Airfield from the General Services Administration to Interior."
+  },
+  "note": "Year confirmed; FWS hunt plan gives the transfer date."
+ },
+ {
+  "id": "hewitt-lake-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7833, Mar. 7, 1938",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7833-establishing-hewitt-lake-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "Hewitt Lake Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7833",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established March 7, 1938, as the Hewitt Lake Migratory Waterfowl Refuge by Executive Order 7833, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Date right. Draft name was truncated (\"Migratory Waterfowl Refuge\") and signer was a parsing fragment (\"Executive Order No\"). Renamed 1940 by Proclamation 2416."
+ },
+ {
+  "id": "hillside-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Fish and Wildlife Coordination Act",
+   "text": "Established in 1975 to protect bottomland hardwood habitat at the edge of the Mississippi Delta."
+  },
+  "note": "Year confirmed by the complex CCP table."
+ },
+ {
+  "id": "holla-bend-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Holla Bend NWR notice, May 17, 2007 (established 1957 under the Transfer of Real Property Act)",
+    "url": "https://www.federalregister.gov/documents/2007/05/17/E7-9483/holla-bend-national-wildlife-refuge-in-pope-and-yell-counties-ar"
+   },
+   {
+    "name": "FWS ServCat: Holla Bend NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168040"
+   }
+  ],
+  "correction": {
+   "date": "1957",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Transfer of Real Property Act (transfer from the Corps of Engineers)",
+   "text": "Established in 1957 when the Corps of Engineers transferred the 4,068-acre Holla Bend cutoff site on the Arkansas River to the Fish and Wildlife Service."
+  },
+  "note": "Parser grabbed a sentence about Cache River NWR (1986). Holla Bend dates from 1957."
+ },
+ {
+  "id": "holt-collier-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Theodore Roosevelt and Holt Collier NWRs CCP: sec. 145 of P.L. 108-199, signed Jan. 23, 2004",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168352"
+   }
+  ],
+  "correction": {
+   "date": "2004-01-23",
+   "authorityType": "act-of-congress",
+   "citation": "Consolidated Appropriations Act, 2004, P.L. 108-199, sec. 145",
+   "president": "George W. Bush",
+   "text": "Established Jan. 23, 2004, when an act of Congress made the Bogue Phalia Unit of Yazoo NWR the separate Holt Collier National Wildlife Refuge."
+  },
+  "note": "Year confirmed; created by sec. 145 of P.L. 108-199 (the Theodore Roosevelt NWR Act), signed by George W. Bush. Named for Holt Collier, guide on T.R.'s 1902 Mississippi bear hunt."
+ },
+ {
+  "id": "horicon-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Horicon and Fox River NWRs CCP: established 1941 under the Migratory Bird Conservation Act",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5985"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1941 under the Migratory Bird Conservation Act to protect Horicon Marsh for migrating waterfowl."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "howland-island-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Notice of intent for Howland, Baker and Jarvis CCPs, Sept. 14, 2005 (established in 1974)",
+    "url": "https://www.federalregister.gov/documents/2005/09/14/05-18206/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-associated-environmental"
+   },
+   {
+    "name": "FWS ServCat: I&M plan for Howland, Baker, Jarvis NWRs",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/53562"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1974 when the Department of the Interior placed Howland Island under the Fish and Wildlife Service as a national wildlife refuge."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "huleia-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Inventory and Monitoring Plan for Kauai NWR Complex: Huleia NWR established in 1973 under the ESA",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/136342"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1973 under the Endangered Species Act to protect endangered Hawaiian waterbirds along the Huleia River."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "humboldt-bay-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Humboldt Bay NWR notice, Jan. 29, 2007 (established 1971 under the MBCA)",
+    "url": "https://www.federalregister.gov/documents/2007/01/29/E7-1327/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-for-the"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1971 under the Migratory Bird Conservation Act to conserve Humboldt Bay habitat for migratory birds."
+  },
+  "note": "Year confirmed. The draft sentence speaks of the complex; Castle Rock NWR is a separate refuge (1980)."
+ },
+ {
+  "id": "huron-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7795, Jan. 21, 1938 (revokes \"the Executive Order of October 10, 1905, establishing the Huron Islands Reservation\")",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7795-establishing-the-huron-migratory-bird-refuge"
+   },
+   {
+    "name": "FWS ServCat: Seney NWR and satellites I&M plan: Huron NWR established by Executive Order dated Oct. 10, 1905",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
+   }
+  ],
+  "correction": {
+   "date": "1905-10-10",
+   "name": "Huron Islands Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order of Oct. 10, 1905",
+   "president": "Theodore Roosevelt",
+   "text": "Established Oct. 10, 1905, as the Huron Islands Reservation by executive order of President Theodore Roosevelt, as a refuge and breeding ground for birds such as the herring gull."
+  },
+  "note": "Year confirmed; full date, name and T.R. signature from EO 7795, which re-established it as the Huron Migratory Bird Refuge in 1938."
+ },
+ {
+  "id": "huron-wetland-management-district#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Huron, Madison and Sand Lake WMDs notice, Oct. 16, 2012 (Huron WMD established 1992)",
+    "url": "https://www.federalregister.gov/documents/2012/10/16/2012-25337/huron-wetland-management-district-madison-wetland-management-district-and-sand-lake-wetland"
+   },
+   {
+    "name": "FWS ServCat: CCP: Huron, Madison and Sand Lake WMDs (Huron WMD established 1992)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8143"
+   }
+  ],
+  "correction": {
+   "date": "1992",
+   "action": "established",
+   "authorityType": "administrative",
+   "text": "Established in 1992 from lands previously managed by the Lake Andes and Sand Lake Wetland Management Districts in South Dakota."
+  },
+  "note": "Parser used the Huron NWR (Michigan) sentence. Huron WMD in South Dakota was established in 1992."
+ },
+ {
+  "id": "hutton-lake-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5782, Jan. 28, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5782-enlarging-the-hutton-lake-migratory-bird-refuge-wyoming"
+   },
+   {
+    "name": "FWS ServCat: CCP: Bamforth, Hutton Lake and Mortenson Lake NWRs (Hutton Lake established Jan. 28, 1932, by EO 5782)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1384"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "Hutton Lake Migratory Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 5782",
+   "president": "Herbert Hoover",
+   "text": "Established Jan. 28, 1932, as the Hutton Lake Migratory Bird Refuge by Executive Order 5782, signed by President Herbert Hoover."
+  },
+  "note": "Date right; signer was a parsing fragment. Note: EO 5782 calls the land \"an addition to the Hutton Lake Migratory Bird Refuge, which is being acquired under\" the Migratory Bird Conservation Act, so purchase approval may slightly predate it; FWS treats EO 5782 as the establishing order."
+ },
+ {
+  "id": "imperial-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8685, Feb. 14, 1941",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8685-establishing-the-imperial-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "date": "1941-02-14",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8685",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Feb. 14, 1941, by Executive Order 8685, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Draft date field held the EO number (8685) and signer a fragment. Date Feb. 14, 1941, FDR."
+ },
+ {
+  "id": "innoko-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "94 Stat. 2371 (Statutes at Large, govinfo): ANILCA, P.L. 96-487, Dec. 2, 1980, sec. 302",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+   },
+   {
+    "name": "FWS ServCat: Innoko NWR CCP summary (established 1980 by ANILCA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/106506"
+   },
+   {
+    "name": "FWS ServCat: Koyukuk and Northern Unit of Innoko NWRs CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143944"
+   }
+  ],
+  "correction": {
+   "date": "1980-12-02",
+   "authorityType": "act-of-congress",
+   "citation": "Alaska National Interest Lands Conservation Act, P.L. 96-487, sec. 302",
+   "president": "Jimmy Carter",
+   "text": "Established Dec. 2, 1980, by the Alaska National Interest Lands Conservation Act, signed by President Jimmy Carter."
+  },
+  "note": "Confirmed; ANILCA signed Dec. 2, 1980."
+ },
+ {
+  "id": "iroquois-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Iroquois NWR final CCP notice, Oct. 18, 2011 (established 1958 under the MBCA)",
+    "url": "https://www.federalregister.gov/documents/2011/10/18/2011-26934/iroquois-national-wildlife-refuge-genesee-county-and-orleans-county-ny-final-comprehensive"
+   },
+   {
+    "name": "FWS ServCat: Iroquois NWR CCP (established 1958)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43712"
+   }
+  ],
+  "correction": {
+   "date": "1958-05-19",
+   "action": "established",
+   "name": "Oak Orchard National Wildlife Refuge",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act (Duck Stamp funds)",
+   "text": "Established May 19, 1958, as Oak Orchard National Wildlife Refuge under the Migratory Bird Conservation Act; renamed Iroquois in 1964 to avoid confusion with a nearby state area."
+  },
+  "note": "Draft used the 1964 renaming date and a fragment as signer. Established 1958 (FR, CCP); the day (May 19) is from the FWS page and Wikipedia only. Not a presidential action; clear the signer."
+ },
+ {
+  "id": "island-bay-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Pine Island, Matlacha Pass, Island Bay and Caloosahatchee NWRs CCP: Island Bay established Oct. 23, 1908, by EO 958, T.R.",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168146"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "Island Bay Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 958",
+   "president": "Theodore Roosevelt",
+   "text": "Established Oct. 23, 1908, as the Island Bay Reservation by Executive Order 958, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds."
+  },
+  "note": "Confirmed, EO 958 (T.R.). Earlier name Island Bay Reservation (renamed 1940, Proclamation 2416)."
+ },
+ {
+  "id": "james-campbell-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: James Campbell NWR CCP (established 1976 on about 150 leased acres)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43256"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1976 on about 150 acres leased from the Estate of James Campbell, to provide habitat for endangered Hawaiian waterbirds."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "james-river-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: James River NWR draft CCP (\"Established in March 1991\")",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43714"
+   },
+   {
+    "name": "FWS ServCat: James River NWR final CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/51596"
+   }
+  ],
+  "correction": {
+   "date": "1991-03",
+   "authorityType": "administrative",
+   "text": "Established in March 1991, the fourth national wildlife refuge set up specifically to protect bald eagles."
+  },
+  "note": "Year confirmed; CCP gives March 1991."
+ },
+ {
+  "id": "jarvis-island-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Notice of intent for Howland, Baker and Jarvis CCPs, Sept. 14, 2005 (established in 1974)",
+    "url": "https://www.federalregister.gov/documents/2005/09/14/05-18206/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-associated-environmental"
+   },
+   {
+    "name": "FWS ServCat: I&M plan for Howland, Baker, Jarvis NWRs",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/53562"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1974 when the Department of the Interior placed Jarvis Island under the Fish and Wildlife Service as a national wildlife refuge."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "jocelyn-nungaray-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Texas Chenier Plain refuges draft CCP/EIS notice, Oct. 17, 2006 (\"Anahuac NWR was established in 1963\"; MBCA a primary authority)",
+    "url": "https://www.federalregister.gov/documents/2006/10/17/E6-17087/notice-of-availability-of-draft-environmental-impact-statement-draft-comprehensive-conservation-plan"
+   },
+   {
+    "name": "White House: Executive Order 14229, Honoring Jocelyn Nungaray (2025 renaming)",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/03/honoring-jocelyn-nungaray/"
+   }
+  ],
+  "correction": {
+   "name": "Anahuac National Wildlife Refuge",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1963 as Anahuac National Wildlife Refuge under the Migratory Bird Conservation Act; renamed Jocelyn Nungaray National Wildlife Refuge in 2025."
+  },
+  "note": "Year confirmed. Adds the earlier name Anahuac NWR, which the draft left null; renamed by Executive Order 14229 (2025)."
+ },
+ {
+  "id": "john-h-chafee-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: John H. Chafee NWR CCP (2002): established Nov. 5, 1988, Public Law 100-610",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1439"
+   }
+  ],
+  "correction": {
+   "date": "1988-11-05",
+   "action": "established",
+   "name": "Pettaquamscutt Cove National Wildlife Refuge",
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 100-610, title II",
+   "president": "Ronald Reagan",
+   "text": "Established Nov. 5, 1988, as Pettaquamscutt Cove National Wildlife Refuge by act of Congress (P.L. 100-610), signed by President Ronald Reagan; later renamed for Sen. John H. Chafee."
+  },
+  "note": "Draft 1973 is wrong (truncated sentence). Created by P.L. 100-610 (1988) as Pettaquamscutt Cove NWR. Day from the CCP's citation of the law."
+ },
+ {
+  "id": "johnston-atoll-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan for Johnston Atoll NWR: established as Johnston Island Reservation by EO 4467, June 29, 1926",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/137854"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "date": "1926-06-29",
+   "action": "established",
+   "name": "Johnston Island Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 4467",
+   "president": "Calvin Coolidge",
+   "text": "Established June 29, 1926, as the Johnston Island Reservation, a federal bird refuge, by Executive Order 4467, signed by President Calvin Coolidge."
+  },
+  "note": "Parser grabbed a 2010 timeline line. Real establishment: EO 4467 (Coolidge), 1926."
+ },
+ {
+  "id": "kakahaia-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Kakahaia NWR CCP: established in 1976 under the ESA",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/111057"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1976 under the Endangered Species Act to protect wetland habitat for endangered Hawaiian waterbirds on Molokai."
+  },
+  "note": "Year 1976 confirmed by the CCP (Wikipedia says 1977)."
+ },
+ {
+  "id": "karl-e-mundt-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Lake Andes NWR Complex document: land bought by National Wildlife Federation in 1974, dedicated Dec. 19, 1974",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/20503"
+   },
+   {
+    "name": "FWS ServCat: EA, Karl E. Mundt NWR Jonas Tract Expansion (established 1974 under the ESA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/149681"
+   }
+  ],
+  "correction": {
+   "date": "1974-12-19",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973 (land donated by the National Wildlife Federation)",
+   "text": "Established Dec. 19, 1974, on land bought by the National Wildlife Federation, as a refuge for wintering bald eagles below Fort Randall Dam."
+  },
+  "note": "Parser used the Huron WMD sentence (1992). Karl E. Mundt NWR dates from 1974."
+ },
+ {
+  "id": "kealia-pond-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Kealia Pond NWR CCP: established administratively in 1992 under the ESA",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43279"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established administratively in 1992 to protect habitat for the endangered Hawaiian stilt and Hawaiian coot."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "kellys-slough-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7320, Mar. 19, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7320-establishing-kellys-slough-migratory-waterfowl-refuge-north-dakota"
+   },
+   {
+    "name": "American Presidency Project: Executive Order 8650, Jan. 23, 1941 (renaming)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8650-changing-the-name-the-kellys-slough-migratory-waterfowl-refuge-kellys"
+   }
+  ],
+  "correction": {
+   "date": "1936-03-19",
+   "name": "Kellys Slough Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7320",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established March 19, 1936, as the Kellys Slough Migratory Waterfowl Refuge by Executive Order 7320, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Year confirmed; EO 7320 gives the date."
+ },
+ {
+  "id": "kern-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Kern NWR Complex final CCP: refuge established in 1960 under the Migratory Bird Treaty Act",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1444"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Treaty Act / Migratory Bird Conservation Act land purchase",
+   "text": "Established in 1960 as a waterfowl refuge in the southern San Joaquin Valley."
+  },
+  "note": "Year confirmed; Nov. 18 is only on the FWS page. Not a presidential action; clear Eisenhower as signer."
+ },
+ {
+  "id": "kilauea-point-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Kilauea Point NWR CCP: established Feb. 15, 1985, the 425th refuge",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/87650"
+   }
+  ],
+  "correction": {
+   "date": "1985-02-15",
+   "authorityType": "administrative",
+   "text": "Established Feb. 15, 1985, on land transferred from the U.S. Coast Guard, to protect nesting seabirds."
+  },
+  "note": "Year confirmed; CCP gives Feb. 15, 1985."
+ },
+ {
+  "id": "kingman-reef-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan for Palmyra Atoll and Kingman Reef NWRs: Secretarial Order 3223, Jan. 18, 2001",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/124858"
+   },
+   {
+    "name": "Federal Register: Establishment of the Kingman Reef NWR, Jan. 24, 2001",
+    "url": "https://www.federalregister.gov/documents/2001/01/24/01-2148/establishment-of-the-kingman-reef-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Secretarial Order 3223",
+   "text": "Established Jan. 18, 2001, by Secretary of the Interior Order 3223."
+  },
+  "note": "Date right, but it was a Secretarial Order (Interior), not a presidential action; clear Clinton as signer."
+ },
+ {
+  "id": "kirtlands-warbler-wildlife-management-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Seney NWR and satellites I&M plan: Kirtland's Warbler WMA established in 1980",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1980 to protect nesting habitat for the endangered Kirtland's warbler in northern Lower Michigan."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "klamath-marsh-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Klamath Marsh NWR notice, Jan. 29, 2007 (established 1958 under the MBCA)",
+    "url": "https://www.federalregister.gov/documents/2007/01/29/E7-1323/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-for-the"
+   },
+   {
+    "name": "FWS ServCat: Klamath Marsh NWR final CCP (established 1958 with purchase of 584 acres)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/20257"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1958, when the Fish and Wildlife Service bought its first tracts at Klamath Marsh, as a sanctuary for migratory birds."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "kodiak-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8857, Aug. 19, 1941",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8857-establishing-the-kodiak-national-wildlife-refuge"
+   },
+   {
+    "name": "FWS ServCat: Kodiak NWR revised CCP decision summary",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/144443"
+   }
+  ],
+  "correction": {
+   "date": "1941-08-19",
+   "action": "established",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8857",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Aug. 19, 1941, by Executive Order 8857, signed by President Franklin D. Roosevelt, to protect the feeding and breeding ranges of Kodiak brown bears."
+  },
+  "note": "Parser grabbed the 1892 Afognak Forest and Fish Culture Reserve (Harrison). Kodiak NWR itself dates from EO 8857 (1941)."
+ },
+ {
+  "id": "kofa-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8039, Jan. 25, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8039-establishing-the-kofa-game-range"
+   },
+   {
+    "name": "FWS ServCat: I&M plan, Kofa NWR (EO 8039, Jan. 25, 1939)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125314"
+   }
+  ],
+  "correction": {
+   "date": "1939-01-25",
+   "name": "Kofa Game Range",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8039",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Jan. 25, 1939, as the Kofa Game Range by Executive Order 8039, signed by President Franklin D. Roosevelt, to protect desert bighorn sheep."
+  },
+  "note": "Year confirmed; adds date, the earlier name Kofa Game Range, EO 8039 and FDR."
+ },
+ {
+  "id": "kootenai-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Kootenai NWR CCP (established 1964; land approved Dec. 10, 1963)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43324"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1964 as a migratory waterfowl refuge on restored Kootenai River floodplain."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "koyukuk-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "94 Stat. 2371 (Statutes at Large, govinfo): ANILCA, P.L. 96-487, Dec. 2, 1980, sec. 302",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+   },
+   {
+    "name": "FWS ServCat: Koyukuk and Northern Unit of Innoko NWRs CCP (created 1980 by ANILCA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143944"
+   }
+  ],
+  "correction": {
+   "date": "1980-12-02",
+   "authorityType": "act-of-congress",
+   "citation": "Alaska National Interest Lands Conservation Act, P.L. 96-487, sec. 302",
+   "president": "Jimmy Carter",
+   "text": "Established Dec. 2, 1980, by the Alaska National Interest Lands Conservation Act, signed by President Jimmy Carter."
+  },
+  "note": "Confirmed."
+ },
+ {
+  "id": "lacassine-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7780, Dec. 30, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7780-establishing-the-lacassine-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "Federal Register: Lacassine NWR notice, Sept. 26, 2007",
+    "url": "https://www.federalregister.gov/documents/2007/09/26/E7-18982/lacassine-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7780",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Dec. 30, 1937, as the Lacassine Migratory Waterfowl Refuge by Executive Order 7780, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Confirmed."
+ },
+ {
+  "id": "laguna-atascosa-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Laguna Atascosa NWR final CCP notice, Nov. 30, 2010",
+    "url": "https://www.federalregister.gov/documents/2010/11/30/2010-30003/laguna-atascosa-national-wildlife-refuge-cameron-and-willacy-counties-tx-final-comprehensive"
+   },
+   {
+    "name": "FWS ServCat: Laguna Atascosa NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5942"
+   }
+  ],
+  "correction": {
+   "date": "1945-10-31",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Commission approval",
+   "text": "Established Oct. 31, 1945, by the Migratory Bird Conservation Commission; the first 11,275-acre tract was acquired March 29, 1946."
+  },
+  "note": "FWS page says 1946 (first land acquired March 29, 1946). FR and CCP say the Commission formally established the refuge Oct. 31, 1945."
+ },
+ {
+  "id": "laguna-cartagena-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Laguna Cartagena NWR notice, May 16, 2007 (established 1989)",
+    "url": "https://www.federalregister.gov/documents/2007/05/16/E7-9403/laguna-cartagena-national-wildlife-refuge-boquern-pr"
+   },
+   {
+    "name": "FWS ServCat: Laguna Cartagena NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169390"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1989 through a lease with the Commonwealth of Puerto Rico, to protect one of the island's most important freshwater wetlands for birds."
+  },
+  "note": "Year confirmed (FR, CCP). A 2025 I&M plan mentions 1984, likely an error."
+ },
+ {
+  "id": "lake-alice-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Lake Alice NWR 2026-2027 Hunt and Fish compliance documentation (established under the MBCA in 1935)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194180"
+   },
+   {
+    "name": "FWS ServCat: Devils Lake WMD EA and predator plan, incl. Lake Alice compatibility determination (easements bought 1935-36; easement refuge notice in Federal Register Dec. 21, 1948)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/64522"
+   }
+  ],
+  "correction": {
+   "date": "1935",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act (perpetual easements)",
+   "text": "Established in 1935 as an easement refuge under the Migratory Bird Conservation Act, when perpetual easements were bought around Lake Alice."
+  },
+  "note": "Parser used the Arrowwood WMD sentence (1961). Lake Alice began with 1935-36 easements; a Federal Register notice of Dec. 21, 1948, formally listed it as an easement refuge."
+ },
+ {
+  "id": "lake-andes-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7292, Feb. 14, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7292-establishing-lake-andes-migratory-waterfowl-refuge-south-dakota"
+   },
+   {
+    "name": "Federal Register: Lake Andes NWR Complex final CCP notice, Apr. 24, 2013",
+    "url": "https://www.federalregister.gov/documents/2013/04/24/2013-09657/lake-andes-national-wildlife-refuge-complex-lake-andes-sd-final-comprehensive-conservation-plan"
+   }
+  ],
+  "correction": {
+   "date": "1936-02-14",
+   "name": "Lake Andes Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7292",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Feb. 14, 1936, as the Lake Andes Migratory Waterfowl Refuge by Executive Order 7292, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Year confirmed. FWS planning documents add that the refuge was formally established in 1939, when South Dakota granted an easement."
+ },
+ {
+  "id": "lake-andes-wetland-management-district#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Lake Andes NWR Complex draft CCP notice, Oct. 29, 2012 (WMD established 1958)",
+    "url": "https://www.federalregister.gov/documents/2012/10/29/2012-26482/lake-andes-national-wildlife-refuge-complex-lake-andes-sd-draft-comprehensive-conservation-plan-and"
+   },
+   {
+    "name": "FWS ServCat: Lake Andes NWR Complex CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/26778"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1958 to manage waterfowl production areas bought under the Small Wetlands Acquisition Program."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "lake-ilo-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8154, June 12, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8154-establishing-lake-ilo-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "Federal Register, 4 FR 2407-2409 (June 15, 1939): Executive Orders 8154, 8155, 8157 of June 12, 1939",
+    "url": "https://archives.federalregister.gov/issue_slice/1939/6/15/2407-2409.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Lake Ilo Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8154",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established June 12, 1939, as the Lake Ilo Migratory Waterfowl Refuge by Executive Order 8154, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Confirmed."
+ },
+ {
+  "id": "lake-nettie-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8155, June 12, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8155-establishing-the-lake-nettie-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "Federal Register, 4 FR 2407-2409 (June 15, 1939): Executive Orders 8154, 8155, 8157 of June 12, 1939",
+    "url": "https://archives.federalregister.gov/issue_slice/1939/6/15/2407-2409.pdf"
+   }
+  ],
+  "correction": {
+   "name": "Lake Nettie Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8155",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established June 12, 1939, as the Lake Nettie Migratory Waterfowl Refuge by Executive Order 8155, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Date and EO right; signer field was truncated (\"President Franklin\")."
+ },
+ {
+  "id": "lake-ophelia-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Lake Ophelia NWR CCP (\"The Refuge was established in 1988\"; project approved April 1988)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168213"
+   },
+   {
+    "name": "FWS ServCat: Lake Ophelia NWR CCP (earlier edition)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1450"
+   }
+  ],
+  "correction": {
+   "date": "1988",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1988 to provide wintering habitat for mallards, northern pintails and wood ducks in Louisiana bottomlands."
+  },
+  "note": "FWS page says October 2000; the refuge CCP says it was established in 1988 (Regional Director approved acquisition April 1988). Wikipedia also gives 1988."
+ },
+ {
+  "id": "lake-thibadeau-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7713, signed Sept. 23, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7713-establishing-lake-thibadeau-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "date": "1937-09-23",
+   "name": "Lake Thibadeau Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7713",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Sept. 23, 1937, as the Lake Thibadeau Migratory Waterfowl Refuge by Executive Order 7713, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Wrong day: EO 7713 is dated Sept. 23, 1937, not Sept. 28. Signer was a parsing fragment."
+ },
+ {
+  "id": "lake-wales-ridge-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Lake Wales Ridge NWR CCP: approved Feb. 15, 1994; established April 22, 1994",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168120"
+   }
+  ],
+  "correction": {
+   "date": "1994-04-22",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established April 22, 1994, under the Endangered Species Act to protect the rare scrub plants and animals of central Florida's Lake Wales Ridge."
+  },
+  "note": "FWS page says 1993 (the final EA and land protection plan date, Nov. 1993). The CCP says the refuge was approved Feb. 15, 1994, and established April 22, 1994."
+ },
+ {
+  "id": "lake-woodruff-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Lake Woodruff NWR notice, Apr. 23, 2008 (established 1964)",
+    "url": "https://www.federalregister.gov/documents/2008/04/23/E8-8760/lake-woodruff-national-wildlife-refuge-volusia-and-lake-counties-fl"
+   },
+   {
+    "name": "FWS ServCat: Lake Woodruff NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168122"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act (Duck Stamp funds)",
+   "text": "Established in 1964 as a migratory bird refuge to offset wetland losses in central Florida."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "lee-metcalf-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Lee Metcalf NWR CCP (2012): established Feb. 4, 1964; renamed 1978",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8144"
+   }
+  ],
+  "correction": {
+   "date": "1964-02-04",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established Feb. 4, 1964, in Montana's Bitterroot Valley; renamed in 1978 for Sen. Lee Metcalf."
+  },
+  "note": "Parser grabbed a sentence about the National Trails System Act (1968). Refuge established Feb. 4, 1964 (CCP). The earlier name (often given as Ravalli NWR) was not confirmed here, so name is left unset."
+ },
+ {
+  "id": "leslie-canyon-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan, Leslie Canyon NWR (created in 1988)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125371"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1988 to conserve the Yaqui topminnow and Yaqui chub, two native fish of the Rio Yaqui watershed."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "little-pend-oreille-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8104, May 2, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8104-establishing-the-little-pend-oreille-wildlife-refuge"
+   },
+   {
+    "name": "FWS ServCat: Little Pend Oreille NWR final CCP/EIS",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5949"
+   }
+  ],
+  "correction": {
+   "name": "Little Pend Oreille Wildlife Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8104",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established May 2, 1939, as the Little Pend Oreille Wildlife Refuge by Executive Order 8104, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Confirmed."
+ },
+ {
+  "id": "little-river-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture: \"Little River National Wildlife Refuge\" (created in 1987)",
+    "url": "https://www.okhistory.org/publications/enc/entry?entry=LI016"
+   },
+   {
+    "name": "FWS ServCat: Little River NWR I&M plan (purpose: bottomland hardwoods for migratory birds)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/22581"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1987 on land bought by The Nature Conservancy and transferred to the Fish and Wildlife Service, to protect bottomland hardwood forest in southeastern Oklahoma."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "loess-bluffs-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7156, Aug. 23, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7156-establishing-squaw-creek-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "FWS ServCat: Loess Bluffs NWR Habitat Management Plan (established Aug. 23, 1935, by EO 7156)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/103083"
+   }
+  ],
+  "correction": {
+   "name": "Squaw Creek Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7156",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Aug. 23, 1935, as the Squaw Creek Migratory Waterfowl Refuge by Executive Order 7156, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Date right; signer was truncated (\"President Franklin\") and the earlier name (Squaw Creek) was missing."
+ },
+ {
+  "id": "logan-cave-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Logan Cave NWR notice, Sept. 10, 2008 (established 1989 under the ESA)",
+    "url": "https://www.federalregister.gov/documents/2008/09/10/E8-20977/logan-cave-national-wildlife-refuge-benton-county-ar"
+   },
+   {
+    "name": "FWS ServCat: Logan Cave NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168044"
+   }
+  ],
+  "correction": {
+   "date": "1989",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1989 under the Endangered Species Act to protect cave life, including the gray bat, Benton cave crayfish and Ozark cavefish."
+  },
+  "note": "Parser used the Cache River NWR sentence (1986). Logan Cave NWR was established in 1989."
+ },
+ {
+  "id": "long-lake-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5808, Feb. 25, 1932 (lands in Burleigh and Kidder counties, N. Dak.; APP title misprints \"North Carolina\")",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5808-long-lake-migratory-bird-refuge-north-carolina-enlarged"
+   },
+   {
+    "name": "Federal Register: Long Lake NWR Complex notice, July 10, 2006 (established Feb. 25, 1932, by Hoover through Executive Order)",
+    "url": "https://www.federalregister.gov/documents/2006/07/10/E6-10705/long-lake-national-wildlife-refuge-complex-moffit-nd"
+   },
+   {
+    "name": "FWS ServCat: I&M plan, Long Lake NWR Complex (EO 5808)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108516"
+   }
+  ],
+  "correction": {
+   "name": "Long Lake Migratory Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 5808",
+   "president": "Herbert Hoover",
+   "text": "Established Feb. 25, 1932, as the Long Lake Migratory Bird Refuge by Executive Order 5808, signed by President Herbert Hoover."
+  },
+  "note": "Confirmed. EO 5808 describes its lands as an addition to a refuge \"being acquired\" under the Migratory Bird Conservation Act; FWS treats it as the establishing order."
+ },
+ {
+  "id": "lost-trail-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Notice of intent for Pablo, Lost Trail and Ninepipe CCP, May 18, 2017",
+    "url": "https://www.federalregister.gov/documents/2017/05/18/2017-10111/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-pablo-lost-trail-and-ninepipe-national"
+   },
+   {
+    "name": "FWS ServCat: Lost Trail NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5952"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established Aug. 24, 1999, as the 519th refuge in the National Wildlife Refuge System, on the former Lost Trail Ranch in northwest Montana."
+  },
+  "note": "Date right; administrative purchase, not a presidential action. Clear Clinton as signer."
+ },
+ {
+  "id": "lower-rio-grande-valley-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS Southwest Region archived refuge page, Lower Rio Grande Valley NWR (UNT web archive, 2009): \"Established in 1979\"",
+    "url": "https://webarchive.library.unt.edu/web/20090508003429/http:/www.fws.gov/southwest/refuges/texas/lrgv.html"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1979 to connect and protect remaining native brushland and wildlife corridors along the lower Rio Grande."
+  },
+  "note": "Year confirmed by an archived 2009 FWS regional page (separate from today's About Us sentence). Planning documents found were image scans; a second source would be welcome."
+ },
+ {
+  "id": "lower-suwannee-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Notice of intent for Lower Suwannee CCP, Sept. 7, 1999 (established April 10, 1979, under the Fish and Wildlife Act)",
+    "url": "https://www.federalregister.gov/documents/1999/09/07/99-23199/intent-to-prepare-comprehensive-conservation-plans-for-lower-suwannee-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "date": "1979-04-10",
+   "authorityType": "administrative",
+   "citation": "Fish and Wildlife Act of 1956",
+   "text": "Established April 10, 1979, under the Fish and Wildlife Act to protect the estuary and lower Suwannee River ecosystem."
+  },
+  "note": "Confirmed; draft date field lacked the day."
+ },
+ {
+  "id": "mackay-island-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Mackay Island NWR CCP (established Dec. 30, 1960, under the Migratory Bird Conservation Act)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168357"
+   },
+   {
+    "name": "Federal Register: Notice of intent, Mackay Island and Currituck NWRs, May 25, 2001 (gives 1961)",
+    "url": "https://www.federalregister.gov/documents/2001/05/25/01-13240/environmental-statements-notice-of-intent-mackay-island-and-currituck-national-wildlife-refuges-nc"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established Dec. 30, 1960, under the Migratory Bird Conservation Act as wintering habitat for greater snow geese and other waterfowl."
+  },
+  "note": "Date kept per the CCP (a 2001 FR notice gives 1961, probably first acquisition). Administrative purchase under the MBCA; clear Eisenhower as signer."
+ },
+ {
+  "id": "malheur-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Malheur NWR final CCP/EIS: Lake Malheur Reservation set aside Aug. 18, 1908, by T.R. through Executive Order No. 929",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43336"
+   },
+   {
+    "name": "Federal Register: Malheur NWR draft CCP notice, Mar. 5, 2012",
+    "url": "https://www.federalregister.gov/documents/2012/03/05/2012-5297/malheur-national-wildlife-refuge-harney-county-or-draft-comprehensive-conservation-plan-and-draft"
+   },
+   {
+    "name": "American Presidency Project: Executive Order 7106, July 19, 1935 (later Malheur Migratory Bird Refuge)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7106-establishing-the-malheur-migratory-bird-refuge"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 929",
+   "president": "Theodore Roosevelt",
+   "text": "Established Aug. 18, 1908, as the Lake Malheur Reservation by Executive Order 929, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds."
+  },
+  "note": "Confirmed; EO 929 (T.R.). Some FWS documents say \"Lake Malheur Bird Reservation\"; the CCP and EO wording use \"Lake Malheur Reservation\"."
+ },
+ {
+  "id": "mandalay-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Mandalay NWR notice, Dec. 16, 2009 (established May 2, 1996)",
+    "url": "https://www.federalregister.gov/documents/2009/12/16/E9-29866/mandalay-national-wildlife-refuge-terrebonne-parish-la"
+   },
+   {
+    "name": "FWS ServCat: Mandalay NWR CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168214"
+   }
+  ],
+  "correction": {
+   "date": "1996-05-02",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act; Endangered Species Act of 1973",
+   "text": "Established May 2, 1996, with the purchase of 4,416 acres of marsh and swamp near Houma, Louisiana."
+  },
+  "note": "Parser used the Bayou Teche NWR sentence (2001). Mandalay NWR dates from May 2, 1996."
+ },
+ {
+  "id": "marais-des-cygnes-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Marais des Cygnes NWR CCP (established 1992)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5960"
+   },
+   {
+    "name": "FWS ServCat: I&M plan, Marais des Cygnes NWR",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/121912"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1992 to protect and restore bottomland hardwood forest along the Marais des Cygnes River in Kansas."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "marin-islands-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Marin Islands NWR notice of intent, Sept. 22, 2004 (established 1992)",
+    "url": "https://www.federalregister.gov/documents/2004/09/22/04-21268/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-a"
+   },
+   {
+    "name": "FWS ServCat: Marin Islands NWR CCP/EA",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8268"
+   }
+  ],
+  "correction": {
+   "date": "1992",
+   "action": "established",
+   "authorityType": "administrative",
+   "text": "Established in 1992 to protect a heron and egret nesting colony on West Marin Island in San Francisco Bay."
+  },
+  "note": "Parser grabbed a sentence about San Quentin prison (1852). Refuge established 1992."
+ },
+ {
+  "id": "martin-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Blackwater NWR Complex document: Martin NWR acquired largely through donations by Glenn L. Martin in 1954",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43184"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Land donation by Glenn L. Martin",
+   "text": "Established in 1954 on Smith Island, Maryland, largely through a land donation by aviation pioneer Glenn L. Martin."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "mashpee-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Friends of the Mashpee NWR: \"How We Got Here: The History of the Mashpee National Wildlife Refuge\" (established in 1995)",
+    "url": "https://www.friendsofmashpeenationalwildliferefuge.org/wp-content/uploads/2019/09/Mashpee-National-Wildlife-Refuge-History_Final.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 1995 as a partnership refuge on Cape Cod, owned jointly by federal, state, town and private conservation groups."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "massasoit-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Massasoit NWR notice, Jan. 10, 2012 (established 1983)",
+    "url": "https://www.federalregister.gov/documents/2012/01/10/2012-297/massasoit-national-wildlife-refuge-plymouth-ma"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1983 to conserve the endangered northern red-bellied cooter and other native wildlife in Plymouth, Massachusetts."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "mathews-brake-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1980 under the Migratory Bird Conservation Act to protect waterfowl habitat in the Mississippi Delta."
+  },
+  "note": "Year confirmed by the complex CCP table."
+ },
+ {
+  "id": "matlacha-pass-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Pine Island, Matlacha Pass, Island Bay and Caloosahatchee NWRs CCP: Matlacha Pass established by T.R. through EO 943, Sept. 26, 1908",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168146"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "date": "1908-09-26",
+   "action": "established",
+   "name": "Matlacha Pass Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 943",
+   "president": "Theodore Roosevelt",
+   "text": "Established Sept. 26, 1908, as the Matlacha Pass Reservation by Executive Order 943, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds."
+  },
+  "note": "Draft described Caloosahatchee NWR (Wilson, July 1, 1920), a separate refuge now managed with Matlacha Pass. Matlacha Pass itself was a T.R. reservation of 1908."
+ },
+ {
+  "id": "mattamuskeet-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6924, Dec. 18, 1934",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6924-establishment-lake-mattamuskeet-wild-life-refuge"
+   },
+   {
+    "name": "Federal Register: Mattamuskeet NWR notice, July 18, 2008 (established 1934)",
+    "url": "https://www.federalregister.gov/documents/2008/07/18/E8-16424/mattamuskeet-national-wildlife-refuge-hyde-county-nc"
+   }
+  ],
+  "correction": {
+   "date": "1934-12-18",
+   "name": "Lake Mattamuskeet Wild Life Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6924",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Dec. 18, 1934, as the Lake Mattamuskeet Wild Life Refuge by Executive Order 6924, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Year confirmed; EO 6924 gives date and earlier name."
+ },
+ {
+  "id": "mcfaddin-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Texas Chenier Plain refuges draft CCP notice, Oct. 17, 2006 (McFaddin established 1980)",
+    "url": "https://www.federalregister.gov/documents/2006/10/17/E6-17087/notice-of-availability-of-draft-environmental-impact-statement-draft-comprehensive-conservation-plan"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1980 with land bought under the Migratory Bird Conservation Act, protecting coastal marsh on the upper Texas coast."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "mckay-creek-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan, Mid-Columbia River NWR Complex: McKay Creek NWR established by EO 4662 in 1927 as the \"McKay Creek Bird Refuge\"",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/112607"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "McKay Creek Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 4662",
+   "president": "Calvin Coolidge",
+   "text": "Established June 7, 1927, as the McKay Creek Bird Refuge by Executive Order 4662, signed by President Calvin Coolidge."
+  },
+  "note": "Year, EO number and name confirmed; the day (June 7) is from the FWS page only."
+ },
+ {
+  "id": "mclean-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register, 4 FR 2407-2409 (June 15, 1939): Executive Orders 8154, 8155, 8157 of June 12, 1939",
+    "url": "https://archives.federalregister.gov/issue_slice/1939/6/15/2407-2409.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "Lake Susie Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8157",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established June 12, 1939, as the Lake Susie Migratory Waterfowl Refuge by Executive Order 8157, signed by President Franklin D. Roosevelt; renamed McLean National Wildlife Refuge in 1940."
+  },
+  "note": "Date and EO right; signer truncated (\"President Franklin\"). Earlier name Lake Susie Migratory Waterfowl Refuge (EO text, 4 FR 2407); renamed McLean NWR by Proclamation 2416."
+ },
+ {
+  "id": "mcnary-national-wildlife-refuge#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "FWS ServCat: McNary and Umatilla NWRs CCP (1953 General Plan; cooperative agreement July 1955; \"inception of McNary Refuge in 1955\")",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108742"
+   },
+   {
+    "name": "Federal Register: Notice of intent, McNary and Umatilla CCP, May 24, 2004 (\"established in 1953\")",
+    "url": "https://www.federalregister.gov/documents/2004/05/24/04-11632/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-and-environmental-assessment-for"
+   }
+  ],
+  "correction": null,
+  "note": "Sources disagree: FWS page 1956; 2004 FR notice 1953 (General Plan); CCP describes the July 1955 cooperative agreement as the refuge's inception. Needs the establishing document (General Plan or 1955 agreement) to settle."
+ },
+ {
+  "id": "medicine-lake-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7148, signed Aug. 19, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7148-establishing-medicine-lake-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "Federal Register: Medicine Lake NWR final CCP notice, Feb. 20, 2008 (established 1935 by EO 7148)",
+    "url": "https://www.federalregister.gov/documents/2008/02/20/E8-3079/availability-of-final-comprehensive-conservation-plan-for-medicine-lake-national-wildlife-refuge"
+   },
+   {
+    "name": "FWS ServCat: Medicine Lake NWR Complex CCP (timeline: 1935 refuge established)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5967"
+   }
+  ],
+  "correction": {
+   "date": "1935-08-19",
+   "name": "Medicine Lake Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7148",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Aug. 19, 1935, as the Medicine Lake Migratory Waterfowl Refuge by Executive Order 7148, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Wrong year: FWS page says 1936; EO 7148 is dated Aug. 19, 1935. (The FR CCP notice prints \"August 29, 1935\", out of sequence with EOs 7142 of Aug. 14 and 7154-A of Aug. 22; the APP text shows Aug. 19.)"
+ },
+ {
+  "id": "merced-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: San Luis and Merced NWRs draft CCP notice, Sept. 11, 2023 (Merced established 1951)",
+    "url": "https://www.federalregister.gov/documents/2023/09/11/2023-19485/san-luis-and-merced-national-wildlife-refuges-and-grasslands-wildlife-management-area-ca-draft"
+   },
+   {
+    "name": "FWS ServCat: San Luis and Merced NWRs final CCP (first parcel acquired 1951)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/167996"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Lea Act; Migratory Bird Conservation Act",
+   "text": "Established in 1951 under the Lea Act and Migratory Bird Conservation Act to draw wintering waterfowl away from neighboring crops."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "meredosia-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Illinois River NWR Complex 2026-2027 Hunt and Fish compliance documentation: Meredosia NWR established in 1973 under the MBCA",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194335"
+   }
+  ],
+  "correction": {
+   "date": "1973",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1973 under the Migratory Bird Conservation Act to protect Illinois River backwater habitat for migratory birds."
+  },
+  "note": "Parser used the Chautauqua NWR sentence (1936). Meredosia NWR dates from 1973 per FWS complex documentation; a second independent source would strengthen this."
+ },
+ {
+  "id": "merritt-island-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register: Merritt Island NWR notice, Aug. 12, 2008 (established 1963 by agreement with NASA)",
+    "url": "https://www.federalregister.gov/documents/2008/08/12/E8-18411/merritt-island-national-wildlife-refuge"
+   },
+   {
+    "name": "FWS ServCat: Merritt Island NWR CCP: established Aug. 28, 1963, the 286th refuge",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168138"
+   }
+  ],
+  "correction": {
+   "date": "1963-08-28",
+   "action": "established",
+   "authorityType": "administrative",
+   "citation": "Cooperative agreement between FWS and NASA",
+   "text": "Established Aug. 28, 1963, through a cooperative agreement with NASA, as an overlay refuge on the Kennedy Space Center."
+  },
+  "note": "Parser used the Lake Woodruff NWR sentence (1964). Merritt Island dates from Aug. 28, 1963."
+ },
+ {
+  "id": "michigan-islands-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS Refuge Profile, Michigan Islands NWR (UNT web archive, 2009): \"established by Executive Order in 1943\"",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090510154115/http:/www.fws.gov/refuges/profiles/index.cfm?id=31522"
+   },
+   {
+    "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+   },
+   {
+    "name": "FWS ServCat: Michigan Islands NWR Habitat Management Plan (Scarecrow Island acquired 1943, one of the first islands)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108746"
+   }
+  ],
+  "correction": {
+   "date": "1943",
+   "text": "Established in 1943, when Shoe, Pismire and Scarecrow islands were set aside as a refuge and breeding ground for migratory birds."
+  },
+  "note": "FWS page says 1947; the archived FWS profile, the CCP and the HMP put establishment in 1943. FWS documents cite \"Executive Order 265,\" which cannot be a 1943 EO number (FDR's 1943 orders were in the 9200s); possibly a Public Land Order. Authority left unchanged pending the order itself."
+ },
+ {
+  "id": "middle-mississippi-river-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Middle Mississippi River NWR Final Land Protection Plan/EA: established as an individual refuge May 31, 2000, from Mark Twain NWR Complex divisions",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/149866"
+   },
+   {
+    "name": "FWS ServCat: Middle Mississippi River NWR Water Resource Inventory and Assessment (established 2000)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/66483"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established May 31, 2000, when the Mark Twain NWR Complex divisions below St. Louis became a separate refuge."
+  },
+  "note": "Date right; this was an administrative reorganization, not a presidential action. Clear Clinton as signer."
+ },
+ {
+  "id": "midway-atoll-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan, Midway Atoll NWR (overlay refuge established 1988)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/178306"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Cooperative agreement with the U.S. Navy",
+   "text": "Established in 1988 as an overlay refuge on Navy-controlled Midway Atoll."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "mille-lacs-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Habitat Management Plan for Rice Lake and Mille Lacs NWRs: Wilson set aside Spirit Island by EO 2199, May 14, 1915, as Mille Lacs Reservation",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/130323"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "date": "1915-05-14",
+   "name": "Mille Lacs Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 2199",
+   "president": "Woodrow Wilson",
+   "text": "Established May 14, 1915, as the Mille Lacs Reservation by Executive Order 2199, signed by President Woodrow Wilson."
+  },
+  "note": "Year confirmed; adds date, name, EO and president."
+ },
+ {
+  "id": "mingo-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Mingo, Pilot Knob and Ozark Cavefish draft CCP notice, May 26, 2006 (established 1944)",
+    "url": "https://www.federalregister.gov/documents/2006/05/26/E6-8119/draft-comprehensive-conservation-plan-and-environmental-assessment-for-mingo-pilot-knob-and-ozark"
+   },
+   {
+    "name": "FWS ServCat: I&M plan, Mingo NWR",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/89532"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1944 as a resting and wintering area for waterfowl in the bottomland hardwood swamp of southeast Missouri."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "minidoka-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 5375, June 23, 1930 (recites \"Minidoka Reservation ... created by Executive Order No. 1032, dated February 25, 1909\")",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-5375-minidoka-bird-reservation-enlarged"
+   },
+   {
+    "name": "Federal Register: Minidoka NWR CCP notice, Dec. 20, 2011",
+    "url": "https://www.federalregister.gov/documents/2011/12/20/2011-32589/minidoka-national-wildlife-refuge-blaine-cassia-minidoka-and-power-counties-id-comprehensive"
+   }
+  ],
+  "correction": {
+   "name": "Minidoka Reservation",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 1032",
+   "president": "Theodore Roosevelt",
+   "text": "Established Feb. 25, 1909, as the Minidoka Reservation by Executive Order 1032, signed by President Theodore Roosevelt, for the protection of native birds."
+  },
+  "note": "Confirmed; EO 1032 (T.R.), one week before he left office."
+ },
+ {
+  "id": "minnesota-valley-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Minnesota Valley NWR and WMD CCP: established by Congress in 1976 through the Minnesota Valley NWR Act (P.L. 94-466, Oct. 8, 1976)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1550"
+   }
+  ],
+  "correction": {
+   "date": "1976-10-08",
+   "authorityType": "act-of-congress",
+   "citation": "Minnesota Valley National Wildlife Refuge Act, P.L. 94-466",
+   "president": "Gerald R. Ford",
+   "text": "Established Oct. 8, 1976, by the Minnesota Valley National Wildlife Refuge Act, signed by President Gerald R. Ford."
+  },
+  "note": "Year confirmed; P.L. 94-466 gives date and authority."
+ },
+ {
+  "id": "missisquoi-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Missisquoi NWR CCP: officially established Feb. 4, 1943",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1548"
+   }
+  ],
+  "correction": {
+   "date": "1943-02-04",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established Feb. 4, 1943, to protect the Missisquoi River delta on Lake Champlain for migratory birds."
+  },
+  "note": "Year confirmed; CCP gives Feb. 4, 1943."
+ },
+ {
+  "id": "mississippi-sandhill-crane-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Mississippi Sandhill Crane NWR CCP: established Nov. 25, 1975, with purchase of 1,749 acres from The Nature Conservancy",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168347"
+   },
+   {
+    "name": "Federal Register: Mississippi Sandhill Crane NWR notice, Oct. 9, 2007",
+    "url": "https://www.federalregister.gov/documents/2007/10/09/E7-19798/mississippi-sandhill-crane-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "date": "1975-11-25",
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established Nov. 25, 1975, under the Endangered Species Act with the purchase of 1,749 acres to protect the Mississippi sandhill crane."
+  },
+  "note": "Year confirmed; CCP gives the day."
+ },
+ {
+  "id": "monomoy-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Monomoy NWR final CCP notice, Oct. 30, 2015 (established 1944 under the MBCA)",
+    "url": "https://www.federalregister.gov/documents/2015/10/30/2015-27439/monomoy-national-wildlife-refuge-barnstable-county-ma-final-comprehensive-conservation-plan-and"
+   },
+   {
+    "name": "FWS ServCat: Monomoy NWR CCP (established 1944 under a Declaration of Taking)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/98416"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act (Declaration of Taking)",
+   "text": "Established in 1944 under the Migratory Bird Conservation Act, through a Declaration of Taking, to provide habitat for migratory birds."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "monte-vista-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Alamosa/Monte Vista NWR Complex CCP: approved for acquisition June 10, 1952, by the Migratory Bird Conservation Commission",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1373"
+   },
+   {
+    "name": "FWS ServCat: I&M plan, San Luis Valley NWR Complex (MBCC approved establishment in 1952)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/69747"
+   }
+  ],
+  "correction": {
+   "date": "1952-06-10",
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Commission approval",
+   "text": "Established June 10, 1952, when the Migratory Bird Conservation Commission approved it, Colorado's first national wildlife refuge."
+  },
+  "note": "Year confirmed; MBCC approval June 10, 1952."
+ },
+ {
+  "id": "montezuma-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7971, Sept. 12, 1938",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7971-establishing-montezuma-migratory-bird-refuge"
+   },
+   {
+    "name": "FWS ServCat: Montezuma NWR CCP (EO 7971, Sept. 12, 1938)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43794"
+   }
+  ],
+  "correction": {
+   "date": "1938-09-12",
+   "name": "Montezuma Migratory Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7971",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Sept. 12, 1938, as the Montezuma Migratory Bird Refuge by Executive Order 7971, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Draft date field held the EO number (7971) and signer a fragment."
+ },
+ {
+  "id": "moosehorn-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7650, July 1, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7650-establishing-moosehorn-migratory-bird-refuge"
+   },
+   {
+    "name": "Federal Register: Moosehorn NWR CCP notice, Dec. 28, 2006 (established 1937)",
+    "url": "https://www.federalregister.gov/documents/2006/12/28/E6-22285/comprehensive-conservation-plan-and-environmental-assessment-for-moosehorn-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "date": "1937-07-01",
+   "name": "Moosehorn Migratory Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7650",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established July 1, 1937, as the Moosehorn Migratory Bird Refuge by Executive Order 7650, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Year confirmed; EO 7650 gives date and name."
+ },
+ {
+  "id": "morgan-brake-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Migratory Bird Conservation Act",
+   "text": "Established in 1977 under the Migratory Bird Conservation Act, along the border of the Mississippi Delta and the loess hills."
+  },
+  "note": "Year confirmed by the complex CCP table."
+ },
+ {
+  "id": "mortenson-lake-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: CCP: Bamforth, Hutton Lake and Mortenson Lake NWRs (Mortenson Lake established 1993 under the ESA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1384"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1993 under the Endangered Species Act to protect the last known population of the endangered Wyoming toad."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "mountain-longleaf-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: I&M plan, Mountain Longleaf NWR (cites USFWS 2003 \"Proposed Establishment of Mountain Longleaf NWR\" and the Bob Stump NDAA for FY2003)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/193467"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Bob Stump National Defense Authorization Act for Fiscal Year 2003, P.L. 107-314",
+   "president": "George W. Bush",
+   "text": "Established May 31, 2003, on former Fort McClellan Army land transferred to the Fish and Wildlife Service under the Bob Stump National Defense Authorization Act for Fiscal Year 2003."
+  },
+  "note": "Confirmed as legislatively based (Bob Stump NDAA FY2003, signed by George W. Bush Dec. 2, 2002); May 31, 2003 is the transfer/establishment date from the FWS page. The act's section number was not checked."
+ },
+ {
+  "id": "muleshoe-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7214, Oct. 24, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7214-establishing-muleshoe-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "Federal Register: Muleshoe NWR draft CCP notice, Oct. 8, 2003 (established Oct. 24, 1935)",
+    "url": "https://www.federalregister.gov/documents/2003/10/08/03-25485/notice-of-availability-of-draft-comprehensive-conservation-plan-and-environmental-assessment-for"
+   }
+  ],
+  "correction": {
+   "date": "1935-10-24",
+   "name": "Muleshoe Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7214",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established Oct. 24, 1935, as the Muleshoe Migratory Waterfowl Refuge by Executive Order 7214, signed by President Franklin D. Roosevelt; it is the oldest national wildlife refuge in Texas."
+  },
+  "note": "Year confirmed; EO 7214 gives date and name."
+ },
+ {
+  "id": "navassa-island-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Establishment documents, Navassa Island NWR: Secretarial Order 3210 (Dec. 3, 1999) states the refuge was established April 22, 1999, by memorandum of understanding",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/140757"
+   },
+   {
+    "name": "FWS ServCat: Establishment documents, Navassa Island NWR: Federal Register notice announcing establishment",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/140758"
+   }
+  ],
+  "correction": {
+   "date": "1999-04-22",
+   "authorityType": "administrative",
+   "citation": "FWS-Office of Insular Affairs memorandum of understanding; Secretarial Order 3210 (Dec. 3, 1999)",
+   "text": "Established April 22, 1999, by agreement between the Fish and Wildlife Service and Interior's Office of Insular Affairs; Secretarial Order 3210 later gave the Service administration of the island."
+  },
+  "note": "Year confirmed; establishment documents give April 22, 1999."
+ },
+ {
+  "id": "neal-smith-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "FWS ServCat: Neal Smith NWR CCP: Congress authorized the refuge May 25, 1990 (P.L. 101-302); established 1990 as Walnut Creek NWR; renamed 1998",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43685"
+   }
+  ],
+  "correction": {
+   "date": "1990-05-25",
+   "name": "Walnut Creek National Wildlife Refuge",
+   "authorityType": "act-of-congress",
+   "citation": "Dire Emergency Supplemental Appropriations Act, 1990, P.L. 101-302",
+   "president": "George H. W. Bush",
+   "text": "Authorized by Congress May 25, 1990, as Walnut Creek National Wildlife Refuge, to rebuild tallgrass prairie east of Des Moines; renamed for Rep. Neal Smith in 1998."
+  },
+  "note": "Year right; draft missed the earlier name Walnut Creek NWR and the authorizing act. First major land purchase came April 1991."
+ },
+ {
+  "id": "necedah-national-wildlife-refuge#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8065, Mar. 14, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8065-establishing-the-necedah-migratory-waterfowl-refuge"
+   },
+   {
+    "name": "FWS ServCat: Necedah NWR Habitat Management Plan (established 1939 by EO 8065)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125276"
+   }
+  ],
+  "correction": {
+   "date": "1939-03-14",
+   "action": "established",
+   "name": "Necedah Migratory Waterfowl Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8065",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established March 14, 1939, as the Necedah Migratory Waterfowl Refuge by Executive Order 8065, signed by President Franklin D. Roosevelt."
+  },
+  "note": "Parser grabbed a timeline line about the 1939 merger of the Biological Survey and Bureau of Fisheries; the year matches only by chance. Real act: EO 8065."
+ },
+ {
+  "id": "nestucca-bay-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Nestucca Bay NWR CCP (established 1991 under the ESA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43339"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Endangered Species Act of 1973",
+   "text": "Established in 1991 to protect wintering habitat for dusky Canada geese and Aleutian cackling geese on the Oregon coast."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "ninigret-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Ninigret NWR CCP (Navy transferred 27.5 acres of Ninigret Pond barrier beach in 1970)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1542"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Transfer of land from the U.S. Navy",
+   "text": "Established in 1970 when the Navy transferred part of the Ninigret Pond barrier beach in Charlestown, Rhode Island, to the Fish and Wildlife Service."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "northern-tallgrass-prairie-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Minnesota Legacy Funds project page: Northern Tallgrass Prairie NWR, Phase XI (\"established in 2000\")",
+    "url": "https://www.legacy.mn.gov/projects/northern-tallgrass-prairie-national-wildlife-refuge-phase-xi"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "text": "Established in 2000 to protect remnant tallgrass prairie in western Minnesota and northwest Iowa through easements and purchases."
+  },
+  "note": "Year confirmed by a Minnesota state source; no FWS planning document found."
+ },
+ {
+  "id": "nowitna-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "94 Stat. 2371 (Statutes at Large, govinfo): ANILCA, P.L. 96-487, Dec. 2, 1980, sec. 302",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+   },
+   {
+    "name": "FWS ServCat: Nowitna NWR CCP summary (Congress established the refuge in 1980 through ANILCA)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/106658"
+   }
+  ],
+  "correction": {
+   "date": "1980-12-02",
+   "authorityType": "act-of-congress",
+   "citation": "Alaska National Interest Lands Conservation Act, P.L. 96-487, sec. 302",
+   "president": "Jimmy Carter",
+   "text": "Established Dec. 2, 1980, by the Alaska National Interest Lands Conservation Act, signed by President Jimmy Carter."
+  },
+  "note": "Confirmed."
+ },
+ {
+  "id": "occoquan-bay-national-wildlife-refuge#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "FWS ServCat: Occoquan Bay NWR CCP, App. A: \"Date Established: July 15, 1994; Establishing Authority: Military Construction Appropriations Act of 1995, sec. 127 (Woodbridge Research Facility land transfer)\"",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43797"
+   }
+  ],
+  "correction": null,
+  "note": "Conflict: FWS page says June 1998; the CCP gives July 15, 1994, under the FY1995 Military Construction Appropriations Act. The Army facility closed Sept. 1994 and the land moved to FWS later. Earlier Marumsco NWR (1973) was merged in. Needs the transfer/establishment order."
+ },
+ {
+  "id": "ohio-river-islands-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "FWS ServCat: Ohio River Islands NWR final CCP (established 1990 under the Fish and Wildlife Act of 1956)",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/55205"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Fish and Wildlife Act of 1956",
+   "text": "Established in 1990 under the Fish and Wildlife Act, the first national wildlife refuge in West Virginia."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "okefenokee-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7593, Mar. 30, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7593-establishing-okefenokee-wildlife-refuge"
+   },
+   {
+    "name": "Federal Register: Okefenokee NWR notice, Apr. 24, 2001 (established by Executive Order in 1937)",
+    "url": "https://www.federalregister.gov/documents/2001/04/24/01-10143/notice-of-intent-to-prepare-comprehensive-conservation-plans-for-okefenokee-national-wildlife-refuge"
+   }
+  ],
+  "correction": {
+   "date": "1937-03-30",
+   "name": "Okefenokee Wildlife Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7593",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established March 30, 1937, as the Okefenokee Wildlife Refuge by Executive Order 7593, signed by President Franklin D. Roosevelt, as a refuge and breeding ground for migratory birds and other wildlife."
+  },
+  "note": "Year confirmed; EO 7593. Land was bought from the Hebard Lumber Co. in 1936, before the order."
+ },
+ {
+  "id": "optima-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: Washita and Optima NWRs CCP notice, Feb. 12, 2010",
+    "url": "https://www.federalregister.gov/documents/2010/02/12/2010-2904/washita-and-optima-national-wildlife-refuges-comprehensive-conservation-plan-custer-and-texas"
+   },
+   {
+    "name": "FWS ServCat: Washita and Optima NWRs CCP",
+    "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/27128"
+   }
+  ],
+  "correction": {
+   "authorityType": "administrative",
+   "citation": "Fish and Wildlife Coordination Act (agreement with the Corps of Engineers)",
+   "text": "Established in 1975 as an overlay refuge on Corps of Engineers land at Optima Lake, by agreement between Interior and the Army."
+  },
+  "note": "Year confirmed."
+ },
+ {
+  "id": "oregon-islands-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7035, May 6, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7035-establishing-goat-island-migratory-bird-refuge-oregon"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+   }
+  ],
+  "correction": {
+   "name": "Goat Island Migratory Bird Refuge",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 7035",
+   "president": "Franklin D. Roosevelt",
+   "text": "Established May 6, 1935, as the Goat Island Migratory Bird Refuge by Executive Order 7035, signed by President Franklin D. Roosevelt; renamed Oregon Islands National Wildlife Refuge in 1940."
+  },
+  "note": "Date confirmed. Adds the earlier name: Proclamation 2416 renamed Goat Island Migratory Bird Refuge as Oregon Islands NWR."
+ }
+]

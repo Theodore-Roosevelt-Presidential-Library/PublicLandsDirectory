@@ -1,28 +1,44 @@
 {
- "slug": "hewitt-lake-national-wildlife-refuge",
- "designationHistory": [
-  {
-   "date": "1938-03-07",
-   "action": "established",
-   "designation": null,
-   "name": "Migratory Waterfowl Refuge",
-   "indexText": "Hewitt Lake National Wildlife Refuge was established on March 7, 1938 by Executive Order No. 7833 as a Migratory Waterfowl Refuge.",
-   "authority": {
-    "type": "executive-order",
-    "administration": "Franklin D. Roosevelt",
-    "citation": null,
-    "signedBy": null
-   },
-   "note": null,
-   "sources": [
+  "slug": "hewitt-lake-national-wildlife-refuge",
+  "designationHistory": [
     {
-     "name": "U.S. Fish and Wildlife Service: Hewitt Lake National Wildlife Refuge, About Us",
-     "url": "https://www.fws.gov/refuge/hewitt-lake/about-us"
+      "date": "1938-03-07",
+      "action": "established",
+      "designation": null,
+      "name": "Hewitt Lake Migratory Waterfowl Refuge",
+      "indexText": "Established March 7, 1938, as the Hewitt Lake Migratory Waterfowl Refuge by Executive Order 7833, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7833",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Hewitt Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/hewitt-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7833, Mar. 7, 1938",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7833-establishing-hewitt-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right. Draft name was truncated (\"Migratory Waterfowl Refuge\") and signer was a parsing fragment (\"Executive Order No\"). Renamed 1940 by Proclamation 2416.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Hewitt Lake National Wildlife Refuge was established on March 7, 1938 by Executive Order No. 7833 as a Migratory Waterfowl Refuge."
     }
-   ],
-   "research": "fws-about",
-   "reviewed": false
-  }
- ],
- "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

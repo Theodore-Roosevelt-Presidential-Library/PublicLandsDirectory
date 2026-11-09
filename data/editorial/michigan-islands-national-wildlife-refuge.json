@@ -2,26 +2,47 @@
   "slug": "michigan-islands-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1947",
+      "date": "1943",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Michigan Islands National Wildlife Refuge was established in 1947 as a breeding ground for migratory birds.",
+      "indexText": "Established in 1943, when Shoe, Pismire and Scarecrow islands were set aside as a refuge and breeding ground for migratory birds.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Michigan Islands National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/michigan-islands/about-us"
+        },
+        {
+          "name": "FWS Refuge Profile, Michigan Islands NWR (UNT web archive, 2009): \"established by Executive Order in 1943\"",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090510154115/http:/www.fws.gov/refuges/profiles/index.cfm?id=31522"
+        },
+        {
+          "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+        },
+        {
+          "name": "FWS ServCat: Michigan Islands NWR Habitat Management Plan (Scarecrow Island acquired 1943, one of the first islands)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108746"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "FWS page says 1947; the archived FWS profile, the CCP and the HMP put establishment in 1943. FWS documents cite \"Executive Order 265,\" which cannot be a 1943 EO number (FDR's 1943 orders were in the 9200s); possibly a Public Land Order. Authority left unchanged pending the order itself.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Michigan Islands National Wildlife Refuge was established in 1947 as a breeding ground for migratory birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

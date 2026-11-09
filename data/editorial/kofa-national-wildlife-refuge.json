@@ -2,26 +2,43 @@
   "slug": "kofa-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1939",
+      "date": "1939-01-25",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Kofa National Wildlife Refuge was established in 1939 for the protection of desert bighorn sheep and other native wildlife following a 1936 campaign by the Arizona Boy Scouts.",
+      "name": "Kofa Game Range",
+      "indexText": "Established Jan. 25, 1939, as the Kofa Game Range by Executive Order 8039, signed by President Franklin D. Roosevelt, to protect desert bighorn sheep.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8039",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kofa National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/kofa/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8039, Jan. 25, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8039-establishing-the-kofa-game-range"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Kofa NWR (EO 8039, Jan. 25, 1939)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125314"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Year confirmed; adds date, the earlier name Kofa Game Range, EO 8039 and FDR.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Kofa National Wildlife Refuge was established in 1939 for the protection of desert bighorn sheep and other native wildlife following a 1936 campaign by the Arizona Boy Scouts."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

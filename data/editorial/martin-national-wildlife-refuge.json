@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Martin National Wildlife Refuge About Us What We Do Projects & Research Contact Us Visit Us Rules & Policies News Species Map About Us First established in 1954 through a 2,569 acre donation by the late Glenn L.",
+      "indexText": "Established in 1954 on Smith Island, Maryland, largely through a land donation by aviation pioneer Glenn L. Martin.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Land donation by Glenn L. Martin",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Martin National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/martin/about-us"
+        },
+        {
+          "name": "FWS ServCat: Blackwater NWR Complex document: Martin NWR acquired largely through donations by Glenn L. Martin in 1954",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43184"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Martin National Wildlife Refuge About Us What We Do Projects & Research Contact Us Visit Us Rules & Policies News Species Map About Us First established in 1954 through a 2,569 acre donation by the late Glenn L."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

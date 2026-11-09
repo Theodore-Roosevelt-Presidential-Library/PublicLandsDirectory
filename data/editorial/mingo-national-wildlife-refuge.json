@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Mingo National Wildlife Refuge was established in 1944 under the authority of the Migratory Bird Treaty Act as a resting and wintering area for waterfowl and other migratory birds, and for the preservation of bottomland hardwood forest.",
+      "indexText": "Established in 1944 as a resting and wintering area for waterfowl in the bottomland hardwood swamp of southeast Missouri.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mingo National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mingo/about-us"
+        },
+        {
+          "name": "Federal Register: Mingo, Pilot Knob and Ozark Cavefish draft CCP notice, May 26, 2006 (established 1944)",
+          "url": "https://www.federalregister.gov/documents/2006/05/26/E6-8119/draft-comprehensive-conservation-plan-and-environmental-assessment-for-mingo-pilot-knob-and-ozark"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Mingo NWR",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/89532"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mingo National Wildlife Refuge was established in 1944 under the authority of the Migratory Bird Treaty Act as a resting and wintering area for waterfowl and other migratory birds, and for the preservation of bottomland hardwood forest."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

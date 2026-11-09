@@ -2,26 +2,43 @@
   "slug": "johnston-atoll-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "2010",
+      "date": "1926-06-29",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Air Force takes control. 2009 January 6 - The Pacific Islands Heritage Marine National Monument is established, which expanded the protected boundaries of Johnston Atoll out to 50 miles. 2010 - U.S.",
+      "name": "Johnston Island Reservation",
+      "indexText": "Established June 29, 1926, as the Johnston Island Reservation, a federal bird refuge, by Executive Order 4467, signed by President Calvin Coolidge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 4467",
+        "signedBy": "Calvin Coolidge"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Johnston Atoll National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/johnston-atoll/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan for Johnston Atoll NWR: established as Johnston Island Reservation by EO 4467, June 29, 1926",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/137854"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a 2010 timeline line. Real establishment: EO 4467 (Coolidge), 1926.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Air Force takes control. 2009 January 6 - The Pacific Islands Heritage Marine National Monument is established, which expanded the protected boundaries of Johnston Atoll out to 50 miles. 2010 - U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Sources disagree: FWS page 1956; 2004 FR notice 1953 (General Plan); CCP describes the July 1955 cooperative agreement as the refuge's inception. Needs the establishing document (General Plan or 1955 agreement) to settle.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

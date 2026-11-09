@@ -2,26 +2,43 @@
   "slug": "kellys-slough-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1936",
+      "date": "1936-03-19",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Kellys Slough National Wildlife Refuge was established in 1936 as a refuge and breeding ground for migratory birds and other wildlife.",
+      "name": "Kellys Slough Migratory Waterfowl Refuge",
+      "indexText": "Established March 19, 1936, as the Kellys Slough Migratory Waterfowl Refuge by Executive Order 7320, signed by President Franklin D. Roosevelt.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7320",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kellys Slough National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/kellys-slough/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7320, Mar. 19, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7320-establishing-kellys-slough-migratory-waterfowl-refuge-north-dakota"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8650, Jan. 23, 1941 (renaming)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8650-changing-the-name-the-kellys-slough-migratory-waterfowl-refuge-kellys"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; EO 7320 gives the date.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Kellys Slough National Wildlife Refuge was established in 1936 as a refuge and breeding ground for migratory birds and other wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

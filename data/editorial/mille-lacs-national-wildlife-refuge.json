@@ -2,26 +2,43 @@
   "slug": "mille-lacs-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1915",
+      "date": "1915-05-14",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Mille Lacs National Wildlife Refuge was established in 1915 and is the smallest refuge in the National Wildlife Refuge System at 0.57 acres.",
+      "name": "Mille Lacs Reservation",
+      "indexText": "Established May 14, 1915, as the Mille Lacs Reservation by Executive Order 2199, signed by President Woodrow Wilson.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": "Executive Order 2199",
+        "signedBy": "Woodrow Wilson"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Mille Lacs National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/mille-lacs/about-us"
+        },
+        {
+          "name": "FWS ServCat: Habitat Management Plan for Rice Lake and Mille Lacs NWRs: Wilson set aside Spirit Island by EO 2199, May 14, 1915, as Mille Lacs Reservation",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/130323"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; adds date, name, EO and president.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mille Lacs National Wildlife Refuge was established in 1915 and is the smallest refuge in the National Wildlife Refuge System at 0.57 acres."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

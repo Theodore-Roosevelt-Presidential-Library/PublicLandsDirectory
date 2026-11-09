@@ -2,26 +2,47 @@
   "slug": "green-bay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1885",
+      "date": "1912-02-21",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Commission on Fish and Fisheries is established to respond to the dramatic decline in the nation’s fisheries stocks. 1885 – The Bureau of Biological Survey is established to study and map the nation’s faunal resources. 1890 – Due to increasing shipping traffic in the Port des Morts and prompted by a number of wrecks in the passage, the Lighthouse Board requests a $21,000 congressional appropriatio",
+      "name": "Green Bay Reservation",
+      "indexText": "Established Feb. 21, 1912, as the Green Bay Reservation by Executive Order 1487, signed by President William Howard Taft, as a preserve and breeding ground for native birds.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "William Howard Taft",
+        "citation": "Executive Order 1487",
+        "signedBy": "William Howard Taft"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Green Bay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/green-bay/about-us"
+        },
+        {
+          "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+        },
+        {
+          "name": "FWS ServCat: Green Bay and Gravel Island NWRs Habitat Management Plan",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/97909"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a timeline line about the Bureau of Biological Survey (1885). Real establishment: EO 1487, Feb. 21, 1912 (Taft). Renamed Green Bay NWR by Proclamation 2416 (1940).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Commission on Fish and Fisheries is established to respond to the dramatic decline in the nation’s fisheries stocks. 1885 – The Bureau of Biological Survey is established to study and map the nation’s faunal resources. 1890 – Due to increasing shipping traffic in the Port des Morts and prompted by a number of wrecks in the passage, the Lighthouse Board requests a $21,000 congressional appropriatio"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

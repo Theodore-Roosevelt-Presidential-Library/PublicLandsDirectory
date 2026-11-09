@@ -2,26 +2,43 @@
   "slug": "moosehorn-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1937",
+      "date": "1937-07-01",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Moosehorn National Wildlife Refuge was established in 1937 to protect migratory birds.",
+      "name": "Moosehorn Migratory Bird Refuge",
+      "indexText": "Established July 1, 1937, as the Moosehorn Migratory Bird Refuge by Executive Order 7650, signed by President Franklin D. Roosevelt.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7650",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Moosehorn National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/moosehorn/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7650, July 1, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7650-establishing-moosehorn-migratory-bird-refuge"
+        },
+        {
+          "name": "Federal Register: Moosehorn NWR CCP notice, Dec. 28, 2006 (established 1937)",
+          "url": "https://www.federalregister.gov/documents/2006/12/28/E6-22285/comprehensive-conservation-plan-and-environmental-assessment-for-moosehorn-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; EO 7650 gives date and name.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Moosehorn National Wildlife Refuge was established in 1937 to protect migratory birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

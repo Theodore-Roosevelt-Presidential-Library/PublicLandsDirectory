@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Lake Woodruff National Wildlife Refuge was established in 1964 as a migratory bird refuge to offset losses of wetland habitat that were occurring in central Florida.",
+      "indexText": "Established in 1964 as a migratory bird refuge to offset wetland losses in central Florida.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act (Duck Stamp funds)",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Lake Woodruff National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/lake-woodruff/about-us"
+        },
+        {
+          "name": "Federal Register: Lake Woodruff NWR notice, Apr. 23, 2008 (established 1964)",
+          "url": "https://www.federalregister.gov/documents/2008/04/23/E8-8760/lake-woodruff-national-wildlife-refuge-volusia-and-lake-counties-fl"
+        },
+        {
+          "name": "FWS ServCat: Lake Woodruff NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168122"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Woodruff National Wildlife Refuge was established in 1964 as a migratory bird refuge to offset losses of wetland habitat that were occurring in central Florida."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,39 @@
   "slug": "lower-suwannee-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1979-04",
+      "date": "1979-04-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established on 10 April 1979, the salt marshes and tidal flats at the river's mouth are a paradise for shorebirds and fish.",
+      "indexText": "Established April 10, 1979, under the Fish and Wildlife Act to protect the estuary and lower Suwannee River ecosystem.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Act of 1956",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Lower Suwannee National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/lower-suwannee/about-us"
+        },
+        {
+          "name": "Federal Register: Notice of intent for Lower Suwannee CCP, Sept. 7, 1999 (established April 10, 1979, under the Fish and Wildlife Act)",
+          "url": "https://www.federalregister.gov/documents/1999/09/07/99-23199/intent-to-prepare-comprehensive-conservation-plans-for-lower-suwannee-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed; draft date field lacked the day.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established on 10 April 1979, the salt marshes and tidal flats at the river's mouth are a paradise for shorebirds and fish."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

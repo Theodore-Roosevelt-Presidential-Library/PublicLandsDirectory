@@ -5,23 +5,40 @@
       "date": "1939-05-02",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The Refuge was established on May 2, 1939 to protect and provide a breeding ground for migratory birds and other wildlife.",
+      "name": "Little Pend Oreille Wildlife Refuge",
+      "indexText": "Established May 2, 1939, as the Little Pend Oreille Wildlife Refuge by Executive Order 8104, signed by President Franklin D. Roosevelt.",
       "authority": {
-        "type": "unspecified",
+        "type": "executive-order",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 8104",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Little Pend Oreille National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/little-pend-oreille/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8104, May 2, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8104-establishing-the-little-pend-oreille-wildlife-refuge"
+        },
+        {
+          "name": "FWS ServCat: Little Pend Oreille NWR final CCP/EIS",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5949"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established on May 2, 1939 to protect and provide a breeding ground for migratory birds and other wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

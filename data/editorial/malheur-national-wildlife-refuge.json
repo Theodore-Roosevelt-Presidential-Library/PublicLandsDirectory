@@ -6,11 +6,11 @@
       "action": "established",
       "designation": null,
       "name": "Lake Malheur Reservation",
-      "indexText": "Malheur National Wildlife Refuge was established on August 18, 1908, by President Theodore Roosevelt as the Lake Malheur Reservation.",
+      "indexText": "Established Aug. 18, 1908, as the Lake Malheur Reservation by Executive Order 929, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds.",
       "authority": {
-        "type": "unspecified",
+        "type": "executive-order",
         "administration": "Theodore Roosevelt",
-        "citation": null,
+        "citation": "Executive Order 929",
         "signedBy": "Theodore Roosevelt"
       },
       "note": null,
@@ -18,11 +18,31 @@
         {
           "name": "U.S. Fish and Wildlife Service: Malheur National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/malheur/about-us"
+        },
+        {
+          "name": "FWS ServCat: Malheur NWR final CCP/EIS: Lake Malheur Reservation set aside Aug. 18, 1908, by T.R. through Executive Order No. 929",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43336"
+        },
+        {
+          "name": "Federal Register: Malheur NWR draft CCP notice, Mar. 5, 2012",
+          "url": "https://www.federalregister.gov/documents/2012/03/05/2012-5297/malheur-national-wildlife-refuge-harney-county-or-draft-comprehensive-conservation-plan-and-draft"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7106, July 19, 1935 (later Malheur Migratory Bird Refuge)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7106-establishing-the-malheur-migratory-bird-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed; EO 929 (T.R.). Some FWS documents say \"Lake Malheur Bird Reservation\"; the CCP and EO wording use \"Lake Malheur Reservation\".",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Malheur National Wildlife Refuge was established on August 18, 1908, by President Theodore Roosevelt as the Lake Malheur Reservation."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Conflict: FWS page says June 1998; the CCP gives July 15, 1994, under the FY1995 Military Construction Appropriations Act. The Army facility closed Sept. 1994 and the land moved to FWS later. Earlier Marumsco NWR (1973) was merged in. Needs the transfer/establishment order.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

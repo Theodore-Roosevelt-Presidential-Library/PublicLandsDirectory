@@ -2,26 +2,39 @@
   "slug": "hamden-slough-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1989",
+      "date": "1989-09-19",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Hamden Slough National Wildlife Refuge which was established in 1989.",
+      "indexText": "Established Sept. 19, 1989, by the Migratory Bird Conservation Commission to restore prairie pothole habitat for waterfowl.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Commission approval",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Hamden Slough National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/hamden-slough/about-us"
+        },
+        {
+          "name": "FWS ServCat: Hamden Slough NWR CCP: Migratory Bird Conservation Commission established the refuge Sept. 19, 1989",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43682"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; CCP gives the MBCC date.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Hamden Slough National Wildlife Refuge which was established in 1989."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

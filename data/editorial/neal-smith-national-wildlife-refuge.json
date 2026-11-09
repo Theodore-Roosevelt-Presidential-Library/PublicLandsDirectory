@@ -2,26 +2,39 @@
   "slug": "neal-smith-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1990",
+      "date": "1990-05-25",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Neal Smith National Wildlife Refuge was established in 1990 with the mission to actively protect, restore, reconstruct and manage the diverse native ecosystems of tallgrass prairie, oak savanna and sedge meadow.",
+      "name": "Walnut Creek National Wildlife Refuge",
+      "indexText": "Authorized by Congress May 25, 1990, as Walnut Creek National Wildlife Refuge, to rebuild tallgrass prairie east of Des Moines; renamed for Rep. Neal Smith in 1998.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Dire Emergency Supplemental Appropriations Act, 1990, P.L. 101-302",
+        "signedBy": "George H. W. Bush"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Neal Smith National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/neal-smith/about-us"
+        },
+        {
+          "name": "FWS ServCat: Neal Smith NWR CCP: Congress authorized the refuge May 25, 1990 (P.L. 101-302); established 1990 as Walnut Creek NWR; renamed 1998",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43685"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Year right; draft missed the earlier name Walnut Creek NWR and the authorizing act. First major land purchase came April 1991.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Neal Smith National Wildlife Refuge was established in 1990 with the mission to actively protect, restore, reconstruct and manage the diverse native ecosystems of tallgrass prairie, oak savanna and sedge meadow."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

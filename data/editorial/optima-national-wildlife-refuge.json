@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Optima National Wildlife Refuge was established in 1975 under the authority of the Fish and Wildlife Coordination Act, by agreement between the Department of the Interior and the U.S.",
+      "indexText": "Established in 1975 as an overlay refuge on Corps of Engineers land at Optima Lake, by agreement between Interior and the Army.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Coordination Act (agreement with the Corps of Engineers)",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Optima National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/optima/about-us"
+        },
+        {
+          "name": "Federal Register: Washita and Optima NWRs CCP notice, Feb. 12, 2010",
+          "url": "https://www.federalregister.gov/documents/2010/02/12/2010-2904/washita-and-optima-national-wildlife-refuges-comprehensive-conservation-plan-custer-and-texas"
+        },
+        {
+          "name": "FWS ServCat: Washita and Optima NWRs CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/27128"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Optima National Wildlife Refuge was established in 1975 under the authority of the Fish and Wildlife Coordination Act, by agreement between the Department of the Interior and the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,39 @@
   "slug": "kilauea-point-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1985",
+      "date": "1985-02-15",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "al Education https://www.facebook.com/KilaueaPointNWR About Us Image Details Kīlauea Point National Wildlife Refuge was established in 1985 to protect and enhance migratory seabirds and threatened and endangered species and their habitats.",
+      "indexText": "Established Feb. 15, 1985, on land transferred from the U.S. Coast Guard, to protect nesting seabirds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Kilauea Point National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/kilauea-point/about-us"
+        },
+        {
+          "name": "FWS ServCat: Kilauea Point NWR CCP: established Feb. 15, 1985, the 425th refuge",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/87650"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; CCP gives Feb. 15, 1985.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "al Education https://www.facebook.com/KilaueaPointNWR About Us Image Details Kīlauea Point National Wildlife Refuge was established in 1985 to protect and enhance migratory seabirds and threatened and endangered species and their habitats."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

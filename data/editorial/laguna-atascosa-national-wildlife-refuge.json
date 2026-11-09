@@ -2,26 +2,43 @@
   "slug": "laguna-atascosa-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1946",
+      "date": "1945-10-31",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Laguna Atascosa National Wildlife Refuge was established in 1946 to provide habitat for wintering waterfowl and other migratory birds, principally redhead ducks.",
+      "indexText": "Established Oct. 31, 1945, by the Migratory Bird Conservation Commission; the first 11,275-acre tract was acquired March 29, 1946.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Commission approval",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Laguna Atascosa National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/laguna-atascosa/about-us"
+        },
+        {
+          "name": "Federal Register: Laguna Atascosa NWR final CCP notice, Nov. 30, 2010",
+          "url": "https://www.federalregister.gov/documents/2010/11/30/2010-30003/laguna-atascosa-national-wildlife-refuge-cameron-and-willacy-counties-tx-final-comprehensive"
+        },
+        {
+          "name": "FWS ServCat: Laguna Atascosa NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5942"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "FWS page says 1946 (first land acquired March 29, 1946). FR and CCP say the Commission formally established the refuge Oct. 31, 1945.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Laguna Atascosa National Wildlife Refuge was established in 1946 to provide habitat for wintering waterfowl and other migratory birds, principally redhead ducks."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

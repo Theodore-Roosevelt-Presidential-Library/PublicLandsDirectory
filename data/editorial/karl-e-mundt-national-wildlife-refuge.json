@@ -2,26 +2,43 @@
   "slug": "karl-e-mundt-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1992",
+      "date": "1974-12-19",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established in 1992, the Huron Wetland Management District consists of an eight county area...",
+      "indexText": "Established Dec. 19, 1974, on land bought by the National Wildlife Federation, as a refuge for wintering bald eagles below Fort Randall Dam.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973 (land donated by the National Wildlife Federation)",
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Karl E. Mundt National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/karl-e-mundt/about-us"
+        },
+        {
+          "name": "FWS ServCat: Lake Andes NWR Complex document: land bought by National Wildlife Federation in 1974, dedicated Dec. 19, 1974",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/20503"
+        },
+        {
+          "name": "FWS ServCat: EA, Karl E. Mundt NWR Jonas Tract Expansion (established 1974 under the ESA)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/149681"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Huron WMD sentence (1992). Karl E. Mundt NWR dates from 1974.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1992, the Huron Wetland Management District consists of an eight county area..."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }
