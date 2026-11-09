@@ -1,6 +1,6 @@
 {
   "slug": "martin-luther-king-jr-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1980-10-10",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established Oct. 10, 1980",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 96-428, 94 Stat. 1839"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 96-428, 94 Stat. 1839, act to establish the Martin Luther King, Junior, National Historic Site, approved Oct. 10, 1980",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1839.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vvv, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vvv&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 96-428 established it as the Martin Luther King, Jr., National Historic Site (redesignated a national historical park in 2018); Carter.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

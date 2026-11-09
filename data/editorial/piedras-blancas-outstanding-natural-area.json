@@ -1,0 +1,41 @@
+{
+  "slug": "piedras-blancas-outstanding-natural-area",
+  "designationHistory": [
+    {
+      "date": "2008-05-08",
+      "action": "established",
+      "designation": "Outstanding Natural Area",
+      "name": "Piedras Blancas Historic Light Station Outstanding Natural Area",
+      "indexText": "The Consolidated Natural Resources Act of 2008 established the Piedras Blancas Historic Light Station Outstanding Natural Area in California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 110-229, title II, sec. 201, 122 Stat. 754, 759",
+        "signedBy": "George W. Bush"
+      },
+      "note": "The statutory name includes 'Historic Light Station'; the input name omits it.",
+      "sources": [
+        {
+          "name": "Public Law 110-229, 122 Stat. 754 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ229/html/PLAW-110publ229.htm"
+        },
+        {
+          "name": "43 U.S.C. 1786 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/43/1786"
+        },
+        {
+          "name": "BLM unit page: Piedras Blancas Outstanding Natural Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/california/piedras-blancas-light-station"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

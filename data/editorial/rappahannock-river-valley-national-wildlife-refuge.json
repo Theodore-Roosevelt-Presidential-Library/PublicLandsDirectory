@@ -1,0 +1,40 @@
+{
+  "slug": "rappahannock-river-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1996",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1996 to conserve fish and wildlife, including endangered and threatened species and wetlands, along the Rappahannock River.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Rappahannock River Valley National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/rappahannock-river-valley/about-us"
+        },
+        {
+          "name": "Federal Register, July 23, 2009 (E9-17546): Rappahannock River Valley NWR \"was established in 1996 to conserve and protect fish and wildlife resources\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2009-07-23/pdf/E9-17546.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; authority not stated in the source.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Rappahannock River Valley National Wildlife Refuge was established in 1996 to conserve and protect fish and wildlife resources, including endangered and threatened species and wetlands."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

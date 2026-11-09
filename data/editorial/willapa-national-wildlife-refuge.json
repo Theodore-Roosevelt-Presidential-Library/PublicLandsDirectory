@@ -1,0 +1,44 @@
+{
+  "slug": "willapa-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-01-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Willapa Harbor Migratory Bird Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Willapa Harbor Migratory Bird Refuge by Executive Order 7541 on January 22, 1937.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7541, 2 FR 168",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Willapa National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/willapa/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7541, Jan. 22, 1937, Establishing Willapa Harbor Migratory Bird Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7541-establishing-willapa-harbor-migratory-bird-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1937: EO 7541, 2 FR 168",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1937.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date, EO and earlier name added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Willapa National Wildlife Refuge was established in 1937 to protect migrating birds and their habitat at a time when many estuaries and shallow water bays were being destroyed in the name of progress."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

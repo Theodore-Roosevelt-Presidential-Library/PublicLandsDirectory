@@ -1,0 +1,32 @@
+{
+ "slug": "block-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1973",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The refuge was established in 1973 with the transfer of 28 acres from the U.S.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Block Island National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/block-island/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

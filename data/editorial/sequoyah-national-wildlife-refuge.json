@@ -1,0 +1,39 @@
+{
+  "slug": "sequoyah-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1970",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1970 as an overlay on U.S. Army Corps of Engineers land at Robert S. Kerr Reservoir, created by the McClellan-Kerr Arkansas River Navigation System.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Cooperative agreement with the U.S. Army Corps of Engineers (overlay refuge)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sequoyah National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sequoyah/about-us"
+        },
+        {
+          "name": "Encyclopedia of Oklahoma History and Culture: Sequoyah National Wildlife Refuge (\"Established in 1970, in conjunction with the completion of the Kerr Reservoir\")",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=SE023"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sequoyah National Wildlife Refuge was established in 1970 as an overlay project of the U.S."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

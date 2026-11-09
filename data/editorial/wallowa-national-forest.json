@@ -1,0 +1,112 @@
+{
+  "slug": "wallowa-national-forest",
+  "designationHistory": [
+    {
+      "date": "1905-05-06",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "WalIowa: Established reserve",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 546, 34 Stat. 3004"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3004 (Statutes at Large, govinfo): Proclamation of May 6, 1905, Theodore Roosevelt: \"shall be known as The Wallowa Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3004-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 546, May 6, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-546-establishment-the-wallowa-forest-reserve-oregon"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 546, May 6, 1905, 34 Stat. 3004, Theodore Roosevelt. The first Wallowa Forest Reserve; superseded by the Imnaha in 1907.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1907-03-01",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Imnaha Forest Reserve",
+      "indexText": "Imnaha: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 713, 34 Stat. 3284"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 20",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3284 (Statutes at Large, govinfo): Proclamation of March 1, 1907, Theodore Roosevelt: the Wallowa and Chesnimnus proclamations \"hereby superseded, and the Imnaha Forest Reserve is hereby established\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3284.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 713, March 1, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-713-establishing-imnaha-forest-reserve-oregon-place-the-wallowa-and"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 713, March 1, 1907, 34 Stat. 3284, Theodore Roosevelt; predecessor name Imnaha Forest Reserve is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1908-07-02",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Wallowa National Forest",
+      "indexText": "Imnaha: Name changed to Wallowa.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 908"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 33",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 908: July 2, 1908, fifty-five specified national forests consolidated and/or renamed",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 908, July 2, 1908, Theodore Roosevelt; Davis: Imnaha renamed Wallowa (effective July 1). Per-forest detail rests on Davis.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

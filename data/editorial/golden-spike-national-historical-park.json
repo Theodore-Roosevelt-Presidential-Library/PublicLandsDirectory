@@ -1,6 +1,6 @@
 {
   "slug": "golden-spike-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1957-04-02",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated April 2, 1957",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Secretarial order of Apr. 2, 1957, 22 F.R. 2350"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Order designating the Golden Spike National Historic Site, April 2, 1957, 22 F.R. 2350",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of April 2, 1957; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1965-07-30",
@@ -34,17 +44,31 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 89-102, 79 Stat. 426"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 79 Stat. 426 (govinfo): P.L. 89-102, approved July 30, 1965",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg425.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 89-102; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

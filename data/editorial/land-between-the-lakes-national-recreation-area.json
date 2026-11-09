@@ -1,0 +1,41 @@
+{
+  "slug": "land-between-the-lakes-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1998-10-21",
+      "action": "transferred",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The Land Between the Lakes Protection Act of 1998 provided for transfer of the Land Between the Lakes from the Tennessee Valley Authority to the Secretary of Agriculture and established it as a national recreation area in the National Forest System.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 105-277, div. A, sec. 101(e), title V, 112 Stat. 2681-231, 2681-312",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "Under 16 U.S.C. 460lll-41 the transfer took effect on Oct. 1 of the first fiscal year for which Congress did not appropriate at least $6 million to TVA for the area; the Forest Service gives Oct. 1, 1999, which was not checked against a primary record.",
+      "sources": [
+        {
+          "name": "Public Law 105-277, 112 Stat. 2681 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-112/pdf/STATUTE-112-Pg2681.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460lll-11 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460lll-11"
+        },
+        {
+          "name": "16 U.S.C. 460lll-41, effective date of transfer (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460lll-41"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

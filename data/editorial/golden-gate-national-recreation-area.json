@@ -1,6 +1,6 @@
 {
   "slug": "golden-gate-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1972-10-27",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established Oct. 27, 1972",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-589, 86 Stat. 1299"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 32",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 86 Stat. 1299 (govinfo): P.L. 92-589, approved Oct. 27, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1299.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 460bb, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-589 established the NRA; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

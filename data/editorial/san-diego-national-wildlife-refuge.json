@@ -1,0 +1,39 @@
+{
+  "slug": "san-diego-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1996",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1996 under the Endangered Species Act to protect coastal sage scrub, vernal pools and other habitat for listed species east of San Diego.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973 (land acquisition authority)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: San Diego National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/san-diego/about-us"
+        },
+        {
+          "name": "Federal Register, May 24, 2006 (E6-7911): \"The San Diego National Wildlife Refuge (Refuge) was established in 1996 under the authority of the Endangered Species Act of 1973\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-05-24/pdf/E6-7911.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and authority confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1996, the refuge spans more than 12,445 acres from the city of Jamul to neighborhoods in Spring Valley and eastern Chula Vista."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

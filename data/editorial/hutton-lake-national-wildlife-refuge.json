@@ -1,0 +1,48 @@
+{
+  "slug": "hutton-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-01-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Hutton Lake Migratory Bird Refuge",
+      "indexText": "Established Jan. 28, 1932, as the Hutton Lake Migratory Bird Refuge by Executive Order 5782, signed by President Herbert Hoover.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5782",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Hutton Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/hutton-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5782, Jan. 28, 1932",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5782-enlarging-the-hutton-lake-migratory-bird-refuge-wyoming"
+        },
+        {
+          "name": "FWS ServCat: CCP: Bamforth, Hutton Lake and Mortenson Lake NWRs (Hutton Lake established Jan. 28, 1932, by EO 5782)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1384"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right; signer was a parsing fragment. Note: EO 5782 calls the land \"an addition to the Hutton Lake Migratory Bird Refuge, which is being acquired under\" the Migratory Bird Conservation Act, so purchase approval may slightly predate it; FWS treats EO 5782 as the establishing order.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Hutton Lake National Wildlife Refuge was established on January 28, 1932, by Executive Order."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

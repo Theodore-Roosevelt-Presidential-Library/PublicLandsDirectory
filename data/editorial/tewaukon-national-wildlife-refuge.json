@@ -1,0 +1,40 @@
+{
+  "slug": "tewaukon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1945",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1945 around Lake Tewaukon on the Wild Rice River in southeastern North Dakota as a refuge for migratory birds.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tewaukon National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tewaukon/about-us"
+        },
+        {
+          "name": "FWS Tewaukon NWR brochure, 1988 (NPS History copy): \"Established: 1945\"",
+          "url": "https://www.npshistory.com/brochures/nwr/tewaukon-1988.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Arrowwood Wetland Management District (1961). Tewaukon NWR dates to 1945 per an older FWS brochure; authority not found. Confirm with the CCP.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Wildlife Refuge Pingree, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

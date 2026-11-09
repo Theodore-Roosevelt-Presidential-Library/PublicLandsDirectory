@@ -1,6 +1,6 @@
 {
   "slug": "cape-cod-national-seashore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1961-08-07",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-126, 75 Stat. 284"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 63",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 75 Stat. 284 (govinfo): P.L. 87-126, approved Aug. 7, 1961",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg284.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 459b, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-126; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1966-06-01",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established June 1, 1966",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "Notice of establishment, 31 F.R. 7778 (June 1, 1966)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 63",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 1966-06-01 (govinfo issue PDF): contents: \"Cape Cod National Seashore, Mass.; establishment,\" 31 F.R. 7778",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1966-06-01/pdf/FR-1966-06-01.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Establishment notice published June 1, 1966 (31 F.R. 7778) under sec. 2 of P.L. 87-126; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

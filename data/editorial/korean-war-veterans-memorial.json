@@ -1,6 +1,6 @@
 {
   "slug": "korean-war-veterans-memorial",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1986-10-28",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 99-572, 100 Stat. 3226"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 99-572, 100 Stat. 3226, Korean War Memorial Act, approved Oct. 28, 1986",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg3226.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 99-572; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,0 +1,44 @@
+{
+  "slug": "james-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1991-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in March 1991, the fourth national wildlife refuge set up specifically to protect bald eagles.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: James River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/james-river/about-us"
+        },
+        {
+          "name": "FWS ServCat: James River NWR draft CCP (\"Established in March 1991\")",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43714"
+        },
+        {
+          "name": "FWS ServCat: James River NWR final CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/51596"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; CCP gives March 1991.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "James River National Wildlife Refuge was established in 1991 to conserve fish and wildlife which are listed as endangered or threatened species, and to protect bald eagles."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

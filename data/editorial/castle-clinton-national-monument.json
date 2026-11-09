@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Harry S. Truman",
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Act of Aug. 12, 1946, ch. 954, 60 Stat. 997"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 60 Stat. 997 (govinfo): Act of Aug. 12, 1946, ch. 954, approved Aug. 12, 1946",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg997-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450cc, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Aug. 12, 1946; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1950-06-20",
@@ -44,7 +58,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Not found in independent records. The 1946 act made Castle Clinton a monument once New York City conveyed title. No Federal Register notice of establishment turned up in the June 12 to July 12, 1950 issues, and no other document of a June 20, 1950 action was found. Check the deed or acceptance date in the park's administrative history.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

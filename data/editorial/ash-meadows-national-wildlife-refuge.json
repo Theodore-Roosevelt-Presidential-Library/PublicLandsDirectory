@@ -1,0 +1,33 @@
+{
+ "slug": "ash-meadows-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1984-06-18",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service established Ash Meadows National Wildlife Refuge by buying 11,177 acres of former farmland from The Nature Conservancy to protect the area's endangered desert fishes and plants.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Ronald Reagan",
+    "citation": "Endangered Species Act of 1973 (acquisition)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Desert NWR Complex Final Comprehensive Conservation Plan, 2009 (ServCat 7305)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/7305"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

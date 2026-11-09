@@ -1,6 +1,6 @@
 {
   "slug": "theodore-roosevelt-birthplace-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1962-07-25",
@@ -12,39 +12,60 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-547, 76 Stat. 217"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 87-547, 76 Stat. 217, act to authorize establishment of the Theodore Roosevelt Birthplace and Sagamore Hill NHSs, approved July 25, 1962",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg217.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-547 authorized both the Birthplace and Sagamore Hill sites; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1963-07-11",
+      "date": "1963-07-15",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established July 11, 1963",
+      "indexText": "Established July 15, 1963",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "Secretarial order of July 15, 1963 (F.R. Doc. 63-7611, July 19, 1963)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 28 F.R. (July 19, 1963), F.R. Doc. 63-7611: Theodore Roosevelt Birthplace and Sagamore Hill National Historic Sites, establishment, signed July 15, 1963",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1963-07-19/pdf/FR-1963-07-19.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: Secretary Udall established the Birthplace and Sagamore Hill sites by order signed July 15, 1963. July 11, 1963 is the date the Birthplace deed was recorded, which the order cites. JFK either way.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established July 11, 1963"
     }
   ],
   "historySource": {

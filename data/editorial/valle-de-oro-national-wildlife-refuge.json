@@ -1,0 +1,37 @@
+{
+  "slug": "valle-de-oro-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2012-09-21",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established Valle de Oro National Wildlife Refuge in Albuquerque on September 21, 2012, with the purchase of about 390 acres of a former dairy farm, the first urban wildlife refuge in the Southwest.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Barack Obama",
+        "citation": "Land acquisition by the Fish and Wildlife Service (establishment notice 78 FR 35640)",
+        "signedBy": null
+      },
+      "note": "Pass A (Federal Register notice: established September 21, 2012, with a purchase of 389 acres) and Pass B (Interior press release of September 27, 2012: formally established \"last Friday,\" i.e. September 21, through acquisition of 390 acres; dedicated September 27) agree. The fws.gov About page says it was dedicated August 8, 2012, which conflicts with both and is not used.",
+      "sources": [
+        {
+          "name": "Federal Register, Establishment of the Valle de Oro National Wildlife Refuge, 78 FR 35640 (June 13, 2013)",
+          "url": "https://www.federalregister.gov/documents/2013/06/13/2013-14043/establishment-of-the-valle-de-oro-national-wildlife-refuge-bernalillo-county-new-mexico"
+        },
+        {
+          "name": "U.S. Department of the Interior press release, \"Salazar Dedicates Two National Wildlife Refuges in New Mexico\" (Sept. 27, 2012)",
+          "url": "https://www.doi.gov/news/pressreleases/AMERICAS-GREAT-OUTDOORS-Salazar-Dedicates-Two-National-Wildlife-Refuges-in-New-Mexico"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

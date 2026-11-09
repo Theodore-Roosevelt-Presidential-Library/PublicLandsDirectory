@@ -1,28 +1,39 @@
 {
-  "slug": "upper-missouri-river-breaks-national-monument",
-  "designationHistory": [
+ "slug": "upper-missouri-river-breaks-national-monument",
+ "designationHistory": [
+  {
+   "date": "2001-01-17",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Upper Missouri River Breaks National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7398, 66 FR 7359"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2001-01-17",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Upper Missouri River Breaks National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7398, 66 FR 7359"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7398, 66 FR 7359",
-          "url": "https://www.federalregister.gov/documents/2001/01/22/01-2103/establishment-of-the-upper-missouri-river-breaks-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "Federal Register: Proclamation 7398, 66 FR 7359",
+     "url": "https://www.federalregister.gov/documents/2001/01/22/01-2103/establishment-of-the-upper-missouri-river-breaks-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 7398—Establishment of the Upper Missouri River Breaks National Monument, January 17, 2001",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7398-establishment-the-upper-missouri-river-breaks-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 7398, 66 FR 7359, signed 2001-01-17; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

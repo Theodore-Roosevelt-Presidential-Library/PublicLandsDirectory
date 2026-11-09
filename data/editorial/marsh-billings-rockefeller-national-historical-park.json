@@ -1,6 +1,6 @@
 {
   "slug": "marsh-billings-rockefeller-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1992-08-26",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established as Marsh-Billings National Historical Park Aug. 26, 1992",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-350, 106 Stat. 934"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-350, 106 Stat. 934, Marsh-Billings National Historical Park Establishment Act, approved Aug. 26, 1992",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg934.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vv, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vv&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 102-350; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1998-10-21",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Renamed Oct. 21, 1998",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 105-277, div. A, sec. 101(e) [title I, sec. 143], 112 Stat. 2681-231"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vv, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vv&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Renamed Marsh-Billings-Rockefeller NHP by the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (P.L. 105-277), approved Oct. 21, 1998; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

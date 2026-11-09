@@ -1,0 +1,40 @@
+{
+  "slug": "west-sister-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-08-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "West Sister Island Migratory Bird Refuge",
+      "indexText": "President Franklin D. Roosevelt established the West Sister Island Migratory Bird Refuge in Lake Erie by Executive Order 7937 on August 2, 1938.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7937",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: West Sister Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/west-sister-island/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7937, Aug. 2, 1938, Establishing West Sister Island Migratory Bird Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7937-establishing-west-sister-island-migratory-bird-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Ottawa NWR (1961). West Sister Island dates to Aug. 2, 1938.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Ottawa National Wildlife Refuge Established in 1961, Ottawa National Wildlife Refuge protects a network of wetlands, grasslands and forests to provide habitat for a variety of migratory birds, resident wildlife and threatened and endangered species."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

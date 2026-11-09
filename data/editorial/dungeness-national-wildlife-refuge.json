@@ -1,0 +1,44 @@
+{
+  "slug": "dungeness-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1915-01-20",
+      "action": "established",
+      "designation": null,
+      "name": "Dungeness Spit Reservation",
+      "indexText": "President Woodrow Wilson established the Dungeness Spit Reservation by Executive Order 2123; it is now Dungeness National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": "Executive Order 2123",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Dungeness National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/dungeness/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8518—Modification of Executive Order No. 2123 of January 20, 1915, Reserving Certain Public Land as a Native Bird Refuge (Aug 16, 1940)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8518-modification-executive-order-no-2123-january-20-1915-reserving"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, Changing the Names of Certain Federal Wildlife Refuges (July 25, 1940), lists former and new names",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 2123, 1915-01-20 (Woodrow Wilson). EO 8518 (Aug. 16, 1940) cites \"Executive Order No. 2123 of January 20, 1915 ... known as Dungeness Spit Reservation\". Draft signer field held \"Executive Order\"; President is Wilson.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Dungeness National Wildlife Refuge was established by Executive Order on January 20, 1915 for the land to be “ . . . as a refuge, preserve and breeding ground for native birds. ” The original 226.02 acres were known as the Dungeness Spit Reservation."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

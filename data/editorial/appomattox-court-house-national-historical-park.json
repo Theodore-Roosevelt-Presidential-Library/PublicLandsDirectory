@@ -1,6 +1,6 @@
 {
   "slug": "appomattox-court-house-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1930-06-18",
@@ -12,17 +12,35 @@
         "type": "act-of-congress",
         "signedBy": "Herbert Hoover",
         "administration": "Herbert Hoover",
-        "citation": null
+        "citation": "Act of June 18, 1930, ch. 520, 46 Stat. 777"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 46 Stat. 777 (govinfo): Act of June 18, 1930, ch. 520, to commemorate the end of the war at Appomattox Court House; approved June 18, 1930",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg776.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450b note (repealed sections), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 18, 1930; Hoover.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,20 +49,30 @@
       "name": null,
       "indexText": "Transferred from War Dept. Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1935-08-13",
@@ -56,17 +84,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of Aug. 13, 1935, ch. 520, 49 Stat. 613"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 49 Stat. 613 (govinfo): Act of Aug. 13, 1935, establishing Appomattox Court House National Historical Monument; approved Aug. 13, 1935",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg613-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450b note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Aug. 13, 1935; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1954-04-15",
@@ -75,20 +117,34 @@
       "name": null,
       "indexText": "Redesignated April 15, 1954",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Act of Apr. 15, 1954, ch. 142, 68 Stat. 54"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 68 Stat. 54 (govinfo): Act of Apr. 15, 1954, ch. 142, changing the name to Appomattox Court House National Historical Park",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg54-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450b note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Apr. 15, 1954 renamed the monument a national historical park; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

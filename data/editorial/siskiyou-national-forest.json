@@ -1,0 +1,42 @@
+{
+  "slug": "siskiyou-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-10-05",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Siskiyou: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 661, 34 Stat. 3239"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3239 (Statutes at Large, govinfo): Proclamation of Oct. 5, 1906, Theodore Roosevelt, Siskiyou Forest Reserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3239-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 661, Oct. 5, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-661-setting-apart-the-siskiyou-forest-reserve-oregon"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 661, Oct. 5, 1906, 34 Stat. 3239, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

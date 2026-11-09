@@ -1,6 +1,6 @@
 {
   "slug": "star-spangled-banner-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2008-05-08",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established: May 8, 2008",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "P.L. 110-229, title III, sec. 341, 122 Stat. 795"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 110-229, 122 Stat. 754, Consolidated Natural Resources Act of 2008, sec. 341, approved May 8, 2008",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-122/pdf/STATUTE-122-Pg754.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1244, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1244&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 110-229, sec. 341 designated the trail; George W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

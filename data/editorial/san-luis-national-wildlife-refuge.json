@@ -1,0 +1,39 @@
+{
+  "slug": "san-luis-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1967",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1967 under the Migratory Bird Conservation Act with a 7,422-acre unit of wetlands and grasslands for migratory birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: San Luis National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/san-luis/about-us"
+        },
+        {
+          "name": "San Luis NWR, Merced NWR and Grasslands WMA Final Comprehensive Conservation Plan (FWS, 2024, ServCat): \"The San Luis NWR was established in 1967\"",
+          "url": "https://ecos.fws.gov/ServCat/DownloadFile/252976"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed in the refuge CCP.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "San Luis National Wildlife Refuge was established in 1967 under the Migratory Bird Conservation Act."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

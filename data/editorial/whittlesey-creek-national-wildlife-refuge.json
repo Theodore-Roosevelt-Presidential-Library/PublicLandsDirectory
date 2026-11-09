@@ -1,0 +1,40 @@
+{
+  "slug": "whittlesey-creek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1999",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1999 to protect and restore coastal wetlands and spring-fed streams for coaster brook trout on Lake Superior's Chequamegon Bay.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Whittlesey Creek National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/whittlesey-creek/about-us"
+        },
+        {
+          "name": "FWS, Whittlesey Creek NWR hunting and fishing regulations: \"The refuge was established in 1999 in an effort to restore coaster brook trout\"",
+          "url": "https://www.fws.gov/sites/default/files/documents/WhittleseyCreek_HuntFish_accessible.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed only by another FWS publication; weak sourcing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1999 to protect, restore and manage coastal wetland and spring-fed stream habitat."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

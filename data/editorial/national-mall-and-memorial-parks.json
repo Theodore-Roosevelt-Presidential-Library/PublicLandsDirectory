@@ -1,28 +1,39 @@
 {
   "slug": "national-mall-and-memorial-parks",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1790-07-16",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "National Mall authorized on July 16, 1790",
+      "indexText": "Residence Act of July 16, 1790 authorized the federal district and public buildings from which the Mall's public grounds derive",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "George Washington",
         "administration": "George Washington",
-        "citation": null
+        "citation": "Act of July 16, 1790, ch. 28, 1 Stat. 130"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of July 16, 1790, ch. 28, 1 Stat. 130, An Act for establishing the temporary and permanent seat of the Government of the United States, approved July 16, 1790",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg130.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, act and President (Washington) are right, but the Residence Act does not mention a mall: it set the permanent seat of government and authorized commissioners to provide public buildings. The Mall comes from the L'Enfant plan of 1791. Text softened accordingly.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Mall authorized on July 16, 1790"
     },
     {
       "date": "1933-08-10",
@@ -31,20 +42,30 @@
       "name": null,
       "indexText": "National Mall and park areas transferred from the Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,0 +1,39 @@
+{
+  "slug": "arrowwood-wetland-management-district",
+  "designationHistory": [
+    {
+      "date": "1961",
+      "action": "established",
+      "designation": "Wetland Management District",
+      "name": null,
+      "indexText": "Arrowwood Wetland Management District was established to acquire and protect waterfowl production areas in North Dakota.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Small Wetlands Acquisition Program (Migratory Bird Hunting and Conservation Stamp Act, as amended 1958)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Arrowwood Wetland Management District, About Us",
+          "url": "https://www.fws.gov/refuge/arrowwood/about-us"
+        },
+        {
+          "name": "USFWS, Disease Contingency Pan : Arrowwood National Wildlife Refuge Complex [DRAFT] (ServCat 85616): \"Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/214355"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Arrowwood NWR (1935), not the district. District: 1961 per FWS complex planning document. Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Arrowwood National Wildlife Refuge About Us What We Do Facility Services Law Enforcement Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies News Map About Us Established in 1935 as a refuge and breeding ground for migratory birds and other wildlife this 15,973-acre refuge is an important stopover for many species of birds as they journey north and south during annual migrati"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

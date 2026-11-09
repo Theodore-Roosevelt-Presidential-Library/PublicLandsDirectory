@@ -1,0 +1,183 @@
+{
+ "slug": "alaska-maritime-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1909-02-27",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Tuxedni Reservation",
+   "indexText": "Theodore Roosevelt signed Executive Order 1039 setting aside the Tuxedni Reservation in Cook Inlet as a preserve and breeding ground for native birds; it is now part of the Alaska Maritime refuge.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 1039",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": "The 1988 CCP lists Tuxedni Refuge as established February 27, 1909; the order's text and signature date are from the Wikisource transcription. Predecessor unit, not the establishment of Alaska Maritime itself.",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Alaska Maritime National Wildlife Refuge Final Comprehensive Conservation Plan, 1988 (ServCat 105957)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/105957"
+    },
+    {
+     "name": "Wikisource transcription of Executive Order 1039 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1039"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1909-02-27",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Saint Lazaria Reservation",
+   "indexText": "Theodore Roosevelt signed Executive Order 1040 setting aside the Saint Lazaria Reservation near Sitka as a preserve and breeding ground for native birds; it is now part of the Alaska Maritime refuge.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 1040",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": "Predecessor unit. CCP and order text agree on February 27, 1909.",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Alaska Maritime National Wildlife Refuge Final Comprehensive Conservation Plan, 1988 (ServCat 105957)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/105957"
+    },
+    {
+     "name": "Wikisource transcription of Executive Order 1040 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1040"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1909-02-27",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Pribilof Reservation",
+   "indexText": "Theodore Roosevelt signed Executive Order 1044 setting aside the Pribilof Reservation as a preserve and breeding ground for native birds; it is now part of the Alaska Maritime refuge.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 1044",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": "Predecessor unit. CCP and order text agree on February 27, 1909.",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Alaska Maritime National Wildlife Refuge Final Comprehensive Conservation Plan, 1988 (ServCat 105957)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/105957"
+    },
+    {
+     "name": "Wikisource transcription of Executive Order 1044 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1044"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1909-02-27",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Bering Sea Reservation",
+   "indexText": "Theodore Roosevelt signed Executive Order 1037 setting aside the Bering Sea Reservation as a preserve and breeding ground for native birds; it was later incorporated into the Alaska Maritime refuge.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 1037",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Wikisource transcription of Executive Order 1037 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1037"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1909-03",
+   "action": "established",
+   "designation": "Reservation",
+   "name": "Bogoslof Reservation",
+   "indexText": "Theodore Roosevelt signed Executive Order 1049 setting aside the Bogoslof islands in the Aleutians as a preserve and breeding ground for native birds; it is now part of the Alaska Maritime refuge.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Theodore Roosevelt",
+    "citation": "Executive Order 1049",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": "Sources disagree on the day: the 1988 CCP says March 2, 1909; the Wikisource transcription of the order is dated March 3, 1909. Check the original order (National Archives) before publishing a day.",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Alaska Maritime National Wildlife Refuge Final Comprehensive Conservation Plan, 1988 (ServCat 105957)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/105957"
+    },
+    {
+     "name": "Wikisource transcription of Executive Order 1049 (from a period government printing)",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_1049"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": false
+  },
+  {
+   "date": "1980-12-02",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Congress created the Alaska Maritime National Wildlife Refuge in the Alaska National Interest Lands Conservation Act, combining eleven existing refuges with about 460,000 acres of additional coastal islands and headlands.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": "Jimmy Carter",
+    "citation": "Alaska National Interest Lands Conservation Act, Public Law 96-487, sec. 303(1)",
+    "signedBy": "Jimmy Carter"
+   },
+   "note": "Act approved December 2, 1980 (statute text). Signer is the President in office on that date. Taft-era predecessors (Forrester Island, Hazy Islands, Chamisso, Aleutian Islands) and later ones (Semidi 1932, Simeonof 1958) were not separately verified.",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Alaska Maritime National Wildlife Refuge Final Comprehensive Conservation Plan, 1988 (ServCat 105957)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/105957"
+    },
+    {
+     "name": "Alaska National Interest Lands Conservation Act, Public Law 96-487, 94 Stat. 2371 (govinfo, U.S. Statutes at Large)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

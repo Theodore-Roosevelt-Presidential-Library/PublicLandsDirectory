@@ -1,0 +1,37 @@
+{
+  "slug": "lake-isom-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-08-12",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lake Isom Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Lake Isom Migratory Waterfowl Refuge in Lake and Obion Counties, Tennessee, by Executive Order 7953.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7953",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "A 2021 FWS compatibility determination (ServCat 136590) gives 'May 10, 1935' as the date established; that conflicts with the order itself and was not adopted. The 1935 date may reflect an earlier acquisition step (not verified).",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Lake Isom Migratory Waterfowl Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/136491"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7953",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7953-establishing-lake-isom-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

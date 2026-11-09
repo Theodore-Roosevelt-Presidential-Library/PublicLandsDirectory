@@ -1,0 +1,40 @@
+{
+  "slug": "black-coulee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-01-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Black Coulee Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Black Coulee Migratory Waterfowl Refuge by Executive Order 7801; it is now Black Coulee National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7801",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Black Coulee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/black-coulee/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7801—Establishing Black Coulee Migratory Waterfowl Refuge, Montana (Jan 28, 1938)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7801-establishing-black-coulee-migratory-waterfowl-refuge-montana"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 7801, 1938-01-28 (Franklin D. Roosevelt). Draft signer field held \"Executive Order Number\"; President is FDR.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Black Coulee National Wildlife Refuge was established in 1938 by Executive Order Number 7801 as “a refuge and breeding ground for migratory birds and other wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

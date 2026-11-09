@@ -1,0 +1,28 @@
+{
+  "slug": "cameron-prairie-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988-12-29",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cameron Prairie National Wildlife Refuge in southwest Louisiana was established by the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Ronald Reagan",
+        "citation": "Not confirmed",
+        "signedBy": null
+      },
+      "note": "FWS only, and the CCP is inconsistent: its 'Date Established' entry gives December 29, 1988, while the narrative refers to the refuge being established in 1989. Authority not extracted.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Cameron Prairie NWR Comprehensive Conservation Plan, 2006 (ServCat 168187)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168187"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

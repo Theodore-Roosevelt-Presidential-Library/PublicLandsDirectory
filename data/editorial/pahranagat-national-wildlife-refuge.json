@@ -1,0 +1,37 @@
+{
+ "slug": "pahranagat-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1963-08-16",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Pahranagat National Wildlife Refuge in Lincoln County, Nevada, was established to provide habitat for migratory birds, especially waterfowl.",
+   "authority": {
+    "type": "administrative",
+    "administration": "John F. Kennedy",
+    "citation": "Migratory Bird Conservation Act (per FWS)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Pahranagat NWR Compatibility Determination, Hunting (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133033"
+    },
+    {
+     "name": "FWS ServCat: Desert NWR Complex CCP (2009)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/7305"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

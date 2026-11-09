@@ -1,0 +1,41 @@
+{
+  "slug": "kanuti-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established the Kanuti National Wildlife Refuge, about 1.43 million acres of public land in interior Alaska, in the Alaska National Interest Lands Conservation Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Alaska National Interest Lands Conservation Act, Public Law 96-487, sec. 302(4), 94 Stat. 2371",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": "Signer inferred from the date (Carter was President in December 1980). FWS documents round the area to 1.6 million acres; the act says approximately 1,430,000 acres.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Kanuti NWR Compatibility Determination for Recreational Hunting (2008)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/79405"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - Kanuti National Wildlife Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/134135"
+        },
+        {
+          "name": "Public Law 96-487 (Dec. 2, 1980), 94 Stat. 2371, govinfo",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "lake-zahl-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lake Zahl Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the refuge as the Lake Zahl Migratory Waterfowl Refuge by Executive Order 8158.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8158",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed Lake Zahl National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Lake Zahl Migratory Waterfowl Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/137680"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8158",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8158-establishing-the-lake-zahl-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

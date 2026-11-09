@@ -1,6 +1,6 @@
 {
   "slug": "salem-maritime-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1938-03-17",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated March 17, 1938",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Secretarial order of March 17, 1938, 3 F.R. 787"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 65",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service (Vol. I, 1947 compilation of Secretarial orders)",
+          "url": "https://www.nps.gov/subjects/legal/nps-volume-1.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Salem Maritime National Historic Site by Secretarial order of March 17, 1938 (3 F.R. 787); FDR.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,0 +1,40 @@
+{
+  "slug": "sand-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-09-04",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Sand Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Sand Lake Migratory Waterfowl Refuge by Executive Order 7169 on September 4, 1935.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7169",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sand Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sand-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7169, Sept. 4, 1935, Establishing Sand Lake Migratory Waterfowl Refuge, South Dakota",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7169-establishing-sand-lake-migratory-waterfowl-refuge-south-dakota"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Huron Wetland Management District (1992). Sand Lake NWR dates to Sept. 4, 1935.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1992, the Huron Wetland Management District consists of an eight county area..."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "izembek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-12-06",
+      "action": "established",
+      "designation": "National Wildlife Range",
+      "name": "Izembek National Wildlife Range",
+      "indexText": "Secretary of the Interior Fred A. Seaton signed Public Land Order 2216 establishing the Izembek National Wildlife Range on the Alaska Peninsula as a refuge, breeding ground and management area for wildlife.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Land Order 2216 (Federal Register, Dec. 9, 1960)",
+        "signedBy": null
+      },
+      "note": "The FWS CCP says ANILCA (1980) renamed the range Izembek National Wildlife Refuge; that step was not separately verified here.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Izembek NWR Final Comprehensive Conservation Plan (1985)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/33888"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - Izembek National Wildlife Range",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/134049"
+        },
+        {
+          "name": "Federal Register, Dec. 9, 1960, Public Land Order 2216",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1960-12-09/pdf/FR-1960-12-09.pdf"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,6 +1,6 @@
 {
   "slug": "pennsylvania-avenue",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1965-09-30",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated Sept. 30, 1965",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "Secretarial order of Sept. 30, 1965"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 44",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Pennsylvania Avenue, Secretarial order of Sept. 30, 1965",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretary Udall designated the Pennsylvania Avenue National Historic Site Sept. 30, 1965; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,43 @@
 {
   "slug": "lyndon-b-johnson-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1969-12-02",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "The President and First Lady are buried on the ranch Authorized as a national historic site Dec. 2, 1969",
+      "indexText": "Authorized as a national historic site Dec. 2, 1969",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 91-134, 83 Stat. 274"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 91-134, 83 Stat. 274, act to establish the Lyndon B. Johnson National Historic Site, approved Dec. 2, 1969",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-83/pdf/STATUTE-83-Pg274-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410kk, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410kk&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, act and President (Nixon) are right; the draft text carried a stray sentence from the Index description, now trimmed.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The President and First Lady are buried on the ranch Authorized as a national historic site Dec. 2, 1969"
     },
     {
       "date": "1980-12-28",
@@ -31,20 +46,34 @@
       "name": null,
       "indexText": "Redesignated a national historical park Dec. 28, 1980",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 96-607, title VI, 94 Stat. 3540"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 96-607, 94 Stat. 3539, act approved Dec. 28, 1980",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3539.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410kk, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410kk&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 96-607, title VI, redesignated it Lyndon B. Johnson National Historical Park; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

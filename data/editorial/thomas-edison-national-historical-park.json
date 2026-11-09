@@ -1,6 +1,6 @@
 {
   "slug": "thomas-edison-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1955-12-06",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated as Edison Home National Historic Site Dec. 6, 1955",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Secretarial order of Dec. 6, 1955, 20 F.R. 9347"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Edison Home, Secretarial order of Dec. 6, 1955, 20 F.R. 9347",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Edison Home National Historic Site by Secretarial order of Dec. 6, 1955 (20 F.R. 9347); Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1956-07-14",
@@ -34,39 +44,68 @@
         "type": "presidential-proclamation",
         "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Proclamation 3148, 70 Stat. c49"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 3148, 70 Stat. c49, Establishing the Edison Laboratory National Monument, July 14, 1956",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-PgC49.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3148, July 14, 1956",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3148-establishing-the-edison-laboratory-national-monument-new-jersey"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 3148; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1962-09-05",
+      "date": "1962-09-06",
       "action": "redesignated",
       "designation": null,
       "name": null,
-      "indexText": "Areas combined as Edison National Historic Site Sept. 5, 1962",
+      "indexText": "Areas combined as Edison National Historic Site Sept. 6, 1962",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-628, 76 Stat. 428"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 87-628, 76 Stat. 428, act to change the names of the Edison Home NHS and Edison Laboratory NM, approved Sept. 6, 1962",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg428-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410mmm, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410mmm&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: P.L. 87-628 (S. 2916), which combined the two areas as Edison National Historic Site, was approved Sept. 6, 1962, not Sept. 5 (the preceding law on the same Statutes page was approved Sept. 5). JFK either way.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Areas combined as Edison National Historic Site Sept. 5, 1962"
     },
     {
       "date": "2009-03-30",
@@ -75,20 +114,34 @@
       "name": null,
       "indexText": "Renamed and redesignated Thomas Edison National Historical Park March 30, 2009",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 111-11, title VII, sec. 7110, 123 Stat. 1198"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410mmm, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410mmm&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 111-11, sec. 7110 renamed and redesignated it Thomas Edison National Historical Park; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

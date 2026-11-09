@@ -1,0 +1,76 @@
+{
+  "slug": "norbeck-wildlife-preserve-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1920-10-09",
+      "action": "established",
+      "designation": "Game Sanctuary",
+      "name": "Custer State Park Game Sanctuary",
+      "indexText": "President Wilson designated lands of the Harney National Forest next to Custer State Park, South Dakota, as the Custer State Park Game Sanctuary.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Woodrow Wilson",
+        "citation": "Proclamation of Oct. 9, 1920, 41 Stat. 1805 (under Act of June 5, 1920, 41 Stat. 986)",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": "The Act of June 5, 1920 authorized the President to designate the sanctuary; the proclamation made the designation. Enlargements in 1925 and 1929 are boundary changes.",
+      "sources": [
+        {
+          "name": "Proclamation of Oct. 9, 1920, 41 Stat. 1805 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1805.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1576, Setting Aside Custer State Park Game Sanctuary, South Dakota",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1576-setting-aside-custer-state-park-game-sanctuary-south-dakota"
+        },
+        {
+          "name": "Act of June 5, 1920, ch. 247, 41 Stat. 986 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg986.pdf"
+        },
+        {
+          "name": "16 U.S.C. 675 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/675"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1949-10-06",
+      "action": "renamed",
+      "designation": "Wildlife Preserve",
+      "name": "Norbeck Wildlife Preserve",
+      "indexText": "Congress renamed the Custer State Park Game Sanctuary in the Harney National Forest the Norbeck Wildlife Preserve.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Harry S. Truman",
+        "citation": "Public Law 81-326, ch. 620, 63 Stat. 708",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 81-326, 63 Stat. 708 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg708-2.pdf"
+        },
+        {
+          "name": "16 U.S.C. 675 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/675"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "long-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-02-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Long Lake Migratory Bird Refuge",
+      "indexText": "Established Feb. 25, 1932, as the Long Lake Migratory Bird Refuge by Executive Order 5808, signed by President Herbert Hoover.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5808",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Long Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/long-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5808, Feb. 25, 1932 (lands in Burleigh and Kidder counties, N. Dak.; APP title misprints \"North Carolina\")",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5808-long-lake-migratory-bird-refuge-north-carolina-enlarged"
+        },
+        {
+          "name": "Federal Register: Long Lake NWR Complex notice, July 10, 2006 (established Feb. 25, 1932, by Hoover through Executive Order)",
+          "url": "https://www.federalregister.gov/documents/2006/07/10/E6-10705/long-lake-national-wildlife-refuge-complex-moffit-nd"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Long Lake NWR Complex (EO 5808)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108516"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed. EO 5808 describes its lands as an addition to a refuge \"being acquired\" under the Migratory Bird Conservation Act; FWS treats it as the establishing order.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established on February 25, 1932 by President Herbert Hoover to provide sanctuary and habitat for migratory birds that use the Central Flyway migration corridor."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

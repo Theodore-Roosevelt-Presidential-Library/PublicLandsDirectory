@@ -1,0 +1,39 @@
+{
+  "slug": "sunkhaze-meadows-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established administratively in 1988 to protect the Sunkhaze Meadows peat bog and its wetland, stream and forest habitats.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sunkhaze Meadows National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sunkhaze-meadows/about-us"
+        },
+        {
+          "name": "Federal Register, Mar. 18, 2011 (2011-6373): Sunkhaze Meadows NWR \"was established in 1988 to ensure the ecological integrity of the Sunkhaze Meadows peat bog\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2011-03-18/pdf/2011-6373.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sunkhaze Meadows NWR was established administratively in 1988 to ensure the ecological integrity of the Sunkhaze Meadows Unit peat bog and to conserve wetland, stream, and forest habitats, and associated wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

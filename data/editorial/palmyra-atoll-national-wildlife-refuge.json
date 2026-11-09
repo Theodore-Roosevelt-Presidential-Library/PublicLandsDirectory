@@ -1,0 +1,39 @@
+{
+  "slug": "palmyra-atoll-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001-01-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established on January 18, 2001, by the Secretary of the Interior, combining land bought from The Nature Conservancy with submerged lands and waters out to 12 nautical miles transferred by Secretarial Order.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Secretarial Order transferring jurisdiction from the Office of Insular Affairs; Endangered Species Act and Fish and Wildlife Act authority"
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Palmyra Atoll National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/palmyra-atoll/about-us"
+        },
+        {
+          "name": "Federal Register, Jan. 24, 2001 (01-1946): notice establishing Palmyra Atoll National Wildlife Refuge; jurisdiction over submerged lands transferred by Secretarial Order, FONSI signed Jan. 17, 2001",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2001-01-24/pdf/01-1946.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative action by the Secretary of the Interior, not a presidential order; administration Clinton.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in January 18, 2001, by the Secretary of the Interior and included submerged lands and associated waters out to 12 nautical miles from the atoll."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

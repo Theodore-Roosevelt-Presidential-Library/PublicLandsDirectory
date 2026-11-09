@@ -1,6 +1,6 @@
 {
   "slug": "obed-wild-and-scenic-river",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1976-10-12",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 94-486, title III, 90 Stat. 2327"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 94-486, 90 Stat. 2327, act amending the Wild and Scenic Rivers Act, title III (Obed), approved Oct. 12, 1976",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2327.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1274, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1274&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 94-486, title III; Ford.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

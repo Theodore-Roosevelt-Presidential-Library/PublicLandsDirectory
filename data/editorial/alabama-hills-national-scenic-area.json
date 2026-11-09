@@ -1,0 +1,37 @@
+{
+  "slug": "alabama-hills-national-scenic-area",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "established",
+      "designation": "National Scenic Area",
+      "name": null,
+      "indexText": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Alabama Hills National Scenic Area in Inyo County, California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, title I, sec. 1441 (adding title XIV, sec. 1402, to Public Law 103-433), 133 Stat. 701, 706",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": "Enacted as a new title XIV of the California Desert Protection Act of 1994; the BLM unit page gives no designation date.",
+      "sources": [
+        {
+          "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "16 U.S.C. 460ffff-1 and source credit (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ffff-1"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

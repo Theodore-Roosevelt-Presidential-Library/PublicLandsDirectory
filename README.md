@@ -115,6 +115,15 @@ See [docs/RESEARCH.md](docs/RESEARCH.md).
 
 Views: `card` (default), `compact`, `alerts`, `history`, `map`, `roosevelt`. Theme: `theme="dark"`.
 
+The whole directory (search, results and every full site page, without the Library's banner):
+
+```html
+<script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
+<public-lands-directory state="ND" tr="any"></public-lands-directory>
+```
+
+Optional starting points: `search`, `agency`, `state`, `category`, `tr` (`any`, `protected`, `visited`, `both`), `activity`, `view="map"`, or `site="<slug>"` to open on one site. The frame sizes itself to its content (`min-height` sets the floor). The page a reader is on is kept in the host URL as `?pl-dir=…`, so links, reloads and the back button return to it. It fires a `navigate` event with `{path, title}`. Any directory page also works in a plain iframe with `?embed=1`, at a fixed height. Sample page: `/embed/directory-demo.html`.
+
 A map of many places:
 
 ```html

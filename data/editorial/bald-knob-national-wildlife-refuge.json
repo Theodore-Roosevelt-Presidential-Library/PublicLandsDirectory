@@ -1,0 +1,39 @@
+{
+  "slug": "bald-knob-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993-09-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Bald Knob National Wildlife Refuge as a satellite of Cache River National Wildlife Refuge to provide habitat for migratory waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bald Knob National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bald-knob/about-us"
+        },
+        {
+          "name": "USFWS, Environmental Assessment and Forest Habitat Management Plan Cache River and Bald Knob National Wildlife Refuges (ServCat 152673): \"Bald Knob NWR was established as a satellite of Cache River NWR on September 22, 1993\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/230283"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Sept. 22, 1993 (Cache River forest habitat management plan EA).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bald Knob in White County, Arkansas, was established in 1993 to protect and provide feeding and resting areas for migratory waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

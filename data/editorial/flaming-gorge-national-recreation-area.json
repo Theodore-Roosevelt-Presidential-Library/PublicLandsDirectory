@@ -1,0 +1,37 @@
+{
+  "slug": "flaming-gorge-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1968-10-01",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Flaming Gorge National Recreation Area in Utah and Wyoming.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 90-540, sec. 1, 82 Stat. 904",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 90-540, 82 Stat. 904 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg904.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460v (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460v"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

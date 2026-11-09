@@ -1,0 +1,44 @@
+{
+  "slug": "mandalay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1996-05-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established May 2, 1996, with the purchase of 4,416 acres of marsh and swamp near Houma, Louisiana.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act; Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Mandalay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mandalay/about-us"
+        },
+        {
+          "name": "Federal Register: Mandalay NWR notice, Dec. 16, 2009 (established May 2, 1996)",
+          "url": "https://www.federalregister.gov/documents/2009/12/16/E9-29866/mandalay-national-wildlife-refuge-terrebonne-parish-la"
+        },
+        {
+          "name": "FWS ServCat: Mandalay NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168214"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Bayou Teche NWR sentence (2001). Mandalay NWR dates from May 2, 1996.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "A Bayou Teche National Wildlife Refuge Located in the heart of the “Cajun Coast,” Bayou Teche National Wildlife Refuge, established in 2001, sits along Bayou Teche, an ancient channel of the Mississippi River."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

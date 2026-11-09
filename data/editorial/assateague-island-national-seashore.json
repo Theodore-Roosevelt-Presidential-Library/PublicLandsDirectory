@@ -1,6 +1,6 @@
 {
   "slug": "assateague-island-national-seashore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1965-09-21",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 89-195, 79 Stat. 824"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 59",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 79 Stat. 824 (govinfo): P.L. 89-195, Sept. 21, 1965",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg824.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 459f, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 89-195; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

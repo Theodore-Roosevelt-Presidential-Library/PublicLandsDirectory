@@ -1,6 +1,6 @@
 {
   "slug": "palo-alto-battlefield-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1978-11-10",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 95-625, title V, sec. 506, 92 Stat. 3500"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410nnn–1, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410nnn-1&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978, sec. 506 authorized Palo Alto Battlefield National Historic Site; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2009-03-30",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Redesignated a national historical park March 30, 2009",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 111-11, title VII, sec. 7113, 123 Stat. 1201"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410nnn, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410nnn&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 111-11, sec. 7113 redesignated it a national historical park; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

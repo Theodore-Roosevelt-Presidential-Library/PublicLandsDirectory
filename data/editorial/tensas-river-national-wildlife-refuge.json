@@ -1,0 +1,44 @@
+{
+  "slug": "tensas-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-06-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established Tensas River National Wildlife Refuge by an act approved by President Jimmy Carter on June 28, 1980 (Public Law 96-285).",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-285",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tensas River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tensas-river/about-us"
+        },
+        {
+          "name": "American Presidency Project: Acts Approved by the President, June 28, 1980, listing H.R. 6022, Public Law 96-285, \"An act to establish the Tensas River National Wildlife Refuge\"",
+          "url": "https://www.presidency.ucsb.edu/documents/acts-approved-the-president-316"
+        },
+        {
+          "name": "Federal Register, Sept. 8, 2006 (06-7503): \"Congress authorized the establishment of the refuge in June 1980\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-09-08/pdf/06-7503.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; statute, date and signer added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Tensas River National Wildlife Refuge was established in 1980 “For the preservation and development of the environmental resources ... to conserve the diversity of fish and wildlife and their habitat ... for the conservation and development of wildlife and natural resources, the development of outdoor recreation opportunities, and interpretative education,” and “to give special consideration to ma"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

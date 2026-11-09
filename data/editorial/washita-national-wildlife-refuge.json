@@ -1,0 +1,43 @@
+{
+  "slug": "washita-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1961",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1961 under the Fish and Wildlife Coordination Act on the upper end of the Bureau of Reclamation's Foss Reservoir, as a resting and feeding area for migrating waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Fish and Wildlife Coordination Act (overlay of Bureau of Reclamation land)"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Washita National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/washita/about-us"
+        },
+        {
+          "name": "Encyclopedia of Oklahoma History and Culture: Washita National Wildlife Refuge (\"Created in 1961 on the northwest portion of the Foss Reservoir\")",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=WA036"
+        },
+        {
+          "name": "FWS news release, Apr. 27, 1961: Secretary Udall announced the new Washita National Wildlife Refuge at Foss Reservoir",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1961/19610427B.PDF"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Washita National Wildlife Refuge was established in 1961 under the Fish & Wildlife Coordination Act primarily to provide a resting and feeding area for migrating and wintering waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

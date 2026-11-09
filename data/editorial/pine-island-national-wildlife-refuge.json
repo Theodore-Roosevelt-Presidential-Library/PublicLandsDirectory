@@ -1,0 +1,48 @@
+{
+  "slug": "pine-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-09-15",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Pine Island Reservation",
+      "indexText": "President Theodore Roosevelt established the Pine Island Reservation by Executive Order 939 on September 15, 1908, as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 939",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pine Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pine-island/about-us"
+        },
+        {
+          "name": "Wikisource: Executive Order 939, Sept. 15, 1908, Establishing Pine Island Reservation in Florida as Preserve and Breeding Ground for Native Birds",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_939"
+        },
+        {
+          "name": "T. S. Palmer, National Reservations for the Protection of Wild Life, USDA Biological Survey Circular 87 (1912), table of bird reservations",
+          "url": "https://archive.org/details/CAT31414456"
+        },
+        {
+          "name": "American Presidency Project / Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft described Caloosahatchee NWR (Wilson, 1920, EO 3299), a different refuge. Pine Island itself is a TR reservation of Sept. 15, 1908; renamed Pine Island NWR by Proclamation 2416 (1940).",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established by President Woodrow Wilson on July 1, 1920 as a \". . . preserve and breeding ground for native birds.\" Originally, the Caloosahatchee National Wildlife Refuge consisted of several mangrove islands."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

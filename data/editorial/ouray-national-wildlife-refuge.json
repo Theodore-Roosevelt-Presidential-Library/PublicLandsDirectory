@@ -1,0 +1,32 @@
+{
+  "slug": "ouray-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-05-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Ouray National Wildlife Refuge on the Green River in Utah was established under the Migratory Bird Conservation Act, with land acquisition beginning in late 1960.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Migratory Bird Conservation Act; Public Land Order 2730 (per FWS CCP)",
+        "signedBy": null
+      },
+      "note": "FWS sources disagree: the 2000 CCP gives May 25, 1960 (MBCA and PLO 2730), while the 2021 compatibility determination lists MBCC 1965 and PLO 4973 (December 11, 1970) as establishing authorities. PLO 2730 in the 1960 Federal Register would settle it.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Ouray NWR Comprehensive Conservation Plan (2000): established May 25, 1960",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1529"
+        },
+        {
+          "name": "FWS ServCat: Ouray NWR Compatibility Determination, Hunting (2021): MBCC 1965; PLO 4973, Dec. 11, 1970",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143003"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

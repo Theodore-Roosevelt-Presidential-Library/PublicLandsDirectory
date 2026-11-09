@@ -1,6 +1,6 @@
 {
   "slug": "grant-kohrs-ranch-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1972-08-25",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-406, 86 Stat. 632"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 86 Stat. 632 (govinfo): P.L. 92-406, approved Aug. 25, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg632-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-406; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

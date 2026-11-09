@@ -1,0 +1,1624 @@
+{
+  "african-american-civil-war-memorial": {
+    "events": [
+      {
+        "date": "1992-10-14",
+        "action": "authorized",
+        "designation": "memorial",
+        "name": null,
+        "text": "Congress authorized the District of Columbia government to build a memorial on federal land to African Americans who served with Union forces in the Civil War.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 102-412 (H.J. Res. 320), 106 Stat. 2104",
+          "president": "George H. W. Bush"
+        },
+        "sources": [
+          {
+            "name": "Public Law 102-412, 106 Stat. 2104 (govinfo, Statutes at Large)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2104.pdf"
+          },
+          {
+            "name": "40 U.S.C. 8903 notes (Cornell LII), 'African-Americans Civil War Union Memorial'",
+            "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+          },
+          {
+            "name": "Congressional Record Index 1992, Civil War entries for H.J. Res. 320 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/CRI-1992/html/CRI-1992-CIVIL-WAR-U-S.htm"
+          },
+          {
+            "name": "Rep. Eleanor Holmes Norton press release, July 17, 2018",
+            "url": "https://norton.house.gov/media-center/press-releases/norton-to-speak-at-20th-anniversary-celebration-of-african-american"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ],
+    "note": "NPS says the memorial was dedicated in 1998 and transferred to the National Park Service in 2004; no transfer instrument or exact date was found, so that event is not listed. NPS manages it as part of National Mall and Memorial Parks."
+  },
+  "alaska-public-lands": {
+    "events": [],
+    "note": "Unresolved. The Alaska Public Lands Information Centers are not a separate park unit. ANILCA (Public Law 96-487, Dec. 2, 1980) sec. 1305 only authorized the Secretary to investigate and plan information centers and said none could be developed without further specific authorization; no establishing action for the centers was found."
+  },
+  "alcatraz-island": {
+    "events": [
+      {
+        "date": "1972-10-27",
+        "action": "established",
+        "designation": "part of Golden Gate National Recreation Area",
+        "name": null,
+        "text": "Congress established Golden Gate National Recreation Area, and Alcatraz Island came under the National Park Service as part of it.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 92-589, 86 Stat. 1299",
+          "president": "Richard Nixon"
+        },
+        "sources": [
+          {
+            "name": "Public Law 92-589, 86 Stat. 1299 (govinfo, Statutes at Large)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1299.pdf"
+          },
+          {
+            "name": "NPS History Collection, Alcatraz Island (1976 NPS brochure chronology and establishment date)",
+            "url": "https://npshistory.com/publications/alca/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act does not name Alcatraz in its text; the island is included through the boundary map and the transfer of federal property within the boundary (sec. 3(a)). The 1976 NPS brochure says the bill included Alcatraz as a unit."
+      }
+    ]
+  },
+  "amache-national-historic-site": {
+    "events": [
+      {
+        "date": "2022-03-18",
+        "action": "authorized",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "Congress passed the Amache National Historic Site Act, which provided for the site to become a unit of the National Park System once enough land was acquired.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 117-106, 136 Stat. 1122",
+          "president": "Joseph R. Biden Jr."
+        },
+        "sources": [
+          {
+            "name": "Public Law 117-106 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ106/html/PLAW-117publ106.htm"
+          },
+          {
+            "name": "NPS, Amache Laws & Policies (park history)",
+            "url": "https://www.nps.gov/amch/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2024-02-15",
+        "action": "established",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "The Secretary of the Interior formally established Amache National Historic Site after the Town of Granada acquired and donated the needed land.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (Feb. 9, 2024); notice of establishment, 89 FR 12379 (Feb. 16, 2024)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice, Amache National Historic Site, 89 FR 12379 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2024-02-16/html/2024-03250.htm"
+          },
+          {
+            "name": "Department of the Interior press release, Feb. 15, 2024",
+            "url": "https://www.doi.gov/pressreleases/amache-national-historic-site-formally-established-americas-newest-national-park"
+          },
+          {
+            "name": "NPS, Amache Laws & Policies (park history)",
+            "url": "https://www.nps.gov/amch/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Interior and NPS give Feb. 15, 2024. The Federal Register notice says the Secretary signed the decision memorandum Feb. 9 and that the site is established with the memo and the notice, which was published Feb. 16."
+      }
+    ]
+  },
+  "anacostia-park": {
+    "events": [
+      {
+        "date": "1918-08-31",
+        "action": "designated",
+        "designation": "park (District of Columbia park system)",
+        "name": null,
+        "text": "Congress declared the reclaimed Anacostia River flats part of the District of Columbia park system and named them Anacostia Park.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Act of Aug. 31, 1918, ch. 164 (Public No. 208, 65th Cong.), 40 Stat. 918, 950",
+          "president": "Woodrow Wilson"
+        },
+        "sources": [
+          {
+            "name": "District of Columbia appropriations act, Aug. 31, 1918, 40 Stat. 918 (Anacostia Park proviso at p. 950) (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg918.pdf#page=33"
+          },
+          {
+            "name": "D.C. Code sec. 10-155, Anacostia Park (D.C. Council)",
+            "url": "https://code.dccouncil.gov/us/dc/council/code/sections/10-155"
+          },
+          {
+            "name": "NPS History Collection, Anacostia Park (establishment 1918)",
+            "url": "https://npshistory.com/publications/anac/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The designation is a proviso in an appropriations act, not a stand-alone park law."
+      },
+      {
+        "date": "1933-08-10",
+        "action": "transferred",
+        "designation": null,
+        "name": null,
+        "text": "Executive Order 6166 moved the parks of the National Capital, including Anacostia Park, to the Interior Department's national park office.",
+        "authority": {
+          "type": "executive-order",
+          "citation": "Executive Order 6166 (June 10, 1933), effective 61 days later",
+          "president": "Franklin D. Roosevelt"
+        },
+        "sources": [
+          {
+            "name": "Executive Order 6166, American Presidency Project",
+            "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016, National Capital Parks-East (p. 43)",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The order was signed June 10, 1933 and took effect 61 days later (Aug. 10). It applied to all National Capital parks, not Anacostia alone."
+      }
+    ]
+  },
+  "baltimore-washington-parkway": {
+    "events": [
+      {
+        "date": "1950-08-03",
+        "action": "authorized",
+        "designation": "Parkway",
+        "name": null,
+        "text": "Congress made the Baltimore-Washington Parkway part of the park system of the National Capital and placed it under the National Park Service.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Act of Aug. 3, 1950, ch. 525 (Public Law 81-643), 64 Stat. 400",
+          "president": "Harry S. Truman"
+        },
+        "sources": [
+          {
+            "name": "64 Stat. 400, Public Law 643 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-Pg400.pdf"
+          },
+          {
+            "name": "NPS History Collection, Baltimore-Washington Parkway",
+            "url": "https://npshistory.com/publications/bawa/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The parkway opened to traffic in October 1954 (NPS History Collection)."
+      }
+    ]
+  },
+  "blackstone-river-valley-national-historical-park": {
+    "events": [
+      {
+        "date": "2014-12-19",
+        "action": "established",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress established Blackstone River Valley National Historical Park in Massachusetts and Rhode Island in the defense authorization act for 2015.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 113-291, sec. 3031, 128 Stat. 3767",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 113-291 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 93)",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act says the park 'is established'; the NPS Index lists it as 'authorized' on the same date. The John H. Chafee Blackstone River Valley National Heritage Corridor (1986) is a separate heritage-area designation and is not listed here."
+      }
+    ]
+  },
+  "blackwell-school-national-historic-site": {
+    "events": [
+      {
+        "date": "2022-10-17",
+        "action": "authorized",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "Congress passed the Blackwell School National Historic Site Act, which provided for the Marfa school to become a park unit once the land was acquired.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 117-206, 136 Stat. 2236",
+          "president": "Joseph R. Biden Jr."
+        },
+        "sources": [
+          {
+            "name": "Public Law 117-206 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ206/html/PLAW-117publ206.htm"
+          },
+          {
+            "name": "NPS, Blackwell School Laws & Policies (enabling legislation)",
+            "url": "https://www.nps.gov/blsc/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2024-07-17",
+        "action": "established",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "The Secretary of the Interior formally established Blackwell School National Historic Site after the Marfa school district agreed to donate the site.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (July 17, 2024); notice of establishment, 89 FR 59771 (July 23, 2024)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice, Blackwell School National Historic Site, 89 FR 59771 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2024-07-23/html/2024-16073.htm"
+          },
+          {
+            "name": "Department of the Interior press release, July 17, 2024",
+            "url": "https://www.doi.gov/pressreleases/biden-harris-administration-establishes-blackwell-school-national-historic-site"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The Federal Register notice was published July 23, 2024; the decision memorandum and Interior's announcement are dated July 17."
+      }
+    ]
+  },
+  "butterfield-overland-national-historic-trail": {
+    "events": [
+      {
+        "date": "2023-01-05",
+        "action": "designated",
+        "designation": "National Historic Trail",
+        "name": null,
+        "text": "Congress designated the Butterfield Overland National Historic Trail by amending the National Trails System Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 117-345, 136 Stat. 6196",
+          "president": "Joseph R. Biden Jr."
+        },
+        "sources": [
+          {
+            "name": "Public Law 117-345 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ345/html/PLAW-117publ345.htm"
+          },
+          {
+            "name": "NPS, Butterfield Overland NHT Management page",
+            "url": "https://www.nps.gov/buov/learn/management/index.htm"
+          },
+          {
+            "name": "NPS History Collection, Butterfield Overland NHT",
+            "url": "https://npshistory.com/publications/buov/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The NPS page gives the year (2023); the day comes from the statute."
+      }
+    ]
+  },
+  "cape-henry-memorial-part-of-colonial-national-historical-park": {
+    "events": [
+      {
+        "date": "1938-06-15",
+        "action": "authorized",
+        "designation": "part of Colonial National Historical Park",
+        "name": null,
+        "text": "Congress authorized the Secretary of War to transfer the Cape Henry Memorial site at Fort Story to the Interior Department, to be kept by the National Park Service as part of Colonial National Historical Park.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Joint resolution of June 15, 1938, ch. 404 (Pub. Res. No. 110, 75th Cong., S.J. Res. 243), 52 Stat. 695",
+          "president": "Franklin D. Roosevelt"
+        },
+        "sources": [
+          {
+            "name": "52 Stat. 695-696, Cape Henry Memorial joint resolution (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg696-2.pdf"
+          },
+          {
+            "name": "NPS Cultural Landscapes Inventory: Cape Henry Memorial (2023), chronology",
+            "url": "https://npshistory.com/publications/came/cli.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The CLI chronology gives June 15, 1938, matching the statute, but its narrative elsewhere cites 'P.L. 75-753, 52 Stat. 1208' (June 28, 1938), which is a Colonial NHP boundary act, not the Cape Henry transfer. The date the War Department actually transferred the land was not found."
+      }
+    ],
+    "note": "The memorial cross was dedicated April 26, 1935 (NPS History Collection); that is not a designation and is not listed."
+  },
+  "capitol-hill-parks": {
+    "events": [],
+    "note": "Unresolved. Capitol Hill Parks is a management grouping of small federal reservations that trace to the original plan of Washington; NPS cites the Residence Act of July 16, 1790 (1 Stat. 130) as their origin. No action designating 'Capitol Hill Parks' as such was found. The reservations passed to the Interior Department with the other National Capital parks under Executive Order 6166 (effective Aug. 10, 1933)."
+  },
+  "chesapeake-bay": {
+    "events": [],
+    "note": "Unresolved. 'Chesapeake Bay' is the NPS Chesapeake Bay office and program, not a park unit. Its main program authority is the Chesapeake Bay Initiative Act of 1998 (Public Law 105-312, title V), which created the Chesapeake Bay Gateways and Watertrails Network; that act did not establish a unit named Chesapeake Bay."
+  },
+  "civil-war-defenses-of-washington": {
+    "events": [],
+    "note": "Unresolved. Civil War Defenses of Washington is an interpretive grouping of fort sites held in several NPS units (National Capital Parks-East, Rock Creek Park, George Washington Memorial Parkway). Many were acquired under the Capper-Cramton Act of 1930, but no action establishing the grouping itself was found."
+  },
+  "coltsville-national-historical-park": {
+    "events": [
+      {
+        "date": "2014-12-19",
+        "action": "authorized",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress provided for Coltsville National Historical Park in Hartford, to be established once the Secretary of the Interior finds that required land and space donations are in place.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 113-291, sec. 3032, 128 Stat. 3770",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 113-291 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 116), 'Authorized Dec. 19, 2014'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Sec. 3032(b)(2) delays establishment until the Secretary makes a determination and publishes notice in the Federal Register. A search of the Federal Register API for 'Coltsville' (Nov. 2026) found no notice of establishment."
+      }
+    ],
+    "note": "The NPS History Collection gives Dec. 12, 2014, which is not the signing date; the statute is dated Dec. 19, 2014."
+  },
+  "curecanti-national-recreation-area": {
+    "events": [
+      {
+        "date": "1965-02-11",
+        "action": "established",
+        "designation": "National Recreation Area",
+        "name": null,
+        "text": "The National Park Service and the Bureau of Reclamation signed a memorandum of agreement placing the Curecanti reservoir lands under National Park Service management as a national recreation area.",
+        "authority": {
+          "type": "administrative",
+          "citation": "Memorandum of Agreement between the National Park Service and the Bureau of Reclamation, Feb. 11, 1965"
+        },
+        "sources": [
+          {
+            "name": "NPS, Curecanti Laws & Policies (Memorandum of Agreement)",
+            "url": "https://www.nps.gov/cure/learn/management/lawsandpolicies.htm"
+          },
+          {
+            "name": "Senate Report 118-231 (govinfo), describing the 1965 Memorandum of Agreement",
+            "url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt231/html/CRPT-118srpt231.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 38)",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The agreement itself was not found online. The day (Feb. 11) comes from NPS; the Senate report gives the year. Congress has not passed a law establishing the area; boundary bills (for example the CORE Act) were still pending."
+      }
+    ]
+  },
+  "desert-shield-and-desert-storm-memorial": {
+    "events": [
+      {
+        "date": "2014-12-19",
+        "action": "authorized",
+        "designation": "memorial",
+        "name": "National Desert Storm and Desert Shield Memorial",
+        "text": "Congress authorized the National Desert Storm Memorial Association to build a memorial on federal land in Washington, D.C., to those who served in Operations Desert Storm and Desert Shield.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 113-291, sec. 3093, 128 Stat. 3879",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 113-291 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+          },
+          {
+            "name": "40 U.S.C. 8903 notes (Cornell LII), commemorative works list",
+            "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+          },
+          {
+            "name": "NPS History Collection, Desert Storm and Desert Shield Memorial (timeline)",
+            "url": "https://npshistory.com/publications/dsds/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "A 2017 law (Public Law 115-18) approved a site near the National Mall; that is a siting action, not a designation, and is not listed. The memorial association changed the name's word order in December 2022; no government action on the name was found."
+      },
+      {
+        "date": "2026-10-24",
+        "action": "established",
+        "designation": "memorial",
+        "name": null,
+        "text": "The Desert Shield and Desert Storm Memorial was dedicated and joined the National Park System.",
+        "authority": {
+          "type": "administrative",
+          "citation": "Dedication and acceptance into the National Park System, Oct. 24, 2026"
+        },
+        "sources": [
+          {
+            "name": "Department of the Interior press release, Oct. 24, 2026",
+            "url": "https://www.doi.gov/pressreleases/department-interior-and-national-park-service-welcome-desert-shield-and-desert-storm"
+          },
+          {
+            "name": "NPS History Collection, Desert Storm and Desert Shield Memorial (from NPS website, Oct. 2026)",
+            "url": "https://npshistory.com/publications/dsds/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "No separate transfer instrument was found; the date is the dedication and Interior's announcement."
+      }
+    ]
+  },
+  "dwight-d-eisenhower-memorial": {
+    "events": [
+      {
+        "date": "1999-10-25",
+        "action": "authorized",
+        "designation": "memorial",
+        "name": null,
+        "text": "Congress created the Dwight D. Eisenhower Memorial Commission to plan a permanent memorial to Eisenhower, in the defense appropriations act for 2000.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 106-79, title VIII, sec. 8162, 113 Stat. 1274",
+          "president": "Bill Clinton"
+        },
+        "sources": [
+          {
+            "name": "Public Law 106-79 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ79/html/PLAW-106publ79.htm"
+          },
+          {
+            "name": "40 U.S.C. 8903 notes (Cornell LII), 'Dwight D. Eisenhower Memorial'",
+            "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "An NPS brochure text (NPS History Collection) says the commission was established by Congress in 2000; the law was signed Oct. 25, 1999, as part of fiscal year 2000 appropriations."
+      },
+      {
+        "date": "2020-09-17",
+        "action": "transferred",
+        "designation": "memorial",
+        "name": null,
+        "text": "The Dwight D. Eisenhower Memorial was dedicated and the National Park Service took over its operation from the memorial commission.",
+        "authority": {
+          "type": "administrative",
+          "citation": "Dedication and handover to the National Park Service, Sept. 17, 2020"
+        },
+        "sources": [
+          {
+            "name": "Eisenhower Memorial Commission news release on the dedication (PR Newswire)",
+            "url": "https://www.prnewswire.com/news-releases/dedication-event-marks-opening-of-the-new-dwight-d-eisenhower-memorial-301133794.html"
+          },
+          {
+            "name": "NPS History Collection, Dwight D. Eisenhower Memorial (establishment Sept. 17, 2020)",
+            "url": "https://npshistory.com/publications/ddem/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "effigy-mounds-national-monument": {
+    "events": [
+      {
+        "date": "1949-10-25",
+        "action": "established",
+        "designation": "National Monument",
+        "name": null,
+        "text": "President Truman proclaimed Effigy Mounds National Monument in northeastern Iowa under the Antiquities Act.",
+        "authority": {
+          "type": "presidential-proclamation",
+          "citation": "Proclamation 2860, 64 Stat. A371",
+          "president": "Harry S. Truman"
+        },
+        "sources": [
+          {
+            "name": "Proclamation 2860, 64 Stat. A371 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-PgA371.pdf"
+          },
+          {
+            "name": "Proclamation 2860, American Presidency Project",
+            "url": "https://www.presidency.ucsb.edu/documents/proclamation-2860-establishing-the-effigy-mounds-national-monument"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 54), 'Proclaimed Oct. 25, 1949'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "This entry covers only the federal designation. Any copy describing the mounds or their builders touches Indigenous history and goes to the Library's human reviewers."
+      }
+    ]
+  },
+  "el-camino-real-de-tierra-adentro-national-historic-trail": {
+    "events": [
+      {
+        "date": "2000-10-13",
+        "action": "designated",
+        "designation": "National Historic Trail",
+        "name": null,
+        "text": "Congress designated El Camino Real de Tierra Adentro National Historic Trail by amending the National Trails System Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 106-307, 114 Stat. 1074",
+          "president": "Bill Clinton"
+        },
+        "sources": [
+          {
+            "name": "Public Law 106-307 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ307/html/PLAW-106publ307.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Oct. 13, 2000'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Only the U.S. portion (about 404 miles in New Mexico and Texas) is designated; NPS co-administers it with the Bureau of Land Management."
+      }
+    ]
+  },
+  "ellis-island-part-of-statue-of-liberty-national-monument": {
+    "events": [
+      {
+        "date": "1965-05-11",
+        "action": "designated",
+        "designation": "part of Statue of Liberty National Monument",
+        "name": null,
+        "text": "President Lyndon B. Johnson proclaimed Ellis Island part of the Statue of Liberty National Monument.",
+        "authority": {
+          "type": "presidential-proclamation",
+          "citation": "Proclamation 3656",
+          "president": "Lyndon B. Johnson"
+        },
+        "sources": [
+          {
+            "name": "Proclamation 3656, American Presidency Project",
+            "url": "https://www.presidency.ucsb.edu/documents/proclamation-3656-adding-ellis-island-the-statue-liberty-national-monument"
+          },
+          {
+            "name": "Johnson's remarks upon signing the proclamation, May 11, 1965 (American Presidency Project)",
+            "url": "https://www.presidency.ucsb.edu/documents/remarks-upon-signing-proclamation-adding-ellis-island-the-liberty-island-national-monument"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 84), 'Ellis Island proclaimed May 11, 1965'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "fort-dupont-park": {
+    "events": [],
+    "note": "Unresolved. Fort Dupont Park is part of National Capital Parks-East. The land was acquired for the park system of the National Capital (largely under the Capper-Cramton Act of May 29, 1930), but no action designating Fort Dupont Park by name was found."
+  },
+  "fort-foote-park": {
+    "events": [],
+    "note": "Unresolved. Fort Foote Park is part of National Capital Parks-East. The NPS History Collection gives May 29, 1930, the date of the Capper-Cramton Act, which authorized land acquisition for the National Capital park system in general; no action naming Fort Foote Park was found."
+  },
+  "fort-union-trading-post-national-historic-site": {
+    "events": [
+      {
+        "date": "1966-06-20",
+        "action": "authorized",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "Congress authorized the Secretary of the Interior to acquire the remains of Fort Union and to establish Fort Union Trading Post National Historic Site in North Dakota and Montana.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 89-458, 80 Stat. 211",
+          "president": "Lyndon B. Johnson"
+        },
+        "sources": [
+          {
+            "name": "Public Law 89-458, 80 Stat. 211 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg211.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (North Dakota), 'Authorized June 20, 1966'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          },
+          {
+            "name": "NPS History Collection, Fort Union Trading Post NHS",
+            "url": "https://npshistory.com/publications/fous/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Sec. 2 of the act called for formal establishment by Federal Register notice once the land was acquired; that notice was not located."
+      }
+    ]
+  },
+  "george-rogers-clark-national-historical-park": {
+    "events": [
+      {
+        "date": "1966-07-23",
+        "action": "authorized",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress authorized the Secretary of the Interior to accept Indiana's donation of the George Rogers Clark Memorial in Vincennes and establish it as George Rogers Clark National Historical Park.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 89-517, 80 Stat. 325",
+          "president": "Lyndon B. Johnson"
+        },
+        "sources": [
+          {
+            "name": "Public Law 89-517, 80 Stat. 325 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg325.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Indiana), 'Authorized July 23, 1966'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The memorial building was dedicated by the State of Indiana on June 14, 1936 (NPS History Collection); that state action is not a federal designation."
+      }
+    ]
+  },
+  "glen-echo-park": {
+    "events": [],
+    "note": "Unresolved. Glen Echo Park came to the federal government through a land exchange with its owners in 1971 (NPS History Collection) and is managed with George Washington Memorial Parkway. No designating act or proclamation was found."
+  },
+  "great-falls-park": {
+    "events": [],
+    "note": "Unresolved. Great Falls Park (Virginia) is part of George Washington Memorial Parkway; the NPS History Collection dates the park to 1966, but no designating act or order for Great Falls Park by name was found."
+  },
+  "harmony-hall": {
+    "events": [],
+    "note": "Unresolved. Harmony Hall was acquired in 1966 for the National Capital park system (NPS History Collection, citing Capper-Cramton Act authority) and is managed by National Capital Parks-East. No action designating it as a unit was found."
+  },
+  "harriet-tubman-national-historical-park": {
+    "events": [
+      {
+        "date": "2014-12-19",
+        "action": "authorized",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress provided for Harriet Tubman National Historical Park in Auburn, New York, to be established once enough land was acquired.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 113-291, sec. 3036, 128 Stat. 3780",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 113-291 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016, 'Authorized Dec. 19, 2014'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2017-01-10",
+        "action": "established",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "The Secretary of the Interior established Harriet Tubman National Historical Park after the National Park Service acquired the Thompson Memorial AME Zion Church and rectory.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (Jan. 10, 2017); notice of establishment, 82 FR 6641 (Jan. 19, 2017)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice of establishment, 82 FR 6641 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2017-01-19/html/2017-01081.htm"
+          },
+          {
+            "name": "NPS History Collection, Harriet Tubman NHP (establishment Jan. 10, 2017)",
+            "url": "https://npshistory.com/publications/hart/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The notice states establishment was effective Jan. 10, 2017, the day the memorandum was signed."
+      }
+    ]
+  },
+  "ice-age-floods-national-geologic-trail": {
+    "events": [
+      {
+        "date": "2009-03-30",
+        "action": "designated",
+        "designation": "National Geologic Trail",
+        "name": null,
+        "text": "Congress designated the Ice Age Floods National Geologic Trail across Montana, Idaho, Washington and Oregon in the Omnibus Public Land Management Act of 2009.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 111-11, sec. 5203, 123 Stat. 1155",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 111-11 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+          },
+          {
+            "name": "NPS History Collection, Ice Age Floods NGT (designation March 30, 2009)",
+            "url": "https://npshistory.com/publications/iafl/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "ice-age-national-scenic-trail": {
+    "events": [
+      {
+        "date": "1980-10-03",
+        "action": "established",
+        "designation": "National Scenic Trail",
+        "name": null,
+        "text": "Congress established the Ice Age National Scenic Trail in Wisconsin by amending the National Trails System Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 96-370, 94 Stat. 1360",
+          "president": "Jimmy Carter"
+        },
+        "sources": [
+          {
+            "name": "Public Law 96-370, 94 Stat. 1360 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1360.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Oct. 3, 1980'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "indiana-dunes-national-park": {
+    "events": [
+      {
+        "date": "1966-11-05",
+        "action": "authorized",
+        "designation": "National Lakeshore",
+        "name": "Indiana Dunes National Lakeshore",
+        "text": "Congress authorized the Secretary of the Interior to establish Indiana Dunes National Lakeshore on the southern shore of Lake Michigan.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 89-761, 80 Stat. 1309",
+          "president": "Lyndon B. Johnson"
+        },
+        "sources": [
+          {
+            "name": "Public Law 89-761, 80 Stat. 1309 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg1309.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Indiana), 'Authorized Nov. 5, 1966'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2019-02-15",
+        "action": "redesignated",
+        "designation": "National Park",
+        "name": null,
+        "text": "Congress renamed Indiana Dunes National Lakeshore as Indiana Dunes National Park in the Consolidated Appropriations Act, 2019.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 116-6, div. E, title I, sec. 115, 133 Stat. 232",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 116-6 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ6/html/PLAW-116publ6.htm"
+          },
+          {
+            "name": "NPS History Collection, Indiana Dunes (establishment dates 1966 and 2019)",
+            "url": "https://npshistory.com/publications/indu/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The section is headed 'Indiana Dunes National Lakeshore retitled'; it replaces 'National Lakeshore' with 'National Park' in the 1966 act."
+      }
+    ]
+  },
+  "kenilworth-park-and-aquatic-gardens": {
+    "events": [],
+    "note": "Unresolved. The aquatic gardens were acquired by the federal government in 1938 and are managed as part of Anacostia Park within National Capital Parks-East; the reclaimed land around them falls under the 1918 Anacostia Park designation. No action designating Kenilworth Park and Aquatic Gardens by name was found."
+  },
+  "klondike-gold-rush-seattle-unit-national-historical-park": {
+    "events": [
+      {
+        "date": "1976-06-30",
+        "action": "authorized",
+        "designation": "National Historical Park (Seattle unit)",
+        "name": null,
+        "text": "Congress authorized Klondike Gold Rush National Historical Park, made up of a Seattle unit in the Pioneer Square Historic District and three units in Alaska.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 94-323, 90 Stat. 717",
+          "president": "Gerald R. Ford"
+        },
+        "sources": [
+          {
+            "name": "Public Law 94-323, 90 Stat. 717 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg717.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Washington, Seattle entry), 'Authorized June 30, 1976'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act let the Secretary pick and later relocate the Seattle unit's site within Pioneer Square by Federal Register notice; those siting notices are not listed."
+      }
+    ]
+  },
+  "lbj-memorial-grove-on-the-potomac": {
+    "events": [
+      {
+        "date": "1973-12-28",
+        "action": "authorized",
+        "designation": "memorial grove",
+        "name": "Lyndon Baines Johnson Memorial Grove on the Potomac",
+        "text": "Congress authorized the Interior Department to work with a private committee to create a living memorial grove to Lyndon B. Johnson in Lady Bird Johnson Park.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 93-211 (joint resolution), 87 Stat. 909",
+          "president": "Richard Nixon"
+        },
+        "sources": [
+          {
+            "name": "Public Law 93-211, 87 Stat. 909 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg909.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 43), 'Authorized Dec. 28, 1973'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The NPS Index gives a dedication date of Sept. 27, 1974, while the NPS History Collection quotes Lady Bird Johnson at a dedication on April 6, 1976; the dedication is not a designation and is not listed."
+      }
+    ]
+  },
+  "lewis-and-clark-national-historical-park": {
+    "events": [
+      {
+        "date": "1958-05-29",
+        "action": "authorized",
+        "designation": "National Memorial",
+        "name": "Fort Clatsop National Memorial",
+        "text": "Congress authorized Fort Clatsop National Memorial in Oregon to mark the Lewis and Clark Expedition's 1805-06 winter camp.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 85-435, 72 Stat. 153",
+          "president": "Dwight D. Eisenhower"
+        },
+        "sources": [
+          {
+            "name": "Public Law 85-435, 72 Stat. 153 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg153.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Oregon), 'Fort Clatsop National Memorial established May 29, 1958'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act authorized the memorial and made establishment effective once at least 100 acres were in federal title; the NPS Index calls the 1958 date 'established'."
+      },
+      {
+        "date": "2004-10-30",
+        "action": "redesignated",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress redesignated Fort Clatsop National Memorial as Lewis and Clark National Historical Park and added sites in Washington as well as Oregon.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 108-387, title I, 118 Stat. 2234",
+          "president": "George W. Bush"
+        },
+        "sources": [
+          {
+            "name": "Public Law 108-387 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ387/html/PLAW-108publ387.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Oregon), 'redesignated a national historical park Oct. 30, 2004'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "lincoln-boyhood-national-memorial": {
+    "events": [
+      {
+        "date": "1962-02-19",
+        "action": "authorized",
+        "designation": "National Memorial",
+        "name": null,
+        "text": "Congress provided for Lincoln Boyhood National Memorial at the Tom Lincoln farm and Nancy Hanks Lincoln's grave in southern Indiana.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 87-407, 76 Stat. 9",
+          "president": "John F. Kennedy"
+        },
+        "sources": [
+          {
+            "name": "Public Law 87-407, 76 Stat. 9 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg9-3.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Indiana), 'Authorized Feb. 19, 1962'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act called for formal establishment by Federal Register notice once enough land was acquired; that notice was not located. Indiana ran the site as a state memorial before 1962 (NPS History Collection)."
+      }
+    ]
+  },
+  "maine-acadian-culture": {
+    "events": [
+      {
+        "date": "1990-11-08",
+        "action": "authorized",
+        "designation": "Maine Acadian Culture (National Park Service partnership program)",
+        "name": null,
+        "text": "Congress passed the Maine Acadian Culture Preservation Act, which created a preservation commission and let the National Park Service support Acadian sites in Maine's Saint John Valley through cooperative agreements.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 101-543, 104 Stat. 2389",
+          "president": "George H. W. Bush"
+        },
+        "sources": [
+          {
+            "name": "Public Law 101-543, 104 Stat. 2389 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2389.pdf"
+          },
+          {
+            "name": "16 U.S.C. 461 notes (Cornell LII), 'Maine Acadian Culture Preservation Act'",
+            "url": "https://www.law.cornell.edu/uscode/text/16/461"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "This is a partnership program, not a park unit; the act did not create a park."
+      }
+    ]
+  },
+  "medgar-and-myrlie-evers-home-national-monument": {
+    "events": [
+      {
+        "date": "2019-03-12",
+        "action": "authorized",
+        "designation": "National Monument",
+        "name": null,
+        "text": "Congress provided for Medgar and Myrlie Evers Home National Monument in Jackson, Mississippi, in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 116-9, sec. 2301, 133 Stat. 743",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 116-9 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+          },
+          {
+            "name": "NPS, Medgar and Myrlie Evers Home Laws & Policies",
+            "url": "https://www.nps.gov/memy/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2020-11-09",
+        "action": "established",
+        "designation": "National Monument",
+        "name": null,
+        "text": "The Secretary of the Interior established Medgar and Myrlie Evers Home National Monument after Tougaloo College conveyed the family home to the National Park Service.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (Nov. 9, 2020); notice of establishment, 85 FR 78354 (Dec. 4, 2020)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice of establishment, 85 FR 78354 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26693.htm"
+          },
+          {
+            "name": "NPS History Collection, Medgar and Myrlie Evers Home NM (established Nov. 9, 2020)",
+            "url": "https://npshistory.com/publications/memy/index.htm"
+          },
+          {
+            "name": "Department of the Interior press release, Dec. 10, 2020",
+            "url": "https://www.doi.gov/pressreleases/trump-administration-establishes-medgar-and-myrlie-evers-home-national-monument"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Interior publicly announced the establishment on Dec. 10, 2020; the decision memorandum that established the monument is dated Nov. 9, 2020. The home was conveyed June 18, 2020."
+      }
+    ]
+  },
+  "mill-springs-battlefield-national-monument": {
+    "events": [
+      {
+        "date": "2019-03-12",
+        "action": "authorized",
+        "designation": "National Monument",
+        "name": null,
+        "text": "Congress provided for Mill Springs Battlefield National Monument in Kentucky in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 116-9, sec. 2302, 133 Stat. 744",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 116-9 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+          },
+          {
+            "name": "NPS, Mill Springs Battlefield Laws & Policies",
+            "url": "https://www.nps.gov/misp/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2020-09-22",
+        "action": "established",
+        "designation": "National Monument",
+        "name": null,
+        "text": "The Secretary of the Interior established Mill Springs Battlefield National Monument after the National Park Service acquired the battlefield land.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (Sept. 22, 2020); notice of establishment, 85 FR 73293 (Nov. 17, 2020)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice of establishment, 85 FR 73293 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-17/html/2020-25343.htm"
+          },
+          {
+            "name": "NPS History Collection, Mill Springs Battlefield NM (Sept. 22, 2020)",
+            "url": "https://npshistory.com/publications/misp/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "national-capital-parks-east": {
+    "events": [],
+    "note": "Unresolved. National Capital Parks-East is an administrative grouping of NPS sites east of the Anacostia River and in Prince George's County, Maryland, not a unit created by a single act. The NPS Index entry for it repeats the Aug. 10, 1933 transfer of the National Capital parks to Interior (Executive Order 6166) and the Oct. 4, 1961 authorization of Piscataway Park; see those entries."
+  },
+  "national-parks-of-new-york-harbor": {
+    "events": [],
+    "note": "Unresolved. National Parks of New York Harbor is an administrative and marketing grouping of NPS units in and around New York Harbor, not a unit created by an act or proclamation. Each member park has its own designation history."
+  },
+  "new-philadelphia-national-historic-site": {
+    "events": [
+      {
+        "date": "2022-12-29",
+        "action": "established",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "Congress established New Philadelphia National Historic Site in Illinois, the first town known to have been planned and registered by a free African American before the Civil War, in the Consolidated Appropriations Act, 2023.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 117-328, div. DD, sec. 601, 136 Stat. 5601",
+          "president": "Joseph R. Biden Jr."
+        },
+        "sources": [
+          {
+            "name": "Public Law 117-328 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ328/html/PLAW-117publ328.htm"
+          },
+          {
+            "name": "NPS, New Philadelphia Laws & Policies",
+            "url": "https://www.nps.gov/neph/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act uses 'there is established' with no acquisition condition. The description of the town follows the act's own purpose clause."
+      }
+    ]
+  },
+  "oxon-cove-park-and-oxon-hill-farm": {
+    "events": [],
+    "note": "Unresolved. The farm was federal land used by St. Elizabeths Hospital from 1891; it was entrusted to the National Park Service in the mid-1960s and opened as Oxon Hill Farm in 1967 (NPS History Collection, which also lists 1959). No designating act or order was found; it is managed by National Capital Parks-East."
+  },
+  "piscataway-park": {
+    "events": [
+      {
+        "date": "1961-10-04",
+        "action": "authorized",
+        "designation": "park",
+        "name": null,
+        "text": "Congress authorized the Secretary of the Interior to acquire and protect lands along the Maryland shore of the Potomac to preserve the view from Mount Vernon and Fort Washington.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 87-362 (H.J. Res. 459), 75 Stat. 780",
+          "president": "John F. Kennedy"
+        },
+        "sources": [
+          {
+            "name": "Public Law 87-362, 75 Stat. 780 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg780.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 61), 'Authorized Oct. 4, 1961'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The 1961 joint resolution does not use the name 'Piscataway Park'; the name was applied later. No naming action was found."
+      }
+    ]
+  },
+  "presidio-of-san-francisco": {
+    "events": [
+      {
+        "date": "1972-10-27",
+        "action": "authorized",
+        "designation": "part of Golden Gate National Recreation Area",
+        "name": null,
+        "text": "Congress placed the Presidio within Golden Gate National Recreation Area, to pass to the National Park Service if the Army ever declared it excess.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 92-589, sec. 3(f), 86 Stat. 1299",
+          "president": "Richard Nixon"
+        },
+        "sources": [
+          {
+            "name": "Public Law 92-589, 86 Stat. 1299 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1299.pdf"
+          },
+          {
+            "name": "NPS, Presidio of San Francisco, Post to Park Transition",
+            "url": "https://www.nps.gov/prsf/learn/historyculture/post-to-park.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The act gave the Park Service immediate use of 100 acres at Baker Beach and 45 acres of Crissy Field; the rest awaited a Defense Department excess determination."
+      },
+      {
+        "date": "1994-10-01",
+        "action": "transferred",
+        "designation": "part of Golden Gate National Recreation Area",
+        "name": null,
+        "text": "The Army left the Presidio and the post was transferred to the National Park Service as part of Golden Gate National Recreation Area.",
+        "authority": {
+          "type": "administrative",
+          "citation": "Transfer from the Department of the Army under Public Law 92-589, sec. 3(f), after the 1989 base-closure decision"
+        },
+        "sources": [
+          {
+            "name": "NPS, Presidio of San Francisco, Post to Park Transition",
+            "url": "https://www.nps.gov/prsf/learn/historyculture/post-to-park.htm"
+          },
+          {
+            "name": "Presidio Trust press release, Oct. 1, 2019 (25th anniversary)",
+            "url": "https://presidio.gov/about/press/san-franciscos-presidio-marks-25-years-as-a-national-park-site"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The transfer document itself was not found; both sources are agency accounts. In 1996 Congress created the Presidio Trust (Public Law 104-333), which took over most of the non-coastal Presidio on July 1, 1998; that management change is not a designation and is not listed."
+      }
+    ]
+  },
+  "reconstruction-era-national-historical-park": {
+    "events": [
+      {
+        "date": "2017-01-12",
+        "action": "established",
+        "designation": "National Monument",
+        "name": "Reconstruction Era National Monument",
+        "text": "President Obama proclaimed Reconstruction Era National Monument in Beaufort County, South Carolina.",
+        "authority": {
+          "type": "presidential-proclamation",
+          "citation": "Proclamation 9567, 82 FR 6167",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Proclamation 9567, Federal Register (federalregister.gov)",
+            "url": "https://www.federalregister.gov/documents/2017/01/19/2017-01363/establishment-of-the-reconstruction-era-national-monument"
+          },
+          {
+            "name": "NPS, Reconstruction Era Laws & Policies",
+            "url": "https://www.nps.gov/reer/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Signed Jan. 12, 2017, eight days before the end of the Obama administration; published Jan. 19, 2017."
+      },
+      {
+        "date": "2019-03-12",
+        "action": "redesignated",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress redesignated Reconstruction Era National Monument as Reconstruction Era National Historical Park in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 116-9, sec. 2204, 133 Stat. 735",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 116-9 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+          },
+          {
+            "name": "NPS, Reconstruction Era Laws & Policies",
+            "url": "https://www.nps.gov/reer/learn/management/lawsandpolicies.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "saint-croix-island-international-historic-site": {
+    "events": [
+      {
+        "date": "1949-06-08",
+        "action": "authorized",
+        "designation": "National Monument",
+        "name": "Saint Croix Island National Monument",
+        "text": "Congress authorized Saint Croix Island National Monument in Maine, to be established once enough of the island was in federal hands.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Act of June 8, 1949, ch. 180 (Public Law 81-87), 63 Stat. 158",
+          "president": "Harry S. Truman"
+        },
+        "sources": [
+          {
+            "name": "63 Stat. 158 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg158-2.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Maine), 'Authorized as a national monument June 8, 1949'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The Secretary's order establishing the monument was to be published in the Federal Register; it was not located. A local dedication of the monument took place June 30, 1968 (NPS History Collection)."
+      },
+      {
+        "date": "1984-09-25",
+        "action": "redesignated",
+        "designation": "International Historic Site",
+        "name": null,
+        "text": "Congress redesignated Saint Croix Island National Monument as Saint Croix Island International Historic Site, noting the site's importance to both Canada and the United States.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 98-422 (S.J. Res. 25), 98 Stat. 1615",
+          "president": "Ronald Reagan"
+        },
+        "sources": [
+          {
+            "name": "Public Law 98-422, 98 Stat. 1615 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg1615.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Maine), 'redesignated an international historic site Sept. 25, 1984'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "selma-to-montgomery-national-historic-trail": {
+    "events": [
+      {
+        "date": "1996-11-12",
+        "action": "designated",
+        "designation": "National Historic Trail",
+        "name": null,
+        "text": "Congress designated the Selma to Montgomery National Historic Trail in the Omnibus Parks and Public Lands Management Act of 1996.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 104-333, div. I, sec. 501, 110 Stat. 4153",
+          "president": "Bill Clinton"
+        },
+        "sources": [
+          {
+            "name": "Public Law 104-333 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ333/html/PLAW-104publ333.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Nov. 12, 1996'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "ste-genevieve-national-historical-park": {
+    "events": [
+      {
+        "date": "2018-03-23",
+        "action": "authorized",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress provided for Ste. Genevieve National Historical Park in Missouri by enacting sec. 7134 of the Energy and Natural Resources Act of 2017 through the Consolidated Appropriations Act, 2018.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 115-141, div. G, sec. 121(a)(2), 132 Stat. 661 (text of sec. 7134 at 132 Stat. 1225 appendix)",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 115-141 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ141/html/PLAW-115publ141.htm"
+          },
+          {
+            "name": "Federal Register notice, Ste. Genevieve National Historical Park, 85 FR 78357 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26694.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Enactment by reference: sec. 121(a)(2) enacted sec. 7134 of S. 1460 as placed on the Senate calendar. The site name in the statute is spelled 'Ste. Genevieve'; NPS now writes 'Ste. Geneviève'."
+      },
+      {
+        "date": "2020-10-30",
+        "action": "established",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "The Secretary of the Interior established Ste. Genevieve National Historical Park once enough land and partner agreements were in place.",
+        "authority": {
+          "type": "secretarial-order",
+          "citation": "Secretarial decision memorandum (effective Oct. 30, 2020); notice, 85 FR 78357 (Dec. 4, 2020)"
+        },
+        "sources": [
+          {
+            "name": "Federal Register notice, 85 FR 78357 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26694.htm"
+          },
+          {
+            "name": "NPS History Collection, Ste. Geneviève NHP (Oct. 30, 2020)",
+            "url": "https://npshistory.com/publications/stge/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "thomas-stone-national-historic-site": {
+    "events": [
+      {
+        "date": "1978-11-10",
+        "action": "authorized",
+        "designation": "National Historic Site",
+        "name": null,
+        "text": "Congress authorized the Secretary of the Interior to acquire Habre-de-Venture, the Maryland home of Declaration signer Thomas Stone, for Thomas Stone National Historic Site.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 95-625, sec. 510, 92 Stat. 3510",
+          "president": "Jimmy Carter"
+        },
+        "sources": [
+          {
+            "name": "Public Law 95-625 (National Parks and Recreation Act of 1978), 92 Stat. 3467 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (Maryland), 'Authorized Nov. 10, 1978'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "Sec. 510(b) called for formal establishment by Federal Register notice once enough land was owned; that notice was not located."
+      }
+    ]
+  },
+  "tule-lake-national-monument": {
+    "events": [
+      {
+        "date": "2008-12-05",
+        "action": "established",
+        "designation": "National Monument (unit)",
+        "name": "World War II Valor in the Pacific National Monument (Tule Lake Unit)",
+        "text": "President George W. Bush proclaimed World War II Valor in the Pacific National Monument, which included sites at the Tule Lake Segregation Center in California.",
+        "authority": {
+          "type": "presidential-proclamation",
+          "citation": "Proclamation 8327, 73 FR 75293",
+          "president": "George W. Bush"
+        },
+        "sources": [
+          {
+            "name": "Proclamation 8327, Federal Register (federalregister.gov)",
+            "url": "https://www.federalregister.gov/documents/2008/12/10/E8-29344/establishment-of-the-world-war-ii-valor-in-the-pacific-national-monument"
+          },
+          {
+            "name": "NPS, Tule Lake National Monument, Learn About the Park",
+            "url": "https://www.nps.gov/tule/learn/index.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016, 'Proclaimed Dec. 5, 2008'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "2019-03-12",
+        "action": "redesignated",
+        "designation": "National Monument",
+        "name": null,
+        "text": "Congress redesignated the California areas of World War II Valor in the Pacific National Monument as Tule Lake National Monument.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 116-9, sec. 2206(b), 133 Stat. 741",
+          "president": "Donald J. Trump"
+        },
+        "sources": [
+          {
+            "name": "Public Law 116-9 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+          },
+          {
+            "name": "NPS, Tule Lake National Monument, Learn About the Park",
+            "url": "https://www.nps.gov/tule/learn/index.htm"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  },
+  "world-war-i-memorial": {
+    "events": [
+      {
+        "date": "2014-12-19",
+        "action": "redesignated",
+        "designation": "memorial",
+        "name": "World War I Memorial",
+        "text": "Congress redesignated Pershing Park in Washington, D.C., as a World War I Memorial and let the World War I Centennial Commission enhance the site.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Public Law 113-291, sec. 3091(b), 128 Stat. 3858",
+          "president": "Barack Obama"
+        },
+        "sources": [
+          {
+            "name": "Public Law 113-291 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016, 'Redesignation of Pershing Park Dec. 19, 2014'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The 2014 act says 'World War I Memorial'; NPS and the NPS History Collection use 'National World War I Memorial'. No act adding 'National' was checked. The memorial was dedicated April 16, 2021 (NPS History Collection); dedication is not listed as a designation."
+      }
+    ],
+    "note": "Pershing Park itself predates the 2014 redesignation as part of the Pennsylvania Avenue plan; its earlier history was not researched."
+  },
+  "yorktown-battlefield-part-of-colonial-national-historical-park": {
+    "events": [
+      {
+        "date": "1930-07-03",
+        "action": "authorized",
+        "designation": "National Monument",
+        "name": "Colonial National Monument",
+        "text": "Congress provided for Colonial National Monument, to take in Jamestown Island, parts of Williamsburg and the Yorktown battlefield once the President set its boundaries.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Act of July 3, 1930, ch. 837 (Public No. 510, 71st Cong.), 46 Stat. 855",
+          "president": "Herbert Hoover"
+        },
+        "sources": [
+          {
+            "name": "46 Stat. 855 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg855.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'Colonial National Monument authorized July 3, 1930'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      },
+      {
+        "date": "1930-12-30",
+        "action": "established",
+        "designation": "National Monument",
+        "name": "Colonial National Monument",
+        "text": "President Hoover proclaimed the boundaries of Colonial National Monument, including the Yorktown battlefield.",
+        "authority": {
+          "type": "presidential-proclamation",
+          "citation": "Proclamation of Dec. 30, 1930, 46 Stat. 3041",
+          "president": "Herbert Hoover"
+        },
+        "sources": [
+          {
+            "name": "46 Stat. 3041, proclamation establishing Colonial National Monument (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3041.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'established Dec. 30, 1930'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": "The proclamation number was not legible in the scan and is left out."
+      },
+      {
+        "date": "1936-06-05",
+        "action": "renamed",
+        "designation": "National Historical Park",
+        "name": null,
+        "text": "Congress renamed Colonial National Monument as Colonial National Historical Park, which includes the Yorktown battlefield.",
+        "authority": {
+          "type": "act-of-congress",
+          "citation": "Act of June 5, 1936, ch. 525 (Public No. 666, 74th Cong.), 49 Stat. 1483",
+          "president": "Franklin D. Roosevelt"
+        },
+        "sources": [
+          {
+            "name": "49 Stat. 1483 (govinfo)",
+            "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1483.pdf"
+          },
+          {
+            "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'redesignated June 5, 1936'",
+            "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          }
+        ],
+        "verdict": "confirmed",
+        "note": null
+      }
+    ]
+  }
+}

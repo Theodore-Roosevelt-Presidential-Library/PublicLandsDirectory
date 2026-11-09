@@ -1,6 +1,6 @@
 {
   "slug": "waco-mammoth-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2015-07-10",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Designated July 10, 2015",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Proclamation 9299, 129 Stat. 3395"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 9299, 129 Stat. 3395, Establishment of the Waco Mammoth National Monument, July 10, 2015",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-129/pdf/STATUTE-129-Pg3395.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9299, July 10, 2015",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9299-establishment-the-waco-mammoth-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9299; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

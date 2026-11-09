@@ -1,0 +1,44 @@
+{
+  "slug": "pea-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-04-08",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Pea Island Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Pea Island Migratory Waterfowl Refuge by Executive Order 7864 on April 8, 1938.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7864, 3 FR 863",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pea Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pea-island/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7864, Apr. 8, 1938, Establishing Pea Island Migratory Waterfowl Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7864-establishing-pea-island-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1938: EO 7864, signed Apr. 8, 1938, 3 FR 863",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1938.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Pea Island National Wildlife Refuge was established in 1938 to provide nesting, resting, and wintering habitat for migratory birds, including the greater snow geese and other migratory waterfowl, shorebirds, wading birds, raptors, and neotropical migrants; to provide habitat and protection for endangered and threatened species, such as loggerhead sea turtles; and to provide opportunities for publi"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

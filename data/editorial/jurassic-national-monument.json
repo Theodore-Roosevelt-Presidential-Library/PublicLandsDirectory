@@ -1,0 +1,37 @@
+{
+  "slug": "jurassic-national-monument",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established Jurassic National Monument in Emery County, Utah.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, title I, sec. 1252, 133 Stat. 580, 676",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": "Established by statute, not under the Antiquities Act. The BLM unit page gives no designation date.",
+      "sources": [
+        {
+          "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

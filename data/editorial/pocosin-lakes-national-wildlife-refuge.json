@@ -1,0 +1,39 @@
+{
+  "slug": "pocosin-lakes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1990 with more than 93,000 acres donated through The Conservation Fund and the Richard King Mellon Foundation, combined with the adjacent Pungo National Wildlife Refuge (1963).",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pocosin Lakes National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pocosin-lakes/about-us"
+        },
+        {
+          "name": "FWS Pocosin Lakes NWR tearsheet: refuge \"established in 1990\" with lands donated by The Conservation Fund and the Richard King Mellon Foundation; combined with Pungo Refuge (established 1963)",
+          "url": "https://www.fws.gov/sites/default/files/documents/pocosin-lakes-nwr-tearsheet.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "The about-us sentence (1984) does not match FWS's own refuge publication, which gives 1990. Note Pungo NWR (1963), now part of the refuge, is older; confirm whether the directory should date the refuge from Pungo.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1984 to protect the rare pocosin wetlands and their associated wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

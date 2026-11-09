@@ -1,0 +1,42 @@
+{
+  "slug": "coconino-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-07-02",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Coconino: Established. UL greaves , Tonto, Apache and Coconino. Name discontinued.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 818, 35 Stat. 2196"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "35 Stat. 2196 (Statutes at Large, govinfo): Proclamation of July 2, 1908, Theodore Roosevelt, consolidating lands \"into one National Forest, which should be known as the Coconino National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2196.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 818, July 2, 1908",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-818-setting-apart-the-coconino-and-kaibab-national-forests-arizona"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 818, July 2, 1908, 35 Stat. 2196, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

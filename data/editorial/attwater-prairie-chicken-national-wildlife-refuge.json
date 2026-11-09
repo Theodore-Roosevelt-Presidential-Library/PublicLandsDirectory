@@ -1,0 +1,39 @@
+{
+  "slug": "attwater-prairie-chicken-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1972-07-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Attwater Prairie Chicken National Wildlife Refuge by purchasing land to protect the endangered Attwater's prairie-chicken.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land purchase by the U.S. Fish and Wildlife Service (Endangered Species Preservation Act authority)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Attwater Prairie Chicken National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/attwater-prairie-chicken/about-us"
+        },
+        {
+          "name": "USFWS, Attwater Prairie Chicken National Wildlife Refuge: Comprehensive Conservation Plan and Environmental Assessment (ServCat 43396): \"not officially established until July 1, 1972, when 687 acres were purchased by the Service from the Verhuel Estate\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/43958"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established July 1, 1972 by purchase (CCP). Exact acquisition authority not confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Attwater Prairie Chicken National Wildlife Refuge was established in 1972 to provide habitat for one of the last populations of the critically endangered Attwater’s Prairie-Chicken , a ground-dwelling grouse of the coastal prairie ecosystem."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

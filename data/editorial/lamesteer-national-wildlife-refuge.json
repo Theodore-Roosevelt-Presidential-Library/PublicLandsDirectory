@@ -1,0 +1,37 @@
+{
+  "slug": "lamesteer-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1942-05-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Lamesteer National Wildlife Refuge by Executive Order 9166, comprising about 800 acres in Wibaux County, Montana.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 9166",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Lamesteer National Wildlife Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/137939"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 9166",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-9166-establishing-the-lamesteer-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

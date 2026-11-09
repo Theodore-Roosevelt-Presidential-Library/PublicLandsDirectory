@@ -1,0 +1,41 @@
+{
+  "slug": "san-juan-islands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-12-24",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "San Juan National Wildlife Refuge",
+      "indexText": "The Interior Department established the San Juan National Wildlife Refuge on small islands and rocks in the San Juan Islands by Public Land Order 2249, dated December 24, 1960.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Land Order 2249 (F.R. Doc. 61-130, Jan. 10, 1961)",
+        "signedBy": null
+      },
+      "note": "Pass A (FWS: established in 1960; Realty record of PLO 2249 dated December 24, 1960) and Pass B (PLO text in the Federal Register of January 10, 1961, titled \"Establishing San Juan National Wildlife Refuge,\" dated December 24, 1960) agree. The same order enlarged the Jones Island Migratory Bird Refuge, set up by Executive Order 7594 of March 30, 1937; that refuge and the Matia Island refuge (EO 7595, also March 30, 1937) were later folded into today's San Juan Islands NWR, but those earlier links were not traced in full here.",
+      "sources": [
+        {
+          "name": "Federal Register (Jan. 10, 1961), Public Land Order 2249, \"Establishing San Juan National Wildlife Refuge,\" dated December 24, 1960",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1961-01-10/pdf/FR-1961-01-10.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: PLO 2249 (24 Dec 1960)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143258"
+        },
+        {
+          "name": "FWS, San Juan Islands NWR page",
+          "url": "https://www.fws.gov/refuge/san-juan-islands"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

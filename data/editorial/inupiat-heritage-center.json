@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No independent record found of a Feb. 3, 1999 designation of the Iñupiat Heritage Center (affiliated with New Bedford Whaling NHP), and its authority is unknown. Check the NPS affiliated-areas legislation.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

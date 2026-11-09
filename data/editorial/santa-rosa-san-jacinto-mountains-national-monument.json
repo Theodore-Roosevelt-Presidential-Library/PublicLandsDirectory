@@ -1,0 +1,41 @@
+{
+  "slug": "santa-rosa-san-jacinto-mountains-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-10-24",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Santa Rosa and San Jacinto Mountains National Monument",
+      "indexText": "The Santa Rosa and San Jacinto Mountains National Monument Act of 2000 designated the national monument in California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-351, sec. 2, 114 Stat. 1362, 1363",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "Established by statute, not under the Antiquities Act; jointly managed by the BLM and the Forest Service.",
+      "sources": [
+        {
+          "name": "Public Law 106-351, 114 Stat. 1362 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ351/html/PLAW-106publ351.htm"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        },
+        {
+          "name": "BLM unit page: Santa Rosa-San Jacinto Mountains National Monument",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

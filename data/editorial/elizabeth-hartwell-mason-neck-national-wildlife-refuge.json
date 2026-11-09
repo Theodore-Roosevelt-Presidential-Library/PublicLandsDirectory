@@ -1,0 +1,39 @@
+{
+  "slug": "elizabeth-hartwell-mason-neck-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969-02-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Mason Neck National Wildlife Refuge",
+      "indexText": "The U.S. Fish and Wildlife Service established Mason Neck National Wildlife Refuge, the first refuge created specifically for an endangered species, the bald eagle.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land purchase from The Nature Conservancy; Director's Order of the Bureau of Sport Fisheries and Wildlife"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Elizabeth Hartwell Mason Neck National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/elizabeth-hartwell-mason-neck/about-us"
+        },
+        {
+          "name": "USFWS, Elizabeth Hartwell Mason Neck National Wildlife Refuge and Featherstone National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 43710): \"the Service purchased 845 acres of land from The Nature Conservancy and officially established Mason Neck Refuge on February 1, 1969\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/44345"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Feb. 1, 1969 (CCP). Later renamed for Elizabeth Hartwell.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Elizabeth Hartwell Mason Neck National Wildlife Refuge was established in 1969, and became the first national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "santa-fe-national-forest",
+  "designationHistory": [
+    {
+      "date": "1915-04-06",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Santa Fe: Established.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": "Executive Order 2160"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 46",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 2160: April 6, 1915, Santa Fe National Forest, N. Mex., enlarged by the addition of all lands of the Jemez and Pecos National Forests",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 2160, April 6, 1915 (effective July 1, 1915), Wilson. Davis: established by combining the Jemez and Pecos forests. The 1944 list summary says \"enlarged,\" but no earlier Santa Fe NF appears in either source, so \"established\" stands.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

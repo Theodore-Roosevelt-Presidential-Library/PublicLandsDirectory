@@ -1,0 +1,40 @@
+{
+  "slug": "petit-manan-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1974",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1974 under the Migratory Bird Conservation Act as an inviolate sanctuary for migratory birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Petit Manan National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/petit-manan/about-us"
+        },
+        {
+          "name": "Maine Coastal Islands NWR CCP, Chapter 1 (FWS, archived): Petit Manan NWR \"originally established in 1974\" under the Migratory Bird Conservation Act, 16 U.S.C. 715d",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090114155553/http:/library.fws.gov/CCPs/MaineIslands/PDF/CCPChapter1.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser took a lighthouse line (Egg Rock Light, 1875) and \"Island Light\" as signer. Real establishment is 1974.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Egg Rock Light, Winter Harbor, Maine Image Details Station Established - 1875 Present Lighthouse Built - 1875 Automated - 1976 Height of Tower - 40 feet Height of Focal Plane - 64 feet Original Optic / Present Optic - Fifth order Fresnel / 190 mm Fog Signal - Two blasts every 30 seconds Other Structures Still Standing - 1875 keeper’s house (integral to tower) Libby Island Light, Machiasport, Maine"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

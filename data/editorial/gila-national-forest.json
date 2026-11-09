@@ -1,0 +1,77 @@
+{
+  "slug": "gila-national-forest",
+  "designationHistory": [
+    {
+      "date": "1899-03-02",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Gila River Forest Reserve",
+      "indexText": "Gila River: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William McKinley",
+        "citation": "34 Stat. 3126"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3126 (Statutes at Large, govinfo): Proclamation of March 2, 1899, William McKinley, Gila River Forest Reserve (printed in vol. 34)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3126.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation of March 2, 1899, McKinley, printed at 34 Stat. 3126; predecessor name Gila River Forest Reserve is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1905-07-21",
+      "action": "renamed",
+      "designation": "Forest Reserve",
+      "name": "Gila Forest Reserve",
+      "indexText": "Gi 1 a River: Boundary redescribed. Name changed to Gila.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 582, 34 Stat. 3123"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3123 (Statutes at Large, govinfo): Proclamation of July 21, 1905, Theodore Roosevelt: \"This reservation shall be known hereafter as the Gila Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3123.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 582, July 21, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-582-enlargement-the-gila-forest-reserve-new-mexico"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 582, July 21, 1905, 34 Stat. 3123, Theodore Roosevelt; enlarged the reserve and renamed it Gila.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

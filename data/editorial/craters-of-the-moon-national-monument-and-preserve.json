@@ -1,6 +1,6 @@
 {
   "slug": "craters-of-the-moon-national-monument-and-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1924-05-02",
@@ -12,17 +12,35 @@
         "type": "presidential-proclamation",
         "signedBy": "Calvin Coolidge",
         "administration": "Calvin Coolidge",
-        "citation": null
+        "citation": "Proclamation 1694, 43 Stat. 1947"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 51",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 43 Stat. 1947 (govinfo): Proclamation 1694, May 2, 1924",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1947.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1694; Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2002-08-21",
@@ -31,20 +49,34 @@
       "name": null,
       "indexText": "Designated a national preserve Aug. 21, 2002",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "P.L. 107-213, 116 Stat. 1052"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 51",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 116 Stat. 1052 (govinfo): P.L. 107-213, Aug. 21, 2002, redesignating lands as Craters of the Moon National Preserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-116/pdf/STATUTE-116-Pg1052.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 107-213; George W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

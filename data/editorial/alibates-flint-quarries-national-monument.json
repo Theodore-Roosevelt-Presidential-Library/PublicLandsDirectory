@@ -1,28 +1,43 @@
 {
   "slug": "alibates-flint-quarries-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1965-08-21",
+      "date": "1965-08-31",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument Aug. 21, 1965",
+      "indexText": "Authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument Aug. 31, 1965",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 89-154, 79 Stat. 587"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 79 Stat. 587 (govinfo): P.L. 89-154, \"Approved August 31, 1965\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg587.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, miscellaneous national monuments: Pub. L. 89-154, Aug. 31, 1965 (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Aug. 21 is wrong: P.L. 89-154 was approved Aug. 31, 1965 (Statutes text and U.S. Code note agree). LBJ either way.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument Aug. 21, 1965"
     },
     {
       "date": "1978-11-10",
@@ -31,20 +46,34 @@
       "name": null,
       "indexText": "Renamed Nov. 10, 1978",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 95-625, title III, sec. 321(c), 92 Stat. 3488"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note: name changed by Pub. L. 95-625, sec. 321(c), Nov. 10, 1978, 92 Stat. 3488 (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+        },
+        {
+          "name": "Statutes at Large vol. 92, List of Public Laws (govinfo): P.L. 95-625, National Parks and Recreation Act of 1978, Nov. 10, 1978",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-FrontMatter-1-Pgi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Renamed by the National Parks and Recreation Act of 1978, sec. 321(c); Carter.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

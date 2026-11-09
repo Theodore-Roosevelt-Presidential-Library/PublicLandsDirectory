@@ -1,0 +1,39 @@
+{
+  "slug": "billy-frank-jr-nisqually-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1974",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Nisqually National Wildlife Refuge",
+      "indexText": "The Migratory Bird Conservation Commission approved the establishment of Nisqually National Wildlife Refuge; it was renamed for tribal leader Billy Frank Jr. in 2015.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Billy Frank Jr. Nisqually National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/billy-frank-jr-nisqually/about-us"
+        },
+        {
+          "name": "USFWS press release, Aug. 2024, \"50th Celebration for Billy Frank Jr. Nisqually National Wildlife Refuge\": \"established in 1974 with approval by the Migratory Bird Conservation Commission\"",
+          "url": "https://www.fws.gov/press-release/2024-08/50th-celebration-billy-frank-jr-nisqually-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described the National Natural Landmarks program (1962). Refuge: 1974, MBCC approval (FWS 50th-anniversary release). Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

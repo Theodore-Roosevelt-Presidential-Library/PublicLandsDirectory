@@ -1,0 +1,42 @@
+{
+  "slug": "kisatchie-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-06-03",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Kisatchie: 1-F.R. 544 Established. d 49 Stat. 3520",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2173, 49 Stat. 3520"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "49 Stat. 3520 (Statutes at Large, govinfo): Proclamation No. 2173, June 3, 1936, Franklin D. Roosevelt (begins on p. 3520)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3519.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2173, June 3, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2173-kisatchie-national-forest-louisiana"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2173, June 3, 1936, 49 Stat. 3520, Franklin D. Roosevelt. Davis notes an earlier Secretary of Agriculture designation (June 10, 1930).",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

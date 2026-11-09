@@ -1,0 +1,45 @@
+{
+  "slug": "francis-marion-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1948-05-10",
+      "action": "established",
+      "designation": "Wildlife Preserve",
+      "name": "Francis Marion National Forest Wildlife Preserve",
+      "indexText": "President Truman established the Francis Marion National Forest Wildlife Preserve as a game sanctuary and refuge in the Francis Marion National Forest, South Carolina.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Harry S. Truman",
+        "citation": "Proclamation 2785, May 10, 1948, 62 Stat. 1510 (under Public Law 80-257, July 30, 1947, 61 Stat. 516)",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2785, 62 Stat. 1510 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg1510.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2785, Francis Marion National Forest Wildlife Preserve",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2785-francis-marion-national-forest-wildlife-preserve"
+        },
+        {
+          "name": "Public Law 80-257, 61 Stat. 516 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg516.pdf"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

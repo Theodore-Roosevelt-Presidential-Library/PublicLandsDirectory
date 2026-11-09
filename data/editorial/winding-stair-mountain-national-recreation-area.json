@@ -1,0 +1,37 @@
+{
+  "slug": "winding-stair-mountain-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1988-10-18",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Winding Stair Mountain National Recreation Area in the Ouachita National Forest, Oklahoma.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 100-499, sec. 8, 102 Stat. 2491, 2494",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 100-499, 102 Stat. 2491 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2491.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460vv-6 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460vv-6"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

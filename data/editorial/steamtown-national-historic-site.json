@@ -1,6 +1,6 @@
 {
   "slug": "steamtown-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1986-10-30",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 99-591, sec. 101(h) [title I, secs. 1-5], 100 Stat. 3341-248"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Enacted in the FY1987 continuing resolution, P.L. 99-591 (Oct. 30, 1986), which re-enacted P.L. 99-500 (Oct. 18, 1986); the Index uses the Oct. 30 law. Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

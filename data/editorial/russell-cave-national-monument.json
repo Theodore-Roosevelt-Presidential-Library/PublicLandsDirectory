@@ -1,6 +1,6 @@
 {
   "slug": "russell-cave-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1961-05-11",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "Proclamation 3413, 75 Stat. 1058"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 18",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 3413, 75 Stat. 1058, Establishing Russell Cave National Monument, May 11, 1961",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg1058.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3413, May 11, 1961",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3413-establishing-russell-cave-national-monument-alabama"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 3413; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

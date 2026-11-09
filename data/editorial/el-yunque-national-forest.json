@@ -1,0 +1,150 @@
+{
+  "slug": "el-yunque-national-forest",
+  "designationHistory": [
+    {
+      "date": "1903-01-17",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Luquillo Forest Reserve",
+      "indexText": "President Theodore Roosevelt proclaimed the Luquillo Forest Reserve in Puerto Rico.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation of Jan. 17, 1903, 32 Stat. 2029",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "UCSB's '495' is the American Presidency Project's own document number; the Statutes at Large print this as proclamation No. 41 of the 57th Congress.",
+      "sources": [
+        {
+          "name": "Proclamation of Jan. 17, 1903, 32 Stat. 2029 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2029.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 495, Establishment of the Luquillo Forest Reserve",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-495-establishment-the-luquillo-forest-reserve"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1907-03-04",
+      "action": "redesignated",
+      "designation": "National Forest",
+      "name": "Luquillo National Forest",
+      "indexText": "Congress provided that forest reserves would be known as national forests, so the Luquillo Forest Reserve became the Luquillo National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Theodore Roosevelt",
+        "citation": "Act of Mar. 4, 1907, ch. 2907, 34 Stat. 1256, 1269",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Approved by President Theodore Roosevelt at 9:43 a.m. on Mar. 4, 1907 (the act's approval line). Mar. 4, 1907 was not an inauguration day.",
+      "sources": [
+        {
+          "name": "Act of Mar. 4, 1907 (Agricultural Appropriation Act), ch. 2907, 34 Stat. 1256, 1269 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1256.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1935-06-04",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Caribbean National Forest",
+      "indexText": "President Franklin D. Roosevelt renamed the Luquillo National Forest the Caribbean National Forest.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7059-A, June 4, 1935",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The 1935 order predates the Federal Register; it is listed in FS-612, Davis and the WPA list, and its text is reproduced by the American Presidency Project.",
+      "sources": [
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Executive Order 7059-A, Changing the Name of the Luquillo National Forest",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7059-changing-the-name-the-luquillo-national-forest"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2007-04-02",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President George W. Bush renamed the Caribbean National Forest the El Yunque National Forest.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "George W. Bush",
+        "citation": "Executive Order 13428, Apr. 2, 2007, 72 F.R. 16693",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Executive Order 13428, 72 F.R. 16693 (Apr. 4, 2007) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-04-04/pdf/07-1704.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Executive Order 13428, Renaming a National Forest in the Commonwealth of Puerto Rico",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-13428-renaming-national-forest-the-commonwealth-puerto-rico"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

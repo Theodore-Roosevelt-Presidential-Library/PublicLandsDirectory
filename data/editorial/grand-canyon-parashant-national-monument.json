@@ -1,28 +1,39 @@
 {
-  "slug": "grand-canyon-parashant-national-monument",
-  "designationHistory": [
+ "slug": "grand-canyon-parashant-national-monument",
+ "designationHistory": [
+  {
+   "date": "2000-01-11",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Grand Canyon-Parashant National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7265, 65 FR 2825"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2000-01-11",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Grand Canyon-Parashant National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7265, 65 FR 2825"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7265, 65 FR 2825",
-          "url": "https://www.federalregister.gov/documents/2000/01/18/00-1296/establishment-of-the-grand-canyon-parashant-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "Federal Register: Proclamation 7265, 65 FR 2825",
+     "url": "https://www.federalregister.gov/documents/2000/01/18/00-1296/establishment-of-the-grand-canyon-parashant-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 7265—Establishment of the Grand Canyon-Parashant National Monument, January 11, 2000",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7265-establishment-the-grand-canyon-parashant-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 7265, 65 FR 2825, signed 2000-01-11; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

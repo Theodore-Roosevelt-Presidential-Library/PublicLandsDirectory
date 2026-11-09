@@ -1,0 +1,41 @@
+{
+  "slug": "butterfield-overland-national-historic-trail",
+  "designationHistory": [
+    {
+      "date": "2023-01-05",
+      "action": "designated",
+      "designation": "National Historic Trail",
+      "name": null,
+      "indexText": "Congress designated the Butterfield Overland National Historic Trail by amending the National Trails System Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Public Law 117-345, 136 Stat. 6196",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": "The NPS page gives the year (2023); the day comes from the statute.",
+      "sources": [
+        {
+          "name": "Public Law 117-345 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ345/html/PLAW-117publ345.htm"
+        },
+        {
+          "name": "NPS, Butterfield Overland NHT Management page",
+          "url": "https://www.nps.gov/buov/learn/management/index.htm"
+        },
+        {
+          "name": "NPS History Collection, Butterfield Overland NHT",
+          "url": "https://npshistory.com/publications/buov/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

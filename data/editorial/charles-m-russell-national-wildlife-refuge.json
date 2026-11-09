@@ -1,0 +1,37 @@
+{
+  "slug": "charles-m-russell-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-12-11",
+      "action": "established",
+      "designation": "Game Range",
+      "name": "Fort Peck Game Range",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 7509 establishing the Fort Peck Game Range along the Missouri River in Montana for sharp-tailed grouse, pronghorn and other wildlife.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7509",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Later history per the CCP (not independently rechecked): renamed Charles M. Russell National Wildlife Range by Public Land Order 2951 (February 25, 1963); the Game Range Act (Public Law 94-223, February 27, 1976) placed it fully under the Fish and Wildlife Service as a refuge.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Charles M. Russell and UL Bend NWRs Comprehensive Conservation Plan, 2012 (ServCat 143938)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143938"
+        },
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 7509",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7509-establishing-the-fort-peck-game-range-the-state-montana"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

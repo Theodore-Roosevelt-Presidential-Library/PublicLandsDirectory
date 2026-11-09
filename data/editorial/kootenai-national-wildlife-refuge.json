@@ -1,0 +1,40 @@
+{
+  "slug": "kootenai-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1964",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1964 as a migratory waterfowl refuge on restored Kootenai River floodplain.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Kootenai National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/kootenai/about-us"
+        },
+        {
+          "name": "FWS ServCat: Kootenai NWR CCP (established 1964; land approved Dec. 10, 1963)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43324"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1964 as a migratory waterfowl refuge, Kootenai National Wildlife Refuge provides habitat for more than 220 species of birds, 45 species of mammals, and 22 species of fish."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

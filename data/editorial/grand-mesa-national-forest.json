@@ -1,0 +1,42 @@
+{
+  "slug": "grand-mesa-national-forest",
+  "designationHistory": [
+    {
+      "date": "1924-03-11",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Grand Mesa National Forest",
+      "indexText": "Grand Mesa: Established.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 3970"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 58",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 3970: March 11, 1924, Battlement National Forest, Colo., renamed Grand Mesa National Forest",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong action: Executive Order 3970 (March 11, 1924, Coolidge) renamed the Battlement National Forest. The Battlement NF was created from the Battlement Mesa Forest Reserve by Theodore Roosevelt, EO 894, July 1, 1908.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

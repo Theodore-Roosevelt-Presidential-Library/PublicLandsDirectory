@@ -1,0 +1,44 @@
+{
+  "slug": "logan-cave-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1989 under the Endangered Species Act to protect cave life, including the gray bat, Benton cave crayfish and Ozark cavefish.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Logan Cave National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/logan-cave/about-us"
+        },
+        {
+          "name": "Federal Register: Logan Cave NWR notice, Sept. 10, 2008 (established 1989 under the ESA)",
+          "url": "https://www.federalregister.gov/documents/2008/09/10/E8-20977/logan-cave-national-wildlife-refuge-benton-county-ar"
+        },
+        {
+          "name": "FWS ServCat: Logan Cave NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168044"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Cache River NWR sentence (1986). Logan Cave NWR was established in 1989.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cache River National Wildlife Refuge Cache River National Wildlife Refuge was established in 1986 to protect significant wetland habitats and provide feeding and resting areas for migrating waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

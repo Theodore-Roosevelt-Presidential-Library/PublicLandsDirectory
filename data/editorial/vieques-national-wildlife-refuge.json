@@ -1,0 +1,43 @@
+{
+  "slug": "vieques-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001-05-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established on May 1, 2001, when the U.S. Navy transferred about 3,100 acres on western Vieques to the Interior Department under an act of Congress.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": "Public Law 106-398, sec. 1508 (Navy land transfer)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Vieques National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/vieques/about-us"
+        },
+        {
+          "name": "Federal Register, July 9, 2001 (01-17130): Establishment of the Vieques National Wildlife Refuge; under section 1508 of Public Law 106-398 the Navy transferred about 3,100 acres to Interior",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2001-07-09/pdf/01-17130.pdf"
+        },
+        {
+          "name": "FWS story, May 2, 2001: \"On May 1, the U.S. Fish and Wildlife Service welcomes its newest addition ... the Vieques National Wildlife Refuge\"",
+          "url": "https://www.fws.gov/story/2001-05/us-navy-transfers-3100-acres-vieques-puerto-rico-department-interior"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence (1969, a 45-acre island off St. Thomas) describes Buck Island NWR. Vieques NWR dates to May 1, 2001. Act signed by Clinton (2000); transfer under Bush, so no signer set.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Thomas, was established in 1969 for its \"particular value in carrying out the national migratory bird management program.\" The refuge consists of the entire 45-acre island."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

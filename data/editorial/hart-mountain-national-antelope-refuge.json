@@ -1,0 +1,37 @@
+{
+  "slug": "hart-mountain-national-antelope-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-12-21",
+      "action": "established",
+      "designation": "Antelope Refuge",
+      "name": "Hart Mountain Antelope Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Hart Mountain Antelope Refuge in Oregon by Executive Order 7523 as a range and breeding ground for antelope and other wildlife.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7523",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "EO 7523 first revoked, for its Oregon lands, Executive Order 7178 of September 6, 1935, which had set apart the Hart Mountain Game Range in Nevada and Oregon. FWS lists EO 7523 as the establishing authority. Renamed Hart Mountain National Antelope Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Hart Mountain National Antelope Refuge Compatibility Determination, Hunting (2026)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/193907"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7523",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7523-hart-mountain-antelope-refuge-the-state-oregon"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

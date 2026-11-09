@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Herbert Hoover",
         "administration": "Herbert Hoover",
-        "citation": null
+        "citation": "Act of May 29, 1930, ch. 354, 46 Stat. 482"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 60",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 46 Stat. 482 (govinfo): Act of May 29, 1930, ch. 354 (Capper-Cramton Act), George Washington Memorial Parkway \"from Mount Vernon and Fort Washington to the Great Falls\"; approved May 29, 1930",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg482.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The Capper-Cramton Act of May 29, 1930 is confirmed as the 1930 authority (Hoover). It names Fort Washington in the parkway plan, but the transfer clause itself was not checked.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1940-08-12",
@@ -44,7 +54,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Could not confirm the Aug. 12, 1940 effective date of the War Department's release of Fort Washington. No notice found in the Aug. 8 to Sept. 6, 1940 Federal Register issues. Needs the National Capital Parks administrative history.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

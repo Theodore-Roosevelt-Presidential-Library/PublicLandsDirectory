@@ -1,0 +1,42 @@
+{
+  "slug": "jefferson-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-04-21",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Jefferson: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2165, 49 Stat. 3506"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "49 Stat. 3506 (Statutes at Large, govinfo): Proclamation No. 2165, April 21, 1936, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3506.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2165, April 21, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2165-jefferson-national-forest-virginia"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2165, April 21, 1936, 49 Stat. 3506, Franklin D. Roosevelt. (A different Jefferson NF in Montana existed 1908-1932.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,6 +1,6 @@
 {
   "slug": "booker-t-washington-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1956-04-02",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Act of Apr. 2, 1956, ch. 158, 70 Stat. 86"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 70 Stat. 86 (govinfo): Act of Apr. 2, 1956, ch. 158, approved Apr. 2, 1956",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg86-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450ll, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Apr. 2, 1956; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

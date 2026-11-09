@@ -1,0 +1,40 @@
+{
+  "slug": "bayou-sauvage-urban-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990-04",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Bayou Sauvage National Wildlife Refuge was established in 1990 in eastern New Orleans under a 1986 act of Congress.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Emergency Wetlands Resources Act of 1986, Public Law 99-645 (Nov. 10, 1986), authorized the refuge",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bayou Sauvage Urban National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bayou-sauvage-urban/about-us"
+        },
+        {
+          "name": "USFWS, Bayou Sauvage NWR Comprehensive Conservation Plan (2009), ServCat 168177: \"Bayou Sauvage NWR was established in April 1990\"; \"on November 10, 1986, the bill establishing Bayou Sauvage NWR was signed into law by President Ronald Reagan\" (Emergency Wetlands Resources Act of 1986, P.L. 99-645)",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253368"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Authorized by P.L. 99-645, signed by Reagan Nov. 10, 1986; established April 1990 (CCP, 2009).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bayou Sauvage Urban National Wildlife Refuge, established in 1990, contains a variety of wildlife habitats, including patches of bottomland hardwood forest; freshwater, brackish and estuarine tidal marshes; lagoons; canals; and natural bayous."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

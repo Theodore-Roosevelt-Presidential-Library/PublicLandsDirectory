@@ -1,0 +1,45 @@
+{
+  "slug": "headwaters-forest-reserve",
+  "designationHistory": [
+    {
+      "date": "1999-03-01",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "The federal government and the State of California acquired the Headwaters Forest, which became the Headwaters Forest Reserve under BLM management.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Acquisition authorized by Public Law 105-83, title V, sec. 501, 111 Stat. 1543, 1610 (approved Nov. 14, 1997)",
+        "signedBy": null
+      },
+      "note": "No act or proclamation 'designates' the Reserve. Public Law 105-83 (signed by President Clinton, Nov. 14, 1997) authorized the purchase and named the retained land the 'Headwaters Forest'; the 2002 Federal Register notice and the BLM page date the acquisition and establishment to March 1, 1999. The BLM page labels it a 'Congressional Designation.'",
+      "sources": [
+        {
+          "name": "Public Law 105-83, sec. 501 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-105publ83/html/PLAW-105publ83.htm"
+        },
+        {
+          "name": "BLM notice, Headwaters Forest Reserve management plan, 67 FR (Apr. 22, 2002) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2002-04-22/pdf/02-9862.pdf"
+        },
+        {
+          "name": "California Legislative Analyst's Office, Headwaters report, May 4, 1999",
+          "url": "https://lao.ca.gov/1999/050499_headwaters/050499_headwaters.html"
+        },
+        {
+          "name": "BLM unit page: Headwaters Forest Reserve",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/california/headwaters-forest-reserve"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

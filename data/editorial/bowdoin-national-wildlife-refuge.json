@@ -1,0 +1,40 @@
+{
+  "slug": "bowdoin-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-02-14",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Lake Bowdoin Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Lake Bowdoin Migratory Waterfowl Refuge by Executive Order 7295; it is now Bowdoin National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7295",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bowdoin National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bowdoin/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7295—Establishing Lake Bowdoin Migratory Waterfowl Refuge, Montana (Feb 14, 1936)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7295-establishing-lake-bowdoin-migratory-waterfowl-refuge-montana"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7295, 1936-02-14 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Roosevelt established Bowdoin Migratory Waterfowl Refuge in 1936, the Bureau of Biological Survey (a precursor to the U.S."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

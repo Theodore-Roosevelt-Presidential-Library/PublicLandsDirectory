@@ -1,6 +1,6 @@
 {
   "slug": "chickasaw-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1902-07-01",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Act of July 1, 1902, ch. 1362, 32 Stat. 641"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "32 Stat. 641 (Statutes at Large, govinfo): ch. 1362, approved July 1, 1902; Choctaw-Chickasaw agreement, sec. 64 Sulphur Springs cession",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg641.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of July 1, 1902 ratified the Choctaw-Chickasaw agreement whose sec. 64 ceded the Sulphur Springs tract to the United States (T.R.).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1906-06-29",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Renamed and redesignated Platt National Park June 29, 1906",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Pub. Res. No. 42, June 29, 1906, 34 Stat. 837"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "34 Stat. 837 (Statutes at Large, govinfo): Pub. Res. No. 42, June 29, 1906, naming Sulphur Springs Reservation \"Platt National Park\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg837-3.pdf"
+        },
+        {
+          "name": "16 U.S.C. 153 notes (Cornell LII): June 29, 1906, No. 42, 34 Stat. 837",
+          "url": "https://www.law.cornell.edu/uscode/text/16/153"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Joint resolution of June 29, 1906 renamed the reservation Platt National Park (T.R.).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1976-03-17",
@@ -53,20 +77,30 @@
       "name": null,
       "indexText": "Combined with Arbuckle National Recreation Area and additional lands and renamed and redesignated Chickasaw National Recreation Area March 17, 1976",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 94-235, 90 Stat. 235"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 89",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "90 Stat. 235 (Statutes at Large, govinfo): P.L. 94-235, Mar. 17, 1976",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg235.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 94-235 established Chickasaw NRA combining Platt NP and Arbuckle NRA (Ford).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

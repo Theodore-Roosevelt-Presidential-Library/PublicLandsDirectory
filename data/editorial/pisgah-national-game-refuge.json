@@ -1,0 +1,45 @@
+{
+  "slug": "pisgah-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1916-10-17",
+      "action": "established",
+      "designation": "National Game Preserve",
+      "name": "Pisgah National Game Preserve",
+      "indexText": "President Wilson set aside the Weeks Act lands of the Pisgah National Forest, North Carolina, for the protection of game animals, birds and fish as the Pisgah National Game Preserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Woodrow Wilson",
+        "citation": "Proclamation of Oct. 17, 1916, 39 Stat. 1811 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": "govinfo files this proclamation as a second document beginning on page 1811 of volume 39; it may run onto page 1812.",
+      "sources": [
+        {
+          "name": "Proclamation of Oct. 17, 1916 setting aside the Pisgah National Game Preserve, 39 Stat. 1811 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg1811-2.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1350, Setting Aside the Pisgah National Game Preserve, North Carolina",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1350-setting-aside-the-pisgah-national-game-preserve-north-carolina"
+        },
+        {
+          "name": "16 U.S.C. 683 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/683"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cahaba-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2002-09-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cahaba River National Wildlife Refuge was established in 2002 under the Cahaba River National Wildlife Refuge Establishment Act of 2000.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Cahaba River National Wildlife Refuge Establishment Act, Public Law 106-331 (Oct. 19, 2000)",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cahaba River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cahaba-river/about-us"
+        },
+        {
+          "name": "Public Law 106-331, Oct. 19, 2000 (govinfo): \"To provide for the establishment of the Cahaba River National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ331/pdf/PLAW-106publ331.pdf"
+        },
+        {
+          "name": "USFWS, Cahaba River National Wildlife Refuge Comprehensive Conservation Plan (508 Compliant) (ServCat 167938): \"Cahaba River NWR was established in 2002 under the authority of The Cahaba River National Wildlife Refuge Establishment Act, Public Law No. 106-331, passed on October 19, 2000\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/252883"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft signer George W. Bush is wrong: the establishing act was signed by Clinton (Oct. 19, 2000); the refuge came into being in 2002 on first acquisition. The day (Sept. 25, 2002) comes only from the FWS page.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cahaba River National Wildlife Refuge was established September 25, 2002 for the purpose of protecting and managing a unique section of the Cahaba River and land adjacent to it."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

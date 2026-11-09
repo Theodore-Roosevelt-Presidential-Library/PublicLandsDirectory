@@ -37,12 +37,15 @@ const states = (await readJSON(statesFile)).features.map((f) => ({ code: f.prope
 function statesFor(geom, pt) {
   const pts = geom ? sampleVertices(geom, 150) : [];
   if (pt) pts.push([pt.lon, pt.lat]);
-  const hit = new Set();
-  for (const p of pts) for (const s of states) {
+  // A state counts when it holds the site's label point or a real share of its boundary. One vertex across a line,
+  // left by simplification (Beaver Dam Wash in Nevada, Baaj Nwaavjo in Utah), is not enough.
+  const n = {}, labelState = [];
+  pts.forEach((p, i) => { for (const s of states) {
     if (p[0] < s.bbox[0] || p[0] > s.bbox[2] || p[1] < s.bbox[1] || p[1] > s.bbox[3]) continue;
-    if (pointInGeom(p, s.geom)) { hit.add(s.code); break; }
-  }
-  return [...hit].sort();
+    if (pointInGeom(p, s.geom)) { n[s.code] = (n[s.code] || 0) + 1; if (pt && i === pts.length - 1) labelState.push(s.code); break; }
+  } });
+  const min = 2;
+  return Object.keys(n).filter((c) => n[c] >= min || labelState.includes(c) || Object.keys(n).length === 1).sort();
 }
 
 // ---- load sources ----
@@ -86,6 +89,7 @@ const allTrails = (await readJSON(join(DATA, 'reference', 'alltrails.json'), { s
 const geomOf = new Map();
 const visits = (await readJSON(join(DATA, 'reference', 'visitation.json'), { sites: {} })).sites;
 const recGov = (await readJSON(join(DATA, 'reference', 'recgov.json'), { sites: {} })).sites;
+const manualLinks = (await readJSON(join(DATA, 'editorial', '_official-links.json'), { sites: {} })).sites;
 const verifiedLinks = (await readJSON(join(DATA, 'reference', 'links.json'), { sites: {} })).sites;
 const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
@@ -120,7 +124,8 @@ for (const recs of groups.values()) {
       trConnection: raw.trConnection && raw.trConnection.reviewed !== false ? raw.trConnection : null,
     };
     const location = rec.location || (geometry ? labelPoint(geometry) : null);
-    const st = rec.states?.length ? rec.states : statesFor(geometry, location);
+    // A reviewed editorial "states" list wins over the computed one (boundaries can stray over a state line).
+    const st = ed.states?.length ? ed.states : rec.states?.length ? rec.states : statesFor(geometry, location);
     const bbox = geometry ? bboxOf(geometry) : null;
     const history = (ed.designationHistory || []).slice().sort((a, b) => a.date.localeCompare(b.date));
     // Only claim "first protected" when no unreviewed event is older than the earliest reviewed one.
@@ -158,7 +163,7 @@ for (const recs of groups.values()) {
       trConnections: [...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))],
       trTypes: [...new Set([...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))].map((c) => c.type))],
       links: {
-        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || null,
+        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || manualLinks[slug]?.url || null,
         social: ed.links?.social || verifiedLinks[slug]?.social || {},
         ...(!ed.links?.social && verifiedLinks[slug]?.social && Object.keys(verifiedLinks[slug].social).length ? { socialSource: verifiedLinks[slug].socialSource || 'Wikidata' } : {}),
         recreationGov: ed.links?.recreationGov || rec.links?.recreationGov || recGov[slug]?.url || null,

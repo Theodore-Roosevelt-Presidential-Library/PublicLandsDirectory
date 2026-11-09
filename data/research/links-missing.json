@@ -1,0 +1,524 @@
+[
+ {
+  "slug": "baaj-nwaavjo-itah-kukveni-national-monument",
+  "name": "Baaj Nwaavjo I'tah Kukveni National Monument",
+  "agency": "BLM",
+  "states": [
+   "AZ",
+   "UT"
+  ]
+ },
+ {
+  "slug": "beaver-dam-wash-national-conservation-area",
+  "name": "Beaver Dam Wash National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "NV",
+   "UT"
+  ]
+ },
+ {
+  "slug": "berryessa-snow-mountain-national-monument",
+  "name": "Berryessa Snow Mountain National Monument",
+  "agency": "BLM",
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "slug": "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area",
+  "name": "Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "NV"
+  ]
+ },
+ {
+  "slug": "cascade-siskiyou-national-monument",
+  "name": "Cascade-Siskiyou National Monument",
+  "agency": "BLM",
+  "states": [
+   "CA",
+   "OR"
+  ]
+ },
+ {
+  "slug": "chase-lake-prairie-project-wetland-management-district",
+  "name": "Chase Lake Prairie Project Wetland Management District",
+  "agency": "FWS",
+  "states": [
+   "ND"
+  ]
+ },
+ {
+  "slug": "coeur-dalene-national-forest",
+  "name": "Coeur D’alene National Forest",
+  "agency": "USFS",
+  "states": [
+   "ID",
+   "MT"
+  ]
+ },
+ {
+  "slug": "curlew-national-grassland",
+  "name": "Curlew National Grassland",
+  "agency": "USFS",
+  "states": [
+   "ID"
+  ]
+ },
+ {
+  "slug": "dominguez-escalante-national-conservation-area",
+  "name": "Dominguez/Escalante National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "CO"
+  ]
+ },
+ {
+  "slug": "fort-stanton-snowy-river-national-conservation-area",
+  "name": "Fort Stanton - Snowy River National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "NM"
+  ]
+ },
+ {
+  "slug": "gila-box-riparian-national-conservation-area",
+  "name": "Gila Box Riparian National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "AZ"
+  ]
+ },
+ {
+  "slug": "grand-river-national-grassland",
+  "name": "Grand River National Grassland",
+  "agency": "USFS",
+  "states": [
+   "ND",
+   "SD"
+  ]
+ },
+ {
+  "slug": "grand-staircase-escalante-national-monument",
+  "name": "Grand Staircase-Escalante National Monument",
+  "agency": "BLM",
+  "states": [
+   "UT"
+  ]
+ },
+ {
+  "slug": "holly-springs-national-forest",
+  "name": "Holly Springs National Forest",
+  "agency": "USFS",
+  "states": [
+   "MS"
+  ]
+ },
+ {
+  "slug": "indian-nations-national-scenic-and-wildlife-area",
+  "name": "Indian Nations National Scenic And Wildlife Area",
+  "agency": "USFS",
+  "states": [
+   "OK"
+  ]
+ },
+ {
+  "slug": "ironwood-forest-national-monument",
+  "name": "Ironwood Forest National Monument",
+  "agency": "BLM",
+  "states": [
+   "AZ"
+  ]
+ },
+ {
+  "slug": "jefferson-national-forest",
+  "name": "Jefferson National Forest",
+  "agency": "USFS",
+  "states": [
+   "KY",
+   "TN",
+   "VA",
+   "WV"
+  ]
+ },
+ {
+  "slug": "jemez-national-recreation-area",
+  "name": "Jemez National Recreation Area",
+  "agency": "USFS",
+  "states": [
+   "NM"
+  ]
+ },
+ {
+  "slug": "john-wesley-powell-national-conservation-area",
+  "name": "John Wesley Powell National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "CO",
+   "UT"
+  ]
+ },
+ {
+  "slug": "jupiter-inlet-lighthouse-outstanding-natural-area",
+  "name": "Jupiter Inlet Lighthouse Outstanding Natural Area",
+  "agency": "BLM",
+  "states": [
+   "FL"
+  ]
+ },
+ {
+  "slug": "kaniksu-national-forest",
+  "name": "Kaniksu National Forest",
+  "agency": "USFS",
+  "states": [
+   "ID",
+   "MT",
+   "WA"
+  ]
+ },
+ {
+  "slug": "king-range-national-conservation-area",
+  "name": "King Range National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "slug": "kiowa-national-grassland",
+  "name": "Kiowa National Grassland",
+  "agency": "USFS",
+  "states": [
+   "NM"
+  ]
+ },
+ {
+  "slug": "land-between-the-lakes-national-recreation-area",
+  "name": "Land Between the Lakes National Recreation Area",
+  "agency": "USFS",
+  "states": [
+   "KY",
+   "TN"
+  ]
+ },
+ {
+  "slug": "las-cienegas-national-conservation-area",
+  "name": "Las Cienegas National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "AZ"
+  ]
+ },
+ {
+  "slug": "morley-nelson-snake-river-birds-of-prey-national-conservation-area",
+  "name": "Morley Nelson Snake River Birds of Prey National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "ID"
+  ]
+ },
+ {
+  "slug": "mt-baker-national-forest",
+  "name": "Mt. Baker National Forest",
+  "agency": "USFS",
+  "states": [
+   "WA"
+  ]
+ },
+ {
+  "slug": "nezperce-national-forest",
+  "name": "Nezperce National Forest",
+  "agency": "USFS",
+  "states": [
+   "ID",
+   "MT",
+   "OR"
+  ]
+ },
+ {
+  "slug": "norbeck-wildlife-preserve-national-game-refuge",
+  "name": "Norbeck Wildlife Preserve National Game Refuge",
+  "agency": "USFS",
+  "states": [
+   "SD"
+  ]
+ },
+ {
+  "slug": "northwest-montana-wetland-management-district-flathead-county",
+  "name": "Northwest Montana Wetland Management District-Flathead County",
+  "agency": "FWS",
+  "states": [
+   "MT"
+  ]
+ },
+ {
+  "slug": "northwest-montana-wetland-management-district-lake-county",
+  "name": "Northwest Montana Wetland Management District-Lake County",
+  "agency": "FWS",
+  "states": [
+   "MT"
+  ]
+ },
+ {
+  "slug": "numunaa-nobe-national-conservation-area",
+  "name": "Numunaa Nobe National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "NV"
+  ]
+ },
+ {
+  "slug": "organ-mountains-desert-peaks-national-monument",
+  "name": "Organ Mountains - Desert Peaks National Monument",
+  "agency": "BLM",
+  "states": [
+   "NM"
+  ]
+ },
+ {
+  "slug": "piedras-blancas-outstanding-natural-area",
+  "name": "Piedras Blancas Outstanding Natural Area",
+  "agency": "BLM",
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "slug": "pistone-black-mountain-national-conservation-area",
+  "name": "Pistone-Black Mountain National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "NV"
+  ]
+ },
+ {
+  "slug": "pompeys-pillar-national-monument",
+  "name": "Pompeys Pillar National Monument",
+  "agency": "BLM",
+  "states": [
+   "MT"
+  ]
+ },
+ {
+  "slug": "red-cliffs-national-conservation-area",
+  "name": "Red Cliffs National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "UT"
+  ]
+ },
+ {
+  "slug": "rio-grande-del-norte-national-monument",
+  "name": "Río Grande del Norte National Monument",
+  "agency": "BLM",
+  "states": [
+   "CO",
+   "NM"
+  ]
+ },
+ {
+  "slug": "san-juan-islands-national-monument",
+  "name": "San Juan Islands National Monument",
+  "agency": "BLM",
+  "states": [
+   "WA"
+  ]
+ },
+ {
+  "slug": "san-pedro-riparian-national-conservation-area",
+  "name": "San Pedro Riparian National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "AZ"
+  ]
+ },
+ {
+  "slug": "santa-rosa-san-jacinto-mountains-national-monument",
+  "name": "Santa Rosa-San Jacinto Mountains National Monument",
+  "agency": "BLM",
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "slug": "sonoran-desert-national-monument",
+  "name": "Sonoran Desert National Monument",
+  "agency": "BLM",
+  "states": [
+   "AZ"
+  ]
+ },
+ {
+  "slug": "st-joe-national-forest",
+  "name": "St. Joe National Forest",
+  "agency": "USFS",
+  "states": [
+   "ID",
+   "MT"
+  ]
+ },
+ {
+  "slug": "steens-mountain-cooperative-management-and-protection-area",
+  "name": "Steens Mountain Cooperative Management and Protection Area",
+  "agency": "BLM",
+  "states": [
+   "OR"
+  ]
+ },
+ {
+  "slug": "steese-national-conservation-area",
+  "name": "Steese National Conservation Area",
+  "agency": "BLM",
+  "states": [
+   "AK"
+  ]
+ },
+ {
+  "slug": "uinta-national-forest",
+  "name": "Uinta National Forest",
+  "agency": "USFS",
+  "states": [
+   "UT"
+  ]
+ },
+ {
+  "slug": "upper-missouri-river-breaks-national-monument",
+  "name": "Upper Missouri River Breaks National Monument",
+  "agency": "BLM",
+  "states": [
+   "MT"
+  ]
+ },
+ {
+  "slug": "willamette-national-forest",
+  "name": "Willamette National Forest",
+  "agency": "USFS",
+  "states": [
+   "OR"
+  ]
+ },
+ {
+  "slug": "william-b-bankhead-national-forest",
+  "name": "William B. Bankhead National Forest",
+  "agency": "USFS",
+  "states": [
+   "AL"
+  ]
+ },
+ {
+  "slug": "yaquina-head-outstanding-natural-area",
+  "name": "Yaquina Head Outstanding Natural Area",
+  "agency": "BLM",
+  "states": [
+   "OR"
+  ]
+ },
+ {
+  "slug": "zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "IA",
+   "MN"
+  ]
+ },
+ {
+  "slug": "zz-fws",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "IL",
+   "WI"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "SD"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MI",
+   "OH"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "ND"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "WI"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "WI"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "ND",
+   "SD"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN",
+   "ND"
+  ]
+ },
+ {
+  "slug": "zz-fws-zz",
+  "name": "Zz",
+  "agency": "FWS",
+  "states": [
+   "MN"
+  ]
+ }
+]

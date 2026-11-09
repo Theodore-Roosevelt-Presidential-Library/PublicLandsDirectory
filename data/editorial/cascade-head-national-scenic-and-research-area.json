@@ -1,0 +1,37 @@
+{
+  "slug": "cascade-head-national-scenic-and-research-area",
+  "designationHistory": [
+    {
+      "date": "1974-12-22",
+      "action": "established",
+      "designation": "Scenic-Research Area",
+      "name": "Cascade Head Scenic-Research Area",
+      "indexText": "Congress established the Cascade Head Scenic-Research Area in the Siuslaw National Forest, Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Gerald R. Ford",
+        "citation": "Public Law 93-535, sec. 1, 88 Stat. 1732",
+        "signedBy": "Gerald R. Ford"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 93-535, 88 Stat. 1732 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1732.pdf"
+        },
+        {
+          "name": "16 U.S.C. 541 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/541"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

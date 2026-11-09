@@ -1,6 +1,6 @@
 {
   "slug": "fort-bowie-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1964-08-30",
@@ -12,39 +12,64 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 88-510, 78 Stat. 681"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 78 Stat. 681 (govinfo): P.L. 88-510, approved Aug. 30, 1964",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg667.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 88-510; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1972-07-29",
+      "date": "1972-07-28",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established July 29, 1972",
+      "indexText": "Established July 28, 1972",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "NPS notice dated July 28, 1972, 37 F.R. (Aug. 3, 1972), FR Doc. 72-12104"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 1972-08-03 (govinfo issue PDF): NPS \"Designation and Establishment\" notice: \"the Fort Bowie National Historic Site is hereby established. Dated: July 28, 1972\" (FR Doc. 72-12104)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1972-08-03/pdf/FR-1972-08-03.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "The signed establishment notice is dated July 28, 1972 (published Aug. 3, 1972), not July 29. Nixon in office either way.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established July 29, 1972"
     }
   ],
   "historySource": {

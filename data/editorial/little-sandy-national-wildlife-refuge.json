@@ -1,0 +1,37 @@
+{
+ "slug": "little-sandy-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1986",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Fish and Wildlife Service acquired a 3,802-acre easement on bottomland hardwood forest along the Sabine River in Wood County, Texas, creating the Little Sandy National Wildlife Refuge.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Acquisition of a conservation easement (1986 environmental assessment)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Inventory and Monitoring Plan: Little Sandy NWR (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/120834"
+    },
+    {
+     "name": "FWS ServCat: Little Sandy NWR Forest Habitat Management Plan (2024)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/165929"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

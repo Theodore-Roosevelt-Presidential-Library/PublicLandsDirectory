@@ -1,0 +1,2739 @@
+[
+ {
+  "id": "angeles-national-forest#0",
+  "site": "Angeles National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Angeles: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 846"
+  },
+  "claim": "Angeles National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 846). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 26",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "angelina-national-forest#0",
+  "site": "Angelina National Forest",
+  "date": "1936-10-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Angelina: 1-F.R. 1601 Established. 50 Stat. 1780",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2202"
+  },
+  "claim": "Angelina National Forest: established (National Forest) on 1936-10-13 by presidential-proclamation (Proclamation 2202). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "apache-national-forest#0",
+  "site": "Apache National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Apache: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 876"
+  },
+  "claim": "Apache National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 876). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "arapaho-national-forest#0",
+  "site": "Arapaho National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Arapaho: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 893"
+  },
+  "claim": "Arapaho National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 893). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ashley-national-forest#0",
+  "site": "Ashley National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Ashley: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 884"
+  },
+  "claim": "Ashley National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 884). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "beaverhead-national-forest#0",
+  "site": "Beaverhead National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "eaverhead: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 877"
+  },
+  "claim": "Beaverhead National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 877). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bienville-national-forest#0",
+  "site": "Bienville National Forest",
+  "date": "1936-06-15",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Bienville: 1-F.R. 606 Established. 49 Stat. 3521",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2175"
+  },
+  "claim": "Bienville National Forest: established (National Forest) on 1936-06-15 by presidential-proclamation (Proclamation 2175). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bighorn-national-forest#0",
+  "site": "Bighorn National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Big Horn Forest Reserve",
+  "indexText": "Big Horn: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 909"
+  },
+  "claim": "Bighorn National Forest: established as Big Horn Forest Reserve (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 909). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bighorn-national-forest#1",
+  "site": "Bighorn National Forest",
+  "date": "1908-07-02",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Bighorn National Forest",
+  "indexText": "Big Horn: Name changed to Bighorn.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Bighorn National Forest: renamed as Bighorn National Forest (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bighorn-national-forest#2",
+  "site": "Bighorn National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Big Horn: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 909"
+  },
+  "claim": "Bighorn National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 909). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bitterroot-national-forest#0",
+  "site": "Bitterroot National Forest",
+  "date": "1908-07-01",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Bitterroot National Forest",
+  "indexText": "Missoula: Part of Hell Gate and Lewis & Clark added. UL Hell Gate. Land transferred to Beaverhead, Clearwater, Nezperce and Salmon. Name changed to Bitterroot.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 882"
+  },
+  "claim": "Bitterroot National Forest: renamed as Bitterroot National Forest (National Forest) on 1908-07-01 by executive-order (Executive Order 882). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bitterroot-national-forest#1",
+  "site": "Bitterroot National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Bitter Root: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 899"
+  },
+  "claim": "Bitterroot National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 899). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "black-hills-national-forest#0",
+  "site": "Black Hills National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Black Hills: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 902"
+  },
+  "claim": "Black Hills National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 902). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bridger-national-forest#0",
+  "site": "Bridger National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Wyoming Forest Reserve",
+  "indexText": "Wyoming: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 873"
+  },
+  "claim": "Bridger National Forest: established as Wyoming Forest Reserve (National Forest) on 1908-07-01 by executive-order (Executive Order 873). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bridger-national-forest#1",
+  "site": "Bridger National Forest",
+  "date": "1941-03-10",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Bridger National Forest",
+  "indexText": "Wyoming: 6-F.R. 1400 Name changed to Bridger.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Executive Order 8709"
+  },
+  "claim": "Bridger National Forest: renamed as Bridger National Forest (National Forest) on 1941-03-10 by executive-order (Executive Order 8709). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 83",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "bridger-national-forest#2",
+  "site": "Bridger National Forest",
+  "date": "1911-06-30",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Br idger: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William Howard Taft",
+   "citation": "Proclamation 1164, 37 Stat. 1713"
+  },
+  "claim": "Bridger National Forest: established (National Forest) on 1911-06-30 by presidential-proclamation (Proclamation 1164, 37 Stat. 1713). President in office: William Howard Taft.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 42",
+  "note": "Effective 1911-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "caribou-national-forest#0",
+  "site": "Caribou National Forest",
+  "date": "1907-01-15",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Caribou: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3267"
+  },
+  "claim": "Caribou National Forest: established (Forest Reserve) on 1907-01-15 by presidential-proclamation (34 Stat. 3267). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 19",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "carson-national-forest#0",
+  "site": "Carson National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Carson: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 848"
+  },
+  "claim": "Carson National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 848). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 26",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "chattahoochee-national-forest#0",
+  "site": "Chattahoochee National Forest",
+  "date": "1936-07-09",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Chattahoochee: 1-F.R. 776 Established. 50 Stat. 1739",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2184"
+  },
+  "claim": "Chattahoochee National Forest: established (National Forest) on 1936-07-09 by presidential-proclamation (Proclamation 2184). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "chequamegon-national-forest#0",
+  "site": "Chequamegon National Forest",
+  "date": "1933-11-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Lnequamegon: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2061, 48 Stat. 1716"
+  },
+  "claim": "Chequamegon National Forest: established (National Forest) on 1933-11-13 by presidential-proclamation (Proclamation 2061, 48 Stat. 1716). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 73",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "chippewa-national-forest#0",
+  "site": "Chippewa National Forest",
+  "date": "1908-05-23",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Minnesota Forest Reserve",
+  "indexText": "Minnesota: Established.",
+  "authority": {
+   "type": "act-of-congress",
+   "administration": "Theodore Roosevelt",
+   "citation": "Public Law 137, 35 Stat. 268"
+  },
+  "claim": "Chippewa National Forest: established as Minnesota Forest Reserve (National Forest) on 1908-05-23 by act-of-congress (Public Law 137, 35 Stat. 268). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "chippewa-national-forest#1",
+  "site": "Chippewa National Forest",
+  "date": "1928-06-22",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Chippewa National Forest",
+  "indexText": "Minnesota: Name changed to Chippewa. <('",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Calvin Coolidge",
+   "citation": "Executive Order 4913"
+  },
+  "claim": "Chippewa National Forest: renamed as Chippewa National Forest (National Forest) on 1928-06-22 by executive-order (Executive Order 4913). President in office: Calvin Coolidge.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 64",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "chugach-national-forest#0",
+  "site": "Chugach National Forest",
+  "date": "1941-12-17",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Chugach: Established Afognak. C 23, 1941 1942",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Executive Order 8979"
+  },
+  "claim": "Chugach National Forest: established (National Forest) on 1941-12-17 by executive-order (Executive Order 8979). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 83",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "cibola-national-forest#0",
+  "site": "Cibola National Forest",
+  "date": "1906-11-06",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Manzano Forest Reserve",
+  "indexText": "Manzano: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3257"
+  },
+  "claim": "Cibola National Forest: established as Manzano Forest Reserve (Forest Reserve) on 1906-11-06 by presidential-proclamation (34 Stat. 3257). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 18",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "cibola-national-forest#1",
+  "site": "Cibola National Forest",
+  "date": "1931-12-03",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Cibola National Forest",
+  "indexText": "Manzano: Land added from Datil and name changed to Cibola.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Herbert Hoover",
+   "citation": "Executive Order 5752"
+  },
+  "claim": "Cibola National Forest: renamed as Cibola National Forest (National Forest) on 1931-12-03 by executive-order (Executive Order 5752). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 69",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "clearwater-national-forest#0",
+  "site": "Clearwater National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Clearwater: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 842"
+  },
+  "claim": "Clearwater National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 842). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 26",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "cleveland-national-forest#0",
+  "site": "Cleveland National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Cleveland: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Cleveland National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 31",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "coconino-national-forest#0",
+  "site": "Coconino National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Coconino: Established. UL greaves , Tonto, Apache and Coconino. Name discontinued.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 818, 35 Stat. 2196"
+  },
+  "claim": "Coconino National Forest: established (National Forest) on 1908-07-02 by presidential-proclamation (Proclamation 818, 35 Stat. 2196). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "coeur-dalene-national-forest#0",
+  "site": "Coeur D’alene National Forest",
+  "date": "1906-11-06",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Coeur d1Alene: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3256"
+  },
+  "claim": "Coeur D’alene National Forest: established (Forest Reserve) on 1906-11-06 by presidential-proclamation (34 Stat. 3256). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 18",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "colville-national-forest#0",
+  "site": "Colville National Forest",
+  "date": "1907-03-01",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Colville: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3288"
+  },
+  "claim": "Colville National Forest: established (Forest Reserve) on 1907-03-01 by presidential-proclamation (34 Stat. 3288). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 20",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "conecuh-national-forest#0",
+  "site": "Conecuh National Forest",
+  "date": "1936-07-17",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Conecuh: 1-F.R. 859 Established. 50 Stat. 1754",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2189"
+  },
+  "claim": "Conecuh National Forest: established (National Forest) on 1936-07-17 by presidential-proclamation (Proclamation 2189). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "coronado-national-forest#0",
+  "site": "Coronado National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Coronado: JUl 1. 1908 Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Coronado National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 31",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "croatan-national-forest#0",
+  "site": "Croatan National Forest",
+  "date": "1936-07-29",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Croatan: 1-F.R. 909 Established. 50 Stat. 1759",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2192"
+  },
+  "claim": "Croatan National Forest: established (National Forest) on 1936-07-29 by presidential-proclamation (Proclamation 2192). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "custer-national-forest#0",
+  "site": "Custer National Forest",
+  "date": "1908-07-02",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Custer National Forest",
+  "indexText": "Otter: Name changed to Custer.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Custer National Forest: renamed as Custer National Forest (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 32",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "daniel-boone-national-forest#0",
+  "site": "Daniel Boone National Forest",
+  "date": "1937-02-23",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Cumberland Forest Reserve",
+  "indexText": "Cumberland: 2-F.R. 361 Established. 50 Stat. 1818",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2227"
+  },
+  "claim": "Daniel Boone National Forest: established as Cumberland Forest Reserve (National Forest) on 1937-02-23 by presidential-proclamation (Proclamation 2227). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 78",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "daniel-boone-national-forest#1",
+  "site": "Daniel Boone National Forest",
+  "date": "1966-04-11",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Daniel Boone National Forest",
+  "indexText": "Cumberland: 31-F.R. 5807 Name changed to Daniel Boone.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Lyndon B. Johnson",
+   "citation": "Proclamation 3715"
+  },
+  "claim": "Daniel Boone National Forest: renamed as Daniel Boone National Forest (National Forest) on 1966-04-11 by presidential-proclamation (Proclamation 3715). President in office: Lyndon B. Johnson.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 106",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "davy-crockett-national-forest#0",
+  "site": "Davy Crockett National Forest",
+  "date": "1936-10-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Davy Crockett: 1-F.R. 1603 Established. 50 Stat. 1782",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2203"
+  },
+  "claim": "Davy Crockett National Forest: established (National Forest) on 1936-10-13 by presidential-proclamation (Proclamation 2203). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "deerlodge-national-forest#0",
+  "site": "Deerlodge National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Deer lodge: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 880"
+  },
+  "claim": "Deerlodge National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 880). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "delta-national-forest#0",
+  "site": "Delta National Forest",
+  "date": "1961-01-12",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Delta: 26-F.R. 627 Established. Formerly part of Delta Purchase Unit.",
+  "authority": {
+   "type": "administrative-order",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Sec. of Agr. Order"
+  },
+  "claim": "Delta National Forest: established (National Forest) on 1961-01-12 by administrative-order (Sec. of Agr. Order). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 100",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "deschutes-national-forest#0",
+  "site": "Deschutes National Forest",
+  "date": "1908-06-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Deschutes: Established. N 13, 1908 Whitman, Malheur, Umatilla and Deschutes. Name discontinued.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 816"
+  },
+  "claim": "Deschutes National Forest: established (National Forest) on 1908-06-13 by executive-order (Executive Order 816). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "eldorado-national-forest#0",
+  "site": "Eldorado National Forest",
+  "date": "1910-07-28",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Eldorado: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William Howard Taft",
+   "citation": "Proclamation 1070, 36 Stat. 2729"
+  },
+  "claim": "Eldorado National Forest: established (National Forest) on 1910-07-28 by presidential-proclamation (Proclamation 1070, 36 Stat. 2729). President in office: William Howard Taft.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 38",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "fishlake-national-forest#0",
+  "site": "Fishlake National Forest",
+  "date": "1899-02-10",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Fish Lake Forest Reserve",
+  "indexText": "Fish Lake: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "30 Stat. 1787"
+  },
+  "claim": "Fishlake National Forest: established as Fish Lake Forest Reserve (Forest Reserve) on 1899-02-10 by presidential-proclamation (30 Stat. 1787). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "fishlake-national-forest#1",
+  "site": "Fishlake National Forest",
+  "date": "1908-07-02",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Fishlake National Forest",
+  "indexText": "Fish Lake: Glenwood added. Name changed to Fishlake.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Fishlake National Forest: renamed as Fishlake National Forest (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 33",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "fishlake-national-forest#2",
+  "site": "Fishlake National Forest",
+  "date": "1899-02-10",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Fish Lake: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "30 Stat. 1787"
+  },
+  "claim": "Fishlake National Forest: established (Forest Reserve) on 1899-02-10 by presidential-proclamation (30 Stat. 1787). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "flathead-national-forest#0",
+  "site": "Flathead National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Flathead: Established reserve. ) contains, among other things the following proviso: ed February twenty-second, eighteen hundred and ninety-seven, Wyoming, Utah, Montana, Washington, Idaho, and South Dakota as d lands embraced therein restored to the public domain the same d: Provided further, That ",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 911"
+  },
+  "claim": "Flathead National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 911). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "francis-marion-national-forest#0",
+  "site": "Francis Marion National Forest",
+  "date": "1936-07-10",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "fl^ancis Marion: 1-F.R. 792 Established. 50 Stat. 1744",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2186"
+  },
+  "claim": "Francis Marion National Forest: established (National Forest) on 1936-07-10 by presidential-proclamation (Proclamation 2186). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "fremont-national-forest#0",
+  "site": "Fremont National Forest",
+  "date": "1906-09-17",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Fremont: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3231"
+  },
+  "claim": "Fremont National Forest: established (Forest Reserve) on 1906-09-17 by presidential-proclamation (34 Stat. 3231). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "gallatin-national-forest#0",
+  "site": "Gallatin National Forest",
+  "date": "1899-02-10",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Gallatin: Established reserve. MAR Pacific, to establish Mt. Rainier National Park",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "30 Stat. 1788"
+  },
+  "claim": "Gallatin National Forest: established (Forest Reserve) on 1899-02-10 by presidential-proclamation (30 Stat. 1788). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "george-washington-national-forest#0",
+  "site": "George Washington National Forest",
+  "date": "1918-05-16",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Shenandoah Forest Reserve",
+  "indexText": "Shenandoah: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Woodrow Wilson",
+   "citation": "Proclamation 1448, 40 Stat. 1779"
+  },
+  "claim": "George Washington National Forest: established as Shenandoah Forest Reserve (National Forest) on 1918-05-16 by presidential-proclamation (Proclamation 1448, 40 Stat. 1779). President in office: Woodrow Wilson.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 50",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "george-washington-national-forest#1",
+  "site": "George Washington National Forest",
+  "date": "1932-06-28",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "George Washington National Forest",
+  "indexText": "Shenandoah: Name changed to George Washington.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Herbert Hoover",
+   "citation": "Executive Order 5867"
+  },
+  "claim": "George Washington National Forest: renamed as George Washington National Forest (National Forest) on 1932-06-28 by executive-order (Executive Order 5867). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 71",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "gifford-pinchot-national-forest#0",
+  "site": "Gifford Pinchot National Forest",
+  "date": "1949-06-15",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Gifford Pinchot: 14-F.R. 3273 Established. 63 Stat. 1277",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Harry S. Truman",
+   "citation": "Proclamation 2845"
+  },
+  "claim": "Gifford Pinchot National Forest: established (National Forest) on 1949-06-15 by presidential-proclamation (Proclamation 2845). President in office: Harry S. Truman.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 90",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "gila-national-forest#0",
+  "site": "Gila National Forest",
+  "date": "1899-03-02",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Gila River Forest Reserve",
+  "indexText": "Gila River: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "34 Stat. 3126"
+  },
+  "claim": "Gila National Forest: established as Gila River Forest Reserve (Forest Reserve) on 1899-03-02 by presidential-proclamation (34 Stat. 3126). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "gila-national-forest#1",
+  "site": "Gila National Forest",
+  "date": "1905-07-21",
+  "action": "renamed",
+  "designation": "Forest Reserve",
+  "name": "Gila Forest Reserve",
+  "indexText": "Gi 1 a River: Boundary redescribed. Name changed to Gila.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3123"
+  },
+  "claim": "Gila National Forest: renamed as Gila Forest Reserve (Forest Reserve) on 1905-07-21 by presidential-proclamation (34 Stat. 3123). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "grand-mesa-national-forest#0",
+  "site": "Grand Mesa National Forest",
+  "date": "1924-03-11",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Grand Mesa: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Calvin Coolidge",
+   "citation": "Executive Order 3970"
+  },
+  "claim": "Grand Mesa National Forest: established (National Forest) on 1924-03-11 by executive-order (Executive Order 3970). President in office: Calvin Coolidge.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 58",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "green-mountain-national-forest#0",
+  "site": "Green Mountain National Forest",
+  "date": "1932-04-25",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Green Mountain: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Herbert Hoover",
+   "citation": "Proclamation 1997, 47 Stat. 2509"
+  },
+  "claim": "Green Mountain National Forest: established (National Forest) on 1932-04-25 by presidential-proclamation (Proclamation 1997, 47 Stat. 2509). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 70",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "gunnison-national-forest#0",
+  "site": "Gunnison National Forest",
+  "date": "1905-05-12",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "lunnison: Established reserve. 1891 - 1985",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3025"
+  },
+  "claim": "Gunnison National Forest: established (Forest Reserve) on 1905-05-12 by presidential-proclamation (34 Stat. 3025). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "helena-national-forest#0",
+  "site": "Helena National Forest",
+  "date": "1906-04-12",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Helena: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3196"
+  },
+  "claim": "Helena National Forest: established (Forest Reserve) on 1906-04-12 by presidential-proclamation (34 Stat. 3196). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 16",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "hiawatha-national-forest#0",
+  "site": "Hiawatha National Forest",
+  "date": "1931-01-16",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Hiawatha: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Herbert Hoover",
+   "citation": "Proclamation 1931, 46 Stat. 3043"
+  },
+  "claim": "Hiawatha National Forest: established (National Forest) on 1931-01-16 by presidential-proclamation (Proclamation 1931, 46 Stat. 3043). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 68",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "holly-springs-national-forest#0",
+  "site": "Holly Springs National Forest",
+  "date": "1936-06-15",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Holly Springs: 1-F.R. 606 Established. 49 Stat. 3522",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2176"
+  },
+  "claim": "Holly Springs National Forest: established (National Forest) on 1936-06-15 by presidential-proclamation (Proclamation 2176). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "homochitto-national-forest#0",
+  "site": "Homochitto National Forest",
+  "date": "1936-07-20",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Homochitto: 1-F.R. 872 Established. 50 Stat. 1758",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2191"
+  },
+  "claim": "Homochitto National Forest: established (National Forest) on 1936-07-20 by presidential-proclamation (Proclamation 2191). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "humboldt-national-forest#0",
+  "site": "Humboldt National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Humboldt: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Humboldt National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 32",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "inyo-national-forest#0",
+  "site": "Inyo National Forest",
+  "date": "1907-05-25",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Inyo: Established. 25, 1907",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "35 Stat. 2134"
+  },
+  "claim": "Inyo National Forest: established (National Forest) on 1907-05-25 by presidential-proclamation (35 Stat. 2134). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 22",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "jefferson-national-forest#0",
+  "site": "Jefferson National Forest",
+  "date": "1936-04-21",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Jefferson: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2165, 49 Stat. 3506"
+  },
+  "claim": "Jefferson National Forest: established (National Forest) on 1936-04-21 by presidential-proclamation (Proclamation 2165, 49 Stat. 3506). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "kaibab-national-forest#0",
+  "site": "Kaibab National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Kaibab: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 909"
+  },
+  "claim": "Kaibab National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 909). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "kisatchie-national-forest#0",
+  "site": "Kisatchie National Forest",
+  "date": "1936-06-03",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Kisatchie: 1-F.R. 544 Established. d 49 Stat. 3520",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2173"
+  },
+  "claim": "Kisatchie National Forest: established (National Forest) on 1936-06-03 by presidential-proclamation (Proclamation 2173). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "klamath-national-forest#0",
+  "site": "Klamath National Forest",
+  "date": "1905-05-06",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Klamath: Established reserve",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3001"
+  },
+  "claim": "Klamath National Forest: established (Forest Reserve) on 1905-05-06 by presidential-proclamation (34 Stat. 3001). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "kootenai-national-forest#0",
+  "site": "Kootenai National Forest",
+  "date": "1906-08-13",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Kootenai: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3225"
+  },
+  "claim": "Kootenai National Forest: established (Forest Reserve) on 1906-08-13 by presidential-proclamation (34 Stat. 3225). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lassen-national-forest#0",
+  "site": "Lassen National Forest",
+  "date": "1905-06-02",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Lassen Peak Forest Reserve",
+  "indexText": "Lassen Peak: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3063"
+  },
+  "claim": "Lassen National Forest: established as Lassen Peak Forest Reserve (Forest Reserve) on 1905-06-02 by presidential-proclamation (34 Stat. 3063). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 14",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lassen-national-forest#1",
+  "site": "Lassen National Forest",
+  "date": "1908-07-02",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Lassen National Forest",
+  "indexText": "Lassen Peak: Added part of Plumas, Shasta and Diamond Mtn. Name changed to Lassen.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 906"
+  },
+  "claim": "Lassen National Forest: renamed as Lassen National Forest (National Forest) on 1908-07-02 by executive-order (Executive Order 906). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lewis-and-clark-national-forest#0",
+  "site": "Lewis & Clark National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Lewis & Clarke Forest Reserve",
+  "indexText": "Lewis & Clarke: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 907"
+  },
+  "claim": "Lewis & Clark National Forest: established as Lewis & Clarke Forest Reserve (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 907). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lewis-and-clark-national-forest#1",
+  "site": "Lewis & Clark National Forest",
+  "date": "1907-03-02",
+  "action": "renamed",
+  "designation": "Forest Reserve",
+  "name": "Lewis & Clark Forest Reserve",
+  "indexText": "Lewis & Clarke: Land added. Name changed to Lewis & Clark.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3304"
+  },
+  "claim": "Lewis & Clark National Forest: renamed as Lewis & Clark Forest Reserve (Forest Reserve) on 1907-03-02 by presidential-proclamation (34 Stat. 3304). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 21",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lewis-and-clark-national-forest#2",
+  "site": "Lewis & Clark National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Lewis & Clarke: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 907"
+  },
+  "claim": "Lewis & Clark National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 907). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lincoln-national-forest#0",
+  "site": "Lincoln National Forest",
+  "date": "1902-07-26",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Lincoln: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "32 Stat. 2018"
+  },
+  "claim": "Lincoln National Forest: established (Forest Reserve) on 1902-07-26 by presidential-proclamation (32 Stat. 2018). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 11",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "lolo-national-forest#0",
+  "site": "Lolo National Forest",
+  "date": "1906-09-20",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Lolo: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3234"
+  },
+  "claim": "Lolo National Forest: established (Forest Reserve) on 1906-09-20 by presidential-proclamation (34 Stat. 3234). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "los-padres-national-forest#0",
+  "site": "Los Padres National Forest",
+  "date": "1903-12-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Santa Barbara Forest Reserve",
+  "indexText": "Santa Barbara: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "33 Stat. 2327"
+  },
+  "claim": "Los Padres National Forest: established as Santa Barbara Forest Reserve (Forest Reserve) on 1903-12-22 by presidential-proclamation (33 Stat. 2327). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 12",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "los-padres-national-forest#1",
+  "site": "Los Padres National Forest",
+  "date": "1936-12-03",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Los Padres National Forest",
+  "indexText": "Santa Barbara: 1-F.R. 2141 Name changed to Los Padres.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Executive Order 7501"
+  },
+  "claim": "Los Padres National Forest: renamed as Los Padres National Forest (National Forest) on 1936-12-03 by executive-order (Executive Order 7501). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "malheur-national-forest#0",
+  "site": "Malheur National Forest",
+  "date": "1908-06-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Malheur: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 814"
+  },
+  "claim": "Malheur National Forest: established (National Forest) on 1908-06-13 by executive-order (Executive Order 814). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "manistee-national-forest#0",
+  "site": "Manistee National Forest",
+  "date": "1938-10-25",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Manistee: 3-F.R. 2577 Established. ^ 53 Stat. 2492",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2306"
+  },
+  "claim": "Manistee National Forest: established (National Forest) on 1938-10-25 by presidential-proclamation (Proclamation 2306). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 80",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "manti-la-sal-national-forest#0",
+  "site": "Manti-la Sal National Forest",
+  "date": "1903-05-29",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Manti Forest Reserve",
+  "indexText": "Manti: 33 Stat. 2308 Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": null
+  },
+  "claim": "Manti-la Sal National Forest: established as Manti Forest Reserve (Forest Reserve) on 1903-05-29 by presidential-proclamation. President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 12",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "manti-la-sal-national-forest#1",
+  "site": "Manti-la Sal National Forest",
+  "date": "1950-08-28",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Manti-la Sal National Forest",
+  "indexText": "Manti: 15-F.R. 5957 Name changed to Manti-La Sal.",
+  "authority": {
+   "type": "administrative-order",
+   "administration": "Harry S. Truman",
+   "citation": "P.L.O. 667"
+  },
+  "claim": "Manti-la Sal National Forest: renamed as Manti-la Sal National Forest (National Forest) on 1950-08-28 by administrative-order (P.L.O. 667). President in office: Harry S. Truman.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 91",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mark-twain-national-forest#0",
+  "site": "Mark Twain National Forest",
+  "date": "1939-09-11",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Mark Twain: 4-F.R. 3907 Established. 54 Stat. 2655",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2362"
+  },
+  "claim": "Mark Twain National Forest: established (National Forest) on 1939-09-11 by presidential-proclamation (Proclamation 2362). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 81",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "medicine-bow-national-forest#0",
+  "site": "Medicine Bow National Forest",
+  "date": "1902-05-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Medicine Bow: Established reserve. AY 22, 1902",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "32 Stat. 2003"
+  },
+  "claim": "Medicine Bow National Forest: established (Forest Reserve) on 1902-05-22 by presidential-proclamation (32 Stat. 2003). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 11",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mendocino-national-forest#0",
+  "site": "Mendocino National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "California Forest Reserve",
+  "indexText": "California: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 907"
+  },
+  "claim": "Mendocino National Forest: established as California Forest Reserve (National Forest) on 1908-07-02 by executive-order (Executive Order 907). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mendocino-national-forest#1",
+  "site": "Mendocino National Forest",
+  "date": "1932-07-12",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Mendocino National Forest",
+  "indexText": "California: Name changed to Mendocino.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Herbert Hoover",
+   "citation": "Executive Order 5885"
+  },
+  "claim": "Mendocino National Forest: renamed as Mendocino National Forest (National Forest) on 1932-07-12 by executive-order (Executive Order 5885). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 71",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mt-baker-national-forest#0",
+  "site": "Mt. Baker National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Washington Forest Reserve",
+  "indexText": "Washington: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 904"
+  },
+  "claim": "Mt. Baker National Forest: established as Washington Forest Reserve (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 904). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mt-baker-national-forest#1",
+  "site": "Mt. Baker National Forest",
+  "date": "1924-01-21",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Mt. Baker National Forest",
+  "indexText": "Washington: Name changed to Mt. Baker,",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Calvin Coolidge",
+   "citation": "Executive Order 3943"
+  },
+  "claim": "Mt. Baker National Forest: renamed as Mt. Baker National Forest (National Forest) on 1924-01-21 by executive-order (Executive Order 3943). President in office: Calvin Coolidge.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 58",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "mt-hood-national-forest#0",
+  "site": "Mt. Hood National Forest",
+  "date": "1924-01-21",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Mt. Hood National Forest",
+  "indexText": "Oregon: Name changed to Mt. Hood.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Calvin Coolidge",
+   "citation": "Executive Order 3944"
+  },
+  "claim": "Mt. Hood National Forest: renamed as Mt. Hood National Forest (National Forest) on 1924-01-21 by executive-order (Executive Order 3944). President in office: Calvin Coolidge.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 58",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "nantahala-national-forest#0",
+  "site": "Nantahala National Forest",
+  "date": "1920-01-29",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Nantahala: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Woodrow Wilson",
+   "citation": "Proclamation 1554, 41 Stat. 1785"
+  },
+  "claim": "Nantahala National Forest: established (National Forest) on 1920-01-29 by presidential-proclamation (Proclamation 1554, 41 Stat. 1785). President in office: Woodrow Wilson.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 52",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "nebraska-national-forest#0",
+  "site": "Nebraska National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Nebraska: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Nebraska National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 32",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "nezperce-national-forest#0",
+  "site": "Nezperce National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Nezperce: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 854"
+  },
+  "claim": "Nezperce National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 854). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 26",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "nicolet-national-forest#0",
+  "site": "Nicolet National Forest",
+  "date": "1933-03-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Nicolet: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Herbert Hoover",
+   "citation": "Proclamation 2035, 47 Stat. 2561"
+  },
+  "claim": "Nicolet National Forest: established (National Forest) on 1933-03-02 by presidential-proclamation (Proclamation 2035, 47 Stat. 2561). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 72",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ocala-national-forest#0",
+  "site": "Ocala National Forest",
+  "date": "1908-11-24",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Ocala: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 823, 35 Stat. 2206"
+  },
+  "claim": "Ocala National Forest: established (National Forest) on 1908-11-24 by presidential-proclamation (Proclamation 823, 35 Stat. 2206). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ochoco-national-forest#0",
+  "site": "Ochoco National Forest",
+  "date": "1911-06-30",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Ochoco: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William Howard Taft",
+   "citation": "Proclamation 1165, 37 Stat. 1713"
+  },
+  "claim": "Ochoco National Forest: established (National Forest) on 1911-06-30 by presidential-proclamation (Proclamation 1165, 37 Stat. 1713). President in office: William Howard Taft.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 42",
+  "note": "Effective 1911-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "oconee-national-forest#0",
+  "site": "Oconee National Forest",
+  "date": "1959-11-27",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Oconee: 24-F.R. 9651 Established. Formerly Bankhead-Jones land. GA-LU-3 and GA-LU-22.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Proclamation 3326"
+  },
+  "claim": "Oconee National Forest: established (National Forest) on 1959-11-27 by presidential-proclamation (Proclamation 3326). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 99",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "olympic-national-forest#0",
+  "site": "Olympic National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Olympic: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 901"
+  },
+  "claim": "Olympic National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 901). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "osceola-national-forest#0",
+  "site": "Osceola National Forest",
+  "date": "1931-07-10",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "usceola: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Herbert Hoover",
+   "citation": "Proclamation 1961, 47 Stat. 2465"
+  },
+  "claim": "Osceola National Forest: established (National Forest) on 1931-07-10 by presidential-proclamation (Proclamation 1961, 47 Stat. 2465). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 69",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ottawa-national-forest#0",
+  "site": "Ottawa National Forest",
+  "date": "1931-01-27",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Ottawa: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Herbert Hoover",
+   "citation": "Proclamation 1932, 46 Stat. 3044"
+  },
+  "claim": "Ottawa National Forest: established (National Forest) on 1931-01-27 by presidential-proclamation (Proclamation 1932, 46 Stat. 3044). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 68",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ouachita-national-forest#0",
+  "site": "Ouachita National Forest",
+  "date": "1907-12-18",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Arkansas Forest Reserve",
+  "indexText": "Arkansas: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 786, 35 Stat. 2167"
+  },
+  "claim": "Ouachita National Forest: established as Arkansas Forest Reserve (National Forest) on 1907-12-18 by presidential-proclamation (Proclamation 786, 35 Stat. 2167). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 23",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ouachita-national-forest#1",
+  "site": "Ouachita National Forest",
+  "date": "1926-04-29",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Ouachita National Forest",
+  "indexText": "Arkansas: Name changed to Ouachita.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Calvin Coolidge",
+   "citation": "Executive Order 4436"
+  },
+  "claim": "Ouachita National Forest: renamed as Ouachita National Forest (National Forest) on 1926-04-29 by executive-order (Executive Order 4436). President in office: Calvin Coolidge.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 61",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "ozark-national-forest#0",
+  "site": "Ozark National Forest",
+  "date": "1908-03-06",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Ozark: ! Established. ^",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 802, 35 Stat. 2182"
+  },
+  "claim": "Ozark National Forest: established (National Forest) on 1908-03-06 by presidential-proclamation (Proclamation 802, 35 Stat. 2182). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "payette-national-forest#0",
+  "site": "Payette National Forest",
+  "date": "1905-06-03",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Payette: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3067"
+  },
+  "claim": "Payette National Forest: established (Forest Reserve) on 1905-06-03 by presidential-proclamation (34 Stat. 3067). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 14",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "pike-national-forest#0",
+  "site": "Pike National Forest",
+  "date": "1892-02-11",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "ikes Peak ^<;mber Land: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Benjamin Harrison",
+   "citation": "27 Stat. 1006"
+  },
+  "claim": "Pike National Forest: established (Forest Reserve) on 1892-02-11 by presidential-proclamation (27 Stat. 1006). President in office: Benjamin Harrison.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+  "note": "Predecessor reserve name unreadable in the OCR; fill in from the original. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "pike-national-forest#1",
+  "site": "Pike National Forest",
+  "date": "1908-07-01",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Pike National Forest",
+  "indexText": "Pikes Peak: Land transferred to Arapaho and Leadville. Land added from Medicine Bow. Name changed to Pike.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 888"
+  },
+  "claim": "Pike National Forest: renamed as Pike National Forest (National Forest) on 1908-07-01 by executive-order (Executive Order 888). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "plumas-national-forest#0",
+  "site": "Plumas National Forest",
+  "date": "1905-03-27",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Plumas: Established reserve",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 2992"
+  },
+  "claim": "Plumas National Forest: established (Forest Reserve) on 1905-03-27 by presidential-proclamation (34 Stat. 2992). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "prescott-national-forest#0",
+  "site": "Prescott National Forest",
+  "date": "1898-05-10",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Prescott: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "30 Stat. 1771"
+  },
+  "claim": "Prescott National Forest: established (Forest Reserve) on 1898-05-10 by presidential-proclamation (30 Stat. 1771). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "rio-grande-national-forest#0",
+  "site": "Rio Grande National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "io Grande: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 887"
+  },
+  "claim": "Rio Grande National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 887). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "rogue-river-national-forest#0",
+  "site": "Rogue River National Forest",
+  "date": "1908-06-30",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Crater Forest Reserve",
+  "indexText": "Crater: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 867"
+  },
+  "claim": "Rogue River National Forest: established as Crater Forest Reserve (National Forest) on 1908-06-30 by executive-order (Executive Order 867). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 27",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "rogue-river-national-forest#1",
+  "site": "Rogue River National Forest",
+  "date": "1932-07-09",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Rogue River National Forest",
+  "indexText": "Crater: Name changed to Rogue River.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Herbert Hoover",
+   "citation": "Executive Order 5882"
+  },
+  "claim": "Rogue River National Forest: renamed as Rogue River National Forest (National Forest) on 1932-07-09 by executive-order (Executive Order 5882). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 71",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "roosevelt-national-forest#0",
+  "site": "Roosevelt National Forest",
+  "date": "1910-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Colorado Forest Reserve",
+  "indexText": "Colorado: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William Howard Taft",
+   "citation": "Proclamation 1062, 36 Stat. 2720"
+  },
+  "claim": "Roosevelt National Forest: established as Colorado Forest Reserve (National Forest) on 1910-07-01 by presidential-proclamation (Proclamation 1062, 36 Stat. 2720). President in office: William Howard Taft.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 37",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "roosevelt-national-forest#1",
+  "site": "Roosevelt National Forest",
+  "date": "1932-03-28",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Roosevelt National Forest",
+  "indexText": "Colorado: Name changed to Roosevelt. t",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Herbert Hoover",
+   "citation": "Executive Order 5826"
+  },
+  "claim": "Roosevelt National Forest: renamed as Roosevelt National Forest (National Forest) on 1932-03-28 by executive-order (Executive Order 5826). President in office: Herbert Hoover.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 70",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "routt-national-forest#0",
+  "site": "Routt National Forest",
+  "date": "1908-06-25",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Routt: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 837"
+  },
+  "claim": "Routt National Forest: established (National Forest) on 1908-06-25 by executive-order (Executive Order 837). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 25",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sabine-national-forest#0",
+  "site": "Sabine National Forest",
+  "date": "1936-10-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sabine: 1-F.R. 1606 Established. 50 Stat. 1787",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2204"
+  },
+  "claim": "Sabine National Forest: established (National Forest) on 1936-10-13 by presidential-proclamation (Proclamation 2204). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "salmon-national-forest#0",
+  "site": "Salmon National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Salmon: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 841"
+  },
+  "claim": "Salmon National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 841). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 25",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sam-houston-national-forest#0",
+  "site": "Sam Houston National Forest",
+  "date": "1936-10-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sam Houston: 1-F.R. 1608 Established. 50 Stat. 1789",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2205"
+  },
+  "claim": "Sam Houston National Forest: established (National Forest) on 1936-10-13 by presidential-proclamation (Proclamation 2205). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "samuel-r-mckelvie-national-forest#0",
+  "site": "Samuel R. McKelvie National Forest",
+  "date": "1971-10-15",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Samuel R. McKelvie: Established. CT 18,-1971 (Boundary extended) ot designated. ublished in .R. NOV 11, 1971. AN AN",
+  "authority": {
+   "type": "act-of-congress",
+   "administration": "Richard Nixon",
+   "citation": "Public Law 142, 85 Stat. 393"
+  },
+  "claim": "Samuel R. McKelvie National Forest: established (National Forest) on 1971-10-15 by act-of-congress (Public Law 142, 85 Stat. 393). President in office: Richard Nixon.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 110",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "san-bernardino-national-forest#0",
+  "site": "San Bernardino National Forest",
+  "date": "1893-02-25",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "ian Bernardino: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Benjamin Harrison",
+   "citation": "27 Stat. 1068"
+  },
+  "claim": "San Bernardino National Forest: established (Forest Reserve) on 1893-02-25 by presidential-proclamation (27 Stat. 1068). President in office: Benjamin Harrison.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "san-isabel-national-forest#0",
+  "site": "San Isabel National Forest",
+  "date": "1902-04-11",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "San Isabel: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "32 Stat. 1988"
+  },
+  "claim": "San Isabel National Forest: established (Forest Reserve) on 1902-04-11 by presidential-proclamation (32 Stat. 1988). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 10",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "san-juan-national-forest#0",
+  "site": "San Juan National Forest",
+  "date": "1905-06-03",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "San Juan: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3070"
+  },
+  "claim": "San Juan National Forest: established (Forest Reserve) on 1905-06-03 by presidential-proclamation (34 Stat. 3070). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 14",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "santa-fe-national-forest#0",
+  "site": "Santa Fe National Forest",
+  "date": "1915-04-06",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Santa Fe: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Woodrow Wilson",
+   "citation": "Executive Order 2160"
+  },
+  "claim": "Santa Fe National Forest: established (National Forest) on 1915-04-06 by executive-order (Executive Order 2160). President in office: Woodrow Wilson.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 46",
+  "note": "Effective 1915-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sawtooth-national-forest#0",
+  "site": "Sawtooth National Forest",
+  "date": "1908-06-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sawtooth: Part deleted to establish Boise. Land transferred to Challis, Lemhi and Payette.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 858"
+  },
+  "claim": "Sawtooth National Forest: established (National Forest) on 1908-06-26 by executive-order (Executive Order 858). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 27",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sequoia-national-forest#0",
+  "site": "Sequoia National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sequoia: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 904"
+  },
+  "claim": "Sequoia National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 904). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "shasta-national-forest#0",
+  "site": "Shasta National Forest",
+  "date": "1905-10-03",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Shasta: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3157"
+  },
+  "claim": "Shasta National Forest: established (Forest Reserve) on 1905-10-03 by presidential-proclamation (34 Stat. 3157). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "shawnee-national-forest#0",
+  "site": "Shawnee National Forest",
+  "date": "1939-09-06",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "thawnee: 4-F.R. 3860 Established. 54 Stat. 2649",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2357"
+  },
+  "claim": "Shawnee National Forest: established (National Forest) on 1939-09-06 by presidential-proclamation (Proclamation 2357). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 81",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "shoshone-national-forest#0",
+  "site": "Shoshone National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Shoshone: Established. JUL Teton, Wyoming, Bonneville, Absaroka, Shoshone and Bear- tooth. Name discontinued.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 895"
+  },
+  "claim": "Shoshone National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 895). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sierra-national-forest#0",
+  "site": "Sierra National Forest",
+  "date": "1908-07-02",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sierra: Land transferred to Inyo, I Mono and Stanislaus. Portion deleted to establish Sequoia.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 902"
+  },
+  "claim": "Sierra National Forest: established (National Forest) on 1908-07-02 by executive-order (Executive Order 902). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 30",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "siskiyou-national-forest#0",
+  "site": "Siskiyou National Forest",
+  "date": "1906-10-05",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Siskiyou: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3239"
+  },
+  "claim": "Siskiyou National Forest: established (Forest Reserve) on 1906-10-05 by presidential-proclamation (34 Stat. 3239). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sitgreaves-national-forest#0",
+  "site": "Sitgreaves National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sitgreaves: Established. Page III' 1891 - 1985 ATE APPROVED DATE EFFECTIVE UL ' 1. Land transferred to Coconino, Crook and Sitgreaves.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 868"
+  },
+  "claim": "Sitgreaves National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 868). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 27",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "siuslaw-national-forest#0",
+  "site": "Siuslaw National Forest",
+  "date": "1908-06-30",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Siuslaw: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 860"
+  },
+  "claim": "Siuslaw National Forest: established (National Forest) on 1908-06-30 by executive-order (Executive Order 860). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 27",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "six-rivers-national-forest#0",
+  "site": "Six Rivers National Forest",
+  "date": "1947-06-03",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Six Rivers: 12-F.R. 3647 Established. 61 Stat. 1070",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Harry S. Truman",
+   "citation": "Proclamation 2733"
+  },
+  "claim": "Six Rivers National Forest: established (National Forest) on 1947-06-03 by presidential-proclamation (Proclamation 2733). President in office: Harry S. Truman.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 87",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "snoqualmie-national-forest#0",
+  "site": "Snoqualmie National Forest",
+  "date": "1908-06-18",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Snoqualmie: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 824"
+  },
+  "claim": "Snoqualmie National Forest: established (National Forest) on 1908-06-18 by executive-order (Executive Order 824). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 25",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "st-francis-national-forest#0",
+  "site": "St. Francis National Forest",
+  "date": "1960-11-08",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "St. Francis: 25-F.R. 10863 Established. Formerly • Bankhead-Jones land. AK-LU-3.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Proclamation 3379"
+  },
+  "claim": "St. Francis National Forest: established (National Forest) on 1960-11-08 by presidential-proclamation (Proclamation 3379). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 100",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "stanislaus-national-forest#0",
+  "site": "Stanislaus National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Stanislaus: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 898"
+  },
+  "claim": "Stanislaus National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 898). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "sumter-national-forest#0",
+  "site": "Sumter National Forest",
+  "date": "1936-07-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Sumter: 1-F.R. 799 Established. 50 Stat. 1750",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2188"
+  },
+  "claim": "Sumter National Forest: established (National Forest) on 1936-07-13 by presidential-proclamation (Proclamation 2188). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "superior-national-forest#0",
+  "site": "Superior National Forest",
+  "date": "1909-02-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Superior: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 848, 35 Stat. 2223"
+  },
+  "claim": "Superior National Forest: established (National Forest) on 1909-02-13 by presidential-proclamation (Proclamation 848, 35 Stat. 2223). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 34",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "tahoe-national-forest#0",
+  "site": "Tahoe National Forest",
+  "date": "1899-04-13",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Lake Tahoe Forest Reserve",
+  "indexText": "Lake Tahoe: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "William McKinley",
+   "citation": "31 Stat. 1953"
+  },
+  "claim": "Tahoe National Forest: established as Lake Tahoe Forest Reserve (Forest Reserve) on 1899-04-13 by presidential-proclamation (31 Stat. 1953). President in office: William McKinley.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 9",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "tahoe-national-forest#1",
+  "site": "Tahoe National Forest",
+  "date": "1905-10-03",
+  "action": "renamed",
+  "designation": "Forest Reserve",
+  "name": "Tahoe Forest Reserve",
+  "indexText": "La.*. Tahoe: Boundary redescribed. Name changed to Tahoe.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3163"
+  },
+  "claim": "Tahoe National Forest: renamed as Tahoe Forest Reserve (Forest Reserve) on 1905-10-03 by presidential-proclamation (34 Stat. 3163). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 15",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "targhee-national-forest#0",
+  "site": "Targhee National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Targhee: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 871"
+  },
+  "claim": "Targhee National Forest: established (National Forest) on 1908-07-01 by executive-order (Executive Order 871). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 28",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "teton-national-forest#0",
+  "site": "Teton National Forest",
+  "date": "1897-02-22",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Teton: Established reserve.-",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Grover Cleveland",
+   "citation": "29 Stat. 906"
+  },
+  "claim": "Teton National Forest: established (Forest Reserve) on 1897-02-22 by presidential-proclamation (29 Stat. 906). President in office: Grover Cleveland.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+  "note": "Effective 1898-03-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "toiyabe-national-forest#0",
+  "site": "Toiyabe National Forest",
+  "date": "1907-03-01",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Toiyabe: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3278"
+  },
+  "claim": "Toiyabe National Forest: established (Forest Reserve) on 1907-03-01 by presidential-proclamation (34 Stat. 3278). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 19",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "tombigbee-national-forest#0",
+  "site": "Tombigbee National Forest",
+  "date": "1959-11-27",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Tombigbee: 24-F.R. 9654 Established. Formerly Bankhead-Jones land. MS-LU-8 and MS-LU-9.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Proclamation 3326"
+  },
+  "claim": "Tombigbee National Forest: established (National Forest) on 1959-11-27 by presidential-proclamation (Proclamation 3326). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 99",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "tongass-national-forest#0",
+  "site": "Tongass National Forest",
+  "date": "1907-09-10",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Tongass: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "35 Stat. 2152"
+  },
+  "claim": "Tongass National Forest: established (National Forest) on 1907-09-10 by presidential-proclamation (35 Stat. 2152). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 23",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "trinity-national-forest#0",
+  "site": "Trinity National Forest",
+  "date": "1905-04-26",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Trinity: Established reserve",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 2998"
+  },
+  "claim": "Trinity National Forest: established (Forest Reserve) on 1905-04-26 by presidential-proclamation (34 Stat. 2998). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "tuskegee-national-forest#0",
+  "site": "Tuskegee National Forest",
+  "date": "1959-11-27",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Tuskegee: 24-F.R. 9651 Established. Formerly Bankhead-Jones land. AL-LU-8.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Proclamation 3326"
+  },
+  "claim": "Tuskegee National Forest: established (National Forest) on 1959-11-27 by presidential-proclamation (Proclamation 3326). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 99",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "uinta-national-forest#0",
+  "site": "Uinta National Forest",
+  "date": "1906-01-16",
+  "action": "renamed",
+  "designation": "Forest Reserve",
+  "name": "Uinta Forest Reserve",
+  "indexText": "Uintah: Land added. Name changed to Uinta.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3186"
+  },
+  "claim": "Uinta National Forest: renamed as Uinta Forest Reserve (Forest Reserve) on 1906-01-16 by presidential-proclamation (34 Stat. 3186). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 16",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "uinta-national-forest#1",
+  "site": "Uinta National Forest",
+  "date": "1908-07-01",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Uinta: Land added. Land transferred to establish Ashley. (E.O. 884) L",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "Proclamation 815, 35 Stat. 2193"
+  },
+  "claim": "Uinta National Forest: established (National Forest) on 1908-07-01 by presidential-proclamation (Proclamation 815, 35 Stat. 2193). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "umpqua-national-forest#0",
+  "site": "Umpqua National Forest",
+  "date": "1907-03-02",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Umpqua: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3301"
+  },
+  "claim": "Umpqua National Forest: established (Forest Reserve) on 1907-03-02 by presidential-proclamation (34 Stat. 3301). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 20",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "uncompahgre-national-forest#0",
+  "site": "Uncompahgre National Forest",
+  "date": "1905-06-14",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Uncompahgre: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3109"
+  },
+  "claim": "Uncompahgre National Forest: established (Forest Reserve) on 1905-06-14 by presidential-proclamation (34 Stat. 3109). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 14",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "uwharrie-national-forest#0",
+  "site": "Uwharrie National Forest",
+  "date": "1961-01-12",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "tlwharrie: 26-F.R. 627 Established. Formerly part 26-F.R. 628",
+  "authority": {
+   "type": "administrative-order",
+   "administration": "Dwight D. Eisenhower",
+   "citation": "Sec. of Agr. Order"
+  },
+  "claim": "Uwharrie National Forest: established (National Forest) on 1961-01-12 by administrative-order (Sec. of Agr. Order). President in office: Dwight D. Eisenhower.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 100",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "wallowa-national-forest#0",
+  "site": "Wallowa National Forest",
+  "date": "1907-03-01",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Imnaha Forest Reserve",
+  "indexText": "Imnaha: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3284"
+  },
+  "claim": "Wallowa National Forest: established as Imnaha Forest Reserve (Forest Reserve) on 1907-03-01 by presidential-proclamation (34 Stat. 3284). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 20",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "wallowa-national-forest#1",
+  "site": "Wallowa National Forest",
+  "date": "1908-07-02",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "Wallowa National Forest",
+  "indexText": "Imnaha: Name changed to Wallowa.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 908"
+  },
+  "claim": "Wallowa National Forest: renamed as Wallowa National Forest (National Forest) on 1908-07-02 by executive-order (Executive Order 908). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 33",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "wallowa-national-forest#2",
+  "site": "Wallowa National Forest",
+  "date": "1905-05-06",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "WalIowa: Established reserve",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3004"
+  },
+  "claim": "Wallowa National Forest: established (Forest Reserve) on 1905-05-06 by presidential-proclamation (34 Stat. 3004). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "wasatch-national-forest#0",
+  "site": "Wasatch National Forest",
+  "date": "1906-08-16",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": null,
+  "indexText": "Wasatch: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "34 Stat. 3225"
+  },
+  "claim": "Wasatch National Forest: established (Forest Reserve) on 1906-08-16 by presidential-proclamation (34 Stat. 3225). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "wenatchee-national-forest#0",
+  "site": "Wenatchee National Forest",
+  "date": "1908-06-18",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Wenatchee: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 825"
+  },
+  "claim": "Wenatchee National Forest: established (National Forest) on 1908-06-18 by executive-order (Executive Order 825). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 25",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "white-mountain-national-forest#0",
+  "site": "White Mountain National Forest",
+  "date": "1918-05-16",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "White Mountain: Established.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Woodrow Wilson",
+   "citation": "Proclamation 1449, 40 Stat. 1779"
+  },
+  "claim": "White Mountain National Forest: established (National Forest) on 1918-05-16 by presidential-proclamation (Proclamation 1449, 40 Stat. 1779). President in office: Woodrow Wilson.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 50",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "white-river-national-forest#0",
+  "site": "White River National Forest",
+  "date": "1891-10-16",
+  "action": "established",
+  "designation": "Forest Reserve",
+  "name": "Jhjite River Plateau Timber Land Reserve",
+  "indexText": "Jhjite River Plateau Timber Land: Established reserve.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Benjamin Harrison",
+   "citation": "27 Stat. 993"
+  },
+  "claim": "White River National Forest: established as Jhjite River Plateau Timber Land Reserve (Forest Reserve) on 1891-10-16 by presidential-proclamation (27 Stat. 993). President in office: Benjamin Harrison.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "white-river-national-forest#1",
+  "site": "White River National Forest",
+  "date": "1902-06-28",
+  "action": "renamed",
+  "designation": "Forest Reserve",
+  "name": "White River Forest Reserve",
+  "indexText": "White River Plateau: Boundary redescribed. Name changed to White River.",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Theodore Roosevelt",
+   "citation": "32 Stat. 2008"
+  },
+  "claim": "White River National Forest: renamed as White River Forest Reserve (Forest Reserve) on 1902-06-28 by presidential-proclamation (32 Stat. 2008). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 11",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "whitman-national-forest#0",
+  "site": "Whitman National Forest",
+  "date": "1908-06-13",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Whitman: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Theodore Roosevelt",
+   "citation": "Executive Order 813"
+  },
+  "claim": "Whitman National Forest: established (National Forest) on 1908-06-13 by executive-order (Executive Order 813). President in office: Theodore Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 24",
+  "note": "Effective 1908-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "willamette-national-forest#0",
+  "site": "Willamette National Forest",
+  "date": "1933-04-06",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Wi 1lamette: Established.",
+  "authority": {
+   "type": "executive-order",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Executive Order 6104"
+  },
+  "claim": "Willamette National Forest: established (National Forest) on 1933-04-06 by executive-order (Executive Order 6104). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 72",
+  "note": "Effective 1933-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "william-b-bankhead-national-forest#0",
+  "site": "William B. Bankhead National Forest",
+  "date": "1936-06-19",
+  "action": "established",
+  "designation": "National Forest",
+  "name": "Black Warrior Forest Reserve",
+  "indexText": "Black Warrior: 1-F.R. 645 Established. 49 Stat. 3526",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Proclamation 2178"
+  },
+  "claim": "William B. Bankhead National Forest: established as Black Warrior Forest Reserve (National Forest) on 1936-06-19 by presidential-proclamation (Proclamation 2178). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "william-b-bankhead-national-forest#1",
+  "site": "William B. Bankhead National Forest",
+  "date": "1942-06-06",
+  "action": "renamed",
+  "designation": "National Forest",
+  "name": "William B. Bankhead National Forest",
+  "indexText": "Black Warrior: Name changed to William B. Bankhead.",
+  "authority": {
+   "type": "act-of-congress",
+   "administration": "Franklin D. Roosevelt",
+   "citation": "Public Law 595, 56 Stat. 327"
+  },
+  "claim": "William B. Bankhead National Forest: renamed as William B. Bankhead National Forest (National Forest) on 1942-06-06 by act-of-congress (Public Law 595, 56 Stat. 327). President in office: Franklin D. Roosevelt.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 84",
+  "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ },
+ {
+  "id": "winema-national-forest#0",
+  "site": "Winema National Forest",
+  "date": "1961-07-26",
+  "action": "established",
+  "designation": "National Forest",
+  "name": null,
+  "indexText": "Winema: 26-F.R. 6799- Established. 26-F.R. 6802 1891 - 1985 DATE APPROVED DATE EFFECTIVE",
+  "authority": {
+   "type": "presidential-proclamation",
+   "administration": "John F. Kennedy",
+   "citation": "Proclamation 3423"
+  },
+  "claim": "Winema National Forest: established (National Forest) on 1961-07-26 by presidential-proclamation (Proclamation 3423). President in office: John F. Kennedy.",
+  "source": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 101",
+  "note": "Effective 1961-07-01. Drafted from OCR of a scanned table; check names, dates and citations against the original."
+ }
+]

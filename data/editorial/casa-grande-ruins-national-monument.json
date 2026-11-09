@@ -1,6 +1,6 @@
 {
   "slug": "casa-grande-ruins-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1889-03-02",
@@ -12,39 +12,68 @@
         "type": "act-of-congress",
         "signedBy": "Grover Cleveland",
         "administration": "Grover Cleveland",
-        "citation": null
+        "citation": "Act of Mar. 2, 1889, 25 Stat. 961"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 25 Stat. 961 (govinfo): Sundry civil act approved March 2, 1889, appropriation for repair and protection of the Casa Grande ruin",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg939.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of March 2, 1889, two days before Benjamin Harrison took office; Grover Cleveland approved it.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1892-06-22",
       "action": "designated",
       "designation": null,
       "name": null,
-      "indexText": "Proclaimed June 22, 1892",
+      "indexText": "Casa Grande Ruin reserved by Executive order June 22, 1892",
       "authority": {
-        "type": "presidential-proclamation",
+        "type": "executive-order",
         "signedBy": "Benjamin Harrison",
         "administration": "Benjamin Harrison",
-        "citation": null
+        "citation": "Executive order of June 22, 1892"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "Statutes at Large, 40 Stat. 1818 (govinfo): Proclamation 1470 recites the Executive order of June 22, 1892 reserving the ruin",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1818.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and President (Benjamin Harrison) are right, but the 1892 reservation was an Executive order, not a proclamation.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Proclaimed June 22, 1892"
     },
     {
       "date": "1918-08-03",
@@ -53,20 +82,38 @@
       "name": null,
       "indexText": "Redesignated Aug. 3, 1918",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "presidential-proclamation",
+        "signedBy": "Woodrow Wilson",
         "administration": "Woodrow Wilson",
-        "citation": null
+        "citation": "Proclamation 1470, 40 Stat. 1818"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 40 Stat. 1818 (govinfo): Proclamation 1470, Aug. 3, 1918",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1818.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1470 redesignated the reservation Casa Grande National Monument; Wilson.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

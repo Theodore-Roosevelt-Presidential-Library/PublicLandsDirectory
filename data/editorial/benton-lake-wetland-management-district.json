@@ -1,0 +1,32 @@
+{
+ "slug": "benton-lake-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1975",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "The District was established in 1975 and includes 3 conservation areas, and 4 distinct easement programs.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Benton Lake Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/benton-lake-wetland-management-district/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

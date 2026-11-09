@@ -1,78 +1,74 @@
 {
-  "slug": "lake-roosevelt-national-recreation-area",
-  "status": "draft",
-  "designationHistory": [
+ "slug": "lake-roosevelt-national-recreation-area",
+ "status": "reviewed",
+ "designationHistory": [
+  {
+   "date": "1946-12-18",
+   "action": "established",
+   "designation": null,
+   "name": null,
+   "indexText": "Established as Coulee Dam Recreational Area administered under cooperative agreement among the Bureau of Reclamation, the Bureau of Indian Affairs, and the National Park Service, Dec. 18, 1946",
+   "authority": {
+    "type": "unspecified",
+    "signedBy": null,
+    "administration": "Harry S. Truman",
+    "citation": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1946-12-18",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established as Coulee Dam Recreational Area administered under cooperative agreement among the Bureau of Reclamation, the Bureau of Indian Affairs, and the National Park Service, Dec. 18, 1946",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Harry S. Truman",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+     "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
+     "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
     },
     {
-      "date": "1990-04-20",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Agreement renegotiated among the Bureau of Reclamation, the Bureau of Indian Affairs, the National Park Service, the Confederated Tribes of the Colville Reservation, and the Spokane Tribe of Indians April 20, 1990",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "George H. W. Bush",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1997-01-01",
-      "action": "renamed",
-      "designation": null,
-      "name": null,
-      "indexText": "Area renamed Jan. 1, 1997",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Bill Clinton",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+     "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+     "url": "https://npshistory.com/publications/laro/adhi.pdf"
     }
-  ],
-  "historySource": {
-    "name": "The National Parks: Index 2012–2016 (National Park Service)",
-    "page": 109,
-    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
-    "indexText": "Established as Coulee Dam Recreational Area administered under cooperative agreement among the Bureau of Reclamation, the Bureau of Indian Affairs, and the National Park Service, Dec. 18, 1946; agreement renegotiated among the Bureau of Reclamation, the Bureau of Indian Affairs, the National Park Service, the Confederated Tribes of the Colville Reservation, and the Spokane Tribe of Indians April 20, 1990; area renamed Jan. 1, 1997."
+   ],
+   "research": "nps-index-2012-2016",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1997-01-01",
+   "action": "renamed",
+   "designation": null,
+   "name": null,
+   "indexText": "Area renamed Jan. 1, 1997",
+   "authority": {
+    "type": "unspecified",
+    "signedBy": null,
+    "administration": "Bill Clinton",
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
+     "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+    },
+    {
+     "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+     "url": "https://npshistory.com/publications/laro/adhi.pdf"
+    }
+   ],
+   "research": "nps-index-2012-2016",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
   }
+ ],
+ "historySource": {
+  "name": "The National Parks: Index 2012–2016 (National Park Service)",
+  "page": 109,
+  "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+  "indexText": "Established as Coulee Dam Recreational Area administered under cooperative agreement among the Bureau of Reclamation, the Bureau of Indian Affairs, and the National Park Service, Dec. 18, 1946; agreement renegotiated among the Bureau of Reclamation, the Bureau of Indian Affairs, the National Park Service, the Confederated Tribes of the Colville Reservation, and the Spokane Tribe of Indians April 20, 1990; area renamed Jan. 1, 1997."
+ }
 }

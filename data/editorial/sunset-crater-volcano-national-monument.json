@@ -1,6 +1,6 @@
 {
   "slug": "sunset-crater-volcano-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1930-05-26",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Herbert Hoover",
         "administration": "Herbert Hoover",
-        "citation": null
+        "citation": "Proclamation 1911, 46 Stat. 3023"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1911, 46 Stat. 3023, Sunset Crater National Monument, done May 26, 1930",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3023-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1911, May 26, 1930",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1911-sunset-crater-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1911; Hoover.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1990-11-16",
@@ -53,20 +77,34 @@
       "name": null,
       "indexText": "Renamed Nov. 16, 1990",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 101-612, sec. 15, 104 Stat. 3222"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 101-612, 104 Stat. 3209, act of Nov. 16, 1990 designating the 'Sunset Crater Volcano National Monument'",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg3209.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320301, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 101-612, sec. 15 renamed it Sunset Crater Volcano National Monument; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,6 +1,6 @@
 {
   "slug": "padre-island-national-seashore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1962-09-28",
@@ -12,39 +12,64 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-712, 76 Stat. 650"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 87-712, 76 Stat. 650, act to provide for the establishment of the Padre Island National Seashore, approved Sept. 28, 1962",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg650-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 459d, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section459d&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-712; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1968-04-06",
+      "date": "1968-04-08",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established April 6, 1968",
+      "indexText": "Established April 8, 1968",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "Secretarial notice of March 29, 1968, 33 F.R. 5468 (effective April 8, 1968)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 33 F.R. 5468 (April 6, 1968): Padre Island National Seashore, notice of establishment, signed March 29, 1968",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1968-04-06/pdf/FR-1968-04-06.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date April 6 is the Federal Register publication date. Secretary Udall's notice (signed March 29, 1968) made the establishment effective April 8, 1968, the day of the dedication. LBJ either way.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established April 6, 1968"
     }
   ],
   "historySource": {

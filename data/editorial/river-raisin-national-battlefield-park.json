@@ -1,6 +1,6 @@
 {
   "slug": "river-raisin-national-battlefield-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2010-10-22",
@@ -9,20 +9,38 @@
       "name": null,
       "indexText": "Established Oct. 22, 2010",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Secretarial designation under P.L. 111-11, sec. 7003 (notice, Federal Register Nov. 10, 2010)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Department of the Interior press release, Oct. 22, 2010: Department of the Interior Announces Establishment of River Raisin National Battlefield Park",
+          "url": "https://www.doi.gov/news/pressreleases/Department-of-the-Interior-Announces-Establishment-of-River-Raisin-National-Battlefield-Park"
+        },
+        {
+          "name": "Federal Register: NPS notice 2010-28427, River Raisin National Battlefield Park (Nov. 10, 2010)",
+          "url": "https://www.federalregister.gov/documents/2010/11/10/2010-28427/river-raisin-national-battlefield-park-mi--account-number-6495"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430vv, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430vv&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Interior announced the formal establishment Oct. 22, 2010, after Monroe County donors transferred land Oct. 12, as P.L. 111-11, sec. 7003 required; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

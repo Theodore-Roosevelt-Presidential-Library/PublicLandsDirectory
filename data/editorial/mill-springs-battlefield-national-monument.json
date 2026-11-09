@@ -1,0 +1,68 @@
+{
+  "slug": "mill-springs-battlefield-national-monument",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "authorized",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Congress provided for Mill Springs Battlefield National Monument in Kentucky in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, sec. 2302, 133 Stat. 744",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "NPS, Mill Springs Battlefield Laws & Policies",
+          "url": "https://www.nps.gov/misp/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2020-09-22",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "The Secretary of the Interior established Mill Springs Battlefield National Monument after the National Park Service acquired the battlefield land.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Donald J. Trump",
+        "citation": "Secretarial decision memorandum (Sept. 22, 2020); notice of establishment, 85 FR 73293 (Nov. 17, 2020)",
+        "signedBy": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register notice of establishment, 85 FR 73293 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-17/html/2020-25343.htm"
+        },
+        {
+          "name": "NPS History Collection, Mill Springs Battlefield NM (Sept. 22, 2020)",
+          "url": "https://npshistory.com/publications/misp/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "desecheo-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1976",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Desecheo Island, off western Puerto Rico, became Desecheo National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Transfer of the island to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Desecheo National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/desecheo/about-us"
+        },
+        {
+          "name": "USFWS, 508 Desecheo National Wildlife Refuge Comprehensive Conservation Plan (ServCat 169389): Refuge profile: \"Date Established: 1976\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254681"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Buck Island NWR, St. Thomas (1969). Desecheo: 1976 (CCP). Authority details not confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Thomas, was established in 1969 for its \"particular value in carrying out the national migratory bird management program.\" The refuge consists of the entire 45-acre island."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

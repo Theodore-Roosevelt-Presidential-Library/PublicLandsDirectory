@@ -1,28 +1,43 @@
 {
   "slug": "virgin-islands-coral-reef-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2001-01-17",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized Jan. 17, 2001",
+      "indexText": "Proclaimed Jan. 17, 2001",
       "authority": {
-        "type": "act-of-congress",
+        "type": "presidential-proclamation",
         "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "Proclamation 7399, 115 Stat. 2588"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 108",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 7399, 115 Stat. 2588, Establishment of the Virgin Islands Coral Reef National Monument, Jan. 17, 2001",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-115/pdf/STATUTE-115-Pg2588.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7399, Jan. 17, 2001",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7399-establishment-the-virgin-islands-coral-reef-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong authority: the monument was created by Proclamation 7399 under the Antiquities Act, not 'authorized' by Congress. Date and President (Clinton) are right.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized Jan. 17, 2001"
     }
   ],
   "historySource": {

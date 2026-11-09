@@ -1,0 +1,42 @@
+{
+  "slug": "san-isabel-national-forest",
+  "designationHistory": [
+    {
+      "date": "1902-04-11",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "San Isabel: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 467, 32 Stat. 1988"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 10",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "32 Stat. 1988 (Statutes at Large, govinfo): Proclamation No. 13, April 11, 1902, Theodore Roosevelt: \"shall be known as The San Isabel Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg1988.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 467, April 11, 1902",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-467-establishing-the-san-isabel-forest-reserve"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 467, April 11, 1902, 32 Stat. 1988, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

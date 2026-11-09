@@ -1,0 +1,43 @@
+{
+  "slug": "red-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2002",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Authorized by the Red River National Wildlife Refuge Act of October 13, 2000 (Public Law 106-300) and formally established in 2002 when the Fish and Wildlife Service Director approved the refuge.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": "Public Law 106-300, 114 Stat. 1055; FWS Director approval, 2002"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Red River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/red-river/about-us"
+        },
+        {
+          "name": "Public Law 106-300, Oct. 13, 2000, 114 Stat. 1055: An Act To establish the Red River National Wildlife Refuge",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ300/html/PLAW-106publ300.htm"
+        },
+        {
+          "name": "Federal Register, Dec. 23, 2002 (02-32210): the FWS Director \"has approved the establishment of Red River National Wildlife Refuge\" along the Red River Waterway in Louisiana",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2002-12-23/pdf/02-32210.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "The 1975 sentence does not fit this refuge, which Congress authorized in 2000. Act signed by Clinton; establishment approved in 2002 (Bush administration), so no single signer is set. Confirm the exact 2002 approval date if needed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1975 to protect bottomland hardwood forest and provide wintering habitat for migratory waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

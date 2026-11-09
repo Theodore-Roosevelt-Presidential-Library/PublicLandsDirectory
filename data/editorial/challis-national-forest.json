@@ -1,0 +1,36 @@
+{
+  "slug": "challis-national-forest",
+  "designationHistory": [
+    {
+      "date": "1908-06-26",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Theodore Roosevelt created the Challis National Forest in Idaho from parts of the Salmon River and Sawtooth National Forests.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 840 (effective July 1, 1908)",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Sources disagree on the signing date. FS-612 (1997 and 2012) dates EO 840 June 25, 1908 in its Challis row but June 26, 1908 in its Salmon River row for the same order; the 1944 WPA list gives June 26, 1908 (EO 838 is June 25, EO 839 June 26). The effective date, July 1, 1908, is not in doubt. Check the order itself (National Archives, RG 11) before publishing a signing date.",
+      "sources": [
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Historical Records Survey (WPA), Presidential Executive Orders, Numbered 1-8030, 1862-1938, Vol. 1: The List (1944), Internet Archive",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

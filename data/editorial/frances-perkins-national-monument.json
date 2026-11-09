@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 10873, 89 FR 103617",
           "url": "https://www.federalregister.gov/documents/2024/12/19/2024-30485/establishment-of-the-frances-perkins-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10873—Establishment of the Frances Perkins National Monument, December 16, 2024",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10873-establishment-the-frances-perkins-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10873, 89 FR 103617, signed 2024-12-16; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

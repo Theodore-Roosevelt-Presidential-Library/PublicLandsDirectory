@@ -1,0 +1,37 @@
+{
+  "slug": "coltsville-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "2014-12-19",
+      "action": "authorized",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress provided for Coltsville National Historical Park in Hartford, to be established once the Secretary of the Interior finds that required land and space donations are in place.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 113-291, sec. 3032, 128 Stat. 3770",
+        "signedBy": "Barack Obama"
+      },
+      "note": "Sec. 3032(b)(2) delays establishment until the Secretary makes a determination and publishes notice in the Federal Register. A search of the Federal Register API for 'Coltsville' (Nov. 2026) found no notice of establishment.",
+      "sources": [
+        {
+          "name": "Public Law 113-291 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 116), 'Authorized Dec. 19, 2014'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

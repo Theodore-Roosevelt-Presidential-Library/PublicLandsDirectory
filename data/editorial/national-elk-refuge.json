@@ -1,0 +1,45 @@
+{
+  "slug": "national-elk-refuge",
+  "designationHistory": [
+    {
+      "date": "1912-08-10",
+      "action": "established",
+      "designation": "Winter Game (Elk) Reserve",
+      "name": "winter game (elk) reserve",
+      "indexText": "Congress provided for the establishment of a winter game (elk) reserve in Wyoming, south of Yellowstone, in the appropriations act approved August 10, 1912 (37 Stat. 293).",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "William Howard Taft",
+        "citation": "Act of August 10, 1912, ch. 284, 37 Stat. 293",
+        "signedBy": "William Howard Taft"
+      },
+      "note": "Signer is inferred from the date of approval (Taft was President in August 1912); no source here shows his signature. The 1912 provision took the form of an appropriation. Named Elk Refuge in later orders; renamed National Elk Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Elk Reserve (37 Stat. 293)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/132894"
+        },
+        {
+          "name": "FWS ServCat: Comprehensive Conservation Plan: National Elk Refuge (2015)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143948"
+        },
+        {
+          "name": "U.S. Code, Title 16, ch. 6, sec. 673 and notes (govinfo, 2015 ed.)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title16/html/USCODE-2015-title16-chap6.htm"
+        },
+        {
+          "name": "Wyoming State Library, Wyoming Places calendar, August 10",
+          "url": "https://places.wyo.gov/explore-more/places-calendar/august/august10"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

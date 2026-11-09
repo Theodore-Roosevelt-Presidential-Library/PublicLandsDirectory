@@ -1,0 +1,72 @@
+{
+ "slug": "wichita-mountains-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1901-07-04",
+   "action": "established",
+   "designation": "Forest Reserve",
+   "name": "Wichita Forest Reserve",
+   "indexText": "President William McKinley established the Wichita Forest Reserve in Oklahoma Territory by Proclamation 459 on July 4, 1901.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "William McKinley",
+    "citation": "Proclamation 459",
+    "signedBy": "William McKinley"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "American Presidency Project: Proclamation 459—Establishment of the Wichita Forest Reserve",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-459-establishment-the-wichita-forest-reserve-oklahoma"
+    },
+    {
+     "name": "FWS, Wichita Mountains Wildlife Refuge CCP and EA (2013), summary and ch. 1",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43580"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1905-06-02",
+   "action": "established",
+   "designation": "Game Preserve",
+   "name": "Wichita Game Preserve",
+   "indexText": "President Theodore Roosevelt designated the entire Wichita Forest Reserve a game preserve for game animals and birds by Proclamation 563 on June 2, 1905, under an act of Congress of January 24, 1905.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "Theodore Roosevelt",
+    "citation": "Proclamation 563 (under the Act of January 24, 1905, 33 Stat. 614)",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "American Presidency Project: Proclamation 563—Redesignating the Wichita Forest Reserve, Oklahoma, as a Game Preserve",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-563-redesignating-the-wichita-forest-reserve-oklahoma-game-preserve"
+    },
+    {
+     "name": "FWS, Wichita Mountains Wildlife Refuge CCP and EA (2013), ch. 1",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43580"
+    },
+    {
+     "name": "FWS ServCat, Establishment Documents: 33 Stat. 614 (24 Jan 1905)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/144492"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "Released from tribal-review hold by the Library",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

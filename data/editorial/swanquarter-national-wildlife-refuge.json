@@ -1,0 +1,44 @@
+{
+  "slug": "swanquarter-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-06-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Swanquarter Migratory Bird Refuge",
+      "indexText": "President Herbert Hoover established the Swanquarter Migratory Bird Refuge by presidential order on June 23, 1932.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Presidential (executive) order of June 23, 1932",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Swanquarter National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/swanquarter/about-us"
+        },
+        {
+          "name": "Federal Register, Dec. 19, 2008 (E8-30149), Swanquarter NWR final CCP: refuge \"was established by Presidential Order on June 23, 1932\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2008-12-19/pdf/E8-30149.pdf"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Cedar Island NWR (1964). Swanquarter dates to June 23, 1932; earlier name from Proclamation 2416. EO number not found.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "tional Wildlife Refuge Swan Quarter, NC Cedar Island National Wildlife Refuge Cedar Island National Wildlife Refuge was established in 1964 and features an extensive, relatively undisturbed coastal marsh, along with pocosin and woodland habitat."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

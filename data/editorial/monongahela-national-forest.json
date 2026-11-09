@@ -1,0 +1,45 @@
+{
+  "slug": "monongahela-national-forest",
+  "designationHistory": [
+    {
+      "date": "1920-04-28",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Wilson proclaimed the Monongahela National Forest in West Virginia and Virginia on lands bought under the Weeks Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Woodrow Wilson",
+        "citation": "Proclamation of Apr. 28, 1920, 41 Stat. 1792",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation of Apr. 28, 1920, 41 Stat. 1792 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1792.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1561, Setting Apart the Monongahela National Forest, Virginia and West Virginia",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1561-setting-apart-the-monongahela-national-forest-virginia-and-west-virginia"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

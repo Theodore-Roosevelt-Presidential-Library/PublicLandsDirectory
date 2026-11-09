@@ -1,0 +1,44 @@
+{
+  "slug": "lake-andes-wetland-management-district",
+  "designationHistory": [
+    {
+      "date": "1958",
+      "action": "established",
+      "designation": "Wetland Management District",
+      "name": null,
+      "indexText": "Established in 1958 to manage waterfowl production areas bought under the Small Wetlands Acquisition Program.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Andes Wetland Management District, About Us",
+          "url": "https://www.fws.gov/refuge/lake-andes-wetland-management-district/about-us"
+        },
+        {
+          "name": "Federal Register: Lake Andes NWR Complex draft CCP notice, Oct. 29, 2012 (WMD established 1958)",
+          "url": "https://www.federalregister.gov/documents/2012/10/29/2012-26482/lake-andes-national-wildlife-refuge-complex-lake-andes-sd-draft-comprehensive-conservation-plan-and"
+        },
+        {
+          "name": "FWS ServCat: Lake Andes NWR Complex CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/26778"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The 104,242-acre Wetland Management District was established in 1958 and protects 18,782 acres of habitat in waterfowl productions areas."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

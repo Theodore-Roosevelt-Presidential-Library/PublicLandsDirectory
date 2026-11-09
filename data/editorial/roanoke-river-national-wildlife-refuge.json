@@ -1,0 +1,40 @@
+{
+  "slug": "roanoke-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989-08",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in August 1989 to protect bottomland hardwood forest and other forested wetlands of high value to waterfowl along the lower Roanoke River.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Roanoke River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/roanoke-river/about-us"
+        },
+        {
+          "name": "FWS Roanoke River NWR brochure (govdocs copy): the refuge \"was established in August 1989 to protect and enhance forested wetlands with high waterfowl value\"",
+          "url": "https://corpora.tika.apache.org/base/docs/govdocs1/312/312004.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence (1984, pocosin wetlands) belongs to Pocosin Lakes NWR. Roanoke River NWR dates to August 1989. Source is an FWS brochure; confirm with the CCP if possible.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1984 to protect the rare pocosin wetlands and their associated wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

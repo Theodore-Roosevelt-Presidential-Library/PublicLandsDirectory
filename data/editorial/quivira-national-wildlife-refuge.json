@@ -1,0 +1,39 @@
+{
+  "slug": "quivira-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1955",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1955 under the Migratory Bird Conservation Act, when the Migratory Bird Conservation Commission approved purchase of the first 1,440 acres.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d; Migratory Bird Conservation Commission approval, fiscal year 1955"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Quivira National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/quivira/about-us"
+        },
+        {
+          "name": "FWS news release, June 14, 1955: in fiscal year 1955 the Migratory Bird Conservation Commission approved purchase of 1,440 acres \"to form the initial tract of the Quivira National Wildlife Refuge\"",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1955/19550614.PDF"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft year 1956 was parsed from the \"Fish and Wildlife Act of 1956\" in a list of authorities. MBCC approved the new refuge in fiscal year 1955 (FWS release of June 14, 1955). Confirm against the refuge CCP if a day is needed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Quivira Refuge was established under these authorities and for these purposes: Migratory Bird Conservation Act (16 United States Code [U.S.C.] § 715d) for use as an inviolate sanctuary, or for any other management purpose, for migratory birds Fish and Wildlife Act of 1956 (16 U.S.C. § 742f(a)4) or the development, advancement, management, conservation, and protection of fish and wildlife resources"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

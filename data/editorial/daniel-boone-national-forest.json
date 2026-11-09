@@ -1,0 +1,73 @@
+{
+  "slug": "daniel-boone-national-forest",
+  "designationHistory": [
+    {
+      "date": "1937-02-23",
+      "action": "established",
+      "designation": "National Forest",
+      "name": "Cumberland National Forest",
+      "indexText": "Cumberland: 2-F.R. 361 Established. 50 Stat. 1818",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2227, 50 Stat. 1818"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 78",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "50 Stat. 1818 (Statutes at Large, govinfo): Proclamation No. 2227, Feb. 23, 1937, Franklin D. Roosevelt, \"the Cumberland National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1818.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2227, Feb. 23, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2227-cumberland-national-forest-kentucky"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, proclamation and President are right, but the predecessor was the Cumberland National Forest (1937), not a \"forest reserve.\"",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1966-04-11",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Daniel Boone National Forest",
+      "indexText": "Cumberland: 31-F.R. 5807 Name changed to Daniel Boone.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Proclamation 3715"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 106",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 3715, April 11, 1966",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-3715-designating-the-cumberland-national-forest-ky-daniel-boone-national"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 3715, April 11, 1966 (31 FR 5807), Lyndon B. Johnson.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

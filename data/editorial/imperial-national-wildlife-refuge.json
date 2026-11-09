@@ -1,0 +1,40 @@
+{
+  "slug": "imperial-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-02-14",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Feb. 14, 1941, by Executive Order 8685, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8685",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Imperial National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/imperial/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8685, Feb. 14, 1941",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8685-establishing-the-imperial-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date field held the EO number (8685) and signer a fragment. Date Feb. 14, 1941, FDR.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Imperial National Wildlife Refuge was established by Executive Order 8685 on February 14, 1941."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

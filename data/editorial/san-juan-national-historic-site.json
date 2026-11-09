@@ -1,6 +1,6 @@
 {
   "slug": "san-juan-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1949-02-14",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated Feb. 14, 1949",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Secretarial order of Feb. 14, 1949, 14 F.R. 871"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 93",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: San Juan, Secretarial order of Feb. 14, 1949, 14 F.R. 871",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated by Secretarial order of Feb. 14, 1949 (14 F.R. 871); Truman.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

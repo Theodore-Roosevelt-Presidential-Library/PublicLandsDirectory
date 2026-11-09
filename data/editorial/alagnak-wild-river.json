@@ -1,6 +1,6 @@
 {
   "slug": "alagnak-wild-river",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1980-12-02",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established Dec. 2, 1980",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 96-487, sec. 601(25), 94 Stat. 2371"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 19",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 94 Stat. 2371 (govinfo): P.L. 96-487 (ANILCA), Dec. 2, 1980; sec. 601(25) designates the Alagnak",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 1274 note (administration of Alaska wild and scenic rivers), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "ANILCA, P.L. 96-487, sec. 601(25), designated the Alagnak a wild river; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,0 +1,40 @@
+{
+  "slug": "santee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1942",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1942 on lands of the Santee Cooper hydroelectric project to replace waterfowl habitat lost to the new reservoirs.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Santee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/santee/about-us"
+        },
+        {
+          "name": "South Carolina Encyclopedia: Santee National Wildlife Refuge (\"Established in 1942 ... to alleviate the loss of natural waterfowl and wildlife habitat caused by the construction of hydroelectric projects\")",
+          "url": "https://www.scencyclopedia.org/sce/?p=14826"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; authority (overlay/lease) not settled.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Santee National Wildlife Refuge, encompassing 15,000 acres, was established in 1942 and is located in the upper Atlantic Coastal Plain region of South Carolina."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

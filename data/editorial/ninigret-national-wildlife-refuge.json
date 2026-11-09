@@ -1,0 +1,40 @@
+{
+  "slug": "ninigret-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1970",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1970 when the Navy transferred part of the Ninigret Pond barrier beach in Charlestown, Rhode Island, to the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Transfer of land from the U.S. Navy",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ninigret National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ninigret/about-us"
+        },
+        {
+          "name": "FWS ServCat: Ninigret NWR CCP (Navy transferred 27.5 acres of Ninigret Pond barrier beach in 1970)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1542"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1970, it consists of 858 acres of diverse upland and wetland habitats including grasslands, shrub lands, wooded swamps and freshwater ponds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

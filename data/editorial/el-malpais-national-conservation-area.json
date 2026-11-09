@@ -1,0 +1,41 @@
+{
+  "slug": "el-malpais-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1987-12-31",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The same act that created El Malpais National Monument established the El Malpais National Conservation Area in New Mexico.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 100-225, title III, sec. 301, 101 Stat. 1539, 1541",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 100-225, 101 Stat. 1539 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1539.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460uu-21 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460uu-21"
+        },
+        {
+          "name": "BLM unit page: El Malpais National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/el-malpais-national-conservation-area"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

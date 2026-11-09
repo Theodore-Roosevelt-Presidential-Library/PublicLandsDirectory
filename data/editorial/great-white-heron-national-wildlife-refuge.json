@@ -1,0 +1,37 @@
+{
+  "slug": "great-white-heron-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-10-27",
+      "action": "established",
+      "designation": "Refuge",
+      "name": "Great White Heron Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 7993 setting aside islands in the Florida Keys backcountry as a refuge and breeding ground for great white herons, other migratory birds and other wildlife.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7993",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed Great White Heron National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Lower Florida Keys NWRs Comprehensive Conservation Plan, 2009 (ServCat 168123)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168123"
+        },
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 7993",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7993-establishing-great-white-heron-refuge"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

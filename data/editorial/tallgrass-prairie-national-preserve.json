@@ -1,6 +1,6 @@
 {
   "slug": "tallgrass-prairie-national-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1996-11-12",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established November 12, 1996",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 104-333, div. I, title X, subtitle A, 110 Stat. 4204"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 104-333, 110 Stat. 4093, Omnibus Parks and Public Lands Management Act of 1996, approved Nov. 12, 1996",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 698u, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698u&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 104-333, title X, subtitle A (Tallgrass Prairie National Preserve Act of 1996); Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

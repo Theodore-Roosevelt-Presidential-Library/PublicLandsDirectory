@@ -1,0 +1,41 @@
+{
+  "slug": "las-cienegas-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2000-12-06",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "Congress established the Las Cienegas National Conservation Area in Arizona.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-538, sec. 4, 114 Stat. 2563, 2564",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "The law has no short-title section; the BLM page's label 'Las Cienegas National Conservation Area Establishment Act of 1999' reflects the bill, not an enacted title, so avoid quoting it as the law's name.",
+      "sources": [
+        {
+          "name": "Public Law 106-538, 114 Stat. 2563 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ538/html/PLAW-106publ538.htm"
+        },
+        {
+          "name": "16 U.S.C. 460ooo-3 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ooo-3"
+        },
+        {
+          "name": "BLM unit page: Las Cienegas National Conservation Area",
+          "url": "https://www.blm.gov/national-conservation-lands/arizona/las-cienegas"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "fort-niobrara-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1912-01-11",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Niobrara Reservation",
+      "indexText": "William Howard Taft signed Executive Order 1461 reserving public land of the former Fort Niobrara military reservation in Nebraska as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "William Howard Taft",
+        "citation": "Executive Order 1461",
+        "signedBy": "William Howard Taft"
+      },
+      "note": "CCP gives 13,279 acres (not rechecked). A later order of November 14, 1912 enlarged its purpose to big game (CCP). Renamed Fort Niobrara National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Fort Niobrara NWR Comprehensive Conservation Plan, 1999 (ServCat 5982)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5982"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1461 (from a period government printing)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1461"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "sheldon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1931-01-26",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Charles Sheldon Wild Life Refuge",
+      "indexText": "President Herbert Hoover established the Charles Sheldon Wild Life Refuge by Executive Order 5540 on January 26, 1931, as a refuge and breeding ground for wild animals and birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5540",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sheldon National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sheldon/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5540, Jan. 26, 1931, Establishing the Charles Sheldon Wild Life Refuge, Nevada",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5540-establishing-the-charles-sheldon-wild-life-refuge-nevada"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date, EO and earlier name added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sheldon National Wildlife Refuge was established in 1931 to: (1) provide habitat for pronghorn, the primary species, and populations of native secondary species (e.g., mule deer, sage-grouse, and song birds) in such numbers as may be necessary to maintain a balanced wildlife population; (2) conserve listed endangered or threatened fish, wildlife, and plants; and (3) use as an inviolate migratory b"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

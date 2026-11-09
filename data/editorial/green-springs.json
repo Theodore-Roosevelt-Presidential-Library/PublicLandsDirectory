@@ -22,29 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1977-12-12",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "On Dec. 12, 1977, the Secretary agreed to accept preservation easements for nearly half of the 14,000 acres in the district",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Jimmy Carter",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 120",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No independent record of the May 30, 1974 landmark designation date was found. A court opinion (Historic Green Springs, Inc. v. Block) confirms the designation and the easements but no dates were extracted. Check the NHL program file.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

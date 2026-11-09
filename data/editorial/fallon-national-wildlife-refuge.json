@@ -1,0 +1,37 @@
+{
+  "slug": "fallon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1931-04-22",
+      "action": "established",
+      "designation": "Wild-Life Refuge",
+      "name": "Fallon Wild-Life Refuge",
+      "indexText": "Herbert Hoover signed Executive Order 5606 reserving public land in Churchill County, Nevada, as a refuge and breeding ground for birds and wild animals.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5606",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": "CCP gives 1931 and EO 5606; APP gives April 22, 1931. Renamed Fallon National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 5606",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5606-establishing-the-fallon-wild-life-refuge"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Final EIS for the Stillwater NWR Complex CCP and Boundary Revision, 2000 (ServCat 1491)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1491"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

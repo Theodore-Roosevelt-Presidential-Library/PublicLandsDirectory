@@ -1,6 +1,6 @@
 {
   "slug": "ebeys-landing-national-historical-reserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1978-11-10",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 95-625, title V, sec. 508, 92 Stat. 3507"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 108",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 92 Stat. 3467 (govinfo): P.L. 95-625, sec. 508, Ebey's Landing National Historical Reserve; Nov. 10, 1978",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 461 note (Pub. L. 95-625, sec. 508), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978, sec. 508; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9131, 79 FR 30431",
           "url": "https://www.federalregister.gov/documents/2014/05/28/2014-12508/establishment-of-the-organ-mountains-desert-peaks-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9131—Establishment of the Organ Mountains-Desert Peaks National Monument, May 21, 2014",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9131-establishment-the-organ-mountains-desert-peaks-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9131, 79 FR 30431, signed 2014-05-21; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

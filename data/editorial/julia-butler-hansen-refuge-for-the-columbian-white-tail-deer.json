@@ -1,0 +1,33 @@
+{
+ "slug": "julia-butler-hansen-refuge-for-the-columbian-white-tail-deer",
+ "designationHistory": [
+  {
+   "date": "1971-12",
+   "action": "established",
+   "designation": "Deer Sanctuary",
+   "name": "Columbia White Tailed Deer Sanctuary",
+   "indexText": "The Fish and Wildlife Service bought an 845-acre first parcel in December 1971, establishing a sanctuary for the endangered Columbian white-tailed deer along the lower Columbia River.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Administrative establishment by land purchase (U.S. Fish and Wildlife Service)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Lewis and Clark NWR and Julia Butler Hansen Refuge CCP/EIS (2010)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1452"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

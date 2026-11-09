@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9566, 82 FR 6159",
           "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01349/establishment-of-the-freedom-riders-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9566—Establishment of the Freedom Riders National Monument, January 12, 2017",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9566-establishment-the-freedom-riders-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9566, 82 FR 6159, signed 2017-01-12; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

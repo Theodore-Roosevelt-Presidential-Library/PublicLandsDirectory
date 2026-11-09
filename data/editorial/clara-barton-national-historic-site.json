@@ -1,6 +1,6 @@
 {
   "slug": "clara-barton-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1974-10-26",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 93-486, title I, 88 Stat. 1461"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 59",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 88 Stat. 1461 (govinfo): P.L. 93-486, approved Oct. 26, 1974",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 93-486; Ford.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

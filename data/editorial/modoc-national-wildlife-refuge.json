@@ -1,0 +1,32 @@
+{
+  "slug": "modoc-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "After the Migratory Bird Conservation Commission authorized land purchases in 1959, the Fish and Wildlife Service established the Modoc National Wildlife Refuge near Alturas, California, for migratory waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+        "signedBy": null
+      },
+      "note": "FWS sources disagree: 1960 (CCP and 2009 fishing CD) versus 1961 (2009 and 2022 hunting CDs). MBCC approval April 8, 1959; first 5,360 acres acquired November 1960.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Modoc NWR Final CCP (2009): MBCC authorized acquisition April 8, 1959; established 1960",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1547"
+        },
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, Modoc NWR (2022): established 1961",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/149356"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

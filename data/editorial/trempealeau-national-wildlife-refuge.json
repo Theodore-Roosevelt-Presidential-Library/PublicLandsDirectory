@@ -1,0 +1,40 @@
+{
+  "slug": "trempealeau-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-08-21",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Trempealeau Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Trempealeau Migratory Waterfowl Refuge by Executive Order 7437 on August 21, 1936.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7437",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Trempealeau National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/trempealeau/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7437, Aug. 21, 1936, Establishing Trempealeau Migratory Waterfowl Refuge in the State of Wisconsin",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7437-establishing-trempealeau-migratory-waterfowl-refuge-the-state"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date, EO and earlier name added; signer completed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Trempealeau National Wildlife Refuge was established by Executive Order in 1936, by President Franklin D."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

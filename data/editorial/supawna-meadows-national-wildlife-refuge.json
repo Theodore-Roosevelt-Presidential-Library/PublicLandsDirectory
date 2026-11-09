@@ -1,0 +1,40 @@
+{
+ "slug": "supawna-meadows-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1974",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Supawna Meadows National Wildlife Refuge About Us Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Species Map About Us Established in 1974, Supawna Meadows National Wildlife Refuge is located in Pennsville, NJ (Salem County) along the Delaware River estuary just north of the Salem River.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Supawna Meadows National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/supawna-meadows/about-us"
+    },
+    {
+     "name": "Federal Register, Sept. 27, 2010 (2010-23871), Supawna Meadows NWR CCP: refuge \"was originally established as the Goose Pond addition to the Killcohook NWR ... which was established by Executive Order 6582 on February 3, 1934, and was renamed as Supawna Meadows NWR in 1974\"",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-09-27/pdf/2010-23871.pdf"
+    },
+    {
+     "name": "American Presidency Project: Executive Order 6582, Feb. 3, 1934, Establishing Killcohook Migratory Bird Refuge",
+     "url": "https://www.presidency.ucsb.edu/documents/executive-order-6582-establishing-killcohook-migratory-bird-refuge"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

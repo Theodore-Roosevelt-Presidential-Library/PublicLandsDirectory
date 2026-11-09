@@ -1,0 +1,41 @@
+{
+ "slug": "kirwin-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1954-06-17",
+   "action": "established",
+   "designation": "National Wildlife Management Area",
+   "name": "Kirwin National Wildlife Management Area",
+   "indexText": "The Kansas Forestry, Fish and Game Commission and the Secretary of the Interior approved a general plan for wildlife management of the Kirwin Reservoir lands in Phillips County, Kansas, creating an overlay refuge on a Bureau of Reclamation project.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Dwight D. Eisenhower",
+    "citation": "General plan under the Act of August 14, 1946 (Fish and Wildlife Coordination Act); FWS notice of establishment, 20 FR (June 7, 1955)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Establishment Documents - Kirwin National Wildlife Management Area (Federal Register notice of establishment, June 7, 1955)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/135669"
+    },
+    {
+     "name": "FWS ServCat: Establishment Documents - Kirwin NWMA (Reclamation-FWS cooperative agreement, June 1954)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/135665"
+    },
+    {
+     "name": "FWS ServCat: Kirwin NWR Comprehensive Conservation Plan (2006)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43990"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

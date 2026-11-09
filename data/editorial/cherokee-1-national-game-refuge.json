@@ -1,0 +1,45 @@
+{
+  "slug": "cherokee-1-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1924-08-05",
+      "action": "established",
+      "designation": "National Game Refuge",
+      "name": "Cherokee National Game Refuge No. 1",
+      "indexText": "President Coolidge set aside Cherokee National Game Refuges Numbers One and Two on Weeks Act lands of the Cherokee National Forest in Tennessee and Georgia.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "Proclamation 2105 of Oct. 22, 1934 redrew the refuge's boundaries; that boundary change is not listed.",
+      "sources": [
+        {
+          "name": "Proclamation of Aug. 5, 1924, 43 Stat. 1964 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1964.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1707, Setting Aside Cherokee National Game Refuges Numbers One and Two",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1707-setting-aside-cherokee-national-game-refuges-numbers-one-and-two"
+        },
+        {
+          "name": "Proclamation 2105 of Oct. 22, 1934, 49 Stat. 3423, reciting that Refuge No. 1 in Tennessee was established Aug. 5, 1924 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3423.pdf"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

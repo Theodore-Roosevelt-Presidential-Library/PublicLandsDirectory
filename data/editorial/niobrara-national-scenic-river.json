@@ -1,6 +1,6 @@
 {
   "slug": "niobrara-national-scenic-river",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1991-05-24",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-50, 105 Stat. 254"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-50, 105 Stat. 254, Niobrara Scenic River Designation Act of 1991, approved May 24, 1991",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg254.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1271, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 102-50; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

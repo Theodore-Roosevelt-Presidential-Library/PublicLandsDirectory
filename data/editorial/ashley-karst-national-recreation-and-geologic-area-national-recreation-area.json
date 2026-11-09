@@ -1,0 +1,37 @@
+{
+  "slug": "ashley-karst-national-recreation-and-geologic-area-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "established",
+      "designation": "National Recreation and Geologic Area",
+      "name": "Ashley Karst National Recreation and Geologic Area",
+      "indexText": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Ashley Karst National Recreation and Geologic Area in the Ashley National Forest, Utah.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, title I, sec. 1117, 133 Stat. 580, 623",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-133/pdf/STATUTE-133-Pg580.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460bbbb (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460bbbb"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

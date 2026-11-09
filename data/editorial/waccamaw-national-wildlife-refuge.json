@@ -1,0 +1,39 @@
+{
+  "slug": "waccamaw-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1997-12-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established on December 1, 1997, to protect tidal freshwater marsh, old rice fields and floodplain forest along the Waccamaw, Great Pee Dee and Little Pee Dee rivers.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Land acquisition"
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Waccamaw National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/waccamaw/about-us"
+        },
+        {
+          "name": "South Carolina Encyclopedia: Waccamaw National Wildlife Refuge (\"established on December 1, 1997\")",
+          "url": "https://www.scencyclopedia.org/sce/?p=12195"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Date confirmed. Not a presidential action; draft signer (Clinton) is only the administration in office.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Waccamaw National Wildlife Refuge was established on December 1, 1997 and consists of wetland habitats ranging from historic, broken and actively managed tidal rice fields, to black water and alluvial flood plain forested wetlands of the Waccamaw and Great Pee Dee Rivers."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

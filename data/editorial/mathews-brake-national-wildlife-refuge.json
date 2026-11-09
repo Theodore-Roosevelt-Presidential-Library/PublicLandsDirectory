@@ -1,0 +1,40 @@
+{
+  "slug": "mathews-brake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1980 under the Migratory Bird Conservation Act to protect waterfowl habitat in the Mississippi Delta.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Mathews Brake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mathews-brake/about-us"
+        },
+        {
+          "name": "FWS ServCat: Theodore Roosevelt NWR Complex CCP (table of refuges, year established, establishing authority)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168353"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by the complex CCP table.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Mathews Brake National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Trails Rules & Policies News Library Species Map About Us Image Details Established in 1980, Mathews Brake National Wildlife Refuge is one of nine refuges in the Theodore Roosevelt National Wildlife Refuge Complex."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

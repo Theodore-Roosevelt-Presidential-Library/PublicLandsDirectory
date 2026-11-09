@@ -1,0 +1,37 @@
+{
+ "slug": "trustom-pond-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1974",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Trustom Pond National Wildlife Refuge in South Kingstown, Rhode Island, began in 1974 with land donated by Ann Kenyon Morse; the Audubon Society of Rhode Island added 151 acres in 1982.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Donation",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Trustom Pond NWR About Us",
+     "url": "https://www.fws.gov/refuge/trustom-pond/about-us"
+    },
+    {
+     "name": "FWS, Trustom Pond NWR Comprehensive Conservation Plan (2002)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1481"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

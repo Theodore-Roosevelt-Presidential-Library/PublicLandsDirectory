@@ -1,0 +1,44 @@
+{
+  "slug": "middle-mississippi-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000-05-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established May 31, 2000, when the Mark Twain NWR Complex divisions below St. Louis became a separate refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Middle Mississippi River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/middle-mississippi-river/about-us"
+        },
+        {
+          "name": "FWS ServCat: Middle Mississippi River NWR Final Land Protection Plan/EA: established as an individual refuge May 31, 2000, from Mark Twain NWR Complex divisions",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/149866"
+        },
+        {
+          "name": "FWS ServCat: Middle Mississippi River NWR Water Resource Inventory and Assessment (established 2000)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/66483"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right; this was an administrative reorganization, not a presidential action. Clear Clinton as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Middle Mississippi River National Wildlife Refuge was established as an individual refuge on May 31, 2000."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

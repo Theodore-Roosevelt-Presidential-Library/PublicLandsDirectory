@@ -1,0 +1,41 @@
+{
+  "slug": "lower-klamath-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-08-08",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Klamath Lake Reservation",
+      "indexText": "President Theodore Roosevelt established the Klamath Lake Reservation in Oregon and California, a preserve and breeding ground for native birds on Lower Klamath Lake, by Executive Order 924.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 924",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Often called the first refuge for waterfowl; that superlative was not checked here. Renamed Lower Klamath National Wildlife Refuge (California and Oregon) by Proclamation 2416, July 25, 1940. The reservation was later reduced by EO 2200 (May 14, 1915) and other orders.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hunting, Lower Klamath NWR (2017)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/123875"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - Klamath Lake Reservation (1921 order citing EO 924 of August 8, 1908)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/135800"
+        },
+        {
+          "name": "Wikisource: Executive Order 924",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_924"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

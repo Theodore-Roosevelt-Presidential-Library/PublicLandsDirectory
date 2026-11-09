@@ -1,0 +1,48 @@
+{
+  "slug": "great-swamp-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-11-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Nov. 3, 1960, when the Department of the Interior accepted land bought by citizens and donated through the North American Wildlife Foundation to block a jetport.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Donation of land by the North American Wildlife Foundation, accepted by the Department of the Interior",
+        "signedBy": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Great Swamp National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/great-swamp/about-us"
+        },
+        {
+          "name": "Federal Register: Great Swamp NWR final CCP notice, Nov. 21, 2014 (date Nov. 3, 1960)",
+          "url": "https://www.federalregister.gov/documents/2014/11/21/2014-27590/great-swamp-national-wildlife-refuge-morris-county-new-jersey-final-comprehensive-conservation-plan"
+        },
+        {
+          "name": "FWS news release, May 25, 1964: Great Swamp \"donated to Government as wildlife area\" by the North American Wildlife Foundation",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1964/19640525B.PDF"
+        },
+        {
+          "name": "EBSCO Research Starters: Great Swamp Wildlife Refuge Is Dedicated (first donated lands accepted by FWS in 1960)",
+          "url": "https://www.ebsco.com/research-starters/environmental-sciences/great-swamp-wildlife-refuge-dedicated"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date is right but there was no act of Congress: the refuge began with donated land accepted by Interior (FWS 1964 release). The 86th Congress had adjourned Sept. 1, 1960, so no act could pass Nov. 3. FWS planning documents repeat the \"act of Congress\" wording. Eisenhower did not sign anything; clear him as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established by an act of Congress on November 3, 1960."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

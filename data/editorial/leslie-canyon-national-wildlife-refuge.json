@@ -1,0 +1,40 @@
+{
+  "slug": "leslie-canyon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1988 to conserve the Yaqui topminnow and Yaqui chub, two native fish of the Rio Yaqui watershed.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Leslie Canyon National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/leslie-canyon/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Leslie Canyon NWR (created in 1988)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/125371"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Leslie Canyon National Wildlife Refuge About Us What We Do Law Enforcement Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved News Species Map About Us The 2,765-acre refuge was established in 1988 to protect two of the eight native fish species of the Río Yaqui watershed: the Yaqui chub (Gila purpurea) and the Yaqui topminnow (Poeciliopsis sonoriensis)."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

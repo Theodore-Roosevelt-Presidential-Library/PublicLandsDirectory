@@ -1,0 +1,41 @@
+{
+  "slug": "steese-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Alaska National Interest Lands Conservation Act established the Steese National Conservation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-487, title IV, sec. 401, 94 Stat. 2371, 2396",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 96-487, 94 Stat. 2371 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460mm (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460mm"
+        },
+        {
+          "name": "BLM unit page: Steese National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/alaska/steese"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

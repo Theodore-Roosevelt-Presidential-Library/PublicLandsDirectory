@@ -1,0 +1,68 @@
+{
+  "slug": "ste-genevieve-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "2018-03-23",
+      "action": "authorized",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress provided for Ste. Genevieve National Historical Park in Missouri by enacting sec. 7134 of the Energy and Natural Resources Act of 2017 through the Consolidated Appropriations Act, 2018.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 115-141, div. G, sec. 121(a)(2), 132 Stat. 661 (text of sec. 7134 at 132 Stat. 1225 appendix)",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": "Enactment by reference: sec. 121(a)(2) enacted sec. 7134 of S. 1460 as placed on the Senate calendar. The site name in the statute is spelled 'Ste. Genevieve'; NPS now writes 'Ste. Geneviève'.",
+      "sources": [
+        {
+          "name": "Public Law 115-141 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ141/html/PLAW-115publ141.htm"
+        },
+        {
+          "name": "Federal Register notice, Ste. Genevieve National Historical Park, 85 FR 78357 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26694.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2020-10-30",
+      "action": "established",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "The Secretary of the Interior established Ste. Genevieve National Historical Park once enough land and partner agreements were in place.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Donald J. Trump",
+        "citation": "Secretarial decision memorandum (effective Oct. 30, 2020); notice, 85 FR 78357 (Dec. 4, 2020)",
+        "signedBy": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register notice, 85 FR 78357 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26694.htm"
+        },
+        {
+          "name": "NPS History Collection, Ste. Geneviève NHP (Oct. 30, 2020)",
+          "url": "https://npshistory.com/publications/stge/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

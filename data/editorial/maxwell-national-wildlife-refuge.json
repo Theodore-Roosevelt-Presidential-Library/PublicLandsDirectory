@@ -1,0 +1,37 @@
+{
+ "slug": "maxwell-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1965-08-24",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": "Las Vegas-Maxwell National Wildlife Refuge",
+   "indexText": "Maxwell's lands were acquired under the Migratory Bird Conservation Act as part of the combined Las Vegas-Maxwell National Wildlife Refuge in northeastern New Mexico.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Lyndon B. Johnson",
+    "citation": "Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Compatibility Determination, Fishing, Maxwell NWR (2006)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/121269"
+    },
+    {
+     "name": "FWS ServCat: Las Vegas NWR CCP (2004): Las Vegas-Maxwell split July 27, 1966",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/145971"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

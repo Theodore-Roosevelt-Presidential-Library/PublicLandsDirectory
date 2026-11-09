@@ -1,0 +1,41 @@
+{
+  "slug": "apalachicola-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-05-13",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt proclaimed the Apalachicola National Forest in Florida.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2169, May 13, 1936, 49 Stat. 3516; 1 F.R. 408",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2169, 49 Stat. 3516 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3516-2.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2169, Apalachicola National Forest, Florida",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2169-apalachicola-national-forest-florida"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

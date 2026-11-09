@@ -1,0 +1,41 @@
+{
+  "slug": "grulla-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1969-11-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Assistant Secretary of the Interior Harrison Loesch signed Public Land Order 4742, withdrawing about 3,230 acres of public land in Roosevelt County, New Mexico, and reserving it for the Grulla National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Richard Nixon",
+        "citation": "Public Land Order 4742 (34 FR 18169, Nov. 13, 1969)",
+        "signedBy": null
+      },
+      "note": "FWS states the land was transferred from the Bureau of Land Management and that the refuge serves lesser sandhill cranes. The refuge is listed with NM and TX in the input; the PLO lands are in New Mexico.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Muleshoe and Grulla NWRs Comprehensive Conservation Plan (2004)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1545"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - Grulla National Wildlife Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133515"
+        },
+        {
+          "name": "Federal Register, Vol. 34, No. 218 (Nov. 13, 1969), p. 18169, Public Land Order 4742",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1969-11-13/pdf/FR-1969-11-13.pdf"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

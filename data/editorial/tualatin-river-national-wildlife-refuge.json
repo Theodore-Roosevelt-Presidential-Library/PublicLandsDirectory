@@ -1,0 +1,40 @@
+{
+  "slug": "tualatin-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1992 to restore floodplain wetlands and other habitat along the Tualatin River near Sherwood, Oregon.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Tualatin River National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/tualatin-river/about-us"
+        },
+        {
+          "name": "Federal Register, Oct. 22, 2012 (2012-25676), Tualatin River NWR CCP: \"The Refuge was established in 1992\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2012-10-22/pdf/2012-25676.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Tualatin River National Wildlife Refuge was officially designated and established in 1992."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "robert-t-stafford-white-rocks-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1984-06-19",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": "White Rocks National Recreation Area",
+      "indexText": "The Vermont Wilderness Act of 1984 established the White Rocks National Recreation Area in the Green Mountain National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 98-322, title II, sec. 202, 98 Stat. 253, 257",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 98-322, 98 Stat. 253 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg253.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460nn-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460nn-1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2007-01-17",
+      "action": "renamed",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress renamed the White Rocks National Recreation Area the Robert T. Stafford White Rocks National Recreation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 110-1, sec. 1, 121 Stat. 3",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 110-1, 121 Stat. 3 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-121/pdf/STATUTE-121-Pg3.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460nn-1, Change of Name note (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460nn-1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

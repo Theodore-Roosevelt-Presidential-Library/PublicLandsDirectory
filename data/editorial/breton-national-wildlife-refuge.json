@@ -1,0 +1,68 @@
+{
+  "slug": "breton-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1904-10-04",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Breton Island Reservation",
+      "indexText": "Theodore Roosevelt signed an unnumbered executive order reserving Breton Island and nearby islands off Louisiana as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Unnumbered Executive Order of October 4, 1904",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "A second order, Executive Order 369-A of November 11, 1905 (also signed by T.R.), re-reserved Breton, Old Harbor and Freemason islands under the same name; some compilations give only that date. Early 1905 printings (Bird-Lore; USDA Laws Applicable, 1912) carry the October 4, 1904 text. The CCP calls Breton the second oldest refuge and the only refuge T.R. visited (not rechecked here).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Delta and Breton NWRs Comprehensive Conservation Plan, 2008 (ServCat 168208)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168208"
+        },
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 7983 (Oct. 4, 1938), which revokes 'the Executive orders of October 4, 1904, and November 11, 1905, reserving certain of these islands as the Breton Island Reservation'",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7983-establishing-the-breton-bird-refuge"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1905-11-11",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Breton Island Reservation",
+      "indexText": "Theodore Roosevelt signed Executive Order 369-A, again reserving Breton, Old Harbor and Freemason islands as the Breton Island Reservation.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 369-A",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Restates the 1904 reservation. Both orders were replaced by Franklin D. Roosevelt's Executive Order 7983 of October 4, 1938, creating the Breton Bird Refuge (APP). The CCP also mentions an 'Executive Order 7938' for the 1938 change; the correct number per APP is 7983.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Delta and Breton NWRs Comprehensive Conservation Plan, 2008 (ServCat 168208)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168208"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 369-A (from a period government printing)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_369-A"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

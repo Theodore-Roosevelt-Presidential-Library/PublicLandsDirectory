@@ -1,0 +1,1434 @@
+[
+ {
+  "id": "agua-fria-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7263—Establishment of the Agua Fria National Monument, January 11, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7263-establishment-the-agua-fria-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7263, 65 FR 2817, signed 2000-01-11; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "antietam-national-battlefield#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II, App. I-III Battlefield Sites (reprints act of Aug. 30, 1890, 26 Stat. 401)",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/12_Appendix_I_III_Battlefield_Sites.pdf"
+   },
+   {
+    "name": "26 Stat. 371 (Statutes at Large, govinfo): sundry civil act, ch. 837, approved Aug. 30, 1890; Antietam provision at p. 401",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg371.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Aug. 30, 1890, ch. 837, 26 Stat. 401",
+   "president": "Benjamin Harrison"
+  },
+  "note": "Sundry civil appropriations act of Aug. 30, 1890 funded marking the lines of battle at Antietam and placed acquired lands under the Secretary of War (Harrison)."
+ },
+ {
+  "id": "antietam-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "antietam-national-battlefield#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "92 Stat. 3467 (Statutes at Large, govinfo): P.L. 95-625, Nov. 10, 1978, sec. 319 at 92 Stat. 3488",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 95-625, sec. 319, 92 Stat. 3488",
+   "president": "Jimmy Carter"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 319, redesignated the site as Antietam National Battlefield (Carter)."
+ },
+ {
+  "id": "antietam-national-battlefield#3",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "Laws of Maryland 1878, ch. 63 (Archives of Maryland vol. 399, p. 79): recites that Congress \"by act of March the second, eighteen hundred and seventy-seven, authorized the Secretary of War to provide for the preservation and superintendence of the Antietam National Cemetery\"",
+    "url": "https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000399/html/am399--79.html"
+   },
+   {
+    "name": "Antietam on the Web: \"It began with the National Cemetery\" (Cemetery Board turned the cemetery over to the War Department in 1877)",
+    "url": "https://behind.aotw.org/?p=1298"
+   }
+  ],
+  "correction": {
+   "date": "1877-03-02",
+   "action": "transferred",
+   "text": "Antietam National Cemetery placed under the War Department by act of Congress, March 2, 1877",
+   "authorityType": "act-of-congress",
+   "president": "Ulysses S. Grant"
+  },
+  "note": "This event belongs to Antietam National Cemetery, not the battlefield, and the date looks wrong. The 1878 Maryland cession act recites a federal act of March 2, 1877 placing the cemetery under the Secretary of War, and the trustees handed it over in 1877. No federal act of July 14, 1870 on the cemetery was found. Grant was still President on March 2, 1877. Confirm the 19 Stat. page before publishing. Held: rests on a state law and one secondary source; confirm in 19 Stat. before publishing."
+ },
+ {
+  "id": "antietam-national-battlefield#4",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "text": "Antietam National Cemetery transferred from the War Department to the National Park Service, Aug. 10, 1933"
+  },
+  "note": "Index line belongs to Antietam National Cemetery (a separate sub-entry), so the text needs the cemetery name to avoid duplicating #1. Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "avi-kwa-ame-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10533—Establishment of the Avi Kwa Ame National Monument, March 21, 2023",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10533-establishment-the-avi-kwa-ame-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10533, 88 FR 17987, signed 2023-03-21; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "basin-and-range-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9297—Establishment of the Basin and Range National Monument, July 10, 2015",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9297-establishment-the-basin-and-range-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9297, 80 FR 41969, signed 2015-07-10; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "bears-ears-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9558—Establishment of the Bears Ears National Monument, December 28, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9558-establishment-the-bears-ears-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9558, 82 FR 1139, signed 2016-12-28; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "bears-ears-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9681—Modifying the Bears Ears National Monument, December 04, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9681-modifying-the-bears-ears-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 9681, 82 FR 58081",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2017-12-08/pdf/2017-26709.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9681, 82 FR 58081, signed 2017-12-04; FR API and APP agree on number, date and President. Reduced the monument to about 201,876 acres in two units (Indian Creek, Shash Jaa)."
+ },
+ {
+  "id": "bears-ears-national-monument#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10285—Bears Ears National Monument, October 08, 2021",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10285-bears-ears-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 10285, 86 FR 57321",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2021-10-15/pdf/2021-22672.pdf"
+   }
+  ],
+  "correction": {
+   "action": "modified",
+   "text": "Restored and expanded the monument's boundaries (Proclamation 10285): about 1.36 million acres, the 2016 lands plus about 11,200 acres added in 2017"
+  },
+  "note": "Proclamation 10285, 86 FR 57321, signed 2021-10-08; FR API and APP agree on number, date and President. Title names the monument only; operative text reserves the lands of the monument as of Dec. 3, 2017 plus the ~11,200 acres added by Proclamation 9681, about 1.36 million acres."
+ },
+ {
+  "id": "bears-ears-national-monument#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 11043—Modifying the Bears Ears National Monument, July 13, 2026",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-11043-modifying-the-bears-ears-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 11043, 91 FR 45169",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14548.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 11043, 91 FR 45169, signed 2026-07-13; FR API and APP agree on number, date and President. Post-cutoff proclamation verified on federalregister.gov and govinfo (published July 17, 2026): reduced the monument to about 121,096 acres in the Indian Creek and Shash Jaa units."
+ },
+ {
+  "id": "belmont-paul-womens-equality-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9423—Establishment of the Belmont-Paul Women's Equality National Monument, April 12, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9423-establishment-the-belmont-paul-womens-equality-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9423, 81 FR 22503, signed 2016-04-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "berryessa-snow-mountain-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9298—Establishment of the Berryessa Snow Mountain National Monument, July 10, 2015",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9298-establishment-the-berryessa-snow-mountain-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9298, 80 FR 41975, signed 2015-07-10; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "berryessa-snow-mountain-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10745—Boundary Enlargement of the Berryessa Snow Mountain National Monument, May 02, 2024",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10745-boundary-enlargement-the-berryessa-snow-mountain-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10745, 89 FR 39531, signed 2024-05-02; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision."
+ },
+ {
+  "id": "birmingham-civil-rights-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9565—Establishment of the Birmingham Civil Rights National Monument, January 12, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9565-establishment-the-birmingham-civil-rights-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9565, 82 FR 6151, signed 2017-01-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "browns-canyon-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9232—Establishment of the Browns Canyon National Monument, February 19, 2015",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9232-establishment-the-browns-canyon-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9232, 80 FR 9975, signed 2015-02-19; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "california-coastal-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7264—Establishment of the California Coastal National Monument, January 11, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7264-establishment-the-california-coastal-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7264, 65 FR 2821, signed 2000-01-11; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "california-coastal-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9089—Boundary Enlargement of the California Coastal National Monument, March 11, 2014",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9089-boundary-enlargement-the-california-coastal-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9089, 79 FR 14603, signed 2014-03-11; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision."
+ },
+ {
+  "id": "california-coastal-national-monument#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9563—Boundary Enlargement of the California Coastal National Monument, January 12, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9563-boundary-enlargement-the-california-coastal-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9563, 82 FR 6131, signed 2017-01-12; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision."
+ },
+ {
+  "id": "camp-hale-continental-divide-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10476—Establishment of the Camp Hale-Continental Divide National Monument, October 12, 2022",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10476-establishment-the-camp-hale-continental-divide-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10476, 87 FR 63381, signed 2022-10-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "camp-nelson-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9811—Establishment of the Camp Nelson National Monument, October 26, 2018",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9811-establishment-the-camp-nelson-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9811, 83 FR 54845, signed 2018-10-26; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "canyons-of-the-ancients-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7317—Establishment of the Canyons of the Ancients National Monument, June 09, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7317-establishment-the-canyons-the-ancients-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7317, 65 FR 37243, signed 2000-06-09; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "carlisle-federal-indian-boarding-school-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10870—Establishment of the Carlisle Federal Indian Boarding School National Monument, December 09, 2024",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10870-establishment-the-carlisle-federal-indian-boarding-school-national"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10870, 89 FR 100289, signed 2024-12-09; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "carrizo-plain-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7393—Establishment of the Carrizo Plain National Monument, January 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7393-establishment-the-carrizo-plain-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7393, 66 FR 7339, signed 2001-01-17; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "cascade-siskiyou-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7318—Establishment of the Cascade-Siskiyou National Monument, June 09, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7318-establishment-the-cascade-siskiyou-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7318, 65 FR 37249, signed 2000-06-09; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "cascade-siskiyou-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9564—Boundary Enlargement of the Cascade-Siskiyou National Monument, January 12, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9564-boundary-enlargement-the-cascade-siskiyou-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9564, 82 FR 6145, signed 2017-01-12; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision."
+ },
+ {
+  "id": "castle-mountains-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9394—Establishment of the Castle Mountains National Monument, February 12, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9394-establishment-the-castle-mountains-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9394, 81 FR 8365, signed 2016-02-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "chaco-culture-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 740, March 11, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-740-setting-aside-chaco-canyon-national-monument-new-mexico"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 740"
+  },
+  "note": "Proclamation 740, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "chaco-culture-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "94 Stat. 3221 (Statutes at Large, govinfo): P.L. 96-550, Dec. 19, 1980, Title V",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3221.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 96-550, title V, 94 Stat. 3221",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-550, Title V, created Chaco Culture National Historical Park from Chaco Canyon NM (Carter)."
+ },
+ {
+  "id": "chickasaw-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 641 (Statutes at Large, govinfo): ch. 1362, approved July 1, 1902; Choctaw-Chickasaw agreement, sec. 64 Sulphur Springs cession",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg641.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of July 1, 1902, ch. 1362, 32 Stat. 641"
+  },
+  "note": "Act of July 1, 1902 ratified the Choctaw-Chickasaw agreement whose sec. 64 ceded the Sulphur Springs tract to the United States (T.R.)."
+ },
+ {
+  "id": "chickasaw-national-recreation-area#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 837 (Statutes at Large, govinfo): Pub. Res. No. 42, June 29, 1906, naming Sulphur Springs Reservation \"Platt National Park\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg837-3.pdf"
+   },
+   {
+    "name": "16 U.S.C. 153 notes (Cornell LII): June 29, 1906, No. 42, 34 Stat. 837",
+    "url": "https://www.law.cornell.edu/uscode/text/16/153"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Pub. Res. No. 42, June 29, 1906, 34 Stat. 837",
+   "president": "Theodore Roosevelt"
+  },
+  "note": "Joint resolution of June 29, 1906 renamed the reservation Platt National Park (T.R.)."
+ },
+ {
+  "id": "chickasaw-national-recreation-area#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "90 Stat. 235 (Statutes at Large, govinfo): P.L. 94-235, Mar. 17, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg235.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 94-235, 90 Stat. 235",
+   "president": "Gerald R. Ford"
+  },
+  "note": "P.L. 94-235 established Chickasaw NRA combining Platt NP and Arbuckle NRA (Ford)."
+ },
+ {
+  "id": "chimney-rock-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 8868—Establishment of the Chimney Rock National Monument, September 21, 2012",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-8868-establishment-the-chimney-rock-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 8868, 77 FR 59275, signed 2012-09-21; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "chuckwalla-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10881—Establishment of the Chuckwalla National Monument, January 14, 2025",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10881-establishment-the-chuckwalla-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10881, 90 FR 6715, signed 2025-01-14; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "devils-tower-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 658, Sept. 24, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-658-setting-aside-devils-tower-national-monument-wyoming"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 658"
+  },
+  "note": "Proclamation 658, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "el-morro-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 695, Dec. 8, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-695-setting-aside-el-morro-national-monument-new-mexico"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 695"
+  },
+  "note": "Proclamation 695, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "emmett-till-and-mamie-till-mobley-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10602—Establishment of the Emmett Till and Mamie Till-Mobley National Monument, July 25, 2023",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10602-establishment-the-emmett-till-and-mamie-till-mobley-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10602, 88 FR 48705, signed 2023-07-25; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "fire-island-national-seashore#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "78 Stat. 928 (Statutes at Large, govinfo): P.L. 88-587, Sept. 11, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg928-2.pdf"
+   },
+   {
+    "name": "NPS Fire Island: Laws and Policies (P.L. 88-587, Sept. 11, 1964)",
+    "url": "https://www.nps.gov/fiis/learn/management/lawsandpolicies.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-587, 78 Stat. 928"
+  },
+  "note": "P.L. 88-587 authorized the Secretary to establish the seashore (LBJ)."
+ },
+ {
+  "id": "fire-island-national-seashore#1",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "NPS Fire Island: Laws and Policies (lists no Sept. 11, 1984 action)",
+    "url": "https://www.nps.gov/fiis/learn/management/lawsandpolicies.htm"
+   },
+   {
+    "name": "16 U.S.C. 459e (Cornell LII)",
+    "url": "https://www.law.cornell.edu/uscode/text/16/459e"
+   }
+  ],
+  "correction": null,
+  "note": "No independent record found of an establishment action on Sept. 11, 1984. NPS's own legislative list gives 1984 acts of July 18 (P.L. 98-369) and Oct. 17 (P.L. 98-482) only, and the exact 20-year match with the 1964 act raises the chance of an Index error. Check for a Secretary's establishment notice in the Federal Register (Sept. 1984) or ask the park."
+ },
+ {
+  "id": "fort-ord-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 8803—Establishment of the Fort Ord National Monument, April 20, 2012",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-8803-establishment-the-fort-ord-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 8803, 77 FR 24579, signed 2012-04-20; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "frances-perkins-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10873—Establishment of the Frances Perkins National Monument, December 16, 2024",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10873-establishment-the-frances-perkins-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10873, 89 FR 103617, signed 2024-12-16; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "freedom-riders-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9566—Establishment of the Freedom Riders National Monument, January 12, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9566-establishment-the-freedom-riders-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9566, 82 FR 6159, signed 2017-01-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "george-washington-birthplace-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "46 Stat. 58 (Statutes at Large, govinfo): ch. 24, approved Jan. 23, 1930, sec. 2 establishes the monument",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg58-2.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Jan. 23, 1930, ch. 24, 46 Stat. 58",
+   "president": "Herbert Hoover"
+  },
+  "note": "Act of Jan. 23, 1930, sec. 2, established George Washington Birthplace National Monument (Hoover)."
+ },
+ {
+  "id": "giant-sequoia-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7295—Establishment of the Giant Sequoia National Monument, April 15, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7295-establishment-the-giant-sequoia-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7295, 65 FR 24095, signed 2000-04-15; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "gila-cliff-dwellings-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 781, Nov. 16, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-781-establishment-the-gila-cliff-dwellings-national-monument-new-mexico"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 781"
+  },
+  "note": "Proclamation 781, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "gila-cliff-dwellings-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "glen-canyon-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "86 Stat. 1311 (Statutes at Large, govinfo): P.L. 92-593, Oct. 27, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1311.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 92-593, 86 Stat. 1311",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 92-593 established Glen Canyon NRA (Nixon)."
+ },
+ {
+  "id": "gold-butte-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9559—Establishment of the Gold Butte National Monument, December 28, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9559-establishment-the-gold-butte-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9559, 82 FR 1149, signed 2016-12-28; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "grand-canyon-parashant-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7265—Establishment of the Grand Canyon-Parashant National Monument, January 11, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7265-establishment-the-grand-canyon-parashant-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7265, 65 FR 2825, signed 2000-01-11; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "grand-staircase-escalante-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 6920—Establishment of the Grand Staircase-Escalante National Monument, September 18, 1996",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-6920-establishment-the-grand-staircase-escalante-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 6920, 61 FR 50223, signed 1996-09-18; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "grand-staircase-escalante-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9682—Modifying the Grand Staircase-Escalante National Monument, December 04, 2017",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9682-modifying-the-grand-staircase-escalante-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9682, 82 FR 58089, signed 2017-12-04; FR API and APP agree on number, date and President. Reduced the monument by about 860,000 acres (as recited in Proclamation 11044)."
+ },
+ {
+  "id": "grand-staircase-escalante-national-monument#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10286—Grand Staircase-Escalante National Monument, October 08, 2021",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10286-grand-staircase-escalante-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 10286, 86 FR 57335",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2021-10-15/pdf/2021-22673.pdf"
+   }
+  ],
+  "correction": {
+   "action": "modified",
+   "text": "Restored the monument's boundaries (Proclamation 10286) to about 1.87 million acres, its extent before the 2017 reduction"
+  },
+  "note": "Proclamation 10286, 86 FR 57335, signed 2021-10-08; FR API and APP agree on number, date and President. Title names the monument only; operative text restores the lands reserved as of Dec. 3, 2017, about 1.87 million acres."
+ },
+ {
+  "id": "grand-staircase-escalante-national-monument#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 11044—Modifying the Grand Staircase-Escalante National Monument, July 13, 2026",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-11044-modifying-the-grand-staircase-escalante-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 11044, 91 FR 45179",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14549.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 11044, 91 FR 45179, signed 2026-07-13; FR API and APP agree on number, date and President. Post-cutoff proclamation verified on federalregister.gov and govinfo (published July 17, 2026): reduced the monument to about 181,541 acres in two units (Canyons and Escalante; Kaiparowits Horizon). Note the proclamation text itself misprints \"9862\" for 9682."
+ },
+ {
+  "id": "hubbell-trading-post-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "79 Stat. 584 (Statutes at Large, govinfo): P.L. 89-148, Aug. 28, 1965",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg583-2.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 89-148, 79 Stat. 584"
+  },
+  "note": "P.L. 89-148 authorized the site (LBJ)."
+ },
+ {
+  "id": "ironwood-forest-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7320—Establishment of the Ironwood Forest National Monument, June 09, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7320-establishment-the-ironwood-forest-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7320, 65 FR 37259, signed 2000-06-09; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "jewel-cave-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 799, Feb. 7, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-799-setting-aside-jewel-cave-national-monument-south-dakota"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 799"
+  },
+  "note": "Proclamation 799, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "jewel-cave-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "kasha-katuwe-tent-rocks-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7394—Establishment of the Kasha-Katuwe Tent Rocks National Monument, January 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7394-establishment-the-kasha-katuwe-tent-rocks-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7394, 66 FR 7343, signed 2001-01-17; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "katahdin-woods-and-waters-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9476—Establishment of the Katahdin Woods and Waters National Monument, August 24, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9476-establishment-the-katahdin-woods-and-waters-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9476, 81 FR 59121, signed 2016-08-24; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "mojave-trails-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9395—Establishment of the Mojave Trails National Monument, February 12, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9395-establishment-the-mojave-trails-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9395, 81 FR 8371, signed 2016-02-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "montezuma-castle-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 696, Dec. 8, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-696-setting-aside-montezuma-castle-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 696"
+  },
+  "note": "Proclamation 696, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "muir-woods-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 793, Jan. 9, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-793-setting-aside-muir-woods-national-monument-california"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 793"
+  },
+  "note": "Proclamation 793, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "natural-bridges-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 804, April 16, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-804-setting-aside-natural-bridges-national-monument-utah"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 804"
+  },
+  "note": "Proclamation 804, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "organ-mountains-desert-peaks-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9131—Establishment of the Organ Mountains-Desert Peaks National Monument, May 21, 2014",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9131-establishment-the-organ-mountains-desert-peaks-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9131, 79 FR 30431, signed 2014-05-21; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "pelican-island-national-wildlife-refuge#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Fish and Wildlife Service: Pelican Island NWR, About Us (March 14, 1903 executive order; first federal bird reservation)",
+    "url": "https://www.fws.gov/refuge/pelican-island/about-us"
+   }
+  ],
+  "correction": {
+   "president": "Theodore Roosevelt",
+   "citation": "Executive order of March 14, 1903 (unnumbered)"
+  },
+  "note": "USFWS: on March 14, 1903 T.R. established Pelican Island as the first federal bird reservation by executive order (unnumbered). The \"first federal bird reservation\" wording is supported."
+ },
+ {
+  "id": "pinnacles-national-park#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 796 text, signing clause \"twenty-eighth day of January\" 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-796-setting-aside-pinnacles-national-monument-california"
+   },
+   {
+    "name": "35 Stat. 2177 (Statutes at Large, govinfo): Proclamation 796: margin date and attached diagram read Jan. 16, 1908; signing clause on p. 2178 reads twenty-eighth day of January",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2177.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Same unresolved conflict as batch 1. The Statutes margin heading and the diagram (\"proclamation dated January 16, 1908\") support the Index date, but the signing clause in both the Statutes and APP reads Jan. 28, 1908. The President (T.R.) and authority are right. Check the original at NARA (RG 11) before publishing a day."
+ },
+ {
+  "id": "pompeys-pillar-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7396—Establishment of the Pompeys Pillar National Monument, January 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7396-establishment-the-pompeys-pillar-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7396, 66 FR 7351, signed 2001-01-17; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "rainbow-bridge-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1043, May 30, 1910",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1043-setting-aside-rainbow-bridge-national-monument-utah"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1043"
+  },
+  "note": "Proclamation 1043, William Howard Taft; APP signing clause matches the date."
+ },
+ {
+  "id": "rock-creek-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "26 Stat. 492 (Statutes at Large, govinfo): ch. 1001, Sept. 27, 1890, establishing Rock Creek Park",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg492.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Sept. 27, 1890, ch. 1001, 26 Stat. 492"
+  },
+  "note": "Act of Sept. 27, 1890 established Rock Creek Park (Harrison)."
+ },
+ {
+  "id": "rock-creek-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "sagamore-hill-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "76 Stat. 217 (Statutes at Large, govinfo): P.L. 87-547, July 25, 1962",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg217.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-547, 76 Stat. 217"
+  },
+  "note": "P.L. 87-547 authorized Sagamore Hill and T.R. Birthplace NHSs (JFK)."
+ },
+ {
+  "id": "san-gabriel-mountains-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9194—Establishment of the San Gabriel Mountains National Monument, October 10, 2014",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9194-establishment-the-san-gabriel-mountains-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9194, 79 FR 62303, signed 2014-10-10; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "san-gabriel-mountains-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10746—Boundary Enlargement of the San Gabriel Mountains National Monument, May 02, 2024",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10746-boundary-enlargement-the-san-gabriel-mountains-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10746, 89 FR 40361, signed 2024-05-02; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision."
+ },
+ {
+  "id": "san-juan-islands-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 8947—Establishment of the San Juan Islands National Monument, March 25, 2013",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-8947-establishment-the-san-juan-islands-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 8947, 78 FR 18789, signed 2013-03-25; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "sand-to-snow-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9396—Establishment of the Sand to Snow National Monument, February 12, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9396-establishment-the-sand-snow-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9396, 81 FR 8379, signed 2016-02-12; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "sonoran-desert-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7397—Establishment of the Sonoran Desert National Monument, January 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7397-establishment-the-sonoran-desert-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7397, 66 FR 7354, signed 2001-01-17; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "springfield-1908-race-riot-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 10792—Establishment of the Springfield 1908 Race Riot National Monument, August 16, 2024",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-10792-establishment-the-springfield-1908-race-riot-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 10792, 89 FR 67821, signed 2024-08-16; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "statue-of-liberty-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1713, Oct. 15, 1924",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1713-historic-areas-certain-military-reservations-declared-national-monuments"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1713"
+  },
+  "note": "Proclamation 1713 (Coolidge) declared the Statue of Liberty on Fort Wood, Bedloe's Island, a national monument, with other War Department sites."
+ },
+ {
+  "id": "statue-of-liberty-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "statue-of-liberty-national-monument#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3656, May 11, 1965",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3656-adding-ellis-island-the-statue-liberty-national-monument"
+   }
+  ],
+  "correction": {
+   "action": "modified",
+   "text": "Ellis Island added to the Statue of Liberty National Monument by Proclamation 3656, May 11, 1965",
+   "citation": "Proclamation 3656"
+  },
+  "note": "Proclamation 3656 (LBJ) added Ellis Island to the existing monument; this is a modification, not a new designation."
+ },
+ {
+  "id": "stonewall-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 9465—Establishment of the Stonewall National Monument, June 24, 2016",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-9465-establishment-the-stonewall-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 9465, 81 FR 42215, signed 2016-06-24; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "action": "transferred",
+   "text": "Transferred to the National Park Service, Aug. 10, 1933",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR). Action corrected from \"established\": this was a transfer of administration."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "1 Stat. 130 (Statutes at Large, govinfo): ch. 28, Residence Act, approved July 16, 1790",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg129-3.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Date and President are right (Residence Act, Washington), but the draft text duplicates #0. Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "2 Stat. 175 (Statutes at Large, govinfo): ch. 41, May 1, 1802, abolishing the Board of Commissioners",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg175.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of May 1, 1802 abolished the commissioners (Jefferson). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#3",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "3 Stat. 324 (Statutes at Large, govinfo): ch. 150, April 29, 1816, one Commissioner of Public Buildings",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg324-2.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of April 29, 1816 replaced the three commissioners with one Commissioner of Public Buildings (Madison). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#4",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "9 Stat. 395 (Statutes at Large, govinfo): ch. 108, March 3, 1849, Home Department act, sec. 9 public buildings",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg395.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of March 3, 1849 created the Interior Department and gave it the President's supervisory powers over the Commissioner of Public Buildings (Polk, his last full day; Taylor took office March 5). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#5",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "14 Stat. 466 (Statutes at Large, govinfo): sundry civil act, ch. 167, March 2, 1867, sec. 2 at p. 466",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-14/pdf/STATUTE-14-Pg457.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of March 2, 1867 abolished the Commissioner of Public Buildings and gave the duties to the Chief Engineer of the Army (Andrew Johnson approved it). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#6",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "30 Stat. 570 (Statutes at Large, govinfo): ch. 543, July 1, 1898",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg570.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of July 1, 1898 placed the D.C. park system, including the public reservations, under the Chief of Engineers (McKinley). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#7",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "43 Stat. 983 (Statutes at Large, govinfo): ch. 339, Feb. 26, 1925, Office of Public Buildings and Public Parks of the National Capital",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg983.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of Feb. 26, 1925 created the Office of Public Buildings and Public Parks of the National Capital (Coolidge). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#8",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "47 Stat. 1517 (Statutes at Large, govinfo): ch. 212, March 3, 1933, title IV reorganization authority",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg1489.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Act of March 3, 1933, title IV, gave the reorganization authority later used for EO 6166 (Hoover, his last full day). Part of the Index's chain of acts that shaped authority over the public buildings, not an action on the White House site. Removed from the designation history."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#9",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "EO 6166 (June 10, 1933) is the instrument behind the Aug. 10, 1933 transfer (#0), whose citation now names it. Removed as a duplicate, not a separate action on the site."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#10",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "75 Stat. 586 (Statutes at Large, govinfo): P.L. 87-286, Sept. 22, 1961",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg586-2.pdf"
+   }
+  ],
+  "correction": {
+   "action": "designated",
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 87-286, 75 Stat. 586",
+   "president": "John F. Kennedy"
+  },
+  "note": "P.L. 87-286: the White House \"shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916\" (JFK). The Index ellipsis quote is faithful."
+ },
+ {
+  "id": "the-white-house-and-presidents-park#11",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "39 Stat. 535 (Statutes at Large, govinfo): ch. 408, Aug. 25, 1916, NPS Organic Act",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg535.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Date and President are right (NPS Organic Act, Wilson), but the draft text duplicates #10 and the 1916 act is the law the 1961 act points to, not an action on the site. Removed."
+ },
+ {
+  "id": "tonto-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 787, Dec. 19, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-787-establishment-the-tonto-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 787"
+  },
+  "note": "Proclamation 787, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "tonto-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective 61 days later, Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "tumacacori-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 821, Sept. 15, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-821-setting-aside-the-tumacacori-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 821"
+  },
+  "note": "Proclamation 821, Theodore Roosevelt; APP signing clause matches the date."
+ },
+ {
+  "id": "tumacacori-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "104 Stat. 393 (Statutes at Large, govinfo): P.L. 101-344, Aug. 6, 1990",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg393.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 101-344, 104 Stat. 393",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 101-344 established Tumacacori National Historical Park from the national monument (George H. W. Bush)."
+ },
+ {
+  "id": "tuskegee-institute-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "88 Stat. 1461 (Statutes at Large, govinfo): P.L. 93-486, Oct. 26, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 93-486, 88 Stat. 1461"
+  },
+  "note": "P.L. 93-486 authorized the site (Ford)."
+ },
+ {
+  "id": "upper-missouri-river-breaks-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7398—Establishment of the Upper Missouri River Breaks National Monument, January 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7398-establishment-the-upper-missouri-river-breaks-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 7398, 66 FR 7359, signed 2001-01-17; FR API and APP agree on number, date and President."
+ },
+ {
+  "id": "vermilion-cliffs-national-monument#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 7374—Vermilion Cliffs National Monument, November 09, 2000",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7374-vermilion-cliffs-national-monument"
+   },
+   {
+    "name": "Federal Register (govinfo PDF): Proclamation 7374, 65 FR 69227",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2000-11-15/pdf/00-29453.pdf"
+   }
+  ],
+  "correction": {
+   "action": "established",
+   "designation": "National Monument",
+   "text": "Establishment of the Vermilion Cliffs National Monument"
+  },
+  "note": "Proclamation 7374, 65 FR 69227, signed 2000-11-09; FR API and APP agree on number, date and President. Title names the monument only; the proclamation sets apart about 293,000 acres as a new monument, so this is an establishment."
+ }
+]

@@ -1,0 +1,41 @@
+{
+  "slug": "hawaiian-islands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1909-02-03",
+      "action": "established",
+      "designation": "Bird Reservation",
+      "name": "Hawaiian Islands Reservation",
+      "indexText": "President Theodore Roosevelt set aside the islets and reefs of the northwestern Hawaiian chain, from Nihoa (Bird Island) to Kure (Cure Island), as the Hawaiian Islands Reservation for native birds by Executive Order 1019.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 1019",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Machine OCR of the FWS copy misreads the date as February 2; the page image reads February 3, 1909, No. 1019. Renamed Hawaiian Islands National Wildlife Refuge by Proclamation 2416, July 25, 1940. Signed one month before T.R. left office.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Hawaiian Islands Reservation (printed order, February 3, 1909, No. 1019)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133706"
+        },
+        {
+          "name": "FWS ServCat: Compatibility Determination, Hawaiian Islands NWR (2009)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/120581"
+        },
+        {
+          "name": "Wikisource: Executive Order 1019",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1019"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "desert-shield-and-desert-storm-memorial",
+  "designationHistory": [
+    {
+      "date": "2014-12-19",
+      "action": "authorized",
+      "designation": "memorial",
+      "name": "National Desert Storm and Desert Shield Memorial",
+      "indexText": "Congress authorized the National Desert Storm Memorial Association to build a memorial on federal land in Washington, D.C., to those who served in Operations Desert Storm and Desert Shield.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 113-291, sec. 3093, 128 Stat. 3879",
+        "signedBy": "Barack Obama"
+      },
+      "note": "A 2017 law (Public Law 115-18) approved a site near the National Mall; that is a siting action, not a designation, and is not listed. The memorial association changed the name's word order in December 2022; no government action on the name was found.",
+      "sources": [
+        {
+          "name": "Public Law 113-291 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+        },
+        {
+          "name": "40 U.S.C. 8903 notes (Cornell LII), commemorative works list",
+          "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+        },
+        {
+          "name": "NPS History Collection, Desert Storm and Desert Shield Memorial (timeline)",
+          "url": "https://npshistory.com/publications/dsds/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "action": "established",
+      "designation": "memorial",
+      "name": null,
+      "indexText": "The Desert Shield and Desert Storm Memorial was dedicated and joined the National Park System.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Donald J. Trump",
+        "citation": "Dedication and acceptance into the National Park System, Oct. 24, 2026",
+        "signedBy": null
+      },
+      "note": "No separate transfer instrument was found; the date is the dedication and Interior's announcement.",
+      "sources": [
+        {
+          "name": "Department of the Interior press release, Oct. 24, 2026",
+          "url": "https://www.doi.gov/pressreleases/department-interior-and-national-park-service-welcome-desert-shield-and-desert-storm"
+        },
+        {
+          "name": "NPS History Collection, Desert Storm and Desert Shield Memorial (from NPS website, Oct. 2026)",
+          "url": "https://npshistory.com/publications/dsds/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

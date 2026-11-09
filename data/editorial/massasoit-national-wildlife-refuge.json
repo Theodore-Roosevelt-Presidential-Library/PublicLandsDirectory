@@ -1,0 +1,40 @@
+{
+  "slug": "massasoit-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1983 to conserve the endangered northern red-bellied cooter and other native wildlife in Plymouth, Massachusetts.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Massasoit National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/massasoit/about-us"
+        },
+        {
+          "name": "Federal Register: Massasoit NWR notice, Jan. 10, 2012 (established 1983)",
+          "url": "https://www.federalregister.gov/documents/2012/01/10/2012-297/massasoit-national-wildlife-refuge-plymouth-ma"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Massasoit National Wildlife Refuge, established in 1983, is one of eight national wildlife refuges that comprise the Eastern Massachusetts National Wildlife Refuge Complex."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

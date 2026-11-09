@@ -1,0 +1,37 @@
+{
+  "slug": "rachel-carson-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1966",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Coastal Maine National Wildlife Refuge",
+      "indexText": "The refuge was established in 1966, in cooperation with the State of Maine, as the Coastal Maine National Wildlife Refuge to protect salt marshes and estuaries for migratory birds; it was renamed and dedicated to Rachel Carson on June 27, 1970.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "Pass A (fws.gov: Coastal Maine NWR established December 16, 1966 under the Migratory Bird Conservation Act; renamed and dedicated to Rachel Carson on June 27, 1970) and Pass B (Wells Reserve: the Coastal Maine NWR \"was indeed established in 1966\"; dedication June 27, 1970) agree on 1966 and the 1970 dedication. The exact day, December 16, rests on the FWS page. fws.gov says \"Congress established\" it; under the Migratory Bird Conservation Act the approval would normally come from the Migratory Bird Conservation Commission, which includes members of Congress, so the authority is recorded as administrative and should be checked.",
+      "sources": [
+        {
+          "name": "Wells National Estuarine Research Reserve blog, \"Marking Murky Milestones\"",
+          "url": "https://wellsreserve.org/blog/marking-murky-milestones"
+        },
+        {
+          "name": "FWS, Rachel Carson NWR About Us",
+          "url": "https://www.fws.gov/refuge/rachel-carson/about-us"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

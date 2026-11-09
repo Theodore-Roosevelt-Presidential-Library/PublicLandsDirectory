@@ -1,0 +1,41 @@
+{
+  "slug": "fort-stanton-snowy-river-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": "Fort Stanton-Snowy River Cave National Conservation Area",
+      "indexText": "The Omnibus Public Land Management Act of 2009 established the Fort Stanton-Snowy River Cave National Conservation Area in Lincoln County, New Mexico.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, title II, sec. 2202, 123 Stat. 991, 1099",
+        "signedBy": "Barack Obama"
+      },
+      "note": "The statutory and BLM name includes 'Cave'; the input name omits it.",
+      "sources": [
+        {
+          "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+        },
+        {
+          "name": "16 U.S.C. 460yyy-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460yyy-1"
+        },
+        {
+          "name": "BLM unit page: Fort Stanton - Snowy River National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/fort-stanton-snowy-river-cave-national-conservation-area"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

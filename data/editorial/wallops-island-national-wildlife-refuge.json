@@ -1,0 +1,32 @@
+{
+  "slug": "wallops-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1971-03-11",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Wallops Island National Wildlife Refuge was created when NASA's Wallops Flight Center transferred 373 acres of salt marsh and woodland on the Virginia mainland to the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Richard Nixon",
+        "citation": "Transfer of land from NASA",
+        "signedBy": null
+      },
+      "note": "The FWS sources disagree: the 2015 CCP says created March 11, 1971, when 373 acres were transferred from NASA; fws.gov says 343 acres were set aside in 1975; Wikipedia (lead only) says July 10, 1975. No NASA or other independent record was found to settle the date. The CCP date is shown but should not be published until confirmed.",
+      "sources": [
+        {
+          "name": "FWS, Chincoteague and Wallops Island NWRs Comprehensive Conservation Plan (2015), sec. 1.5.2",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/98418"
+        },
+        {
+          "name": "FWS, Wallops Island NWR page",
+          "url": "https://www.fws.gov/refuge/wallops-island"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

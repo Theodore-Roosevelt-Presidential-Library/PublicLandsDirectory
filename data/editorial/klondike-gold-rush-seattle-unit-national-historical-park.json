@@ -1,0 +1,37 @@
+{
+  "slug": "klondike-gold-rush-seattle-unit-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "1976-06-30",
+      "action": "authorized",
+      "designation": "National Historical Park (Seattle unit)",
+      "name": null,
+      "indexText": "Congress authorized Klondike Gold Rush National Historical Park, made up of a Seattle unit in the Pioneer Square Historic District and three units in Alaska.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Gerald R. Ford",
+        "citation": "Public Law 94-323, 90 Stat. 717",
+        "signedBy": "Gerald R. Ford"
+      },
+      "note": "The act let the Secretary pick and later relocate the Seattle unit's site within Pioneer Square by Federal Register notice; those siting notices are not listed.",
+      "sources": [
+        {
+          "name": "Public Law 94-323, 90 Stat. 717 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg717.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Washington, Seattle entry), 'Authorized June 30, 1976'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

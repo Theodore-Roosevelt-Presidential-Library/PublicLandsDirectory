@@ -1,0 +1,37 @@
+{
+  "slug": "bear-creek-national-scenic-area",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "designated",
+      "designation": "National Scenic Area",
+      "name": null,
+      "indexText": "The Omnibus Public Land Management Act of 2009 designated the Bear Creek Scenic Area in the Jefferson National Forest, Virginia, as a national scenic area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, title I, sec. 1104, 123 Stat. 991, 1004",
+        "signedBy": "Barack Obama"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+        },
+        {
+          "name": "16 U.S.C. 546b (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/546b"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "nomans-land-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1998",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Navy transferred management of all of Nomans Land Island, a former bombing range off Martha's Vineyard, to the Fish and Wildlife Service in 1998 to become a national wildlife refuge.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Transfer of management responsibility from the U.S. Navy",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Nomans Land Island NWR Comprehensive Conservation Plan (2010)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5977"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

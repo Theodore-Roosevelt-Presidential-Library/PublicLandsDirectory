@@ -1,0 +1,39 @@
+{
+  "slug": "catahoula-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1958",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Catahoula National Wildlife Refuge was established under the Migratory Bird Conservation Act as a wintering area for waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Catahoula National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/catahoula/about-us"
+        },
+        {
+          "name": "USFWS, 508 Catahoula National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168190): \"Catahoula National Wildlife Refuge was established in 1958\"; \"established in 1958 under the authority of the Migratory Bird Conservation Act\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253379"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Grand Cote NWR (1989). Catahoula: 1958 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Catahoula National Wildlife Refuge Contact Us Visit Us Activities Trails News Library Species Map Other Facilities in this Complex Grand Cote National Wildlife Refuge Grand Cote National Wildlife Refuge was established in 1989 to provide valuable waterfowl habitat in the Mississippi/Red River floodplain as part of the North American Waterfowl Management Plan."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

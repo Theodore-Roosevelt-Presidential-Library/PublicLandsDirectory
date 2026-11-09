@@ -1,6 +1,6 @@
 {
   "slug": "harriet-tubman-underground-railroad-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2013-03-25",
@@ -12,17 +12,27 @@
         "type": "presidential-proclamation",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Proclamation 8943, 78 F.R. 18763"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register (federalregister.gov API record): Proclamation 8943, signed March 25, 2013, 78 F.R. 18763",
+          "url": "https://www.federalregister.gov/documents/2013/03/28/2013-07399/establishment-of-the-harriet-tubmanunderground-railroad-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 8943; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2014-12-19",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Redesignated a national historical park on Dec. 19, 2014",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 113-291, div. B, title XXX (16 U.S.C. 410sss)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 410sss (2024 ed., govinfo): \"There is established as a unit of the National Park System the Harriet Tubman Underground Railroad National Historical Park\" (enacted by P.L. 113-291, div. B, title XXX)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title16/pdf/USCODE-2024-title16-chap1-subchapLIX-QQ-sec410sss.pdf"
+        },
+        {
+          "name": "Statutes at Large vol. 128, List of Public Laws (govinfo): P.L. 113-291, Dec. 19, 2014",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-FrontMatter-1-Pgi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The FY2015 National Defense Authorization Act (P.L. 113-291, Dec. 19, 2014) established the national historical park from the 2013 monument; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

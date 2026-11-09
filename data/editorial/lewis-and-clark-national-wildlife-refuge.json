@@ -1,0 +1,33 @@
+{
+ "slug": "lewis-and-clark-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1971-09-21",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": "Columbia River Islands Refuge",
+   "indexText": "The Migratory Bird Conservation Commission approved purchase of 3,110 acres and a county management agreement, about 8,100 acres in all, for a refuge in the Columbia River estuary, first called the Columbia River Islands Refuge.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Lewis and Clark NWR and Julia Butler Hansen Refuge CCP/EIS (2010), sec. 1.6.1",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1452"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

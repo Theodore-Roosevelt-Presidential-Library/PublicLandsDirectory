@@ -1,0 +1,44 @@
+{
+  "slug": "jocelyn-nungaray-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Anahuac National Wildlife Refuge",
+      "indexText": "Established in 1963 as Anahuac National Wildlife Refuge under the Migratory Bird Conservation Act; renamed Jocelyn Nungaray National Wildlife Refuge in 2025.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Jocelyn Nungaray National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/jocelyn-nungaray/about-us"
+        },
+        {
+          "name": "Federal Register: Texas Chenier Plain refuges draft CCP/EIS notice, Oct. 17, 2006 (\"Anahuac NWR was established in 1963\"; MBCA a primary authority)",
+          "url": "https://www.federalregister.gov/documents/2006/10/17/E6-17087/notice-of-availability-of-draft-environmental-impact-statement-draft-comprehensive-conservation-plan"
+        },
+        {
+          "name": "White House: Executive Order 14229, Honoring Jocelyn Nungaray (2025 renaming)",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/03/honoring-jocelyn-nungaray/"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. Adds the earlier name Anahuac NWR, which the draft left null; renamed by Executive Order 14229 (2025).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Jocelyn Nungaray National Wildlife Refuge (originally named Anahuac) was established in 1963 to provide wintering and migration habitat for ducks and geese."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

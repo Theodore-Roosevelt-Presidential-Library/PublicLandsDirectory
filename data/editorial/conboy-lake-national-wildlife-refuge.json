@@ -1,0 +1,33 @@
+{
+ "slug": "conboy-lake-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1965",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Conboy Lake National Wildlife Refuge in south-central Washington was authorized by the Migratory Bird Conservation Commission in 1964 and established in 1965 with the purchase of the 920-acre Dilling Tract.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Conboy Lake NWR Comprehensive Conservation Plan, 2014 (ServCat 111177)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/111177"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

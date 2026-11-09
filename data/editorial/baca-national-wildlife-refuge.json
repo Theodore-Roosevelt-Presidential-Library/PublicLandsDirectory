@@ -1,0 +1,37 @@
+{
+  "slug": "baca-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000-11-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress provided for the Baca National Wildlife Refuge in the Great Sand Dunes National Park and Preserve Act of 2000, directing the Interior Secretary to establish it once enough land had been acquired.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Great Sand Dunes National Park and Preserve Act of 2000, Public Law 106-530, 114 Stat. 2527",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "This is the authorizing act. Under sec. 6(a), formal establishment took effect only on publication of a Federal Register notice of the Secretary's determination; that date was not found. The CCP says the first unit was acquired in 2003.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, San Luis Valley NWR Complex Comprehensive Conservation Plan, 2015 (ServCat 143937)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/143937"
+        },
+        {
+          "name": "Public Law 106-530 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ530/pdf/PLAW-106publ530.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "lake-andes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-02-14",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Lake Andes Migratory Waterfowl Refuge",
+      "indexText": "Established Feb. 14, 1936, as the Lake Andes Migratory Waterfowl Refuge by Executive Order 7292, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7292",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Andes National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-andes/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7292, Feb. 14, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7292-establishing-lake-andes-migratory-waterfowl-refuge-south-dakota"
+        },
+        {
+          "name": "Federal Register: Lake Andes NWR Complex final CCP notice, Apr. 24, 2013",
+          "url": "https://www.federalregister.gov/documents/2013/04/24/2013-09657/lake-andes-national-wildlife-refuge-complex-lake-andes-sd-final-comprehensive-conservation-plan"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. FWS planning documents add that the refuge was formally established in 1939, when South Dakota granted an easement.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established in 1936 with the purchase of 365 acres of land in the Owen's Bay area."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

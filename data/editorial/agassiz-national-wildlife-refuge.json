@@ -1,0 +1,52 @@
+{
+  "slug": "agassiz-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-03-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Mud Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Mud Lake Migratory Waterfowl Refuge by Executive Order 7583; it was renamed Agassiz National Wildlife Refuge in 1961.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7583",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Agassiz National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/agassiz/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7583—Establishing Mud Lake Migratory Waterfowl Refuge (Mar 23, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7583-establishing-mud-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8601, Enlarging the Mud Lake National Wildlife Refuge (cites EO 7583 of Mar. 23, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8601-enlarging-the-mud-lake-national-wildlife-refuge"
+        },
+        {
+          "name": "USFWS, Agassiz NWR Comprehensive Conservation Plan (GovInfo GOVPUB-I49-PURL-LPS64614): \"established in 1937 as Mud Lake Refuge, renamed in 1961\"",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-LPS64614/pdf/GOVPUB-I49-PURL-LPS64614.pdf"
+        },
+        {
+          "name": "USFWS, Agassiz National Wildlife Refuge: Comprehensive Conservation Plan and Environmental Assessment (ServCat 1372): \"Roosevelt established the Refuge by Executive Order 7583 on March 23, 1937\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1347"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7583, Mar. 23, 1937 (FDR), as Mud Lake Migratory Waterfowl Refuge; renamed Agassiz NWR in 1961.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Agassiz National Wildlife Refuge was established in 1937."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

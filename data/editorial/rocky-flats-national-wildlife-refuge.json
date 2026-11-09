@@ -1,0 +1,41 @@
+{
+  "slug": "rocky-flats-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2007-07",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Rocky Flats National Wildlife Refuge was established in 2007, after the Energy Department transferred about 3,953 acres of the former nuclear weapons plant site to the Interior Department on July 12, 2007, under the Rocky Flats National Wildlife Refuge Act of 2001.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Rocky Flats National Wildlife Refuge Act of 2001, Public Law 107-107, title XXXI, subtitle F, 115 Stat. 1380 (Dec. 28, 2001); establishment notice 72 FR 43293",
+        "signedBy": "George W. Bush"
+      },
+      "note": "Pass A (fws.gov: established in 2007) and Pass B (Federal Register notice: letter of transfer dated July 12, 2007, establishment notice published August 3, 2007; statute text of the 2001 act) agree. The act was signed by President George W. Bush; the establishment was an Interior Department action under it.",
+      "sources": [
+        {
+          "name": "Federal Register, Establishment of Rocky Flats National Wildlife Refuge, Colorado, 72 FR 43293 (Aug. 3, 2007)",
+          "url": "https://www.federalregister.gov/documents/2007/08/03/07-3773/establishment-of-rocky-flats-national-wildlife-refuge-colorado"
+        },
+        {
+          "name": "Public Law 107-107, 115 Stat. 1012 (Dec. 28, 2001), govinfo",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-115/pdf/STATUTE-115-Pg1012.pdf"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents: 115 Stat. 1379",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143113"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

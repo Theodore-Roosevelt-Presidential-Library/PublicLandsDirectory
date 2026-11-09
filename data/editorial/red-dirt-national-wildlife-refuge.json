@@ -1,0 +1,41 @@
+{
+  "slug": "red-dirt-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-09-27",
+      "action": "established",
+      "designation": "Wildlife Management Preserve",
+      "name": "National Red Dirt Wildlife Management Preserve",
+      "indexText": "President Franklin D. Roosevelt set aside Weeks Act lands of the Kisatchie National Forest, Louisiana, as the National Red Dirt Wildlife Management Preserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2514, Sept. 27, 1941, 55 Stat. 1688 (under Act of Aug. 11, 1916, 39 Stat. 446, 476)",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2514, 55 Stat. 1688 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-55/pdf/STATUTE-55-Pg1688.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2514, National Red Dirt Wildlife Management Preserve, Louisiana",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2514-national-red-dirt-wildlife-management-preserve-louisiana"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

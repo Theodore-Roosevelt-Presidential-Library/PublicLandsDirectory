@@ -1,0 +1,39 @@
+{
+  "slug": "erie-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1959-05-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Erie National Wildlife Refuge was established when the first tract was purchased, after the Migratory Bird Conservation Commission approved the refuge in 1958.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval (Mar. 11, 1958)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Erie National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/erie/about-us"
+        },
+        {
+          "name": "USFWS, Hunting Management Plan Erie NWR 1987 (ServCat 80905): \"The Migratory Bird Conservation Commission approved Erie NWR on March 11, 1958\"; \"Establishment of the refuge occurred on May 22, 1959 when the first tract was purchased\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/124181"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "MBCC approval Mar. 11, 1958; established May 22, 1959 on first purchase (1987 refuge hunting plan).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Erie National Wildlife Refuge was established in 1959."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

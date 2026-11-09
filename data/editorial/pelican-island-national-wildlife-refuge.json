@@ -1,6 +1,6 @@
 {
   "slug": "pelican-island-national-wildlife-refuge",
-  "status": "draft",
+  "status": "reviewed",
   "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
   "designationHistory": [
     {
@@ -12,11 +12,22 @@
         "type": "executive-order",
         "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Executive order of March 14, 1903 (unnumbered)"
       },
-      "note": "Described as the first federal bird reservation (source needed before publishing).",
-      "sources": [],
-      "reviewed": false
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pelican Island NWR, About Us (March 14, 1903 executive order; first federal bird reservation)",
+          "url": "https://www.fws.gov/refuge/pelican-island/about-us"
+        }
+      ],
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "USFWS: on March 14, 1903 T.R. established Pelican Island as the first federal bird reservation by executive order (unnumbered). The \"first federal bird reservation\" wording is supported.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ]
 }

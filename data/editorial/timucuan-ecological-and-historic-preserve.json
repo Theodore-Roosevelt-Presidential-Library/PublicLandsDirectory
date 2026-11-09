@@ -1,6 +1,6 @@
 {
   "slug": "timucuan-ecological-and-historic-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1988-02-16",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 100-249, title II, sec. 201, 102 Stat. 13"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 47",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 100-249, 102 Stat. 13, act of Feb. 16, 1988, title II, sec. 201 (Timucuan Ecological and Historic Preserve)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg13.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 698n, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698n&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 100-249, sec. 201; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

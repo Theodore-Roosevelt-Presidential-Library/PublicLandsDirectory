@@ -1,0 +1,43 @@
+{
+  "slug": "rydell-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in January 1992 on land donated to the U.S. Fish and Wildlife Service by the Richard King Mellon Foundation.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Rydell National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/rydell/about-us"
+        },
+        {
+          "name": "Rydell NWR Annual Narrative 2001 (National Archives, RG 22): \"established in 1992 on property donated ... by the Richard King Mellon Foundation\"",
+          "url": "https://nara-media.s3.amazonaws.com/dc-metro/rg-022/6102316/RYD_Julian_2001_AnnualNarrative/RYD_Julian_2001_AnnualNarrative.pdf"
+        },
+        {
+          "name": "FWS, Rydell NWR hunting regulations 2026: \"established in January 1992\"",
+          "url": "https://www.fws.gov/sites/default/files/documents/2026-08/rydell_hunt26_online.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; month from FWS regulations.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Rydell National Wildlife Refuge was established in 1992 by means of a land donation from the Richard King Mellon Foundation."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

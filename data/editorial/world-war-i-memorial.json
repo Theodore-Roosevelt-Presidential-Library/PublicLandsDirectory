@@ -1,0 +1,37 @@
+{
+  "slug": "world-war-i-memorial",
+  "designationHistory": [
+    {
+      "date": "2014-12-19",
+      "action": "redesignated",
+      "designation": "memorial",
+      "name": "World War I Memorial",
+      "indexText": "Congress redesignated Pershing Park in Washington, D.C., as a World War I Memorial and let the World War I Centennial Commission enhance the site.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 113-291, sec. 3091(b), 128 Stat. 3858",
+        "signedBy": "Barack Obama"
+      },
+      "note": "The 2014 act says 'World War I Memorial'; NPS and the NPS History Collection use 'National World War I Memorial'. No act adding 'National' was checked. The memorial was dedicated April 16, 2021 (NPS History Collection); dedication is not listed as a designation.",
+      "sources": [
+        {
+          "name": "Public Law 113-291 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016, 'Redesignation of Pershing Park Dec. 19, 2014'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

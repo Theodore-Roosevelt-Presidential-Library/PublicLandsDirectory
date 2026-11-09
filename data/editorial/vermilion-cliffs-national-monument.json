@@ -1,28 +1,44 @@
 {
-  "slug": "vermilion-cliffs-national-monument",
-  "designationHistory": [
+ "slug": "vermilion-cliffs-national-monument",
+ "designationHistory": [
+  {
+   "date": "2000-11-09",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Vermilion Cliffs National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7374, 65 FR 69227"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2000-11-09",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Vermilion Cliffs National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7374, 65 FR 69227"
-      },
-      "note": "Title names the monument only; read the proclamation to describe what it changed.",
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7374, 65 FR 69227",
-          "url": "https://www.federalregister.gov/documents/2000/11/15/00-29453/vermilion-cliffs-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "Federal Register: Proclamation 7374, 65 FR 69227",
+     "url": "https://www.federalregister.gov/documents/2000/11/15/00-29453/vermilion-cliffs-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 7374—Vermilion Cliffs National Monument, November 09, 2000",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7374-vermilion-cliffs-national-monument"
+    },
+    {
+     "name": "Federal Register (govinfo PDF): Proclamation 7374, 65 FR 69227",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2000-11-15/pdf/00-29453.pdf"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "corrected",
+    "note": "Proclamation 7374, 65 FR 69227, signed 2000-11-09; FR API and APP agree on number, date and President. Title names the monument only; the proclamation sets apart about 293,000 acres as a new monument, so this is an establishment.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   },
+   "indexOriginal": "Vermilion Cliffs National Monument"
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

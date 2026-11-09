@@ -1,0 +1,44 @@
+{
+  "slug": "lake-alice-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1935 as an easement refuge under the Migratory Bird Conservation Act, when perpetual easements were bought around Lake Alice.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (perpetual easements)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Alice National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-alice/about-us"
+        },
+        {
+          "name": "FWS ServCat: Lake Alice NWR 2026-2027 Hunt and Fish compliance documentation (established under the MBCA in 1935)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194180"
+        },
+        {
+          "name": "FWS ServCat: Devils Lake WMD EA and predator plan, incl. Lake Alice compatibility determination (easements bought 1935-36; easement refuge notice in Federal Register Dec. 21, 1948)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/64522"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Arrowwood WMD sentence (1961). Lake Alice began with 1935-36 easements; a Federal Register notice of Dec. 21, 1948, formally listed it as an easement refuge.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Wildlife Refuge Pingree, ND Arrowwood Wetland Management District Arrowwood Wetland Management District was established in 1961 as a breeding ground for migratory birds and other wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

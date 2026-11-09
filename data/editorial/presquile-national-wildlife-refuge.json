@@ -1,0 +1,43 @@
+{
+  "slug": "presquile-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1953",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1953 when Presquile island was given to the United States under the will of A. D. Williams, as an inviolate sanctuary for migratory birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Bequest of A. D. Williams; Migratory Bird Conservation Act"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Presquile National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/presquile/about-us"
+        },
+        {
+          "name": "FWS, Eastern Virginia Rivers NWR Complex compatibility determinations (2026): Presquile NWR \"officially established in 1953 when lands were transferred ... as a gift under the provisions of the will of Mr. A. D. Williams,\" under the Migratory Bird Conservation Act",
+          "url": "https://www.fws.gov/sites/default/files/documents/2026-10/r5_va_eastern-virginia-rivers-complex_alldocs_2026.pdf"
+        },
+        {
+          "name": "FWS news release, Apr. 1, 1953: A. D. Williams bequeathed Presquile island to the Interior Department as a waterfowl haven",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1953/19530401B.PDF"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; established by bequest.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Presquile National Wildlife Refuge was officially established in 1953 for use as an inviolate sanctuary, or for any other management purpose, for migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,6 +1,6 @@
 {
   "slug": "kennesaw-mountain-national-battlefield-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1917-02-08",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Woodrow Wilson",
         "administration": "Woodrow Wilson",
-        "citation": null
+        "citation": "Act of Feb. 8, 1917, ch. 36, 39 Stat. 901"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of Feb. 8, 1917, ch. 36, 39 Stat. 901, act authorizing acceptance from the Kenesaw Memorial Association of Illinois of land on the Kenesaw battlefield, approved Feb. 8, 1917",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg901.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Feb. 8, 1917 (Public No. 307) authorized the War Department to accept the Illinois association's gift of land on the Kennesaw battlefield; Wilson.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,20 +41,30 @@
       "name": null,
       "indexText": "Transferred from War Dept. Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1935-06-26",
@@ -53,20 +73,34 @@
       "name": null,
       "indexText": "Redesignated as a national battlefield park June 26, 1935",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of June 26, 1935, ch. 315, 49 Stat. 423"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of June 26, 1935, ch. 315 (Public No. 167), 49 Stat. 423, act to create a national memorial military park at Kennesaw Mountain, approved June 26, 1935",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg423-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430x, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430x&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 26, 1935 created Kennesaw Mountain National Battlefield Park; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

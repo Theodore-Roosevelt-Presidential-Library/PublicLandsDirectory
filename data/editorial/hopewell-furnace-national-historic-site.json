@@ -1,6 +1,6 @@
 {
   "slug": "hopewell-furnace-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1938-08-03",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Designated Hopewell Village National Historic Site Aug. 3, 1938",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Secretarial order of Aug. 3, 1938, 3 F.R. 2039"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of Aug. 3, 1938 (3 F.R. 2039); FDR.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1985-09-19",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Renamed Sept. 19, 1985",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "50 F.R. 52385"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Renamed Hopewell Furnace NHS Sept. 19, 1985 (50 F.R. 52385), per the U.S. Code note; Reagan. A single independent source; the FR notice was not opened.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

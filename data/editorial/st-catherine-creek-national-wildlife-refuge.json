@@ -1,0 +1,40 @@
+{
+  "slug": "st-catherine-creek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in January 1990 to preserve and restore wintering waterfowl habitat in the Mississippi River floodplain near Natchez, Mississippi.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: St. Catherine Creek National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/st-catherine-creek/about-us"
+        },
+        {
+          "name": "Federal Register, May 20, 2003 (03-12630): \"St. Catherine Creek National Wildlife Refuge was established in January 1990\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2003-05-20/pdf/03-12630.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; month added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Catherine Creek National Wildlife Refuge was established in 1990."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

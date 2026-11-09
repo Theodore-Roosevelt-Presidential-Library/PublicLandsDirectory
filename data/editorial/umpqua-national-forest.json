@@ -1,0 +1,42 @@
+{
+  "slug": "umpqua-national-forest",
+  "designationHistory": [
+    {
+      "date": "1907-03-02",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Umpqua: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 730, 34 Stat. 3301"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 20",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3301 (Statutes at Large, govinfo): Proclamation of March 2, 1907, Theodore Roosevelt, Umpqua Forest Reserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3301.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 730, March 2, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-730-setting-apart-the-umpqua-forest-reserve-oregon"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 730, March 2, 1907, 34 Stat. 3301, Theodore Roosevelt; two days before the act of March 4, 1907, so \"Forest Reserve\" is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

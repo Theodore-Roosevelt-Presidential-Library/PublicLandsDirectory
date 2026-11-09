@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9465, 81 FR 42215",
           "url": "https://www.federalregister.gov/documents/2016/06/29/2016-15536/establishment-of-the-stonewall-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9465—Establishment of the Stonewall National Monument, June 24, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9465-establishment-the-stonewall-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9465, 81 FR 42215, signed 2016-06-24; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

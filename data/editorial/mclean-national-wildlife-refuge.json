@@ -1,0 +1,44 @@
+{
+  "slug": "mclean-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Lake Susie Migratory Waterfowl Refuge",
+      "indexText": "Established June 12, 1939, as the Lake Susie Migratory Waterfowl Refuge by Executive Order 8157, signed by President Franklin D. Roosevelt; renamed McLean National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8157",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: McLean National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mclean/about-us"
+        },
+        {
+          "name": "Federal Register, 4 FR 2407-2409 (June 15, 1939): Executive Orders 8154, 8155, 8157 of June 12, 1939",
+          "url": "https://archives.federalregister.gov/issue_slice/1939/6/15/2407-2409.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and EO right; signer truncated (\"President Franklin\"). Earlier name Lake Susie Migratory Waterfowl Refuge (EO text, 4 FR 2407); renamed McLean NWR by Proclamation 2416.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the Refuge was established on June 12, 1939 through Executive Order 8157 by President Franklin D."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

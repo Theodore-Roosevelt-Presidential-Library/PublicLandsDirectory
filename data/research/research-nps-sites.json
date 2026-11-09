@@ -1,0 +1,554 @@
+[
+ {
+  "slug": "african-american-civil-war-memorial",
+  "name": "African American Civil War Memorial",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/afam/index.htm"
+ },
+ {
+  "slug": "alaska-public-lands",
+  "name": "Alaska Public Lands",
+  "states": [
+   "AK"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/anch/index.htm"
+ },
+ {
+  "slug": "alcatraz-island",
+  "name": "Alcatraz Island",
+  "states": [
+   "CA"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/alca/index.htm"
+ },
+ {
+  "slug": "amache-national-historic-site",
+  "name": "Amache National Historic Site",
+  "states": [
+   "CO"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/amch/index.htm"
+ },
+ {
+  "slug": "anacostia-park",
+  "name": "Anacostia Park",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "other",
+  "official": "https://www.nps.gov/anac/index.htm"
+ },
+ {
+  "slug": "baltimore-washington-parkway",
+  "name": "Baltimore-Washington Parkway",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "parkway",
+  "official": "https://www.nps.gov/bawa/index.htm"
+ },
+ {
+  "slug": "blackstone-river-valley-national-historical-park",
+  "name": "Blackstone River Valley National Historical Park",
+  "states": [
+   "RI",
+   "MA"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/blrv/index.htm"
+ },
+ {
+  "slug": "blackwell-school-national-historic-site",
+  "name": "Blackwell School National Historic Site",
+  "states": [
+   "TX"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/blsc/index.htm"
+ },
+ {
+  "slug": "butterfield-overland-national-historic-trail",
+  "name": "Butterfield Overland National Historic Trail",
+  "states": [
+   "MO",
+   "AR",
+   "OK",
+   "TX",
+   "NM",
+   "AZ",
+   "CA"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/buov/index.htm"
+ },
+ {
+  "slug": "cape-henry-memorial-part-of-colonial-national-historical-park",
+  "name": "Cape Henry Memorial Part of Colonial National Historical Park",
+  "states": [
+   "VA"
+  ],
+  "agency": "NPS",
+  "category": "memorial",
+  "official": "https://www.nps.gov/came/index.htm"
+ },
+ {
+  "slug": "capitol-hill-parks",
+  "name": "Capitol Hill Parks",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/cahi/index.htm"
+ },
+ {
+  "slug": "chesapeake-bay",
+  "name": "Chesapeake Bay",
+  "states": [
+   "DC",
+   "DE",
+   "MD",
+   "NY",
+   "PA",
+   "VA",
+   "WV"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/cbpo/index.htm"
+ },
+ {
+  "slug": "civil-war-defenses-of-washington",
+  "name": "Civil War Defenses of Washington",
+  "states": [
+   "DC",
+   "MD",
+   "VA"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/cwdw/index.htm"
+ },
+ {
+  "slug": "coltsville-national-historical-park",
+  "name": "Coltsville National Historical Park",
+  "states": [
+   "CT"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/colt/index.htm"
+ },
+ {
+  "slug": "curecanti-national-recreation-area",
+  "name": "Curecanti National Recreation Area",
+  "states": [
+   "CO"
+  ],
+  "agency": "NPS",
+  "category": "national-recreation-area",
+  "official": "https://www.nps.gov/cure/index.htm"
+ },
+ {
+  "slug": "desert-shield-and-desert-storm-memorial",
+  "name": "Desert Shield and Desert Storm Memorial",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "memorial",
+  "official": "https://www.nps.gov/dsds/index.htm"
+ },
+ {
+  "slug": "dwight-d-eisenhower-memorial",
+  "name": "Dwight D. Eisenhower Memorial",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "memorial",
+  "official": "https://www.nps.gov/ddem/index.htm"
+ },
+ {
+  "slug": "effigy-mounds-national-monument",
+  "name": "Effigy Mounds National Monument",
+  "states": [
+   "IA"
+  ],
+  "agency": "NPS",
+  "category": "national-monument",
+  "official": "https://www.nps.gov/efmo/index.htm"
+ },
+ {
+  "slug": "el-camino-real-de-tierra-adentro-national-historic-trail",
+  "name": "El Camino Real de Tierra Adentro National Historic Trail",
+  "states": [
+   "NM",
+   "TX"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/elca/index.htm"
+ },
+ {
+  "slug": "ellis-island-part-of-statue-of-liberty-national-monument",
+  "name": "Ellis Island Part of Statue of Liberty National Monument",
+  "states": [
+   "NJ",
+   "NY"
+  ],
+  "agency": "NPS",
+  "category": "national-monument",
+  "official": "https://www.nps.gov/elis/index.htm"
+ },
+ {
+  "slug": "fort-dupont-park",
+  "name": "Fort Dupont Park",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/fodu/index.htm"
+ },
+ {
+  "slug": "fort-foote-park",
+  "name": "Fort Foote Park",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "other",
+  "official": "https://www.nps.gov/fofo/index.htm"
+ },
+ {
+  "slug": "fort-union-trading-post-national-historic-site",
+  "name": "Fort Union Trading Post National Historic Site",
+  "states": [
+   "MT",
+   "ND"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/fous/index.htm"
+ },
+ {
+  "slug": "george-rogers-clark-national-historical-park",
+  "name": "George Rogers Clark National Historical Park",
+  "states": [
+   "IN"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/gero/index.htm"
+ },
+ {
+  "slug": "glen-echo-park",
+  "name": "Glen Echo Park",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "other",
+  "official": "https://www.nps.gov/glec/index.htm"
+ },
+ {
+  "slug": "great-falls-park",
+  "name": "Great Falls Park",
+  "states": [
+   "VA"
+  ],
+  "agency": "NPS",
+  "category": "other",
+  "official": "https://www.nps.gov/grfa/index.htm"
+ },
+ {
+  "slug": "harmony-hall",
+  "name": "Harmony Hall",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/haha/index.htm"
+ },
+ {
+  "slug": "harriet-tubman-national-historical-park",
+  "name": "Harriet Tubman National Historical Park",
+  "states": [
+   "NY"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/hart/index.htm"
+ },
+ {
+  "slug": "ice-age-floods-national-geologic-trail",
+  "name": "Ice Age Floods National Geologic Trail",
+  "states": [
+   "WA",
+   "OR",
+   "ID",
+   "MT"
+  ],
+  "agency": "NPS",
+  "category": "trail",
+  "official": "https://www.nps.gov/iafl/index.htm"
+ },
+ {
+  "slug": "ice-age-national-scenic-trail",
+  "name": "Ice Age National Scenic Trail",
+  "states": [
+   "WI"
+  ],
+  "agency": "NPS",
+  "category": "trail",
+  "official": "https://www.nps.gov/iatr/index.htm"
+ },
+ {
+  "slug": "indiana-dunes-national-park",
+  "name": "Indiana Dunes National Park",
+  "states": [
+   "IN"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/indu/index.htm"
+ },
+ {
+  "slug": "kenilworth-park-and-aquatic-gardens",
+  "name": "Kenilworth Park & Aquatic Gardens",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/keaq/index.htm"
+ },
+ {
+  "slug": "klondike-gold-rush-seattle-unit-national-historical-park",
+  "name": "Klondike Gold Rush - Seattle Unit National Historical Park",
+  "states": [
+   "WA"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/klse/index.htm"
+ },
+ {
+  "slug": "lbj-memorial-grove-on-the-potomac",
+  "name": "LBJ Memorial Grove on the Potomac",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/lyba/index.htm"
+ },
+ {
+  "slug": "lewis-and-clark-national-historical-park",
+  "name": "Lewis and Clark National Historical Park",
+  "states": [
+   "OR",
+   "WA"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/lewi/index.htm"
+ },
+ {
+  "slug": "lincoln-boyhood-national-memorial",
+  "name": "Lincoln Boyhood National Memorial",
+  "states": [
+   "IN"
+  ],
+  "agency": "NPS",
+  "category": "memorial",
+  "official": "https://www.nps.gov/libo/index.htm"
+ },
+ {
+  "slug": "maine-acadian-culture",
+  "name": "Maine Acadian Culture",
+  "states": [
+   "ME"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/maac/index.htm"
+ },
+ {
+  "slug": "medgar-and-myrlie-evers-home-national-monument",
+  "name": "Medgar and Myrlie Evers Home National Monument",
+  "states": [
+   "MS"
+  ],
+  "agency": "NPS",
+  "category": "national-monument",
+  "official": "https://www.nps.gov/memy/index.htm"
+ },
+ {
+  "slug": "mill-springs-battlefield-national-monument",
+  "name": "Mill Springs Battlefield National Monument",
+  "states": [
+   "KY"
+  ],
+  "agency": "NPS",
+  "category": "national-monument",
+  "official": "https://www.nps.gov/misp/index.htm"
+ },
+ {
+  "slug": "national-capital-parks-east",
+  "name": "National Capital Parks-East",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/nace/index.htm"
+ },
+ {
+  "slug": "national-parks-of-new-york-harbor",
+  "name": "National Parks of New York Harbor",
+  "states": [
+   "NY"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/npnh/index.htm"
+ },
+ {
+  "slug": "new-philadelphia-national-historic-site",
+  "name": "New Philadelphia National Historic Site",
+  "states": [
+   "IL"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/neph/index.htm"
+ },
+ {
+  "slug": "oxon-cove-park-and-oxon-hill-farm",
+  "name": "Oxon Cove Park & Oxon Hill Farm",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/oxhi/index.htm"
+ },
+ {
+  "slug": "piscataway-park",
+  "name": "Piscataway Park",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "other",
+  "official": "https://www.nps.gov/pisc/index.htm"
+ },
+ {
+  "slug": "presidio-of-san-francisco",
+  "name": "Presidio of San Francisco",
+  "states": [
+   "CA"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/prsf/index.htm"
+ },
+ {
+  "slug": "reconstruction-era-national-historical-park",
+  "name": "Reconstruction Era National Historical Park",
+  "states": [
+   "SC"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/reer/index.htm"
+ },
+ {
+  "slug": "saint-croix-island-international-historic-site",
+  "name": "Saint Croix Island International Historic Site",
+  "states": [
+   "ME"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/sacr/index.htm"
+ },
+ {
+  "slug": "selma-to-montgomery-national-historic-trail",
+  "name": "Selma To Montgomery National Historic Trail",
+  "states": [
+   "AL"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/semo/index.htm"
+ },
+ {
+  "slug": "ste-genevieve-national-historical-park",
+  "name": "Ste. Geneviève National Historical Park",
+  "states": [
+   "MO"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/stge/index.htm"
+ },
+ {
+  "slug": "thomas-stone-national-historic-site",
+  "name": "Thomas Stone National Historic Site",
+  "states": [
+   "MD"
+  ],
+  "agency": "NPS",
+  "category": "historic-site",
+  "official": "https://www.nps.gov/thst/index.htm"
+ },
+ {
+  "slug": "tule-lake-national-monument",
+  "name": "Tule Lake National Monument",
+  "states": [
+   "CA"
+  ],
+  "agency": "NPS",
+  "category": "national-monument",
+  "official": "https://www.nps.gov/tule/index.htm"
+ },
+ {
+  "slug": "world-war-i-memorial",
+  "name": "World War I Memorial",
+  "states": [
+   "DC"
+  ],
+  "agency": "NPS",
+  "category": "national-park",
+  "official": "https://www.nps.gov/wwim/index.htm"
+ },
+ {
+  "slug": "yorktown-battlefield-part-of-colonial-national-historical-park",
+  "name": "Yorktown Battlefield Part of Colonial National Historical Park",
+  "states": [
+   "VA"
+  ],
+  "agency": "NPS",
+  "category": "battlefield",
+  "official": "https://www.nps.gov/york/index.htm"
+ }
+]

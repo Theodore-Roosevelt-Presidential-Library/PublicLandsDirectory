@@ -1,0 +1,33 @@
+{
+  "slug": "mcnary-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1956",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "the refuge meets the definition of an \"urban refuge.\" Image Details Established in 1956, McNary NWR was created to replace wildlife habitat lost to construction of the McNary Dam downstream.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: McNary National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mcnary/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Sources disagree: FWS page 1956; 2004 FR notice 1953 (General Plan); CCP describes the July 1955 cooperative agreement as the refuge's inception. Needs the establishing document (General Plan or 1955 agreement) to settle.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

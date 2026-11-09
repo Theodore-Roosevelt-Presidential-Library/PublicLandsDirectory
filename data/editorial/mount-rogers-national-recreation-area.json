@@ -1,0 +1,37 @@
+{
+  "slug": "mount-rogers-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1966-05-31",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress provided for the Mount Rogers National Recreation Area in the Jefferson National Forest, Virginia.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 89-438, 80 Stat. 190",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": "The act directed the Secretary of Agriculture to designate the boundaries and publish them in the Federal Register; that later notice was not checked.",
+      "sources": [
+        {
+          "name": "Public Law 89-438, 80 Stat. 190 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg190.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460r-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460r-1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

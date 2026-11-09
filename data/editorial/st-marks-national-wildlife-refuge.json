@@ -1,0 +1,44 @@
+{
+  "slug": "st-marks-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1931-10-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "St. Marks Migratory Bird Refuge",
+      "indexText": "President Herbert Hoover established the St. Marks Migratory Bird Refuge by Executive Order 5740 on October 31, 1931, as wintering habitat for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5740",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: St. Marks National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/st-marks/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5740, Oct. 31, 1931, Establishing the St. Marks Migratory Bird Refuge, Florida",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5740-establishing-the-st-marks-migratory-bird-refuge-florida"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established in 1931 to provide wintering habitat for migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "stewart-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-02-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Stewart Lake National Wildlife Refuge by Executive Order 8662 on February 3, 1941.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8662, 6 FR 770",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Stewart Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/stewart-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8662, Feb. 3, 1941, Establishing the Stewart Lake National Wildlife Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8662-establishing-the-stewart-lake-national-wildlife-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1941: EO 8662, 6 FR 770",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1941.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date \"8662\" was the EO number. Correct date is Feb. 3, 1941.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established by Executive Order 8662 by President Franklin D."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

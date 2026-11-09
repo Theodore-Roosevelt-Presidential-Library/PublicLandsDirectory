@@ -1,0 +1,44 @@
+{
+  "slug": "seal-beach-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1972-08-29",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress authorized the Seal Beach National Wildlife Refuge, within the Naval Weapons Station at Seal Beach, by an act signed by President Richard Nixon on August 29, 1972.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-408",
+        "signedBy": "Richard Nixon"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Seal Beach National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/seal-beach/about-us"
+        },
+        {
+          "name": "Public Law 92-408, Aug. 29, 1972 (House statutes compilation): act authorizing the Seal Beach National Wildlife Refuge",
+          "url": "https://usc-cdn.house.gov/statutes/pl/92/408.pdf"
+        },
+        {
+          "name": "FWS news release, Sept. 17, 1972: \"President Nixon signed a bill August 29, 1972, authorizing establishment of the Seal Beach National Wildlife Refuge\" within the Naval Weapons Station",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1972/19720917.PDF"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Year confirmed; exact date and statute added. The PL number comes from the House statutes link found by search; the FWS release confirms the signing date.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "ed Events News Species Map https://www.facebook.com/SanDiegoRefuges https://www.instagram.com/sandiegorefuges/ About Us Established in 1972, Seal Beach National Wildlife Refuge is managed by the U.S."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

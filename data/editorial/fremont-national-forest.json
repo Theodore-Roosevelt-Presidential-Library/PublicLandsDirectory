@@ -1,0 +1,42 @@
+{
+  "slug": "fremont-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-09-17",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Fremont: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 651, 34 Stat. 3231"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 17",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3231 (Statutes at Large, govinfo): Proclamation of Sept. 17, 1906, Theodore Roosevelt, Fremont Forest Reserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3231-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 651, Sept. 17, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-651-setting-apart-the-fremont-forest-reserve-oregon"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 651, Sept. 17, 1906, 34 Stat. 3231, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

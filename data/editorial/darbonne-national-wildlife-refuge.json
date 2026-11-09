@@ -1,0 +1,33 @@
+{
+ "slug": "darbonne-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1975",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "D'Arbonne National Wildlife Refuge in north Louisiana was established in 1975, after most of its land was bought, under an interim management permit with the Department of the Army.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Land acquisition; interim management permit with the Department of the Army",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, D'Arbonne NWR Comprehensive Conservation Plan, 2006 (ServCat 168191)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168191"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

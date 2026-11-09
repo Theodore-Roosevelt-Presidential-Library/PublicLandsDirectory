@@ -1,0 +1,33 @@
+{
+ "slug": "texas-point-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1979",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Texas Point National Wildlife Refuge, near Sabine Pass on the upper Texas coast, was established in 1979.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Not determined",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, McFaddin and Texas Point NWRs brochure",
+     "url": "https://www.fws.gov/sites/default/files/documents/McFaddin%20Brochure.pdf"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

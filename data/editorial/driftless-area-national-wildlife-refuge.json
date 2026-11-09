@@ -1,0 +1,39 @@
+{
+  "slug": "driftless-area-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Driftless Area National Wildlife Refuge under the Endangered Species Act to protect the Iowa Pleistocene snail and its algific slopes.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Driftless Area National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/driftless-area/about-us"
+        },
+        {
+          "name": "USFWS, Driftless Area National Wildlife Refuge: Comprehensive Conservation Plan and Environmental Impact Statement (ServCat 1415): \"established in 1989 under the authority of the Endangered Species Act of 1973 with the purchase of 139.3 acres in Clayton County, Iowa\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1390"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1989 by purchase (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Driftless Area National Wildlife Refuge was established in 1989 under the authority of the Endangered Species Act of 1973."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -5,6 +5,7 @@
 //   never   CC 3.0 or earlier, NonCommercial, NoDerivatives, GFDL-only, unknown, or a blocklisted author
 // Output: data/reference/cover-images.json (committed, so every change is reviewable in git)
 import { join } from 'node:path';
+import { fwsCover } from './fws-media.mjs';
 import { DATA, fetchJSON, readJSON, writeJSON, nowISO, sleep, UA } from './lib.mjs';
 
 const dir = (await readJSON(join(DATA, 'directory.json'))).sites;
@@ -146,6 +147,14 @@ for (const s of stillMissing.slice(0, LIMIT)) {
   await sleep(250);
 }
 console.log(`Commons categories added or upgraded ${fromCat} covers`);
+
+// ---- 4b. Refuges still without a cover: public-domain photos from the refuge's own fws.gov pages ----
+let fromFws = 0;
+for (const s of dir.filter((x) => !covers[x.slug] && !rejectSlugs.has(x.slug) && /^https:\/\/www\.fws\.gov\//.test(x.links?.official || ''))) {
+  try { const c = await fwsCover(s.links.official); if (c && (await loads(c.url))) { delete c.w; covers[s.slug] = c; fromFws++; } } catch { /* next run */ }
+  await sleep(200);
+}
+console.log(`fws.gov media added ${fromFws} covers`);
 
 // ---- 5. Last resort for sites still without a cover: Commons files that name the site, public domain or CC0 only ----
 let fromSearch = 0;

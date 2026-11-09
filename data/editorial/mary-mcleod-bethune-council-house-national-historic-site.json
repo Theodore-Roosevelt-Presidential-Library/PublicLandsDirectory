@@ -1,6 +1,6 @@
 {
   "slug": "mary-mcleod-bethune-council-house-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1982-10-15",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Designated Oct. 15, 1982",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 97-329, 96 Stat. 1615"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 97-329, 96 Stat. 1615, act designating the Mary McLeod Bethune Council House a national historic site, approved Oct. 15, 1982",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-96/pdf/STATUTE-96-Pg1615.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 97-329; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1991-12-11",
@@ -34,17 +48,31 @@
         "type": "act-of-congress",
         "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-211, 105 Stat. 1652"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-211, 105 Stat. 1652, act to authorize NPS to acquire and manage the Council House, approved Dec. 11, 1991",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1652.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 102-211; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

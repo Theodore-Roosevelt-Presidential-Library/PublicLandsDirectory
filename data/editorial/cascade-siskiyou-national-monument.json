@@ -1,50 +1,71 @@
 {
-  "slug": "cascade-siskiyou-national-monument",
-  "designationHistory": [
+ "slug": "cascade-siskiyou-national-monument",
+ "designationHistory": [
+  {
+   "date": "2000-06-09",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Cascade-Siskiyou National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7318, 65 FR 37249"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2000-06-09",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Cascade-Siskiyou National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7318, 65 FR 37249"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7318, 65 FR 37249",
-          "url": "https://www.federalregister.gov/documents/2000/06/13/00-15110/establishment-of-the-cascade-siskiyou-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "Federal Register: Proclamation 7318, 65 FR 37249",
+     "url": "https://www.federalregister.gov/documents/2000/06/13/00-15110/establishment-of-the-cascade-siskiyou-national-monument"
     },
     {
-      "date": "2017-01-12",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Boundary Enlargement of the Cascade-Siskiyou National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Barack Obama",
-        "administration": "Barack Obama",
-        "citation": "Proclamation 9564, 82 FR 6145"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 9564, 82 FR 6145",
-          "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01332/boundary-enlargement-of-the-cascade-siskiyou-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "American Presidency Project: Proclamation 7318—Establishment of the Cascade-Siskiyou National Monument, June 09, 2000",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7318-establishment-the-cascade-siskiyou-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 7318, 65 FR 37249, signed 2000-06-09; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "2017-01-12",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Boundary Enlargement of the Cascade-Siskiyou National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Barack Obama",
+    "administration": "Barack Obama",
+    "citation": "Proclamation 9564, 82 FR 6145"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 9564, 82 FR 6145",
+     "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01332/boundary-enlargement-of-the-cascade-siskiyou-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 9564—Boundary Enlargement of the Cascade-Siskiyou National Monument, January 12, 2017",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-9564-boundary-enlargement-the-cascade-siskiyou-national-monument"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 9564, 82 FR 6145, signed 2017-01-12; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

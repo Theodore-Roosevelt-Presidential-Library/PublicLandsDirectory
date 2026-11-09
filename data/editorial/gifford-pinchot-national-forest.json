@@ -1,0 +1,42 @@
+{
+  "slug": "gifford-pinchot-national-forest",
+  "designationHistory": [
+    {
+      "date": "1949-06-15",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Gifford Pinchot National Forest",
+      "indexText": "Gifford Pinchot: 14-F.R. 3273 Established. 63 Stat. 1277",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Harry S. Truman",
+        "citation": "Proclamation 2845, 63 Stat. 1277"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 90",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "63 Stat. 1277 (Statutes at Large, govinfo): Proclamation No. 2845, June 15, 1949, Harry S. Truman: the Columbia National Forest \"is hereby designated and hereafter shall be known as the Gifford Pinchot National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg1276-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2845, June 15, 1949",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2845-designating-the-columbia-national-forest-the-gifford-pinchot-national"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong action: Proclamation 2845 (June 15, 1949, Truman) renamed the Columbia National Forest. The forest itself was created as the Columbia NF by Theodore Roosevelt, Executive Order 820, June 18, 1908.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

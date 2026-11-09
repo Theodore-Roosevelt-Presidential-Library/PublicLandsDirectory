@@ -1,0 +1,45 @@
+{
+  "slug": "allegheny-national-forest",
+  "designationHistory": [
+    {
+      "date": "1923-09-24",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Coolidge proclaimed the Allegheny National Forest in Pennsylvania on lands bought under the Weeks Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation of Sept. 24, 1923, 43 Stat. 1925",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "FS-612 (2012) prints the citation as 42 Stat. 1925; the proclamation is in volume 43, as govinfo and Davis show.",
+      "sources": [
+        {
+          "name": "Proclamation of Sept. 24, 1923, 43 Stat. 1925 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1925.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1675, Setting Apart the Allegheny National Forest, Pennsylvania",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1675-setting-apart-the-allegheny-national-forest-pennsylvania"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

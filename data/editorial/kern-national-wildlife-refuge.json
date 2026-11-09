@@ -1,0 +1,40 @@
+{
+  "slug": "kern-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-11-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1960 as a waterfowl refuge in the southern San Joaquin Valley.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Migratory Bird Treaty Act / Migratory Bird Conservation Act land purchase",
+        "signedBy": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Kern National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/kern/about-us"
+        },
+        {
+          "name": "FWS ServCat: Kern NWR Complex final CCP: refuge established in 1960 under the Migratory Bird Treaty Act",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1444"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Year confirmed; Nov. 18 is only on the FWS page. Not a presidential action; clear Eisenhower as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Kern National Wildlife Refuge was established on November 18, 1960 and consists of 11,249-acres of natural desert uplands, a relict riparian riparian Definition of riparian habitat or riparian areas."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "bosque-del-apache-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-11-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Bosque del Apache National Wildlife Refuge by Executive Order 8289.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8289",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bosque del Apache National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bosque-del-apache/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8289—Establishing the Bosque del Apache National Wildlife Refuge (Nov 22, 1939)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8289-establishing-the-bosque-del-apache-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 8289, 1939-11-22 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bosque del Apache was established in 1939 to provide a critical stopover site for migrating waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

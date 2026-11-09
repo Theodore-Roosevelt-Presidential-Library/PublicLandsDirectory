@@ -1,0 +1,37 @@
+{
+  "slug": "pistone-black-mountain-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2022-12-23",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The National Defense Authorization Act for Fiscal Year 2023 established the Pistone-Black Mountain National Conservation Area in Mineral County, Nevada.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Public Law 117-263, div. B, title XXIX, sec. 2903(b), 136 Stat. 2395, 3037",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": "Designated December 23, 2022, not in 2024-2025 as the brief assumed. About 3,415 acres per the law.",
+      "sources": [
+        {
+          "name": "Public Law 117-263, sec. 2903(b) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+        },
+        {
+          "name": "16 U.S.C. 460iiii and source credit (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460iiii"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

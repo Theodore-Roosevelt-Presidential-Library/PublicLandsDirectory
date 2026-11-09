@@ -1,0 +1,33 @@
+{
+ "slug": "sachuest-point-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1970",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Sachuest Point National Wildlife Refuge began in 1970 with a donation of about 70 acres from the Audubon Society of Rhode Island.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Donation",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Sachuest Point NWR Comprehensive Conservation Plan (2002)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1512"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

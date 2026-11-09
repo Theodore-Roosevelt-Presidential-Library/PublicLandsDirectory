@@ -1,0 +1,40 @@
+{
+  "slug": "san-diego-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Sweetwater Marsh National Wildlife Refuge",
+      "indexText": "Established in 1988 as Sweetwater Marsh National Wildlife Refuge on the east side of San Diego Bay; combined with the South San Diego Bay Unit (1999) to form San Diego Bay National Wildlife Refuge.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: San Diego Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/san-diego-bay/about-us"
+        },
+        {
+          "name": "Federal Register, Aug. 18, 2006 (E6-13556), San Diego Bay NWR CCP: \"The Sweetwater Marsh Unit was established as a National Wildlife Refuge in 1988\"; the South San Diego Bay Unit followed in 1999",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-08-18/pdf/E6-13556.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date 1988 is right for the refuge's oldest unit, which was a separate refuge (Sweetwater Marsh NWR); added the earlier name. Authority not stated in the source.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sweetwater Marsh Unit Sweetwater Marsh covers 316 acres and was established in 1988 on the east side of San Diego Bay."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

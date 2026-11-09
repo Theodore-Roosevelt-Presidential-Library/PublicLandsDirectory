@@ -1,6 +1,6 @@
 {
   "slug": "ninety-six-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1976-08-19",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 94-393, 90 Stat. 1196"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 94-393, 90 Stat. 1196, act to provide for the establishment of Ninety Six NHS, approved Aug. 19, 1976",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg1196.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 94-393; Ford.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

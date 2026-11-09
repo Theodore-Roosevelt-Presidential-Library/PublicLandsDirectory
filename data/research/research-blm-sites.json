@@ -1,0 +1,307 @@
+[
+ {
+  "slug": "alabama-hills-national-scenic-area",
+  "name": "Alabama Hills National Scenic Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "BLM",
+  "category": "scenic-area",
+  "official": "https://www.blm.gov/visit/alabama-hills"
+ },
+ {
+  "slug": "baaj-nwaavjo-itah-kukveni-national-monument",
+  "name": "Baaj Nwaavjo I'tah Kukveni National Monument",
+  "states": [
+   "AZ",
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "national-monument",
+  "official": "https://www.blm.gov/national-conservation-lands/arizona/ancestral-footprints"
+ },
+ {
+  "slug": "beaver-dam-wash-national-conservation-area",
+  "name": "Beaver Dam Wash National Conservation Area",
+  "states": [
+   "NV",
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/utah/beaver-dam-wash-nca"
+ },
+ {
+  "slug": "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area",
+  "name": "Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "BLM",
+  "category": "trail",
+  "official": "https://www.blm.gov/visit/black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area"
+ },
+ {
+  "slug": "dominguez-escalante-national-conservation-area",
+  "name": "Dominguez/Escalante National Conservation Area",
+  "states": [
+   "CO"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/colorado/dominguez-escalante-nca"
+ },
+ {
+  "slug": "el-malpais-national-conservation-area",
+  "name": "El Malpais National Conservation Area",
+  "states": [
+   "NM"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/el-malpais-national-conservation-area"
+ },
+ {
+  "slug": "fort-stanton-snowy-river-national-conservation-area",
+  "name": "Fort Stanton - Snowy River National Conservation Area",
+  "states": [
+   "NM"
+  ],
+  "agency": "BLM",
+  "category": "river",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/fort-stanton-snowy-river-cave-national-conservation-area"
+ },
+ {
+  "slug": "gila-box-riparian-national-conservation-area",
+  "name": "Gila Box Riparian National Conservation Area",
+  "states": [
+   "AZ"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/national-conservation-lands/arizona/gilabox"
+ },
+ {
+  "slug": "gunnison-gorge-national-conservation-area",
+  "name": "Gunnison Gorge National Conservation Area",
+  "states": [
+   "CO"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/colorado/gunnison-gorge-nca"
+ },
+ {
+  "slug": "headwaters-forest-reserve",
+  "name": "Headwaters Forest Reserve",
+  "states": [
+   "CA"
+  ],
+  "agency": "BLM",
+  "category": "national-preserve",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/california/headwaters-forest-reserve"
+ },
+ {
+  "slug": "john-wesley-powell-national-conservation-area",
+  "name": "John Wesley Powell National Conservation Area",
+  "states": [
+   "CO",
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/utah/john-wesley-powell-nca"
+ },
+ {
+  "slug": "jupiter-inlet-lighthouse-outstanding-natural-area",
+  "name": "Jupiter Inlet Lighthouse Outstanding Natural Area",
+  "states": [
+   "FL"
+  ],
+  "agency": "BLM",
+  "category": "other",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/eastern-states/jupiter-inlet-lighthouse"
+ },
+ {
+  "slug": "jurassic-national-monument",
+  "name": "Jurassic National Monument",
+  "states": [
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "national-monument",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/utah/jurassic-national-monument"
+ },
+ {
+  "slug": "king-range-national-conservation-area",
+  "name": "King Range National Conservation Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/visit/king-range-national-conservation-area"
+ },
+ {
+  "slug": "las-cienegas-national-conservation-area",
+  "name": "Las Cienegas National Conservation Area",
+  "states": [
+   "AZ"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/national-conservation-lands/arizona/las-cienegas"
+ },
+ {
+  "slug": "mcinnis-canyons-national-conservation-area",
+  "name": "McInnis Canyons National Conservation Area",
+  "states": [
+   "CO",
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/colorado/mcinnis-canyons"
+ },
+ {
+  "slug": "morley-nelson-snake-river-birds-of-prey-national-conservation-area",
+  "name": "Morley Nelson Snake River Birds of Prey National Conservation Area",
+  "states": [
+   "ID"
+  ],
+  "agency": "BLM",
+  "category": "river",
+  "official": "https://www.blm.gov/visit/morley-nelson-snake-river-birds-prey-national-conservation-area"
+ },
+ {
+  "slug": "numunaa-nobe-national-conservation-area",
+  "name": "Numunaa Nobe National Conservation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": null
+ },
+ {
+  "slug": "piedras-blancas-outstanding-natural-area",
+  "name": "Piedras Blancas Outstanding Natural Area",
+  "states": [
+   "CA"
+  ],
+  "agency": "BLM",
+  "category": "other",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/california/piedras-blancas-light-station"
+ },
+ {
+  "slug": "pistone-black-mountain-national-conservation-area",
+  "name": "Pistone-Black Mountain National Conservation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": null
+ },
+ {
+  "slug": "prehistoric-trackways-national-monument",
+  "name": "Prehistoric Trackways National Monument",
+  "states": [
+   "NM"
+  ],
+  "agency": "BLM",
+  "category": "national-monument",
+  "official": "https://www.blm.gov/visit/ptnm"
+ },
+ {
+  "slug": "red-cliffs-national-conservation-area",
+  "name": "Red Cliffs National Conservation Area",
+  "states": [
+   "UT"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/utah/red-cliffs-nca"
+ },
+ {
+  "slug": "red-rock-canyon-national-conservation-area",
+  "name": "Red Rock Canyon National Conservation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/nevada/red-rock-canyon"
+ },
+ {
+  "slug": "rio-grande-del-norte-national-monument",
+  "name": "Río Grande del Norte National Monument",
+  "states": [
+   "CO",
+   "NM"
+  ],
+  "agency": "BLM",
+  "category": "national-monument",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/rio-grande-del-norte-national-monument"
+ },
+ {
+  "slug": "san-pedro-riparian-national-conservation-area",
+  "name": "San Pedro Riparian National Conservation Area",
+  "states": [
+   "AZ"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/national-conservation-lands/arizona/san-pedro"
+ },
+ {
+  "slug": "santa-rosa-san-jacinto-mountains-national-monument",
+  "name": "Santa Rosa-San Jacinto Mountains National Monument",
+  "states": [
+   "CA"
+  ],
+  "agency": "BLM",
+  "category": "national-monument",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument"
+ },
+ {
+  "slug": "sloan-canyon-national-conservation-area",
+  "name": "Sloan Canyon National Conservation Area",
+  "states": [
+   "NV"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/nevada/sloan-canyon-nca"
+ },
+ {
+  "slug": "steens-mountain-cooperative-management-and-protection-area",
+  "name": "Steens Mountain Cooperative Management and Protection Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/recreation/recreation-activities/oregon-washington/steens-mountain"
+ },
+ {
+  "slug": "steese-national-conservation-area",
+  "name": "Steese National Conservation Area",
+  "states": [
+   "AK"
+  ],
+  "agency": "BLM",
+  "category": "conservation-area",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/alaska/steese"
+ },
+ {
+  "slug": "yaquina-head-outstanding-natural-area",
+  "name": "Yaquina Head Outstanding Natural Area",
+  "states": [
+   "OR"
+  ],
+  "agency": "BLM",
+  "category": "other",
+  "official": "https://www.blm.gov/programs/national-conservation-lands/oregon-washington/yaquina-head-ona"
+ }
+]

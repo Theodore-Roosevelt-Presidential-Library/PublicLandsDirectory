@@ -1,6 +1,6 @@
 {
   "slug": "wing-luke-museum-affiliated-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2013-02-10",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated Feb. 10, 2013",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Designation by the Secretary of the Interior, Feb. 10, 2013"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 123",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Department of the Interior press release, Feb. 10, 2013: Secretary Salazar designates Wing Luke Museum an affiliated area of the National Park Service",
+          "url": "https://www.doi.gov/news/pressreleases/secretary-salazar-launches-asian-american-pacific-islander-theme-study-designates-wing-luke-museum-affiliation-with-national-park-service"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretary Salazar announced Feb. 10, 2013 in Seattle that he had designated the museum an affiliated area; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

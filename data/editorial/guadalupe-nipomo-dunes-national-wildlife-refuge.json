@@ -1,0 +1,44 @@
+{
+  "slug": "guadalupe-nipomo-dunes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000-08-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Aug. 1, 2000, when management of 2,553 acres of the Mobil Coastal Preserve passed from The Nature Conservancy to the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Guadalupe-Nipomo Dunes National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/guadalupe-nipomo-dunes/about-us"
+        },
+        {
+          "name": "Federal Register: Guadalupe-Nipomo Dunes NWR draft CCP notice, Mar. 2, 2016 (established in 2000 under the ESA)",
+          "url": "https://www.federalregister.gov/documents/2016/03/02/2016-04571/guadalupe-nipomo-dunes-national-wildlife-refuge-san-luis-obispo-county-ca-draft-comprehensive"
+        },
+        {
+          "name": "FWS ServCat: Guadalupe-Nipomo Dunes NWR CCP/EA (refuge created Aug. 1, 2000)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/114423"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a sentence about a 1962 National Park Service program (Historic Sites Act). Refuge was established in 2000.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

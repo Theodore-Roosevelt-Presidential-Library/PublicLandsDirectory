@@ -1,0 +1,44 @@
+{
+  "slug": "merritt-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963-08-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Aug. 28, 1963, through a cooperative agreement with NASA, as an overlay refuge on the Kennedy Space Center.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Cooperative agreement between FWS and NASA",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Merritt Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/merritt-island/about-us"
+        },
+        {
+          "name": "Federal Register: Merritt Island NWR notice, Aug. 12, 2008 (established 1963 by agreement with NASA)",
+          "url": "https://www.federalregister.gov/documents/2008/08/12/E8-18411/merritt-island-national-wildlife-refuge"
+        },
+        {
+          "name": "FWS ServCat: Merritt Island NWR CCP: established Aug. 28, 1963, the 286th refuge",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168138"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser used the Lake Woodruff NWR sentence (1964). Merritt Island dates from Aug. 28, 1963.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Woodruff National Wildlife Refuge Lake Woodruff NWR was established in 1964 as a migratory bird refuge, part of five million-plus acres purchased by US Fish & Wildlife Service with proceeds from the Federal Duck Stamp Program."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

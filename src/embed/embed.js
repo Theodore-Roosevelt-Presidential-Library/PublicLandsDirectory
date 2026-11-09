@@ -3,6 +3,9 @@
  * <public-lands-card site="theodore-roosevelt-national-park" view="card"></public-lands-card>
  * views: card (default) | alerts | history | map | compact | roosevelt
  * Directory map: <public-lands-map agency="NPS" state="ND" tr="any" controls height="480"></public-lands-map>
+ * Whole directory: <public-lands-directory></public-lands-directory> embeds the search and every site page, without the
+ *   Library's banner. Start somewhere with search="…", agency, state, category, tr, or site="<slug>". The frame grows to
+ *   fit its content, and the page being viewed is written to the host URL as ?pl-dir=… so links and reloads return to it.
  * Deep links: the host page's ?pl-site=, pl-view=, pl-state=, pl-agency=, pl-cat=, pl-tr=, pl-q= override attributes, and
  *   map filter changes are written back to the host URL. Use deep-link="map1-" for a different prefix, deep-link="off" to disable.
  * options: theme="light|dark", photo="false", width via CSS
@@ -105,4 +108,46 @@
     }
   }
   if (!customElements.get('public-lands-map')) customElements.define('public-lands-map', PublicLandsMap);
+
+  // The whole directory (search, results and full site pages) in a frame that sizes itself to its content.
+  class PublicLandsDirectory extends HTMLElement {
+    connectedCallback() {
+      if (this._frame) return;
+      const pre = this.getAttribute('deep-link') || 'pl-', on = this.getAttribute('deep-link') !== 'off';
+      const id = (this._id = Math.random().toString(36).slice(2, 9));
+      // Starting page: the host URL's ?pl-dir= (a page the visitor was on), else the attributes.
+      let path = on && new URLSearchParams(location.search).get(pre + 'dir');
+      if (!path || !/^\/(sites\/[\w-]+\/|roosevelt\/|about\/)?(\?[^#]*)?$/.test(path)) {
+        const site = this.getAttribute('site');
+        if (site) path = `/sites/${encodeURIComponent(site)}/`;
+        else {
+          const q = new URLSearchParams();
+          const map = { search: 'q', agency: 'agency', state: 'state', category: 'cat', tr: 'tr', activity: 'act', view: 'view' };
+          for (const [attr, key] of Object.entries(map)) if (this.getAttribute(attr)) q.set(key, this.getAttribute(attr));
+          path = '/' + (String(q) ? `?${q}` : '');
+        }
+      }
+      const min = parseInt(this.getAttribute('min-height') || '600', 10);
+      if (!this.shadowRoot) this.attachShadow({ mode: 'open' });
+      this.shadowRoot.innerHTML = `<style>:host{display:block}iframe{border:0;width:100%;height:${min}px;display:block;transition:height .15s}</style><iframe title="Public Lands Directory" name="pld-embed:${id}" src="${BASE}${path}"></iframe>`;
+      this._frame = this.shadowRoot.querySelector('iframe');
+      let lastPage = path.split('?')[0];
+      window.addEventListener('message', (e) => {
+        if (e.origin !== BASE || !e.data || e.data.frame !== id) return;
+        if (e.data.type === 'pld:height') this._frame.style.height = Math.max(min, e.data.height) + 'px';
+        if (e.data.type === 'pld:nav') {
+          const page = String(e.data.path || '/').split('?')[0];
+          // A new page (not just a filter change): bring the top of the directory into view.
+          if (page !== lastPage) { lastPage = page; const top = this.getBoundingClientRect().top; if (top < 0) this.scrollIntoView({ block: 'start' }); }
+          if (on) {
+            const url = new URL(location.href);
+            e.data.path && e.data.path !== '/' ? url.searchParams.set(pre + 'dir', e.data.path) : url.searchParams.delete(pre + 'dir');
+            history.replaceState(history.state, '', url);
+          }
+          this.dispatchEvent(new CustomEvent('navigate', { detail: { path: e.data.path, title: e.data.title } }));
+        }
+      });
+    }
+  }
+  if (!customElements.get('public-lands-directory')) customElements.define('public-lands-directory', PublicLandsDirectory);
 })();

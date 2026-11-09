@@ -1,0 +1,48 @@
+{
+  "slug": "pathfinder-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1909-02-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Pathfinder Reservation",
+      "indexText": "President Theodore Roosevelt established the Pathfinder Reservation on the Pathfinder Reservoir site by Executive Order 1032 on February 25, 1909, as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 1032",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pathfinder National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pathfinder/about-us"
+        },
+        {
+          "name": "Wikisource: Executive Order 1032, Feb. 25, 1909, establishing seventeen reservoir-site bird reservations including Pathfinder, Wyo.",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1032"
+        },
+        {
+          "name": "T. S. Palmer, National Reservations for the Protection of Wild Life, USDA Biological Survey Circular 87 (1912), table of bird reservations",
+          "url": "https://archive.org/details/CAT31414456"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7425, Aug. 1, 1936, Establishing the Pathfinder Wildlife Refuge (revokes the order establishing the Pathfinder Reservation)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7425-establishing-the-pathfinder-wildlife-refuge-wyoming"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date \"3725\" was parsed from EO 3725 (1922), which revoked part of the reservation. Original establishment is EO 1032 (TR, 1909). FDR re-established it as Pathfinder Wildlife Refuge by EO 7425 on Aug. 1, 1936.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the refuge over the years: EO 1032 (February 25, 1909)—established Pathfinder Wildlife Refuge on the Pathfinder Reservoir site “as a preserve and breeding ground for native birds.” EO 3725 (August 18, 1922)—revoked that part of EO 1032 reserving the Pathfinder Reservoir site for use “as a preserve and breeding ground for native birds.” EO 4860 (April 19, 1928)—reestablished the area created by EO "
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

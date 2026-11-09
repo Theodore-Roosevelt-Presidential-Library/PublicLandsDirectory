@@ -1,0 +1,37 @@
+{
+  "slug": "detroit-river-international-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001-12-21",
+      "action": "established",
+      "designation": "International Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established the Detroit River International Wildlife Refuge along 18 miles of the lower Detroit River.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Detroit River International Wildlife Refuge Establishment Act, Public Law 107-91, 115 Stat. 894",
+        "signedBy": "George W. Bush"
+      },
+      "note": "Boundary expanded by Public Law 108-23 (May 19, 2003) into Ohio (CCP).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Detroit River IWR Comprehensive Conservation Plan, 2005 (ServCat 43600)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43600"
+        },
+        {
+          "name": "Public Law 107-91 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ91/pdf/PLAW-107publ91.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

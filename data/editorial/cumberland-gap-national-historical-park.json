@@ -1,6 +1,6 @@
 {
   "slug": "cumberland-gap-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1940-06-11",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of June 11, 1940, ch. 304, 54 Stat. 262"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 54 Stat. 262 (govinfo): Act of June 11, 1940, ch. 304, approved June 11, 1940",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-54/pdf/STATUTE-54-Pg262-3.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 261, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 11, 1940; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

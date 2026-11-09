@@ -1,0 +1,42 @@
+{
+  "slug": "black-hills-national-forest",
+  "designationHistory": [
+    {
+      "date": "1897-02-22",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Black Hills: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Grover Cleveland",
+        "citation": "29 Stat. 902"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 8",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "29 Stat. 902 (Statutes at Large, govinfo): Proclamation No. 25, Feb. 22, 1897, Grover Cleveland, reserve in South Dakota (Black Hills Meridian)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg902.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation of Feb. 22, 1897 (No. 25), 29 Stat. 902, Grover Cleveland; effective March 1, 1898.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

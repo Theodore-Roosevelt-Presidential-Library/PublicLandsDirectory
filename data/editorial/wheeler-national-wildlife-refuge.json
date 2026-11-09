@@ -1,0 +1,40 @@
+{
+  "slug": "wheeler-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1938-07-07",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Wheeler Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Wheeler Migratory Waterfowl Refuge on Tennessee Valley Authority land by Executive Order 7926 on July 7, 1938.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7926",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Wheeler National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/wheeler/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7926, July 7, 1938, Establishing Wheeler Migratory Waterfowl Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7926-establishing-wheeler-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Date confirmed; EO added; signer name completed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Wheeler National Wildlife Refuge was established on July 7, 1938 by President Franklin D."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

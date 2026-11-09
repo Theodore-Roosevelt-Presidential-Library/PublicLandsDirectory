@@ -1,0 +1,44 @@
+{
+  "slug": "marais-des-cygnes-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1992 to protect and restore bottomland hardwood forest along the Marais des Cygnes River in Kansas.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Marais Des Cygnes National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/marais-des-cygnes/about-us"
+        },
+        {
+          "name": "FWS ServCat: Marais des Cygnes NWR CCP (established 1992)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5960"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Marais des Cygnes NWR",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/121912"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "nts News Species Map https://www.facebook.com/KansasNWRComplex/ About Us Marais des Cygnes National Wildlife Refuge was established in 1992 primarily for the preservation and restoration of bottomland hardwood forest."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

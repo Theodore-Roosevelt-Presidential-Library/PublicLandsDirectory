@@ -1,0 +1,37 @@
+{
+  "slug": "seatuck-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1968",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Natalie Peters Webster and her mother, Natalie Wells Peters, donated their roughly 200-acre family estate in Islip, Long Island, to the federal government in 1968 as a sanctuary for birds and other wildlife, which became Seatuck National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Donation to the Fish and Wildlife Service",
+        "signedBy": null
+      },
+      "note": "Pass A (fws.gov: acquired in 1968 as a donation from the Peters family) and Pass B (Seatuck Environmental Association: the 200-acre estate was donated in 1968 for an \"inviolate sanctuary\") agree on the 1968 donation. The association says the property was \"eventually\" established as a refuge, so the formal designation could postdate the gift; no separate designation date was found.",
+      "sources": [
+        {
+          "name": "Seatuck Environmental Association, About Seatuck",
+          "url": "https://seatuck.org/about/"
+        },
+        {
+          "name": "FWS, Seatuck NWR page and About Us",
+          "url": "https://www.fws.gov/refuge/seatuck/about-us"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

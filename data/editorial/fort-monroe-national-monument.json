@@ -1,28 +1,43 @@
 {
   "slug": "fort-monroe-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "2011-11-12",
+      "date": "2011-11-01",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Proclaimed Nov. 12, 2011",
+      "indexText": "Proclaimed Nov. 1, 2011",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Proclamation 8750, 76 F.R. 68625"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register (federalregister.gov API record): Proclamation 8750, \"Establishment of the Fort Monroe National Monument,\" signed Nov. 1, 2011, 76 F.R. 68625",
+          "url": "https://www.federalregister.gov/documents/2011/11/07/2011-28926/establishment-of-the-fort-monroe-national-monument"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Nov. 12 is wrong: Proclamation 8750 was signed Nov. 1, 2011 (Obama) and published Nov. 7, 2011.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Proclaimed Nov. 12, 2011"
     }
   ],
   "historySource": {

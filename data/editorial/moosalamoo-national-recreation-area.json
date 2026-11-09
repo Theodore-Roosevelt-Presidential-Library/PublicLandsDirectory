@@ -1,0 +1,37 @@
+{
+  "slug": "moosalamoo-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "2006-12-01",
+      "action": "designated",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The New England Wilderness Act of 2006 designated the Moosalamoo National Recreation Area in the Green Mountain National Forest, Vermont.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 109-382, title II, sec. 221, 120 Stat. 2673, 2676",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 109-382, 120 Stat. 2673 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-120/pdf/STATUTE-120-Pg2673.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ttt (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ttt"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

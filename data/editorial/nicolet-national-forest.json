@@ -1,0 +1,42 @@
+{
+  "slug": "nicolet-national-forest",
+  "designationHistory": [
+    {
+      "date": "1933-03-02",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Nicolet: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Herbert Hoover",
+        "citation": "Proclamation 2035, 47 Stat. 2561"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 72",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "47 Stat. 2561 (Statutes at Large, govinfo): Proclamation No. 2035, March 2, 1933, Herbert Hoover (begins on p. 2561)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg2560.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2035, March 2, 1933",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2035-nicolet-national-forest-wisconsin"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2035, March 2, 1933, 47 Stat. 2561, Hoover, two days before the inauguration of Franklin D. Roosevelt (not inauguration day).",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

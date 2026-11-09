@@ -1,0 +1,41 @@
+{
+  "slug": "green-river-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2019-11",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established the Green River National Wildlife Refuge near the meeting of the Green and Ohio Rivers in Henderson County, Kentucky, when it acquired the first parcels in November 2019.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service (land acquisition under the National Wildlife Refuge System Administration Act)",
+        "signedBy": null
+      },
+      "note": "FWS gives November 19, 2019 as the establishment date (first parcels acquired) and September 27, 2019 as the authorization date; Interior announced the establishment at a ceremony on Friday, November 22, 2019. Day-level date left at month because the sources differ on which day to count.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Green River NWR Compatibility Determination, Cooperative Farming (2022): authorized Sept. 27, 2019; established Nov. 19, 2019",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/187280"
+        },
+        {
+          "name": "U.S. Department of the Interior press release, Nov. 22, 2019: Secretary Bernhardt Unveils New National Wildlife Refuge in Kentucky",
+          "url": "https://www.doi.gov/pressreleases/secretary-bernhardt-unveils-new-national-wildlife-refuge-kentucky"
+        },
+        {
+          "name": "WNIN (Evansville), Nov. 24, 2019: New Wildlife Refuge Created in Henderson County",
+          "url": "https://news.wnin.org/local-news/2019-11-24/new-wildlife-refuge-created-in-henderson-county"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

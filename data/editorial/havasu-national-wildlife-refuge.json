@@ -1,0 +1,37 @@
+{
+  "slug": "havasu-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-01-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Havasu Lake National Wildlife Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Havasu Lake National Wildlife Refuge by Executive Order 8647, reserving about 37,370 acres in Arizona and California.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8647",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "FWS ServCat: Havasu National Wildlife Refuge, Compatibility Determination, Hunting (2021)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/135689"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8647",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8647-establishing-the-havasu-lake-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

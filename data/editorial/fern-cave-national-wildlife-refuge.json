@@ -1,0 +1,32 @@
+{
+ "slug": "fern-cave-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1981",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Fern Cave National Wildlife Refuge, established in 1981, consists of 199 acres of forested hillside underlain by a massive cave with many stalactite and stalagmite-filled rooms.",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Fern Cave National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/fern-cave/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

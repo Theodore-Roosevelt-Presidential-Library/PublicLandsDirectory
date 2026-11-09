@@ -1,0 +1,37 @@
+{
+  "slug": "lostwood-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-09-04",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lostwood Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Lostwood Migratory Waterfowl Refuge, about 33,045 acres in Burke and Mountrail Counties, North Dakota, by Executive Order 7171.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7171",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed Lostwood National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Lostwood National Wildlife Refuge Compatibility Determination, Hunting (2026)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/194126"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7171",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7171-establishing-lostwood-migratory-waterfowl-refuge-north-dakota"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

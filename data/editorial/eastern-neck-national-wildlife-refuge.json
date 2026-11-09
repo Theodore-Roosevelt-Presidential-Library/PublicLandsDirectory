@@ -1,0 +1,39 @@
+{
+  "slug": "eastern-neck-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1962-12-27",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Eastern Neck National Wildlife Refuge was established under the Migratory Bird Conservation Act as a sanctuary for migratory birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929 (16 U.S.C. 715d)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Eastern Neck National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/eastern-neck/about-us"
+        },
+        {
+          "name": "USFWS, Eastern Neck National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 116853): \"Eastern Neck Refuge was established by executive order on December 27, 1962, under the Migratory Bird Conservation Act\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/173148"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Dec. 27, 1962 (CCP). The CCP calls it an \"executive order,\" but no presidential order for Eastern Neck appears in the American Presidency Project; treated as administrative under the MBCA.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "ns hunted here for thousands of years and the island was among the first areas settled by Europeans in the \"New World.\" Established in December 1962, the refuge is a major feeding and resting place for migratory and wintering waterfowl on Maryland’s famed “Eastern Shore.” The varied habitats on Eastern Neck NWR, including brackish tidal marsh, forest, cropland, grassland, and open water impoundmen"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

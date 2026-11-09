@@ -1,0 +1,44 @@
+{
+  "slug": "iroquois-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1958-05-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Oak Orchard National Wildlife Refuge",
+      "indexText": "Established May 19, 1958, as Oak Orchard National Wildlife Refuge under the Migratory Bird Conservation Act; renamed Iroquois in 1964 to avoid confusion with a nearby state area.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (Duck Stamp funds)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Iroquois National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/iroquois/about-us"
+        },
+        {
+          "name": "Federal Register: Iroquois NWR final CCP notice, Oct. 18, 2011 (established 1958 under the MBCA)",
+          "url": "https://www.federalregister.gov/documents/2011/10/18/2011-26934/iroquois-national-wildlife-refuge-genesee-county-and-orleans-county-ny-final-comprehensive"
+        },
+        {
+          "name": "FWS ServCat: Iroquois NWR CCP (established 1958)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43712"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft used the 1964 renaming date and a fragment as signer. Established 1958 (FR, CCP); the day (May 19) is from the FWS page and Wikipedia only. Not a presidential action; clear the signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "In response, on May 19, 1958, the federal government established the Oak Orchard National Wildlife Refuge using funds from Migratory Bird Hunting and Conservation Stamps, or \"Duck Stamps.\" To avoid confusion with the nearby Oak Orchard State Wildlife Management Area, the refuge was renamed Iroquois National Wildlife Refuge (NWR) in 1964."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

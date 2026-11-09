@@ -1,0 +1,37 @@
+{
+  "slug": "el-camino-real-de-tierra-adentro-national-historic-trail",
+  "designationHistory": [
+    {
+      "date": "2000-10-13",
+      "action": "designated",
+      "designation": "National Historic Trail",
+      "name": null,
+      "indexText": "Congress designated El Camino Real de Tierra Adentro National Historic Trail by amending the National Trails System Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-307, 114 Stat. 1074",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "Only the U.S. portion (about 404 miles in New Mexico and Texas) is designated; NPS co-administers it with the Bureau of Land Management.",
+      "sources": [
+        {
+          "name": "Public Law 106-307 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ307/html/PLAW-106publ307.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 143), 'Established Oct. 13, 2000'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

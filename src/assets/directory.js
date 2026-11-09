@@ -29,7 +29,7 @@
   function apply() {
     const act = $('act').value, tr = $('tr').value, q = norm($('q').value.trim()), c = $('cat').value, a = $('agency').value, st = $('state').value, ad = $('admin').value, al = $('alerts').checked, wi = $('wild')?.checked;
     const terms = q.split(/\s+/).filter(Boolean);
-    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!wi || s.w) && (!act || s.act.includes(act)) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
+    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!wi || s.w) && (!act || s.act.includes(act)) && (!tr || (tr === 'any' ? s.tr.length : tr === 'both' ? s.tr.includes('visited') && (s.tr.includes('protected') || s.tr.includes('executive-action')) : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
     const p = new URLSearchParams();
     for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr', 'act']) if ($(k).value) p.set(k, $(k).value);
     if (al) p.set('alerts', '1'); if (wi) p.set('wild', '1'); if (view !== 'list') p.set('view', view);
@@ -73,7 +73,8 @@
   const sentinel = document.createElement('div');
   sentinel.setAttribute('aria-hidden', 'true');
   $('results').after(sentinel);
-  if ('IntersectionObserver' in window) {
+  // Embedded frames grow to fit their content, so the end of the list is always "in view"; use the button there.
+  if ('IntersectionObserver' in window && !document.documentElement.classList.contains('embedded')) {
     new IntersectionObserver((entries) => {
       if (entries.some((e) => e.isIntersecting) && view === 'list' && shown < filtered.length) more();
     }, { rootMargin: '800px 0px' }).observe(sentinel);

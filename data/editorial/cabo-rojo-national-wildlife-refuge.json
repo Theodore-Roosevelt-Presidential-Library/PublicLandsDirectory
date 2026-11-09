@@ -1,0 +1,39 @@
+{
+  "slug": "cabo-rojo-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1974",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Cabo Rojo National Wildlife Refuge was established when land in southwestern Puerto Rico was transferred from the Central Intelligence Agency to the U.S. Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Transfer of land from the Central Intelligence Agency"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cabo Rojo National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cabo-rojo/about-us"
+        },
+        {
+          "name": "USFWS, 508 Cabo Rojo National Wildlife Refuge Comprehensive Conservation Plan (English) (ServCat 169386): \"Cabo Rojo NWR was established in 1974 when 587 acres of upland habitat were obtained from the Central Intelligence Agency\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254678"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1974 by transfer (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cabo Rojo National Wildlife Refuge was established in 1974 for its indispensable and unique value in “carrying out the national migratory bird management program”."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

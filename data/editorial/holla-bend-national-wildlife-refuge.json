@@ -1,0 +1,44 @@
+{
+  "slug": "holla-bend-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1957",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1957 when the Corps of Engineers transferred the 4,068-acre Holla Bend cutoff site on the Arkansas River to the Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Transfer of Real Property Act (transfer from the Corps of Engineers)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Holla Bend National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/holla-bend/about-us"
+        },
+        {
+          "name": "Federal Register: Holla Bend NWR notice, May 17, 2007 (established 1957 under the Transfer of Real Property Act)",
+          "url": "https://www.federalregister.gov/documents/2007/05/17/E7-9483/holla-bend-national-wildlife-refuge-in-pope-and-yell-counties-ar"
+        },
+        {
+          "name": "FWS ServCat: Holla Bend NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168040"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a sentence about Cache River NWR (1986). Holla Bend dates from 1957.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cache River National Wildlife Refuge Cache River National Wildlife Refuge was established in 1986 to protect significant wetland habitats and provide feeding and resting areas for migrating waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

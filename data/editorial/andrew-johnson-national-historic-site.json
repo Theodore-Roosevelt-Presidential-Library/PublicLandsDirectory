@@ -1,6 +1,6 @@
 {
   "slug": "andrew-johnson-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1935-08-29",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of Aug. 29, 1935, ch. 801, 49 Stat. 958"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 96",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 49 Stat. 958 (govinfo): Act of Aug. 29, 1935, ch. 801, Andrew Johnson Homestead National Monument",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg958.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450o, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Aug. 29, 1935 provided for the monument, later proclaimed (Proclamation 2554, Apr. 27, 1942); FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1963-12-11",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Redesignated Dec. 11, 1963",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 88-197, 77 Stat. 349"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 96",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 77 Stat. 349 (govinfo): P.L. 88-197, approved Dec. 11, 1963",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-77/pdf/STATUTE-77-Pg349-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450o and Change of Name note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 88-197 redesignated the monument a national historic site; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

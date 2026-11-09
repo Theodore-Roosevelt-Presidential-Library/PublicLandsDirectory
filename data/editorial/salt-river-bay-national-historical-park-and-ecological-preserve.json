@@ -1,6 +1,6 @@
 {
   "slug": "salt-river-bay-national-historical-park-and-ecological-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1992-02-24",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-247, title I, 106 Stat. 33"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 108",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-247, 106 Stat. 33, Omnibus Insular Areas Act of 1992, title I, approved Feb. 24, 1992",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg33.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410tt, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410tt&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 102-247, title I; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

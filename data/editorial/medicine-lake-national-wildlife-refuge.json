@@ -1,0 +1,48 @@
+{
+  "slug": "medicine-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-08-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Medicine Lake Migratory Waterfowl Refuge",
+      "indexText": "Established Aug. 19, 1935, as the Medicine Lake Migratory Waterfowl Refuge by Executive Order 7148, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7148",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Medicine Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/medicine-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7148, signed Aug. 19, 1935",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7148-establishing-medicine-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register: Medicine Lake NWR final CCP notice, Feb. 20, 2008 (established 1935 by EO 7148)",
+          "url": "https://www.federalregister.gov/documents/2008/02/20/E8-3079/availability-of-final-comprehensive-conservation-plan-for-medicine-lake-national-wildlife-refuge"
+        },
+        {
+          "name": "FWS ServCat: Medicine Lake NWR Complex CCP (timeline: 1935 refuge established)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5967"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong year: FWS page says 1936; EO 7148 is dated Aug. 19, 1935. (The FR CCP notice prints \"August 29, 1935\", out of sequence with EOs 7142 of Aug. 14 and 7154-A of Aug. 22; the APP text shows Aug. 19.)",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1936, with the primary purpose of preserving and enhancing resting, feeding, and breeding habitat for migratory birds and other wildlife, this 15,551-acre refuge contains numerous wetlands."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

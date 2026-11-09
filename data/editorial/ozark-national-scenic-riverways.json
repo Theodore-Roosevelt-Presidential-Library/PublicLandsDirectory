@@ -1,6 +1,6 @@
 {
   "slug": "ozark-national-scenic-riverways",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1964-08-27",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 88-492, 78 Stat. 608"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 88-492, 78 Stat. 608, act to provide for the establishment of the Ozark National Scenic Riverways, approved Aug. 27, 1964",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg608.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460m, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460m&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 88-492; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1972-06-10",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established June 10, 1972",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "Interior notice dated June 10, 1972, 37 F.R. 11983"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 37 F.R. 11983 (June 16, 1972): Ozark National Scenic Riverways, designation and establishment, dated June 10, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1972-06-16/pdf/FR-1972-06-16.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Assistant Secretary Nathaniel Reed's notice dated June 10, 1972 declared the riverways established; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

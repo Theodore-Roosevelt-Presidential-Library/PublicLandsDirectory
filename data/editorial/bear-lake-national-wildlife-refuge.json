@@ -1,0 +1,39 @@
+{
+  "slug": "bear-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1968-05-09",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Public Land Order 4415 set aside federal land in Bear Lake County, Idaho, as Bear Lake National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Public Land Order 4415 (33 FR 7151)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bear Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bear-lake/about-us"
+        },
+        {
+          "name": "USFWS, Bear Lake National Wildlife Refuge and Oxford Slough Waterfowl Production Area: Comprehensive Conservation Plan [Final] (ServCat 43146): \"On May 9, 1968, 17,573 acres ... was set aside as Bear Lake National Wildlife Refuge by Public Land Order 4415 (33 FR 7151)\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/165926"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "PLO 4415, May 9, 1968 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bear Lake National Wildlife Refuge was established in 1968 to protect and manage habitat for waterfowl and other migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

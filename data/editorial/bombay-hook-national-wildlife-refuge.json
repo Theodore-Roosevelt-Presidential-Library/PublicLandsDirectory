@@ -1,0 +1,40 @@
+{
+  "slug": "bombay-hook-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-06-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Bombay Hook Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Bombay Hook Migratory Waterfowl Refuge by Executive Order 7643; it is now Bombay Hook National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7643",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bombay Hook National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bombay-hook/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7643—Establishing Bombay Hook Migratory Waterfowl Refuge (Jun 22, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7643-establishing-bombay-hook-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7643, 1937-06-22 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bombay Hook was established in 1937 as a link in the chain of refuges extending from Canada to the Gulf of Mexico."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

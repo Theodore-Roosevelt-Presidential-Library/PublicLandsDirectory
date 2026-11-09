@@ -1,6 +1,6 @@
 {
   "slug": "rainbow-bridge-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1910-05-30",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "William Howard Taft",
         "administration": "William Howard Taft",
-        "citation": null
+        "citation": "Proclamation 1043"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 102",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1043, May 30, 1910",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1043-setting-aside-rainbow-bridge-national-monument-utah"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1043, William Howard Taft; APP signing clause matches the date.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,39 @@
 {
   "slug": "manassas-national-battlefield-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1940-05-10",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Jackson acquired his nickname “Stonewall.” Designated May 10, 1940",
+      "indexText": "Designated May 10, 1940",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Secretarial order of May 10, 1940, 5 F.R. 1824"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service (Vol. I, 1947 compilation of Secretarial orders)",
+          "url": "https://www.nps.gov/subjects/legal/nps-volume-1.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and President (FDR) are right: Secretary Ickes designated Manassas National Battlefield Park by order of May 10, 1940 (5 F.R. 1824) under the Historic Sites Act. Draft text carried a stray sentence about 'Stonewall' Jackson, now trimmed.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Jackson acquired his nickname “Stonewall.” Designated May 10, 1940"
     }
   ],
   "historySource": {

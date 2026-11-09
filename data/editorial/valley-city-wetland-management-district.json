@@ -1,0 +1,32 @@
+{
+ "slug": "valley-city-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1971",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "Valley City Wetland Management District About Us What We Do Facility Services Laws & Regulations Contact Us Visit Us Activities Rules & Policies Get Involved News Map About Us Image Details Established in 1971, Valley City Wetland Management District manages both Service-owned waterfowl production areas as well as wetland and grassland easements on private lands located in Barnes, Cass, Griggs, St",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Valley City Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/valley-city-wetland-management-district/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

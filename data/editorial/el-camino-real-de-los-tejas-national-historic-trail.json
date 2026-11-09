@@ -1,6 +1,6 @@
 {
   "slug": "el-camino-real-de-los-tejas-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2004-10-18",
@@ -9,86 +9,34 @@
       "name": null,
       "indexText": "The route was known as the “Old San Antonio Road.” Established Oct. 18, 2004",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "P.L. 108-342, 118 Stat. 1370"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 143",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "2000-10-13",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established Oct. 13, 2000",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Bill Clinton",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 143",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1983-03-28",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established March 28, 1983",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Ronald Reagan",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+          "name": "Statutes at Large, 118 Stat. 1370 (govinfo): P.L. 108-342, El Camino Real de los Tejas National Historic Trail Act, Oct. 18, 2004",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-118/pdf/STATUTE-118-Pg1370.pdf"
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 143",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "U.S. Code, 16 U.S.C. 1244 note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1980-10-03",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established Oct. 3, 1980",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Jimmy Carter",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 143",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 108-342; George W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

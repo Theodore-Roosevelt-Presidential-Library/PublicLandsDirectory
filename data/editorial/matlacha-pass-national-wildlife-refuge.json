@@ -1,0 +1,44 @@
+{
+  "slug": "matlacha-pass-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-09-26",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Matlacha Pass Reservation",
+      "indexText": "Established Sept. 26, 1908, as the Matlacha Pass Reservation by Executive Order 943, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 943",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Matlacha Pass National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/matlacha-pass/about-us"
+        },
+        {
+          "name": "FWS ServCat: Pine Island, Matlacha Pass, Island Bay and Caloosahatchee NWRs CCP: Matlacha Pass established by T.R. through EO 943, Sept. 26, 1908",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168146"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft described Caloosahatchee NWR (Wilson, July 1, 1920), a separate refuge now managed with Matlacha Pass. Matlacha Pass itself was a T.R. reservation of 1908.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established by President Woodrow Wilson on July 1, 1920 as a \". . . preserve and breeding ground for native birds.\" Originally, the Caloosahatchee National Wildlife Refuge consisted of several mangrove islands."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,6 +1,6 @@
 {
   "slug": "blue-ridge-parkway",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1936-06-30",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of June 30, 1936, ch. 883, 49 Stat. 2041"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 85",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 49 Stat. 2041 (govinfo): Act of June 30, 1936, ch. 883, administration and maintenance of the Blue Ridge Parkway by NPS",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg2041.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 460a-2, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 30, 1936; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

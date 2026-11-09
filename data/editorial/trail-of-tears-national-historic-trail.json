@@ -1,6 +1,6 @@
 {
   "slug": "trail-of-tears-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1987-12-16",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established Dec. 16, 1987",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 100-192, 101 Stat. 1309"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 100-192, 101 Stat. 1309, act designating the Trail of Tears a National Historic Trail, approved Dec. 16, 1987",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1309.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1244, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1244&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 100-192; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

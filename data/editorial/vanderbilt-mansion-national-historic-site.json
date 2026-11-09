@@ -1,6 +1,6 @@
 {
   "slug": "vanderbilt-mansion-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1940-12-18",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated Dec. 18, 1940",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Secretarial order of Dec. 18, 1940, 5 F.R. 5282"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service (Vol. I, 1947 compilation of Secretarial orders)",
+          "url": "https://www.nps.gov/subjects/legal/nps-volume-1.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated by Secretarial order of Dec. 18, 1940 (5 F.R. 5282); FDR.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

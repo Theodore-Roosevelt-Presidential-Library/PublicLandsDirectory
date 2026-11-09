@@ -1,0 +1,44 @@
+{
+  "slug": "oregon-islands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-05-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Goat Island Migratory Bird Refuge",
+      "indexText": "Established May 6, 1935, as the Goat Island Migratory Bird Refuge by Executive Order 7035, signed by President Franklin D. Roosevelt; renamed Oregon Islands National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7035",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Oregon Islands National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/oregon-islands/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7035, May 6, 1935",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7035-establishing-goat-island-migratory-bird-refuge-oregon"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Date confirmed. Adds the earlier name: Proclamation 2416 renamed Goat Island Migratory Bird Refuge as Oregon Islands NWR.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established on May 6, 1935, as a sanctuary and breeding ground for seabirds and marine mammals, the scenic and rugged Oregon Islands NWR includes 1,853 rocks, reefs, and islands and stretches from Tillamook Head near Seaside south to the California border."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

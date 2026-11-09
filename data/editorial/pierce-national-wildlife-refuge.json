@@ -1,0 +1,39 @@
+{
+  "slug": "pierce-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1983 when Lena Pierce donated her land to the U.S. Fish and Wildlife Service, chiefly as habitat for wintering waterfowl.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pierce National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pierce/about-us"
+        },
+        {
+          "name": "Friends of the Columbia Gorge refuges (Gorge Refuge Stewards): Pierce NWR \"was donated to the USFWS in 1983 by Lena Pierce\"",
+          "url": "https://gorge-refuge-stewards.herokuapp.com/thegorgerefuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by a friends-group history; administrative establishment by donation.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Pierce NWR was established in 1983 to provide habitat for waterfowl, particularly Canada geese."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

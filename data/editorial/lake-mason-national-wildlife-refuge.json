@@ -1,0 +1,37 @@
+{
+  "slug": "lake-mason-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-06-03",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Lake Mason National Wildlife Refuge by Executive Order 8770, comprising about 6,884 acres in Musselshell County, Montana.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8770",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Lake Mason National Wildlife Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/136497"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8770",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8770-establishing-the-lake-mason-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

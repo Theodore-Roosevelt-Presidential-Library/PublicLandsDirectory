@@ -1,0 +1,68 @@
+{
+  "slug": "harriet-tubman-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "2014-12-19",
+      "action": "authorized",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress provided for Harriet Tubman National Historical Park in Auburn, New York, to be established once enough land was acquired.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 113-291, sec. 3036, 128 Stat. 3780",
+        "signedBy": "Barack Obama"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 113-291 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ291/html/PLAW-113publ291.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016, 'Authorized Dec. 19, 2014'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2017-01-10",
+      "action": "established",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "The Secretary of the Interior established Harriet Tubman National Historical Park after the National Park Service acquired the Thompson Memorial AME Zion Church and rectory.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Barack Obama",
+        "citation": "Secretarial decision memorandum (Jan. 10, 2017); notice of establishment, 82 FR 6641 (Jan. 19, 2017)",
+        "signedBy": null
+      },
+      "note": "The notice states establishment was effective Jan. 10, 2017, the day the memorandum was signed.",
+      "sources": [
+        {
+          "name": "Federal Register notice of establishment, 82 FR 6641 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2017-01-19/html/2017-01081.htm"
+        },
+        {
+          "name": "NPS History Collection, Harriet Tubman NHP (establishment Jan. 10, 2017)",
+          "url": "https://npshistory.com/publications/hart/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

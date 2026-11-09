@@ -1,0 +1,37 @@
+{
+ "slug": "muscatatuck-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1966-10-06",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Muscatatuck National Wildlife Refuge in Jackson and Jennings Counties, Indiana, was established under the Migratory Bird Conservation Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Lyndon B. Johnson",
+    "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Muscatatuck NWR Hunt Plan (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/117275"
+    },
+    {
+     "name": "FWS ServCat: Muscatatuck NWR CCP (2009): established 1966",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1544"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

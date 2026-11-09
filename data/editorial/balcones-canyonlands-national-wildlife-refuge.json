@@ -1,0 +1,39 @@
+{
+  "slug": "balcones-canyonlands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Balcones Canyonlands National Wildlife Refuge under the Endangered Species Act to protect golden-cheeked warbler and black-capped vireo habitat.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973 (16 U.S.C. 1534)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Balcones Canyonlands National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/balcones-canyonlands/about-us"
+        },
+        {
+          "name": "USFWS, Balcones Canyonlands National Wildlife Refuge Hunt Plan (ServCat 117376): \"established in February, 1992, under the authority of the Endangered Species Act of 1973\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/173769"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Feb. 1992 (refuge hunt plan).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Balcones Canyonlands National Wildlife Refuge was established in 1992."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

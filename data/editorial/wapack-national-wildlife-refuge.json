@@ -1,0 +1,43 @@
+{
+  "slug": "wapack-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1972",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1972 when Laurence and Lorna Marshall donated their land on North Pack Monadnock to the U.S. Fish and Wildlife Service; New Hampshire's first national wildlife refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Wapack National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/wapack/about-us"
+        },
+        {
+          "name": "Federal Register, Feb. 23, 2007 (E7-3131): \"The 1,672-acre Wapack NWR, established through donation in 1972\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-02-23/pdf/E7-3131.pdf"
+        },
+        {
+          "name": "Friends of the Wapack: the Marshalls donated 1,625 acres to the Fish and Wildlife Service, creating New Hampshire's first national wildlife refuge",
+          "url": "https://wapack.org/who-were-laurence-and-lorna-marshall/"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Wapack National Wildlife Refuge, established in 1972 through a donation from Laurence and Lorna Marshall, was New Hampshire's first refuge."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

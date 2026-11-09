@@ -1,0 +1,44 @@
+{
+  "slug": "hackmatack-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2012-11-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Nov. 6, 2012, when the Fish and Wildlife Service accepted a donated 12-acre conservation easement from Openlands.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Barack Obama",
+        "citation": "Acceptance of a donated 12-acre conservation easement (Openlands)",
+        "signedBy": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Hackmatack National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/hackmatack/about-us"
+        },
+        {
+          "name": "U.S. Department of the Interior press release, Aug. 15, 2012: Salazar authorizes establishment; refuge official only when first parcel acquired",
+          "url": "https://www.doi.gov/news/pressreleases/Salazar-Green-Lights-New-Hackmatack-National-Wildlife-Refuge"
+        },
+        {
+          "name": "FWS press release reprinted by McHenry County Blog, Jan. 13, 2013: approved July 10, 2012; first parcel (12-acre easement from Openlands) added Nov. 6, 2012",
+          "url": "https://mchenrycountyblog.com/2013/01/13/hackmatack-national-wildlife-refuge-established-by-interior-department-secretary/"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right, but this was an administrative action (Secretary Salazar authorized; FWS approved July 10, 2012). No presidential signature; clear Obama as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Hackmatack National Wildlife Refuge was established on November 6, 2012 with the donation of a 12 acre conservation easement conservation easement A conservation easement is a voluntary legal agreement between a landowner and a government agency or qualified conservation organization that restricts the type and amount of development that may take place on a property in the future."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

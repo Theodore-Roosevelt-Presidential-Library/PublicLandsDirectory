@@ -1,0 +1,40 @@
+{
+  "slug": "sam-d-hamilton-noxubee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1940-06-14",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt established the Noxubee National Wildlife Refuge by Executive Order 8444 on June 14, 1940, on lands bought under 1930s resettlement programs.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8444, 5 FR 2251",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sam D. Hamilton Noxubee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sam-d-hamilton-noxubee/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8444, June 14, 1940, Establishing the Noxubee National Wildlife Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8444-establishing-the-noxubee-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added. Renamed Sam D. Hamilton Noxubee NWR later.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Us Visit Us Activities Trails Get Involved Events News Library Species Map https://www.facebook.com/NoxubeeNWR About Us Established in 1940, Noxubee National Wildlife Refuge is located in three counties (Noxubee, Oktibbeha, and Winston), and was created from lands obtained through the 1930s Resettlement Administration."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

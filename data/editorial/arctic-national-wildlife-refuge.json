@@ -1,0 +1,68 @@
+{
+  "slug": "arctic-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1960-12-06",
+      "action": "established",
+      "designation": "National Wildlife Range",
+      "name": "Arctic National Wildlife Range",
+      "indexText": "Interior Secretary Fred A. Seaton signed Public Land Order 2214, setting aside about 8.9 million acres in northeast Alaska as the Arctic National Wildlife Range to preserve its wildlife, wilderness and recreational values.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Land Order 2214 (25 FR 12598)",
+        "signedBy": null
+      },
+      "note": "Signed by the Secretary of the Interior during the Eisenhower administration, not by the President. The CCP gives 8.83 million acres; acreage not rechecked in the order.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Arctic NWR Revised Comprehensive Conservation Plan, 2015 (ServCat 41955)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/41955"
+        },
+        {
+          "name": "Federal Register, Public Land Order 2214 (issue of 1960-12-09)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1960-12-09/pdf/FR-1960-12-09.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Alaska National Interest Lands Conservation Act redesignated the range as part of the Arctic National Wildlife Refuge and enlarged it.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Alaska National Interest Lands Conservation Act, Public Law 96-487, sec. 303(2)",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": "Range was renamed the William O. Douglas Arctic Wildlife Range in 1980 before ANILCA (CCP; see also Proclamation 4729 on APP); not separately verified.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Arctic NWR Revised Comprehensive Conservation Plan, 2015 (ServCat 41955)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/41955"
+        },
+        {
+          "name": "Alaska National Interest Lands Conservation Act, Public Law 96-487, 94 Stat. 2371 (govinfo, U.S. Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

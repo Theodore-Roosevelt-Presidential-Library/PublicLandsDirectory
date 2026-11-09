@@ -1,0 +1,39 @@
+{
+  "slug": "baskett-slough-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1965-03-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Migratory Bird Conservation Commission approved the acquisition of Baskett Slough National Wildlife Refuge to provide wintering habitat for dusky Canada geese.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Baskett Slough National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/baskett-slough/about-us"
+        },
+        {
+          "name": "USFWS, Willamette Valley NWR Complex Comprehensive Conservation Plan (Sept. 2011), ch. 1-2 refuge histories: MBCC approved acquisition of Baskett Slough on March 25, 1965",
+          "url": "https://www.fws.gov/sites/default/files/documents/Willamette%20Valley%20NWRC%20CCP%20-%20Sept%202011.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "MBCC approval Mar. 25, 1965 (CCP). Year confirmed; date and authority added.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Our History Established in 1965 as part of the Willamette Valley NWR Complex, the Baskett Slough National Wildlife Refuge’s primary management goal is to provide wintering habitat for dusky Canada geese."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

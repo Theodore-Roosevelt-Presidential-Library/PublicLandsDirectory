@@ -1,0 +1,37 @@
+{
+  "slug": "whiskeytown-shasta-trinity-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1965-11-08",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Whiskeytown-Shasta-Trinity National Recreation Area in California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 89-336, sec. 1, 79 Stat. 1295",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 89-336, 79 Stat. 1295 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg1295.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460q (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460q"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

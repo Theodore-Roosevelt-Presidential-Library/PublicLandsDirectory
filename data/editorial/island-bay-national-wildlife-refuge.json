@@ -1,0 +1,44 @@
+{
+  "slug": "island-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1908-10-23",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Island Bay Reservation",
+      "indexText": "Established Oct. 23, 1908, as the Island Bay Reservation by Executive Order 958, signed by President Theodore Roosevelt, as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 958",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Island Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/island-bay/about-us"
+        },
+        {
+          "name": "FWS ServCat: Pine Island, Matlacha Pass, Island Bay and Caloosahatchee NWRs CCP: Island Bay established Oct. 23, 1908, by EO 958, T.R.",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168146"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, July 25, 1940 (renames refuges; lists old names)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed, EO 958 (T.R.). Earlier name Island Bay Reservation (renamed 1940, Proclamation 2416).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established as a \". . . preserve and breeding ground for native birds\" on October 23, 1908, through Executive Order 958 signed by President Theodore Roosevelt."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

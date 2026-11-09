@@ -1,0 +1,33 @@
+{
+ "slug": "grass-lake-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1942-05-19",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Franklin D. Roosevelt established Grass Lake National Wildlife Refuge by executive order on May 19, 1942.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Franklin D. Roosevelt",
+    "signedBy": "Franklin D. Roosevelt",
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Grass Lake National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/grass-lake/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

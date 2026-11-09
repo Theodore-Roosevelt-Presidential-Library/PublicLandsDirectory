@@ -1,0 +1,39 @@
+{
+  "slug": "cypress-creek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990-06-26",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Cypress Creek National Wildlife Refuge under the Emergency Wetlands Resources Act to protect southern Illinois wetlands.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Emergency Wetlands Resources Act of 1986"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cypress Creek National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cypress-creek/about-us"
+        },
+        {
+          "name": "USFWS, Recreational Fishing Plan : Cypress Creek National Wildlife Refuge (ServCat 7128): \"Cypress Creek National Wildlife Refuge (NWR) was established on June 26, 1990 under the Emergency Wetlands Resources Act of 1986\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/6862"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described the National Natural Landmarks program (1962). Refuge: June 26, 1990 (refuge management plan).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

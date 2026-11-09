@@ -1,0 +1,44 @@
+{
+  "slug": "protection-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1982-10-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Congress established Protection Island National Wildlife Refuge by the act of October 15, 1982 (Public Law 97-333), signed by President Ronald Reagan.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 97-333, 96 Stat. 1623",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Protection Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/protection-island/about-us"
+        },
+        {
+          "name": "Public Law 97-333, Oct. 15, 1982, 96 Stat. 1623: An Act To establish the Protection Island National Wildlife Refuge (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-96/pdf/STATUTE-96-Pg1623.pdf"
+        },
+        {
+          "name": "Federal Register, Aug. 14, 2007 (E7-15882): \"The Protection Island National Wildlife Refuge Act was enacted in 1982 (Pub L. 97-333)\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-08-14/pdf/E7-15882.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft name \"Wildlife Refuge\" was parsed from \"Established as a Wildlife Refuge\"; cleared. Established by act of Congress.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Protection Island National Wildlife Refuge Image Details Established as a Wildlife Refuge in 1982 Image Details Image Details Image Details Protection Island National Wildlife Refuge About Us What We Do Projects & Research Law Enforcement Contact Us Visit Us Locations Get Involved News Library Species Map http://www.facebook.com/usfws About Us Image Details Protection Island National Wildlife Refu"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

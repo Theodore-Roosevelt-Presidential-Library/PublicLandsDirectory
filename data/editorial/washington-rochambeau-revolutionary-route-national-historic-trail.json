@@ -1,6 +1,6 @@
 {
   "slug": "washington-rochambeau-revolutionary-route-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2009-03-30",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Established March 30, 2009",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 111-11, title V, sec. 5204, 123 Stat. 991"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 111-11, sec. 5204; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

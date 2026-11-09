@@ -1,0 +1,44 @@
+{
+  "slug": "pablo-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1921",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Pablo Reservation",
+      "indexText": "Established in 1921 by President Warren G. Harding's Executive Order 3504 as the Pablo Reservation, a bird refuge on a Flathead irrigation reservoir, subject to reservoir uses.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Warren G. Harding",
+        "citation": "Executive Order 3504",
+        "signedBy": "Warren G. Harding"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pablo National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pablo/about-us"
+        },
+        {
+          "name": "Federal Register, May 18, 2017 (2017-10111): Ninepipe and Pablo NWRs \"were each established as easement refuges in 1921\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2017-05-18/pdf/2017-10111.pdf"
+        },
+        {
+          "name": "American Presidency Project / Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 3504 (Pablo Reservation) per Proclamation 2416, which renamed it Pablo National Wildlife Refuge in 1940. Exact day of EO 3504 not found in an independent source; date left at 1921.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Executive Order 3504 established the Refuge on this withdrawal in 1921, subject to reservoir uses."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

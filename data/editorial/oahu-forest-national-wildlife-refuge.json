@@ -1,0 +1,37 @@
+{
+  "slug": "oahu-forest-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2000",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Fish and Wildlife Service established the Oahu Forest National Wildlife Refuge in the northern Koolau Mountains by buying a 4,525-acre parcel from Castle and Cooke to protect native forest and endangered forest birds such as the Oahu elepaio.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by land purchase (U.S. Fish and Wildlife Service)",
+        "signedBy": null
+      },
+      "note": "The Star-Bulletin (Dec. 22, 2000) says the deed changed hands 'yesterday,' that is, December 21, 2000; FWS gives only the year.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Invasive Plant Prioritization Workshop Report: Oahu Forest NWR (2024): established in 2000",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/167400"
+        },
+        {
+          "name": "Honolulu Star-Bulletin, Dec. 22, 2000: Wildlife refuge set up in Koolau range",
+          "url": "https://archives.starbulletin.com/2000/12/22/news/story10.html"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

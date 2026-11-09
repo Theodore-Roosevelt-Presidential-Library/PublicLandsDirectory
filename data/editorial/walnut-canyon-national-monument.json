@@ -1,6 +1,6 @@
 {
   "slug": "walnut-canyon-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1915-11-30",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Woodrow Wilson",
         "administration": "Woodrow Wilson",
-        "citation": null
+        "citation": "Proclamation 1318, 39 Stat. 1761"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1318, 39 Stat. 1761, Walnut Canyon National Monument, done Nov. 30, 1915",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg1761.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1318, Nov. 30, 1915",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1318-setting-aside-the-walnut-canyon-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1318; Wilson.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

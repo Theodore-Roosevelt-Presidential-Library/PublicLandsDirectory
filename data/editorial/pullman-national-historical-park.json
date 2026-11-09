@@ -1,6 +1,6 @@
 {
   "slug": "pullman-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2015-02-19",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Proclamation 9233, 129 Stat. 3292"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 52",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 9233, 129 Stat. 3292, Establishment of the Pullman National Monument, Feb. 19, 2015",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-129/pdf/STATUTE-129-Pg3292.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9233, Feb. 19, 2015",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9233-establishment-the-pullman-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9233 created Pullman National Monument (later redesignated a national historical park); Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

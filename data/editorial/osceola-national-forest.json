@@ -1,0 +1,42 @@
+{
+  "slug": "osceola-national-forest",
+  "designationHistory": [
+    {
+      "date": "1931-07-10",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "usceola: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Herbert Hoover",
+        "citation": "Proclamation 1961, 47 Stat. 2465"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 69",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "47 Stat. 2465 (Statutes at Large, govinfo): Proclamation No. 1961, July 10, 1931 (\"Done ... this 10th day of July\"), Herbert Hoover (begins on p. 2465)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg2464.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1961 (dated July 3, 1931 on this site)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1961-osceola-national-forest-florida"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1961, July 10, 1931, 47 Stat. 2465, Hoover. The sources disagree: the American Presidency Project dates it July 3, 1931, but the Statutes text reads July 10, and the Statutes are the official printing.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

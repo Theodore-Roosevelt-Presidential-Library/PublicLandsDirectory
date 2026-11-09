@@ -1,0 +1,64 @@
+{
+ "slug": "fish-springs-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1959",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Fish Springs National Wildlife Refuge in Utah's west desert was established in 1959 with approval of the Migratory Bird Conservation Commission, as an inviolate sanctuary for migratory birds.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Commission approval (Migratory Bird Conservation Act)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Comprehensive Conservation Plan: Fish Springs NWR, 2004 (ServCat 1423)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1423"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1959-08-12",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The Interior Department withdrew public land in Utah for the Fish Springs National Wildlife Refuge under Public Land Order 1942.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Dwight D. Eisenhower",
+    "citation": "Public Land Order 1942",
+    "signedBy": null
+   },
+   "note": "The order is dated August 12, 1959 and signed by an Assistant Secretary of the Interior (Federal Register). It added public land to the refuge; Public Land Order 2563 (December 22, 1961) added more (CCP).",
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Comprehensive Conservation Plan: Fish Springs NWR, 2004 (ServCat 1423)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1423"
+    },
+    {
+     "name": "Federal Register, Public Land Order 1942, 'Withdrawing Lands for Use of United States Fish and Wildlife Service for Fish Springs National Wildlife Refuge' (issue of 1959-08-19)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-1959-08-19/pdf/FR-1959-08-19.pdf"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

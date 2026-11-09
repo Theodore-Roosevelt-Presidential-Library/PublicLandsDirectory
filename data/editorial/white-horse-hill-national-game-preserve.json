@@ -1,0 +1,41 @@
+{
+ "slug": "white-horse-hill-national-game-preserve",
+ "designationHistory": [
+  {
+   "date": "1904-06-02",
+   "action": "established",
+   "designation": null,
+   "name": "Sully's Hill Park",
+   "indexText": "President Theodore Roosevelt reserved the land as Sully's Hill Park by Proclamation 530 on June 2, 1904, under the act ratifying the Devils Lake Reservation land agreement.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "Theodore Roosevelt",
+    "citation": "Proclamation 530",
+    "signedBy": "Theodore Roosevelt"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: White Horse Hill National Game Preserve, About Us",
+     "url": "https://www.fws.gov/refuge/white-horse-hill-national-game-preserve/about-us"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 530, June 2, 1904 (Theodore Roosevelt), reserving lands \"for public use as a park to be known as Sully's Hill Park\" under the act ratifying the Devils Lake agreement",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-530-partial-opening-lands-the-sisseton-wahpeton-and-cut-head-bands-the-sioux"
+    },
+    {
+     "name": "Wikisource: Executive Order 3596, Dec. 22, 1921, also making the \"Sullys Hill National Park Game Preserve\" a bird refuge",
+     "url": "https://en.wikisource.org/wiki/Executive_Order_3596"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "appert-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Appert Lake Migratory Waterfowl Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 8110 setting apart about 1,163 acres in Emmons County, North Dakota, as a refuge and breeding ground for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8110",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "APP transcribes the Federal Register text, so those two are one text; the FWS 1991 narrative independently gives May 10, 1939 (it calls it the purchase date).",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 8110",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8110-establishing-the-appert-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register, Executive Order 8110 (issue of 1939-05-12)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1939-05-12/pdf/FR-1939-05-12.pdf"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Long Lake NWR and Long Lake WMD Annual Narrative Report, Calendar Year 1991 (ServCat 42230)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/42230"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

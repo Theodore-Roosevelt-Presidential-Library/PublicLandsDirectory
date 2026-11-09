@@ -1,0 +1,45 @@
+{
+  "slug": "rock-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Rock Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established it as the Rock Lake Migratory Waterfowl Refuge by Executive Order 8165 on June 12, 1939, and it was renamed Rock Lake National Wildlife Refuge in 1940.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8165",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Pass A (FWS limited-interest refuges CCP, Table 4) and Pass B (American Presidency Project text and National Archives Executive Orders Disposition Table, 4 FR 2409) agree on order number and date. The refuge is a limited-interest (easement) refuge on private land. Renamed by Proclamation 2416 of July 25, 1940.",
+      "sources": [
+        {
+          "name": "American Presidency Project: Executive Order 8165",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8165-establishing-rock-lake-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables, 1939",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1939.html"
+        },
+        {
+          "name": "FWS, Comprehensive Conservation Plan: North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+        },
+        {
+          "name": "FWS ServCat, Establishment Documents (EO 8165)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143111"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

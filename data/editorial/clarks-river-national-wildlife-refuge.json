@@ -1,0 +1,33 @@
+{
+ "slug": "clarks-river-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1997",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Clarks River National Wildlife Refuge in western Kentucky was established in 1997 under the Emergency Wetlands Resources Act of 1986, after the refuge proposal was approved on June 19, 1997.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Emergency Wetlands Resources Act of 1986",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Clarks River NWR Comprehensive Conservation Plan, 2012 (ServCat 168165)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168165"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "allegheny-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1984-10-30",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The Pennsylvania Wilderness Act of 1984 established the Allegheny National Recreation Area in the Allegheny National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 98-585, sec. 6, 98 Stat. 3100, 3101",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 98-585, 98 Stat. 3100 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg3100.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460qq (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460qq"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

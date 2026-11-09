@@ -1,0 +1,41 @@
+{
+  "slug": "national-key-deer-refuge",
+  "designationHistory": [
+    {
+      "date": "1957-08-22",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress authorized the National Key Deer Refuge in Monroe County, Florida, to protect the Key deer, in Public Law 85-164, approved August 22, 1957.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Law 85-164, 71 Stat. 412",
+        "signedBy": "Dwight D. Eisenhower"
+      },
+      "note": "Signer inferred from the date (Eisenhower was President in 1957); no source here shows his signature. The act authorized acquisition; FWS uses the act's date as the establishment date.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Compatibility Determination, Lower Florida Keys refuges (2009): National Key Deer Refuge (August 22, 1957)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/129122"
+        },
+        {
+          "name": "FWS ServCat: Establishment Documents - National Key Deer Refuge (Public Law 85-164)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/140674"
+        },
+        {
+          "name": "U.S. Code, Title 16, sec. 696 and source credit (govinfo, 2015 ed.)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title16/html/USCODE-2015-title16-chap6.htm"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

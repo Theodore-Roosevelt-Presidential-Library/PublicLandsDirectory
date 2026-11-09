@@ -1,0 +1,33 @@
+{
+  "slug": "uinta-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-01-16",
+      "action": "renamed",
+      "designation": "Forest Reserve",
+      "name": "Uinta Forest Reserve",
+      "indexText": "Uintah: Land added. Name changed to Uinta.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "34 Stat. 3186"
+      },
+      "note": "Drafted from OCR of a scanned table; check names, dates and citations against the original.",
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 16",
+          "url": "https://archive.org/details/CAT92970816"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "The proclamation of Jan. 16, 1906 (Proclamation 608, 34 Stat. 3186, Theodore Roosevelt) is real and did add land, but its text and diagram still say \"Uintah.\" It did not change the name. The first presidential text with \"Uinta\" is Proclamation 629 of May 29, 1906 (34 Stat. 3207), which says the name had already changed. The instrument and date of the change were not found. Fix to \"Uintah: Land added (Proclamation 608),\" and drop the rename, unless an administrative order turns up.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)"
+}

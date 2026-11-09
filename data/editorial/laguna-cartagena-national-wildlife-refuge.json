@@ -1,0 +1,44 @@
+{
+  "slug": "laguna-cartagena-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1989 through a lease with the Commonwealth of Puerto Rico, to protect one of the island's most important freshwater wetlands for birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Laguna Cartagena National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/laguna-cartagena/about-us"
+        },
+        {
+          "name": "Federal Register: Laguna Cartagena NWR notice, May 16, 2007 (established 1989)",
+          "url": "https://www.federalregister.gov/documents/2007/05/16/E7-9403/laguna-cartagena-national-wildlife-refuge-boquern-pr"
+        },
+        {
+          "name": "FWS ServCat: Laguna Cartagena NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169390"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed (FR, CCP). A 2025 I&M plan mentions 1984, likely an error.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1989, the refuge is one of the most important freshwater habitats for migrating and resident aquatic birds in Puerto Rico."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

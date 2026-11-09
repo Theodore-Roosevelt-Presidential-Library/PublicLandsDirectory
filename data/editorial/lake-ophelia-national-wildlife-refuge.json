@@ -1,0 +1,44 @@
+{
+  "slug": "lake-ophelia-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1988",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1988 to provide wintering habitat for mallards, northern pintails and wood ducks in Louisiana bottomlands.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Ophelia National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-ophelia/about-us"
+        },
+        {
+          "name": "FWS ServCat: Lake Ophelia NWR CCP (\"The Refuge was established in 1988\"; project approved April 1988)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/168213"
+        },
+        {
+          "name": "FWS ServCat: Lake Ophelia NWR CCP (earlier edition)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1450"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "FWS page says October 2000; the refuge CCP says it was established in 1988 (Regional Director approved acquisition April 1988). Wikipedia also gives 1988.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Ophelia National Wildlife Refuge was established in October 2000 with the purpose of conserving and restoring habitat for migratory birds, aquatic resources, and endangered plants and animals."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

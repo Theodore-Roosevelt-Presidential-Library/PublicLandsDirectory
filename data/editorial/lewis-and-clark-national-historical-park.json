@@ -1,0 +1,68 @@
+{
+  "slug": "lewis-and-clark-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "1958-05-29",
+      "action": "authorized",
+      "designation": "National Memorial",
+      "name": "Fort Clatsop National Memorial",
+      "indexText": "Congress authorized Fort Clatsop National Memorial in Oregon to mark the Lewis and Clark Expedition's 1805-06 winter camp.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Public Law 85-435, 72 Stat. 153",
+        "signedBy": "Dwight D. Eisenhower"
+      },
+      "note": "The act authorized the memorial and made establishment effective once at least 100 acres were in federal title; the NPS Index calls the 1958 date 'established'.",
+      "sources": [
+        {
+          "name": "Public Law 85-435, 72 Stat. 153 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg153.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Oregon), 'Fort Clatsop National Memorial established May 29, 1958'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2004-10-30",
+      "action": "redesignated",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress redesignated Fort Clatsop National Memorial as Lewis and Clark National Historical Park and added sites in Washington as well as Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 108-387, title I, 118 Stat. 2234",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 108-387 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ387/html/PLAW-108publ387.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (Oregon), 'redesignated a national historical park Oct. 30, 2004'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

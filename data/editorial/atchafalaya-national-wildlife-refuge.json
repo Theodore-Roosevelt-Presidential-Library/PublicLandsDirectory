@@ -1,0 +1,39 @@
+{
+  "slug": "atchafalaya-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1986",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Atchafalaya National Wildlife Refuge by buying land from the Iberville Land Company, as Congress had directed in 1984.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Public Law 98-548 (Oct. 26, 1984) authorized the refuge; established on purchase of land from the Iberville Land Company"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Atchafalaya National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/atchafalaya/about-us"
+        },
+        {
+          "name": "USFWS, 508 Atchafalaya National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168171): \"On October 26, 1984, Congress authorized the establishment of Atchafalaya NWR (Public Law 98-548)\"; \"Atchafalaya NWR was established in 1986, when 15,255 acres were purchased from the Iberville Land Company\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253363"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "CCP: authorized by P.L. 98-548 (Oct. 26, 1984); established 1986 by purchase. Draft 1984 is the authorization year.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Atchafalaya National Wildlife Refuge, established in 1984, is located in the floodplain of the Atchafalaya River, a tributary of the Mississippi that flows into the Gulf of Mexico."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

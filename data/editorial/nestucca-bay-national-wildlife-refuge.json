@@ -1,0 +1,40 @@
+{
+  "slug": "nestucca-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1991",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1991 to protect wintering habitat for dusky Canada geese and Aleutian cackling geese on the Oregon coast.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Nestucca Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/nestucca-bay/about-us"
+        },
+        {
+          "name": "FWS ServCat: Nestucca Bay NWR CCP (established 1991 under the ESA)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43339"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Our Mission Image Details Established in 1991 to protect and enhance habitat for Dusky Canada Geese (a species of concern) and Aleutian Cackling Geese (formerly endangered), the refuge is wintering grounds for these and four other subspecies of white-cheeked geese."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

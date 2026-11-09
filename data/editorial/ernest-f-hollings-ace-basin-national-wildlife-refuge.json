@@ -1,0 +1,39 @@
+{
+  "slug": "ernest-f-hollings-ace-basin-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990-09-20",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "ACE Basin National Wildlife Refuge",
+      "indexText": "The U.S. Fish and Wildlife Service established ACE Basin National Wildlife Refuge, later renamed for Senator Ernest F. Hollings.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Ernest F. Hollings Ace Basin National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/ernest-f-hollings-ace-basin/about-us"
+        },
+        {
+          "name": "USFWS, 508 Ernest F. Hollings ACE Basin National Wildlife Refuge Comprehensive Conservation Plan (ServCat 169395): \"ACE Basin NWR was established on September 20, 1990. The refuge was renamed the Ernest F. Hollings ...\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254688"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Sept. 20, 1990 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "et Involved News Library Species Map Jehossee Island About Us Image Details Combahee Unit Impoundment ACE Basin NWR was established in September 1990 for its significance for wetland and habitat protection, migratory bird benefits and conservation opportunities served by the lands and waters of the refuge."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

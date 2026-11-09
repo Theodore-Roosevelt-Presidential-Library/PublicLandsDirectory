@@ -1,0 +1,33 @@
+{
+ "slug": "wild-rice-lake-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1934",
+   "action": "established",
+   "designation": "Easement Refuge",
+   "name": null,
+   "indexText": "The federal government bought refuge easements on Wild Rice Lake in 1934 as a water and wildlife conservation project, reserving the right to impound water and keep a no-hunting area for migratory birds.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Purchase of refuge easements",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Tewaukon National Wildlife Refuge Comprehensive Conservation Plan (2000), \"Tewaukon Complex Easement Refuges\"",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5973"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

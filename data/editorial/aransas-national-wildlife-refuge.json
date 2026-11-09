@@ -1,0 +1,40 @@
+{
+  "slug": "aransas-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-12-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Aransas Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Aransas Migratory Waterfowl Refuge by Executive Order 7784; it is now Aransas National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7784",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Aransas National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/aransas/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7784—Establishing the Aransas Migratory Waterfowl Refuge (Dec 31, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7784-establishing-the-aransas-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7784, 1937-12-31 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Aransas National Wildlife Refuge was established in 1937 to serve as a refuge and breeding ground for migratory birds and other wildlife and as an inviolate sanctuary, or for any other management purpose, for migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

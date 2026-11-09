@@ -1,0 +1,37 @@
+{
+  "slug": "hells-canyon-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1975-12-31",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Hells Canyon National Recreation Area in Oregon and Idaho.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Gerald R. Ford",
+        "citation": "Public Law 94-199, sec. 1, 89 Stat. 1117",
+        "signedBy": "Gerald R. Ford"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 94-199, 89 Stat. 1117 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg1117.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460gg (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460gg"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

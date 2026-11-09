@@ -1,0 +1,68 @@
+{
+  "slug": "dwight-d-eisenhower-memorial",
+  "designationHistory": [
+    {
+      "date": "1999-10-25",
+      "action": "authorized",
+      "designation": "memorial",
+      "name": null,
+      "indexText": "Congress created the Dwight D. Eisenhower Memorial Commission to plan a permanent memorial to Eisenhower, in the defense appropriations act for 2000.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-79, title VIII, sec. 8162, 113 Stat. 1274",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "An NPS brochure text (NPS History Collection) says the commission was established by Congress in 2000; the law was signed Oct. 25, 1999, as part of fiscal year 2000 appropriations.",
+      "sources": [
+        {
+          "name": "Public Law 106-79 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ79/html/PLAW-106publ79.htm"
+        },
+        {
+          "name": "40 U.S.C. 8903 notes (Cornell LII), 'Dwight D. Eisenhower Memorial'",
+          "url": "https://www.law.cornell.edu/uscode/text/40/8903"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2020-09-17",
+      "action": "transferred",
+      "designation": "memorial",
+      "name": null,
+      "indexText": "The Dwight D. Eisenhower Memorial was dedicated and the National Park Service took over its operation from the memorial commission.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Donald J. Trump",
+        "citation": "Dedication and handover to the National Park Service, Sept. 17, 2020",
+        "signedBy": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Eisenhower Memorial Commission news release on the dedication (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/dedication-event-marks-opening-of-the-new-dwight-d-eisenhower-memorial-301133794.html"
+        },
+        {
+          "name": "NPS History Collection, Dwight D. Eisenhower Memorial (establishment Sept. 17, 2020)",
+          "url": "https://npshistory.com/publications/ddem/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

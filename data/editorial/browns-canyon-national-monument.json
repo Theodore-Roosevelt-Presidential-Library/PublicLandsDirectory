@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9232, 80 FR 9975",
           "url": "https://www.federalregister.gov/documents/2015/02/24/2015-03972/establishment-of-the-browns-canyon-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9232—Establishment of the Browns Canyon National Monument, February 19, 2015",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9232-establishment-the-browns-canyon-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9232, 80 FR 9975, signed 2015-02-19; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

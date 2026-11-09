@@ -1,0 +1,45 @@
+{
+  "slug": "ocala-national-game-refuge",
+  "designationHistory": [
+    {
+      "date": "1930-07-24",
+      "action": "established",
+      "designation": "National Game Refuge",
+      "name": "Ocala National Game Refuge",
+      "indexText": "President Hoover set aside lands in the Ocala National Forest, Florida, as the Ocala National Game Refuge.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Herbert Hoover",
+        "citation": "Proclamation of July 24, 1930, 46 Stat. 3031 (under Act of June 28, 1930, 46 Stat. 827)",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation of July 24, 1930, 46 Stat. 3031 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3031.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 1918, Ocala Game Refuge, Florida",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1918-ocala-game-refuge-florida"
+        },
+        {
+          "name": "16 U.S.C. 692 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/692"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

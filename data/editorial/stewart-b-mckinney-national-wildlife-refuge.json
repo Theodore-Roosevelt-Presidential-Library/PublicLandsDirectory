@@ -1,0 +1,43 @@
+{
+  "slug": "stewart-b-mckinney-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1972",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Salt Meadow National Wildlife Refuge",
+      "indexText": "Established in 1972 as Salt Meadow National Wildlife Refuge with a land donation in Westbrook, Connecticut; renamed for Congressman Stewart B. McKinney in 1987.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Stewart B. McKinney National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/stewart-b-mckinney/about-us"
+        },
+        {
+          "name": "Wild Birds Unlimited Old Saybrook: Stewart B. McKinney NWR \"was established in 1972 and was originally called Salt Meadow National Wildlife Refuge,\" renamed in 1987",
+          "url": "https://oldsaybrook.wbu.com/stewart-b-mckinney-national-wildlife-refuge"
+        },
+        {
+          "name": "Connecticut Explored: refuge began \"with a single land donation in 1972\"; Salt Meadow Unit was the first property; named for McKinney in 1987",
+          "url": "https://www.ctexplored.org/stewart-b-mckinney-national-wildlife-refuge/"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and earlier name confirmed by two non-FWS sources (both secondary).",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1972 and was originally called Salt Meadow National Wildlife Refuge."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

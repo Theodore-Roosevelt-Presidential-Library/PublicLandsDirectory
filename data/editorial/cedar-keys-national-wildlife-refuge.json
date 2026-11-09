@@ -1,0 +1,40 @@
+{
+  "slug": "cedar-keys-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1929-07-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Cedar Keys Bird Refuge",
+      "indexText": "President Herbert Hoover established the Cedar Keys Bird Refuge by Executive Order 5158; it is now Cedar Keys National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5158",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cedar Keys National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cedar-keys/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5158—Establishing Cedar Keys Bird Refuge, Florida (Jul 16, 1929)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5158-establishing-cedar-keys-bird-refuge-florida"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 5158, 1929-07-16 (Herbert Hoover). Draft signer field held \"Presidential Executive Order\"; President is Hoover.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cedar Keys National Wildlife Refuge was established on July 16, 1929, by Presidential Executive Order 5158, to protect a breeding ground for colonial nesting migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

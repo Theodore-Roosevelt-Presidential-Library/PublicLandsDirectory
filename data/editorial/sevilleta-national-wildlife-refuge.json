@@ -1,0 +1,37 @@
+{
+  "slug": "sevilleta-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1973",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Campbell Family Foundation gave the Sevilleta land grant ranch to The Nature Conservancy in 1973, which turned it over to the Fish and Wildlife Service as Sevilleta National Wildlife Refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Donation through The Nature Conservancy",
+        "signedBy": null
+      },
+      "note": "Pass A (fws.gov: the Campbell Family Foundation donated the property to The Nature Conservancy in 1973, which donated it to FWS; \"On December 28, 1973 Sevilleta National Wildlife Refuge was established\") and Pass B (New Mexico Magazine: gifted to The Nature Conservancy in 1973, then turned over to FWS) agree on 1973. The exact day, December 28, rests on the FWS source.",
+      "sources": [
+        {
+          "name": "New Mexico Magazine, \"Sevilleta Wilderness\"",
+          "url": "https://www.newmexicomagazine.org/blog/post/sevilleta-wilderness/"
+        },
+        {
+          "name": "FWS, Sevilleta NWR About Us",
+          "url": "https://www.fws.gov/refuge/sevilleta/about-us"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

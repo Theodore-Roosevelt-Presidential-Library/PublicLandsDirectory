@@ -1,0 +1,41 @@
+{
+  "slug": "half-way-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Half-Way Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the refuge as the Half-Way Migratory Waterfowl Refuge by Executive Order 8120, reserving 160 acres in Stutsman County, North Dakota.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8120",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The Federal Register text confirms the order, its May 10, 1939 date, 160 acres in Stutsman County and the name; the order number 8120 is read from the FWS copy and the FWS CCP table (EO 8119 is Florence Lake per the Presidency Project). The Presidency Project has no page for EO 8120. Proclamation 2416 (July 25, 1940) renamed it Half-Way Lake National Wildlife Refuge.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Establishment Documents - Half-Way Migratory Waterfowl Refuge",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/133533"
+        },
+        {
+          "name": "Federal Register, Vol. 4, No. 92 (May 12, 1939), Title 3, order establishing the Half-Way Migratory Waterfowl Refuge",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1939-05-12/pdf/FR-1939-05-12.pdf"
+        },
+        {
+          "name": "FWS ServCat: Comprehensive Conservation Plan, North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

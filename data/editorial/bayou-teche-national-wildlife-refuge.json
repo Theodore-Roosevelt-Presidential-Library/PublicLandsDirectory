@@ -1,0 +1,39 @@
+{
+  "slug": "bayou-teche-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2001-10-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Bayou Teche National Wildlife Refuge by buying land to conserve the Louisiana black bear.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land purchase by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bayou Teche National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bayou-teche/about-us"
+        },
+        {
+          "name": "USFWS, 508 Bayou Teche National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168179): \"Bayou Teche NWR was established on October 31, 2001, when the Service purchased 9,028 acres from the Trust for Public Lands\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253370"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Oct. 31, 2001 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bayou Teche National Wildlife Refuge, established in 2001, sits along Bayou Teche, an ancient channel of the Mississippi River."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

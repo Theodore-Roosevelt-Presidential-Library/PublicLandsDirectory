@@ -1,0 +1,40 @@
+{
+  "slug": "bamforth-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1932-01-29",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Bamforth Lake Migratory Bird Refuge",
+      "indexText": "President Herbert Hoover established the Bamforth Lake Migratory Bird Refuge by Executive Order 5783; it is now Bamforth National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5783",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bamforth National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bamforth/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5783—Enlarging the Bamforth Lake Migratory Bird Refuge, Wyoming (Jan 29, 1932)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5783-enlarging-the-bamforth-lake-migratory-bird-refuge-wyoming"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 5783, 1932-01-29 (Herbert Hoover). EO 5783 reserved public land as an addition to the Bamforth Lake Migratory Bird Refuge then being acquired under the Migratory Bird Conservation Act; its companion Hutton Lake order (EO 5782) is dated Jan. 28, 1932, one day earlier, matching the refuge page.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bamforth National Wildlife Refuge and Hutton Lake National Wildlife Refuge were established by executive orders in 1932 within one day of each other."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

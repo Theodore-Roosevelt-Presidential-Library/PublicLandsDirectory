@@ -1,0 +1,41 @@
+{
+  "slug": "fort-union-trading-post-national-historic-site",
+  "designationHistory": [
+    {
+      "date": "1966-06-20",
+      "action": "authorized",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "Congress authorized the Secretary of the Interior to acquire the remains of Fort Union and to establish Fort Union Trading Post National Historic Site in North Dakota and Montana.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Public Law 89-458, 80 Stat. 211",
+        "signedBy": "Lyndon B. Johnson"
+      },
+      "note": "Sec. 2 of the act called for formal establishment by Federal Register notice once the land was acquired; that notice was not located.",
+      "sources": [
+        {
+          "name": "Public Law 89-458, 80 Stat. 211 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg211.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (North Dakota), 'Authorized June 20, 1966'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS History Collection, Fort Union Trading Post NHS",
+          "url": "https://npshistory.com/publications/fous/index.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

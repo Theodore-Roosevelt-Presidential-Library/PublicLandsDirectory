@@ -1,0 +1,44 @@
+{
+  "slug": "lake-ilo-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-06-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Lake Ilo Migratory Waterfowl Refuge",
+      "indexText": "Established June 12, 1939, as the Lake Ilo Migratory Waterfowl Refuge by Executive Order 8154, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8154",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lake Ilo National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lake-ilo/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8154, June 12, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8154-establishing-lake-ilo-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register, 4 FR 2407-2409 (June 15, 1939): Executive Orders 8154, 8155, 8157 of June 12, 1939",
+          "url": "https://archives.federalregister.gov/issue_slice/1939/6/15/2407-2409.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lake Ilo National Wildlife Refuge was established June 12, 1939 by Franklin D."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

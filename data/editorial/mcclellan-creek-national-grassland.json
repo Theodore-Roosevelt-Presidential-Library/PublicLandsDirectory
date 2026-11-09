@@ -1,0 +1,41 @@
+{
+  "slug": "mcclellan-creek-national-grassland",
+  "designationHistory": [
+    {
+      "date": "1962-12-06",
+      "action": "designated",
+      "designation": "National Grassland",
+      "name": null,
+      "indexText": "The Assistant Secretary of Agriculture added land utilization project TX-LU-24 in Gray County, Texas, to the list of national grasslands.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "John F. Kennedy",
+        "citation": "Order of Dec. 6, 1962, 27 F.R. 12217 (36 CFR 213.1(e)), effective Dec. 11, 1962",
+        "signedBy": null
+      },
+      "note": "Signed Dec. 6, 1962 by Assistant Secretary John A. Baker; effective Dec. 11, 1962. The order lists the project by number and county only; FS-612 identifies TX-24 as McClellan Creek.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 27 (Dec. 11, 1962), 27 F.R. 12217: order of Dec. 6, 1962 adding TX-LU-22 and TX-LU-24 to 36 CFR 213.1(e) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1962-12-11/pdf/FR-1962-12-11.pdf"
+        },
+        {
+          "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+          "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

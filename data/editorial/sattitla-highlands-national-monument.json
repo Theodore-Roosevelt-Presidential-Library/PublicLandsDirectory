@@ -1,0 +1,45 @@
+{
+  "slug": "sattitla-highlands-national-monument",
+  "designationHistory": [
+    {
+      "date": "2025-01-14",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Sáttítla Highlands National Monument",
+      "indexText": "President Biden proclaimed the Sáttítla Highlands National Monument in northern California under the Antiquities Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10882, Jan. 14, 2025, 90 F.R. 6727",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": "In 2025 the administration said it would seek to rescind the designation. As of early 2026 the monument remained in place.",
+      "sources": [
+        {
+          "name": "Proclamation 10882, 90 F.R. 6727 (Jan. 17, 2025) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-17/pdf/2025-01443.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 10882, Establishment of the Sattitla Highlands National Monument",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10882-establishment-the-sattitla-highlands-national-monument"
+        },
+        {
+          "name": "USDA Forest Service: Sáttítla Highlands National Monument",
+          "url": "https://www.fs.usda.gov/visit/national-monuments/sattitla-highlands-national-monument"
+        },
+        {
+          "name": "CalMatters commentary, January 2026: A California national monument may lose protected status",
+          "url": "https://calmatters.org/commentary/2026/01/california-national-monument-protected-status/"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

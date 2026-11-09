@@ -1,6 +1,6 @@
 {
   "slug": "lincoln-home-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1971-08-18",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-127, 85 Stat. 347"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 52",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 92-127, 85 Stat. 347, act authorizing establishment of the Lincoln Home NHS, approved Aug. 18, 1971",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg347.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-127, approved Aug. 18, 1971 (the govinfo metadata date of Aug. 17 is wrong; the printed approval line reads Aug. 18); Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

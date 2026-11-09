@@ -1,0 +1,77 @@
+{
+  "slug": "cibola-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-11-06",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Manzano Forest Reserve",
+      "indexText": "Manzano: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 685, 34 Stat. 3257"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 18",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3257 (Statutes at Large, govinfo): Proclamation of Nov. 6, 1906, Theodore Roosevelt, Manzano Forest Reserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3257-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 685, Nov. 6, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-685-setting-apart-the-manzano-forest-reserve-new-mexico"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 685, Nov. 6, 1906, 34 Stat. 3257, Theodore Roosevelt; predecessor name Manzano Forest Reserve is right.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1931-12-03",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Cibola National Forest",
+      "indexText": "Manzano: Land added from Datil and name changed to Cibola.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5752"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 69",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5752, Dec. 3, 1931",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5752-transfer-lands-from-the-datil-the-cibola-formerly-manzano-national"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 5752: Dec. 3, 1931, Datil NF diminished, excluded lands transferred to the Manzano NF and its name changed to Cibola",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 5752, Dec. 3, 1931, Herbert Hoover.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

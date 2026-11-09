@@ -4,8 +4,11 @@
 //   corrected  -> correction applied, original Index wording kept as indexOriginal, reviewed:true
 //   unresolved -> left unreviewed (stays off the live site)
 // Corrections that show an event is not a designation action (boundary revisions, leases) remove the event.
+// Correction fields: date, text, action, designation, name, authorityType, citation, president, remove (true drops the event).
+// Usage: node apply-verdicts.mjs <verdicts.json> [batch label]
 import { join } from 'node:path';
 import { DATA, readJSON, writeJSON } from '../lib.mjs';
+import { presidentName } from './presidents.mjs';
 
 const verdicts = await readJSON(process.argv[2]);
 const NOT_DESIGNATION = /boundary .*revised|lease agreement/i;
@@ -21,16 +24,27 @@ for (const [slug, vs] of Object.entries(bySlug)) {
   for (const v of vs) {
     const h = ed.designationHistory[v.index];
     if (!h) continue;
-    h.review = { verdict: v.verdict, note: v.note, by: 'HistorianPanel accuracy review, batch 1', date: new Date().toISOString().slice(0, 10) };
+    h.review = { verdict: v.verdict, note: v.note, by: `HistorianPanel accuracy review, ${process.argv[3] || 'batch 1'}`, date: new Date().toISOString().slice(0, 10) };
     if (v.verdict === 'unresolved') { counts.unresolved++; continue; }
     const c = v.correction || {};
-    if (c.text && NOT_DESIGNATION.test(c.text)) { drop.add(v.index); counts.removed++; continue; }
+    if (c.remove || (c.text && NOT_DESIGNATION.test(c.text))) { drop.add(v.index); counts.removed++; continue; }
     if (c.date) h.date = c.date;
     if (c.text) { h.indexOriginal = h.indexText; h.indexText = c.text; }
+    // Reviewers sometimes describe the action; keep the standard vocabulary (the earlier name has its own field).
+    if (c.action) h.action = /^established/i.test(c.action) ? 'established' : c.action;
+    if (c.designation) h.designation = c.designation;
+    if ('name' in c) h.name = c.name;
     if (c.authorityType) h.authority.type = c.authorityType;
+    if (c.citation) h.authority.citation = c.citation;
     if (c.president) { h.authority.administration = c.president; h.authority.signedBy = h.authority.type === 'unspecified' ? null : c.president; h.note = null; }
-    if (h.authority.type === 'unspecified') h.authority.signedBy = null;
+    if ('president' in c && c.president === null) h.authority.signedBy = null;
+    // Only proclamations, executive orders and signed acts have a presidential signer.
+    if (!['presidential-proclamation', 'executive-order', 'act-of-congress'].includes(h.authority.type)) h.authority.signedBy = null;
+    // Only a President can be a signer; drafts sometimes caught other words after "by" ("by Island Light").
+    for (const k of ['signedBy', 'administration']) if (h.authority[k]) h.authority[k] = presidentName(h.authority[k]) || (k === 'administration' ? presidentName(c.president) : null);
     h.sources = [...h.sources, ...(v.sources || []).filter((s) => s.url && !h.sources.some((x) => x.url === s.url))];
+    // Drafting notes (OCR warnings, inauguration-day flags) are settled by review.
+    if (h.note && /OCR|confirm which President|read the proclamation/.test(h.note)) h.note = null;
     h.reviewed = true;
     counts[v.verdict === 'corrected' ? 'corrected' : 'confirmed']++;
   }

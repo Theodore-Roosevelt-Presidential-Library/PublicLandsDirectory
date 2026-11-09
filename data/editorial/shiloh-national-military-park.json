@@ -1,28 +1,43 @@
 {
   "slug": "shiloh-national-military-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1894-12-27",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "The decisive victory enabled Union forces to advance and seize control of the strategic Confederate railway junction at Corinth, Mississippi, on May 30, 1862, then withstand an October Confederate counter-attack Park: Established Dec. 27, 1894",
+      "indexText": "Established Dec. 27, 1894",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Grover Cleveland",
         "administration": "Grover Cleveland",
-        "citation": null
+        "citation": "Act of Dec. 27, 1894, ch. 12, 28 Stat. 597"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of Dec. 27, 1894, ch. 12, 28 Stat. 597, act to establish a national military park at the battlefield of Shiloh, approved Dec. 27, 1894",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg597.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430f, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430f&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, act and President (Cleveland) are right; the draft text carried a stray sentence about Corinth from the Index description, now trimmed.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The decisive victory enabled Union forces to advance and seize control of the strategic Confederate railway junction at Corinth, Mississippi, on May 30, 1862, then withstand an October Confederate counter-attack Park: Established Dec. 27, 1894"
     },
     {
       "date": "1933-08-10",
@@ -31,42 +46,63 @@
       "name": null,
       "indexText": "Transferred from War Dept. Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
       "action": "transferred",
       "designation": null,
       "name": null,
-      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "indexText": "Shiloh National Cemetery transferred from the War Department to the National Park Service, Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "This Index line belongs to the park's cemetery (Shiloh National Cemetery), not a second park transfer; text names it to avoid duplicating #1. EO 6166 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Transferred from War Dept. Aug. 10, 1933"
     }
   ],
   "historySource": {

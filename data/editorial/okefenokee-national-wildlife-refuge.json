@@ -1,0 +1,44 @@
+{
+  "slug": "okefenokee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-03-30",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Okefenokee Wildlife Refuge",
+      "indexText": "Established March 30, 1937, as the Okefenokee Wildlife Refuge by Executive Order 7593, signed by President Franklin D. Roosevelt, as a refuge and breeding ground for migratory birds and other wildlife.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7593",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Okefenokee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/okefenokee/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7593, Mar. 30, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7593-establishing-okefenokee-wildlife-refuge"
+        },
+        {
+          "name": "Federal Register: Okefenokee NWR notice, Apr. 24, 2001 (established by Executive Order in 1937)",
+          "url": "https://www.federalregister.gov/documents/2001/04/24/01-10143/notice-of-intent-to-prepare-comprehensive-conservation-plans-for-okefenokee-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; EO 7593. Land was bought from the Hebard Lumber Co. in 1936, before the order.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Okefenokee National Wildlife Refuge was established in 1937 as a \"refuge and breeding ground for migratory birds and other wildlife.” The refuge conserves the unique features of the Okefenokee Swamp,the headwaters of the Suwannee and St."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

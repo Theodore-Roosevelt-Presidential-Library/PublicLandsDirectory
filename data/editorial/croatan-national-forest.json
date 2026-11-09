@@ -1,0 +1,42 @@
+{
+  "slug": "croatan-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-07-29",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Croatan: 1-F.R. 909 Established. 50 Stat. 1759",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2192, 50 Stat. 1759"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 77",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "50 Stat. 1759 (Statutes at Large, govinfo): Proclamation No. 2192, July 29, 1936, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1759.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2192, July 29, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2192-croatan-national-forest-north-carolina"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2192, July 29, 1936, 50 Stat. 1759, Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

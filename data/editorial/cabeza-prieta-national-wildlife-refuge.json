@@ -1,0 +1,40 @@
+{
+  "slug": "cabeza-prieta-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-01-25",
+      "action": "established",
+      "designation": null,
+      "name": "Cabeza Prieta Game Range",
+      "indexText": "President Franklin D. Roosevelt established the Cabeza Prieta Game Range by Executive Order 8038; it is now Cabeza Prieta National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8038",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cabeza Prieta National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cabeza-prieta/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8038—Establishing the Cabeza Prieta Game Range (Jan 25, 1939)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8038-establishing-the-cabeza-prieta-game-range"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 8038, 1939-01-25 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cabeza Prieta National Wildlife Refuge was originally established in 1939 as a Game Range for the conservation and development of natural wildlife resources."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "shell-keys-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1907-08-17",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Shell Keys Reservation",
+      "indexText": "President Theodore Roosevelt established the Shell Keys Reservation by Executive Order 682 on August 17, 1907, as a reserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 682",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Shell Keys National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/shell-keys/about-us"
+        },
+        {
+          "name": "Wikisource: Executive Order 682, Aug. 17, 1907, Establishing Shell Keys Reservation as Reserve and Breeding Ground for Birds",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_682"
+        },
+        {
+          "name": "T. S. Palmer, National Reservations for the Protection of Wild Life, USDA Biological Survey Circular 87 (1912), table of bird reservations",
+          "url": "https://archive.org/details/CAT31414456"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "TR bird reservation; date and EO confirmed. Draft signer \"Executive Order\" was a parse error, replaced with Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Shell Keys NWR was established on August 17, 1907, by Executive Order 682, to serve as a reserve and breeding ground for native birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

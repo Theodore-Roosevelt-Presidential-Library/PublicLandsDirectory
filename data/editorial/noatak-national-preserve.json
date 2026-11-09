@@ -1,6 +1,6 @@
 {
   "slug": "noatak-national-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1978-12-01",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "Proclamation 4624, 93 Stat. 1468"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 4624, 93 Stat. 1468, Noatak National Monument, Dec. 1, 1978",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1468.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 4624, Dec. 1, 1978",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-4624-noatak-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 4624; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1980-12-02",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Established as a national preserve Dec. 2, 1980",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 96-487, title II, sec. 201(8), 94 Stat. 2377"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 96-487, 94 Stat. 2371, Alaska National Interest Lands Conservation Act, sec. 201(8), approved Dec. 2, 1980",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410hh, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410hh&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "ANILCA, sec. 201(8), established Noatak National Preserve; Carter.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

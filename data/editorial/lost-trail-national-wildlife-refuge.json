@@ -1,0 +1,44 @@
+{
+  "slug": "lost-trail-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1999-08-24",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Aug. 24, 1999, as the 519th refuge in the National Wildlife Refuge System, on the former Lost Trail Ranch in northwest Montana.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lost Trail National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lost-trail/about-us"
+        },
+        {
+          "name": "Federal Register: Notice of intent for Pablo, Lost Trail and Ninepipe CCP, May 18, 2017",
+          "url": "https://www.federalregister.gov/documents/2017/05/18/2017-10111/notice-of-intent-to-prepare-a-comprehensive-conservation-plan-pablo-lost-trail-and-ninepipe-national"
+        },
+        {
+          "name": "FWS ServCat: Lost Trail NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/5952"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date right; administrative purchase, not a presidential action. Clear Clinton as signer.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lost Trail National Wildlife Refuge was established on August 24, 1999 and became the 519th refuge in the National Wildlife Refuge System."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Date conflict: the NPS environmental history dates the national cemetery to War Department General Order No. 78, Aug. 1, 1879 (citing Rickey and Greene), not Jan. 29, 1879. The order of the Secretary of War itself was not found; check the War Department order before publishing a day.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1886-12-07",
@@ -31,20 +37,34 @@
       "name": null,
       "indexText": "Proclaimed National Cemetery of Custer’s Battlefield Reservation to include burials of other campaigns and wars Dec. 7, 1886",
       "authority": {
-        "type": "presidential-proclamation",
+        "type": "executive-order",
         "signedBy": "Grover Cleveland",
         "administration": "Grover Cleveland",
-        "citation": null
+        "citation": "Executive order of Dec. 7, 1886"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS history (npshistory.com): environmental history of Little Bighorn Battlefield National Monument (NPS)",
+          "url": "https://npshistory.com/publications/libi/env-history.pdf"
+        },
+        {
+          "name": "NPS history (npshistory.com): Custer Battlefield National Monument historical handbook (NPS, 1969)",
+          "url": "https://npshistory.com/publications/../handbooks/historical/1-1969.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and President (Cleveland) are right, but the instrument was an executive order, not a proclamation: both NPS sources say the reservation was created 'by Executive order' Dec. 7, 1886. Index wording 'proclaimed' kept.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1940-07-01",
@@ -53,20 +73,30 @@
       "name": null,
       "indexText": "Transferred from War Dept. July 1, 1940",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 8428 (June 3, 1940), effective July 1, 1940"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8428, June 3, 1940 (effective July 1, 1940)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8428-revoking-executive-order-no-6228-july-28-1933-custer-battlefield"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 8428 revoked the 1933 exception for Custer Battlefield National Cemetery, transferring it to Interior effective July 1, 1940; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1946-03-22",
@@ -75,20 +105,30 @@
       "name": null,
       "indexText": "Redesignated Custer Battlefield National Monument March 22, 1946",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Act of March 22, 1946, P.L. 79-332, 60 Stat. 59"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of March 22, 1946 (Public Law 332), 60 Stat. 59, act to change the designation of Custer Battlefield National Cemetery to Custer Battlefield National Monument, approved March 22, 1946",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg59.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of March 22, 1946; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1991-12-10",
@@ -97,20 +137,34 @@
       "name": null,
       "indexText": "Renamed Dec. 10, 1991",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-201, 105 Stat. 1631"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 71",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-201, 105 Stat. 1631, act redesignating Custer Battlefield NM as Little Bighorn Battlefield NM, approved Dec. 10, 1991",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1631.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 17j–2, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j-2&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 102-201; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

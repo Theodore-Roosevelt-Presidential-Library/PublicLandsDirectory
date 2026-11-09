@@ -1,6 +1,6 @@
 {
   "slug": "minidoka-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2001-01-17",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "Proclamation 7395, 115 Stat. 2572"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 7395, 115 Stat. 2572, Establishment of the Minidoka Internment National Monument, Jan. 17, 2001",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-115/pdf/STATUTE-115-Pg2572.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 7395, Jan. 17, 2001",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7395-establishment-the-minidoka-internment-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 7395 created Minidoka Internment National Monument; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2008-05-08",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Redesignated a national historic site May 8, 2008",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "P.L. 110-229, title III, sec. 313, 122 Stat. 770"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 110-229, 122 Stat. 754, Consolidated Natural Resources Act of 2008, sec. 313, approved May 8, 2008",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-122/pdf/STATUTE-122-Pg754.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 110-229, sec. 313 redesignated it Minidoka National Historic Site; George W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

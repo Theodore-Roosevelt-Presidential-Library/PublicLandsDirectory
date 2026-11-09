@@ -1,6 +1,6 @@
 {
   "slug": "arlington-house-the-robert-e-lee-memorial",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1925-03-04",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Calvin Coolidge",
         "administration": "Calvin Coolidge",
-        "citation": null
+        "citation": "Pub. Res. No. 74, 68th Cong., Mar. 4, 1925, 43 Stat. 1356"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 43 Stat. 1356 (govinfo): Pub. Res. No. 74, 68th Cong., approved Mar. 4, 1925, restoration of the Lee Mansion",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1355-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Public Resolution 74 of Mar. 4, 1925 (Coolidge; his second inauguration day, so no change of President).",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Transferred from War Dept. Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1955-06-29",
@@ -53,20 +77,34 @@
       "name": null,
       "indexText": "Designated Custis-Lee Mansion by Congress June 29, 1955",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "P.L. 84-109 (S.J. Res. 62), 69 Stat. 190"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 69 Stat. 190 (govinfo): P.L. 84-109 (S.J. Res. 62), June 29, 1955: Lee Mansion \"officially designated as the Custis-Lee Mansion\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-69/pdf/STATUTE-69-Pg190.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Joint resolution of June 29, 1955 designated the house the Custis-Lee Mansion and dedicated it as a permanent memorial to Lee; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1972-06-30",
@@ -75,20 +113,34 @@
       "name": null,
       "indexText": "Renamed June 30, 1972",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-333, 86 Stat. 401"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 86 Stat. 401 (govinfo): P.L. 92-333, approved June 30, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg400.pdf"
+        },
+        {
+          "name": "Statutes at Large vol. 86, List of Public Laws (govinfo): P.L. 92-333, Custis-Lee Mansion name change, June 30, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-FrontMatter-1-Pgi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-333 restored the name Arlington House, The Robert E. Lee Memorial; Nixon. (The 54 U.S.C. note misprints it as 93-333.)",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,7 +1,81 @@
 {
   "slug": "natchez-trace-parkway",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
+    {
+      "date": "1925-02-06",
+      "action": "designated",
+      "designation": "National Monument",
+      "name": "Meriwether Lewis National Monument",
+      "indexText": "Meriwether Lewis National Monument (added to the parkway Aug. 10, 1961) proclaimed Feb. 6, 1925",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": "Proclamation 1730, 43 Stat. 1986"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 68",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1730, 43 Stat. 1986, Meriwether Lewis National Monument, done Feb. 6, 1925",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1986.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1730, Feb. 6, 1925",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1730-meriwether-lewis-national-monument"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Related unit: this event is the Meriwether Lewis National Monument (Proclamation 1730, Coolidge), not the parkway. Date and President are right; text now names the unit.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Ackia Battleground (authorized as a national monument Aug. 27, 1935) and the Meriwether Lewis Park (proclaimed a monument Feb. 6, 1925 and transferred from War Dept. Aug.10, 1933) were added to the parkway by act of Aug. 10, 1961"
+    },
+    {
+      "date": "1935-08-27",
+      "action": "designated",
+      "designation": "National Monument",
+      "name": "Ackia Battleground National Monument",
+      "indexText": "Ackia Battleground National Monument (added to the parkway Aug. 10, 1961) authorized Aug. 27, 1935",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Act of Aug. 27, 1935 (Public No. 362), 49 Stat. 897"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 68",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of Aug. 27, 1935 (Public No. 362), 49 Stat. 897, act providing for the Ackia Battleground National Monument, approved Aug. 27, 1935",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg897.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 87-131, 75 Stat. 335, act of Aug. 10, 1961 including Ackia Battleground and Meriwether Lewis national monuments in the parkway",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg335.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Related unit: this event is the Ackia Battleground National Monument, not the parkway. Date, act and President (FDR) are right; text now names the unit. P.L. 87-131 added it to the parkway in 1961.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Ackia Battleground (authorized as a national monument Aug. 27, 1935) and the Meriwether Lewis Park (proclaimed a monument Feb. 6, 1925 and transferred from War Dept. Aug.10, 1933) were added to the parkway by act of Aug. 10, 1961"
+    },
     {
       "date": "1938-05-18",
       "action": "established",
@@ -9,64 +83,34 @@
       "name": null,
       "indexText": "Established as a parkway under National Park Service by act of May 18, 1938",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Franklin D. Roosevelt",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 68",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1935-08-27",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "The Ackia Battleground (authorized as a national monument Aug. 27, 1935) and the Meriwether Lewis Park (proclaimed a monument Feb. 6, 1925 and transferred from War Dept. Aug.10, 1933) were added to the parkway by act of Aug. 10, 1961",
-      "authority": {
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of May 18, 1938, ch. 251, 52 Stat. 407"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 68",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1925-02-06",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "The Ackia Battleground (authorized as a national monument Aug. 27, 1935) and the Meriwether Lewis Park (proclaimed a monument Feb. 6, 1925 and transferred from War Dept. Aug.10, 1933) were added to the parkway by act of Aug. 10, 1961",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Calvin Coolidge",
-        "administration": "Calvin Coolidge",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 68",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "Statutes at Large (govinfo): Act of May 18, 1938 (Public No. 530), 52 Stat. 407, act to provide for the administration and maintenance of the Natchez Trace Parkway, approved May 18, 1938",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg407.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of May 18, 1938; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

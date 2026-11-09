@@ -1,0 +1,39 @@
+{
+  "slug": "seedskadee-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1965",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1965 under the Colorado River Storage Project Act of 1956 to offset wildlife habitat lost to Flaming Gorge and Fontenelle reservoirs on the Green River.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": null,
+        "citation": "Colorado River Storage Project Act of 1956 (70 Stat. 105), implemented 1965"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Seedskadee National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/seedskadee/about-us"
+        },
+        {
+          "name": "FWS Seedskadee NWR general brochure (2021): established in 1965 through the Colorado River Storage Project Act of 1956",
+          "url": "https://www.fws.gov/sites/default/files/documents/2021_Seedskadee_General%20Brochure.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by another FWS publication only; established administratively under a 1956 act, so no signer is set.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Seedskadee National Wildlife Refuge was established in 1965 through the Colorado River Storage Project Act of 1956."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "nantahala-national-forest",
+  "designationHistory": [
+    {
+      "date": "1920-01-29",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Nantahala: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Woodrow Wilson",
+        "citation": "Proclamation 1554, 41 Stat. 1785"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 52",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "41 Stat. 1785 (Statutes at Large, govinfo): Proclamation of Jan. 29, 1920, Woodrow Wilson, Nantahala National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1785.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1554, Jan. 29, 1920",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1554-setting-apart-the-nantahala-national-forest-georgia-north-carolina-and"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1554, Jan. 29, 1920, 41 Stat. 1785, Wilson. (Davis misprints the date as 1907.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

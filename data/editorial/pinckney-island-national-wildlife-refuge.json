@@ -1,0 +1,39 @@
+{
+  "slug": "pinckney-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1975-12-04",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established on December 4, 1975, on former plantation land of Charles Cotesworth Pinckney, donated to the U.S. Fish and Wildlife Service.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Gerald R. Ford",
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Pinckney Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/pinckney-island/about-us"
+        },
+        {
+          "name": "South Carolina Encyclopedia: Pinckney Island National Wildlife Refuge (\"established on December 4, 1975\")",
+          "url": "https://www.scencyclopedia.org/sce/?p=10525"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Date confirmed. Not a presidential action; the draft signer (Ford) is only the administration in office.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Pinckney Island NWR, established December 4, 1975, was once included in the plantation of Major General Charles Cotesworth Pinckney."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

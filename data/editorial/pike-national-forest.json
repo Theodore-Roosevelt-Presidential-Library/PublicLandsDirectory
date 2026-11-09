@@ -1,0 +1,82 @@
+{
+  "slug": "pike-national-forest",
+  "designationHistory": [
+    {
+      "date": "1892-02-11",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": "Pikes Peak Timber Land Reserve",
+      "indexText": "Pikes Peak Timber Land Reserve: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Benjamin Harrison",
+        "citation": "27 Stat. 1006"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 7",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "27 Stat. 1006 (Statutes at Large, govinfo): Proclamation No. 15, Feb. 11, 1892, Benjamin Harrison, forest reservation in Colorado",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-27/pdf/STATUTE-27-Pg1006.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 554, May 12, 1905, combining the Pikes Peak Timber Land Reserve and others as the Pikes Peak Forest Reserve",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-554-establishment-the-pikes-peak-forest-reserve-colorado"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, 27 Stat. 1006 and Harrison are right. Predecessor name restored: Pikes Peak Timber Land Reserve (OCR \"ikes Peak ^<;mber Land\"). It became the Pikes Peak Forest Reserve in 1905 and the Pike NF in 1908.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "ikes Peak ^<;mber Land: Established reserve."
+    },
+    {
+      "date": "1908-07-01",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Pike National Forest",
+      "indexText": "Pikes Peak: Land transferred to Arapaho and Leadville. Land added from Medicine Bow. Name changed to Pike.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 888"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 29",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 888: July 1, 1908, Pike National Forest, Colo., created from portions of the Pikes Peak and Medicine Bow National Forests",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 888, July 1, 1908, Theodore Roosevelt; Davis treats it as the Pikes Peak to Pike name change, with land changes.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

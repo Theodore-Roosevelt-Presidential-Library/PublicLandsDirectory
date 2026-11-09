@@ -1,0 +1,44 @@
+{
+  "slug": "lacassine-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-12-30",
+      "action": "established",
+      "designation": null,
+      "name": "Lacassine Migratory Waterfowl Refuge",
+      "indexText": "Established Dec. 30, 1937, as the Lacassine Migratory Waterfowl Refuge by Executive Order 7780, signed by President Franklin D. Roosevelt.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7780",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lacassine National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lacassine/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7780, Dec. 30, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7780-establishing-the-lacassine-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register: Lacassine NWR notice, Sept. 26, 2007",
+          "url": "https://www.federalregister.gov/documents/2007/09/26/E7-18982/lacassine-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lacassine National Wildlife Refuge was established on December 30, 1937, as Lacassine Migratory Waterfowl Refuge by the following: 1) Executive Order 7780, “...as a Refuge and breeding ground for migratory birds and other wildlife...;” 2) the Migratory Bird Conservation Act, “... for use as an inviolate 14 Lacassine National Wildlife Refuge sanctuary, or any other management purpose, for migratory"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

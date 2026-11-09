@@ -1,0 +1,40 @@
+{
+  "slug": "rice-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-10-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Rice Lake Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Rice Lake Migratory Waterfowl Refuge by Executive Order 7221 on October 31, 1935.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7221",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Rice Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/rice-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7221, Oct. 31, 1935, Establishing Rice Lake Migratory Waterfowl Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7221-establishing-rice-lake-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1935 to preserve valuable habitat for waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

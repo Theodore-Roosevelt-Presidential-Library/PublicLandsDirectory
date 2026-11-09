@@ -1,6 +1,6 @@
 {
   "slug": "wupatki-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1924-12-09",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Calvin Coolidge",
         "administration": "Calvin Coolidge",
-        "citation": null
+        "citation": "Proclamation 1721, 43 Stat. 1977"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1721, 43 Stat. 1977, Wupatki National Monument, done Dec. 9, 1924",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1977.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1721, Dec. 9, 1924",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1721-establishing-the-wupatki-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1721; Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

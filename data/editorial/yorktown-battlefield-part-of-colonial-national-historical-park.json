@@ -1,0 +1,99 @@
+{
+  "slug": "yorktown-battlefield-part-of-colonial-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "1930-07-03",
+      "action": "authorized",
+      "designation": "National Monument",
+      "name": "Colonial National Monument",
+      "indexText": "Congress provided for Colonial National Monument, to take in Jamestown Island, parts of Williamsburg and the Yorktown battlefield once the President set its boundaries.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Herbert Hoover",
+        "citation": "Act of July 3, 1930, ch. 837 (Public No. 510, 71st Cong.), 46 Stat. 855",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "46 Stat. 855 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg855.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'Colonial National Monument authorized July 3, 1930'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1930-12-30",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Colonial National Monument",
+      "indexText": "President Hoover proclaimed the boundaries of Colonial National Monument, including the Yorktown battlefield.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Herbert Hoover",
+        "citation": "Proclamation of Dec. 30, 1930, 46 Stat. 3041",
+        "signedBy": "Herbert Hoover"
+      },
+      "note": "The proclamation number was not legible in the scan and is left out.",
+      "sources": [
+        {
+          "name": "46 Stat. 3041, proclamation establishing Colonial National Monument (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3041.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'established Dec. 30, 1930'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1936-06-05",
+      "action": "renamed",
+      "designation": "National Historical Park",
+      "name": null,
+      "indexText": "Congress renamed Colonial National Monument as Colonial National Historical Park, which includes the Yorktown battlefield.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Act of June 5, 1936, ch. 525 (Public No. 666, 74th Cong.), 49 Stat. 1483",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "49 Stat. 1483 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1483.pdf"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 104), 'redesignated June 5, 1936'",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

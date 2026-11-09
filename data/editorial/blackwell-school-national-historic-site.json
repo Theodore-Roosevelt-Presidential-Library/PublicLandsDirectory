@@ -1,0 +1,68 @@
+{
+  "slug": "blackwell-school-national-historic-site",
+  "designationHistory": [
+    {
+      "date": "2022-10-17",
+      "action": "authorized",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "Congress passed the Blackwell School National Historic Site Act, which provided for the Marfa school to become a park unit once the land was acquired.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Public Law 117-206, 136 Stat. 2236",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 117-206 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ206/html/PLAW-117publ206.htm"
+        },
+        {
+          "name": "NPS, Blackwell School Laws & Policies (enabling legislation)",
+          "url": "https://www.nps.gov/blsc/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2024-07-17",
+      "action": "established",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "The Secretary of the Interior formally established Blackwell School National Historic Site after the Marfa school district agreed to donate the site.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Secretarial decision memorandum (July 17, 2024); notice of establishment, 89 FR 59771 (July 23, 2024)",
+        "signedBy": null
+      },
+      "note": "The Federal Register notice was published July 23, 2024; the decision memorandum and Interior's announcement are dated July 17.",
+      "sources": [
+        {
+          "name": "Federal Register notice, Blackwell School National Historic Site, 89 FR 59771 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2024-07-23/html/2024-16073.htm"
+        },
+        {
+          "name": "Department of the Interior press release, July 17, 2024",
+          "url": "https://www.doi.gov/pressreleases/biden-harris-administration-establishes-blackwell-school-national-historic-site"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

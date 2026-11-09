@@ -1,0 +1,40 @@
+{
+  "slug": "lower-rio-grande-valley-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1979",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1979 to connect and protect remaining native brushland and wildlife corridors along the lower Rio Grande.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Lower Rio Grande Valley National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/lower-rio-grande-valley/about-us"
+        },
+        {
+          "name": "FWS Southwest Region archived refuge page, Lower Rio Grande Valley NWR (UNT web archive, 2009): \"Established in 1979\"",
+          "url": "https://webarchive.library.unt.edu/web/20090508003429/http:/www.fws.gov/southwest/refuges/texas/lrgv.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by an archived 2009 FWS regional page (separate from today's About Us sentence). Planning documents found were image scans; a second source would be welcome.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Lower Rio Grande Valley National Wildlife Refuge was established in 1979 with a management priority to protect biodiversity."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "mcfaddin-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1980 with land bought under the Migratory Bird Conservation Act, protecting coastal marsh on the upper Texas coast.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: McFaddin National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mcfaddin/about-us"
+        },
+        {
+          "name": "Federal Register: Texas Chenier Plain refuges draft CCP notice, Oct. 17, 2006 (McFaddin established 1980)",
+          "url": "https://www.federalregister.gov/documents/2006/10/17/E6-17087/notice-of-availability-of-draft-environmental-impact-statement-draft-comprehensive-conservation-plan"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1980, the refuge was purchased under the authority of the Migratory Bird Conservation Commission."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

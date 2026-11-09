@@ -1,0 +1,33 @@
+{
+ "slug": "bear-butte-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1935-08-26",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Bear Butte became a limited-interest (easement) refuge, built on easements from private landowners, the state of South Dakota and the War Department; the Fish and Wildlife Service cites an executive order of August 26, 1935 for its purpose.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Franklin D. Roosevelt",
+    "citation": "Easement acquisition; refuge purpose cites an Executive Order of August 26, 1935",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Comprehensive Conservation Plan: Bear Butte National Wildlife Refuge, 2007 (ServCat 1388)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1388"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

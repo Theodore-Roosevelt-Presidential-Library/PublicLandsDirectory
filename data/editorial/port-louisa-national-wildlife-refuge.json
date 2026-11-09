@@ -1,0 +1,40 @@
+{
+  "slug": "port-louisa-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1958",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1958 to protect migratory birds along the Mississippi and Iowa rivers, after the Service had managed parts of the area since the early 1940s.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Port Louisa National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/port-louisa/about-us"
+        },
+        {
+          "name": "FWS, Port Louisa NWR Hunting and Fishing Regulations 2026: \"established in 1958 for the protection of migratory birds\"",
+          "url": "https://www.fws.gov/sites/default/files/documents/2026-09/portlouisa_hunt26_online.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed only by another FWS publication; authority not found. Weak sourcing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the refuge since the early 1940s, it was officially established as part of the Mark Twain National Wildlife Refuge Complex in 1958."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ed-jenkins-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1991-12-11",
+      "action": "designated",
+      "designation": "National Recreation Area",
+      "name": "Springer Mountain National Recreation Area",
+      "indexText": "The Chattahoochee National Forest Protection Act of 1991 designated the Springer Mountain National Recreation Area in Georgia.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 102-217, sec. 4, 105 Stat. 1667, 1668",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 102-217, 105 Stat. 1667 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1667.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ggg-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ggg-2"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1992-10-23",
+      "action": "renamed",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress renamed the Springer Mountain National Recreation Area the Ed Jenkins National Recreation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 102-456, 106 Stat. 2264",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 102-456, 106 Stat. 2264 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2264.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ggg-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ggg-2"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

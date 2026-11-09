@@ -1,0 +1,68 @@
+{
+  "slug": "presidio-of-san-francisco",
+  "designationHistory": [
+    {
+      "date": "1972-10-27",
+      "action": "authorized",
+      "designation": "part of Golden Gate National Recreation Area",
+      "name": null,
+      "indexText": "Congress placed the Presidio within Golden Gate National Recreation Area, to pass to the National Park Service if the Army ever declared it excess.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-589, sec. 3(f), 86 Stat. 1299",
+        "signedBy": "Richard Nixon"
+      },
+      "note": "The act gave the Park Service immediate use of 100 acres at Baker Beach and 45 acres of Crissy Field; the rest awaited a Defense Department excess determination.",
+      "sources": [
+        {
+          "name": "Public Law 92-589, 86 Stat. 1299 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1299.pdf"
+        },
+        {
+          "name": "NPS, Presidio of San Francisco, Post to Park Transition",
+          "url": "https://www.nps.gov/prsf/learn/historyculture/post-to-park.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1994-10-01",
+      "action": "transferred",
+      "designation": "part of Golden Gate National Recreation Area",
+      "name": null,
+      "indexText": "The Army left the Presidio and the post was transferred to the National Park Service as part of Golden Gate National Recreation Area.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Bill Clinton",
+        "citation": "Transfer from the Department of the Army under Public Law 92-589, sec. 3(f), after the 1989 base-closure decision",
+        "signedBy": null
+      },
+      "note": "The transfer document itself was not found; both sources are agency accounts. In 1996 Congress created the Presidio Trust (Public Law 104-333), which took over most of the non-coastal Presidio on July 1, 1998; that management change is not a designation and is not listed.",
+      "sources": [
+        {
+          "name": "NPS, Presidio of San Francisco, Post to Park Transition",
+          "url": "https://www.nps.gov/prsf/learn/historyculture/post-to-park.htm"
+        },
+        {
+          "name": "Presidio Trust press release, Oct. 1, 2019 (25th anniversary)",
+          "url": "https://presidio.gov/about/press/san-franciscos-presidio-marks-25-years-as-a-national-park-site"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "grand-canyon-preserve-national-game-refuge",
+  "trConnections": [
+    {
+      "id": "review-visit-1913-08-01",
+      "type": "visited",
+      "label": "T.R. was here",
+      "place": "Kaibab Plateau (Buckskin Mountain), North Kaibab",
+      "first": "1913-08-01",
+      "last": "1913-08-01",
+      "text": "In 1913 T.R. hunted cougars on the Kaibab Plateau with game warden Jim Owens, whose post existed because of the game preserve T.R. created in 1906, and rode down the plateau's eastern slope on his way to Lees Ferry.",
+      "sources": [
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), ch. I 'A Cougar Hunt on the Rim of the Grand Canyon' and ch. II 'Across the Navajo Desert'",
+          "url": "https://www.gutenberg.org/ebooks/34135"
+        },
+        {
+          "name": "Harvey Leake, 'Theodore Roosevelt's 1913 trip through the Navajo country,' Canyon Country Zephyr, July 30, 2019 (draws on Nicholas Roosevelt's recollections)",
+          "url": "https://canyoncountryzephyr.com/?p=14954"
+        },
+        {
+          "name": "'Uncle Jimmy Owens of the Grand Canyon,' National Parks Now and Then (Owens as first game warden of the 1906 preserve; guided T.R. in 1913)",
+          "url": "https://npnowandthen.substack.com/p/uncle-jimmy-owens-of-the-grand-canyon"
+        }
+      ],
+      "dataset": "historian-review",
+      "reviewed": true,
+      "review": {
+        "by": "HistorianPanel accuracy review, T.R. visits",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "designationHistory": [
+    {
+      "date": "1906-11-28",
+      "action": "established",
+      "designation": "Game Preserve",
+      "name": "Grand Canyon Game Preserve",
+      "indexText": "President Theodore Roosevelt designated a game preserve in the Grand Canyon Forest Reserve, Arizona Territory, for the protection of game animals.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation of Nov. 28, 1906, 34 Stat. 3263 (under Act of June 29, 1906, 34 Stat. 607)",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Signed by Theodore Roosevelt and countersigned by Secretary of State Elihu Root, Nov. 28, 1906. T.R.'s proclamation of June 23, 1908 (35 Stat. 2192) enlarged it and calls it the Grand Canyon National Game Preserve; the 1919 Grand Canyon National Park act removed park lands from it (16 U.S.C. 687). Both are boundary changes.",
+      "sources": [
+        {
+          "name": "Proclamation of Nov. 28, 1906, 34 Stat. 3263 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3263-2.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 694, Setting Aside Game Preserve in Grand Canyon Forest Reserve, Arizona",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-694-setting-aside-game-preserve-grand-canyon-forest-reserve-arizona"
+        },
+        {
+          "name": "16 U.S.C. 684 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/684"
+        },
+        {
+          "name": "Forest Service Land Areas Report, Table 17: National Game Refuges and Wildlife Preserves by State (FY2022)",
+          "url": "https://fs.usda.gov/land/staff/lar/LAR2022/LARTable17.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

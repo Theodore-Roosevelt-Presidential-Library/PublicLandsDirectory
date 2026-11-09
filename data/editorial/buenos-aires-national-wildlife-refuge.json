@@ -1,0 +1,39 @@
+{
+  "slug": "buenos-aires-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1985-08-01",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Buenos Aires National Wildlife Refuge under the Endangered Species Act to restore the masked bobwhite quail.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973 (16 U.S.C. 1534)"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Buenos Aires National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/buenos-aires/about-us"
+        },
+        {
+          "name": "USFWS, Buenos Aires National Wildlife Refuge Final Comprehensive Conservation Plan (CCP) (ServCat 118385): \"The Refuge was established on August 1, 1985 ... to conserve (A) fish or wildlife which are listed as endangered species\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/175336"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Aug. 1, 1985 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1985, the refuge was created under the authority of the Endangered Species Act."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

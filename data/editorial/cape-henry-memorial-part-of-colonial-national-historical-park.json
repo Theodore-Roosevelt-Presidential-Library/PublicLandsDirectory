@@ -1,0 +1,37 @@
+{
+  "slug": "cape-henry-memorial-part-of-colonial-national-historical-park",
+  "designationHistory": [
+    {
+      "date": "1938-06-15",
+      "action": "authorized",
+      "designation": "part of Colonial National Historical Park",
+      "name": null,
+      "indexText": "Congress authorized the Secretary of War to transfer the Cape Henry Memorial site at Fort Story to the Interior Department, to be kept by the National Park Service as part of Colonial National Historical Park.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Joint resolution of June 15, 1938, ch. 404 (Pub. Res. No. 110, 75th Cong., S.J. Res. 243), 52 Stat. 695",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "The CLI chronology gives June 15, 1938, matching the statute, but its narrative elsewhere cites 'P.L. 75-753, 52 Stat. 1208' (June 28, 1938), which is a Colonial NHP boundary act, not the Cape Henry transfer. The date the War Department actually transferred the land was not found.",
+      "sources": [
+        {
+          "name": "52 Stat. 695-696, Cape Henry Memorial joint resolution (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg696-2.pdf"
+        },
+        {
+          "name": "NPS Cultural Landscapes Inventory: Cape Henry Memorial (2023), chronology",
+          "url": "https://npshistory.com/publications/came/cli.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

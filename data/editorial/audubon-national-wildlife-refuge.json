@@ -1,0 +1,36 @@
+{
+  "slug": "audubon-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1956-05-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Snake Creek National Wildlife Refuge",
+      "indexText": "The refuge was established as Snake Creek National Wildlife Refuge on Corps of Engineers land to make up for bottomland habitat lost when Garrison Dam flooded the Missouri River.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Fish and Wildlife Coordination Act",
+        "signedBy": null
+      },
+      "note": "FWS sources disagree: the web page says May 25, 1956; the 2008 CCP and the 2026 hunt documentation say 1955. No non-FWS source found. Renamed Audubon NWR in 1967 (CCP).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Audubon NWR 'About Us' page",
+          "url": "https://www.fws.gov/refuge/audubon/about-us"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Comprehensive Conservation Plan: North Dakota National Wildlife Refuges, 2008 (ServCat 1539)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1539"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Audubon NWR 2026-2027 Hunt and Fish Compliance Documentation (ServCat 194171)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/194171"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

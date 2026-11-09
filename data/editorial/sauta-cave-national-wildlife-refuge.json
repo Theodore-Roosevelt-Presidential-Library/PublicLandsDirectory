@@ -1,0 +1,39 @@
+{
+  "slug": "sauta-cave-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1978",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1978 under the Endangered Species Act, when 264 acres around Sauta (Blowing Wind) Cave were bought to protect endangered gray and Indiana bats.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973 (land acquisition)"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Sauta Cave National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/sauta-cave/about-us"
+        },
+        {
+          "name": "Federal Register, July 21, 2005 (05-14374), Wheeler NWR complex CCP: Sauta Cave Refuge, 264 acres, \"was purchased in 1978 to provide protection for the federally endangered gray bat\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2005-07-21/pdf/05-14374.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and authority confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge established in 1978, under the authority of the Endangered Species Act of 1973 to provide protection for the federally endangered gray and Indiana bats and their crucial habitat consisting of 264 acres of hardwood forest."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

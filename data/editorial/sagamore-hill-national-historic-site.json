@@ -1,6 +1,6 @@
 {
   "slug": "sagamore-hill-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1962-07-25",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-547, 76 Stat. 217"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 83",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "76 Stat. 217 (Statutes at Large, govinfo): P.L. 87-547, July 25, 1962",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg217.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-547 authorized Sagamore Hill and T.R. Birthplace NHSs (JFK).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

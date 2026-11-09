@@ -1,6 +1,6 @@
 {
   "slug": "george-washington-memorial-parkway",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1930-05-29",
@@ -12,17 +12,27 @@
         "type": "act-of-congress",
         "signedBy": "Herbert Hoover",
         "administration": "Herbert Hoover",
-        "citation": null
+        "citation": "Act of May 29, 1930, ch. 354, 46 Stat. 482"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 46 Stat. 482 (govinfo): Act of May 29, 1930, ch. 354 (Capper-Cramton Act), approved May 29, 1930",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg482.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Capper-Cramton Act; Hoover.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,42 +41,66 @@
       "name": null,
       "indexText": "Transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 6166 consolidated the Office of Public Buildings and Public Parks of the National Capital into the National Park Service, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1989-11-28",
-      "action": "transferred",
+      "action": "renamed",
       "designation": null,
       "name": null,
       "indexText": "On Nov. 28, 1989, the road in Maryland was renamed the Clara Barton Parkway",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 101-177, 103 Stat. 1296"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 103 Stat. 1296 (govinfo): P.L. 101-177, approved Nov. 28, 1989",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-103/pdf/STATUTE-103-Pg1296.pdf"
+        },
+        {
+          "name": "Statutes at Large vol. 103, List of Public Laws (govinfo): P.L. 101-177, to redesignate a portion of the George Washington Memorial Parkway as the \"Clara Barton Parkway,\" Nov. 28, 1989",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-103/pdf/STATUTE-103-FrontMatter-1-Pgi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 101-177 renamed the Maryland section the Clara Barton Parkway; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

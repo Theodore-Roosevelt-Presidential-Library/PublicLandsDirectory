@@ -1,0 +1,40 @@
+{
+  "slug": "mountain-longleaf-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2003-05-31",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established May 31, 2003, on former Fort McClellan Army land transferred to the Fish and Wildlife Service under the Bob Stump National Defense Authorization Act for Fiscal Year 2003.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Bob Stump National Defense Authorization Act for Fiscal Year 2003, P.L. 107-314",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Mountain Longleaf National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/mountain-longleaf/about-us"
+        },
+        {
+          "name": "FWS ServCat: I&M plan, Mountain Longleaf NWR (cites USFWS 2003 \"Proposed Establishment of Mountain Longleaf NWR\" and the Bob Stump NDAA for FY2003)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/193467"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Confirmed as legislatively based (Bob Stump NDAA FY2003, signed by George W. Bush Dec. 2, 2002); May 31, 2003 is the transfer/establishment date from the FWS page. The act's section number was not checked.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The 7,759 acre refuge was legislatively established on May 31, 2003 within the former military training base of Fort McClellan."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

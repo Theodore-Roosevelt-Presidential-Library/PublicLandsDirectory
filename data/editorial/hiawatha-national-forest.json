@@ -1,0 +1,42 @@
+{
+  "slug": "hiawatha-national-forest",
+  "designationHistory": [
+    {
+      "date": "1931-01-16",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Hiawatha: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Herbert Hoover",
+        "citation": "Proclamation 1931, 46 Stat. 3043"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 68",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "46 Stat. 3043 (Statutes at Large, govinfo): Proclamation of Jan. 16, 1931, Herbert Hoover, Hiawatha National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg3043.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1931, Jan. 16, 1931",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1931-hiawatha-national-forest-michigan"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1931, Jan. 16, 1931, 46 Stat. 3043, Hoover.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,28 +1,47 @@
 {
   "slug": "fort-union-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1966-06-20",
+      "date": "1954-06-28",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized June 20, 1966",
+      "indexText": "Authorized June 28, 1954",
       "authority": {
         "type": "act-of-congress",
-        "signedBy": "Lyndon B. Johnson",
-        "administration": "Lyndon B. Johnson",
-        "citation": null
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Act of June 28, 1954, ch. 401, 68 Stat. 298"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 86",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 68 Stat. 298 (govinfo): Act of June 28, 1954, ch. 401, Fort Union National Monument; approved June 28, 1954",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg298.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450kk (Fort Union National Monument), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index-parsing error: June 20, 1966 (P.L. 89-458) is Fort Union Trading Post National Historic Site in North Dakota and Montana, a different unit. Fort Union National Monument (New Mexico) was authorized by the act of June 28, 1954 (Eisenhower).",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized June 20, 1966"
     }
   ],
   "historySource": {

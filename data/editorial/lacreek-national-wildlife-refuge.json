@@ -1,0 +1,37 @@
+{
+  "slug": "lacreek-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-08-26",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Lacreek Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Lacreek Migratory Waterfowl Refuge, about 9,362 acres in Bennett County, South Dakota, by Executive Order 7160.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7160",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Renamed Lacreek National Wildlife Refuge by Proclamation 2416, July 25, 1940.",
+      "sources": [
+        {
+          "name": "FWS ServCat: Comprehensive Conservation Plan: Lacreek NWR and Lacreek WMD (2006)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/6004"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7160",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7160-establishing-lacreek-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

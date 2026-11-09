@@ -1,0 +1,37 @@
+{
+  "slug": "clear-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1911-04-11",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Clear Lake Reservation",
+      "indexText": "William Howard Taft signed Executive Order 1332 creating the Clear Lake Reservation in northeastern California as a preserve and breeding ground for native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "William Howard Taft",
+        "citation": "Executive Order 1332",
+        "signedBy": "William Howard Taft"
+      },
+      "note": "Taft's 1912 order confirms the creation date. The text of Executive Order 1332 itself was not read. Renamed Clear Lake National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Lower Klamath, Clear Lake, Tule Lake, Upper Klamath and Bear Valley NWRs CCP/EIS, 2016 (ServCat 114424)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/114424"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1464 (Jan. 13, 1912), which reduces 'the Clear Lake Reservation, California, created by Executive Order dated April 11, 1911' (from a period government printing)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1464"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

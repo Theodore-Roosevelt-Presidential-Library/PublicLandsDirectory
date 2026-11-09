@@ -1,0 +1,39 @@
+{
+  "slug": "franz-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1990",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Franz Lake National Wildlife Refuge on the lower Columbia River.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Fish and Wildlife Act of 1956"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Franz Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/franz-lake/about-us"
+        },
+        {
+          "name": "USFWS, Steigerwald Lake National Wildlife Refuge, Franz Lake National Wildlife Refuge, and Pierce National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1492): \"Franz Lake Refuge was established in 1990 ... under the authority of the Fish and Wildlife Act\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/18758"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1990 (Columbia River Gorge refuges CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Franz Lake National Wildlife Refuge is the largest and most intact wapato and rush marsh remaining on the lower Columbia River and was established in 1990 to preserve biodiversity."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

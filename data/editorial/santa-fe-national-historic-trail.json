@@ -1,6 +1,6 @@
 {
   "slug": "santa-fe-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1987-05-08",
@@ -9,64 +9,34 @@
       "name": null,
       "indexText": "Established May 8, 1987",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 100-35, 101 Stat. 302"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1965-08-06",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "The march helped inspire passage of voting rights legislation signed by President Johnson on Aug. 6, 1965",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Lyndon B. Johnson",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1996-11-12",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Established Nov. 12, 1996",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Bill Clinton",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+          "name": "Statutes at Large (govinfo): P.L. 100-35, 101 Stat. 302, act designating the Santa Fe Trail a National Historic Trail, approved May 8, 1987",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg302.pdf"
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1244, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1244&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 100-35; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

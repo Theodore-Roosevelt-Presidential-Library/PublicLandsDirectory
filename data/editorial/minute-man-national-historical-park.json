@@ -1,6 +1,6 @@
 {
   "slug": "minute-man-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1959-04-14",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated a national historic site April 14, 1959",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Secretarial order of April 14, 1959, 24 F.R. 2997"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 65",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Minute Man, Secretarial order of April 14, 1959, 24 F.R. 2997",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Minute Man National Historic Site by Secretarial order of April 14, 1959 (24 F.R. 2997); Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1959-09-21",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Established Sept. 21, 1959",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "P.L. 86-321, 73 Stat. 590"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 65",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 86-321, 73 Stat. 590, act to provide for the establishment of Minute Man NHP, approved Sept. 21, 1959",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg590-3.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410s, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410s&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 86-321; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

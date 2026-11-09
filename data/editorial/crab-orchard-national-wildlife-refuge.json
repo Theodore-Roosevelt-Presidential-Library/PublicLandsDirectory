@@ -1,0 +1,41 @@
+{
+  "slug": "crab-orchard-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1947-08-05",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established Crab Orchard National Wildlife Refuge in southern Illinois by transferring the Crab Orchard Creek project lands and the former Illinois Ordnance Plant to the Fish and Wildlife Service, for wildlife conservation, agriculture, industry and recreation.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Harry S. Truman",
+        "citation": "Public Law 80-361",
+        "signedBy": "Harry S. Truman"
+      },
+      "note": "All give August 5, 1947; the FR notice names Public Law 80-361. The statute text itself was not read. Signer is the President in office on that date.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service notice, Federal Register, February 24, 2000 (65 FR 9290)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2000-02-24/pdf/00-4332.pdf"
+        },
+        {
+          "name": "Marion Illinois History Preservation, 'Crab Orchard National Wildlife Refuge'",
+          "url": "https://www.mihp.org/crab-orchard-national-wildlife-refuge/"
+        },
+        {
+          "name": "U.S. Fish and Wildlife Service, Crab Orchard NWR 'About Us' page",
+          "url": "https://www.fws.gov/locations/crab-orchard-national-wildlife-refuge/about-us"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

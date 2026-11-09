@@ -1,0 +1,44 @@
+{
+  "slug": "guam-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established administratively in 1993, in response to the 1984 listing of six Guam species as endangered.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Endangered Species Act of 1973",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Guam National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/guam/about-us"
+        },
+        {
+          "name": "FWS ServCat: Guam NWR draft CCP/EA (established administratively in 1993)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/117524"
+        },
+        {
+          "name": "FWS ServCat: Guam NWR CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1430"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. The draft sentence names the Ritidian Unit; the refuge itself dates from 1993.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Ritidian Unit was established in 1993 in response to the 1984 listing of six species as endangered."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

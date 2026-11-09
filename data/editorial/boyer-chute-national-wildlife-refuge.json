@@ -1,0 +1,33 @@
+{
+ "slug": "boyer-chute-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1997-09",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Boyer Chute National Wildlife Refuge on the Missouri River was authorized in 1992 and formally established in September 1997, when the Papio-Missouri River Natural Resources District donated the 1,954-acre Boyer Island property to the Fish and Wildlife Service.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Fish and Wildlife Act of 1956 and other authorities (land donation)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, DeSoto and Boyer Chute NWRs Comprehensive Conservation Plan, 2014 (ServCat 43595)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/43595"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

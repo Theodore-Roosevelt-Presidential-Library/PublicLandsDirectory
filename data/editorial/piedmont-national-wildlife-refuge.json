@@ -1,0 +1,44 @@
+{
+  "slug": "piedmont-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-01-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Piedmont Wildlife Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Piedmont Wildlife Refuge by Executive Order 8037 on January 18, 1939, on worn-out farmland bought for wildlife restoration.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8037, 4 FR 391",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Piedmont National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/piedmont/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8037, Jan. 18, 1939, Establishing the Piedmont Wildlife Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8037-establishing-the-piedmont-wildlife-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1939: EO 8037, 4 FR 391",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1939.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Piedmont National Wildlife Refuge was established in 1939 as a \"combination wildlife and game-management demonstration area\" to demonstrate that wildlife could be restored on worn out, eroded lands."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

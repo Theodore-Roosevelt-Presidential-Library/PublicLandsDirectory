@@ -1,0 +1,43 @@
+{
+  "slug": "prime-hook-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1963",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1963 under the Migratory Bird Conservation Act as a stopover and breeding area for migratory birds on the Delaware Bay shore.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Prime Hook National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/prime-hook/about-us"
+        },
+        {
+          "name": "Federal Register, May 31, 2012 (2012-13074): \"In 1963, Prime Hook NWR was established under the authority of the Migratory Bird Conservation Act\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2012-05-31/pdf/2012-13074.pdf"
+        },
+        {
+          "name": "FWS Prime Hook NWR brochure: established in 1963 under the Migratory Bird Conservation Act",
+          "url": "https://www.fws.gov/sites/default/files/documents/PrimeHookBrochure.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and authority confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Trails Rules & Policies Get Involved Events News Species Map https://www.facebook.com/coastaldelawarecomplex/ About Us Established in 1963, the refuge is an important stopover site for migratory birds as they travel up and down the Atlantic Flyway and provides protected breeding habitat for federally and State-listed threatened and endangered species, as well as many neo-tropical migrating bird sp"
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

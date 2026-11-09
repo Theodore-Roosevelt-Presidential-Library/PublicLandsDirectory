@@ -1,0 +1,39 @@
+{
+  "slug": "grand-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1992",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Grand Bay National Wildlife Refuge under the Emergency Wetlands Resources Act to protect Gulf Coast wet pine savanna.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Emergency Wetlands Resources Act of 1986"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Grand Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/grand-bay/about-us"
+        },
+        {
+          "name": "USFWS, 508 Grand Bay National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168346): \"Grand Bay NWR was established in 1992\"; \"established under the authority of the Emergency Wetlands Resources Act of 1986\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253594"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1992 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1992 to help protect one of the largest remaining expanses of Gulf Coast wet pine savanna habitat."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

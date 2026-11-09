@@ -1,0 +1,37 @@
+{
+ "slug": "seal-island-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1972-08-11",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "The U.S. Navy transferred Seal Island, a former bombing target off Vinalhaven, Maine, to the Fish and Wildlife Service in 1972 to become Seal Island National Wildlife Refuge.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Wildlife Order 96, under 16 U.S.C. 667b (transfer of surplus federal property for wildlife)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat, Establishment Documents: Seal Island NWR, Wildlife Order 96 (11 Aug 1972)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/143287"
+    },
+    {
+     "name": "FWS, Maine Coastal Islands NWR Final CCP (2005)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/43709"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

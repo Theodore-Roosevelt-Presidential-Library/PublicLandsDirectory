@@ -1,6 +1,6 @@
 {
   "slug": "george-washington-birthplace-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1930-01-23",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Established Jan. 23, 1930",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
         "administration": "Herbert Hoover",
-        "citation": null
+        "citation": "Act of Jan. 23, 1930, ch. 24, 46 Stat. 58"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "46 Stat. 58 (Statutes at Large, govinfo): ch. 24, approved Jan. 23, 1930, sec. 2 establishes the monument",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg58-2.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Jan. 23, 1930, sec. 2, established George Washington Birthplace National Monument (Hoover).",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

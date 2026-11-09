@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 9423, 81 FR 22503",
           "url": "https://www.federalregister.gov/documents/2016/04/15/2016-08970/establishment-of-the-belmont-paul-womens-equality-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 9423—Establishment of the Belmont-Paul Women's Equality National Monument, April 12, 2016",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9423-establishment-the-belmont-paul-womens-equality-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9423, 81 FR 22503, signed 2016-04-12; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

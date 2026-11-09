@@ -1,0 +1,42 @@
+{
+  "slug": "ochoco-national-forest",
+  "designationHistory": [
+    {
+      "date": "1911-06-30",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Ochoco: Established.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "William Howard Taft",
+        "citation": "Proclamation 1165, 37 Stat. 1713"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 42",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "37 Stat. 1713 (Statutes at Large, govinfo): Proclamation of June 30, 1911, William H. Taft, Ochoco National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-37/pdf/STATUTE-37-Pg1713-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1165, June 30, 1911",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1165-setting-apart-the-ochoco-national-forest-oregon"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1165, June 30, 1911 (effective July 1, 1911), 37 Stat. 1713, Taft.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

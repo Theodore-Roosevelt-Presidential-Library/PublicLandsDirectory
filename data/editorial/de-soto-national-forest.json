@@ -1,0 +1,41 @@
+{
+  "slug": "de-soto-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-06-17",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "President Franklin D. Roosevelt proclaimed the De Soto National Forest in Mississippi.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2174, June 17, 1936, 49 Stat. 3524; 1 F.R. 609",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 2174, 49 Stat. 3524 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3524.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "American Presidency Project (UC Santa Barbara), Proclamation 2174, De Soto National Forest, Mississippi",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2174-de-soto-national-forest-mississippi"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

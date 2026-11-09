@@ -1,0 +1,37 @@
+{
+  "slug": "sawtooth-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1972-08-22",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Sawtooth National Recreation Area in Idaho.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-400, sec. 1, 86 Stat. 612",
+        "signedBy": "Richard Nixon"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 92-400, 86 Stat. 612 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg612.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460aa (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460aa"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

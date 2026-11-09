@@ -1,0 +1,37 @@
+{
+  "slug": "maine-acadian-culture",
+  "designationHistory": [
+    {
+      "date": "1990-11-08",
+      "action": "authorized",
+      "designation": "Maine Acadian Culture (National Park Service partnership program)",
+      "name": null,
+      "indexText": "Congress passed the Maine Acadian Culture Preservation Act, which created a preservation commission and let the National Park Service support Acadian sites in Maine's Saint John Valley through cooperative agreements.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-543, 104 Stat. 2389",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": "This is a partnership program, not a park unit; the act did not create a park.",
+      "sources": [
+        {
+          "name": "Public Law 101-543, 104 Stat. 2389 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2389.pdf"
+        },
+        {
+          "name": "16 U.S.C. 461 notes (Cornell LII), 'Maine Acadian Culture Preservation Act'",
+          "url": "https://www.law.cornell.edu/uscode/text/16/461"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

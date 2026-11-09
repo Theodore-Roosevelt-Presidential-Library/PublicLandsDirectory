@@ -1,0 +1,39 @@
+{
+  "slug": "cape-may-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1989-01-20",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Cape May National Wildlife Refuge by administrative action.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Fish and Wildlife Act of 1956 (16 U.S.C. 742f)"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Cape May National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/cape-may/about-us"
+        },
+        {
+          "name": "USFWS, Cape May National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1399): \"The Cape May National Wildlife Refuge was created on January 20, 1989 administratively under authority of the Fish and Wildlife Act of 1956\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1374"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Jan. 20, 1989 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cape May National Wildlife Refuge About Us What We Do Projects & Research Law Enforcement Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Library Species Map About Us Established in 1989, Cape May National Wildlife Refuge provides critical habitat to a wide variety of migratory birds and other wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

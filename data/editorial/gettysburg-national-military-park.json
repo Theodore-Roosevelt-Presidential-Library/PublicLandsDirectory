@@ -1,7 +1,44 @@
 {
   "slug": "gettysburg-national-military-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
+    {
+      "date": "1870-07-14",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Gettysburg National Cemetery: joint resolution of July 14, 1870 authorized the War Department to take charge (transfer completed 1872)",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Ulysses S. Grant",
+        "administration": "Ulysses S. Grant",
+        "citation": "Res. No. 117, July 14, 1870, 16 Stat. 390"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 16 Stat. 390 (govinfo): Res. No. 117, July 14, 1870, authorizing the Secretary of War to take charge of Gettysburg and Antietam National Cemeteries",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg390-4.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg (Soldiers') National Cemetery transferred to the War Department April 18, 1872, under the act of July 14, 1870",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "This Index line belongs to the national cemetery. The joint resolution of July 14, 1870 (Grant) authorized the War Department to take charge; the actual transfer came in 1872.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Placed under War Dept. July 14, 1870"
+    },
     {
       "date": "1895-02-11",
       "action": "established",
@@ -9,20 +46,34 @@
       "name": null,
       "indexText": "Park: Established Feb. 11, 1895",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Grover Cleveland",
         "administration": "Grover Cleveland",
-        "citation": null
+        "citation": "Act of Feb. 11, 1895, ch. 80, 28 Stat. 651"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 28 Stat. 651 (govinfo): Act of Feb. 11, 1895, ch. 80, to establish a national military park at Gettysburg",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg651.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg act of Feb. 11, 1895",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/10_Appendix_I_I_National_Military_Parks.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Feb. 11, 1895; Cleveland.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
@@ -31,64 +82,67 @@
       "name": null,
       "indexText": "Transferred from War Dept. Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1870-07-14",
-      "action": "transferred",
-      "designation": null,
-      "name": null,
-      "indexText": "Placed under War Dept. July 14, 1870",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Ulysses S. Grant",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1933-08-10",
       "action": "transferred",
       "designation": null,
       "name": null,
-      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "indexText": "Gettysburg National Cemetery transferred from the War Department, Aug. 10, 1933",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg National Cemetery transferred to NPS Aug. 10, 1933",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "This Index line belongs to the national cemetery. Transfer under EO 6166, effective Aug. 10, 1933 (FDR).",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Transferred from War Dept. Aug. 10, 1933"
     }
   ],
   "historySource": {

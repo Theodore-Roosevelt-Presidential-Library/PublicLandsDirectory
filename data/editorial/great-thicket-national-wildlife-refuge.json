@@ -1,0 +1,37 @@
+{
+  "slug": "great-thicket-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2016-10-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Interior Secretary Sally Jewell announced the Great Thicket National Wildlife Refuge, approving a plan to acquire up to 15,000 acres of young forest and shrubland in ten focus areas across six northeastern states for New England cottontail and other wildlife.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Barack Obama",
+        "citation": "Secretarial approval of the refuge's land protection plan",
+        "signedBy": null
+      },
+      "note": "DOI release dated October 25, 2016; the Monitor says the refuge was finalized 'on Tuesday', and October 25, 2016 was a Tuesday. The date of the first land interest acquired (formal establishment) was not found.",
+      "sources": [
+        {
+          "name": "U.S. Department of the Interior news release, Oct. 25, 2016, 'Secretary Jewell Announces Great Thicket National Wildlife Refuge'",
+          "url": "https://www.doi.gov/pressreleases/secretary-jewell-announces-great-thicket-national-wildlife-refuge"
+        },
+        {
+          "name": "Christian Science Monitor, 'Northeast United States will have new national wildlife refuge', Oct. 26, 2016",
+          "url": "https://csmonitor.com/Environment/2016/1026/Northeast-United-States-will-have-new-national-wildlife-refuge"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

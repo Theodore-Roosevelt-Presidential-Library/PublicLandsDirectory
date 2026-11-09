@@ -1,0 +1,40 @@
+{
+  "slug": "harris-neck-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1962-05-25",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established May 25, 1962, when Wildlife Order 63 transferred the former Harris Neck Army Airfield from the General Services Administration to Interior.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Wildlife Order 63 (transfer from the General Services Administration)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Harris Neck National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/harris-neck/about-us"
+        },
+        {
+          "name": "FWS ServCat: Harris Neck NWR Hunt Plan 2021: Wildlife Order 63, May 25, 1962; date established May 25, 1962",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/135342"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; FWS hunt plan gives the transfer date.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Harris Neck National Wildlife Refuge was established in 1962 and has since served as a premier nesting, foraging, and wintering habitat for many species of wildlife."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "medgar-and-myrlie-evers-home-national-monument",
+  "designationHistory": [
+    {
+      "date": "2019-03-12",
+      "action": "authorized",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Congress provided for Medgar and Myrlie Evers Home National Monument in Jackson, Mississippi, in the John D. Dingell, Jr. Conservation, Management, and Recreation Act.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Donald J. Trump",
+        "citation": "Public Law 116-9, sec. 2301, 133 Stat. 743",
+        "signedBy": "Donald J. Trump"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 116-9 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+        },
+        {
+          "name": "NPS, Medgar and Myrlie Evers Home Laws & Policies",
+          "url": "https://www.nps.gov/memy/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2020-11-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "The Secretary of the Interior established Medgar and Myrlie Evers Home National Monument after Tougaloo College conveyed the family home to the National Park Service.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Donald J. Trump",
+        "citation": "Secretarial decision memorandum (Nov. 9, 2020); notice of establishment, 85 FR 78354 (Dec. 4, 2020)",
+        "signedBy": null
+      },
+      "note": "Interior publicly announced the establishment on Dec. 10, 2020; the decision memorandum that established the monument is dated Nov. 9, 2020. The home was conveyed June 18, 2020.",
+      "sources": [
+        {
+          "name": "Federal Register notice of establishment, 85 FR 78354 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-04/html/2020-26693.htm"
+        },
+        {
+          "name": "NPS History Collection, Medgar and Myrlie Evers Home NM (established Nov. 9, 2020)",
+          "url": "https://npshistory.com/publications/memy/index.htm"
+        },
+        {
+          "name": "Department of the Interior press release, Dec. 10, 2020",
+          "url": "https://www.doi.gov/pressreleases/trump-administration-establishes-medgar-and-myrlie-evers-home-national-monument"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

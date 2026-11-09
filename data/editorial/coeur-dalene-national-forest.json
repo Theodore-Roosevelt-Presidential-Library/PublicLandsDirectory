@@ -1,0 +1,42 @@
+{
+  "slug": "coeur-dalene-national-forest",
+  "designationHistory": [
+    {
+      "date": "1906-11-06",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Coeur d1Alene: Established reserve.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 683, 34 Stat. 3256"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 18",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3256 (Statutes at Large, govinfo): Proclamation of Nov. 6, 1906, Theodore Roosevelt, Coeur d'Alene Forest Reserve (begins on p. 3256)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3255.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 683, Nov. 6, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-683-setting-apart-the-coeur-dalene-forest-reserve-idaho"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 683, Nov. 6, 1906, 34 Stat. 3256, Theodore Roosevelt. (govinfo files the page with the preceding document at p. 3255; the Coeur d'Alene text begins on p. 3256.)",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,6 +1,6 @@
 {
   "slug": "christiansted-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1952-03-04",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated Virgin Islands National Historic Site March 4, 1952",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Secretarial designation order of March 4, 1952"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Christiansted order of Jan. 16, 1961, superseding \"Designation Order of March 4, 1952\" for the Virgin Islands National Historic Site",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Virgin Islands National Historic Site by Secretarial order of March 4, 1952; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1961-01-16",
@@ -31,20 +41,30 @@
       "name": null,
       "indexText": "Renamed Jan. 16, 1961",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "Secretarial order of Jan. 16, 1961, 26 F.R. 689"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Designation order of Jan. 16, 1961, 26 F.R. 689, changing the name to Christiansted National Historic Site",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of Jan. 16, 1961 (26 F.R. 689); Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

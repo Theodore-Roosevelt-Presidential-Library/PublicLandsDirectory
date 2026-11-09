@@ -1,0 +1,68 @@
+{
+  "slug": "admiralty-island-national-monument",
+  "designationHistory": [
+    {
+      "date": "1978-12-01",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Admiralty Island National Monument",
+      "indexText": "President Carter proclaimed Admiralty Island National Monument under the Antiquities Act.",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Jimmy Carter",
+        "citation": "Proclamation 4611, Dec. 1, 1978, 93 Stat. 1446",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Proclamation 4611, 93 Stat. 1446 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1446.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes, 'National Monuments Established Under Presidential Proclamation' (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1980-12-02",
+      "action": "redesignated",
+      "designation": "National Monument",
+      "name": "Admiralty Island National Monument",
+      "indexText": "The Alaska National Interest Lands Conservation Act established Admiralty Island National Monument by statute within the Tongass National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-487, title V, sec. 503(b), 94 Stat. 2371, 2399",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 96-487 (ANILCA), 94 Stat. 2371 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "54 U.S.C. 320301 notes (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "bowdoin-wetland-management-district",
+  "designationHistory": [
+    {
+      "date": "1936",
+      "action": "established",
+      "designation": "Wetland Management District",
+      "name": null,
+      "indexText": "Roosevelt established Bowdoin Migratory Waterfowl Refuge in 1936, the Bureau of Biological Survey (a precursor to the U.S.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bowdoin Wetland Management District, About Us",
+          "url": "https://www.fws.gov/refuge/bowdoin/about-us"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Draft sentence is about Bowdoin NWR (EO 7295, 1936), not the wetland management district. No establishment date for the WMD was found; check the Bowdoin WMD CCP.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "north-platte-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1916-08-21",
+   "action": "established",
+   "designation": "Bird Reservation",
+   "name": "North Platte Reservation",
+   "indexText": "President Woodrow Wilson reserved four Reclamation Service reservoirs west of Scottsbluff, Nebraska, including Lakes Alice and Minatare and Winters Creek Lake, as the North Platte Reservation, a preserve and breeding ground for native birds, by Executive Order 2446.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Woodrow Wilson",
+    "citation": "Executive Order 2446",
+    "signedBy": "Woodrow Wilson"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: Establishment Documents - North Platte Reservation (printed order, 21 August 1916, No. 2446)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/141008"
+    },
+    {
+     "name": "FWS ServCat: North Platte NWR Comprehensive Conservation Plan (2001)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1535"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 2416 (July 25, 1940), renaming North Platte Reservation",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "toppenish-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1964",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Toppenish National Wildlife Refuge in Washington's Yakima Valley was established in 1964 with the purchase of the 40-acre Cloe Tract, after the Migratory Bird Conservation Commission authorized it on August 21, 1962.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Commission approval (Aug. 21, 1962); first purchase 1964",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Toppenish NWR Inventory and Monitoring Plan (2020)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/116439"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

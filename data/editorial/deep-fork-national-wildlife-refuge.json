@@ -1,0 +1,39 @@
+{
+  "slug": "deep-fork-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1993",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Deep Fork National Wildlife Refuge to protect bottomland hardwood forest along the Deep Fork River.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Deep Fork National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/deep-fork/about-us"
+        },
+        {
+          "name": "USFWS, Deep Fork National Wildlife Refuge Integrated Pest Management Plan (ServCat 175315): \"Deep Fork NWR was established in 1993 to protect the remaining bottomland hardwood forests along the Deep Fork River\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/261556"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described the National Trails System Act (1968). Refuge: 1993 (CCP). Authority not confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Recreation Trails were established by the National Trails System Act of 1968 (Public Law 90-543), which authorized creation of a national trails system composed of National Recreation Trails, National Scenic Trails and National Historic Trails."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "san-pablo-bay-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1970",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Formally established in 1970 under the Migratory Bird Conservation Act as an inviolate sanctuary for migratory birds; the first lands were acquired in 1974.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: San Pablo Bay National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/san-pablo-bay/about-us"
+        },
+        {
+          "name": "Federal Register, July 26, 2006 (E6-11915), San Pablo Bay NWR CCP notice: \"the Refuge was formally established in 1970, lands were not acquired until 1974\"; established \"for use as an inviolate sanctuary ... for migratory birds\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-07-26/pdf/E6-11915.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft 1974 is the first land acquisition, taken from a timeline line about the acquisition boundary. Formal establishment was 1970.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "San Pablo Bay National Wildlife Refuge acquisition boundary was established to include 23,702 acres 1974 – The first refuge lands were acquired by the U.S."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

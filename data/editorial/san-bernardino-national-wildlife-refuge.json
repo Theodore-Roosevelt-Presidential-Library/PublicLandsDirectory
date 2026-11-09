@@ -1,0 +1,39 @@
+{
+  "slug": "san-bernardino-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1982",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1982 when the U.S. Fish and Wildlife Service acquired part of the San Bernardino Ranch to protect its springs and endangered native fishes.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land acquisition"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: San Bernardino National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/san-bernardino/about-us"
+        },
+        {
+          "name": "FWS Southwest Region, San Bernardino NWR page (archived 2009): ranch land \"acquired by the U.S. Fish and Wildlife Service in 1982\" to protect water and endangered native fishes",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090115085342/http:/www.fws.gov/southwest/refuges/arizona/sanbernardino.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by an older FWS regional page only; weak independent sourcing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1982 to protect what remained of the unique wetlands of the San Bernardino ciénega, a wetland that was historically considered the largest, most extensive in the region."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

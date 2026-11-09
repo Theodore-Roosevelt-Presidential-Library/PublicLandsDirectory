@@ -1,0 +1,41 @@
+{
+  "slug": "southern-maryland-woodlands-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2024-12",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The Interior Department established Southern Maryland Woodlands National Wildlife Refuge in December 2024 when The Nature Conservancy donated a first 31-acre tract near Nanjemoy in Charles County, Maryland.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Secretary of the Interior; donation of first parcel by The Nature Conservancy",
+        "signedBy": null
+      },
+      "note": "Pass A (FWS: established by the Secretary of the Interior on December 6, 2024, when the first parcel was donated; celebrated with Secretary Haaland on Friday, December 13, 2024) and Pass B (Baltimore Fishbowl, December 13, 2024: establishment announced, 31-acre parcel near Nanjemoy) agree on December 2024 and the first parcel. The exact day, December 6, rests on the FWS page alone, so only the month is given.",
+      "sources": [
+        {
+          "name": "Baltimore Fishbowl, \"State's first national wildlife refuge in over 60 years established in Southern Maryland\" (Dec. 13, 2024)",
+          "url": "https://baltimorefishbowl.com/stories/states-first-national-wildlife-refuge-in-over-60-years-established-in-southern-maryland/"
+        },
+        {
+          "name": "FWS press release, \"Secretary Haaland establishes Southern Maryland Woodlands National Wildlife Refuge\" (Dec. 16, 2024)",
+          "url": "https://www.fws.gov/press-release/2024-12/secretary-haaland-establishes-southern-maryland-woodlands-national-wildlife"
+        },
+        {
+          "name": "FWS, Southern Maryland Woodlands NWR page",
+          "url": "https://www.fws.gov/refuge/southern-maryland-woodlands"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

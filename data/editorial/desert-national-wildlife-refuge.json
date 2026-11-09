@@ -1,0 +1,40 @@
+{
+  "slug": "desert-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-05-20",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Desert Game Range",
+      "indexText": "President Franklin D. Roosevelt established the Desert Game Range by Executive Order 7373; it is now Desert National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7373",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Desert National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/desert/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7373—Establishing the Desert Game Range, Nevada (May 20, 1936)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7373-establishing-the-desert-game-range-nevada"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 7373, 1936-05-20 (Franklin D. Roosevelt). Draft date field held \"7373\" (the EO number).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Roosevelt established the Desert Game Range for “the conservation and development of natural wildlife resources” ( Executive Order 7373 )."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

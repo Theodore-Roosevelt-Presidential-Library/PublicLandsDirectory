@@ -1,6 +1,6 @@
 {
   "slug": "ocmulgee-mounds-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1934-06-14",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of June 14, 1934, ch. 519, 48 Stat. 958"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of June 14, 1934 (Public No. 350), 48 Stat. 958, act to authorize the establishment of the Ocmulgee National Monument, approved June 14, 1934",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg958-3.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410yyy, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410yyy&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 14, 1934; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1936-12-23",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Established December 23, 1936",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "presidential-proclamation",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Proclamation 2212, 50 Stat. 1798"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 2212, 50 Stat. 1798, Ocmulgee National Monument, Ga., Dec. 23, 1936",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1798.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2212, Dec. 23, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2212-ocmulgee-national-monument-georgia"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2212 established the monument under the 1934 act; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

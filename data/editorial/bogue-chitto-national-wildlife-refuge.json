@@ -1,0 +1,44 @@
+{
+  "slug": "bogue-chitto-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-06-28",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established Bogue Chitto National Wildlife Refuge.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-288, 94 Stat. 603",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bogue Chitto National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bogue-chitto/about-us"
+        },
+        {
+          "name": "Public Law 96-288, June 28, 1980, 94 Stat. 603 (govinfo): \"To establish the Bogue Chitto National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg603.pdf"
+        },
+        {
+          "name": "USFWS, 508 Bogue Chitto National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168185): lands approved under 94 Stat. 604, dated June 28, 1980",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253375"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 96-288, June 28, 1980 (Carter). The CCP elsewhere says signed June 30; the statute is dated June 28.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bogue Chitto National Wildlife Refuge, established in 1980, straddles the borders of Louisiana and Mississippi, bisected by the Pearl River."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

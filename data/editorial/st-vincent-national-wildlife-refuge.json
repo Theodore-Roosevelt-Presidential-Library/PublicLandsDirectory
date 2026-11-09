@@ -1,0 +1,40 @@
+{
+  "slug": "st-vincent-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1968",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1968 after The Nature Conservancy bought St. Vincent Island and the U.S. Fish and Wildlife Service repaid it with Duck Stamp funds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (Duck Stamp funds)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: St. Vincent National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/st-vincent/about-us"
+        },
+        {
+          "name": "FWS St. Vincent NWR general brochure (archived 2013): island bought by The Nature Conservancy for $2.2 million, repaid with Duck Stamp funds; \"Established as St. Vincent National Wildlife Refuge\" in 1968",
+          "url": "https://webarchive.library.unt.edu/web/20130302071725/http://www.fws.gov/southeast/pubs/svngen.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft took a timeline line about the Port of Apalachicola (1822) and \"Native Americans\" as signer. Refuge dates to 1968. Source is an older FWS brochure; confirm with the CCP if possible.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Up until the Port of Apalachicola was established in 1822, land around the Apalachicola area was occupied by Native Americans."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

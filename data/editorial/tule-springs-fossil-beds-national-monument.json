@@ -1,6 +1,6 @@
 {
   "slug": "tule-springs-fossil-beds-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2014-12-19",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 113-291, div. B, sec. 3092(a), 128 Stat. 3292"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 113-291, 128 Stat. 3292, Carl Levin and Howard P. 'Buck' McKeon NDAA for FY2015, approved Dec. 19, 2014",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-Pg3292.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460ccc–4, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ccc-4&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 113-291, sec. 3092(a) established the monument; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

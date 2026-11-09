@@ -1,0 +1,72 @@
+{
+  "slug": "amache-national-historic-site",
+  "designationHistory": [
+    {
+      "date": "2022-03-18",
+      "action": "authorized",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "Congress passed the Amache National Historic Site Act, which provided for the site to become a unit of the National Park System once enough land was acquired.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Public Law 117-106, 136 Stat. 1122",
+        "signedBy": "Joseph R. Biden Jr."
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 117-106 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ106/html/PLAW-117publ106.htm"
+        },
+        {
+          "name": "NPS, Amache Laws & Policies (park history)",
+          "url": "https://www.nps.gov/amch/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2024-02-15",
+      "action": "established",
+      "designation": "National Historic Site",
+      "name": null,
+      "indexText": "The Secretary of the Interior formally established Amache National Historic Site after the Town of Granada acquired and donated the needed land.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Secretarial decision memorandum (Feb. 9, 2024); notice of establishment, 89 FR 12379 (Feb. 16, 2024)",
+        "signedBy": null
+      },
+      "note": "Interior and NPS give Feb. 15, 2024. The Federal Register notice says the Secretary signed the decision memorandum Feb. 9 and that the site is established with the memo and the notice, which was published Feb. 16.",
+      "sources": [
+        {
+          "name": "Federal Register notice, Amache National Historic Site, 89 FR 12379 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2024-02-16/html/2024-03250.htm"
+        },
+        {
+          "name": "Department of the Interior press release, Feb. 15, 2024",
+          "url": "https://www.doi.gov/pressreleases/amache-national-historic-site-formally-established-americas-newest-national-park"
+        },
+        {
+          "name": "NPS, Amache Laws & Policies (park history)",
+          "url": "https://www.nps.gov/amch/learn/management/lawsandpolicies.htm"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

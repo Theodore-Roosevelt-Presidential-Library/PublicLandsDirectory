@@ -1,0 +1,44 @@
+{
+  "slug": "monomoy-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1944",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1944 under the Migratory Bird Conservation Act, through a Declaration of Taking, to provide habitat for migratory birds.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act (Declaration of Taking)",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Monomoy National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/monomoy/about-us"
+        },
+        {
+          "name": "Federal Register: Monomoy NWR final CCP notice, Oct. 30, 2015 (established 1944 under the MBCA)",
+          "url": "https://www.federalregister.gov/documents/2015/10/30/2015-27439/monomoy-national-wildlife-refuge-barnstable-county-ma-final-comprehensive-conservation-plan-and"
+        },
+        {
+          "name": "FWS ServCat: Monomoy NWR CCP (established 1944 under a Declaration of Taking)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/98416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Monomoy National Wildlife Refuge was established in 1944 to provide habitat for migratory birds."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

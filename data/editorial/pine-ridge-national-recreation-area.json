@@ -1,0 +1,37 @@
+{
+  "slug": "pine-ridge-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1986-10-20",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "Congress established the Pine Ridge National Recreation Area in the Nebraska National Forest.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Ronald Reagan",
+        "citation": "Public Law 99-504, title II, sec. 201, 100 Stat. 1802, 1804",
+        "signedBy": "Ronald Reagan"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 99-504, 100 Stat. 1802 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg1802.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460rr (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460rr"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

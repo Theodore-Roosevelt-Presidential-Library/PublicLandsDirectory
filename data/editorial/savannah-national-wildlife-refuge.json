@@ -1,0 +1,44 @@
+{
+  "slug": "savannah-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1927-04-06",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Savannah River Bird Refuge",
+      "indexText": "President Calvin Coolidge created the Savannah River Bird Refuge by Executive Order 4626 on April 6, 1927, for the protection of native birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Calvin Coolidge",
+        "citation": "Executive Order 4626",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Savannah National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/savannah/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5748, Nov. 12, 1931, Savannah River Wild Life Refuge (revokes \"Executive Order No. 4626, dated April 6, 1927, creating the Savannah River Bird Refuge\")",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5748-savannah-river-wild-life-refuge-georgia-and-south-carolina"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Year confirmed; exact date, EO number, signer and earlier name added from the recital in EO 5748 (Hoover, 1931), which re-established it as the Savannah River Wild Life Refuge.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Savannah National Wildlife Refuge was established in 1927 as a sanctuary for migratory birds, most notably wintering waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

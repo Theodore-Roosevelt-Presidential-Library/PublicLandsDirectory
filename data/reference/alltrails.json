@@ -767,6 +767,13 @@
      "miles": 7.6,
      "difficulty": "Easy",
      "route": "Out & back"
+    },
+    {
+     "name": "Swallow Nest Trail",
+     "url": "https://www.alltrails.com/trail/us/idaho/swallow-nest-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
     }
    ],
    "from": "AllTrails connector",
@@ -8852,7 +8859,5025 @@
    ],
    "from": "AllTrails connector",
    "gathered": "2026-11-09"
+  },
+  "agassiz-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/agassiz-national-wildlife-refuge",
+   "label": "Agassiz National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Agassiz Headquarters Hiking Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/agassiz-headquarters-hiking-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Rodahl Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/rodahl-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Maakstad Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/maakstad-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "alamosa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/colorado/alamosa-national-wildlife-refuge",
+   "label": "Alamosa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Alamosa National Wildlife Refuge River Road Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/alamosa-national-wildlife-refuge-river-road-trail",
+     "miles": 3.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Bluff Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/bluff-nature-trail-2",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "alligator-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/alligator-river-national-wildlife-refuge",
+   "label": "Alligator River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Sandy Ridge Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/sandy-ridge-wildlife-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Creef Cut Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/creef-cut-wildlife-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Sawyer Lake and Milltail Creek Paddle Route",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/sawyer-lake-and-milltail-creek",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ankeny-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/ankeny-national-wildlife-refuge",
+   "label": "Ankeny National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ankeny Rail Trail to Observation Blind [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/ankeny-rail-trail-to-observation-blind",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Ankeny National Wildlife Refuge: Rail Trail Loop [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/ankeny-national-wildlife-refuge-rail-trail-loop",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Ankeny Hill Nature Center Loop [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/ankeny-hill-nature-center-loop",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "antioch-dunes-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/antioch-dunes-national-wildlife-refuge",
+   "label": "Antioch Dunes National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Stamm Unit Trail [PRIVATE PROPERTY]",
+     "url": "https://www.alltrails.com/trail/us/california/stamm-unit-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "aransas-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/aransas-national-wildlife-refuge",
+   "label": "Aransas National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Heron Flats Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/heron-flats-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Big Tree Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/big-tree-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "arapaho-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/colorado/arapaho-wildlife-refuge",
+   "label": "Arapaho Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Arapaho Wildlife Refuge Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/arapaho-wildlife-refuge-nature-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Arapaho National Wildlife Refuge Auto Route",
+     "url": "https://www.alltrails.com/trail/us/colorado/arapaho-national-wildlife-refuge-auto-route",
+     "miles": 5.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "aroostook-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maine/aroostook-national-wildlife-refuge",
+   "label": "Aroostook National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Aroostook National Wildlife Refuge Beaver Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/aroostook-national-wildlife-refuge-beaver-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Beaver Pond Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/maine/beaver-pond-trail-loop",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Don Lima Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/don-lima-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "arrowwood-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-dakota/arrowwood-national-wildlife-refuge",
+   "label": "Arrowwood National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Historic Fort Totten Trail",
+     "url": "https://www.alltrails.com/trail/us/north-dakota/historic-fort-totten-trail",
+     "miles": 20,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "arthur-r-marshall-loxahatchee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/arthur-r-marshall-loxahatchee-national-wildlife-refuge",
+   "label": "Arthur R. Marshall Loxahatchee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cypress Swamp and Marsh Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/cypress-swamp-and-marsh-loop-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "L-40 North of Lee Rd Boat Ramp",
+     "url": "https://www.alltrails.com/trail/us/florida/l-40-north-of-lee-rd-boat-ramp",
+     "miles": 5.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Loxahatchee Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/loxahatchee-marsh-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ash-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/ash-meadows-national-wildlife-refuge",
+   "label": "Ash Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Crystal Springs Loop",
+     "url": "https://www.alltrails.com/trail/us/nevada/crystal-springs-loop",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Point of Rocks Springs",
+     "url": "https://www.alltrails.com/trail/us/nevada/point-of-rocks-springs",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Long Street Cabin Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/long-street-cabin",
+     "miles": 0.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "assabet-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/massachusetts/assabet-river-national-wildlife-refuge",
+   "label": "Assabet River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Winterberry Way, Harrys Way, and Otter Alley Loop",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/winterberry-way-harrys-way-otter-alley",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Winterberry Way, Taylor Way and Harry's Way Loop",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/winterberry-way-taylor-way-and-harrys-way-loop",
+     "miles": 5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Petapawg, Towhee, Harry's and Tri-Town Loop",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/petapawg-towhee-harrys-and-tri-town-loop",
+     "miles": 3.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "attwater-prairie-chicken-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/attwater-prairie-chicken-national-wildlife-refuge",
+   "label": "Attwater Prairie Chicken National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Sycamore Trail and Horseshoe Lake Loop",
+     "url": "https://www.alltrails.com/trail/us/texas/sycamore-trail-and-horseshoe-lake-loop",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "back-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/back-bay-national-wildlife-refuge",
+   "label": "Back Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dunes and Seaside Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/dunes-and-seaside-trail",
+     "miles": 1.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Back Bay National Wildlife Refuge Bay Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/back-bay-national-wildlife-refuge-bay-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Lotus Pond Paddle",
+     "url": "https://www.alltrails.com/trail/us/virginia/lotus-pond-paddle",
+     "miles": 6.6,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "balcones-canyonlands-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/balcones-canyonlands-national-wildlife-refuge",
+   "label": "Balcones Canyonlands National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Vista Knoll and Ridgeline Loop Via Cactus Rocks Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/vista-knoll-and-ridgeline-loop-via-cactus-rocks-trail",
+     "miles": 3.1,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Doeskin Ranch Grand Tour Loop",
+     "url": "https://www.alltrails.com/trail/us/texas/indiangrass-rimrock-and-creek-loop",
+     "miles": 3.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Cactus Rocks Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/cactus-rocks-trail",
+     "miles": 1.2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "banks-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/georgia/banks-lake-national-wildlife-refuge",
+   "label": "Banks Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Banks Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/georgia/banks-lake-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Banks Lake Paddle Route",
+     "url": "https://www.alltrails.com/trail/us/georgia/banks-lake-paddle",
+     "miles": 4.3,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "baskett-slough-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/baskett-slough-national-wildlife-refuge",
+   "label": "Baskett Slough National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Baskett Slough, Morgan Lake, Mount Baldy Trail [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/baskett-slough-morgan-lake-mount-baldy-trail",
+     "miles": 4.8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Baskett Bluff Loop [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/baskett-bluff-loop",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Rich Guadagno Memorial National Recreation Trail [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/rich-guadagno-memorial-national-recreation-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bayou-cocodrie-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/bayou-cocodrie-national-wildlife-refuge",
+   "label": "Bayou Cocodrie National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bayou Cocodrie Blue Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/bayou-cocodrie-blue-trail",
+     "miles": 3.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "BBU Yellow, Green, Grey Loop",
+     "url": "https://www.alltrails.com/trail/us/louisiana/bbu-yellow-green-grey-loop",
+     "miles": 6.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bayou-sauvage-urban-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/bayou-sauvage-nation-wildlife-refuge",
+   "label": "Bayou Sauvage Nation Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ridge Trail Boardwalk",
+     "url": "https://www.alltrails.com/trail/us/louisiana/ridge-trail-boardwalk",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bayou Sauvage Ridge Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/bayou-sauvage-ridge-trail",
+     "miles": 6.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Joe Madere Marsh Boardwalk",
+     "url": "https://www.alltrails.com/trail/us/louisiana/joe-madere-marsh-boardwalk",
+     "miles": 0.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bayou-teche-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/bayou-teche-national-wildlife-refuge",
+   "label": "Bayou Teche National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Garden City Interpretive Boardwalk Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/garden-city-interpretive-boardwalk-trail--2",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bear-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/idaho/bear-lake-national-wildlife-refuge",
+   "label": "Bear Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bear Lake National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/idaho/bear-lake-national-wildlife-refuge--2",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Rainbow Loop",
+     "url": "https://www.alltrails.com/trail/us/idaho/rainbow-loop",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "benton-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/montana/benton-lake-national-wildlife-refuge",
+   "label": "Benton Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Benton Lake National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/montana/benton-lake-national-wildlife-refuge--2",
+     "miles": 13.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "big-branch-marsh-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/big-branch-marsh-national-wildlife-refuge",
+   "label": "Big Branch Marsh National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Boy Scout Road",
+     "url": "https://www.alltrails.com/trail/us/louisiana/boy-scout-road",
+     "miles": 5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "big-stone-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/big-stone-national-wildlife-refuge",
+   "label": "Big Stone National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Minnesota River Headwaters Trail: Big Stone National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/minnesota/minnesota-river-headwaters-trail-big-stone-national-wildlife-refuge",
+     "miles": 6.6,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Granite Outcrop Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/granite-outcrop-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bill-williams-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/bill-williams-river-national-wildlife-refuge",
+   "label": "Bill Williams River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bill Williams Peninsula Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/bill-williams-peninsula-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Bill Williams River Floodplain",
+     "url": "https://www.alltrails.com/trail/us/arizona/bill-williams-river-floodplain",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "billy-frank-jr-nisqually-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/nisqually-national-wildlife-refuge",
+   "label": "Nisqually National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Nisqually Estuary Boardwalk and Twin Barns Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/nisqually-estuary-boardwalk-and-twin-barns-trail",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bitter-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/bitter-lake-national-wildlife-refuge",
+   "label": "Bitter Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Oxbow Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/oxbow-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Butterfly Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/butterfly-trail",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Desert Uplands Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/desert-uplands-trail--2",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "black-bayou-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/black-bayou-lake-national-wildlife-refuge",
+   "label": "Black Bayou Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Black Bayou Lake Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/black-bayou-lake-nature-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Edgewater Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/edgewater-trail",
+     "miles": 2.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Edgewater Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/north-black-bayou-trail",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "blackwater-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maryland/blackwater-national-wildlife-refuge",
+   "label": "Blackwater National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Key Wallace Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/key-wallace-trail",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Blackwater Woods Loop",
+     "url": "https://www.alltrails.com/trail/us/maryland/blackwater-woods-loop",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Marsh Edge Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/marsh-edge-trail--3",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bogue-chitto-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/bogue-chitto-national-wildlife-refuge",
+   "label": "Bogue Chitto National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "James Schmidt Boardwalk and Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/james-schmidt-boardwalk-and-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Holmes Bayou Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/holmes-bayou-trail--4",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bombay-hook-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/delaware/bombay-hook-national-wildlife-refuge",
+   "label": "Bombay Hook National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bombay Hook National Wildlife Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/delaware/bombay-hook-national-wildlife-refuge-loop",
+     "miles": 8.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bombay Boardwalk Trail",
+     "url": "https://www.alltrails.com/trail/us/delaware/bombay-boardwalk-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Raymond Pool Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/delaware/raymond-pool-loop-trail",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bon-secour-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alabama/bon-secour-national-wildlife-refuge",
+   "label": "Bon Secour National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Pine Beach Trail",
+     "url": "https://www.alltrails.com/trail/us/alabama/pine-beach-trail",
+     "miles": 3.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Pine Beach Trail to Gator Lake",
+     "url": "https://www.alltrails.com/trail/us/alabama/pine-beach-trail-to-gator-lake",
+     "miles": 1.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Jeff Friend Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/alabama/jeff-friend-loop-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "bosque-del-apache-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/bosque-del-apache-national-wildlife-refuge",
+   "label": "Bosque Del Apache National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Canyon National Recreation Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/canyon-national-recreation-trail",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Chupadera Wilderness Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/chupadera-wilderness-trail",
+     "miles": 9.2,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Marsh Overlook Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/marsh-overlook-trail--2",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "boyer-chute-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nebraska/boyer-chute-national-wildlife-refuge",
+   "label": "Boyer Chute National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Grassed Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/nebraska/grassed-loop-trail",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "South Island Trail",
+     "url": "https://www.alltrails.com/trail/us/nebraska/south-island-trail",
+     "miles": 4.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Oriole Trail",
+     "url": "https://www.alltrails.com/trail/us/nebraska/oriole-trail",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "brazoria-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/brazoria-national-wildlife-refuge",
+   "label": "Brazoria National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Big Slough Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/big-slough-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Big Slough Auto Tour",
+     "url": "https://www.alltrails.com/trail/us/texas/big-slough-auto-tour",
+     "miles": 6.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "browns-park-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/colorado/browns-park-national-wildlife-refuge",
+   "label": "Browns Park National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Hoy Dike Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/hoy-dike-trail",
+     "miles": 4.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Two Bar Ranch Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/two-bar-ranch-loop-trail",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hoy Dike and Two Bar Ranch Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/hoy-dike-and-two-bar-ranch-loop-trail",
+     "miles": 6,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "buenos-aires-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/buenos-aires-national-wildlife-refuge",
+   "label": "Buenos Aires National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Arivaca Creek Trail to Mustang Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/arivaca-creek-trail-to-mustang-trail",
+     "miles": 4.4,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cienega Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/cienega-trail--2",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Ranch Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/ranch-loop-trail--2",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "buffalo-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/buffalo-lake-national-wildlife-refuge",
+   "label": "Buffalo Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Buffalo Lake National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/buffalo-lake-national-wildlife-refuge-trail",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cabo-rojo-national-wildlife-refuge": {
+   "park": null,
+   "label": "Cabo Rojo National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Vistamar el Combate",
+     "url": "https://www.alltrails.com/trail/puerto-rico/west-region/vistamar-el-combate",
+     "miles": 5.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cabo Rojo - Bosque de Boquerón Complete Circuit",
+     "url": "https://www.alltrails.com/trail/puerto-rico/west-region/circuito-completo-cabo-rojo-bosque-de-boqueron",
+     "miles": 7.1,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Cabo Rojo National Refuge",
+     "url": "https://www.alltrails.com/trail/puerto-rico/west-region/refugio-nacional-de-cabo-rojo",
+     "miles": 4.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "caddo-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/caddo-lake-national-wildlife-refuge",
+   "label": "Caddo Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Caddo Lake Wildlife Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/texas/caddo-lake-wildlife-refuge-loop",
+     "miles": 7.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Magazine Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/magazine-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cahaba-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alabama/cahaba-river-national-wildlife-refuge",
+   "label": "Cahaba River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Piper Interpretive Trail",
+     "url": "https://www.alltrails.com/trail/us/alabama/piper-interpretive-trail",
+     "miles": 2.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Piper Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/alabama/piper-trail-loop",
+     "miles": 2.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Cahaba River Trace",
+     "url": "https://www.alltrails.com/trail/us/alabama/cahaba-river-trace",
+     "miles": 7.7,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "camas-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/idaho/camas-national-wildlife-refuge",
+   "label": "Camas National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Camas Loop",
+     "url": "https://www.alltrails.com/trail/us/idaho/camas-loop",
+     "miles": 7.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cameron-prairie-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/cameron-prairie-nwr",
+   "label": "Cameron Prairie Nwr",
+   "trails": [
+    {
+     "name": "Cameron Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/cameron-wildlife-refuge-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "canaan-valley-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/west-virginia/canaan-valley-national-wildlife-refuge",
+   "label": "Canaan Valley National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Beall North and Beall Connector Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/west-virginia/beall-north-and-beall-connector-trail-loop",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cape-meares-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/cape-meares-national-wildlife-refuge",
+   "label": "Cape Meares National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cape Meares Viewpoint and Octopus Tree Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/cape-meares-viewpoint-and-octopus-tree-trail",
+     "miles": 3.5,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Big Spruce Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/big-spruce-trail",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cape Meares Beach Trail [CLOSED]",
+     "url": "https://www.alltrails.com/trail/us/oregon/cape-meares-beach-trail",
+     "miles": 1.6,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cape-romain-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/cape-romain-national-wildlife-refuge",
+   "label": "Cape Romain National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bull Island",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/bull-island",
+     "miles": 4.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "carolina-sandhills-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/carolina-sandhills-national-wildlife-refuge",
+   "label": "Carolina Sandhills National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Tate's Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/tates-trail--2",
+     "miles": 6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hamburg Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/hamburg-lake-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cat-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/cat-island-national-wildlife-refuge",
+   "label": "Cat Island National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cat Island Baldcypress Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/cat-island-baldcypress-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cat Island Blackfork Walking Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/cat-island-blackfork-walking-trail",
+     "miles": 2.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cedar-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/cedar-island-national-wildlife-reserve",
+   "label": "Cedar Island National Wildlife Reserve",
+   "trails": [
+    {
+     "name": "Lola Road Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/cedar-island-national-wildlife-refuge-lola-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cedar Island National Wildlife Refuge Paddle Route",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/cedar-island-national-wildlife-refuge",
+     "miles": 9.8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "chickasaw-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/tennessee/chickasaw-national-wildlife-refuge",
+   "label": "Chickasaw National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/tennessee/loop-trail",
+     "miles": 7.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "chincoteague-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/chincoteague-national-wildlife-refuge",
+   "label": "Chincoteague National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wildlife Loop",
+     "url": "https://www.alltrails.com/trail/us/virginia/wildlife-pond-loop",
+     "miles": 3.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Woodland and Bivalve Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/woodland-and-bivalve-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Assateague Lighthouse",
+     "url": "https://www.alltrails.com/trail/us/virginia/assateague-lighthouse",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "choctaw-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alabama/choctaw-national-wildlife-refuge",
+   "label": "Choctaw National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Choctaw Overlook Trail",
+     "url": "https://www.alltrails.com/trail/us/alabama/overlook-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cibola-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/cibola-national-wildlife-refuge",
+   "label": "Cibola National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cibola Cornfield Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/cibola-cornfield-nature-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Cibola Desert Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/cibola-desert-trail",
+     "miles": 0.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "clarence-cannon-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/missouri/clarence-cannon-national-wildlife-refuge",
+   "label": "Clarence Cannon National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Clarence Cannon Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/missouri/clarence-cannon-loop-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "clarks-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/kentucky/clarks-river-national-wildlife-refuge",
+   "label": "Clarks River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Refuge Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/kentucky/refuge-loop-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "cokeville-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wyoming/cokeville-meadows-national-wildlife-refuge",
+   "label": "Cokeville Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cokeville Meadows Nature Loop",
+     "url": "https://www.alltrails.com/trail/us/wyoming/cokeville-meadows-nature-loop",
+     "miles": 0.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "columbia-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/columbia-national-wildlife-refuge",
+   "label": "Columbia National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Frog Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/frog-lake-trail--2",
+     "miles": 3.1,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Blythe Lake and Coulee Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/blythe-lake-and-coulee-trail",
+     "miles": 4,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Crab Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/crab-creek-trail-2",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "colusa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/colusa-national-wildlife-refuge",
+   "label": "Colusa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Colusa Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/california/colusa-wildlife-refuge-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Colusa National Wildlife Refuge Auto Loop",
+     "url": "https://www.alltrails.com/trail/us/california/colusa-national-wildlife-refuge-auto-loop",
+     "miles": 3.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "conboy-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/conboy-lake-national-wildlife-refuge",
+   "label": "Conboy Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Conboy Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/conboy-lake-trail",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "crab-orchard-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/illinois/crab-orchard-national-wildlife-refuge",
+   "label": "Crab Orchard National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Rocky Bluff Trail",
+     "url": "https://www.alltrails.com/trail/us/illinois/rocky-bluff-trail",
+     "miles": 2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Pigeon Creek Harmony Trail",
+     "url": "https://www.alltrails.com/trail/us/illinois/pigeon-creek-harmony-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Grassy Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/illinois/grassy-creek-trail",
+     "miles": 1.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "crane-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/crane-meadows-national-wildlife-refuge",
+   "label": "Crane Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Platte River Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/platte-river-trail",
+     "miles": 3.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "dahomey-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/dahomey-national-wildlife-refuge",
+   "label": "Dahomey National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Paw Paw Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/paw-paw-trail--3",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Herbert Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/herbert-nature-trail--2",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "dale-bumpers-white-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arkansas/white-river-national-wildlife-refuge",
+   "label": "White River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Champion Cypress Tree Trail",
+     "url": "https://www.alltrails.com/trail/us/arkansas/champion-cypress-tree-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Upland Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/arkansas/upland-nature-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "deep-fork-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oklahoma/deep-fork-national-wildlife-refuge",
+   "label": "Deep Fork National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cussetah Bottoms Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/cussetah-bottoms-boardwalk-trail-including-forest-loop-and-photo-blind",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "des-lacs-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-dakota/des-lacs-national-wildlife-refuge",
+   "label": "Des Lacs National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Des Lacs National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/north-dakota/des-lacs-national-wildlife-refuge",
+     "miles": 15.1,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "desert-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/desert-national-wildlife-refuge",
+   "label": "Desert National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Corn Creek Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/corn-creek-nature-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hidden Forest Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/hidden-forest-trail",
+     "miles": 10.4,
+     "difficulty": "Hard",
+     "route": "Out & back"
+    },
+    {
+     "name": "Gass Peak Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/gass-peak-road",
+     "miles": 6.5,
+     "difficulty": "Hard",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "desoto-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nebraska/de-soto-national-wildlife-refuge",
+   "label": "De Soto National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Desoto National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/nebraska/desoto-national-wildlife-refuge-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Desoto Visitor Center Trail",
+     "url": "https://www.alltrails.com/trail/us/iowa/desoto-visitor-center-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Steamboat Bertrand Discovery Site",
+     "url": "https://www.alltrails.com/trail/us/nebraska/steamboat-bertrand-discovery-site",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "detroit-river-international-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/michigan/detroit-river-international-wildlife-refuge",
+   "label": "Detroit River International Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Humbug Marsh Loop",
+     "url": "https://www.alltrails.com/trail/us/michigan/humbug-marsh-loop",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Humbug Marsh - Full Trail System",
+     "url": "https://www.alltrails.com/trail/us/michigan/humbug-marsh-full-trail-system",
+     "miles": 3.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "don-edwards-san-francisco-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/don-edwards-san-francisco-bay-national-wildlife-refuge",
+   "label": "Don Edwards San Francisco Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Don Edwards National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/california/don-edwards-national-wildlife-refuge",
+     "miles": 7.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "San Francisco Bay Trail - Sunnyvale to Sand Point",
+     "url": "https://www.alltrails.com/trail/us/california/san-francisco-bay-trail-sunnyvale-to-sand-point",
+     "miles": 19.6,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Inner Bair Island Walk",
+     "url": "https://www.alltrails.com/trail/us/california/inner-bair-island-walk",
+     "miles": 3.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "dungeness-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/dungeness-national-wildlife-refuge",
+   "label": "Dungeness National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dungeness Spit Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/dungeness-spit-trail",
+     "miles": 10.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Primitive Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/washington/primitive-trail-loop-at-dungeness-recreation-area",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "eastern-neck-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maryland/eastern-neck-national-wildlife-refuge",
+   "label": "Eastern Neck National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bayview Butterfly Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/bayview-butterfly-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Duck Inn Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/duck-inn-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Eastern Neck Boxes Point Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/eastern-neck-boxes-point-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "eastern-shore-of-virginia-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/eastern-shore-national-wildlife-refuge",
+   "label": "Eastern Shore National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Eastern Shore of Virginia Refuge Butterfly Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/eastern-shore-of-virginia-refuge-butterfly-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "edwin-b-forsythe-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-jersey/edwin-b-forsythe-national-wildlife-refuge",
+   "label": "Edwin B Forsythe National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Songbird Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/songbird-trail-loop",
+     "miles": 4.8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "deCamp Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/decamp-wildlife-trail",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "elizabeth-alexandra-morton-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/morton-national-wildlife-refuge",
+   "label": "Morton National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Morton National Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/morton-national-wildlife-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "elizabeth-hartwell-mason-neck-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/mason-neck-wildlife-refuge",
+   "label": "Mason Neck Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Woodmarsh Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/woodmarsh-trail",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "erie-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/pennsylvania/erie-national-wildlife-refuge",
+   "label": "Erie National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Deer Run Trail",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/deer-run-trail--2",
+     "miles": 3.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Trolley Line Trail",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/trolley-line-trail",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Tsuga Trail",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/tsuga-trail--2",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "eufaula-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alabama/eufaula-national-wildlife-refuge",
+   "label": "Eufaula National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Eufaula National Wildlife Refuge Nature trail",
+     "url": "https://www.alltrails.com/trail/us/alabama/eufaula-national-wildlife-refuge-nature-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "fish-springs-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/utah/fish-springs-national-wildlife-refuge",
+   "label": "Fish Springs National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Auto Tour Inner Loop",
+     "url": "https://www.alltrails.com/trail/us/utah/auto-tour-inner-loop",
+     "miles": 9.6,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Harrison Pool Loop",
+     "url": "https://www.alltrails.com/trail/us/utah/harrison-pool-loop",
+     "miles": 13.1,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "flint-hills-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/kansas/flint-hills-national-wildlife-refuge",
+   "label": "Flint Hills National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dove Roost Trail and Pond",
+     "url": "https://www.alltrails.com/trail/us/kansas/dove-roost-trail-and-pond",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Burgess Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/kansas/flint-hills-wildlife-refuge--2",
+     "miles": 4.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "florida-panther-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/florida-panther-national-wildlife-refuge",
+   "label": "Florida Panther National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Florida Panther National Wildlife Refuge: Panther Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/florida-panther-national-wildlife-refuge-panther-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Florida Panther National Wildlife Refuge: Memorial Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/florida-panther-national-wildlife-refuge-memorial-trail",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "grand-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/grand-bay-national-wildlife-refuge",
+   "label": "Grand Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Grand Bay Savanna Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/grand-bay-savanna-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Escatawpa Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/escatawpa-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Oak Grove Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/oak-grove-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "grand-cote-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/grand-cote-national-wildlife-refuge",
+   "label": "Grand Cote National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dupuy Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/dupuy-wildlife-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "great-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-hampshire/great-bay-national-wildlife-refuge",
+   "label": "Great Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ferry Way Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/ferry-way-trail-loop",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "great-dismal-swamp-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/great-dismal-swamp-national-wildlife-refuge",
+   "label": "Great Dismal Swamp National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dismal Swamp Canal Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/dismal-swamp-canal-trail",
+     "miles": 16.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Lake Drummond via Washington Ditch Road",
+     "url": "https://www.alltrails.com/trail/us/virginia/washington-ditch-road",
+     "miles": 9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "great-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/massachusetts/great-meadows-national-wildlife-refuge",
+   "label": "Great Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dike Trail",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/dike-trail",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "great-swamp-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-jersey/great-swamp-national-wildlife-refuge",
+   "label": "Great Swamp National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wildlife Observation Center Trails",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/wildlife-observation-center-trails",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Wildlife Observation Center Trail South",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/wildlife-observation-center-trail-south",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Great Swamp White Oak Trail",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/great-swamp-white-oak-trail-2",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "hagerman-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/hagerman-national-wildlife-refuge",
+   "label": "Hagerman National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Haller’s Haven Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/hallers-haven-at-hagerman-loop-trail",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hagerman - Meadow Pond Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/hagerman-meadow-pond-trail",
+     "miles": 5.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Harris Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/harris-creek-trail-2",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "hanalei-national-wildlife-refuge": {
+   "park": null,
+   "label": "Hanalei National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Okolehao Viewpoint via Okolehao Trail",
+     "url": "https://www.alltrails.com/trail/hawaii/kaua-i--2/okolehao-viewpoint-via-okolehao-trail",
+     "miles": 2.8,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Hihimanu Summit via Okolehao and Hihimanu Trail",
+     "url": "https://www.alltrails.com/trail/hawaii/kaua-i--2/hihimanu-summit-via-okolehao-and-hihimanu-trail",
+     "miles": 5.8,
+     "difficulty": "Strenuous",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "harris-neck-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/georgia/harris-neck-national-wildlife-refuge",
+   "label": "Harris Neck National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Harris Neck Airport Trail",
+     "url": "https://www.alltrails.com/trail/us/georgia/harris-neck-national-wildlife-refuge-and-savannah-coastal-refuge-complex",
+     "miles": 5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Harris Neck Wildlife Drive",
+     "url": "https://www.alltrails.com/trail/us/georgia/harris-neck-wildlife-drive",
+     "miles": 4.4,
+     "difficulty": "Easy",
+     "route": "Point to point"
+    },
+    {
+     "name": "Harris Neck Bluebill Pond Loop",
+     "url": "https://www.alltrails.com/trail/us/georgia/harris-neck-bluebill-pond-loop",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "hart-mountain-national-antelope-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/hart-mountain-national-antelope-refuge",
+   "label": "Hart Mountain National Antelope Refuge",
+   "trails": [
+    {
+     "name": "Petroglyph Lake and Poker Jim Rim",
+     "url": "https://www.alltrails.com/trail/us/oregon/petroglyph-lake-and-poker-jim-rim",
+     "miles": 6.2,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Hart Mountain Hot Springs",
+     "url": "https://www.alltrails.com/trail/us/oregon/hart-mountain-hot-springs",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Warner Peak Scramble",
+     "url": "https://www.alltrails.com/trail/us/oregon/warner-peak-scramble",
+     "miles": 10.1,
+     "difficulty": "Hard",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "hatchie-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/tennessee/hatchie-national-wildlife-refuge",
+   "label": "Hatchie National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "ONeal Lake Loop",
+     "url": "https://www.alltrails.com/trail/us/tennessee/o-neal-lake-loop",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "havasu-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/havasu-national-wildlife-refuge",
+   "label": "Havasu National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Mesquite Bay South Long Loop",
+     "url": "https://www.alltrails.com/trail/us/arizona/mesquite-bay-south-long-loop",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Mesquite Bay South Short Loop",
+     "url": "https://www.alltrails.com/trail/us/arizona/mesquite-bay-south-short-loop",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Mesquite Bay North Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/mesquite-bay-north-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "hillside-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/hillside-national-wildlife-refuge",
+   "label": "Hillside National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Alligator Slough Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/alligator-slough-nature-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "holla-bend-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arkansas/holla-bend-national-wildlife-refuge",
+   "label": "Holla Bend National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Levee Trail at Holla Bend",
+     "url": "https://www.alltrails.com/trail/us/arkansas/levee-trail-at-holla-bend",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "horicon-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wisconsin/horicon-national-wildlife-refuge",
+   "label": "Horicon National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Redhead, Red Fox, and Egret Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/redhead-red-fox-and-egret-loop",
+     "miles": 4.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Redhead Hiking Trail",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/horicon-national-wildlife-refuge",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Egret Trail",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/egret-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "iroquois-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/iroquois-national-wildlife-refuge",
+   "label": "Iroquois National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Kanyoo Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/kanyoo-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Swallow Hollow Loop",
+     "url": "https://www.alltrails.com/trail/us/new-york/swallow-hollow-loop",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Onondaga Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/onondaga-nature-trail",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "j-n-ding-darling-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/jn-ding-darling-national-wildlife-refuge",
+   "label": "J.N. Ding Darling National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ding Darling Indigo Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/ding-darling-indigo-trail",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bailey Tract",
+     "url": "https://www.alltrails.com/trail/us/florida/bailey-tract",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sanibel Captiva Conservation Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/sanibel-captiva-conservation-trail",
+     "miles": 15.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "james-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/james-river-national-wildlife-refuge",
+   "label": "James River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Powell Creek Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/virginia/powell-creek-nature-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "jocelyn-nungaray-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/anahuac-national-wildlife-refuge",
+   "label": "Anahuac National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Shoveler Pond Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/shoveler-pond-trail",
+     "miles": 4.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Willows Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/willows-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Anahuac NWR Cypress Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/anahuac-nwr-cypress-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "john-hay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-hampshire/john-hay-national-wildlife-refuge",
+   "label": "John Hay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Gatehouse Link, John Hay Forest Ecology Trail, and Lake Loop",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/gatehouse-link-john-hay-forest-ecology-trail-and-lake-loop",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Gatehouse Link, Forest Ecology, Lake Loop, and Carriage Road Trails",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/gatehouse-link-forest-ecology-lake-loop-and-carriage-road-trails",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "john-heinz-national-wildlife-refuge-at-tinicum": {
+   "park": "https://www.alltrails.com/parks/us/pennsylvania/john-heinz-national-wildlife-refuge",
+   "label": "John Heinz National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "John Heinz Lake Loop",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/john-heinz-lake-loop",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "John Heinz Wildlife Refuge Loop via Wanamaker Avenue Trailhead",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/john-heinz-national-wildlife-refuge-loop-from-wanamaker-avenue-trailhead",
+     "miles": 3.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Big Boardwalk Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/pennsylvania/big-boardwalk-loop-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "julia-butler-hansen-refuge-for-the-columbian-white-tail-deer": {
+   "park": "https://www.alltrails.com/parks/us/washington/julia-butler-hansen-refuge-for-the-columbian-white-tailed-deer",
+   "label": "Julia Butler Hansen Refuge for the Columbian White-Tailed Deer",
+   "trails": [
+    {
+     "name": "White-Tail Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/steamboat-slough-and-white-tail-trail-loop",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kealia-pond-national-wildlife-refuge": {
+   "park": null,
+   "label": "Kealia Pond National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Kealia Coastal Boardwalk",
+     "url": "https://www.alltrails.com/trail/hawaii/maui/kealia-coastal-boardwalk",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Kanuimanu Dike Trail Loop",
+     "url": "https://www.alltrails.com/trail/hawaii/maui/kanuimanu-dike-trail-loop",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kenai-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alaska/kenai-national-wildlife-refuge",
+   "label": "Kenai National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Skilak Lookout Trail",
+     "url": "https://www.alltrails.com/trail/us/alaska/skilak-lookout-trail",
+     "miles": 4.3,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Kenai National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/alaska/kenai-national-wildlife-refuge",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hidden Creek Trail to Skilak Lake",
+     "url": "https://www.alltrails.com/trail/us/alaska/hidden-creek-trail",
+     "miles": 2.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kern-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/kern-national-wildlife-refuge",
+   "label": "Kern National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Kern NWR Loop",
+     "url": "https://www.alltrails.com/trail/us/california/kern-nwr-loop",
+     "miles": 7.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Covey Trail",
+     "url": "https://www.alltrails.com/trail/us/california/covey-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "key-cave-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/alabama/key-cave-national-wildlife-refuge",
+   "label": "Key Cave National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Key Cave National Wildlife Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/alabama/key-cave-national-wildlife-refuge",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kilauea-point-national-wildlife-refuge": {
+   "park": null,
+   "label": "Kilauea National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Mokolea Point Trail",
+     "url": "https://www.alltrails.com/trail/hawaii/kaua-i--2/mokolea-point-trail",
+     "miles": 2.8,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Kilauea Lighthouse",
+     "url": "https://www.alltrails.com/trail/hawaii/kaua-i--2/kilauea-lighthouse",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kirwin-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/kansas/kirwin-national-wildlife-refuge",
+   "label": "Kirwin National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Prairie Walking Trail",
+     "url": "https://www.alltrails.com/trail/us/kansas/prairie-walking-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kofa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/kofa-national-wildlife-refuge",
+   "label": "Kofa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Crystal Hill",
+     "url": "https://www.alltrails.com/trail/us/arizona/crystal-hill",
+     "miles": 1.3,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "kootenai-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/idaho/kootenai-national-wildlife-refuge",
+   "label": "Kootenai National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Myrtle Falls Trail",
+     "url": "https://www.alltrails.com/trail/us/idaho/myrtle-falls-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Deep Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/idaho/deep-creek-trail-kootenai-national-wildlife-refuge",
+     "miles": 4.3,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Kootenai Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/idaho/kootenai-refuge-loop",
+     "miles": 6.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lacassine-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/lacassine-national-wildlife-refuge",
+   "label": "Lacassine National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Lacassine National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/louisiana/lacassine-national-wildlife-refuge",
+     "miles": 5.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Lacassine NWR Wildlife Observation Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/lacassine-nwr-wildlife-observation-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "laguna-atascosa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/laguna-atascosa-national-wildlife-refuge",
+   "label": "Laguna Atascosa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bayside Wildlife Drive",
+     "url": "https://www.alltrails.com/trail/us/texas/bayside-wildlife-drive",
+     "miles": 14.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Laguna Atascosa National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/laguna-atascosa-national-wildlife-refuge-trail",
+     "miles": 4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "laguna-cartagena-national-wildlife-refuge": {
+   "park": null,
+   "label": "Refugio Nacional de Vida Silvestre Laguna Cartegena",
+   "trails": [
+    {
+     "name": "Cartagena Lagoon",
+     "url": "https://www.alltrails.com/trail/puerto-rico/laguna-cartegena",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Cartegena Lagoon Route",
+     "url": "https://www.alltrails.com/trail/puerto-rico/ruta-laguna-cartegena",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lake-andes-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-dakota/lake-andes-national-wildlife-refuge",
+   "label": "Lake Andes National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Owens Bay Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/south-dakota/owens-bay-wildlife-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lake-isom-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/tennessee/lake-isom-national-wildlife-refuge",
+   "label": "Lake Isom National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Eagle Nest Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/tennessee/eagle-nest-lake-trail",
+     "miles": 6.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lake-woodruff-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/lake-woodruff-national-wildlife-refuge",
+   "label": "Lake Woodruff National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Lake Woodruff Spring Garden Creek and Pools Loop",
+     "url": "https://www.alltrails.com/trail/us/florida/lake-woodruff-spring-garden-creek-and-pools-loop",
+     "miles": 5.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Lake Woodruff Impoundment Pool Loop",
+     "url": "https://www.alltrails.com/trail/us/florida/lake-woodruff-impoundment-pool-loop",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "las-vegas-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/las-vegas-national-wildlife-refuge",
+   "label": "Las Vegas National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Gallinas Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/gallinas-nature-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lee-metcalf-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/montana/lee-metcalf-national-wildlife-refuge",
+   "label": "Lee Metcalf National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ponderosa Trail and Riparian Way Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/montana/ponderosa-trail-and-riparian-way-trail-loop",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Kenai Trail",
+     "url": "https://www.alltrails.com/trail/us/montana/kenai-trail",
+     "miles": 2.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "leslie-canyon-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/arizona/leslie-canyon-national-wildlife-refuge",
+   "label": "Leslie Canyon National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Leslie Canyon Trail",
+     "url": "https://www.alltrails.com/trail/us/arizona/leslie-canyon-trail",
+     "miles": 2.8,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "little-pend-oreille-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/little-pend-oreille-national-wildlife-refuge",
+   "label": "Little Pend Oreille National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Mill Butte Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/mill-butte-trail",
+     "miles": 4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "loess-bluffs-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/missouri/loess-bluffs-national-wildlife-refuge",
+   "label": "Loess Bluffs National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Eagle Overlook Trail at Loess Bluffs",
+     "url": "https://www.alltrails.com/trail/us/missouri/eagle-overlook-trail-at-loess-bluffs",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "lower-suwannee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/lower-suwannee-national-wildlife-refuge",
+   "label": "Lower Suwannee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Dennis Creek Trail via Shell Mound Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/dennis-creek-trail-via-shell-mound-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mackay-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/mackay-island-national-wildlife-refuge",
+   "label": "Mackay Island National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Love Oak Point Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/love-oak-point-trail",
+     "miles": 5.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Mackay Island Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/mackay-island-trail",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Great Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/great-marsh-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mandalay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/mandalay-national-wildlife-refuge",
+   "label": "Mandalay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Mandalay Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/mandalay-nature-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mathews-brake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/matthews-brake-national-wildlife-refuge",
+   "label": "Matthews Brake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "New Caldwell Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/new-caldwell-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mattamuskeet-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/mattamuskeet-national-wildlife-refuge",
+   "label": "Mattamuskeet National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "New Holland Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/new-holland-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "maxwell-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/maxwell-national-wildlife-refuge",
+   "label": "Maxwell National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Lake 14 Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/lake-14-trail",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Prairie Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/prairie-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mcnary-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/mcnary-national-wildlife-refuge",
+   "label": "McNary National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "McNary Wildlife Nature Loop",
+     "url": "https://www.alltrails.com/trail/us/washington/mcnary-wildlife-nature-loop",
+     "miles": 2.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "merced-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/merced-national-wildlife-refuge",
+   "label": "Merced National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Meadowlark Trail",
+     "url": "https://www.alltrails.com/trail/us/california/meadowlark-trail--3",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Kestrel and Meadowlark Trail",
+     "url": "https://www.alltrails.com/trail/us/california/kestrel-and-meadowlark-trail",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bittern Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/california/bittern-marsh-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "merritt-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/merritt-island-national-wildlife-refuge",
+   "label": "Merritt Island National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cruickshank Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/cruickshank-trail",
+     "miles": 4.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Royal Palm Hammock Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/collier-seminole-state-park-royal-palm-hammock",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Black Point Wildlife Drive",
+     "url": "https://www.alltrails.com/trail/us/florida/black-point-wildlife-drive",
+     "miles": 7.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mingo-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/missouri/mingo-national-wildlife-refuge",
+   "label": "Mingo National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Boardwalk Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/missouri/boardwalk-nature-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "minnesota-valley-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/minnesota-valley-national-wildlife-refuge",
+   "label": "Minnesota Valley National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Old Cedar Avenue Bridge, Long Meadow Lake and Bluff Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/old-cedar-avenue-bridge-long-meadow-lake-and-bluff-trail",
+     "miles": 6.8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Bass Pond and Old Cedar Bridge Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/bass-pond-and-old-cedar-bridge-trail",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bloomington Ferry Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/bloomington-ferry-trail",
+     "miles": 17.3,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "missisquoi-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/vermont/missisquoi-national-wildlife-refuge",
+   "label": "Missisquoi National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Maquam Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/vermont/maquam-creek-trail",
+     "miles": 2.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Discovery Trail",
+     "url": "https://www.alltrails.com/trail/us/vermont/discovery-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Old Railroad Passage Trail",
+     "url": "https://www.alltrails.com/trail/us/vermont/old-railroad-passage-trail",
+     "miles": 3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "mississippi-sandhill-crane-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/mississippi-sandhill-crane-national-wildlife-refuge",
+   "label": "Mississippi Sandhill Crane National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Fontainebleau Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/fontainebleau-nature-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "C.L. Dees Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/cl-dees-nature-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "moapa-valley-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/moapa-valley-national-wildlife-refuge",
+   "label": "Moapa Valley National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Warm Springs Overlook and Dace Observation Tank Loop",
+     "url": "https://www.alltrails.com/trail/us/nevada/warm-springs-overlook-and-dace-observation-tank-loop",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "modoc-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/modoc-national-wildlife-refuge",
+   "label": "Modoc National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Modoc Wildlife Refuge Auto Loop",
+     "url": "https://www.alltrails.com/trail/us/california/modoc-wildlife-refuge-auto-loop",
+     "miles": 3.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Wigeon Pond Loop",
+     "url": "https://www.alltrails.com/trail/us/california/wigeon-pond-loop",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "monomoy-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/massachusetts/monomoy-national-wildlife-refuge",
+   "label": "Monomoy National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Morris Island Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/morris-island-loop-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Harding Beach Point via Monomoy Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/harding-beach-point-via-monomoy-nature-trail",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "moosehorn-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maine/moosehorn-national-wildlife-refuge",
+   "label": "Moosehorn National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Raven Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/raven-trail",
+     "miles": 1.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "morgan-brake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/morgan-brake-national-wildlife-refuge",
+   "label": "Morgan Brake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Providence Ponds Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/providence-ponds-trail",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "muleshoe-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/muleshoe-national-wildlife-refuge",
+   "label": "Muleshoe National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Lower Goose Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/lower-goose-lake-trail",
+     "miles": 3.1,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Muleshoe NWR Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/muleshoe-nwr-nature-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "muscatatuck-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/indiana/muscatatuck-national-wildlife-refuge",
+   "label": "Muscatatuck National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Turkey and Bird Trail",
+     "url": "https://www.alltrails.com/trail/us/indiana/turkey-bird-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hunt Richart Trail",
+     "url": "https://www.alltrails.com/trail/us/indiana/richard-hunt-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Chestnut Ridge Trail",
+     "url": "https://www.alltrails.com/trail/us/indiana/chestnut-ridge-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "nathaniel-p-reed-hobe-sound-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/nathaniel-p-reed-hobe-sound-national-wildlife-refuge",
+   "label": "Nathaniel P. Reed Hobe Sound National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Scrub Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/florida/scrub-trail-loop",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "national-key-deer-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/national-key-deer-refuge",
+   "label": "National Key Deer Refuge",
+   "trails": [
+    {
+     "name": "Jack Watson Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/jack-watson-nature-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "The Blue Hole",
+     "url": "https://www.alltrails.com/trail/us/florida/the-blue-hole",
+     "miles": 0.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "neal-smith-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/iowa/neal-smith-national-wildlife-refuge",
+   "label": "Neal Smith National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Tallgrass Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/iowa/tallgrass-loop-trail",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Savanna Trail",
+     "url": "https://www.alltrails.com/trail/us/iowa/savanna-trail",
+     "miles": 0.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Neal Smith Bison Area Scenic Drive",
+     "url": "https://www.alltrails.com/trail/us/iowa/neal-smith-bison-area-scenic-drive",
+     "miles": 5.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "necedah-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wisconsin/necedah-national-wildlife-refuge",
+   "label": "Necedah National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Karner Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/karner-loop",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Observation Tower Trail",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/observation-tower-trail-2",
+     "miles": 0.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "White-Tail Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/white-tail-loop",
+     "miles": 2.3,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "nestucca-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/nestucca-bay-national-wildlife-refuge",
+   "label": "Nestucca Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Two Rivers Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/two-rivers-trail",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ninigret-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/rhode-island/ninigret-national-wildlife-refuge",
+   "label": "Ninigret National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Grassy Point Trail",
+     "url": "https://www.alltrails.com/trail/us/rhode-island/grassy-point-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "occoquan-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/virginia/occoquan-bay-national-wildlife-refuge",
+   "label": "Occoquan Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Occoquan Bay Wildlife Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/virginia/occoquan-bay-wildlife-refuge",
+     "miles": 2.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bay View Road, Charlie Road, Deephole Point Road, and Fox Road Trails",
+     "url": "https://www.alltrails.com/trail/us/virginia/bay-view-road-charlie-road-deephole-point-road-and-fox-road-trails",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Bay View Road, Easy Road, Deephole Point Road, and Fox Road Trails",
+     "url": "https://www.alltrails.com/trail/us/virginia/bay-view-road-easy-road-deephole-point-road-and-fox-road-trails",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ohio-river-islands-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/west-virginia/ohio-river-islands-national-wildlife-refuge",
+   "label": "Ohio River Islands National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ohio River Island National Wildlife Refuge Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/west-virginia/ohio-river-island-national-wildlife-refuge-nature-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Ohio River Islands Visitor Center Trails",
+     "url": "https://www.alltrails.com/trail/us/west-virginia/ohio-river-islands-visitor-center-trails",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Middle Island Loop",
+     "url": "https://www.alltrails.com/trail/us/west-virginia/middle-island-loop",
+     "miles": 4.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "okefenokee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/georgia/okefenokee-national-wildlife-refuge",
+   "label": "Okefenokee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Chesser Island Boardwalk",
+     "url": "https://www.alltrails.com/trail/us/georgia/seagrove-lake",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Okefenokee NWR Scenic Drive",
+     "url": "https://www.alltrails.com/trail/us/georgia/okefenokee-nwr-scenic-drive",
+     "miles": 7.6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ottawa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/ohio/ottawa-national-wildlife-refuge",
+   "label": "Ottawa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Magee Marsh Loop",
+     "url": "https://www.alltrails.com/trail/us/ohio/magee-marsh-loop",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ouray-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/utah/ouray-national-wildlife-refuge",
+   "label": "Ouray National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ouray National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/utah/ouray-national-wildlife-refuge",
+     "miles": 1.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "oxbow-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/massachusetts/oxbow-national-wildlife-refuge",
+   "label": "Oxbow National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Nashua River and Oxbow Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/nashua-river-and-oxbow-trail-loop",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pahranagat-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/pahranagat-national-wildlife-refuge",
+   "label": "Pahranagat National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Upper Pahranagat Lake Loop",
+     "url": "https://www.alltrails.com/trail/us/nevada/upper-pahranagat-lake-loop",
+     "miles": 3.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Black Canyon Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/black-canyon-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Cabin Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/pahranagat-nwr-cabin-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "parker-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/massachusetts/parker-river-national-wildlife-refuge",
+   "label": "Parker River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Hellcat Interpretive Trails",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/hellcat-interpretive-trails",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sandy Point State Reservation",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/sandy-point-state-reservation",
+     "miles": 3.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Pine Connector Trail",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/pine-connector-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "patoka-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/indiana/patoka-river-national-wildlife-refuge",
+   "label": "Patoka River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Columbia Mine Preserve Loop",
+     "url": "https://www.alltrails.com/trail/us/indiana/columbia-mine-preserve",
+     "miles": 8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Indian Hill Trail",
+     "url": "https://www.alltrails.com/trail/us/indiana/indian-hill-trail--2",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Buck’s Marsh Boardwalk",
+     "url": "https://www.alltrails.com/trail/us/indiana/buck-s-marsh-boardwalk",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "patuxent-research-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maryland/patuxent-research-refuge",
+   "label": "Patuxent Research Refuge",
+   "trails": [
+    {
+     "name": "Cash Lake Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/cash-lake-loop-patuxent-research-refuge-trail",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Patuxent Wildlife Refuge Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/maryland/patuxent-wildlife-refuge-loop-trail",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pea-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/pea-island-national-wildlife-refuge",
+   "label": "Pea Island National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "North Pond Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/north-pond-wildlife-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pee-dee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/pee-dee-national-wildlife-refuge",
+   "label": "Pee Dee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Pee Dee Wildlife Drive Loop",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/pee-dee-wildlife-drive-loop",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Tall Pines Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/tall-pines-trail--3",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "The Big Oak Road Trail",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/pee-dee-national-wildlife-refuge",
+     "miles": 3.2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "petit-manan-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maine/petit-manan-national-wildlife-refuge",
+   "label": "Petit Manan National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Hollingsworth Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/hollingsworth-trail",
+     "miles": 1.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Birch Point Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/birch-point-trail",
+     "miles": 4.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "piedmont-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/georgia/piedmont-national-wildlife-refuge",
+   "label": "Piedmont National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Red Cockaded Woodpecker Trail",
+     "url": "https://www.alltrails.com/trail/us/georgia/red-cockaded-woodpecker-trail",
+     "miles": 2.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Black Eyed Susan Loop",
+     "url": "https://www.alltrails.com/trail/us/georgia/black-eyed-susan-loop",
+     "miles": 5.2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pinckney-island-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/pickney-island-national-wildlife-refuge",
+   "label": "Pickney Island National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Pinckney Island Ride Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/pinckney-island-ride-trail",
+     "miles": 3.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Ibis Pond Loop",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/ibis-pond-loop",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Mackay Creek Beach Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/mackay-creek-beach-trail",
+     "miles": 7.7,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pixley-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/pixley-national-wildlife-refuge",
+   "label": "Pixley National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Pixley National Wildlife Refuge Interpretive Trail",
+     "url": "https://www.alltrails.com/trail/us/california/pixley-national-wildlife-refuge-interpretive-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "pocosin-lakes-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-carolina/pocosin-lakes-national-wildlife-refuge",
+   "label": "Pocosin Lakes National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Scuppernog River Interpretative Boardwalk",
+     "url": "https://www.alltrails.com/trail/us/north-carolina/scuppernog-river-interpretative-boardwalk",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "quivira-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/kansas/quivira-national-wildlife-refuge",
+   "label": "Quivira National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Migrants Mile Trail",
+     "url": "https://www.alltrails.com/trail/us/kansas/migrants-mile-trail",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Quivira National Wildlife Refuge Loop",
+     "url": "https://www.alltrails.com/trail/us/kansas/quivira-national-wildlife-refuge-loop",
+     "miles": 4.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "rachel-carson-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maine/rachel-carson-national-wildlife-refuge",
+   "label": "Rachel Carson National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Rachel Carson Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/rachel-carson-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "red-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/red-river-national-wildlife-refuge",
+   "label": "Red River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Red River National Wildlife Refuge Yellow Trail",
+     "url": "https://www.alltrails.com/trail/us/louisiana/red-river-national-wildlife-refuge-yellow-trail",
+     "miles": 3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "reelfoot-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/tennessee/reelfoot-national-wildlife-refuge",
+   "label": "Reelfoot National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Glory Hole Canoe Trail",
+     "url": "https://www.alltrails.com/trail/us/tennessee/glory-hole-canoe-trail--2",
+     "miles": 5.7,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ridgefield-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/ridgefield-national-wildlife-refuge",
+   "label": "Ridgefield National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Oaks to Wetlands Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/washington/oaks-to-wetlands-trail-loop",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Ridgefield Auto Tour Route",
+     "url": "https://www.alltrails.com/trail/us/washington/ridgefield-auto-tour-route",
+     "miles": 4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Kiwa Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/kiwa-trail--2",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "rocky-flats-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/colorado/rocky-flats-national-wildlife-refuge",
+   "label": "Rocky Flats National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Walnut Creek Loop to Lindsey Ranch Loop",
+     "url": "https://www.alltrails.com/trail/us/colorado/walnut-creek-loop-to-lindsey-ranch-loop",
+     "miles": 6.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Walnut Creek Loop",
+     "url": "https://www.alltrails.com/trail/us/colorado/walnut-creek-loop",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Woman Creek to Rocky Mountain Greenway Loop",
+     "url": "https://www.alltrails.com/trail/us/colorado/woman-creek-to-rocky-mountain-greenway-loop",
+     "miles": 6.5,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "rocky-mountain-arsenal-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/colorado/rocky-mountain-arsenal-national-wildlife-refuge",
+   "label": "Rocky Mountain Arsenal National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Lake Ladora Loop",
+     "url": "https://www.alltrails.com/trail/us/colorado/ladora-loop-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Lake Ladora and Lake Mary Loop and Prairie Trail",
+     "url": "https://www.alltrails.com/trail/us/colorado/lake-ladora-and-lake-mary-loop-trail",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Prairie, Havana Ponds, and Rocky Mountain Greenway Trails",
+     "url": "https://www.alltrails.com/trail/us/colorado/prairie-havana-ponds-and-rocky-mountain-greenway-trails",
+     "miles": 3.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ruby-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/ruby-lake-national-wildlife-refuge",
+   "label": "Ruby Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ruby Lakes Paddle Route",
+     "url": "https://www.alltrails.com/trail/us/nevada/ruby-lakes-boating-route",
+     "miles": 8.8,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "Cave Creek Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/cave-creek-trail",
+     "miles": 0.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "rydell-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/rydell-national-wildlife-refuge",
+   "label": "Rydell National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Rydell Golden Pond Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/rydell-golden-pond-trail",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Rydell Perimeter Loop",
+     "url": "https://www.alltrails.com/trail/us/minnesota/rydell-perimeter-loop",
+     "miles": 5.2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Rydell Refuge",
+     "url": "https://www.alltrails.com/trail/us/minnesota/rydell-refuge--2",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sabine-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/louisiana/sabine-national-wildlife-refuge",
+   "label": "Sabine National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wetland Walkway",
+     "url": "https://www.alltrails.com/trail/us/louisiana/wetland-walkway",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sachuest-point-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/rhode-island/sachuest-point-national-wildlife-refuge",
+   "label": "Sachuest Point National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Sachuest Point National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/rhode-island/sachuest-point-national-wildlife-refuge-trail",
+     "miles": 2.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sachuest to Brenton Point via Ocean Drive Scenic Road",
+     "url": "https://www.alltrails.com/trail/us/rhode-island/sachuest-to-brenton-point-via-ocean-drive-scenic-road",
+     "miles": 9.9,
+     "difficulty": "Easy",
+     "route": "Point to point"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sacramento-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/sacramento-national-wildlife-refuge",
+   "label": "Sacramento National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wetland Walk",
+     "url": "https://www.alltrails.com/trail/us/california/wetland-walk",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sacramento National Wildlife Refuge Auto Tour",
+     "url": "https://www.alltrails.com/trail/us/california/sacramento-national-wildlife-refuge-auto-tour",
+     "miles": 7.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "salinas-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/salinas-river-national-wildlife-refuge",
+   "label": "Salinas River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Salinas River National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/california/salinas-river-national-wildlife-refuge--2",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "salt-plains-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oklahoma/salt-plains-national-wildlife-refuge",
+   "label": "Salt Plains National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Eagle Roost Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/eagle-roost-nature-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sandpiper Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/sandpiper-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "san-bernard-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/san-bernard-national-wildlife-refuge",
+   "label": "San Bernard National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bobcat Woods Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/bobcat-woods-trail",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Scissor-Tailed Loop",
+     "url": "https://www.alltrails.com/trail/us/texas/scissor-tailed-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "san-diego-bay-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/san-diego-bay-national-wildlife-refuge",
+   "label": "San Diego Bay National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Bayshore Bikeway: Imperial Beach to Otay Valley Regional Park",
+     "url": "https://www.alltrails.com/trail/us/california/bayshore-bikeway-imperial-beach-to-otay-valley-regional-park",
+     "miles": 2.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "san-joaquin-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/san-joaquin-river-national-wildlife-refuge",
+   "label": "San Joaquin River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Pelican Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/california/pelican-nature-trail",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "san-luis-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/san-luis-national-wildlife-refuge",
+   "label": "San Luis National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Raccoon Marsh/Woody Pond Trails",
+     "url": "https://www.alltrails.com/trail/us/california/raccoon-marsh-woody-pond-trails",
+     "miles": 3.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "santa-ana-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/santa-ana-national-wildlife-refuge",
+   "label": "Santa Ana National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Santa Ana North Lake Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/santa-ana-north-lake-loop-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Santa Ana Loop Trail to North Lake, East Lake, and West Lake",
+     "url": "https://www.alltrails.com/trail/us/texas/santa-ana-loop-trail-to-north-lake-east-lake-and-west-lake",
+     "miles": 7.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "West Lake Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/west-lake-trail",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "santee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/santee-national-wildlife-refuge",
+   "label": "Santee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wrights Bluff Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/wrights-bluff-nature",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "savannah-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/savannah-national-wildlife-refuge",
+   "label": "Savannah National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Little Back River Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/little-back-river-trail",
+     "miles": 5.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Kingfisher Loop and Tupelo Trail",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/kingfisher-loop-and-tupelo-trail",
+     "miles": 6.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "seedskadee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wyoming/seedskadee-national-wildlife-refuge",
+   "label": "Seedskadee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Seedskadee Loop",
+     "url": "https://www.alltrails.com/trail/us/wyoming/seedskadee-loop",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sequoyah-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oklahoma/sequoyah-national-wildlife-refuge",
+   "label": "Sequoyah National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Horton Slough Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/horton-slough-trail",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sandtown Woods Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/sandtown-woods-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sevilleta-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/sevilleta-national-wildlife-refuge",
+   "label": "Sevilleta National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "San Lorenzo Canyon",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/san-lorenzo-canyon",
+     "miles": 1.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Mesa View Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/mesa-view-trail",
+     "miles": 3.2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "San Lorenzo South Ridge Trail",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/san-lorenzo-south-ridge-trail",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "shawangunk-grasslands-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/shawangunk-grassland-national-wildlife-refuge",
+   "label": "Shawangunk Grassland National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Shawangunk Grassland Loop",
+     "url": "https://www.alltrails.com/trail/us/new-york/shawangunk-grassland-loop",
+     "miles": 3.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Shawangunk Grasslands Red Loop and Connector Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/shawangunk-grasslands-red-loop-and-connector-trail",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sherburne-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/sherburne-national-wildlife-refuge",
+   "label": "Sherburne National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Blue Hill Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/blue-hill-trail",
+     "miles": 4.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Mahnomen Trail: Long Loop",
+     "url": "https://www.alltrails.com/trail/us/minnesota/mahnomen-trail-long-loop",
+     "miles": 2.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Black Bear, Overlook, and Beaver Lodge Loop",
+     "url": "https://www.alltrails.com/trail/us/minnesota/black-bear-pond-overlook-and-beaver-lodge-loop",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "shiawassee-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/michigan/shiawassee-national-wildlife-refuge",
+   "label": "Shiawassee National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Ferguson Bayou Trail",
+     "url": "https://www.alltrails.com/trail/us/michigan/ferguson-bayou-trail",
+     "miles": 4.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Shiawassee Woodland Trail",
+     "url": "https://www.alltrails.com/trail/us/michigan/shiawassee-woodland-trail",
+     "miles": 3.7,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "silvio-o-conte-national-fish-and-wildlife-refuge": {
+   "park": null,
+   "label": "Silvio O. Conte National Fish and Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Fort River Birding and Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/massachusetts/fort-river-birding-and-nature-trail",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Hannum Hill, Dine Trailhead, and Parkman Wood Road Trailhead Loop",
+     "url": "https://www.alltrails.com/trail/us/vermont/hannum-hill-dine-trailhead-and-parkman-wood-road-trailhead-loop",
+     "miles": 4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Pondicherry Nature Refuge via Presidential Range Rail Trail",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/pondicherry-nature-refuge-via-presidential-range-rail-trail",
+     "miles": 4.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sonny-bono-salton-sea-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/sonny-bono-salton-sea-national-wildlife-refuge",
+   "label": "Sonny Bono Salton Sea National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Salton Sea - Rock Hill Trail",
+     "url": "https://www.alltrails.com/trail/us/california/salton-sea-rock-hill-trail",
+     "miles": 1.9,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Hardenberger Trail and Wildlife Blind",
+     "url": "https://www.alltrails.com/trail/us/california/hardenberger-trail-and-wildlife-blind",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "st-catherine-creek-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/mississippi/saint-catherine-creek-national-wildlife-refuge",
+   "label": "Saint Catherine Creek National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Magnolia Trail Complex",
+     "url": "https://www.alltrails.com/trail/us/mississippi/magnolia-trail-complex",
+     "miles": 4.9,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Magnolia Trail",
+     "url": "https://www.alltrails.com/trail/us/mississippi/magnolia-trail--2",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "st-marks-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/st-marks-national-wildlife-refuge",
+   "label": "St Marks National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "The Cathedral of Palms via Florida Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/the-cathedral-of-palms-via-florida-trail",
+     "miles": 5.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Tower Pond Interpretive Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/tower-pond-interpretative-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Stoney Bayou Pools Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/stoney-bayou-pools-loop-trail",
+     "miles": 3.4,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "st-vincent-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/saint-vincent-national-wildlife-refuge",
+   "label": "Saint Vincent National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "St. Vincent Island Loop",
+     "url": "https://www.alltrails.com/trail/us/florida/st-vincent-island-loop",
+     "miles": 4.5,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "steigerwald-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/steigerwald-lake-wildlife-refuge",
+   "label": "Steigerwald Lake Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Gibbons Creek Wildlife Art Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/gibbons-creek-wildlife-art-trail--2",
+     "miles": 4.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Refuge River Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/refuge-river-trail",
+     "miles": 6,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Mountain View, Refuge River, and Gibbons Creek Wildlife Art Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/mountain-view-refuge-river-and-gibbons-creek-wildlife-art-trail",
+     "miles": 6.4,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "stewart-b-mckinney-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/connecticut/stewart-b-mckinney-national-wildlife-refuge",
+   "label": "Stewart B. McKinney National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Great Meadows Trail",
+     "url": "https://www.alltrails.com/trail/us/connecticut/great-meadows-trail",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "stillwater-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nevada/stillwater-national-wildlife-refuge",
+   "label": "Stillwater National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Stillwater National Wildlife Refuge Auto Tour Loop",
+     "url": "https://www.alltrails.com/trail/us/nevada/auto-tour-loop",
+     "miles": 9.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Tule Pond Trail",
+     "url": "https://www.alltrails.com/trail/us/nevada/tule-pond-trail",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Stillwater Point Reservoir and Observation Tower",
+     "url": "https://www.alltrails.com/trail/us/nevada/stillwater-point-reservoir-and-observation-tower",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "stone-lakes-national-wildlife-refuge": {
+   "park": null,
+   "label": "Friends of Stone Lakes National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Blue Heron Trail",
+     "url": "https://www.alltrails.com/trail/us/california/blue-heron-trail--2",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "sunkhaze-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/maine/sunkhaze-meadows-national-wildlife-refuge",
+   "label": "Sunkhaze Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Spruce Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/spruce-loop-trail",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Johnson Brook Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/johnson-brook-trail",
+     "miles": 3.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Oak Point Trail",
+     "url": "https://www.alltrails.com/trail/us/maine/oak-point-trail",
+     "miles": 2.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "supawna-meadows-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-jersey/supawna-meadows-national-wildlife-refuge",
+   "label": "Supawna Meadows National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Grassland Trail",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/grassland-trail",
+     "miles": 3.7,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "swan-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/missouri/swan-lake-national-wildlife-refuge",
+   "label": "Swan Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Swan Lake National Wildlife Refuge",
+     "url": "https://www.alltrails.com/trail/us/missouri/swan-lake-national-wildlife-refuge",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "tamarac-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/minnesota/tamarac-national-wildlife-refuge",
+   "label": "Tamarac National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Old Indian Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/old-indian-trail--4",
+     "miles": 2.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "North Country Trail: 400 Ave Trailhead to Tamarac Visitor Center",
+     "url": "https://www.alltrails.com/trail/us/minnesota/north-country-trail-400-ave-trailhead-to-tamarac-visitor-center",
+     "miles": 15.8,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "East Tamarack Trail",
+     "url": "https://www.alltrails.com/trail/us/minnesota/east-tamarack-trail",
+     "miles": 3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "target-rock-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/target-rock-national-wildlife-refuge",
+   "label": "Target Rock National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Rocky Beach and Warblers Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/target-rock-national-wildlife-refuge-loop",
+     "miles": 1.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Target Rock National Wildlife Refuge to Hawk Hill and East Beach",
+     "url": "https://www.alltrails.com/trail/us/new-york/target-rock-national-wildlife-refuge-to-hawk-hill-and-east-beach",
+     "miles": 2.2,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "ten-thousand-islands-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/florida/ten-thousand-islands-national-wildlife-refuge",
+   "label": "Ten Thousand Islands National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/florida/marsh-trail--4",
+     "miles": 2.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "tewaukon-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-dakota/tewaukon-national-wildlife-refuge",
+   "label": "Tewaukon National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Tewaukon NWR Whitetail Loop",
+     "url": "https://www.alltrails.com/trail/us/north-dakota/tewaukon-nwr-whitetail-loop",
+     "miles": 0.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "texas-point-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/texas-point-national-wildlife-refuge",
+   "label": "Texas Point National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Texas Point Cattlewalk Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/texas-point-cattlewalk-trail",
+     "miles": 4.1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "tijuana-slough-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/tijuana-slough-national-wildlife-refuge",
+   "label": "Tijuana Slough National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Cathedral Trail and North Beach Loop",
+     "url": "https://www.alltrails.com/trail/us/california/cathedral-trail-and-north-beach-loop",
+     "miles": 3.8,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Sunset Spur Trail",
+     "url": "https://www.alltrails.com/trail/us/california/sunset-spur-trail",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "toppenish-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/toppenish-national-wildlife-refuge",
+   "label": "Toppenish National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Toppenish National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/toppenish-national-wildlife-refuge--2",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "trempealeau-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wisconsin/trempealeau-national-wildlife-refuge",
+   "label": "Trempealeau National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Great River State Trail",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/great-river-state-trail",
+     "miles": 21.9,
+     "difficulty": "Easy",
+     "route": "Point to point"
+    },
+    {
+     "name": "Pine Creek Dike",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/pine-creek-dike",
+     "miles": 1,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Prairie's Edge Auto Tour Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/trempeleau-nwr-auto-tour",
+     "miles": 4.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "trinity-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/texas/trinity-river-national-wildlife-refuge",
+   "label": "Trinity River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Knobby Knees Trail",
+     "url": "https://www.alltrails.com/trail/us/texas/knobby-knees-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Great Egret’s Ridge Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/texas/great-egrets-ridge-trail-loop",
+     "miles": 5.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "trustom-pond-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/rhode-island/trustom-pond-national-wildlife-refuge",
+   "label": "Trustom Pond National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Trustom Pond National Wildlife Refuge Trail",
+     "url": "https://www.alltrails.com/trail/us/rhode-island/trustom-pond-national-wildlife-refuge-trail",
+     "miles": 2.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Farm Field Loop, Osprey Point Trail, and Red Maple Swamp Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/rhode-island/farm-field-loop-osprey-point-trail-and-red-maple-swamp-trail-loop",
+     "miles": 2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "tualatin-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/tualatin-river-national-wildlife-refuge",
+   "label": "Tualatin River National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Tualatin River Refuge Seasonal Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/oregon/tualatin-river-refuge-seasonal-trail-loop",
+     "miles": 3.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Tualatin River Refuge River Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/tualatin-river-refuge-river-trail",
+     "miles": 1.8,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "tule-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/california/tule-lake-national-wildlife-refuge",
+   "label": "Tule Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Discovery Marsh Trail",
+     "url": "https://www.alltrails.com/trail/us/california/discovery-marsh-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "turnbull-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/turnbull-national-wildlife-refuge",
+   "label": "Turnbull National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Stubblefield Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/stubblefield-lake-loop",
+     "miles": 5.7,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Pine Lakes Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/pine-lakes-loop-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Pine Lake and Stubblefield Trail Loop",
+     "url": "https://www.alltrails.com/trail/us/washington/pine-lake-and-stubblefield-trail-loop",
+     "miles": 1.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "umbagog-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-hampshire/umbagog-national-wildlife-refuge",
+   "label": "Umbagog National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Magalloway River Trail",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/magalloway-river-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "union-slough-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/iowa/union-slough-national-wildlife-refuge",
+   "label": "Union Slough National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Overlook Trail",
+     "url": "https://www.alltrails.com/trail/us/iowa/overlook-trail-2",
+     "miles": 0.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Deer Meadow Park Loop",
+     "url": "https://www.alltrails.com/trail/us/iowa/deer-meadow-park-loop",
+     "miles": 1.3,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "upper-mississippi-river-national-wildlife-and-fish-refuge": {
+   "park": "https://www.alltrails.com/parks/us/wisconsin/upper-mississippi-river-national-wildlife-and-fish-refuge",
+   "label": "Upper Mississippi River National Wildlife and Fish Refuge",
+   "trails": [
+    {
+     "name": "Main Trail, South Loop, and Visitor Center Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/main-trail-south-loop-and-visitor-center-loop",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Upper Mississippi River South Loop",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/upper-mississippi-river-south-loop",
+     "miles": 1.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Wyalusing Canoe Trail",
+     "url": "https://www.alltrails.com/trail/us/wisconsin/wyalusing-canoe-trail",
+     "miles": 5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "upper-souris-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/north-dakota/upper-souris-national-wildlife-refuge",
+   "label": "Upper Souris National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Oxbow Nature Extended Trail",
+     "url": "https://www.alltrails.com/trail/us/north-dakota/oxbow-nature-extended-trail",
+     "miles": 0.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Cottonwood Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/north-dakota/cottonwood-nature-trail",
+     "miles": 1,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "valentine-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/nebraska/valentine-wildlife-refuge",
+   "label": "Valentine Wildlife Refuge",
+   "trails": [
+    {
+     "name": "CCC Lookout Tower Number 1",
+     "url": "https://www.alltrails.com/trail/us/nebraska/ccc-lookout-tower-number-1",
+     "miles": 1.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Valentine Wildlife Refuge Nature Trail",
+     "url": "https://www.alltrails.com/trail/us/nebraska/valentine-wildlife-refuge-nature-trail",
+     "miles": 0.3,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "valle-de-oro-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-mexico/valle-de-oro-national-wildlife-refuge",
+   "label": "Valle de Oro National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Valle de Oro Bosque Loop",
+     "url": "https://www.alltrails.com/trail/us/new-mexico/valle-de-oro-bosque-loop",
+     "miles": 2.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "waccamaw-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/south-carolina/waccamaw-national-wildlife-refuge",
+   "label": "Waccamaw National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Waccamaw Yellow and Blue Loop",
+     "url": "https://www.alltrails.com/trail/us/south-carolina/waccamaw-yellow-and-blue-loop",
+     "miles": 2.7,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "wallkill-river-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/wallkill-national-wildlife-refuge",
+   "label": "Wallkill National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Liberty Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/liberty-loop-trail",
+     "miles": 2.5,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Dagmar Dale Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/new-jersey/dagmar-dale-loop-trail",
+     "miles": 2.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "wapack-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-hampshire/wapack-national-wildlife-refuge",
+   "label": "Wapack National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "North Pack Monadnock Mountain via Wapack Trail",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/north-pack-monadnock-mountain-via-wapack-trail",
+     "miles": 3.1,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    },
+    {
+     "name": "North Pack Monadnock and Cliff Trail via Wapack Trail",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/north-pack-monadnock-and-cliff-trail-via-wapack-trail",
+     "miles": 4.8,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    },
+    {
+     "name": "Wapack Trail via Northern Terminus Trailhead",
+     "url": "https://www.alltrails.com/trail/us/new-hampshire/wapack-trail-via-northern-terminus-trailhead",
+     "miles": 21.2,
+     "difficulty": "Hard",
+     "route": "Point to point"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "wapato-lake-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/wapato-lake-national-wildlife-refuge",
+   "label": "Wapato Lake National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Levee Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/levee-trail",
+     "miles": 4.4,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "washita-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oklahoma/washita-national-wildlife-refuge",
+   "label": "Washita National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Riverside Recreation Area",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/riverside-recreation-area",
+     "miles": 1.1,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Washita Centennial Trail",
+     "url": "https://www.alltrails.com/trail/us/oklahoma/washita-centennial-trail",
+     "miles": 0.4,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "wertheim-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/new-york/wertheim-national-wildlife-refuge",
+   "label": "Wertheim National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Wertheim Wildlife Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/wertheim-wildlife-trail",
+     "miles": 3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Black Tupelo Trail",
+     "url": "https://www.alltrails.com/trail/us/new-york/black-tupelo-trail",
+     "miles": 3.5,
+     "difficulty": "Easy",
+     "route": "Out & back"
+    },
+    {
+     "name": "Carmans River Paddle Route",
+     "url": "https://www.alltrails.com/trail/us/new-york/carmans-river",
+     "miles": 5.4,
+     "difficulty": "Moderate",
+     "route": "Out & back"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "willapa-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/washington/willapa-national-wildlife-refuge",
+   "label": "Willapa National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Waether Beach, Bearberry and Bay Loop",
+     "url": "https://www.alltrails.com/trail/us/washington/beach-trail--5",
+     "miles": 3.9,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Willapa Bay Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/washington/willapa-bay-loop-trail",
+     "miles": 1.2,
+     "difficulty": "Easy",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
+  },
+  "william-l-finley-national-wildlife-refuge": {
+   "park": "https://www.alltrails.com/parks/us/oregon/william-l-finley-national-wildlife-refuge",
+   "label": "William L Finley National Wildlife Refuge",
+   "trails": [
+    {
+     "name": "Mill Hill Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/mill-hill-loop-trail",
+     "miles": 3.6,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "Woodpecker Loop Trail",
+     "url": "https://www.alltrails.com/trail/us/oregon/woodpecker-loop-trail",
+     "miles": 1.3,
+     "difficulty": "Easy",
+     "route": "Loop"
+    },
+    {
+     "name": "William L. Finley National Wildlife Refuge Mega Loop",
+     "url": "https://www.alltrails.com/trail/us/oregon/william-l-finley-national-wildlife-refuge-mega-loop",
+     "miles": 8.3,
+     "difficulty": "Moderate",
+     "route": "Loop"
+    }
+   ],
+   "from": "AllTrails connector",
+   "gathered": "2026-11-09"
   }
  },
- "generated": "2026-11-09T03:57:22.730Z"
+ "generated": "2026-11-09T06:37:18.505Z"
 }

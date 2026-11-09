@@ -1,0 +1,40 @@
+{
+  "slug": "camas-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1937-10-08",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Camas Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Camas Migratory Waterfowl Refuge by Executive Order 7720; it is now Camas National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7720",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Camas National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/camas/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7720—Establishing Camas Migratory Waterfowl Refuge (Oct 08, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7720-establishing-camas-migratory-waterfowl-refuge"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7720, 1937-10-08 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Camas National Wildlife Refuge was established in 1937 to manage habitat to benefit nesting waterfowl, and to provide resting and feeding habitat for spring and fall migration of ducks, geese, and other waterfowl."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

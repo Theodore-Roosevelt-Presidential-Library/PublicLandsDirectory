@@ -1,0 +1,44 @@
+{
+  "slug": "big-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1915-08-02",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Big Lake Reservation",
+      "indexText": "President Woodrow Wilson established the Big Lake Reservation by Executive Order 2230; it is now Big Lake National Wildlife Refuge.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Woodrow Wilson",
+        "citation": "Executive Order 2230",
+        "signedBy": "Woodrow Wilson"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Big Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/big-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8008—Changing the Name of the Big Lake Reservation to Big Lake Migratory Bird Refuge, and Adding Certain Lands Thereto (Nov 17, 1938)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8008-changing-the-name-the-big-lake-reservation-big-lake-migratory-bird"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5747—Big Lake Reservation, Arkansas (Nov 11, 1931)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5747-big-lake-reservation-arkansas"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 2230, 1915-08-02 (Woodrow Wilson). Draft sentence was about the National Natural Landmarks program (1962), not the refuge. EO 2230 is cited in EOs 5747 (1931) and 8008 (1938); renamed Big Lake Migratory Bird Refuge in 1938.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

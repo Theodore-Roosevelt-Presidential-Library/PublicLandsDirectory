@@ -1,0 +1,37 @@
+{
+  "slug": "bone-hill-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-05-10",
+      "action": "established",
+      "designation": "Migratory Waterfowl Refuge",
+      "name": "Bone Hill Creek Migratory Waterfowl Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 8112 setting apart 640 acres in LaMoure County, North Dakota, as a refuge and breeding ground for migratory birds.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8112",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "Both sources carry the same order text (APP transcribes the Federal Register); no FWS document with the date was found. Renamed Bone Hill National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 8112",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8112-establishing-bone-hill-creek-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register, Executive Order 8112 (issue of 1939-05-12)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1939-05-12/pdf/FR-1939-05-12.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "sand-lake-wetland-management-district",
+ "designationHistory": [
+  {
+   "date": "1992",
+   "action": "established",
+   "designation": "Wetland Management District",
+   "name": null,
+   "indexText": "Established in 1992, the Huron Wetland Management District consists of an eight county area...",
+   "authority": {
+    "type": "unspecified",
+    "administration": null,
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Sand Lake Wetland Management District, About Us",
+     "url": "https://www.fws.gov/refuge/sand-lake-wetland-management-district/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

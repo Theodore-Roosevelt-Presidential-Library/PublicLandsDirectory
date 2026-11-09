@@ -1,6 +1,6 @@
 {
   "slug": "devils-tower-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1906-09-24",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Theodore Roosevelt",
         "administration": "Theodore Roosevelt",
-        "citation": null
+        "citation": "Proclamation 658"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 112",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 658, Sept. 24, 1906",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-658-setting-aside-devils-tower-national-monument-wyoming"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 658, Theodore Roosevelt; APP signing clause matches the date.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

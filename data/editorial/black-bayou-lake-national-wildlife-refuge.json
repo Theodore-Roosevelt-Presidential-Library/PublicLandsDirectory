@@ -1,0 +1,39 @@
+{
+  "slug": "black-bayou-lake-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1997-06-16",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "The U.S. Fish and Wildlife Service established Black Bayou Lake National Wildlife Refuge by signing a lease for the lake and surrounding land.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Lease agreement signed by the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Black Bayou Lake National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/black-bayou-lake/about-us"
+        },
+        {
+          "name": "USFWS, 508 Black Bayou Lake National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168182): \"The refuge was formally established on June 16, 1997, when assistant regional director Geoff Haskett signed the lease\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253374"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "June 16, 1997 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Black Bayou Lake National Wildlife Refuge was established in 1997."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

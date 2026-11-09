@@ -1,94 +1,144 @@
 {
-  "slug": "grand-staircase-escalante-national-monument",
-  "designationHistory": [
+ "slug": "grand-staircase-escalante-national-monument",
+ "designationHistory": [
+  {
+   "date": "1996-09-18",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Grand Staircase-Escalante National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 6920, 61 FR 50223"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1996-09-18",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Grand Staircase-Escalante National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 6920, 61 FR 50223"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 6920, 61 FR 50223",
-          "url": "https://www.federalregister.gov/documents/1996/09/24/96-24716/establishment-of-the-grand-staircase-escalante-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "Federal Register: Proclamation 6920, 61 FR 50223",
+     "url": "https://www.federalregister.gov/documents/1996/09/24/96-24716/establishment-of-the-grand-staircase-escalante-national-monument"
     },
     {
-      "date": "2017-12-04",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Modifying the Grand Staircase-Escalante National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Donald Trump",
-        "administration": "Donald J. Trump",
-        "citation": "Proclamation 9682, 82 FR 58089"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 9682, 82 FR 58089",
-          "url": "https://www.federalregister.gov/documents/2017/12/08/2017-26714/modifying-the-grand-staircase-escalante-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
-    },
-    {
-      "date": "2021-10-08",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Grand Staircase-Escalante National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Joseph R. Biden Jr.",
-        "administration": "Joseph R. Biden Jr.",
-        "citation": "Proclamation 10286, 86 FR 57335"
-      },
-      "note": "Title names the monument only; read the proclamation to describe what it changed.",
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 10286, 86 FR 57335",
-          "url": "https://www.federalregister.gov/documents/2021/10/15/2021-22673/grand-staircase-escalante-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
-    },
-    {
-      "date": "2026-07-13",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Modifying the Grand Staircase-Escalante National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Donald Trump",
-        "administration": "Donald J. Trump",
-        "citation": "Proclamation 11044, 91 FR 45179"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 11044, 91 FR 45179",
-          "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14549/modifying-the-grand-staircase-escalante-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": false
+     "name": "American Presidency Project: Proclamation 6920—Establishment of the Grand Staircase-Escalante National Monument, September 18, 1996",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-6920-establishment-the-grand-staircase-escalante-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 6920, 61 FR 50223, signed 1996-09-18; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "2017-12-04",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Modifying the Grand Staircase-Escalante National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Donald J. Trump",
+    "administration": "Donald J. Trump",
+    "citation": "Proclamation 9682, 82 FR 58089"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 9682, 82 FR 58089",
+     "url": "https://www.federalregister.gov/documents/2017/12/08/2017-26714/modifying-the-grand-staircase-escalante-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 9682—Modifying the Grand Staircase-Escalante National Monument, December 04, 2017",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-9682-modifying-the-grand-staircase-escalante-national-monument"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 9682, 82 FR 58089, signed 2017-12-04; FR API and APP agree on number, date and President. Reduced the monument by about 860,000 acres (as recited in Proclamation 11044).",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "2021-10-08",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Restored the monument's boundaries (Proclamation 10286) to about 1.87 million acres, its extent before the 2017 reduction",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Joseph R. Biden Jr.",
+    "administration": "Joseph R. Biden Jr.",
+    "citation": "Proclamation 10286, 86 FR 57335"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 10286, 86 FR 57335",
+     "url": "https://www.federalregister.gov/documents/2021/10/15/2021-22673/grand-staircase-escalante-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 10286—Grand Staircase-Escalante National Monument, October 08, 2021",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-10286-grand-staircase-escalante-national-monument"
+    },
+    {
+     "name": "Federal Register (govinfo PDF): Proclamation 10286, 86 FR 57335",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2021-10-15/pdf/2021-22673.pdf"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "corrected",
+    "note": "Proclamation 10286, 86 FR 57335, signed 2021-10-08; FR API and APP agree on number, date and President. Title names the monument only; operative text restores the lands reserved as of Dec. 3, 2017, about 1.87 million acres.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   },
+   "indexOriginal": "Grand Staircase-Escalante National Monument"
+  },
+  {
+   "date": "2026-07-13",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Modifying the Grand Staircase-Escalante National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Donald J. Trump",
+    "administration": "Donald J. Trump",
+    "citation": "Proclamation 11044, 91 FR 45179"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 11044, 91 FR 45179",
+     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14549/modifying-the-grand-staircase-escalante-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 11044—Modifying the Grand Staircase-Escalante National Monument, July 13, 2026",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-11044-modifying-the-grand-staircase-escalante-national-monument"
+    },
+    {
+     "name": "Federal Register (govinfo PDF): Proclamation 11044, 91 FR 45179",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14549.pdf"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 11044, 91 FR 45179, signed 2026-07-13; FR API and APP agree on number, date and President. Post-cutoff proclamation verified on federalregister.gov and govinfo (published July 17, 2026): reduced the monument to about 181,541 acres in two units (Canyons and Escalante; Kaiparowits Horizon). Note the proclamation text itself misprints \"9862\" for 9682.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Catoctin Recreation Demonstration Area transferred from Resettlement Administration Nov. 14, 1936",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 7496, Nov. 14, 1936, 1 F.R. 1946"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 59",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Executive Order 7496 (Nov. 14, 1936, 1 F.R. 1946) moved the recreational demonstration projects, including Catoctin, from the Resettlement Administration to the Secretary of the Interior; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1954-07-12",
@@ -44,7 +54,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No independent record found of a July 12, 1954 renaming. No act of that date appears in the Statutes list for 1954, and the July 5 to Aug. 4, 1954 Federal Register issues show no notice. The authority (likely an administrative order) and date need the park's administrative history.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

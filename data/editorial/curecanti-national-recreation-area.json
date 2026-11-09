@@ -1,0 +1,41 @@
+{
+  "slug": "curecanti-national-recreation-area",
+  "designationHistory": [
+    {
+      "date": "1965-02-11",
+      "action": "established",
+      "designation": "National Recreation Area",
+      "name": null,
+      "indexText": "The National Park Service and the Bureau of Reclamation signed a memorandum of agreement placing the Curecanti reservoir lands under National Park Service management as a national recreation area.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Lyndon B. Johnson",
+        "citation": "Memorandum of Agreement between the National Park Service and the Bureau of Reclamation, Feb. 11, 1965",
+        "signedBy": null
+      },
+      "note": "The agreement itself was not found online. The day (Feb. 11) comes from NPS; the Senate report gives the year. Congress has not passed a law establishing the area; boundary bills (for example the CORE Act) were still pending.",
+      "sources": [
+        {
+          "name": "NPS, Curecanti Laws & Policies (Memorandum of Agreement)",
+          "url": "https://www.nps.gov/cure/learn/management/lawsandpolicies.htm"
+        },
+        {
+          "name": "Senate Report 118-231 (govinfo), describing the 1965 Memorandum of Agreement",
+          "url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt231/html/CRPT-118srpt231.htm"
+        },
+        {
+          "name": "NPS, The National Parks: Index 2012-2016 (p. 38)",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

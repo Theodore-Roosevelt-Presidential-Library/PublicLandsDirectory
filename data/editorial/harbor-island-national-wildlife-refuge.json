@@ -1,0 +1,44 @@
+{
+  "slug": "harbor-island-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1983",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1983 with the purchase of Harbor Island in Lake Huron under the Fish and Wildlife Act of 1956.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Fish and Wildlife Act of 1956",
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Harbor Island National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/harbor-island/about-us"
+        },
+        {
+          "name": "FWS ServCat: Gravel Island, Green Bay, Harbor Island, Huron, and Michigan Islands NWRs CCP",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/29348"
+        },
+        {
+          "name": "FWS ServCat: Seney NWR and satellites I&M plan (Harbor Island NWR)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/57050"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed a 2019 timeline line (Standerson Island addition). The refuge was purchased/established in 1983.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established as part of the Unique Ecosystems program. 2019 – Standerson Island was added to the refuge."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

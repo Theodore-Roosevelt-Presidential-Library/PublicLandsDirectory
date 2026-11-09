@@ -1,28 +1,43 @@
 {
   "slug": "little-river-canyon-national-preserve",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1992-10-24",
+      "date": "1992-10-21",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized Oct. 24, 1992",
+      "indexText": "Authorized Oct. 21, 1992",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 102-427, 106 Stat. 2179"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 18",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 102-427, 106 Stat. 2179, Little River Canyon National Preserve Act of 1992, approved Oct. 21, 1992",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2179.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 698q, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698q&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: P.L. 102-427 was approved Oct. 21, 1992, not Oct. 24 (Statutes text and U.S. Code note agree). George H. W. Bush either way.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized Oct. 24, 1992"
     }
   ],
   "historySource": {

@@ -1,0 +1,44 @@
+{
+  "slug": "muleshoe-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1935-10-24",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Muleshoe Migratory Waterfowl Refuge",
+      "indexText": "Established Oct. 24, 1935, as the Muleshoe Migratory Waterfowl Refuge by Executive Order 7214, signed by President Franklin D. Roosevelt; it is the oldest national wildlife refuge in Texas.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7214",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Muleshoe National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/muleshoe/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7214, Oct. 24, 1935",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7214-establishing-muleshoe-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "Federal Register: Muleshoe NWR draft CCP notice, Oct. 8, 2003 (established Oct. 24, 1935)",
+          "url": "https://www.federalregister.gov/documents/2003/10/08/03-25485/notice-of-availability-of-draft-comprehensive-conservation-plan-and-environmental-assessment-for"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; EO 7214 gives date and name.",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Learn more about national wildlife refuge in Texas and was established in 1935."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

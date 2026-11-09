@@ -1,0 +1,44 @@
+{
+  "slug": "kodiak-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1941-08-19",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established Aug. 19, 1941, by Executive Order 8857, signed by President Franklin D. Roosevelt, to protect the feeding and breeding ranges of Kodiak brown bears.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8857",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Kodiak National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/kodiak/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8857, Aug. 19, 1941",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8857-establishing-the-kodiak-national-wildlife-refuge"
+        },
+        {
+          "name": "FWS ServCat: Kodiak NWR revised CCP decision summary",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/144443"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser grabbed the 1892 Afognak Forest and Fish Culture Reserve (Harrison). Kodiak NWR itself dates from EO 8857 (1941).",
+        "by": "HistorianPanel accuracy review, batch 4b (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Our History President Benjamin Harrison established the Afognak Forest and Fish Culture Reserve in Alaska in 1892, principally for the conservation of sockeye salmon."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

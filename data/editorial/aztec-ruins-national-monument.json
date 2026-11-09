@@ -1,6 +1,6 @@
 {
   "slug": "aztec-ruins-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1923-01-24",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Warren G. Harding",
         "administration": "Warren G. Harding",
-        "citation": null
+        "citation": "Proclamation 1650, 42 Stat. 2295"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 42 Stat. 2295 (govinfo): Proclamation 1650, signed Jan. 24, 1923",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-42/pdf/STATUTE-42-Pg2294.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1650 created Aztec Ruin National Monument; Harding.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1928-07-02",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Renamed July 2, 1928",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
         "administration": "Calvin Coolidge",
-        "citation": null
+        "citation": "Proclamation 1840, 45 Stat. 2954"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 45 Stat. 2954 (govinfo): Proclamation 1840, July 2, 1928, enlarging the monument \"hereafter to be known as the Aztec Ruins National Monument\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg2954.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Renamed by Proclamation 1840; Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

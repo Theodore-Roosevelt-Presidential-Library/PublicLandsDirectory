@@ -1,0 +1,41 @@
+{
+  "slug": "sloan-canyon-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2002-11-06",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Clark County Conservation of Public Land and Natural Resources Act of 2002 established the Sloan Canyon National Conservation Area in Nevada.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 107-282, title VI, sec. 604, 116 Stat. 1994, 2010",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 107-282, 116 Stat. 1994 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ282/html/PLAW-107publ282.htm"
+        },
+        {
+          "name": "16 U.S.C. 460qqq-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460qqq-2"
+        },
+        {
+          "name": "BLM unit page: Sloan Canyon National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/nevada/sloan-canyon-nca"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "silvio-o-conte-national-fish-and-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1991-12-11",
+   "action": "established",
+   "designation": "National Fish and Wildlife Refuge",
+   "name": null,
+   "indexText": "Congress passed the Silvio O. Conte National Fish and Wildlife Refuge Act, signed December 11, 1991, which directed the establishment of the refuge along the Connecticut River.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": "George H. W. Bush",
+    "citation": "Silvio O. Conte National Fish and Wildlife Refuge Act, Public Law 102-212, title I, 105 Stat. 1655",
+    "signedBy": "George H. W. Bush"
+   },
+   "note": "Pass A (2017 CCP: the 1991 Conte Refuge Act authorized the refuge) and Pass B (statute text: \"An Act To establish the Silvio O. Conte National Fish and Wildlife Refuge,\" Dec. 11, 1991) agree. This is the authorizing act; see the 1997 event for when the refuge came into being.",
+   "sources": [
+    {
+     "name": "Public Law 102-212, 105 Stat. 1655 (Dec. 11, 1991), govinfo",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1655.pdf"
+    },
+    {
+     "name": "FWS, Silvio O. Conte NFWR Comprehensive Conservation Plan (2017), ch. 1",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/116946"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "1997-10-03",
+   "action": "established",
+   "designation": "National Fish and Wildlife Refuge",
+   "name": null,
+   "indexText": "The refuge was officially established on October 3, 1997, when the Connecticut River Watershed Council donated Third Island in Deerfield, Massachusetts, to the Fish and Wildlife Service.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Bill Clinton",
+    "citation": "Donation of first parcel under the 1991 Conte Refuge Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Silvio O. Conte NFWR Comprehensive Conservation Plan (2017), ch. 1 and 3",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/116946"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

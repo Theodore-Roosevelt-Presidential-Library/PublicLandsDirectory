@@ -1,6 +1,6 @@
 {
   "slug": "captain-john-smith-chesapeake-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2006-12-19",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Established: Dec. 19, 2006",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "P.L. 109-418, 120 Stat. 2882"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 142",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 120 Stat. 2882 (govinfo): P.L. 109-418, Dec. 19, 2006",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-120/pdf/STATUTE-120-Pg2882.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 1244 note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Captain John Smith Chesapeake National Historic Trail Designation Act; George W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

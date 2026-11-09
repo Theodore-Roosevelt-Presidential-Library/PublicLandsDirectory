@@ -1,0 +1,40 @@
+{
+  "slug": "theodore-roosevelt-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "2004",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 2004 in the Mississippi Delta as part of the Theodore Roosevelt National Wildlife Refuge Complex.",
+      "authority": {
+        "type": "unspecified",
+        "administration": null,
+        "citation": null,
+        "signedBy": null
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Theodore Roosevelt National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/theodore-roosevelt/about-us"
+        },
+        {
+          "name": "Federal Register, Mar. 21, 2006 (06-2673), Theodore Roosevelt NWR Complex CCP: complex includes \"Theodore Roosevelt (established in 2004)\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-03-21/pdf/06-2673.pdf"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Bayou Cocodrie NWR (1990). Theodore Roosevelt NWR (Mississippi) dates to 2004. Authority not found. Not a T.R.-era action; named for him.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bayou Cocodrie National Wildlife Refuge Bayou Cocodrie National Wildlife Refuge was established in 1990 to conserve some of the last remaining, least disturbed and largest stands of bottomland hardwoods in the Lower Mississippi Valley."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

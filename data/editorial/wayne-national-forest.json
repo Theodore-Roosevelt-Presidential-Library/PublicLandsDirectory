@@ -1,0 +1,41 @@
+{
+  "slug": "wayne-national-forest",
+  "designationHistory": [
+    {
+      "date": "1951-09-04",
+      "action": "designated",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "The Acting Secretary of Agriculture ordered that Weeks Act lands in the described areas of Ohio be administered as the Wayne National Forest from Oct. 1, 1951.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Harry S. Truman",
+        "citation": "Order of the Secretary of Agriculture, Sept. 4, 1951 (effective Oct. 1, 1951), 16 F.R. 9174",
+        "signedBy": null
+      },
+      "note": "Signed Sept. 4, 1951 by Acting Secretary K. T. Hutchinson; effective Oct. 1, 1951. Wayne was later administered jointly with the Hoosier (Wayne-Hoosier); that was administrative.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 16 (Sept. 8, 1951), 16 F.R. 9174, 'Wayne and Hoosier National Forests' (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1951-09-08/pdf/FR-1951-09-08.pdf"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "Forest History Society, 'The National Forests of the United States' (Appendix I of Davis, ed., Encyclopedia of American Forest and Conservation History, 1983)",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

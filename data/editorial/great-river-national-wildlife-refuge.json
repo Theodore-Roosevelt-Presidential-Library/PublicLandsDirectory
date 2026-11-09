@@ -1,0 +1,32 @@
+{
+ "slug": "great-river-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "2000-05-31",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "fuge Annada, MO Middle Mississippi River National Wildlife Refuge Middle Mississippi River National Wildlife Refuge was established as an individual refuge on May 31, 2000.",
+   "authority": {
+    "type": "unspecified",
+    "administration": "Bill Clinton",
+    "citation": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service: Great River National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/great-river/about-us"
+    }
+   ],
+   "research": "fws-about",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "patuxent-research-refuge",
+  "designationHistory": [
+    {
+      "date": "1936-12-16",
+      "action": "established",
+      "designation": "Research Refuge",
+      "name": "Patuxent Research Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Patuxent Research Refuge in Anne Arundel and Prince George's Counties, Maryland, by Executive Order 7514.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7514",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "FWS ServCat: Patuxent Research Refuge, Compatibility Determination, Hunting (2022)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/171442"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7514",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7514-establishing-patuxent-research-refuge-the-state-maryland"
+        }
+      ],
+      "research": "fws-b",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

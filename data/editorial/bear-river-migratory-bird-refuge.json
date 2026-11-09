@@ -1,0 +1,37 @@
+{
+  "slug": "bear-river-migratory-bird-refuge",
+  "designationHistory": [
+    {
+      "date": "1928-04-23",
+      "action": "established",
+      "designation": "Migratory Bird Refuge",
+      "name": null,
+      "indexText": "Congress passed an act to establish the Bear River Migratory Bird Refuge at the mouth of the Bear River on Great Salt Lake.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Calvin Coolidge",
+        "citation": "Act of April 23, 1928 (45 Stat. 448)",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "Hoover's 1932 Proclamation 2012 quotes the act's title and approval date; the FWS plan gives 1928. Signer is the President in office on April 23, 1928. Hoover's 1932 proclamation added public lands to the refuge.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Bear River Migratory Bird Refuge: Comprehensive Management Plan, 1997 (ServCat 1389)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1389"
+        },
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Proclamation 2012, Bear River Migratory Bird Refuge-Utah (Sept. 26, 1932)",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2012-bear-river-migratory-bird-refuge-utah"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "j-n-ding-darling-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1945-12-01",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": "Sanibel National Wildlife Refuge",
+   "indexText": "At the urging of Jay Norwood \"Ding\" Darling, the Sanibel National Wildlife Refuge was established through a lease agreement with the State of Florida under the Migratory Bird Conservation Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Harry S. Truman",
+    "citation": "Lease agreement with the State of Florida under the Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS ServCat: J.N. \"Ding\" Darling NWR Comprehensive Conservation Plan (2010)",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/8482"
+    },
+    {
+     "name": "Island Reporter / captivasanibel.com, letter, June 2010: When did the islands officially become special?",
+     "url": "https://www.captivasanibel.com/opinion/letters-to-the-editor/2010/06/when-did-the-islands-officially-become-special/"
+    }
+   ],
+   "research": "fws-b",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

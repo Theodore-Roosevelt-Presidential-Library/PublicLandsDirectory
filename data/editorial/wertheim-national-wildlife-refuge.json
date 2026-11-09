@@ -1,0 +1,39 @@
+{
+  "slug": "wertheim-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1947",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Established in 1947 when Maurice and Cecile Wertheim donated their land on the Carmans River, Long Island, to the federal government for a wildlife refuge.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Land donation to the U.S. Fish and Wildlife Service"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Wertheim National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/wertheim/about-us"
+        },
+        {
+          "name": "Lost History (NY/NJ/CT botany): Wertheim chronology, \"1947 -- Cecile Wertheim and Maurice Wertheim ... donate 1,800 acres ... to the government\"",
+          "url": "https://www.losthistory.net/nynjctbotany/lgtofc/wertheim.html"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by a secondary chronology; weak sourcing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "s Trails Rules & Policies Get Involved Events News Library Species Map https://www.facebook.com/LongIslandNWRC About Us Established in 1947, Wertheim National Wildlife Refuge protects 2,550 acres on the south shore of Long Island."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

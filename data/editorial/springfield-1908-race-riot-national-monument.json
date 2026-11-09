@@ -18,11 +18,22 @@
         {
           "name": "Federal Register: Proclamation 10792, 89 FR 67821",
           "url": "https://www.federalregister.gov/documents/2024/08/22/2024-18999/establishment-of-the-springfield-1908-race-riot-national-monument"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 10792—Establishment of the Springfield 1908 Race Riot National Monument, August 16, 2024",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-10792-establishment-the-springfield-1908-race-riot-national-monument"
         }
       ],
       "research": "federal-register",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 10792, 89 FR 67821, signed 2024-08-16; FR API and APP agree on number, date and President.",
+        "by": "HistorianPanel accuracy review, batch 2",
+        "date": "2026-11-09"
+      }
     }
   ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+  "historySource": "Federal Register presidential proclamations (draft, pending review)",
+  "status": "reviewed"
 }

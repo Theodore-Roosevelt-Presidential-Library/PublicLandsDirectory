@@ -1,0 +1,41 @@
+{
+  "slug": "everglades-headwaters-national-wildlife-refuge-and-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2012-01-18",
+      "action": "established",
+      "designation": "National Wildlife Refuge and Conservation Area",
+      "name": null,
+      "indexText": "Interior Secretary Ken Salazar announced the creation of the Everglades Headwaters National Wildlife Refuge and Conservation Area in the Kissimmee River Valley south of Orlando, aiming to protect about 150,000 acres, much of it through conservation easements on working ranches.",
+      "authority": {
+        "type": "administrative",
+        "administration": "Barack Obama",
+        "citation": "Secretarial establishment (Fish and Wildlife Act of 1956, Migratory Bird Conservation Act, Endangered Species Act and other authorities)",
+        "signedBy": null
+      },
+      "note": "Both releases date the announcement January 18, 2012. The exact authority list was not checked line by line; the date of the first land interest acquired was not found.",
+      "sources": [
+        {
+          "name": "U.S. Department of the Interior news release, Jan. 18, 2012, 'Salazar Announces Establishment of Everglades Headwaters NWR and Conservation Area'",
+          "url": "https://www.doi.gov/node/14263"
+        },
+        {
+          "name": "Defenders of Wildlife, 'New wildlife refuge established in Florida', Jan. 18, 2012",
+          "url": "https://defenders.org/newsroom/new-wildlife-refuge-established-florida"
+        },
+        {
+          "name": "Federal Register, Jan. 19, 2012 (77 FR 2754), FWS notice of availability of the final EIS and land protection plan",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2012-01-19/pdf/2012-1019.pdf"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

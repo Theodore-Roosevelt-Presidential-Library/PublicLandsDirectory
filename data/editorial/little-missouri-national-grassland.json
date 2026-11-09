@@ -1,0 +1,45 @@
+{
+  "slug": "little-missouri-national-grassland",
+  "designationHistory": [
+    {
+      "date": "1960-06-20",
+      "action": "designated",
+      "designation": "National Grassland",
+      "name": "Western North Dakota land utilization project",
+      "indexText": "The Secretary of Agriculture designated the Western North Dakota land utilization project (ND-24) in Billings, Golden Valley, McKenzie and Slope Counties a national grassland, to be part of the National Forest System.",
+      "authority": {
+        "type": "secretarial-order",
+        "administration": "Dwight D. Eisenhower",
+        "citation": "Order of the Secretary of Agriculture, June 20, 1960, 25 F.R. 5845 (36 CFR 213.1)",
+        "signedBy": null
+      },
+      "note": "The 1960 order did not use the name 'Little Missouri National Grassland'. It listed the area as the Western North Dakota land utilization project (ND-24) in Billings, Golden Valley, McKenzie and Slope Counties. The Chief of the Forest Service was authorized to name the grasslands (36 CFR 213.2); the date the current name was first applied was not found. Order signed June 20, 1960 by Acting Secretary of Agriculture True D. Morse; filed June 23 and published June 24, 1960. Some secondary sources give June 23, the filing date.",
+      "sources": [
+        {
+          "name": "Federal Register, Vol. 25, No. 122 (June 24, 1960), 25 F.R. 5845: Secretary of Agriculture order adding 36 CFR Part 213, National Grasslands (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1960-06-24/pdf/FR-1960-06-24.pdf"
+        },
+        {
+          "name": "Francis Moul, 'National Grasslands,' Encyclopedia of the Great Plains (University of Nebraska-Lincoln)",
+          "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.sr.039.html"
+        },
+        {
+          "name": "Forest Service, Establishment and Modification of National Forest Boundaries and National Grasslands: A Chronological Record, 1891-2012 (FS-612), govinfo copy",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A13-PURL-gpo107042/pdf/GOVPUB-A13-PURL-gpo107042.pdf"
+        },
+        {
+          "name": "36 CFR 213.1, Designation, administration, and development of National Grasslands (eCFR, with amendment history)",
+          "url": "https://www.ecfr.gov/current/title-36/chapter-II/part-213/section-213.1"
+        }
+      ],
+      "research": "usfs",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

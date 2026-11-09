@@ -1,0 +1,81 @@
+{
+  "slug": "william-b-bankhead-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-06-19",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "Black Warrior National Forest",
+      "indexText": "Black Warrior: 1-F.R. 645 Established. 49 Stat. 3526",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2178, 49 Stat. 3526"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "49 Stat. 3526 (Statutes at Large, govinfo): Proclamation of June 19, 1936, Franklin D. Roosevelt: margin \"Name changed\"; changes \"the name of said Alabama National Forest, as established by proclamation of January 15, 1918, 40 Stat. 1740, to the Black Warrior National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg3526.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2178, June 19, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2178-black-warrior-national-forest-alabama"
+        },
+        {
+          "name": "40 Stat. 1740 (Statutes at Large, govinfo): Proclamation of Jan. 15, 1918, Woodrow Wilson, Alabama National Forest",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1740.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong action and designation. Proclamation 2178 (June 19, 1936, Franklin D. Roosevelt) enlarged the Alabama National Forest and renamed it the Black Warrior National Forest. It was a national forest, not a \"forest reserve.\" The forest itself was established as the Alabama National Forest by Woodrow Wilson, Proclamation 1423, Jan. 15, 1918, 40 Stat. 1740. That event is missing from the draft and should be added.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1942-06-06",
+      "action": "renamed",
+      "designation": "National Forest",
+      "name": "William B. Bankhead National Forest",
+      "indexText": "Black Warrior: Name changed to William B. Bankhead.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Public Law 77-595, 56 Stat. 327"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 84",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "56 Stat. 327 (Statutes at Large, govinfo): Act of June 6, 1942 (Public Law 595): the Black Warrior National Forest \"shall be known and designated as the William B. Bankhead National Forest\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-56/pdf/STATUTE-56-Pg327.pdf"
+        },
+        {
+          "name": "Davis, The National Forests of the United States (Encyclopedia of American Forest and Conservation History, App. I, 1983), Forest History Society PDF; compiled partly from an earlier edition of the Forest Service chronologic record, so secondary corroboration only",
+          "url": "https://foresthistory.org/wp-content/uploads/2017/01/National-Forests-of-the-U.S.pdf"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 6, 1942, Public Law 77-595, 56 Stat. 327, Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "carolina-sandhills-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1939-03-17",
+      "action": "established",
+      "designation": "Wildlife Refuge",
+      "name": "Carolina Sandhills Wildlife Refuge",
+      "indexText": "Franklin D. Roosevelt signed Executive Order 8067 establishing the Carolina Sandhills Wildlife Refuge on worn-out farmland the federal government had bought in Chesterfield County, South Carolina, under New Deal land programs.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8067",
+        "signedBy": "Franklin D. Roosevelt"
+      },
+      "note": "A second order, Executive Order 8510 of August 8, 1940, established the Carolina Sandhills Wildlife Management Area (APP). Renamed Carolina Sandhills National Wildlife Refuge by Proclamation 2416 (July 25, 1940).",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Carolina Sandhills NWR Comprehensive Conservation Plan, 2010 (ServCat 169394)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/169394"
+        },
+        {
+          "name": "The American Presidency Project (UC Santa Barbara), Executive Order 8067",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8067-establishing-the-carolina-sandhills-wildlife-refuge"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

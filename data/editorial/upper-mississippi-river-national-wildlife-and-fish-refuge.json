@@ -1,0 +1,37 @@
+{
+  "slug": "upper-mississippi-river-national-wildlife-and-fish-refuge",
+  "designationHistory": [
+    {
+      "date": "1924-06-07",
+      "action": "established",
+      "designation": "Wild Life and Fish Refuge",
+      "name": "Upper Mississippi River Wild Life and Fish Refuge",
+      "indexText": "Congress established the Upper Mississippi River Wild Life and Fish Refuge by the Upper Mississippi River Wild Life and Fish Refuge Act, approved June 7, 1924.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Calvin Coolidge",
+        "citation": "Act of June 7, 1924, ch. 346, 43 Stat. 650",
+        "signedBy": "Calvin Coolidge"
+      },
+      "note": "Pass A (2006 CCP: established by an act of Congress on June 7, 1924) and Pass B (U.S. Code source credit for the act: June 7, 1924, ch. 346, 43 Stat. 650) agree. The act made land acquisition depend on consent of the four state legislatures. Name affirmed as Upper Mississippi River National Wildlife and Fish Refuge by Public Law 105-312 (1998).",
+      "sources": [
+        {
+          "name": "U.S. Code, 16 U.S.C. 721 (source credit: June 7, 1924, ch. 346, 43 Stat. 650)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/721"
+        },
+        {
+          "name": "FWS, Upper Mississippi River NWFR Final CCP and EIS (2006)",
+          "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1476"
+        }
+      ],
+      "research": "fws-c",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "sawtooth-national-forest",
+  "designationHistory": [
+    {
+      "date": "1905-05-29",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Sawtooth: Established reserve (Proclamation 562, May 29, 1905)",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 562, 34 Stat. 3058",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 27",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3058 (Statutes at Large, govinfo): Proclamation of May 29, 1905, Theodore Roosevelt: \"shall be known as The Sawtooth Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3058.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 562, May 29, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-562-establishment-the-sawtooth-forest-reserve-idaho"
+        },
+        {
+          "name": "Presidential Executive Orders, Numbered 1-8030, 1862-1938 (WPA Historical Records Survey, 1944), vol. 1, list entry 858: June 26, 1908, Sawtooth National Forest, Idaho, diminished and the excluded lands constituted portions of the Boise, Challis, Lemhi, and Payette",
+          "url": "https://archive.org/details/PresidentialExecutiveOrdersV1"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong event. EO 858 (June 26, 1908) cut land from the Sawtooth to form other forests; it did not establish the Sawtooth. The Sawtooth Forest Reserve was established by Theodore Roosevelt, Proclamation 562, May 29, 1905, 34 Stat. 3058.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Sawtooth: Part deleted to establish Boise. Land transferred to Challis, Lemhi and Payette."
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

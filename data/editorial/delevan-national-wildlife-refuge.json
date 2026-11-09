@@ -1,0 +1,33 @@
+{
+ "slug": "delevan-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1962",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Delevan National Wildlife Refuge in California's Sacramento Valley was established in 1962 under the Migratory Bird Conservation Act to give migratory birds sanctuary.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Migratory Bird Conservation Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Sacramento, Delevan, Colusa and Sutter NWRs Final CCP and EA, 2009 (ServCat 8237)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/8237"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

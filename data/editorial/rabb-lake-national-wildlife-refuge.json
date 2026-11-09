@@ -1,0 +1,33 @@
+{
+ "slug": "rabb-lake-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1948-12-21",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Fish and Wildlife Service records give December 21, 1948 as the establishment date of Rabb Lake National Wildlife Refuge, a limited-interest (easement) refuge, under the Act of August 14, 1946, the forerunner of the Fish and Wildlife Coordination Act.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Harry S. Truman",
+    "citation": "Act of August 14, 1946 (Fish and Wildlife Coordination Act amendments), 16 U.S.C. 661-667e",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Comprehensive Conservation Plan: North Dakota Limited-interest National Wildlife Refuges (2006), Table 4",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/1540"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

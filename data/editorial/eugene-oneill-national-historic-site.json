@@ -1,28 +1,47 @@
 {
   "slug": "eugene-oneill-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1976-10-12",
+      "date": "1976-10-18",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized Oct. 12, 1976",
+      "indexText": "Authorized Oct. 18, 1976",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 94-539, 90 Stat. 2501"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 32",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 90 Stat. 2501 (govinfo): P.L. 94-539, \"Approved October 18, 1976\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2501.pdf"
+        },
+        {
+          "name": "Statutes at Large vol. 90, List of Public Laws (govinfo): P.L. 94-539, Eugene O'Neill National Historic Site, designation, Oct. 18, 1976",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-FrontMatter-1-Pgi.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Oct. 12 is wrong: P.L. 94-539 was approved Oct. 18, 1976 (Ford).",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized Oct. 12, 1976"
     }
   ],
   "historySource": {

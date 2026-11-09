@@ -1,0 +1,42 @@
+{
+  "slug": "chattahoochee-national-forest",
+  "designationHistory": [
+    {
+      "date": "1936-07-09",
+      "action": "established",
+      "designation": "National Forest",
+      "name": null,
+      "indexText": "Chattahoochee: 1-F.R. 776 Established. 50 Stat. 1739",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Proclamation 2184, 50 Stat. 1739"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 76",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "50 Stat. 1739 (Statutes at Large, govinfo): Proclamation No. 2184, July 9, 1936, Franklin D. Roosevelt",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1739.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2184, July 9, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2184-chattahoochee-national-forest-georgia"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2184, July 9, 1936, 50 Stat. 1739 (1 FR 776), Franklin D. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "copalis-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1907-10-23",
+      "action": "established",
+      "designation": "Reservation",
+      "name": "Copalis Rock Reservation",
+      "indexText": "Theodore Roosevelt signed Executive Order 704 reserving the small islands off the Washington coast between latitudes 47°8' and 47°29' North, including Copalis Rock, as a preserve and breeding ground for native birds and animals.",
+      "authority": {
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 704",
+        "signedBy": "Theodore Roosevelt"
+      },
+      "note": "Same day T.R. also signed Executive Orders 703 (Flattery Rocks) and 705 (Quillayute Needles). Renamed Copalis National Wildlife Refuge by Proclamation 2416, dated July 25, 1940 (APP); the CCP gives July 30, 1940 for the renaming.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service, Washington Islands NWRs (Flattery Rocks, Quillayute Needles and Copalis) CCP/EA, 2007 (ServCat 1470)",
+          "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1470"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 704 (from a period government printing)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_704"
+        }
+      ],
+      "research": "fws-a",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

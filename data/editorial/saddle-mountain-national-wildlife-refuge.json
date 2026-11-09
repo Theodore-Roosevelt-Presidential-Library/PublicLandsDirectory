@@ -1,0 +1,33 @@
+{
+ "slug": "saddle-mountain-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1971-11-30",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Saddle Mountain National Wildlife Refuge was created on November 30, 1971, through a permit from the Atomic Energy Commission (now Energy Department) letting the Fish and Wildlife Service manage part of the Hanford Site's Wahluke Slope.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Richard Nixon",
+    "citation": "Permit for Management and Recreational Use of the Wahluke Slope (1971), under the Fish and Wildlife Act of 1956",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "FWS, Hanford Reach National Monument Final CCP/EIS (2008), compatibility determinations",
+     "url": "https://ecos.fws.gov/ServCat/Reference/Profile/5984"
+    }
+   ],
+   "research": "fws-c",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

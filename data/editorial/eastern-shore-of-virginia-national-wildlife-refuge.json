@@ -1,0 +1,33 @@
+{
+ "slug": "eastern-shore-of-virginia-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1984-08",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Eastern Shore of Virginia National Wildlife Refuge, at the southern tip of the Delmarva Peninsula, was established in August 1984 on surplus federal property transferred for wildlife purposes.",
+   "authority": {
+    "type": "administrative",
+    "administration": null,
+    "citation": "Transfer of federal property under Public Law 80-537 (16 U.S.C. 667b)",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Eastern Shore of Virginia and Fisherman Island NWRs Comprehensive Conservation Plan, 2004 (ServCat 1416)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/1416"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}

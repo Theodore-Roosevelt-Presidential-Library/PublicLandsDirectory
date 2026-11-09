@@ -1,0 +1,42 @@
+{
+  "slug": "medicine-bow-national-forest",
+  "designationHistory": [
+    {
+      "date": "1902-05-22",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Medicine Bow: Established reserve. AY 22, 1902",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 474, 32 Stat. 2003"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 11",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "32 Stat. 2003 (Statutes at Large, govinfo): Proclamation No. 20, May 22, 1902, Theodore Roosevelt: \"shall be known as The Medicine Bow Forest Reserve\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg2003.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 474, May 22, 1902",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-474-establishing-the-medicine-bow-forest-reserve"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 474, May 22, 1902, 32 Stat. 2003, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

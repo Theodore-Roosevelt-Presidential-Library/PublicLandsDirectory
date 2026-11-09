@@ -1,0 +1,43 @@
+{
+  "slug": "blackwater-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1933",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": "Blackwater Migratory Bird Refuge",
+      "indexText": "Blackwater Migratory Bird Refuge was established under the Migratory Bird Conservation Act as a sanctuary for waterfowl on the Atlantic Flyway.",
+      "authority": {
+        "type": "administrative",
+        "administration": null,
+        "citation": "Migratory Bird Conservation Act of 1929"
+      },
+      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Blackwater National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/blackwater/about-us"
+        },
+        {
+          "name": "Friends of Blackwater NWR, History of the Refuge: \"established in 1933 as a refuge for migratory birds\"",
+          "url": "https://www.friendsofblackwater.org/history.html"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, Changing the Names of Certain Federal Wildlife Refuges (July 25, 1940), lists former and new names",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1933 per Friends group and FWS; a 1991 refuge annual narrative says 1932, so the exact date (MBCC approval vs. first purchase) is still open. Former name per Proclamation 2416.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Blackwater National Wildlife Refuge (NWR) was established in 1933 as a waterfowl sanctuary for birds migrating along the Atlantic Flyway, and currently encompasses more than 32,000 acres."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

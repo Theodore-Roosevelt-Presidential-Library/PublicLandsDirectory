@@ -1,0 +1,44 @@
+{
+  "slug": "bon-secour-national-wildlife-refuge",
+  "designationHistory": [
+    {
+      "date": "1980-06-09",
+      "action": "established",
+      "designation": "National Wildlife Refuge",
+      "name": null,
+      "indexText": "Congress established Bon Secour National Wildlife Refuge.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-267, 94 Stat. 483",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "U.S. Fish and Wildlife Service: Bon Secour National Wildlife Refuge, About Us",
+          "url": "https://www.fws.gov/refuge/bon-secour/about-us"
+        },
+        {
+          "name": "Public Law 96-267, June 9, 1980, 94 Stat. 483 (govinfo): \"To establish the Bon Secour National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg483.pdf"
+        },
+        {
+          "name": "USFWS, Bon Secour National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1394): Act to establish the Bon Secour National Wildlife Refuge, dated June 9, 1980",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1369"
+        }
+      ],
+      "research": "fws-about",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 96-267, June 9, 1980 (Carter).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bon Secour National Wildlife Refuge was established by Congress in 1980 for the protection of neotropical migratory songbird habitat and threatened and endangered species."
+    }
+  ],
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
+}

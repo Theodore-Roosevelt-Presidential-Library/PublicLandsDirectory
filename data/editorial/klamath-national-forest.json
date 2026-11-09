@@ -1,0 +1,42 @@
+{
+  "slug": "klamath-national-forest",
+  "designationHistory": [
+    {
+      "date": "1905-05-06",
+      "action": "established",
+      "designation": "Forest Reserve",
+      "name": null,
+      "indexText": "Klamath: Established reserve",
+      "authority": {
+        "type": "presidential-proclamation",
+        "administration": "Theodore Roosevelt",
+        "citation": "Proclamation 544, 34 Stat. 3001"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Establishment and Modification of National Forest Boundaries: A Chronologic Record, 1891–1985 (USDA Forest Service, Lands Staff, 1985), PDF page 13",
+          "url": "https://archive.org/details/CAT92970816"
+        },
+        {
+          "name": "34 Stat. 3001 (Statutes at Large, govinfo): Proclamation of May 6, 1905, Theodore Roosevelt, Klamath Forest Reserve",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg3001.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 544, May 6, 1905",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-544-establishment-the-klamath-forest-reserve-california"
+        }
+      ],
+      "research": "fs612",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 544, May 6, 1905, 34 Stat. 3001, Theodore Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 3 (national forests)",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Forest Service chronologic record FS-612 (draft, pending review)",
+  "status": "reviewed"
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "coachella-valley-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1985-08-28",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Coachella Valley National Wildlife Refuge was established when the Fish and Wildlife Service acquired about 1,384 acres from The Nature Conservancy to protect the endangered Coachella Valley fringe-toed lizard.",
+   "authority": {
+    "type": "administrative",
+    "administration": "Ronald Reagan",
+    "citation": "Endangered Species Act of 1973; Land and Water Conservation Fund Act",
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "U.S. Fish and Wildlife Service, Sonny Bono Salton Sea NWR Complex Final Comprehensive Conservation Plan, 2014 (ServCat 108501)",
+     "url": "https://iris.fws.gov/APPS/ServCat/Reference/Profile/108501"
+    }
+   ],
+   "research": "fws-a",
+   "reviewed": true,
+   "review": {
+    "verdict": "accepted",
+    "by": "Accepted on the U.S. Fish and Wildlife Service's own record (Library decision)",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)"
+}
