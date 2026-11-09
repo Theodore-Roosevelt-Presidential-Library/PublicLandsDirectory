@@ -1,0 +1,28 @@
+{
+  "slug": "frances-perkins-national-monument",
+  "designationHistory": [
+    {
+      "date": "2024-12-16",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Frances Perkins National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Joseph R. Biden Jr.",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10873, 89 FR 103617"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 10873, 89 FR 103617",
+          "url": "https://www.federalregister.gov/documents/2024/12/19/2024-30485/establishment-of-the-frances-perkins-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "belmont-paul-womens-equality-national-monument",
+  "designationHistory": [
+    {
+      "date": "2016-04-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Belmont-Paul Women's Equality National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9423, 81 FR 22503"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9423, 81 FR 22503",
+          "url": "https://www.federalregister.gov/documents/2016/04/15/2016-08970/establishment-of-the-belmont-paul-womens-equality-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

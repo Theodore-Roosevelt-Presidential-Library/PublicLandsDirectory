@@ -1,0 +1,28 @@
+{
+  "slug": "castle-mountains-national-monument",
+  "designationHistory": [
+    {
+      "date": "2016-02-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Castle Mountains National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9394, 81 FR 8365"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9394, 81 FR 8365",
+          "url": "https://www.federalregister.gov/documents/2016/02/18/2016-03540/establishment-of-the-castle-mountains-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

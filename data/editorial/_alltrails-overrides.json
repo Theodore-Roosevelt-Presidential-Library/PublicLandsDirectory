@@ -1,0 +1,5 @@
+{
+  "note": "Corrections to AllTrails research batches. noTrails: the matched trails belong to the other half of a combined forest, so keep the shared park page but list no trails. noPark: the park URL was guessed and may not exist.",
+  "noTrails": ["challis-national-forest", "trinity-national-forest", "whitman-national-forest", "oconee-national-forest", "sitgreaves-national-forest", "nezperce-national-forest"],
+  "noPark": ["chattahoochee-river-national-recreation-area"]
+}

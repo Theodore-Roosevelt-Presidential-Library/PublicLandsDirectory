@@ -41,6 +41,7 @@ jobs:
           path: |
             data/sources
             data/boundaries
+            data/wilderness
             data/directory.json
           key: agency-data-${{ github.run_id }}
           restore-keys: agency-data-
@@ -61,10 +62,13 @@ jobs:
         run: |
           node scripts/sync-nps.mjs
           node scripts/sync-lands.mjs
+          node scripts/sync-wilderness.mjs || echo "wilderness sync failed; keeping last copy"
           node scripts/merge.mjs
           node scripts/sync-tr.mjs
           if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/cover-images.json ]; then node scripts/sync-images.mjs || echo "cover sync failed; keeping last covers"; fi
           if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/links.json ]; then node scripts/sync-links.mjs || echo "link check failed; keeping last links"; fi
+          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/recgov.json ]; then node scripts/sync-recgov.mjs || echo "Recreation.gov sync failed; keeping last"; fi
+          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/visitation.json ]; then node scripts/sync-visitation.mjs || echo "visitation sync failed; keeping last"; fi
           node scripts/merge.mjs
 
       - name: Re-merge editorial changes
@@ -90,7 +94,7 @@ jobs:
             git config user.name "public-lands-bot"
             git config user.email "actions@users.noreply.github.com"
             git add data/reference
-            git commit -m "Update reference caches (NWS zones, T.R. connections, covers, links) [skip ci]"
+            git commit -m "Update reference caches (NWS zones, T.R. connections, covers, links, Recreation.gov, visitation) [skip ci]"
             git push || echo "push skipped"
           fi
 

@@ -8,9 +8,12 @@ const OUT = 'data/reference/alltrails.json';
 let out = { sites: {} };
 try { out = JSON.parse(await readFile(OUT, 'utf8')); } catch {}
 let fixed = 0, n = 0;
+let ov = { noTrails: [], noPark: [] };
+try { ov = JSON.parse(await readFile('data/editorial/_alltrails-overrides.json', 'utf8')); } catch {}
 for (const f of batches.length ? batches : ['data/research/alltrails-batch1.json']) {
   const b = JSON.parse(await readFile(f, 'utf8'));
   for (const [slug, r] of Object.entries(b.sites || b)) {
+    if (slug === 'note') continue;
     if (!r?.trails?.length) continue;
     const regions = {};
     for (const t of r.trails) { const m = t.url?.match(/alltrails\.com\/trail\/(.+)\/[^/]+$/); if (m) regions[m[1]] = (regions[m[1]] || 0) + 1; }
@@ -18,7 +21,9 @@ for (const f of batches.length ? batches : ['data/research/alltrails-batch1.json
     let park = r.parkUrl || null;
     const pm = park?.match(/\/parks\/(.+)\/([^/]+)$/);
     if (pm && region && pm[1] !== region) { park = `https://www.alltrails.com/parks/${region}/${pm[2]}`; fixed++; }
-    out.sites[slug] = { park, label: r.parkLabel || null, trails: r.trails.slice(0, 5).map((t) => ({ name: t.name, url: t.url, miles: t.length_miles ?? null, difficulty: t.difficulty || null, route: t.route_type || null })), from: 'AllTrails connector', gathered: new Date().toISOString().slice(0, 10) };
+    if (ov.noPark.includes(slug)) park = null;
+    const trails = ov.noTrails.includes(slug) ? [] : r.trails;
+    out.sites[slug] = { park, label: r.parkLabel || null, trails: trails.slice(0, 5).map((t) => ({ name: t.name, url: t.url, miles: t.length_miles ?? null, difficulty: t.difficulty || null, route: t.route_type || null })), from: 'AllTrails connector', gathered: new Date().toISOString().slice(0, 10) };
     n++;
   }
 }

@@ -1,0 +1,28 @@
+{
+  "slug": "katahdin-woods-and-waters-national-monument",
+  "designationHistory": [
+    {
+      "date": "2016-08-24",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Katahdin Woods and Waters National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9476, 81 FR 59121"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9476, 81 FR 59121",
+          "url": "https://www.federalregister.gov/documents/2016/08/29/2016-20786/establishment-of-the-katahdin-woods-and-waters-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

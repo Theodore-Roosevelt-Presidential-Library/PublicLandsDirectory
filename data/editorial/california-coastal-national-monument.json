@@ -1,0 +1,72 @@
+{
+  "slug": "california-coastal-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-01-11",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the California Coastal National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William J. Clinton",
+        "administration": "Bill Clinton",
+        "citation": "Proclamation 7264, 65 FR 2821"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 7264, 65 FR 2821",
+          "url": "https://www.federalregister.gov/documents/2000/01/18/00-1295/establishment-of-the-california-coastal-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    },
+    {
+      "date": "2014-03-11",
+      "action": "modified",
+      "designation": null,
+      "name": null,
+      "indexText": "Boundary Enlargement of the California Coastal National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9089, 79 FR 14603"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9089, 79 FR 14603",
+          "url": "https://www.federalregister.gov/documents/2014/03/14/2014-05878/boundary-enlargement-of-the-california-coastal-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    },
+    {
+      "date": "2017-01-12",
+      "action": "modified",
+      "designation": null,
+      "name": null,
+      "indexText": "Boundary Enlargement of the California Coastal National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9563, 82 FR 6131"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9563, 82 FR 6131",
+          "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01327/boundary-enlargement-of-the-california-coastal-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

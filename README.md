@@ -40,6 +40,9 @@ Generated data is not committed. It is rebuilt from the agencies on every full r
 | State lines | Census TIGERweb |
 | Cover photos | Agency photos credited to the agency (public domain); otherwise the site's Wikidata image or Commons category, license-checked by `scripts/sync-images.mjs` against the TRPL image-rights standard. Review sheet at `/covers/`; replace or veto picks in `data/editorial/_cover-overrides.json` |
 | Official sites and social accounts | Agency URLs first; otherwise the site's Wikidata website or the agency's own unit page, each fetched and kept only if it resolves to a live `.gov` page (`scripts/sync-links.mjs`). Social accounts from Wikidata |
+| Wilderness | [Wilderness Connect](https://wilderness.net) (University of Montana), National Wilderness Preservation System boundaries |
+| Visitation | [NPS Visitor Use Statistics](https://irma.nps.gov/Stats/) |
+| Reservations | Recreation.gov site search, matched by name and agency |
 | Trails | AllTrails park pages and popular trails, gathered with the AllTrails connector in batches (AllTrails has no public API) |
 | Roosevelt connections | The Library's own datasets: [Roosevelt's Public Lands](https://publiclands.labs.trlibrary.com), [Executive Orders and Proclamations](https://executiveactions.labs.trlibrary.com) (Then and now), [Day by Day](https://daybyday.labs.trlibrary.com) (each day's recorded location, matched to site boundaries) |
 
@@ -67,25 +70,32 @@ Designation histories, guide text, social links, AllTrails links and Roosevelt c
 
 ## Roadmap
 
-Planned development, roughly in order. Status as of November 2026.
+Status as of November 2026.
+
+**Built**
+- Wilderness: 619 of the 801 designated wilderness areas from Wilderness Connect (wilderness.net) appear on 291 sites. Each shows on any site whose own agency manages part of it and that holds at least a tenth of its area, with a map layer, a "Has wilderness" filter and `/wilderness/{slug}.geojson`. Most of the rest are BLM wilderness outside the monuments and conservation areas the directory covers.
+- Visitation: annual recreation visits for 388 National Park System units from NPS Visitor Use Statistics. Refreshed weekly.
+- Recreation.gov: reservation pages for 1,083 sites across all four agencies, matched by name and agency. Forest Service units listed under a combined or state name ("Shasta-Trinity", "National Forests in Texas") link to that page.
+- AllTrails: park pages for 381 sites and popular trails for 376.
 
 **Content gaps (in progress)**
 - Official websites: 1,293 of 1,355 sites have one. Remaining: 31 BLM, 23 FWS and 17 Forest Service units to match by hand.
 - Cover photos: 1,083 of 1,355 sites have a cleared image. The other 272 need a photo found by hand or from the agencies; every automatic pick waits for review on `/covers/`.
-- AllTrails: 128 sites have park pages and popular trails. Next: the 88 national parks, forests and T.R. sites with no match (mostly combined national forests that AllTrails lists under joined names), then everything else in batches. A data partnership with AllTrails would cover everything and keep it in sync.
+- AllTrails: 140 searched sites had no AllTrails match, mostly offshore refuges, Alaska and small urban monuments. Wildlife refuges are not searched yet. A data partnership with AllTrails would cover everything and keep it in sync.
 - Guide text written by the Library (overview, what makes it special, see and do), drafted by site and hidden until reviewed.
+- Visitation for refuges, forests and BLM lands: the other agencies do not publish per-unit figures in a form that can be synced.
 
 **Research batches (designation histories, HistorianPanel review)**
 - Batch 1 (national parks): done. 128 claims checked, 119 confirmed, 8 corrected, 1 open.
-- Batch 1b: the rest of the NPS system from the NPS Index.
+- Batch 1b (rest of the NPS system): 350 units drafted from the NPS Index, waiting for review. 52 newer units still need a source.
+- Monuments since 1994, all agencies: 40 monuments drafted from Federal Register proclamations, waiting for review. This covers most of batch 4.
 - Batch 2: national forests and grasslands (proclamations, transfers, renamings).
 - Batch 3: national wildlife refuges, starting with the T.R.-era bird reservations.
-- Batch 4: BLM monuments and conservation areas, plus Forest Service monuments.
+- Batch 4: the rest of the BLM conservation areas and older monuments.
 
-**New data**
-- Wilderness areas (wilderness.net boundaries) shown inside each site.
-- Annual visitation (NPS Stats, with agency figures elsewhere where published).
-- Recreation.gov links for every agency, not just NPS.
+See [docs/RESEARCH.md](docs/RESEARCH.md).
+
+**Held**
 - Whose lands these are: Indigenous homelands, added only after tribal and Library review.
 
 **Decisions pending**
@@ -94,6 +104,7 @@ Planned development, roughly in order. Status as of November 2026.
 
 **Known issues**
 - Day by Day: some days carry a location inferred from an entry or carried forward from an earlier day, which produced false visits (Pelican Island, Antietam). Only days with a recorded location are used now, and town-level matches wait in `data/reference/tr-visit-candidates.json` for review. The underlying data needs fixing in the Day by Day project.
+- The BLM boundary layer files a large southern California polygon under Browns Canyon (Colorado). It is clipped out in `scripts/sync-lands.mjs`. It may be Chuckwalla's boundary, which the directory currently lacks; worth asking BLM.
 
 ## Embeds
 

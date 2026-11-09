@@ -38,7 +38,9 @@ const pick = (arr, n) => (arr || []).slice(0, n);
 const records = [];
 for (const p of parks) {
   const code = p.parkCode.toLowerCase();
-  const geom = boundaries[code] ? dissolve(boundaries[code]) : null;
+  // Units the NPS API lists once but the boundary layer keeps as separate parks.
+  const parts = { seki: ['sequ', 'kica'] }[code]?.flatMap((c) => boundaries[c] || []);
+  const geom = boundaries[code] ? dissolve(boundaries[code]) : parts?.length ? dissolve(parts) : null;
   const lat = parseFloat(p.latitude), lon = parseFloat(p.longitude);
   const rec = {
     id: `nps-${code}`,

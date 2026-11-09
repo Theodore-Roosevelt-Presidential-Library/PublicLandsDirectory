@@ -1,0 +1,28 @@
+{
+  "slug": "carlisle-federal-indian-boarding-school-national-monument",
+  "designationHistory": [
+    {
+      "date": "2024-12-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Carlisle Federal Indian Boarding School National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Joseph R. Biden Jr.",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10870, 89 FR 100289"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 10870, 89 FR 100289",
+          "url": "https://www.federalregister.gov/documents/2024/12/12/2024-29459/establishment-of-the-carlisle-federal-indian-boarding-school-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

@@ -12,8 +12,21 @@ function group(features, keyFn) {
   return m;
 }
 
+// Known errors in agency boundary layers: keep only the pieces whose centre falls inside this box [w, s, e, n].
+// Browns Canyon, Colorado: the BLM layer also files a large southern California polygon under it.
+const CLIP = { 'Browns Canyon National Monument': [-107, 38, -105, 39.5] };
+function clip(geom, box) {
+  if (!geom || !box) return geom;
+  const polys = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+  const centre = (ring) => ring.reduce((a, p) => [a[0] + p[0] / ring.length, a[1] + p[1] / ring.length], [0, 0]);
+  const keep = polys.filter((p) => { const [x, y] = centre(p[0]); return x >= box[0] && x <= box[2] && y >= box[1] && y <= box[3]; });
+  if (!keep.length || keep.length === polys.length) return geom;
+  console.warn(`Clipped ${polys.length - keep.length} mislabeled piece(s)`);
+  return { type: 'MultiPolygon', coordinates: keep }; // merge.mjs expects MultiPolygon
+}
+
 function baseRecord({ id, agency, unitCode, name, designation, category, acres, source, sourceUrl, feats, extra = {} }) {
-  const geom = dissolve(feats);
+  const geom = clip(dissolve(feats), CLIP[name]);
   return {
     id, agency, agencyUnitCode: unitCode, name, designation, category: category || categorize(designation, name),
     states: [], location: geom ? labelPoint(geom) : null,

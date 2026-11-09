@@ -1,0 +1,28 @@
+{
+  "slug": "canyons-of-the-ancients-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-06-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Canyons of the Ancients National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William J. Clinton",
+        "administration": "Bill Clinton",
+        "citation": "Proclamation 7317, 65 FR 37243"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 7317, 65 FR 37243",
+          "url": "https://www.federalregister.gov/documents/2000/06/13/00-15109/establishment-of-the-canyons-of-the-ancients-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

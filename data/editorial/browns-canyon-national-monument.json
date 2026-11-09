@@ -1,0 +1,28 @@
+{
+  "slug": "browns-canyon-national-monument",
+  "designationHistory": [
+    {
+      "date": "2015-02-19",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Browns Canyon National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9232, 80 FR 9975"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9232, 80 FR 9975",
+          "url": "https://www.federalregister.gov/documents/2015/02/24/2015-03972/establishment-of-the-browns-canyon-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

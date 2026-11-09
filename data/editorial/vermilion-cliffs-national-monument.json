@@ -1,0 +1,28 @@
+{
+  "slug": "vermilion-cliffs-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-11-09",
+      "action": "modified",
+      "designation": null,
+      "name": null,
+      "indexText": "Vermilion Cliffs National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William J. Clinton",
+        "administration": "Bill Clinton",
+        "citation": "Proclamation 7374, 65 FR 69227"
+      },
+      "note": "Title names the monument only; read the proclamation to describe what it changed.",
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 7374, 65 FR 69227",
+          "url": "https://www.federalregister.gov/documents/2000/11/15/00-29453/vermilion-cliffs-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

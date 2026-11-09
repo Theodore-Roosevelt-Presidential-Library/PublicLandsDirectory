@@ -17,6 +17,7 @@
   const params = new URLSearchParams(location.search);
   for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr', 'act']) if (params.get(k)) $(k).value = params.get(k);
   if (params.get('alerts')) $('alerts').checked = true;
+  if (params.get('wild') && $('wild')) $('wild').checked = true;
 
   const norm = (s) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
   sites.forEach((s) => (s._t = norm([s.n, ...s.st.map((x) => STATES[x] || x), ...s.act, CAT[s.c]].join(' '))));
@@ -26,12 +27,12 @@
   const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
   function apply() {
-    const act = $('act').value, tr = $('tr').value, q = norm($('q').value.trim()), c = $('cat').value, a = $('agency').value, st = $('state').value, ad = $('admin').value, al = $('alerts').checked;
+    const act = $('act').value, tr = $('tr').value, q = norm($('q').value.trim()), c = $('cat').value, a = $('agency').value, st = $('state').value, ad = $('admin').value, al = $('alerts').checked, wi = $('wild')?.checked;
     const terms = q.split(/\s+/).filter(Boolean);
-    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!act || s.act.includes(act)) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
+    filtered = sites.filter((s) => (!c || s.c === c) && (!a || s.a.includes(a)) && (!st || s.st.includes(st)) && (!ad || s.p.includes(ad)) && (!al || s.al) && (!wi || s.w) && (!act || s.act.includes(act)) && (!tr || (tr === 'any' ? s.tr.length : s.tr.includes(tr))) && terms.every((t) => s._t.includes(t)));
     const p = new URLSearchParams();
     for (const k of ['q', 'cat', 'agency', 'state', 'admin', 'tr', 'act']) if ($(k).value) p.set(k, $(k).value);
-    if (al) p.set('alerts', '1'); if (view !== 'list') p.set('view', view);
+    if (al) p.set('alerts', '1'); if (wi) p.set('wild', '1'); if (view !== 'list') p.set('view', view);
     history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
     $('count').textContent = `${filtered.length.toLocaleString()} place${filtered.length === 1 ? '' : 's'}`;
     $('results').innerHTML = ''; shown = 0; more();
@@ -66,7 +67,7 @@
   }
   document.querySelectorAll('.toggle button').forEach((b) => b.addEventListener('click', () => setView(b.dataset.view)));
   let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 120); });
-  ['cat', 'agency', 'state', 'admin', 'tr', 'act', 'alerts'].forEach((k) => $(k).addEventListener('change', apply));
+  ['cat', 'agency', 'state', 'admin', 'tr', 'act', 'alerts', 'wild'].forEach((k) => $(k)?.addEventListener('change', apply));
   $('more').addEventListener('click', more);
   // Infinite scroll: load the next page as the end of the list comes into view.
   const sentinel = document.createElement('div');

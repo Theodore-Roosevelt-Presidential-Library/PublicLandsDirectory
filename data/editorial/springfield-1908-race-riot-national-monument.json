@@ -1,0 +1,28 @@
+{
+  "slug": "springfield-1908-race-riot-national-monument",
+  "designationHistory": [
+    {
+      "date": "2024-08-16",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Springfield 1908 Race Riot National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Joseph R. Biden Jr.",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10792, 89 FR 67821"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 10792, 89 FR 67821",
+          "url": "https://www.federalregister.gov/documents/2024/08/22/2024-18999/establishment-of-the-springfield-1908-race-riot-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "organ-mountains-desert-peaks-national-monument",
+  "designationHistory": [
+    {
+      "date": "2014-05-21",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Organ Mountains-Desert Peaks National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9131, 79 FR 30431"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9131, 79 FR 30431",
+          "url": "https://www.federalregister.gov/documents/2014/05/28/2014-12508/establishment-of-the-organ-mountains-desert-peaks-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}
