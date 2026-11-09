@@ -1,0 +1,2335 @@
+{
+  "generated": "2026-11-09T03:35:54.396Z",
+  "year": 2025,
+  "count": 388,
+  "sites": {
+    "ABLI": {
+      "year": 2025,
+      "recreation": 212899,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ABLI"
+    },
+    "ACAD": {
+      "year": 2025,
+      "recreation": 4079318,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ACAD"
+    },
+    "ADAM": {
+      "year": 2025,
+      "recreation": 48726,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ADAM"
+    },
+    "AFBG": {
+      "year": 2025,
+      "recreation": 32465,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/AFBG"
+    },
+    "AGFO": {
+      "year": 2025,
+      "recreation": 16827,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/AGFO"
+    },
+    "ALAG": {
+      "year": 2025,
+      "recreation": 375,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ALAG"
+    },
+    "ALFL": {
+      "year": 2025,
+      "recreation": 8054,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ALFL"
+    },
+    "ALPO": {
+      "year": 2025,
+      "recreation": 162905,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ALPO"
+    },
+    "AMCH": {
+      "year": 2025,
+      "recreation": 8113,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/AMCH"
+    },
+    "AMIS": {
+      "year": 2025,
+      "recreation": 734293,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/AMIS"
+    },
+    "ANDE": {
+      "year": 2025,
+      "recreation": 61850,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ANDE"
+    },
+    "ANJO": {
+      "year": 2025,
+      "recreation": 43203,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ANJO"
+    },
+    "ANIA": {
+      "year": 2025,
+      "recreation": 247,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ANIA"
+    },
+    "ANTI": {
+      "year": 2025,
+      "recreation": 161006,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ANTI"
+    },
+    "APIS": {
+      "year": 2025,
+      "recreation": 261009,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/APIS"
+    },
+    "APPA": {
+      "year": 2025,
+      "recreation": 6215118,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/APPA"
+    },
+    "APCO": {
+      "year": 2025,
+      "recreation": 77496,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/APCO"
+    },
+    "ARCH": {
+      "year": 2025,
+      "recreation": 1511740,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ARCH"
+    },
+    "ARPO": {
+      "year": 2025,
+      "recreation": 27674,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ARPO"
+    },
+    "ARHO": {
+      "year": 2025,
+      "recreation": 363284,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ARHO"
+    },
+    "ASIS": {
+      "year": 2025,
+      "recreation": 2325195,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ASIS"
+    },
+    "AZRU": {
+      "year": 2025,
+      "recreation": 38636,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/AZRU"
+    },
+    "BADL": {
+      "year": 2025,
+      "recreation": 1139361,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BADL"
+    },
+    "BAND": {
+      "year": 2025,
+      "recreation": 247642,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BAND"
+    },
+    "BEPA": {
+      "year": 2025,
+      "recreation": 6514,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BEPA"
+    },
+    "BEOL": {
+      "year": 2025,
+      "recreation": 7190,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BEOL"
+    },
+    "BELA": {
+      "year": 2025,
+      "recreation": 2674,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BELA"
+    },
+    "BIBE": {
+      "year": 2025,
+      "recreation": 568104,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BIBE"
+    },
+    "BICY": {
+      "year": 2025,
+      "recreation": 2262731,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BICY"
+    },
+    "BIHO": {
+      "year": 2025,
+      "recreation": 40938,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BIHO"
+    },
+    "BISO": {
+      "year": 2025,
+      "recreation": 774353,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BISO"
+    },
+    "BITH": {
+      "year": 2025,
+      "recreation": 228310,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BITH"
+    },
+    "BICA": {
+      "year": 2025,
+      "recreation": 228382,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BICA"
+    },
+    "BISC": {
+      "year": 2025,
+      "recreation": 486567,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BISC"
+    },
+    "BLCA": {
+      "year": 2025,
+      "recreation": 250086,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BLCA"
+    },
+    "BLRI": {
+      "year": 2025,
+      "recreation": 16533753,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BLRI"
+    },
+    "BLUE": {
+      "year": 2025,
+      "recreation": 12446,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BLUE"
+    },
+    "BOWA": {
+      "year": 2025,
+      "recreation": 21698,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BOWA"
+    },
+    "BOAF": {
+      "year": 2025,
+      "recreation": 365864,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BOAF"
+    },
+    "BOHA": {
+      "year": 2025,
+      "recreation": 4276,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BOHA"
+    },
+    "BOST": {
+      "year": 2025,
+      "recreation": 2383812,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BOST"
+    },
+    "BRVB": {
+      "year": 2025,
+      "recreation": 17860,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BRVB"
+    },
+    "BRCA": {
+      "year": 2025,
+      "recreation": 1967367,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BRCA"
+    },
+    "BUIS": {
+      "year": 2025,
+      "recreation": 40079,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BUIS"
+    },
+    "BUFF": {
+      "year": 2025,
+      "recreation": 1393246,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/BUFF"
+    },
+    "CABR": {
+      "year": 2025,
+      "recreation": 769336,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CABR"
+    },
+    "CANE": {
+      "year": 2025,
+      "recreation": 20763,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CANE"
+    },
+    "CANA": {
+      "year": 2025,
+      "recreation": 2496947,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CANA"
+    },
+    "CARI": {
+      "year": 2025,
+      "recreation": 11203,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CARI"
+    },
+    "CACH": {
+      "year": 2025,
+      "recreation": 340586,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CACH"
+    },
+    "CANY": {
+      "year": 2025,
+      "recreation": 796057,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CANY"
+    },
+    "CACO": {
+      "year": 2025,
+      "recreation": 3682771,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CACO"
+    },
+    "CAHA": {
+      "year": 2025,
+      "recreation": 2684009,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAHA"
+    },
+    "CAKR": {
+      "year": 2025,
+      "recreation": 3357,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAKR"
+    },
+    "CALO": {
+      "year": 2025,
+      "recreation": 512737,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CALO"
+    },
+    "CARE": {
+      "year": 2025,
+      "recreation": 1388476,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CARE"
+    },
+    "CAVO": {
+      "year": 2025,
+      "recreation": 89489,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAVO"
+    },
+    "CARL": {
+      "year": 2025,
+      "recreation": 94796,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CARL"
+    },
+    "CAVE": {
+      "year": 2025,
+      "recreation": 410778,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAVE"
+    },
+    "CAWO": {
+      "year": 2025,
+      "recreation": 20,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAWO"
+    },
+    "CAGR": {
+      "year": 2025,
+      "recreation": 87748,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CAGR"
+    },
+    "CASA": {
+      "year": 2025,
+      "recreation": 598070,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CASA"
+    },
+    "CACL": {
+      "year": 2025,
+      "recreation": 3656350,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CACL"
+    },
+    "CATO": {
+      "year": 2025,
+      "recreation": 460857,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CATO"
+    },
+    "CEBR": {
+      "year": 2025,
+      "recreation": 718014,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CEBR"
+    },
+    "CHCU": {
+      "year": 2025,
+      "recreation": 29816,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHCU"
+    },
+    "CHAM": {
+      "year": 2025,
+      "recreation": 7917,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHAM"
+    },
+    "CHIS": {
+      "year": 2025,
+      "recreation": 227186,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHIS"
+    },
+    "CHPI": {
+      "year": 2025,
+      "recreation": 23758,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHPI"
+    },
+    "CHYO": {
+      "year": 2025,
+      "recreation": 4412,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHYO"
+    },
+    "CHAT": {
+      "year": 2025,
+      "recreation": 2901903,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHAT"
+    },
+    "CHOH": {
+      "year": 2025,
+      "recreation": 4579704,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHOH"
+    },
+    "CHCH": {
+      "year": 2025,
+      "recreation": 971647,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHCH"
+    },
+    "CHIC": {
+      "year": 2025,
+      "recreation": 1877797,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHIC"
+    },
+    "CHIR": {
+      "year": 2025,
+      "recreation": 70406,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHIR"
+    },
+    "CHRI": {
+      "year": 2025,
+      "recreation": 100165,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHRI"
+    },
+    "CIRO": {
+      "year": 2025,
+      "recreation": 90898,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CIRO"
+    },
+    "CLBA": {
+      "year": 2025,
+      "recreation": 11309,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CLBA"
+    },
+    "COLO": {
+      "year": 2025,
+      "recreation": 1582994,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/COLO"
+    },
+    "COLM": {
+      "year": 2025,
+      "recreation": 483436,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/COLM"
+    },
+    "CONG": {
+      "year": 2025,
+      "recreation": 287833,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CONG"
+    },
+    "CORO": {
+      "year": 2025,
+      "recreation": 179216,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CORO"
+    },
+    "COWP": {
+      "year": 2025,
+      "recreation": 175020,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/COWP"
+    },
+    "CRLA": {
+      "year": 2025,
+      "recreation": 632242,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CRLA"
+    },
+    "CRMO": {
+      "year": 2025,
+      "recreation": 260418,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CRMO"
+    },
+    "CUGA": {
+      "year": 2025,
+      "recreation": 765010,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CUGA"
+    },
+    "CUIS": {
+      "year": 2025,
+      "recreation": 60299,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CUIS"
+    },
+    "CURE": {
+      "year": 2025,
+      "recreation": 807117,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CURE"
+    },
+    "CUVA": {
+      "year": 2025,
+      "recreation": 3025325,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CUVA"
+    },
+    "CECH": {
+      "year": 2025,
+      "recreation": 31497,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CECH"
+    },
+    "DAAV": {
+      "year": 2025,
+      "recreation": 79760,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DAAV"
+    },
+    "DESO": {
+      "year": 2025,
+      "recreation": 124294,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DESO"
+    },
+    "DEVA": {
+      "year": 2025,
+      "recreation": 1320134,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DEVA"
+    },
+    "DEWA": {
+      "year": 2025,
+      "recreation": 3986709,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DEWA"
+    },
+    "DENA": {
+      "year": 2025,
+      "recreation": 543300,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DENA"
+    },
+    "DEPO": {
+      "year": 2025,
+      "recreation": 99652,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DEPO"
+    },
+    "DETO": {
+      "year": 2025,
+      "recreation": 515303,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DETO"
+    },
+    "DINO": {
+      "year": 2025,
+      "recreation": 315725,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DINO"
+    },
+    "DRTO": {
+      "year": 2025,
+      "recreation": 89355,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DRTO"
+    },
+    "DDEM": {
+      "year": 2025,
+      "recreation": 676062,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/DDEM"
+    },
+    "EFMO": {
+      "year": 2025,
+      "recreation": 56912,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/EFMO"
+    },
+    "EISE": {
+      "year": 2025,
+      "recreation": 75328,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/EISE"
+    },
+    "ELMA": {
+      "year": 2025,
+      "recreation": 151998,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ELMA"
+    },
+    "ELMO": {
+      "year": 2025,
+      "recreation": 48797,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ELMO"
+    },
+    "ELRO": {
+      "year": 2025,
+      "recreation": 13586,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ELRO"
+    },
+    "TILL": {
+      "year": 2025,
+      "recreation": 3763,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TILL"
+    },
+    "EUON": {
+      "year": 2025,
+      "recreation": 14881,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/EUON"
+    },
+    "EVER": {
+      "year": 2025,
+      "recreation": 778198,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/EVER"
+    },
+    "FEHA": {
+      "year": 2025,
+      "recreation": 66223,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FEHA"
+    },
+    "FIIS": {
+      "year": 2025,
+      "recreation": 305520,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FIIS"
+    },
+    "FILA": {
+      "year": 2025,
+      "recreation": 8482,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FILA"
+    },
+    "FRST": {
+      "year": 2025,
+      "recreation": 200173,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRST"
+    },
+    "FLNI": {
+      "year": 2025,
+      "recreation": 286079,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FLNI"
+    },
+    "FLFO": {
+      "year": 2025,
+      "recreation": 63680,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FLFO"
+    },
+    "FOTH": {
+      "year": 2025,
+      "recreation": 393662,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOTH"
+    },
+    "FOBO": {
+      "year": 2025,
+      "recreation": 8739,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOBO"
+    },
+    "FODA": {
+      "year": 2025,
+      "recreation": 35580,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FODA"
+    },
+    "FODO": {
+      "year": 2025,
+      "recreation": 151151,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FODO"
+    },
+    "FOFR": {
+      "year": 2025,
+      "recreation": 108043,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOFR"
+    },
+    "FOLA": {
+      "year": 2025,
+      "recreation": 36998,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOLA"
+    },
+    "FOLS": {
+      "year": 2025,
+      "recreation": 20576,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOLS"
+    },
+    "FOMA": {
+      "year": 2025,
+      "recreation": 653152,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOMA"
+    },
+    "FOMC": {
+      "year": 2025,
+      "recreation": 283027,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOMC"
+    },
+    "FONE": {
+      "year": 2025,
+      "recreation": 225783,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FONE"
+    },
+    "FOPO": {
+      "year": 2025,
+      "recreation": 1010870,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOPO"
+    },
+    "FOPU": {
+      "year": 2025,
+      "recreation": 320926,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOPU"
+    },
+    "FORA": {
+      "year": 2025,
+      "recreation": 266775,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FORA"
+    },
+    "FOSC": {
+      "year": 2025,
+      "recreation": 25254,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOSC"
+    },
+    "FOSM": {
+      "year": 2025,
+      "recreation": 106953,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOSM"
+    },
+    "FOST": {
+      "year": 2025,
+      "recreation": 77507,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOST"
+    },
+    "FOSU": {
+      "year": 2025,
+      "recreation": 814658,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOSU"
+    },
+    "FOUN": {
+      "year": 2025,
+      "recreation": 7813,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOUN"
+    },
+    "FOUS": {
+      "year": 2025,
+      "recreation": 9808,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOUS"
+    },
+    "FOVA": {
+      "year": 2025,
+      "recreation": 1071161,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOVA"
+    },
+    "FOWA": {
+      "year": 2025,
+      "recreation": 502171,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOWA"
+    },
+    "FOBU": {
+      "year": 2025,
+      "recreation": 20626,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FOBU"
+    },
+    "FRDE": {
+      "year": 2025,
+      "recreation": 2832124,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRDE"
+    },
+    "FRDO": {
+      "year": 2025,
+      "recreation": 29378,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRDO"
+    },
+    "FRLA": {
+      "year": 2025,
+      "recreation": 7240,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRLA"
+    },
+    "FRSP": {
+      "year": 2025,
+      "recreation": 765991,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRSP"
+    },
+    "FRHI": {
+      "year": 2025,
+      "recreation": 18080,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/FRHI"
+    },
+    "GAAR": {
+      "year": 2025,
+      "recreation": 14923,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GAAR"
+    },
+    "JEFF": {
+      "year": 2025,
+      "recreation": 2209028,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JEFF"
+    },
+    "GATE": {
+      "year": 2025,
+      "recreation": 7696939,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GATE"
+    },
+    "GARI": {
+      "year": 2025,
+      "recreation": 213596,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GARI"
+    },
+    "GEGR": {
+      "year": 2025,
+      "recreation": 63152,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GEGR"
+    },
+    "GERO": {
+      "year": 2025,
+      "recreation": 113397,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GERO"
+    },
+    "GEWA": {
+      "year": 2025,
+      "recreation": 72072,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GEWA"
+    },
+    "GWCA": {
+      "year": 2025,
+      "recreation": 31062,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GWCA"
+    },
+    "GWMP": {
+      "year": 2025,
+      "recreation": 6732932,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GWMP"
+    },
+    "GETT": {
+      "year": 2025,
+      "recreation": 730398,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GETT"
+    },
+    "GICL": {
+      "year": 2025,
+      "recreation": 34438,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GICL"
+    },
+    "GLBA": {
+      "year": 2025,
+      "recreation": 740044,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GLBA"
+    },
+    "GLAC": {
+      "year": 2025,
+      "recreation": 3136557,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GLAC"
+    },
+    "GLCA": {
+      "year": 2025,
+      "recreation": 3729502,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GLCA"
+    },
+    "GOGA": {
+      "year": 2025,
+      "recreation": 15748676,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GOGA"
+    },
+    "GOSP": {
+      "year": 2025,
+      "recreation": 53696,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GOSP"
+    },
+    "GOIS": {
+      "year": 2025,
+      "recreation": 52200,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GOIS"
+    },
+    "GRCA": {
+      "year": 2025,
+      "recreation": 4430653,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRCA"
+    },
+    "GRPO": {
+      "year": 2025,
+      "recreation": 85734,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRPO"
+    },
+    "GRTE": {
+      "year": 2025,
+      "recreation": 3800648,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRTE"
+    },
+    "GRKO": {
+      "year": 2025,
+      "recreation": 23520,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRKO"
+    },
+    "GRBA": {
+      "year": 2025,
+      "recreation": 161210,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRBA"
+    },
+    "GRSA": {
+      "year": 2025,
+      "recreation": 432498,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRSA"
+    },
+    "GRSM": {
+      "year": 2025,
+      "recreation": 11527939,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GRSM"
+    },
+    "GREE": {
+      "year": 2025,
+      "recreation": 130314,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GREE"
+    },
+    "GUMO": {
+      "year": 2025,
+      "recreation": 206423,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GUMO"
+    },
+    "GUCO": {
+      "year": 2025,
+      "recreation": 449802,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GUCO"
+    },
+    "GUIS": {
+      "year": 2025,
+      "recreation": 7576923,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/GUIS"
+    },
+    "HAFO": {
+      "year": 2025,
+      "recreation": 36667,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HAFO"
+    },
+    "HALE": {
+      "year": 2025,
+      "recreation": 853711,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HALE"
+    },
+    "HAGR": {
+      "year": 2025,
+      "recreation": 97253,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HAGR"
+    },
+    "HAMP": {
+      "year": 2025,
+      "recreation": 48158,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HAMP"
+    },
+    "HAFE": {
+      "year": 2025,
+      "recreation": 537876,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HAFE"
+    },
+    "HART": {
+      "year": 2025,
+      "recreation": 941,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HART"
+    },
+    "HATU": {
+      "year": 2025,
+      "recreation": 15348,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HATU"
+    },
+    "HSTR": {
+      "year": 2025,
+      "recreation": 19296,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HSTR"
+    },
+    "HAVO": {
+      "year": 2025,
+      "recreation": 1877854,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HAVO"
+    },
+    "HEHO": {
+      "year": 2025,
+      "recreation": 106672,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HEHO"
+    },
+    "HOFR": {
+      "year": 2025,
+      "recreation": 101927,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOFR"
+    },
+    "HOME": {
+      "year": 2025,
+      "recreation": 43099,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOME"
+    },
+    "HOCU": {
+      "year": 2025,
+      "recreation": 51969,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOCU"
+    },
+    "HOFU": {
+      "year": 2025,
+      "recreation": 45897,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOFU"
+    },
+    "HOBE": {
+      "year": 2025,
+      "recreation": 50738,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOBE"
+    },
+    "HOSP": {
+      "year": 2025,
+      "recreation": 2494611,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOSP"
+    },
+    "HOVE": {
+      "year": 2025,
+      "recreation": 26616,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HOVE"
+    },
+    "HUTR": {
+      "year": 2025,
+      "recreation": 45207,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/HUTR"
+    },
+    "IATR": {
+      "year": 2025,
+      "recreation": 29125,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/IATR"
+    },
+    "INDE": {
+      "year": 2025,
+      "recreation": 1926580,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/INDE"
+    },
+    "INDU": {
+      "year": 2025,
+      "recreation": 2629497,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/INDU"
+    },
+    "ISRO": {
+      "year": 2025,
+      "recreation": 29091,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ISRO"
+    },
+    "JAGA": {
+      "year": 2025,
+      "recreation": 34298,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JAGA"
+    },
+    "JELA": {
+      "year": 2025,
+      "recreation": 226543,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JELA"
+    },
+    "JECA": {
+      "year": 2025,
+      "recreation": 110553,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JECA"
+    },
+    "JICA": {
+      "year": 2025,
+      "recreation": 39101,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JICA"
+    },
+    "JODA": {
+      "year": 2025,
+      "recreation": 131119,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JODA"
+    },
+    "JOFI": {
+      "year": 2025,
+      "recreation": 9664,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JOFI"
+    },
+    "JOMU": {
+      "year": 2025,
+      "recreation": 38384,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JOMU"
+    },
+    "JOFL": {
+      "year": 2025,
+      "recreation": 74977,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JOFL"
+    },
+    "JOTR": {
+      "year": 2025,
+      "recreation": 2932644,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JOTR"
+    },
+    "KALA": {
+      "year": 2025,
+      "recreation": 15335,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KALA"
+    },
+    "KAHO": {
+      "year": 2025,
+      "recreation": 360084,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KAHO"
+    },
+    "KAWW": {
+      "year": 2025,
+      "recreation": 33835,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KAWW"
+    },
+    "KATM": {
+      "year": 2025,
+      "recreation": 34479,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KATM"
+    },
+    "KEFJ": {
+      "year": 2025,
+      "recreation": 425369,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KEFJ"
+    },
+    "KEMO": {
+      "year": 2025,
+      "recreation": 1179671,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KEMO"
+    },
+    "KEWE": {
+      "year": 2025,
+      "recreation": 35489,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KEWE"
+    },
+    "KIMO": {
+      "year": 2025,
+      "recreation": 175511,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KIMO"
+    },
+    "KLSE": {
+      "year": 2025,
+      "recreation": 79564,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KLSE"
+    },
+    "KLGO": {
+      "year": 2025,
+      "recreation": 1489935,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KLGO"
+    },
+    "KNRI": {
+      "year": 2025,
+      "recreation": 9048,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KNRI"
+    },
+    "KOVA": {
+      "year": 2025,
+      "recreation": 7786,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KOVA"
+    },
+    "KOWA": {
+      "year": 2025,
+      "recreation": 3975010,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/KOWA"
+    },
+    "LYBA": {
+      "year": 2025,
+      "recreation": 236042,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LYBA"
+    },
+    "LACL": {
+      "year": 2025,
+      "recreation": 19778,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LACL"
+    },
+    "LAKE": {
+      "year": 2025,
+      "recreation": 6135586,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LAKE"
+    },
+    "LAMR": {
+      "year": 2025,
+      "recreation": 1017135,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LAMR"
+    },
+    "LARO": {
+      "year": 2025,
+      "recreation": 1183757,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LARO"
+    },
+    "LAVO": {
+      "year": 2025,
+      "recreation": 504777,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LAVO"
+    },
+    "LABE": {
+      "year": 2025,
+      "recreation": 143659,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LABE"
+    },
+    "LEWI": {
+      "year": 2025,
+      "recreation": 244195,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LEWI"
+    },
+    "LIBO": {
+      "year": 2025,
+      "recreation": 115517,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LIBO"
+    },
+    "LIHO": {
+      "year": 2025,
+      "recreation": 123544,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LIHO"
+    },
+    "LINC": {
+      "year": 2025,
+      "recreation": 7743295,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LINC"
+    },
+    "LIBI": {
+      "year": 2025,
+      "recreation": 42405,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LIBI"
+    },
+    "LIRI": {
+      "year": 2025,
+      "recreation": 781518,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LIRI"
+    },
+    "CHSC": {
+      "year": 2025,
+      "recreation": 49069,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/CHSC"
+    },
+    "LONG": {
+      "year": 2025,
+      "recreation": 54912,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LONG"
+    },
+    "LOWE": {
+      "year": 2025,
+      "recreation": 102540,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LOWE"
+    },
+    "LYJO": {
+      "year": 2025,
+      "recreation": 38456,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/LYJO"
+    },
+    "MAWA": {
+      "year": 2025,
+      "recreation": 4657,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MAWA"
+    },
+    "MACA": {
+      "year": 2025,
+      "recreation": 660734,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MACA"
+    },
+    "MANA": {
+      "year": 2025,
+      "recreation": 473482,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MANA"
+    },
+    "MAPR": {
+      "year": 2025,
+      "recreation": 56390,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MAPR"
+    },
+    "MANZ": {
+      "year": 2025,
+      "recreation": 95764,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MANZ"
+    },
+    "MABI": {
+      "year": 2025,
+      "recreation": 77524,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MABI"
+    },
+    "MLKM": {
+      "year": 2025,
+      "recreation": 2843263,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MLKM"
+    },
+    "MALU": {
+      "year": 2025,
+      "recreation": 647349,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MALU"
+    },
+    "MAVA": {
+      "year": 2025,
+      "recreation": 15807,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MAVA"
+    },
+    "MAMC": {
+      "year": 2025,
+      "recreation": 3123,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MAMC"
+    },
+    "MEMY": {
+      "year": 2025,
+      "recreation": 61170,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MEMY"
+    },
+    "MEVE": {
+      "year": 2025,
+      "recreation": 463130,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MEVE"
+    },
+    "MISP": {
+      "year": 2025,
+      "recreation": 10527,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MISP"
+    },
+    "MIIN": {
+      "year": 2025,
+      "recreation": 43539,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MIIN"
+    },
+    "MIMA": {
+      "year": 2025,
+      "recreation": 993124,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MIMA"
+    },
+    "MIMI": {
+      "year": 2025,
+      "recreation": 102146,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MIMI"
+    },
+    "MISS": {
+      "year": 2025,
+      "recreation": 224722,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MISS"
+    },
+    "MNRR": {
+      "year": 2025,
+      "recreation": 166390,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MNRR"
+    },
+    "MOJA": {
+      "year": 2025,
+      "recreation": 569844,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MOJA"
+    },
+    "MONO": {
+      "year": 2025,
+      "recreation": 116902,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MONO"
+    },
+    "MOCA": {
+      "year": 2025,
+      "recreation": 320013,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MOCA"
+    },
+    "MOCR": {
+      "year": 2025,
+      "recreation": 55708,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MOCR"
+    },
+    "MORR": {
+      "year": 2025,
+      "recreation": 183001,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MORR"
+    },
+    "MORA": {
+      "year": 2025,
+      "recreation": 1635342,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MORA"
+    },
+    "MORU": {
+      "year": 2025,
+      "recreation": 1905649,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MORU"
+    },
+    "MUWO": {
+      "year": 2025,
+      "recreation": 756573,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/MUWO"
+    },
+    "NATC": {
+      "year": 2025,
+      "recreation": 41356,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NATC"
+    },
+    "NATR": {
+      "year": 2025,
+      "recreation": 7994783,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NATR"
+    },
+    "NPSA": {
+      "year": 2025,
+      "recreation": 43258,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NPSA"
+    },
+    "NABR": {
+      "year": 2025,
+      "recreation": 70400,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NABR"
+    },
+    "NAVA": {
+      "year": 2025,
+      "recreation": 44099,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NAVA"
+    },
+    "NEBE": {
+      "year": 2025,
+      "recreation": 16089,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NEBE"
+    },
+    "JAZZ": {
+      "year": 2025,
+      "recreation": 51065,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/JAZZ"
+    },
+    "NERI": {
+      "year": 2025,
+      "recreation": 1958440,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NERI"
+    },
+    "NEPE": {
+      "year": 2025,
+      "recreation": 343910,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NEPE"
+    },
+    "NICO": {
+      "year": 2025,
+      "recreation": 6644,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NICO"
+    },
+    "NISI": {
+      "year": 2025,
+      "recreation": 122732,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NISI"
+    },
+    "NIOB": {
+      "year": 2025,
+      "recreation": 77476,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NIOB"
+    },
+    "NOAT": {
+      "year": 2025,
+      "recreation": 4621,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NOAT"
+    },
+    "NOCA": {
+      "year": 2025,
+      "recreation": 46925,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/NOCA"
+    },
+    "OCMU": {
+      "year": 2025,
+      "recreation": 112071,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/OCMU"
+    },
+    "OLYM": {
+      "year": 2025,
+      "recreation": 3584187,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/OLYM"
+    },
+    "ORCA": {
+      "year": 2025,
+      "recreation": 64354,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ORCA"
+    },
+    "ORPI": {
+      "year": 2025,
+      "recreation": 174623,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ORPI"
+    },
+    "OZAR": {
+      "year": 2025,
+      "recreation": 1116835,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/OZAR"
+    },
+    "PAIS": {
+      "year": 2025,
+      "recreation": 573255,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PAIS"
+    },
+    "PAAL": {
+      "year": 2025,
+      "recreation": 168550,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PAAL"
+    },
+    "PAGR": {
+      "year": 2025,
+      "recreation": 189721,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PAGR"
+    },
+    "PERI": {
+      "year": 2025,
+      "recreation": 131726,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PERI"
+    },
+    "PECO": {
+      "year": 2025,
+      "recreation": 37083,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PECO"
+    },
+    "PAAV": {
+      "year": 2025,
+      "recreation": 115618,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PAAV"
+    },
+    "PEVI": {
+      "year": 2025,
+      "recreation": 124327,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PEVI"
+    },
+    "PETE": {
+      "year": 2025,
+      "recreation": 494358,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PETE"
+    },
+    "PEFO": {
+      "year": 2025,
+      "recreation": 315951,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PEFO"
+    },
+    "PETR": {
+      "year": 2025,
+      "recreation": 310672,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PETR"
+    },
+    "PIRO": {
+      "year": 2025,
+      "recreation": 933966,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PIRO"
+    },
+    "PINN": {
+      "year": 2025,
+      "recreation": 343208,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PINN"
+    },
+    "PISP": {
+      "year": 2025,
+      "recreation": 18967,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PISP"
+    },
+    "PIPE": {
+      "year": 2025,
+      "recreation": 77436,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PIPE"
+    },
+    "PISC": {
+      "year": 2025,
+      "recreation": 275070,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PISC"
+    },
+    "PORE": {
+      "year": 2025,
+      "recreation": 2429601,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PORE"
+    },
+    "POCH": {
+      "year": 2025,
+      "recreation": 782,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/POCH"
+    },
+    "WICL": {
+      "year": 2025,
+      "recreation": 6821,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WICL"
+    },
+    "PRWI": {
+      "year": 2025,
+      "recreation": 339015,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PRWI"
+    },
+    "PULL": {
+      "year": 2025,
+      "recreation": 22367,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PULL"
+    },
+    "PUHO": {
+      "year": 2025,
+      "recreation": 371957,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PUHO"
+    },
+    "PUHE": {
+      "year": 2025,
+      "recreation": 21978,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/PUHE"
+    },
+    "RABR": {
+      "year": 2025,
+      "recreation": 11404,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RABR"
+    },
+    "REER": {
+      "year": 2025,
+      "recreation": 23206,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/REER"
+    },
+    "REDW": {
+      "year": 2025,
+      "recreation": 1202480,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/REDW"
+    },
+    "RICH": {
+      "year": 2025,
+      "recreation": 149545,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RICH"
+    },
+    "RIGR": {
+      "year": 2025,
+      "recreation": 120,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RIGR"
+    },
+    "RIRA": {
+      "year": 2025,
+      "recreation": 133643,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RIRA"
+    },
+    "ROCR": {
+      "year": 2025,
+      "recreation": 1865048,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ROCR"
+    },
+    "ROMO": {
+      "year": 2025,
+      "recreation": 4171431,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ROMO"
+    },
+    "ROWI": {
+      "year": 2025,
+      "recreation": 38959,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ROWI"
+    },
+    "RORI": {
+      "year": 2025,
+      "recreation": 33689,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RORI"
+    },
+    "RUCA": {
+      "year": 2025,
+      "recreation": 7821,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/RUCA"
+    },
+    "SAHI": {
+      "year": 2025,
+      "recreation": 122124,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAHI"
+    },
+    "SAGU": {
+      "year": 2025,
+      "recreation": 847749,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAGU"
+    },
+    "SACR": {
+      "year": 2025,
+      "recreation": 15481,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SACR"
+    },
+    "SACN": {
+      "year": 2025,
+      "recreation": 852296,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SACN"
+    },
+    "SAPA": {
+      "year": 2025,
+      "recreation": 8853,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAPA"
+    },
+    "SAGA": {
+      "year": 2025,
+      "recreation": 28451,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAGA"
+    },
+    "SAMA": {
+      "year": 2025,
+      "recreation": 569839,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAMA"
+    },
+    "SAPU": {
+      "year": 2025,
+      "recreation": 32144,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAPU"
+    },
+    "SARI": {
+      "year": 2025,
+      "recreation": 12126,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SARI"
+    },
+    "SAAN": {
+      "year": 2025,
+      "recreation": 1552510,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAAN"
+    },
+    "SAFR": {
+      "year": 2025,
+      "recreation": 2944483,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAFR"
+    },
+    "SAJH": {
+      "year": 2025,
+      "recreation": 420922,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAJH"
+    },
+    "SAJU": {
+      "year": 2025,
+      "recreation": 1402132,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAJU"
+    },
+    "SAND": {
+      "year": 2025,
+      "recreation": 4338,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAND"
+    },
+    "SAMO": {
+      "year": 2025,
+      "recreation": 722626,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAMO"
+    },
+    "SARA": {
+      "year": 2025,
+      "recreation": 119249,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SARA"
+    },
+    "SAIR": {
+      "year": 2025,
+      "recreation": 51495,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SAIR"
+    },
+    "SCBL": {
+      "year": 2025,
+      "recreation": 182392,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SCBL"
+    },
+    "SEKI": {
+      "year": 2025,
+      "recreation": 2158128,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SEKI"
+    },
+    "SHEN": {
+      "year": 2025,
+      "recreation": 1682152,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SHEN"
+    },
+    "SHIL": {
+      "year": 2025,
+      "recreation": 346955,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SHIL"
+    },
+    "SITK": {
+      "year": 2025,
+      "recreation": 332964,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SITK"
+    },
+    "SLBE": {
+      "year": 2025,
+      "recreation": 1601747,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SLBE"
+    },
+    "SPAR": {
+      "year": 2025,
+      "recreation": 13934,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SPAR"
+    },
+    "STLI": {
+      "year": 2025,
+      "recreation": 3538231,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/STLI"
+    },
+    "STGE": {
+      "year": 2025,
+      "recreation": 16525,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/STGE"
+    },
+    "STEA": {
+      "year": 2025,
+      "recreation": 60844,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/STEA"
+    },
+    "STRI": {
+      "year": 2025,
+      "recreation": 454614,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/STRI"
+    },
+    "STON": {
+      "year": 2025,
+      "recreation": 298077,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/STON"
+    },
+    "SUCR": {
+      "year": 2025,
+      "recreation": 108348,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/SUCR"
+    },
+    "TAPR": {
+      "year": 2025,
+      "recreation": 27531,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TAPR"
+    },
+    "THKO": {
+      "year": 2025,
+      "recreation": 1664,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THKO"
+    },
+    "WHHO": {
+      "year": 2025,
+      "recreation": 311213,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WHHO"
+    },
+    "THRB": {
+      "year": 2025,
+      "recreation": 26864,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THRB"
+    },
+    "THRI": {
+      "year": 2025,
+      "recreation": 26787,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THRI"
+    },
+    "THIS": {
+      "year": 2025,
+      "recreation": 159828,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THIS"
+    },
+    "THRO": {
+      "year": 2025,
+      "recreation": 729893,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THRO"
+    },
+    "EDIS": {
+      "year": 2025,
+      "recreation": 22370,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/EDIS"
+    },
+    "THST": {
+      "year": 2025,
+      "recreation": 4910,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/THST"
+    },
+    "TICA": {
+      "year": 2025,
+      "recreation": 92031,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TICA"
+    },
+    "TIMU": {
+      "year": 2025,
+      "recreation": 1109821,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TIMU"
+    },
+    "TONT": {
+      "year": 2025,
+      "recreation": 26160,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TONT"
+    },
+    "TULE": {
+      "year": 2025,
+      "recreation": 4868,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TULE"
+    },
+    "TUSK": {
+      "year": 2025,
+      "recreation": 51964,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TUSK"
+    },
+    "TUMA": {
+      "year": 2025,
+      "recreation": 28449,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TUMA"
+    },
+    "TUAI": {
+      "year": 2025,
+      "recreation": 25041,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TUAI"
+    },
+    "TUIN": {
+      "year": 2025,
+      "recreation": 8659,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TUIN"
+    },
+    "TUZI": {
+      "year": 2025,
+      "recreation": 86473,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/TUZI"
+    },
+    "ULSG": {
+      "year": 2025,
+      "recreation": 37467,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ULSG"
+    },
+    "UPDE": {
+      "year": 2025,
+      "recreation": 380245,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/UPDE"
+    },
+    "VALL": {
+      "year": 2025,
+      "recreation": 84952,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VALL"
+    },
+    "VAFO": {
+      "year": 2025,
+      "recreation": 1819086,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VAFO"
+    },
+    "VAMA": {
+      "year": 2025,
+      "recreation": 295040,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VAMA"
+    },
+    "VICK": {
+      "year": 2025,
+      "recreation": 410300,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VICK"
+    },
+    "VIVE": {
+      "year": 2025,
+      "recreation": 4848112,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VIVE"
+    },
+    "VIIS": {
+      "year": 2025,
+      "recreation": 471074,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VIIS"
+    },
+    "VOYA": {
+      "year": 2025,
+      "recreation": 206326,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/VOYA"
+    },
+    "WACO": {
+      "year": 2025,
+      "recreation": 91678,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WACO"
+    },
+    "WACA": {
+      "year": 2025,
+      "recreation": 153317,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WACA"
+    },
+    "WAPA": {
+      "year": 2025,
+      "recreation": 397733,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WAPA"
+    },
+    "WAMO": {
+      "year": 2025,
+      "recreation": 204489,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WAMO"
+    },
+    "WABA": {
+      "year": 2025,
+      "recreation": 11048,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WABA"
+    },
+    "WEFA": {
+      "year": 2025,
+      "recreation": 30339,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WEFA"
+    },
+    "WHIS": {
+      "year": 2025,
+      "recreation": 763798,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WHIS"
+    },
+    "WHSA": {
+      "year": 2025,
+      "recreation": 659742,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WHSA"
+    },
+    "WHMI": {
+      "year": 2025,
+      "recreation": 54089,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WHMI"
+    },
+    "WIHO": {
+      "year": 2025,
+      "recreation": 18121,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WIHO"
+    },
+    "WICR": {
+      "year": 2025,
+      "recreation": 370558,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WICR"
+    },
+    "WICA": {
+      "year": 2025,
+      "recreation": 606258,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WICA"
+    },
+    "WOTR": {
+      "year": 2025,
+      "recreation": 437413,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WOTR"
+    },
+    "WORI": {
+      "year": 2025,
+      "recreation": 27346,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WORI"
+    },
+    "WWIM": {
+      "year": 2025,
+      "recreation": 838999,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WWIM"
+    },
+    "WWII": {
+      "year": 2025,
+      "recreation": 3993717,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WWII"
+    },
+    "WRST": {
+      "year": 2025,
+      "recreation": 108840,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WRST"
+    },
+    "WRBR": {
+      "year": 2025,
+      "recreation": 341576,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WRBR"
+    },
+    "WUPA": {
+      "year": 2025,
+      "recreation": 129864,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/WUPA"
+    },
+    "YELL": {
+      "year": 2025,
+      "recreation": 4762988,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/YELL"
+    },
+    "YOSE": {
+      "year": 2025,
+      "recreation": 4278413,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/YOSE"
+    },
+    "YUCH": {
+      "year": 2025,
+      "recreation": 962,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/YUCH"
+    },
+    "ZION": {
+      "year": 2025,
+      "recreation": 4984525,
+      "source": "NPS Visitor Use Statistics",
+      "url": "https://irma.nps.gov/Stats/Reports/Park/ZION"
+    }
+  }
+}

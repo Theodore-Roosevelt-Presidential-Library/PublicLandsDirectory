@@ -106,6 +106,12 @@ function kml(s, geom) {
 // ---------- site pages ----------
 const LINK_LABELS = { facebook: 'Facebook', instagram: 'Instagram', x: 'X', twitter: 'X', youtube: 'YouTube', flickr: 'Flickr', threads: 'Threads', bluesky: 'Bluesky' };
 
+function wildHTML(s) {
+  return `<p>${s.wilderness.length === 1 ? 'Part of this place is' : 'Parts of this place are'} designated wilderness, protected by Congress under the Wilderness Act of 1964. Roads, motor vehicles and mechanized travel, including bicycles, are generally not allowed. Most travel is on foot or on horseback.</p>
+<ul class="wild">${s.wilderness.map((w) => `<li><a href="${esc(w.url || 'https://wilderness.net')}">${esc(w.name)}</a> <span class="muted">${[w.designated && `designated ${w.designated}`, w.acres && `${num(w.acres)} acres`, w.agencies.length > 1 && `managed by ${w.agencies.join(' and ')}`].filter(Boolean).join(' · ')}</span></li>`).join('')}</ul>
+<p class="muted small">Wilderness boundaries and acreage from Wilderness Connect (wilderness.net). Acreage is the whole wilderness, which can extend beyond this site.</p>`;
+}
+
 for (const s of sites) {
   const path = `/sites/${s.slug}/`;
   const hero = s.images[0];
@@ -113,6 +119,9 @@ for (const s of sites) {
   const hist = s.designationHistory;
   const geomFile = join(DATA, 'boundaries', `${s.slug}.geojson`);
   const hasGeom = s.hasBoundary && existsSync(geomFile);
+  const wildFile = join(DATA, 'wilderness', `${s.slug}.geojson`);
+  const hasWild = s.wilderness?.length && existsSync(wildFile);
+  if (hasWild) await writeJSON(join(DIST, 'wilderness', `${s.slug}.geojson`), await readJSON(wildFile), false);
   if (hasGeom) {
     const f = await readJSON(geomFile);
     await writeJSON(join(DIST, 'boundaries', `${s.slug}.geojson`), f, false);
@@ -126,13 +135,15 @@ for (const s of sites) {
     s.acres ? ['Size', `${num(s.acres.value)} acres${s.acres.kind !== 'documented' ? ` <span class="muted" title="${esc(s.acres.note || s.acres.source)}">(${s.acres.kind === 'gis-estimate' ? 'estimate' : 'GIS'})</span>` : ''}`] : null,
     s.firstProtected && (!s.established || s.firstProtected.date !== s.established.date) ? ['First protected', `${fmtDate(s.firstProtected.date)}${s.firstProtected.name || s.firstProtected.designation ? ` as ${esc(s.firstProtected.name || s.firstProtected.designation)}` : ''}${s.firstProtected.text ? `<br><span class="muted">${esc(s.firstProtected.text)}</span>` : ''}<br><span class="muted">${authLine(s.firstProtected.authority)}</span>${pendingTag(s.firstProtected.reviewed)}`] : null,
     s.established ? [`${esc(s.established.designation)} since`, `${fmtDate(s.established.date)}<br><span class="muted">${authLine(s.established.authority)}</span>${pendingTag(s.established.reviewed)}`] : ['Established', '<span class="muted">Designation history being researched</span>'],
+    s.wilderness?.length ? ['Wilderness', `${s.wilderness.length === 1 ? esc(s.wilderness[0].name) : `${s.wilderness.length} designated areas`}<br><a href="#wilderness">See wilderness</a>`] : null,
+    s.visitation ? ['Visitors', `${num(s.visitation.recreation)} in ${s.visitation.year}<br><span class="muted">Recreation visits, <a href="${esc(s.visitation.url)}">${esc(s.visitation.source)}</a></span>`] : null,
     s.administrations.length ? ['Administration' + (s.administrations.length > 1 ? 's' : ''), esc(s.administrations.join(', '))] : null,
   ].filter(Boolean);
 
   const social = Object.entries(s.links.social || {}).filter(([, v]) => v);
   const linkList = [
     s.links.official && `<a class="btn" href="${esc(s.links.official)}">Official website</a>`,
-    s.links.recreationGov ? `<a class="btn btn-ghost" href="${esc(s.links.recreationGov)}">Recreation.gov</a>` : `<a class="btn btn-ghost" href="${esc(s.links.recreationGovSearch)}">Permits and camping on Recreation.gov</a>`,
+    s.links.recreationGov ? `<a class="btn btn-ghost" href="${esc(s.links.recreationGov)}"${s.links.recreationGovName ? ` title="Listed on Recreation.gov as ${esc(s.links.recreationGovName)}"` : ''}>Reserve on Recreation.gov</a>` : `<a class="btn btn-ghost" href="${esc(s.links.recreationGovSearch)}">Permits and camping on Recreation.gov</a>`,
     s.links.alltrails ? `<a class="btn btn-ghost" href="${esc(s.links.alltrails)}">Trails on AllTrails</a>` : s.links.alltrailsExplore ? `<a class="btn btn-ghost" href="${esc(s.links.alltrailsExplore)}">Find trails on AllTrails</a>` : null,
     s.links.directions && `<a class="btn btn-ghost" href="${esc(s.links.directions)}">Directions</a>`,
     ...social.map(([k, v]) => `<a class="btn btn-ghost" href="${esc(v)}">${esc(LINK_LABELS[k] || k)}</a>`),
@@ -159,7 +170,8 @@ for (const s of sites) {
     g.seeAndDo && paras(g.seeAndDo),
     s.thingsToDo.length && `<ul class="cards-mini">${s.thingsToDo.map((t) => `<li><a href="${esc(t.url)}">${esc(t.title)}</a>${t.description ? `<br><span class="muted">${esc(t.description.slice(0, 160))}</span>` : ''}</li>`).join('')}</ul>`,
     s.activities.length && `<h3>Activities</h3><ul class="chips">${s.activities.map((a) => `<li><a href="/?act=${encodeURIComponent(a)}" title="More places for ${esc(a.toLowerCase())}">${esc(a)}</a></li>`).join('')}</ul>`,
-    s.links.alltrailsExplore && `<p><a href="${esc(s.links.alltrails || s.links.alltrailsExplore)}">Browse hiking, biking and paddling routes on AllTrails</a></p>`,
+    s.trails?.length && `<h3>Popular trails</h3><ul class="trails">${s.trails.map((t) => `<li><a href="${esc(t.url)}">${esc(t.name)}</a>${[t.miles != null && `${t.miles} mi`, t.route?.replace(' & ', ' and '), t.difficulty].filter(Boolean).length ? ` <span class="muted">${esc([t.miles != null && `${t.miles} mi`, t.route?.replace(' & ', ' and '), t.difficulty].filter(Boolean).join(' · '))}</span>` : ''}</li>`).join('')}</ul><p class="muted small">Trail details from AllTrails. Check conditions with the managing agency before you go.</p>`,
+    s.links.alltrailsExplore && `<p><a href="${esc(s.links.alltrails || s.links.alltrailsExplore)}">${s.trails?.length ? 'More routes on AllTrails' : 'Browse hiking, biking and paddling routes on AllTrails'}</a></p>`,
   ].filter(Boolean).join('');
 
   // Shown only when reviewed text exists (tribal review required); no placeholder.
@@ -192,18 +204,19 @@ for (const s of sites) {
   <div class="wrap grid">
     <div class="main">
       <section id="alerts" class="block alerts" aria-live="polite"><h2>Alerts and conditions</h2><div class="alerts-list" data-generated="${esc(alerts.generated || '')}">${alertsHTML(s.slug)}</div></section>
-      ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">From the ${esc(s.summarySource)}</p>` : '') : '')}
+      ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">${/Library/.test(s.summarySource) ? 'Written by the ' : 'From the '}${esc(s.summarySource)}</p>` : '') : '')}
       ${section('special', 'What makes it special', g.special ? paras(g.special) + guidePending : '')}
       ${section('history', 'History', historyHTML)}
       ${(s.trConnections?.length || s.trConnection) ? section('roosevelt', 'The Roosevelt connection', trHTML(s)) : ''}
       ${section('see-and-do', 'What to see and do', doHTML)}
+      ${s.wilderness?.length ? section('wilderness', 'Wilderness', wildHTML(s)) : ''}
       ${section('visit', 'Plan your visit', visit || `<p>Check the <a href="${esc(s.links.official || s.agency.url)}">${esc(s.agency.name)}</a> for current hours, fees and access.</p>`)}
       ${homelands ? section('homelands', 'Whose lands these are', homelands) : ''}
       ${gallery.length ? section('photos', 'Photos', `<div class="gallery">${gallery.map((i) => `<figure><img loading="lazy" src="${esc(i.url)}" alt="${esc(i.alt || i.title || '')}"><figcaption>${esc(i.title || '')}${i.credit ? ` <span class="muted">· ${esc(i.credit)}</span>` : ''}</figcaption></figure>`).join('')}</div>`) : ''}
       ${nearby.length ? section('nearby', 'Pair it with', `<ul class="nearby">${s.nearby.map((n) => { const o = bySlug.get(n.slug); return o ? `<li><a href="/sites/${o.slug}/">${esc(o.name)}</a> <span class="muted">${esc(o.agency.code)} · ${Math.round(n.km * 0.621)} miles</span></li>` : ''; }).join('')}</ul>`) : ''}
     </div>
     <aside class="side">
-      ${hasGeom || s.location ? `<div class="mapbox"><div id="map" class="map" data-geojson="${hasGeom ? `/boundaries/${s.slug}.geojson` : ''}" data-lat="${s.location?.lat ?? ''}" data-lon="${s.location?.lon ?? ''}"></div>${hasGeom ? `<p class="dl">Boundary: <a href="/boundaries/${s.slug}.geojson" download>GeoJSON</a> · <a href="/boundaries/${s.slug}.kml" download>KML</a> <span class="muted">(simplified)</span></p>` : ''}</div>` : ''}
+      ${hasGeom || s.location ? `<div class="mapbox"><div id="map" class="map" data-geojson="${hasGeom ? `/boundaries/${s.slug}.geojson` : ''}" data-lat="${s.location?.lat ?? ''}" data-lon="${s.location?.lon ?? ''}"${hasWild ? ` data-wilderness="/wilderness/${s.slug}.geojson"` : ''}></div>${hasGeom ? `<p class="dl">Boundary: <a href="/boundaries/${s.slug}.geojson" download>GeoJSON</a> · <a href="/boundaries/${s.slug}.kml" download>KML</a> <span class="muted">(simplified)</span></p>` : ''}${hasWild ? `<p class="dl"><span class="key key-wild"></span> Designated wilderness · <a href="/wilderness/${s.slug}.geojson" download>GeoJSON</a></p>` : ''}</div>` : ''}
       <dl class="facts">${facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
       <div class="links">${linkList}</div>
       <details class="embed-box"><summary>Embed this site</summary>
@@ -226,7 +239,7 @@ const index = sites.map((s) => ({
   y: s.established ? Number(s.established.date.slice(0, 4)) : null, fy: s.firstProtected ? Number(s.firstProtected.date.slice(0, 4)) : null,
   p: s.administrations, lat: s.location?.lat ?? null, lon: s.location?.lon ?? null,
   img: s.images[0]?.url || null, ac: s.acres?.value || null, al: (alerts.sites[s.slug] || []).length,
-  act: s.activities, tr: s.trTypes || [],
+  act: s.activities, tr: s.trTypes || [], w: s.wilderness?.length || 0,
 }));
 await writeJSON(join(DIST, 'api', 'index.json'), { generated, categories: CATEGORIES, agencies: AGENCIES, sites: index }, false);
 await writeJSON(join(DIST, 'api', 'directory.json'), { generated, license: 'Public domain (U.S. government data) and CC BY 4.0 for Library-written guide text', sites }, false);
@@ -257,6 +270,7 @@ const home = `
     <label><span>Activity</span><select id="act"><option value="">Any activity</option></select></label>
     <label><span>Roosevelt connection</span><select id="tr"><option value="">Any</option><option value="any">Any Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option></select></label>
     <label class="check"><input type="checkbox" id="alerts"> <span>Has alerts</span></label>
+    <label class="check"><input type="checkbox" id="wild"> <span>Has wilderness</span></label>
   </form>
   <div class="viewbar"><p id="count" aria-live="polite"></p><div class="toggle"><button type="button" data-view="list" aria-pressed="true">List</button><button type="button" data-view="map" aria-pressed="false">Map</button></div></div>
   <div id="map" class="map map-big" hidden></div>
@@ -306,11 +320,11 @@ await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Director
 {
   const coverData = await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {}, missing: [] });
   const rows = sites.map((x) => ({ x, c: coverData.sites[x.slug] }));
-  const order = (r) => (!r.c ? 0 : r.c.review === 'auto-category' ? 1 : r.c.tier === 3 ? 2 : 3);
+  const order = (r) => (!r.c ? 0 : r.c.review ? 1 : r.c.tier === 3 ? 2 : 3);
   rows.sort((a, b) => order(a) - order(b) || a.x.name.localeCompare(b.x.name));
   const TIER = { 0: 'Library pick', 1: 'U.S. government', 2: 'Public domain / CC0', 3: 'CC BY or BY-SA 4.0' };
-  const cards = rows.map(({ x, c }) => `<figure class="cv${c ? '' : ' none'}" data-flag="${!c ? 'missing' : c.review === 'auto-category' ? 'check' : c.tier === 3 ? 'credit' : 'ok'}">${c ? `<a href="${esc(c.filePage || '#')}"><img loading="lazy" src="${esc(c.url)}" alt=""></a>` : '<div class="ph">No cover yet</div>'}<figcaption><a href="/sites/${x.slug}/"><strong>${esc(x.name)}</strong></a><br>${c ? `${esc(TIER[c.tier] || '')} · ${esc(c.license || '')}${c.review === 'auto-category' ? ' · <b>check</b>' : ''}<br><span class="muted">${esc((c.credit || '').slice(0, 60))}</span>` : ''}<br><code>${x.slug}</code></figcaption></figure>`).join('');
-  const counts = rows.reduce((m, r) => { const k = !r.c ? 'missing' : r.c.review === 'auto-category' ? 'check' : 'ok'; m[k] = (m[k] || 0) + 1; return m; }, {});
+  const cards = rows.map(({ x, c }) => `<figure class="cv${c ? '' : ' none'}" data-flag="${!c ? 'missing' : c.review ? 'check' : c.tier === 3 ? 'credit' : 'ok'}">${c ? `<a href="${esc(c.filePage || '#')}"><img loading="lazy" src="${esc(c.url)}" alt=""></a>` : '<div class="ph">No cover yet</div>'}<figcaption><a href="/sites/${x.slug}/"><strong>${esc(x.name)}</strong></a><br>${c ? `${esc(TIER[c.tier] || '')} · ${esc(c.license || '')}${c.review ? ' · <b>check</b>' : ''}<br><span class="muted">${esc((c.credit || '').slice(0, 60))}</span>` : ''}<br><code>${x.slug}</code></figcaption></figure>`).join('');
+  const counts = rows.reduce((m, r) => { const k = !r.c ? 'missing' : r.c.review ? 'check' : 'ok'; m[k] = (m[k] || 0) + 1; return m; }, {});
   const body = `<div class="wrap prose" style="max-width:1400px"><h1>Cover images</h1>
   <p>Every site\u2019s cover, picked automatically under the Library\u2019s image-rights standard. <strong>Check</strong> marks picks from a Commons category, which are the least certain; they are listed first, after sites with no cover. To replace a cover, add it to <code>data/editorial/_cover-overrides.json</code> under <code>sites</code>; to drop one, add the slug to <code>reject</code>.</p>
   <p>${counts.missing || 0} without a cover · ${counts.check || 0} to check · ${counts.ok || 0} from agency photos or Wikidata</p>
@@ -332,6 +346,9 @@ const about = `<div class="wrap prose">
 <tr><td>National wildlife refuges and wetland management districts</td><td>U.S. Fish and Wildlife Service approved acquisition boundaries</td><td>Nightly</td></tr>
 <tr><td>National forests, grasslands, Forest Service monuments, recreation and scenic areas</td><td>USDA Forest Service Enterprise Data Warehouse</td><td>Nightly</td></tr>
 <tr><td>BLM national monuments and conservation areas</td><td>Bureau of Land Management National Conservation Lands</td><td>Nightly</td></tr>
+<tr><td>Designated wilderness areas and their boundaries</td><td><a href="https://wilderness.net">Wilderness Connect (wilderness.net)</a>, University of Montana</td><td>Nightly</td></tr>
+<tr><td>Annual recreation visits (National Park System)</td><td><a href="https://irma.nps.gov/Stats/">NPS Visitor Use Statistics</a></td><td>Weekly</td></tr>
+<tr><td>Reservation pages for camping, tours and permits</td><td><a href="https://www.recreation.gov">Recreation.gov</a></td><td>Weekly</td></tr>
 <tr><td>Park alerts and closures</td><td>NPS Data API</td><td>Hourly</td></tr>
 <tr><td>Weather watches, warnings and advisories</td><td><a href="https://www.weather.gov/documentation/services-web-api">National Weather Service</a></td><td>Hourly</td></tr>
 <tr><td>Active wildfire perimeters</td><td><a href="https://data-nifc.opendata.arcgis.com/">National Interagency Fire Center (WFIGS)</a></td><td>Hourly</td></tr>
@@ -358,6 +375,7 @@ const api = `<div class="wrap prose"><h1>Open data</h1>
 <tr><td><code>/api/sites/{slug}.json</code></td><td>One site, including its current alerts. Example: <a href="/api/sites/theodore-roosevelt-national-park.json">Theodore Roosevelt National Park</a></td></tr>
 <tr><td><a href="/api/alerts.json">/api/alerts.json</a></td><td>Current alerts for every site (hourly)</td></tr>
 <tr><td><code>/boundaries/{slug}.geojson</code> and <code>.kml</code></td><td>Simplified boundary for one site</td></tr>
+<tr><td><code>/wilderness/{slug}.geojson</code></td><td>Designated wilderness inside one site (only where the site has wilderness)</td></tr>
 <tr><td><a href="/api/directory.csv">/api/directory.csv</a></td><td>Spreadsheet of key facts</td></tr>
 </tbody></table></div>`;
 await writeText(join(DIST, 'api', 'index.html'), layout({ title: 'Open data | Public Lands Directory', description: 'JSON, CSV and GeoJSON downloads for the Public Lands Directory.', path: '/api/', body: api }));

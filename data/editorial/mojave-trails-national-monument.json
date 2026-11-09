@@ -1,0 +1,28 @@
+{
+  "slug": "mojave-trails-national-monument",
+  "designationHistory": [
+    {
+      "date": "2016-02-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Mojave Trails National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9395, 81 FR 8371"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9395, 81 FR 8371",
+          "url": "https://www.federalregister.gov/documents/2016/02/18/2016-03544/establishment-of-the-mojave-trails-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

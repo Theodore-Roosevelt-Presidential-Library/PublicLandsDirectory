@@ -1,0 +1,3283 @@
+[
+{
+"slug": "acadia-national-park",
+"name": "Acadia National Park",
+"states": [
+"Maine"
+],
+"sw": {
+"latitude": 44.0034,
+"longitude": -68.6604
+},
+"ne": {
+"latitude": 44.4284,
+"longitude": -68.03
+}
+},
+{
+"slug": "alaska-maritime-national-wildlife-refuge",
+"name": "Alaska Maritime National Wildlife Refuge",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 51.2099,
+"longitude": -179.1501
+},
+"ne": {
+"latitude": 70.3294,
+"longitude": 179.7748
+}
+},
+{
+"slug": "antietam-national-battlefield",
+"name": "Antietam National Battlefield",
+"states": [
+"Maryland"
+],
+"sw": {
+"latitude": 39.4384,
+"longitude": -77.7622
+},
+"ne": {
+"latitude": 39.4972,
+"longitude": -77.6167
+}
+},
+{
+"slug": "arapaho-national-forest",
+"name": "Arapaho National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 39.5346,
+"longitude": -106.6875
+},
+"ne": {
+"latitude": 40.4017,
+"longitude": -105.3332
+}
+},
+{
+"slug": "arches-national-park",
+"name": "Arches National Park",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 38.6032,
+"longitude": -109.7132
+},
+"ne": {
+"latitude": 38.8469,
+"longitude": -109.4777
+}
+},
+{
+"slug": "arlington-house-the-robert-e-lee-memorial",
+"name": "Arlington House, The Robert E. Lee Memorial",
+"states": [
+"Virginia"
+],
+"sw": {
+"latitude": 38.8802,
+"longitude": -77.0756
+},
+"ne": {
+"latitude": 38.8838,
+"longitude": -77.0725
+}
+},
+{
+"slug": "badlands-national-park",
+"name": "Badlands National Park",
+"states": [
+"South Dakota"
+],
+"sw": {
+"latitude": 43.4768,
+"longitude": -102.898
+},
+"ne": {
+"latitude": 43.9223,
+"longitude": -101.8898
+}
+},
+{
+"slug": "beaverhead-national-forest",
+"name": "Beaverhead National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 44.3579,
+"longitude": -113.9381
+},
+"ne": {
+"latitude": 46.0464,
+"longitude": -111.3696
+}
+},
+{
+"slug": "big-bend-national-park",
+"name": "Big Bend National Park",
+"states": [
+"Texas"
+],
+"sw": {
+"latitude": 28.9716,
+"longitude": -103.7819
+},
+"ne": {
+"latitude": 29.6949,
+"longitude": -102.8394
+}
+},
+{
+"slug": "bighorn-national-forest",
+"name": "Bighorn National Forest",
+"states": [
+"Montana",
+"Wyoming"
+],
+"sw": {
+"latitude": 44.02,
+"longitude": -108.0056
+},
+"ne": {
+"latitude": 45.0013,
+"longitude": -106.8408
+}
+},
+{
+"slug": "biscayne-national-park",
+"name": "Biscayne National Park",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 25.2914,
+"longitude": -80.3472
+},
+"ne": {
+"latitude": 25.6711,
+"longitude": -80.0894
+}
+},
+{
+"slug": "bitterroot-national-forest",
+"name": "Bitterroot National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 45.3897,
+"longitude": -115.0246
+},
+"ne": {
+"latitude": 46.7144,
+"longitude": -113.5155
+}
+},
+{
+"slug": "black-canyon-of-the-gunnison-national-park",
+"name": "Black Canyon Of The Gunnison National Park",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 38.503,
+"longitude": -107.8295
+},
+"ne": {
+"latitude": 38.6413,
+"longitude": -107.6184
+}
+},
+{
+"slug": "black-hills-national-forest",
+"name": "Black Hills National Forest",
+"states": [
+"South Dakota",
+"Wyoming"
+],
+"sw": {
+"latitude": 43.2748,
+"longitude": -104.7196
+},
+"ne": {
+"latitude": 44.7955,
+"longitude": -103.304
+}
+},
+{
+"slug": "boise-national-forest",
+"name": "Boise National Forest",
+"states": [
+"Idaho"
+],
+"sw": {
+"latitude": 43.2128,
+"longitude": -116.3231
+},
+"ne": {
+"latitude": 44.9704,
+"longitude": -114.7869
+}
+},
+{
+"slug": "breton-national-wildlife-refuge",
+"name": "Breton National Wildlife Refuge",
+"states": [
+"Louisiana"
+],
+"sw": {
+"latitude": 29.4609,
+"longitude": -89.2085
+},
+"ne": {
+"latitude": 30.0568,
+"longitude": -88.8191
+}
+},
+{
+"slug": "bridger-national-forest",
+"name": "Bridger National Forest",
+"states": [
+"Wyoming"
+],
+"sw": {
+"latitude": 42.1304,
+"longitude": -111.0471
+},
+"ne": {
+"latitude": 43.451,
+"longitude": -108.8803
+}
+},
+{
+"slug": "bryce-canyon-national-park",
+"name": "Bryce Canyon National Park",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.4421,
+"longitude": -112.2741
+},
+"ne": {
+"latitude": 37.6993,
+"longitude": -112.0832
+}
+},
+{
+"slug": "cache-national-forest",
+"name": "Cache National Forest",
+"states": [
+"Idaho",
+"Utah"
+],
+"sw": {
+"latitude": 41.1327,
+"longitude": -112.0859
+},
+"ne": {
+"latitude": 42.6418,
+"longitude": -111.2088
+}
+},
+{
+"slug": "canyonlands-national-park",
+"name": "Canyonlands National Park",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.9599,
+"longitude": -110.2353
+},
+"ne": {
+"latitude": 38.5075,
+"longitude": -109.6639
+}
+},
+{
+"slug": "capitol-reef-national-park",
+"name": "Capitol Reef National Park",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.5986,
+"longitude": -111.4233
+},
+"ne": {
+"latitude": 38.5344,
+"longitude": -110.8624
+}
+},
+{
+"slug": "caribou-national-forest",
+"name": "Caribou National Forest",
+"states": [
+"Idaho",
+"Utah",
+"Wyoming"
+],
+"sw": {
+"latitude": 41.9014,
+"longitude": -112.5362
+},
+"ne": {
+"latitude": 43.4659,
+"longitude": -110.9926
+}
+},
+{
+"slug": "carlsbad-caverns-national-park",
+"name": "Carlsbad Caverns National Park",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 32.0408,
+"longitude": -104.6848
+},
+"ne": {
+"latitude": 32.1991,
+"longitude": -104.3708
+}
+},
+{
+"slug": "carson-national-forest",
+"name": "Carson National Forest",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 35.9726,
+"longitude": -107.3723
+},
+"ne": {
+"latitude": 37.0002,
+"longitude": -105.2923
+}
+},
+{
+"slug": "chaco-culture-national-historical-park",
+"name": "Chaco Culture National Historical Park",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 35.6673,
+"longitude": -108.1519
+},
+"ne": {
+"latitude": 36.0892,
+"longitude": -107.6746
+}
+},
+{
+"slug": "challis-national-forest",
+"name": "Challis National Forest",
+"states": [
+"Idaho"
+],
+"sw": {
+"latitude": 43.5705,
+"longitude": -115.3048
+},
+"ne": {
+"latitude": 44.8941,
+"longitude": -112.9225
+}
+},
+{
+"slug": "channel-islands-national-park",
+"name": "Channel Islands National Park",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 33.4481,
+"longitude": -120.473
+},
+"ne": {
+"latitude": 34.2492,
+"longitude": -119.008
+}
+},
+{
+"slug": "chase-lake-national-wildlife-refuge",
+"name": "Chase Lake National Wildlife Refuge",
+"states": [
+"North Dakota"
+],
+"sw": {
+"latitude": 46.9838,
+"longitude": -99.4811
+},
+"ne": {
+"latitude": 47.0307,
+"longitude": -99.4178
+}
+},
+{
+"slug": "chickasaw-national-recreation-area",
+"name": "Chickasaw National Recreation Area",
+"states": [
+"Oklahoma"
+],
+"sw": {
+"latitude": 34.4104,
+"longitude": -97.058
+},
+"ne": {
+"latitude": 34.5081,
+"longitude": -96.9374
+}
+},
+{
+"slug": "chippewa-national-forest",
+"name": "Chippewa National Forest",
+"states": [
+"Minnesota"
+],
+"sw": {
+"latitude": 46.9757,
+"longitude": -94.6763
+},
+"ne": {
+"latitude": 47.8465,
+"longitude": -93.4489
+}
+},
+{
+"slug": "chiricahua-national-park",
+"name": "Chiricahua National Park",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 31.9782,
+"longitude": -109.3892
+},
+"ne": {
+"latitude": 32.0534,
+"longitude": -109.3016
+}
+},
+{
+"slug": "chugach-national-forest",
+"name": "Chugach National Forest",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 59.763,
+"longitude": -150.0079
+},
+"ne": {
+"latitude": 61.519,
+"longitude": -143.6956
+}
+},
+{
+"slug": "cibola-national-forest",
+"name": "Cibola National Forest",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 33.433,
+"longitude": -108.6357
+},
+"ne": {
+"latitude": 35.526,
+"longitude": -105.5942
+}
+},
+{
+"slug": "coconino-national-forest",
+"name": "Coconino National Forest",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 34.306,
+"longitude": -112.0784
+},
+"ne": {
+"latitude": 35.5853,
+"longitude": -110.9592
+}
+},
+{
+"slug": "coeur-dalene-national-forest",
+"name": "Coeur D\u2019alene National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 47.4073,
+"longitude": -116.7831
+},
+"ne": {
+"latitude": 48.0688,
+"longitude": -115.6295
+}
+},
+{
+"slug": "cold-springs-national-wildlife-refuge",
+"name": "Cold Springs National Wildlife Refuge",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 45.8389,
+"longitude": -119.1843
+},
+"ne": {
+"latitude": 45.8752,
+"longitude": -119.1097
+}
+},
+{
+"slug": "colville-national-forest",
+"name": "Colville National Forest",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 48.1799,
+"longitude": -118.8699
+},
+"ne": {
+"latitude": 48.9999,
+"longitude": -117.0324
+}
+},
+{
+"slug": "congaree-national-park",
+"name": "Congaree National Park",
+"states": [
+"South Carolina"
+],
+"sw": {
+"latitude": 33.7438,
+"longitude": -80.8689
+},
+"ne": {
+"latitude": 33.8443,
+"longitude": -80.6014
+}
+},
+{
+"slug": "constitution-gardens",
+"name": "Constitution Gardens",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8902,
+"longitude": -77.0493
+},
+"ne": {
+"latitude": 38.892,
+"longitude": -77.0394
+}
+},
+{
+"slug": "copalis-national-wildlife-refuge",
+"name": "Copalis National Wildlife Refuge",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 47.1334,
+"longitude": -124.4785
+},
+"ne": {
+"latitude": 47.4834,
+"longitude": -124.1856
+}
+},
+{
+"slug": "coronado-national-forest",
+"name": "Coronado National Forest",
+"states": [
+"Arizona",
+"New Mexico"
+],
+"sw": {
+"latitude": 31.3323,
+"longitude": -111.4509
+},
+"ne": {
+"latitude": 33.0065,
+"longitude": -108.9206
+}
+},
+{
+"slug": "crater-lake-national-park",
+"name": "Crater Lake National Park",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 42.3304,
+"longitude": -122.8829
+},
+"ne": {
+"latitude": 43.0888,
+"longitude": -121.9661
+}
+},
+{
+"slug": "culebra-national-wildlife-refuge",
+"name": "Culebra National Wildlife Refuge",
+"states": [
+"Puerto Rico"
+],
+"sw": {
+"latitude": 18.2458,
+"longitude": -65.4179
+},
+"ne": {
+"latitude": 18.3835,
+"longitude": -65.2006
+}
+},
+{
+"slug": "custer-national-forest",
+"name": "Custer National Forest",
+"states": [
+"Montana",
+"South Dakota"
+],
+"sw": {
+"latitude": 45.0032,
+"longitude": -110.1566
+},
+"ne": {
+"latitude": 45.9242,
+"longitude": -103.0089
+}
+},
+{
+"slug": "cuyahoga-valley-national-park",
+"name": "Cuyahoga Valley National Park",
+"states": [
+"Ohio"
+],
+"sw": {
+"latitude": 41.0897,
+"longitude": -81.6483
+},
+"ne": {
+"latitude": 41.4205,
+"longitude": -81.4911
+}
+},
+{
+"slug": "death-valley-national-park",
+"name": "Death Valley National Park",
+"states": [
+"California",
+"Nevada"
+],
+"sw": {
+"latitude": 35.591,
+"longitude": -118.0011
+},
+"ne": {
+"latitude": 37.3495,
+"longitude": -116.2765
+}
+},
+{
+"slug": "deer-flat-national-wildlife-refuge",
+"name": "Deer Flat National Wildlife Refuge",
+"states": [
+"Idaho",
+"Oregon"
+],
+"sw": {
+"latitude": 43.2913,
+"longitude": -117.2061
+},
+"ne": {
+"latitude": 44.2833,
+"longitude": -116.5116
+}
+},
+{
+"slug": "deerlodge-national-forest",
+"name": "Deerlodge National Forest",
+"states": [
+"Montana"
+],
+"sw": {
+"latitude": 45.5641,
+"longitude": -113.8239
+},
+"ne": {
+"latitude": 46.5713,
+"longitude": -111.849
+}
+},
+{
+"slug": "denali-national-park-and-preserve",
+"name": "Denali National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 62.2927,
+"longitude": -152.8846
+},
+"ne": {
+"latitude": 64.0732,
+"longitude": -148.7779
+}
+},
+{
+"slug": "devils-tower-national-monument",
+"name": "Devils Tower National Monument",
+"states": [
+"Wyoming"
+],
+"sw": {
+"latitude": 44.579,
+"longitude": -104.7303
+},
+"ne": {
+"latitude": 44.6012,
+"longitude": -104.7
+}
+},
+{
+"slug": "dixie-national-forest",
+"name": "Dixie National Forest",
+"states": [
+"Nevada",
+"Utah"
+],
+"sw": {
+"latitude": 37.2165,
+"longitude": -114.0528
+},
+"ne": {
+"latitude": 38.2813,
+"longitude": -111.187
+}
+},
+{
+"slug": "dry-tortugas-national-park",
+"name": "Dry Tortugas National Park",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 24.5653,
+"longitude": -82.9679
+},
+"ne": {
+"latitude": 24.7254,
+"longitude": -81.7555
+}
+},
+{
+"slug": "el-morro-national-monument",
+"name": "El Morro National Monument",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 35.0317,
+"longitude": -108.364
+},
+"ne": {
+"latitude": 35.0462,
+"longitude": -108.3287
+}
+},
+{
+"slug": "el-yunque-national-forest",
+"name": "El Yunque National Forest",
+"states": [
+"Puerto Rico"
+],
+"sw": {
+"latitude": 18.2312,
+"longitude": -65.9163
+},
+"ne": {
+"latitude": 18.3481,
+"longitude": -65.6997
+}
+},
+{
+"slug": "everglades-national-park",
+"name": "Everglades National Park",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 24.8573,
+"longitude": -81.5208
+},
+"ne": {
+"latitude": 25.8922,
+"longitude": -80.3885
+}
+},
+{
+"slug": "farallon-islands-national-wildlife-refuge",
+"name": "Farallon Islands National Wildlife Refuge",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 37.6935,
+"longitude": -123.1661
+},
+"ne": {
+"latitude": 37.793,
+"longitude": -122.9993
+}
+},
+{
+"slug": "fire-island-national-seashore",
+"name": "Fire Island National Seashore",
+"states": [
+"New York"
+],
+"sw": {
+"latitude": 40.6252,
+"longitude": -73.2356
+},
+"ne": {
+"latitude": 40.781,
+"longitude": -72.7533
+}
+},
+{
+"slug": "fishlake-national-forest",
+"name": "Fishlake National Forest",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 38.13,
+"longitude": -112.6007
+},
+"ne": {
+"latitude": 39.5685,
+"longitude": -111.3588
+}
+},
+{
+"slug": "flattery-rocks-national-wildlife-refuge",
+"name": "Flattery Rocks National Wildlife Refuge",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 48.0333,
+"longitude": -124.8603
+},
+"ne": {
+"latitude": 48.3833,
+"longitude": -124.6582
+}
+},
+{
+"slug": "franklin-delano-roosevelt-memorial",
+"name": "Franklin Delano Roosevelt Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8822,
+"longitude": -77.0455
+},
+"ne": {
+"latitude": 38.8843,
+"longitude": -77.0418
+}
+},
+{
+"slug": "fremont-national-forest",
+"name": "Fremont National Forest",
+"states": [
+"California",
+"Oregon"
+],
+"sw": {
+"latitude": 41.9929,
+"longitude": -121.4691
+},
+"ne": {
+"latitude": 43.4582,
+"longitude": -120.0837
+}
+},
+{
+"slug": "gates-of-the-arctic-national-park-and-preserve",
+"name": "Gates Of The Arctic National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 66.6496,
+"longitude": -156.9994
+},
+"ne": {
+"latitude": 68.6554,
+"longitude": -149.5289
+}
+},
+{
+"slug": "gateway-arch-national-park",
+"name": "Gateway Arch National Park",
+"states": [
+"Missouri"
+],
+"sw": {
+"latitude": 38.6167,
+"longitude": -90.1897
+},
+"ne": {
+"latitude": 38.6292,
+"longitude": -90.1715
+}
+},
+{
+"slug": "george-washington-birthplace-national-monument",
+"name": "George Washington Birthplace National Monument",
+"states": [
+"Virginia"
+],
+"sw": {
+"latitude": 38.1821,
+"longitude": -77.4522
+},
+"ne": {
+"latitude": 38.2986,
+"longitude": -76.9049
+}
+},
+{
+"slug": "gifford-pinchot-national-forest",
+"name": "Gifford Pinchot National Forest",
+"states": [
+"Oregon",
+"Washington"
+],
+"sw": {
+"latitude": 45.5437,
+"longitude": -122.3858
+},
+"ne": {
+"latitude": 46.7701,
+"longitude": -120.8711
+}
+},
+{
+"slug": "gila-cliff-dwellings-national-monument",
+"name": "Gila Cliff Dwellings National Monument",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 33.2193,
+"longitude": -108.2794
+},
+"ne": {
+"latitude": 33.2342,
+"longitude": -108.2362
+}
+},
+{
+"slug": "gila-national-forest",
+"name": "Gila National Forest",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 32.3995,
+"longitude": -109.0475
+},
+"ne": {
+"latitude": 33.9509,
+"longitude": -107.6313
+}
+},
+{
+"slug": "glacier-bay-national-park-and-preserve",
+"name": "Glacier Bay National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 58.1595,
+"longitude": -138.5863
+},
+"ne": {
+"latitude": 59.4831,
+"longitude": -135.3168
+}
+},
+{
+"slug": "glacier-national-park",
+"name": "Glacier National Park",
+"states": [
+"Montana"
+],
+"sw": {
+"latitude": 48.2339,
+"longitude": -114.475
+},
+"ne": {
+"latitude": 49.0011,
+"longitude": -113.2419
+}
+},
+{
+"slug": "glen-canyon-national-recreation-area",
+"name": "Glen Canyon National Recreation Area",
+"states": [
+"Arizona",
+"Utah"
+],
+"sw": {
+"latitude": 36.8163,
+"longitude": -111.6592
+},
+"ne": {
+"latitude": 38.4994,
+"longitude": -109.945
+}
+},
+{
+"slug": "grand-canyon-national-park",
+"name": "Grand Canyon National Park",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 35.7501,
+"longitude": -113.9799
+},
+"ne": {
+"latitude": 36.8657,
+"longitude": -111.5877
+}
+},
+{
+"slug": "grand-canyon-preserve-national-game-refuge",
+"name": "Grand Canyon Preserve National Game Refuge",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 35.9557,
+"longitude": -112.6635
+},
+"ne": {
+"latitude": 36.9035,
+"longitude": -111.85
+}
+},
+{
+"slug": "grand-teton-national-park",
+"name": "Grand Teton National Park",
+"states": [
+"Wyoming"
+],
+"sw": {
+"latitude": 43.5379,
+"longitude": -110.9483
+},
+"ne": {
+"latitude": 44.0836,
+"longitude": -110.4228
+}
+},
+{
+"slug": "great-basin-national-park",
+"name": "Great Basin National Park",
+"states": [
+"Nevada"
+],
+"sw": {
+"latitude": 38.8184,
+"longitude": -114.3561
+},
+"ne": {
+"latitude": 39.0647,
+"longitude": -114.1325
+}
+},
+{
+"slug": "great-sand-dunes-national-park-and-preserve",
+"name": "Great Sand Dunes National Park & Preserve",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.663,
+"longitude": -105.7282
+},
+"ne": {
+"latitude": 37.9554,
+"longitude": -105.4287
+}
+},
+{
+"slug": "great-smoky-mountains-national-park",
+"name": "Great Smoky Mountains National Park",
+"states": [
+"North Carolina",
+"Tennessee"
+],
+"sw": {
+"latitude": 35.4289,
+"longitude": -84.0139
+},
+"ne": {
+"latitude": 35.8413,
+"longitude": -82.998
+}
+},
+{
+"slug": "guadalupe-mountains-national-park",
+"name": "Guadalupe Mountains National Park",
+"states": [
+"Texas"
+],
+"sw": {
+"latitude": 31.8132,
+"longitude": -105.0254
+},
+"ne": {
+"latitude": 32.0004,
+"longitude": -104.7112
+}
+},
+{
+"slug": "gunnison-national-forest",
+"name": "Gunnison National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.8345,
+"longitude": -107.7223
+},
+"ne": {
+"latitude": 39.2576,
+"longitude": -106.2373
+}
+},
+{
+"slug": "haleakala-national-park",
+"name": "Haleakal\u0101 National Park",
+"states": [
+"Hawaii"
+],
+"sw": {
+"latitude": 20.627,
+"longitude": -156.2568
+},
+"ne": {
+"latitude": 20.7724,
+"longitude": -156.0404
+}
+},
+{
+"slug": "hawai-i-volcanoes-national-park",
+"name": "Hawai\u02bbi Volcanoes National Park",
+"states": [
+"Hawaii"
+],
+"sw": {
+"latitude": 18.974,
+"longitude": -155.815
+},
+"ne": {
+"latitude": 19.5476,
+"longitude": -155.0165
+}
+},
+{
+"slug": "hawaiian-islands-national-wildlife-refuge",
+"name": "Hawaiian Islands National Wildlife Refuge",
+"states": [
+"Hawaii"
+],
+"sw": {
+"latitude": 23.0556,
+"longitude": -175.9902
+},
+"ne": {
+"latitude": 27.9615,
+"longitude": -161.9133
+}
+},
+{
+"slug": "helena-national-forest",
+"name": "Helena National Forest",
+"states": [
+"Montana"
+],
+"sw": {
+"latitude": 46.1218,
+"longitude": -112.9223
+},
+"ne": {
+"latitude": 47.238,
+"longitude": -111.0327
+}
+},
+{
+"slug": "hiawatha-national-forest",
+"name": "Hiawatha National Forest",
+"states": [
+"Michigan"
+],
+"sw": {
+"latitude": 45.5351,
+"longitude": -87.2209
+},
+"ne": {
+"latitude": 46.5611,
+"longitude": -84.0826
+}
+},
+{
+"slug": "hot-springs-national-park",
+"name": "Hot Springs National Park",
+"states": [
+"Arkansas"
+],
+"sw": {
+"latitude": 34.4988,
+"longitude": -93.1133
+},
+"ne": {
+"latitude": 34.5595,
+"longitude": -93.0183
+}
+},
+{
+"slug": "hubbell-trading-post-national-historic-site",
+"name": "Hubbell Trading Post National Historic Site",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 35.7037,
+"longitude": -109.5666
+},
+"ne": {
+"latitude": 35.7109,
+"longitude": -109.5533
+}
+},
+{
+"slug": "humboldt-national-forest",
+"name": "Humboldt National Forest",
+"states": [
+"Nevada"
+],
+"sw": {
+"latitude": 37.9844,
+"longitude": -117.7538
+},
+"ne": {
+"latitude": 41.9993,
+"longitude": -114.0788
+}
+},
+{
+"slug": "huron-national-forest",
+"name": "Huron National Forest",
+"states": [
+"Michigan"
+],
+"sw": {
+"latitude": 44.2915,
+"longitude": -84.6107
+},
+"ne": {
+"latitude": 44.8155,
+"longitude": -83.2929
+}
+},
+{
+"slug": "huron-national-wildlife-refuge",
+"name": "Huron National Wildlife Refuge",
+"states": [
+"Michigan"
+],
+"sw": {
+"latitude": 46.9463,
+"longitude": -88.0059
+},
+"ne": {
+"latitude": 46.9665,
+"longitude": -87.9503
+}
+},
+{
+"slug": "indiana-dunes-national-park",
+"name": "Indiana Dunes National Park",
+"states": [
+"Indiana"
+],
+"sw": {
+"latitude": 41.5078,
+"longitude": -87.4616
+},
+"ne": {
+"latitude": 41.7159,
+"longitude": -86.8366
+}
+},
+{
+"slug": "inyo-national-forest",
+"name": "Inyo National Forest",
+"states": [
+"California",
+"Nevada"
+],
+"sw": {
+"latitude": 36.0389,
+"longitude": -119.3236
+},
+"ne": {
+"latitude": 38.1445,
+"longitude": -117.9653
+}
+},
+{
+"slug": "island-bay-national-wildlife-refuge",
+"name": "Island Bay National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 26.7712,
+"longitude": -82.2072
+},
+"ne": {
+"latitude": 26.8064,
+"longitude": -82.1712
+}
+},
+{
+"slug": "isle-royale-national-park",
+"name": "Isle Royale National Park",
+"states": [
+"Michigan"
+],
+"sw": {
+"latitude": 47.1222,
+"longitude": -89.415
+},
+"ne": {
+"latitude": 48.3021,
+"longitude": -88.1748
+}
+},
+{
+"slug": "jewel-cave-national-monument",
+"name": "Jewel Cave National Monument",
+"states": [
+"South Dakota"
+],
+"sw": {
+"latitude": 43.7201,
+"longitude": -103.8474
+},
+"ne": {
+"latitude": 43.7419,
+"longitude": -103.8163
+}
+},
+{
+"slug": "joshua-tree-national-park",
+"name": "Joshua Tree National Park",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 33.6702,
+"longitude": -116.4577
+},
+"ne": {
+"latitude": 34.1294,
+"longitude": -115.2623
+}
+},
+{
+"slug": "kaibab-national-forest",
+"name": "Kaibab National Forest",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 34.9886,
+"longitude": -112.6709
+},
+"ne": {
+"latitude": 36.9035,
+"longitude": -111.6932
+}
+},
+{
+"slug": "katmai-national-park-and-preserve",
+"name": "Katmai National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 57.8733,
+"longitude": -156.5285
+},
+"ne": {
+"latitude": 59.274,
+"longitude": -153.2504
+}
+},
+{
+"slug": "kenai-fjords-national-park",
+"name": "Kenai Fjords National Park",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 59.2889,
+"longitude": -150.9767
+},
+"ne": {
+"latitude": 60.3042,
+"longitude": -149.5165
+}
+},
+{
+"slug": "key-west-national-wildlife-refuge",
+"name": "Key West National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 24.45,
+"longitude": -82.1667
+},
+"ne": {
+"latitude": 24.6671,
+"longitude": -81.8165
+}
+},
+{
+"slug": "klamath-national-forest",
+"name": "Klamath National Forest",
+"states": [
+"California",
+"Oregon"
+],
+"sw": {
+"latitude": 40.9924,
+"longitude": -123.7193
+},
+"ne": {
+"latitude": 42.0864,
+"longitude": -121.6046
+}
+},
+{
+"slug": "kobuk-valley-national-park",
+"name": "Kobuk Valley National Park",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 66.9118,
+"longitude": -160.2964
+},
+"ne": {
+"latitude": 67.8709,
+"longitude": -157.8298
+}
+},
+{
+"slug": "kootenai-national-forest",
+"name": "Kootenai National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 47.8902,
+"longitude": -116.2011
+},
+"ne": {
+"latitude": 49.0009,
+"longitude": -114.6717
+}
+},
+{
+"slug": "korean-war-veterans-memorial",
+"name": "Korean War Veterans Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8877,
+"longitude": -77.0485
+},
+"ne": {
+"latitude": 38.8881,
+"longitude": -77.047
+}
+},
+{
+"slug": "lake-clark-national-park-and-preserve",
+"name": "Lake Clark National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 59.8513,
+"longitude": -155.005
+},
+"ne": {
+"latitude": 61.5128,
+"longitude": -152.1987
+}
+},
+{
+"slug": "lassen-national-forest",
+"name": "Lassen National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 39.6701,
+"longitude": -121.9127
+},
+"ne": {
+"latitude": 40.928,
+"longitude": -120.568
+}
+},
+{
+"slug": "lassen-volcanic-national-park",
+"name": "Lassen Volcanic National Park",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 40.3445,
+"longitude": -121.6201
+},
+"ne": {
+"latitude": 40.585,
+"longitude": -121.2468
+}
+},
+{
+"slug": "lbj-memorial-grove-on-the-potomac",
+"name": "LBJ Memorial Grove on the Potomac",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8762,
+"longitude": -77.0548
+},
+"ne": {
+"latitude": 38.8806,
+"longitude": -77.0488
+}
+},
+{
+"slug": "lincoln-memorial",
+"name": "Lincoln Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8884,
+"longitude": -77.0513
+},
+"ne": {
+"latitude": 38.8896,
+"longitude": -77.0491
+}
+},
+{
+"slug": "lincoln-national-forest",
+"name": "Lincoln National Forest",
+"states": [
+"New Mexico",
+"Texas"
+],
+"sw": {
+"latitude": 31.9978,
+"longitude": -105.9287
+},
+"ne": {
+"latitude": 33.9544,
+"longitude": -104.6136
+}
+},
+{
+"slug": "lolo-national-forest",
+"name": "Lolo National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 46.3052,
+"longitude": -115.7593
+},
+"ne": {
+"latitude": 48.0085,
+"longitude": -112.7244
+}
+},
+{
+"slug": "los-padres-national-forest",
+"name": "Los Padres National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 34.3915,
+"longitude": -121.8492
+},
+"ne": {
+"latitude": 36.4039,
+"longitude": -118.7428
+}
+},
+{
+"slug": "lower-klamath-national-wildlife-refuge",
+"name": "Lower Klamath National Wildlife Refuge",
+"states": [
+"California",
+"Oregon"
+],
+"sw": {
+"latitude": 41.8703,
+"longitude": -121.89
+},
+"ne": {
+"latitude": 42.1589,
+"longitude": -121.5937
+}
+},
+{
+"slug": "malheur-national-forest",
+"name": "Malheur National Forest",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 43.7289,
+"longitude": -119.5326
+},
+"ne": {
+"latitude": 44.8086,
+"longitude": -118.1881
+}
+},
+{
+"slug": "malheur-national-wildlife-refuge",
+"name": "Malheur National Wildlife Refuge",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 42.8022,
+"longitude": -119.3768
+},
+"ne": {
+"latitude": 43.3921,
+"longitude": -118.6271
+}
+},
+{
+"slug": "mammoth-cave-national-park",
+"name": "Mammoth Cave National Park",
+"states": [
+"Kentucky"
+],
+"sw": {
+"latitude": 37.0977,
+"longitude": -86.2802
+},
+"ne": {
+"latitude": 37.2795,
+"longitude": -86.0013
+}
+},
+{
+"slug": "manti-la-sal-national-forest",
+"name": "Manti-la Sal National Forest",
+"states": [
+"Colorado",
+"Utah"
+],
+"sw": {
+"latitude": 37.5775,
+"longitude": -111.6667
+},
+"ne": {
+"latitude": 39.9811,
+"longitude": -108.9242
+}
+},
+{
+"slug": "martin-luther-king-jr-memorial",
+"name": "Martin Luther King, Jr. Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.885,
+"longitude": -77.0449
+},
+"ne": {
+"latitude": 38.8867,
+"longitude": -77.0432
+}
+},
+{
+"slug": "matlacha-pass-national-wildlife-refuge",
+"name": "Matlacha Pass National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 26.4791,
+"longitude": -82.118
+},
+"ne": {
+"latitude": 26.6869,
+"longitude": -81.9756
+}
+},
+{
+"slug": "medicine-bow-national-forest",
+"name": "Medicine Bow National Forest",
+"states": [
+"Colorado",
+"Wyoming"
+],
+"sw": {
+"latitude": 40.9974,
+"longitude": -107.3273
+},
+"ne": {
+"latitude": 42.664,
+"longitude": -105.2349
+}
+},
+{
+"slug": "mendocino-national-forest",
+"name": "Mendocino National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 39.0706,
+"longitude": -123.2465
+},
+"ne": {
+"latitude": 40.149,
+"longitude": -122.5439
+}
+},
+{
+"slug": "mesa-verde-national-park",
+"name": "Mesa Verde National Park",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.1564,
+"longitude": -108.5547
+},
+"ne": {
+"latitude": 37.3505,
+"longitude": -108.3396
+}
+},
+{
+"slug": "midway-atoll-national-wildlife-refuge",
+"name": "Midway Atoll National Wildlife Refuge",
+"states": [],
+"sw": {
+"latitude": 27.9926,
+"longitude": -177.6504
+},
+"ne": {
+"latitude": 28.4801,
+"longitude": -177.0884
+}
+},
+{
+"slug": "minidoka-national-wildlife-refuge",
+"name": "Minidoka National Wildlife Refuge",
+"states": [
+"Idaho"
+],
+"sw": {
+"latitude": 42.5968,
+"longitude": -113.4919
+},
+"ne": {
+"latitude": 42.6971,
+"longitude": -113.0815
+}
+},
+{
+"slug": "modoc-national-forest",
+"name": "Modoc National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 40.9055,
+"longitude": -121.6854
+},
+"ne": {
+"latitude": 41.9973,
+"longitude": -120.0935
+}
+},
+{
+"slug": "montezuma-castle-national-monument",
+"name": "Montezuma Castle National Monument",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 34.6056,
+"longitude": -111.8476
+},
+"ne": {
+"latitude": 34.653,
+"longitude": -111.75
+}
+},
+{
+"slug": "montezuma-national-wildlife-refuge",
+"name": "Montezuma National Wildlife Refuge",
+"states": [
+"New York"
+],
+"sw": {
+"latitude": 42.9211,
+"longitude": -76.8478
+},
+"ne": {
+"latitude": 43.166,
+"longitude": -76.7038
+}
+},
+{
+"slug": "mount-rainier-national-park",
+"name": "Mount Rainier National Park",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 46.7078,
+"longitude": -122.1295
+},
+"ne": {
+"latitude": 47.1041,
+"longitude": -121.4429
+}
+},
+{
+"slug": "muir-woods-national-monument",
+"name": "Muir Woods National Monument",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 37.8871,
+"longitude": -122.6012
+},
+"ne": {
+"latitude": 37.904,
+"longitude": -122.5618
+}
+},
+{
+"slug": "national-park-of-american-samoa",
+"name": "National Park of American Samoa",
+"states": [
+"American Samoa"
+],
+"sw": {
+"latitude": -14.2831,
+"longitude": -170.7276
+},
+"ne": {
+"latitude": -14.168,
+"longitude": -169.4171
+}
+},
+{
+"slug": "natural-bridges-national-monument",
+"name": "Natural Bridges National Monument",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.5703,
+"longitude": -110.0473
+},
+"ne": {
+"latitude": 37.6349,
+"longitude": -109.9138
+}
+},
+{
+"slug": "nebraska-national-forest",
+"name": "Nebraska National Forest",
+"states": [
+"Nebraska"
+],
+"sw": {
+"latitude": 41.7724,
+"longitude": -103.643
+},
+"ne": {
+"latitude": 42.8214,
+"longitude": -100.1888
+}
+},
+{
+"slug": "new-river-gorge-national-park-and-preserve",
+"name": "New River Gorge National Park & Preserve",
+"states": [
+"West Virginia"
+],
+"sw": {
+"latitude": 37.6743,
+"longitude": -81.1565
+},
+"ne": {
+"latitude": 38.1185,
+"longitude": -80.8562
+}
+},
+{
+"slug": "north-cascades-national-park",
+"name": "North Cascades National Park",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 48.3694,
+"longitude": -121.6403
+},
+"ne": {
+"latitude": 49.0007,
+"longitude": -120.6319
+}
+},
+{
+"slug": "ocala-national-forest",
+"name": "Ocala National Forest",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 28.8839,
+"longitude": -81.995
+},
+"ne": {
+"latitude": 29.5213,
+"longitude": -81.3826
+}
+},
+{
+"slug": "ochoco-national-forest",
+"name": "Ochoco National Forest",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 43.599,
+"longitude": -120.9078
+},
+"ne": {
+"latitude": 44.5631,
+"longitude": -119.2578
+}
+},
+{
+"slug": "olympic-national-forest",
+"name": "Olympic National Forest",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 47.2992,
+"longitude": -124.3525
+},
+"ne": {
+"latitude": 48.1654,
+"longitude": -122.8834
+}
+},
+{
+"slug": "olympic-national-park",
+"name": "Olympic National Park",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 47.4697,
+"longitude": -124.7715
+},
+"ne": {
+"latitude": 48.3829,
+"longitude": -123.1205
+}
+},
+{
+"slug": "ouachita-national-forest",
+"name": "Ouachita National Forest",
+"states": [
+"Arkansas",
+"Oklahoma"
+],
+"sw": {
+"latitude": 33.7069,
+"longitude": -94.9723
+},
+"ne": {
+"latitude": 35.0755,
+"longitude": -92.7547
+}
+},
+{
+"slug": "ozark-national-forest",
+"name": "Ozark National Forest",
+"states": [
+"Arkansas",
+"Oklahoma"
+],
+"sw": {
+"latitude": 35.1298,
+"longitude": -94.4932
+},
+"ne": {
+"latitude": 36.2302,
+"longitude": -92.0571
+}
+},
+{
+"slug": "passage-key-national-wildlife-refuge",
+"name": "Passage Key National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 27.5525,
+"longitude": -82.7438
+},
+"ne": {
+"latitude": 27.5595,
+"longitude": -82.7427
+}
+},
+{
+"slug": "pathfinder-national-wildlife-refuge",
+"name": "Pathfinder National Wildlife Refuge",
+"states": [
+"Wyoming"
+],
+"sw": {
+"latitude": 42.2373,
+"longitude": -107.0832
+},
+"ne": {
+"latitude": 42.5495,
+"longitude": -106.8919
+}
+},
+{
+"slug": "payette-national-forest",
+"name": "Payette National Forest",
+"states": [
+"Idaho",
+"Oregon"
+],
+"sw": {
+"latitude": 44.4223,
+"longitude": -117.0399
+},
+"ne": {
+"latitude": 45.5695,
+"longitude": -114.72
+}
+},
+{
+"slug": "pelican-island-national-wildlife-refuge",
+"name": "Pelican Island National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 27.7652,
+"longitude": -80.4731
+},
+"ne": {
+"latitude": 27.8447,
+"longitude": -80.4121
+}
+},
+{
+"slug": "pennsylvania-avenue",
+"name": "Pennsylvania Avenue",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8912,
+"longitude": -77.0335
+},
+"ne": {
+"latitude": 38.8967,
+"longitude": -77.0153
+}
+},
+{
+"slug": "petrified-forest-national-park",
+"name": "Petrified Forest National Park",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 34.7787,
+"longitude": -109.9685
+},
+"ne": {
+"latitude": 35.1705,
+"longitude": -109.5767
+}
+},
+{
+"slug": "pike-national-forest",
+"name": "Pike National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 38.6941,
+"longitude": -106.2102
+},
+"ne": {
+"latitude": 39.6171,
+"longitude": -104.8674
+}
+},
+{
+"slug": "pine-island-national-wildlife-refuge",
+"name": "Pine Island National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 26.4891,
+"longitude": -82.2318
+},
+"ne": {
+"latitude": 26.6889,
+"longitude": -82.0221
+}
+},
+{
+"slug": "pinellas-national-wildlife-refuge",
+"name": "Pinellas National Wildlife Refuge",
+"states": [
+"Florida"
+],
+"sw": {
+"latitude": 27.6594,
+"longitude": -82.7185
+},
+"ne": {
+"latitude": 27.7055,
+"longitude": -82.6842
+}
+},
+{
+"slug": "pinnacles-national-park",
+"name": "Pinnacles National Park",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 36.4084,
+"longitude": -121.2455
+},
+"ne": {
+"latitude": 36.5642,
+"longitude": -121.1012
+}
+},
+{
+"slug": "plumas-national-forest",
+"name": "Plumas National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 39.3681,
+"longitude": -121.474
+},
+"ne": {
+"latitude": 40.3196,
+"longitude": -120.0427
+}
+},
+{
+"slug": "quillayute-needles-national-wildlife-refuge",
+"name": "Quillayute Needles National Wildlife Refuge",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 47.6334,
+"longitude": -124.8031
+},
+"ne": {
+"latitude": 48.0333,
+"longitude": -124.3832
+}
+},
+{
+"slug": "rainbow-bridge-national-monument",
+"name": "Rainbow Bridge National Monument",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.0743,
+"longitude": -110.97
+},
+"ne": {
+"latitude": 37.0815,
+"longitude": -110.961
+}
+},
+{
+"slug": "redwood-national-and-state-parks",
+"name": "Redwood National and State Parks",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 41.0809,
+"longitude": -124.1601
+},
+"ne": {
+"latitude": 41.8406,
+"longitude": -123.8488
+}
+},
+{
+"slug": "rio-grande-national-forest",
+"name": "Rio Grande National Forest",
+"states": [
+"Colorado",
+"New Mexico"
+],
+"sw": {
+"latitude": 36.9938,
+"longitude": -107.559
+},
+"ne": {
+"latitude": 38.4582,
+"longitude": -105.4766
+}
+},
+{
+"slug": "rock-creek-park",
+"name": "Rock Creek Park",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.9327,
+"longitude": -77.0584
+},
+"ne": {
+"latitude": 38.9912,
+"longitude": -77.0341
+}
+},
+{
+"slug": "rocky-mountain-national-park",
+"name": "Rocky Mountain National Park",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 40.1581,
+"longitude": -105.9137
+},
+"ne": {
+"latitude": 40.5538,
+"longitude": -105.4936
+}
+},
+{
+"slug": "roosevelt-national-forest",
+"name": "Roosevelt National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 39.8476,
+"longitude": -106.1949
+},
+"ne": {
+"latitude": 40.9978,
+"longitude": -105.1904
+}
+},
+{
+"slug": "routt-national-forest",
+"name": "Routt National Forest",
+"states": [
+"Colorado",
+"Wyoming"
+],
+"sw": {
+"latitude": 39.9675,
+"longitude": -107.5309
+},
+"ne": {
+"latitude": 41.0034,
+"longitude": -105.8521
+}
+},
+{
+"slug": "sagamore-hill-national-historic-site",
+"name": "Sagamore Hill National Historic Site",
+"states": [
+"New York"
+],
+"sw": {
+"latitude": 40.884,
+"longitude": -73.5042
+},
+"ne": {
+"latitude": 40.8899,
+"longitude": -73.4896
+}
+},
+{
+"slug": "saguaro-national-park",
+"name": "Saguaro National Park",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 32.1043,
+"longitude": -111.2438
+},
+"ne": {
+"latitude": 32.3521,
+"longitude": -110.4985
+}
+},
+{
+"slug": "salmon-national-forest",
+"name": "Salmon National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 44.3695,
+"longitude": -114.9363
+},
+"ne": {
+"latitude": 45.7061,
+"longitude": -113.0056
+}
+},
+{
+"slug": "samuel-r-mckelvie-national-forest",
+"name": "Samuel R. McKelvie National Forest",
+"states": [
+"Nebraska"
+],
+"sw": {
+"latitude": 42.606,
+"longitude": -101.2859
+},
+"ne": {
+"latitude": 42.7857,
+"longitude": -100.8624
+}
+},
+{
+"slug": "san-bernardino-national-forest",
+"name": "San Bernardino National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 33.4994,
+"longitude": -117.6566
+},
+"ne": {
+"latitude": 34.3973,
+"longitude": -116.3189
+}
+},
+{
+"slug": "san-isabel-national-forest",
+"name": "San Isabel National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.2184,
+"longitude": -106.5998
+},
+"ne": {
+"latitude": 39.3837,
+"longitude": -104.8876
+}
+},
+{
+"slug": "san-juan-islands-national-wildlife-refuge",
+"name": "San Juan Islands National Wildlife Refuge",
+"states": [
+"Washington"
+],
+"sw": {
+"latitude": 48.317,
+"longitude": -123.186
+},
+"ne": {
+"latitude": 48.777,
+"longitude": -122.5779
+}
+},
+{
+"slug": "san-juan-national-forest",
+"name": "San Juan National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.0476,
+"longitude": -108.8051
+},
+"ne": {
+"latitude": 37.9054,
+"longitude": -106.6217
+}
+},
+{
+"slug": "santa-fe-national-forest",
+"name": "Santa Fe National Forest",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 35.2307,
+"longitude": -107.0282
+},
+"ne": {
+"latitude": 36.5212,
+"longitude": -105.1613
+}
+},
+{
+"slug": "sawtooth-national-forest",
+"name": "Sawtooth National Forest",
+"states": [
+"Idaho",
+"Utah"
+],
+"sw": {
+"latitude": 41.8295,
+"longitude": -115.3181
+},
+"ne": {
+"latitude": 44.1809,
+"longitude": -112.8871
+}
+},
+{
+"slug": "sequoia-national-forest",
+"name": "Sequoia National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 35.3772,
+"longitude": -119.3199
+},
+"ne": {
+"latitude": 36.8993,
+"longitude": -118.0098
+}
+},
+{
+"slug": "shasta-national-forest",
+"name": "Shasta National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 40.5164,
+"longitude": -123.0244
+},
+"ne": {
+"latitude": 41.5832,
+"longitude": -121.3316
+}
+},
+{
+"slug": "shell-keys-national-wildlife-refuge",
+"name": "Shell Keys National Wildlife Refuge",
+"states": [
+"Louisiana"
+],
+"sw": {
+"latitude": 29.4114,
+"longitude": -91.8561
+},
+"ne": {
+"latitude": 29.427,
+"longitude": -91.8522
+}
+},
+{
+"slug": "shenandoah-national-park",
+"name": "Shenandoah National Park",
+"states": [
+"Virginia"
+],
+"sw": {
+"latitude": 38.0336,
+"longitude": -78.8594
+},
+"ne": {
+"latitude": 38.9103,
+"longitude": -78.15
+}
+},
+{
+"slug": "shoshone-national-forest",
+"name": "Shoshone National Forest",
+"states": [
+"Montana",
+"Wyoming"
+],
+"sw": {
+"latitude": 42.493,
+"longitude": -110.1723
+},
+"ne": {
+"latitude": 45.0054,
+"longitude": -108.6985
+}
+},
+{
+"slug": "sierra-national-forest",
+"name": "Sierra National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 36.8361,
+"longitude": -119.9262
+},
+"ne": {
+"latitude": 37.7296,
+"longitude": -118.6641
+}
+},
+{
+"slug": "siskiyou-national-forest",
+"name": "Siskiyou National Forest",
+"states": [
+"California",
+"Oregon"
+],
+"sw": {
+"latitude": 41.8806,
+"longitude": -124.4163
+},
+"ne": {
+"latitude": 42.8865,
+"longitude": -123.3087
+}
+},
+{
+"slug": "siuslaw-national-forest",
+"name": "Siuslaw National Forest",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 43.4375,
+"longitude": -124.2861
+},
+"ne": {
+"latitude": 45.4053,
+"longitude": -123.4013
+}
+},
+{
+"slug": "six-rivers-national-forest",
+"name": "Six Rivers National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 40.0181,
+"longitude": -124.0886
+},
+"ne": {
+"latitude": 41.997,
+"longitude": -123.1266
+}
+},
+{
+"slug": "st-joe-national-forest",
+"name": "St. Joe National Forest",
+"states": [
+"Idaho",
+"Montana"
+],
+"sw": {
+"latitude": 46.8476,
+"longitude": -117.0016
+},
+"ne": {
+"latitude": 47.4355,
+"longitude": -115.0696
+}
+},
+{
+"slug": "stanislaus-national-forest",
+"name": "Stanislaus National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 37.6424,
+"longitude": -120.4851
+},
+"ne": {
+"latitude": 38.582,
+"longitude": -119.5964
+}
+},
+{
+"slug": "statue-of-liberty-national-monument",
+"name": "Statue Of Liberty National Monument",
+"states": [
+"New York"
+],
+"sw": {
+"latitude": 40.6899,
+"longitude": -74.0478
+},
+"ne": {
+"latitude": 40.7012,
+"longitude": -74.0373
+}
+},
+{
+"slug": "stump-lake-national-wildlife-refuge",
+"name": "Stump Lake National Wildlife Refuge",
+"states": [
+"North Dakota"
+],
+"sw": {
+"latitude": 47.8966,
+"longitude": -98.4562
+},
+"ne": {
+"latitude": 47.9181,
+"longitude": -98.4363
+}
+},
+{
+"slug": "superior-national-forest",
+"name": "Superior National Forest",
+"states": [
+"Minnesota"
+],
+"sw": {
+"latitude": 46.7879,
+"longitude": -93.2472
+},
+"ne": {
+"latitude": 48.6043,
+"longitude": -89.8684
+}
+},
+{
+"slug": "tahoe-national-forest",
+"name": "Tahoe National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 38.9961,
+"longitude": -121.1621
+},
+"ne": {
+"latitude": 39.7958,
+"longitude": -120.0054
+}
+},
+{
+"slug": "targhee-national-forest",
+"name": "Targhee National Forest",
+"states": [
+"Idaho",
+"Montana",
+"Wyoming"
+],
+"sw": {
+"latitude": 43.1651,
+"longitude": -113.2778
+},
+"ne": {
+"latitude": 44.7538,
+"longitude": -110.7694
+}
+},
+{
+"slug": "the-white-house-and-presidents-park",
+"name": "The White House and President's Park",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8957,
+"longitude": -77.0379
+},
+"ne": {
+"latitude": 38.8985,
+"longitude": -77.0353
+}
+},
+{
+"slug": "theodore-roosevelt-island",
+"name": "Theodore Roosevelt Island",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8902,
+"longitude": -77.0663
+},
+"ne": {
+"latitude": 38.8998,
+"longitude": -77.0592
+}
+},
+{
+"slug": "theodore-roosevelt-national-park",
+"name": "Theodore Roosevelt National Park",
+"states": [
+"North Dakota"
+],
+"sw": {
+"latitude": 46.8883,
+"longitude": -103.6308
+},
+"ne": {
+"latitude": 47.6316,
+"longitude": -103.243
+}
+},
+{
+"slug": "three-arch-rocks-national-wildlife-refuge",
+"name": "Three Arch Rocks National Wildlife Refuge",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 45.4589,
+"longitude": -123.9933
+},
+"ne": {
+"latitude": 45.4664,
+"longitude": -123.9773
+}
+},
+{
+"slug": "toiyabe-national-forest",
+"name": "Toiyabe National Forest",
+"states": [
+"California",
+"Nevada"
+],
+"sw": {
+"latitude": 35.9111,
+"longitude": -120.1479
+},
+"ne": {
+"latitude": 39.7364,
+"longitude": -115.4315
+}
+},
+{
+"slug": "tongass-national-forest",
+"name": "Tongass National Forest",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 54.6621,
+"longitude": -139.8631
+},
+"ne": {
+"latitude": 59.9997,
+"longitude": -129.9948
+}
+},
+{
+"slug": "tonto-national-forest",
+"name": "Tonto National Forest",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 33.1777,
+"longitude": -112.0652
+},
+"ne": {
+"latitude": 34.4534,
+"longitude": -110.5275
+}
+},
+{
+"slug": "tonto-national-monument",
+"name": "Tonto National Monument",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 33.6375,
+"longitude": -111.1266
+},
+"ne": {
+"latitude": 33.6594,
+"longitude": -111.1006
+}
+},
+{
+"slug": "trinity-national-forest",
+"name": "Trinity National Forest",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 40.0753,
+"longitude": -123.5857
+},
+"ne": {
+"latitude": 41.1801,
+"longitude": -122.6154
+}
+},
+{
+"slug": "tumacacori-national-historical-park",
+"name": "Tumac\u00e1cori National Historical Park",
+"states": [
+"Arizona"
+],
+"sw": {
+"latitude": 31.4068,
+"longitude": -111.0514
+},
+"ne": {
+"latitude": 31.5827,
+"longitude": -110.9005
+}
+},
+{
+"slug": "tuskegee-institute-national-historic-site",
+"name": "Tuskegee Institute National Historic Site",
+"states": [
+"Alabama"
+],
+"sw": {
+"latitude": 32.4263,
+"longitude": -85.716
+},
+"ne": {
+"latitude": 32.4329,
+"longitude": -85.7018
+}
+},
+{
+"slug": "umatilla-national-forest",
+"name": "Umatilla National Forest",
+"states": [
+"Oregon",
+"Washington"
+],
+"sw": {
+"latitude": 44.7056,
+"longitude": -120.0289
+},
+"ne": {
+"latitude": 46.295,
+"longitude": -117.2506
+}
+},
+{
+"slug": "umpqua-national-forest",
+"name": "Umpqua National Forest",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 42.7345,
+"longitude": -123.7589
+},
+"ne": {
+"latitude": 43.7977,
+"longitude": -121.9743
+}
+},
+{
+"slug": "uncompahgre-national-forest",
+"name": "Uncompahgre National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 37.7736,
+"longitude": -108.8777
+},
+"ne": {
+"latitude": 38.7859,
+"longitude": -107.2839
+}
+},
+{
+"slug": "vietnam-veterans-memorial",
+"name": "Vietnam Veterans Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8906,
+"longitude": -77.0478
+},
+"ne": {
+"latitude": 38.8914,
+"longitude": -77.0467
+}
+},
+{
+"slug": "virgin-islands-national-park",
+"name": "Virgin Islands National Park",
+"states": [
+"U.S. Virgin Islands"
+],
+"sw": {
+"latitude": 18.2966,
+"longitude": -64.9402
+},
+"ne": {
+"latitude": 18.3772,
+"longitude": -64.6774
+}
+},
+{
+"slug": "voyageurs-national-park",
+"name": "Voyageurs National Park",
+"states": [
+"Minnesota"
+],
+"sw": {
+"latitude": 48.2993,
+"longitude": -93.2036
+},
+"ne": {
+"latitude": 48.6315,
+"longitude": -92.4539
+}
+},
+{
+"slug": "wallowa-national-forest",
+"name": "Wallowa National Forest",
+"states": [
+"Idaho",
+"Oregon"
+],
+"sw": {
+"latitude": 45.0923,
+"longitude": -117.7781
+},
+"ne": {
+"latitude": 45.9969,
+"longitude": -116.4633
+}
+},
+{
+"slug": "wasatch-national-forest",
+"name": "Wasatch National Forest",
+"states": [
+"Utah",
+"Wyoming"
+],
+"sw": {
+"latitude": 39.9184,
+"longitude": -112.687
+},
+"ne": {
+"latitude": 41.1406,
+"longitude": -110.0214
+}
+},
+{
+"slug": "washington-monument",
+"name": "Washington Monument",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8827,
+"longitude": -77.0393
+},
+"ne": {
+"latitude": 38.892,
+"longitude": -77.0323
+}
+},
+{
+"slug": "wheeler-national-wildlife-refuge",
+"name": "Wheeler National Wildlife Refuge",
+"states": [
+"Alabama"
+],
+"sw": {
+"latitude": 34.4883,
+"longitude": -86.9736
+},
+"ne": {
+"latitude": 34.6562,
+"longitude": -86.6135
+}
+},
+{
+"slug": "white-horse-hill-national-game-preserve",
+"name": "White Horse Hill National Game Preserve",
+"states": [
+"North Dakota"
+],
+"sw": {
+"latitude": 47.9636,
+"longitude": -99.0177
+},
+"ne": {
+"latitude": 48.0021,
+"longitude": -98.9569
+}
+},
+{
+"slug": "white-river-national-forest",
+"name": "White River National Forest",
+"states": [
+"Colorado"
+],
+"sw": {
+"latitude": 38.9777,
+"longitude": -108.1582
+},
+"ne": {
+"latitude": 40.2504,
+"longitude": -105.7759
+}
+},
+{
+"slug": "white-sands-national-park",
+"name": "White Sands National Park",
+"states": [
+"New Mexico"
+],
+"sw": {
+"latitude": 32.6563,
+"longitude": -106.4796
+},
+"ne": {
+"latitude": 32.8731,
+"longitude": -106.1401
+}
+},
+{
+"slug": "whitman-national-forest",
+"name": "Whitman National Forest",
+"states": [
+"Oregon"
+],
+"sw": {
+"latitude": 44.2633,
+"longitude": -118.7382
+},
+"ne": {
+"latitude": 45.5151,
+"longitude": -116.7112
+}
+},
+{
+"slug": "wichita-mountains-wildlife-refuge",
+"name": "Wichita Mountains Wildlife Refuge",
+"states": [
+"Oklahoma"
+],
+"sw": {
+"latitude": 34.6817,
+"longitude": -98.8088
+},
+"ne": {
+"latitude": 34.8264,
+"longitude": -98.51
+}
+},
+{
+"slug": "wind-cave-national-park",
+"name": "Wind Cave National Park",
+"states": [
+"South Dakota"
+],
+"sw": {
+"latitude": 43.4972,
+"longitude": -103.5506
+},
+"ne": {
+"latitude": 43.6405,
+"longitude": -103.3368
+}
+},
+{
+"slug": "world-war-i-memorial",
+"name": "World War I Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8956,
+"longitude": -77.0335
+},
+"ne": {
+"latitude": 38.8963,
+"longitude": -77.0321
+}
+},
+{
+"slug": "world-war-ii-memorial",
+"name": "World War II Memorial",
+"states": [
+"District of Columbia"
+],
+"sw": {
+"latitude": 38.8877,
+"longitude": -77.0412
+},
+"ne": {
+"latitude": 38.8904,
+"longitude": -77.0396
+}
+},
+{
+"slug": "wrangell-st-elias-national-park-and-preserve",
+"name": "Wrangell - St Elias National Park & Preserve",
+"states": [
+"Alaska"
+],
+"sw": {
+"latitude": 59.6932,
+"longitude": -145.4353
+},
+"ne": {
+"latitude": 62.718,
+"longitude": -139.0612
+}
+},
+{
+"slug": "yellowstone-national-park",
+"name": "Yellowstone National Park",
+"states": [
+"Idaho",
+"Montana",
+"Wyoming"
+],
+"sw": {
+"latitude": 44.1327,
+"longitude": -111.1559
+},
+"ne": {
+"latitude": 45.1081,
+"longitude": -109.8242
+}
+},
+{
+"slug": "yosemite-national-park",
+"name": "Yosemite National Park",
+"states": [
+"California"
+],
+"sw": {
+"latitude": 37.4922,
+"longitude": -119.8862
+},
+"ne": {
+"latitude": 38.1865,
+"longitude": -119.1995
+}
+},
+{
+"slug": "zion-national-park",
+"name": "Zion National Park",
+"states": [
+"Utah"
+],
+"sw": {
+"latitude": 37.1414,
+"longitude": -113.2283
+},
+"ne": {
+"latitude": 37.5043,
+"longitude": -112.8635
+}
+}
+]

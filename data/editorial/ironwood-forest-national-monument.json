@@ -1,0 +1,28 @@
+{
+  "slug": "ironwood-forest-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-06-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Ironwood Forest National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William J. Clinton",
+        "administration": "Bill Clinton",
+        "citation": "Proclamation 7320, 65 FR 37259"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 7320, 65 FR 37259",
+          "url": "https://www.federalregister.gov/documents/2000/06/13/00-15112/establishment-of-the-ironwood-forest-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

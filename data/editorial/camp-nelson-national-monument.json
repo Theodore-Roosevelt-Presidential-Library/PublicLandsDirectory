@@ -1,0 +1,28 @@
+{
+  "slug": "camp-nelson-national-monument",
+  "designationHistory": [
+    {
+      "date": "2018-10-26",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Camp Nelson National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Donald Trump",
+        "administration": "Donald J. Trump",
+        "citation": "Proclamation 9811, 83 FR 54845"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9811, 83 FR 54845",
+          "url": "https://www.federalregister.gov/documents/2018/10/31/2018-24027/establishment-of-the-camp-nelson-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

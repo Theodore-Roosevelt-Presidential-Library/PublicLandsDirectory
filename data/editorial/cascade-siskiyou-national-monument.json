@@ -1,0 +1,50 @@
+{
+  "slug": "cascade-siskiyou-national-monument",
+  "designationHistory": [
+    {
+      "date": "2000-06-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Cascade-Siskiyou National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William J. Clinton",
+        "administration": "Bill Clinton",
+        "citation": "Proclamation 7318, 65 FR 37249"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 7318, 65 FR 37249",
+          "url": "https://www.federalregister.gov/documents/2000/06/13/00-15110/establishment-of-the-cascade-siskiyou-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    },
+    {
+      "date": "2017-01-12",
+      "action": "modified",
+      "designation": null,
+      "name": null,
+      "indexText": "Boundary Enlargement of the Cascade-Siskiyou National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9564, 82 FR 6145"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9564, 82 FR 6145",
+          "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01332/boundary-enlargement-of-the-cascade-siskiyou-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

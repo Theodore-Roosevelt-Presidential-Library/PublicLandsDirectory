@@ -1,0 +1,28 @@
+{
+  "slug": "camp-hale-continental-divide-national-monument",
+  "designationHistory": [
+    {
+      "date": "2022-10-12",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Camp Hale-Continental Divide National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Joseph R. Biden Jr.",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10476, 87 FR 63381"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 10476, 87 FR 63381",
+          "url": "https://www.federalregister.gov/documents/2022/10/19/2022-22810/establishment-of-the-camp-hale-continental-divide-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

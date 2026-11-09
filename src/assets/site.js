@@ -11,6 +11,9 @@
       fetch(el.dataset.geojson).then((r) => r.json()).then((f) => {
         const g = L.geoJSON(f, { style: { color: '#1B4532', weight: 2, fillColor: '#8FC895', fillOpacity: .3 } }).addTo(map);
         map.fitBounds(g.getBounds(), { padding: [10, 10] });
+        if (el.dataset.wilderness) fetch(el.dataset.wilderness).then((r) => r.json()).then((w) => {
+          L.geoJSON(w, { style: { color: '#092A4D', weight: 1, dashArray: '4 3', fillColor: '#092A4D', fillOpacity: .18 }, onEachFeature: (f, l) => l.bindTooltip(f.properties.name) }).addTo(map);
+        }).catch(() => {});
       });
     } else if (!isNaN(lat)) map.setView([lat, lon], 10);
     if (!isNaN(lat)) L.circleMarker([lat, lon], { radius: 6, color: '#fff', weight: 2, fillColor: '#E7805D', fillOpacity: 1 }).addTo(map);

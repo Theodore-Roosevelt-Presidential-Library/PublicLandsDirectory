@@ -53,6 +53,12 @@ for (const a of ['nps', 'fws', 'usfs', 'blm']) {
   else console.warn(`(missing source ${a})`);
 }
 
+// ---- hand-added sites missing from agency map data (data/editorial/_manual-sites.json) ----
+for (const m of (await readJSON(join(DATA, 'editorial', '_manual-sites.json'), { sites: [] })).sites) {
+  if (sources.some((r) => r.name.toLowerCase() === m.name.toLowerCase())) continue; // the agency data has it now
+  sources.push({ ...m, boundary: null, images: [], synced: nowISO() });
+}
+
 // ---- cross-agency grouping: one directory entry per place, listing every managing agency ----
 const nameKey = (n) => n.toLowerCase().replace(/&/g, 'and').replace(/\bsaint\b/g, 'st').replace(/[^a-z0-9]+/g, ' ').replace(/\b(and preserve|national monument and preserve)\b/g, (m) => m).trim();
 // Same place, different names across agencies. Keys are nameKey() forms.
@@ -76,6 +82,11 @@ for (const f of (await listJSON(join(DATA, 'editorial'))).filter((f) => !f.split
 
 const live = await readJSON(join(DATA, 'live', 'alerts.json'), { sites: {} });
 const covers = (await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {} })).sites;
+const allTrails = (await readJSON(join(DATA, 'reference', 'alltrails.json'), { sites: {} })).sites;
+const geomOf = new Map();
+const visits = (await readJSON(join(DATA, 'reference', 'visitation.json'), { sites: {} })).sites;
+const recGov = (await readJSON(join(DATA, 'reference', 'recgov.json'), { sites: {} })).sites;
+const verifiedLinks = (await readJSON(join(DATA, 'reference', 'links.json'), { sites: {} })).sites;
 const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
 const directory = [];
@@ -141,21 +152,25 @@ for (const recs of groups.values()) {
       administrations,
       designationHistory: history,
       summary: ed.summary || rec.description || null,
-      summarySource: ed.summary ? null : rec.description ? AGENCIES[rec.agency].name : null,
+      summarySource: ed.summary ? null : rec.description ? (rec.descriptionSource || AGENCIES[rec.agency].name) : null,
       guide: ed.guide || {},
       trConnection: ed.trConnection || null,
       trConnections: [...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))],
       trTypes: [...new Set([...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))].map((c) => c.type))],
       links: {
-        official: ed.links?.official || rec.url || null,
-        social: ed.links?.social || {},
-        recreationGov: ed.links?.recreationGov || null,
-        alltrails: ed.links?.alltrails || null,
+        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || null,
+        social: ed.links?.social || verifiedLinks[slug]?.social || {},
+        ...(!ed.links?.social && verifiedLinks[slug]?.social && Object.keys(verifiedLinks[slug].social).length ? { socialSource: verifiedLinks[slug].socialSource || 'Wikidata' } : {}),
+        recreationGov: ed.links?.recreationGov || rec.links?.recreationGov || recGov[slug]?.url || null,
+        ...(!ed.links?.recreationGov && recGov[slug]?.shared ? { recreationGovName: recGov[slug].name } : {}),
+        alltrails: ed.links?.alltrails || allTrails[slug]?.park || null,
         alltrailsExplore: bbox ? `https://www.alltrails.com/explore?b_tl_lat=${bbox[3]}&b_tl_lng=${bbox[0]}&b_br_lat=${bbox[1]}&b_br_lng=${bbox[2]}` : null,
         recreationGovSearch: `https://www.recreation.gov/search?q=${encodeURIComponent(rec.name)}`,
         directions: rec.links?.directions || (location ? `https://www.google.com/maps/dir/?api=1&destination=${location.lat},${location.lon}` : null),
         ...(ed.links?.other ? { other: ed.links.other } : {}),
       },
+      visitation: (() => { const n = [rec, ...co].find((r) => r.agency === 'NPS'); return (n && visits[n.agencyUnitCode]) || null; })(),
+      trails: (allTrails[slug]?.trails || []).map((t) => ({ ...t, source: 'AllTrails' })),
       cover: covers[slug] || null,
       images: (() => {
         const c = covers[slug];
@@ -184,6 +199,7 @@ for (const recs of groups.values()) {
       synced: rec.synced,
     };
     directory.push(entry);
+    if (geometry) geomOf.set(slug, geometry);
     if (geometry) await writeJSON(join(DATA, 'boundaries', `${slug}.geojson`), { type: 'Feature', properties: { slug, name: entry.name, agency: rec.agency, source: entry.boundarySource?.name }, geometry }, false);
   }
 }
@@ -195,6 +211,30 @@ const located = directory.filter((d) => d.location);
 for (const d of located) {
   d.nearby = located.filter((o) => o !== d).map((o) => ({ slug: o.slug, km: Math.round(dist(d.location, o.location)) })).sort((a, b) => a.km - b.km).slice(0, 6).filter((n) => n.km < 250);
 }
+
+// ---- wilderness: National Wilderness Preservation System areas inside each site ----
+// A wilderness belongs to a site when the site's own agency manages part of it and most of it lies inside the site boundary.
+const wild = (await readJSON(join(DATA, 'sources', 'wilderness.json'), { areas: [] })).areas;
+const overlap = (a, b) => a[0] <= b[2] && b[0] <= a[2] && a[1] <= b[3] && b[1] <= a[3];
+let wCount = 0;
+for (const d of directory) {
+  const g = geomOf.get(d.slug);
+  d.wilderness = [];
+  if (!g) continue;
+  const codes = d.managedBy.map((m) => m.code);
+  const bb = bboxOf(g);
+  const hits = wild.filter((w) => w.agencies.some((a) => codes.includes(a)) && overlap(bb, w.bbox)).filter((w) => {
+    // Share of the wilderness's area inside the site, from a grid of points over the wilderness.
+    w.grid ||= (() => { const [a, b, c, e] = w.bbox, n = 16, pts = []; for (let i = 0; i < n; i++) for (let j = 0; j < n; j++) { const p = [a + ((i + 0.5) * (c - a)) / n, b + ((j + 0.5) * (e - b)) / n]; if (pointInGeom(p, w.geometry)) pts.push(p); } return pts.length ? pts : [[w.label.lon, w.label.lat]]; })();
+    const share = w.grid.filter((p) => pointInGeom(p, g)).length / w.grid.length;
+    return share >= 0.1;
+  });
+  if (!hits.length) continue;
+  d.wilderness = hits.map((w) => ({ name: w.name, designated: w.designated, acres: w.acres, agencies: w.agencies, url: w.url, source: 'Wilderness Connect (wilderness.net)' })).sort((a, b) => (b.acres || 0) - (a.acres || 0));
+  wCount += hits.length;
+  await writeJSON(join(DATA, 'wilderness', `${d.slug}.geojson`), { type: 'FeatureCollection', features: hits.map((w) => ({ type: 'Feature', properties: { name: w.name, designated: w.designated }, geometry: w.geometry })) }, false);
+}
+console.log(`Wilderness: ${wCount} areas placed in ${directory.filter((d) => d.wilderness.length).length} sites (${wild.length} in the system)`);
 
 directory.sort((a, b) => a.name.localeCompare(b.name));
 await writeJSON(join(DATA, 'directory.json'), { generated: nowISO(), count: directory.length, sites: directory }, false);

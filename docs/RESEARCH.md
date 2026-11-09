@@ -28,3 +28,13 @@ The Index stops at December 31, 2015. Units created after that date (Stonewall, 
 - **Inauguration-day dates settled:** Marble Canyon (Jan. 20, 1969) was signed by Lyndon B. Johnson, and Hot Springs (March 4, 1921) by Woodrow Wilson. Badlands (March 4, 1929) has no source naming the signer yet, so it stays blank.
 - **Not designations:** two events were removed, a 1932 Denali boundary revision and the 1993 American Samoa lease.
 - **Guard added:** a site states "first protected" only when no unreviewed event is older than its earliest reviewed one.
+
+## Drafts waiting for review (November 2026)
+
+These histories are written but not published. Each event carries `reviewed: false` until HistorianPanel checks it.
+
+- **Batch 1b, NPS units in the NPS Index:** 350 units drafted from *The National Parks: Index 2012–2016* (`scripts/research/nps-to-editorial.mjs`).
+- **Monuments since 1994, all agencies:** 40 monuments, 51 events drafted from presidential proclamations in the Federal Register (`scripts/research/fr-proclamations.mjs`). This covers newer NPS monuments the Index predates and most of batch 4 (BLM and Forest Service monuments). The script keeps only proclamations whose title names the monument. When a title is just the monument's name (for example Proclamation 10285, Bears Ears, 2021), the draft says so, and the reviewer describes what the proclamation changed.
+- **Still without a draft:** 52 NPS units, mostly parks created by law after 2016, trails and parts of larger units the Index does not list separately (for example Amache and Blackwell School National Historic Sites). These need the statute from Congress.gov.
+
+Review order, highest traffic first: NPS monuments and historic sites with Roosevelt connections, then the remaining monuments, then the rest of batch 1b.

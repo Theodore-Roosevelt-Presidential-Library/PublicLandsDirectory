@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T02:09:52.310Z",
+  "generated": "2026-11-09T03:07:29.558Z",
   "sources": {
     "publiclands": "https://raw.githubusercontent.com/Theodore-Roosevelt-Presidential-Library/PresidentialPublicLands/main/data/sites.json",
     "executiveactions": "https://executiveactions.labs.trlibrary.com/api/v1/then-and-now/index.json",
@@ -899,6 +899,28 @@
         "reviewed": true
       },
       {
+        "id": "dbd-grand-canyon-az",
+        "type": "visited",
+        "label": "T.R. was here",
+        "place": "Grand Canyon",
+        "first": "1903-05-06",
+        "last": "1913-07-24",
+        "days": 13,
+        "text": "Day by Day places T.R. at Grand Canyon on 13 days between 1903-05-06 and 1913-07-24.",
+        "sources": [
+          {
+            "name": "Grand Canyon in Theodore Roosevelt Day by Day",
+            "url": "https://daybyday.labs.trlibrary.com/place.html?id=grand-canyon-az"
+          },
+          {
+            "name": "First recorded day",
+            "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-05-06"
+          }
+        ],
+        "dataset": "daybyday",
+        "reviewed": true
+      },
+      {
         "id": "dbd-el-tovar-hotel",
         "type": "visited",
         "label": "T.R. was here",
@@ -915,6 +937,28 @@
           {
             "name": "First recorded day",
             "url": "https://daybyday.labs.trlibrary.com/day.html?date=1913-07-14"
+          }
+        ],
+        "dataset": "daybyday",
+        "reviewed": true
+      },
+      {
+        "id": "dbd-north-rim-grand-canyon",
+        "type": "visited",
+        "label": "T.R. was here",
+        "place": "North Rim",
+        "first": "1913-07-16",
+        "last": "1913-07-16",
+        "days": 1,
+        "text": "Day by Day places T.R. at North Rim on 1913-07-16.",
+        "sources": [
+          {
+            "name": "North Rim in Theodore Roosevelt Day by Day",
+            "url": "https://daybyday.labs.trlibrary.com/place.html?id=north-rim-grand-canyon"
+          },
+          {
+            "name": "First recorded day",
+            "url": "https://daybyday.labs.trlibrary.com/day.html?date=1913-07-16"
           }
         ],
         "dataset": "daybyday",
@@ -7315,6 +7359,50 @@
         "reviewed": true
       },
       {
+        "id": "dbd-tower-falls-wy",
+        "type": "visited",
+        "label": "T.R. was here",
+        "place": "Tower Falls",
+        "first": "1903-04-12",
+        "last": "1903-04-14",
+        "days": 2,
+        "text": "Day by Day places T.R. at Tower Falls on 2 days between 1903-04-12 and 1903-04-14.",
+        "sources": [
+          {
+            "name": "Tower Falls in Theodore Roosevelt Day by Day",
+            "url": "https://daybyday.labs.trlibrary.com/place.html?id=tower-falls-wy"
+          },
+          {
+            "name": "First recorded day",
+            "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-04-12"
+          }
+        ],
+        "dataset": "daybyday",
+        "reviewed": true
+      },
+      {
+        "id": "dbd-fort-yellowstone-wy",
+        "type": "visited",
+        "label": "T.R. was here",
+        "place": "Fort Yellowstone",
+        "first": "1903-04-15",
+        "last": "1903-04-22",
+        "days": 3,
+        "text": "Day by Day places T.R. at Fort Yellowstone on 3 days between 1903-04-15 and 1903-04-22.",
+        "sources": [
+          {
+            "name": "Fort Yellowstone in Theodore Roosevelt Day by Day",
+            "url": "https://daybyday.labs.trlibrary.com/place.html?id=fort-yellowstone-wy"
+          },
+          {
+            "name": "First recorded day",
+            "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-04-15"
+          }
+        ],
+        "dataset": "daybyday",
+        "reviewed": true
+      },
+      {
         "id": "dbd-norris-hotel",
         "type": "visited",
         "label": "T.R. was here",
@@ -7403,6 +7491,28 @@
           {
             "name": "First recorded day",
             "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-05-15"
+          }
+        ],
+        "dataset": "daybyday",
+        "reviewed": true
+      },
+      {
+        "id": "dbd-wawona-ca",
+        "type": "visited",
+        "label": "T.R. was here",
+        "place": "Wawona",
+        "first": "1903-05-18",
+        "last": "1903-05-18",
+        "days": 1,
+        "text": "Day by Day places T.R. at Wawona on 1903-05-18.",
+        "sources": [
+          {
+            "name": "Wawona in Theodore Roosevelt Day by Day",
+            "url": "https://daybyday.labs.trlibrary.com/place.html?id=wawona-ca"
+          },
+          {
+            "name": "First recorded day",
+            "url": "https://daybyday.labs.trlibrary.com/day.html?date=1903-05-18"
           }
         ],
         "dataset": "daybyday",

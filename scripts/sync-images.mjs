@@ -147,6 +147,34 @@ for (const s of stillMissing.slice(0, LIMIT)) {
 }
 console.log(`Commons categories added or upgraded ${fromCat} covers`);
 
+// ---- 5. Last resort for sites still without a cover: Commons files that name the site, public domain or CC0 only ----
+let fromSearch = 0;
+const LAST = dir.filter((s) => !covers[s.slug] && !rejectSlugs.has(s.slug));
+for (const s of LAST) {
+  const key = s.name.replace(/ & /g, ' and ');
+  try {
+    const d = await fetchJSON(`https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=15&gsrsearch=${encodeURIComponent(`"${key}" filetype:bitmap`)}&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1600`, { headers: { 'User-Agent': UA } });
+    const short = key.replace(/ (National Wildlife Refuge|Wetland Management District|National Forest|National Grassland|National Monument|National Conservation Area|National Recreation Area|National Historic Site|National Historical Park|National Memorial)$/i, '').toLowerCase();
+    const ok = [];
+    for (const p of Object.values(d.query?.pages || {})) {
+      const ii = p.imageinfo?.[0]; if (!ii || !/image\/(jpeg|png|webp)/.test(ii.mime || '')) continue;
+      if ((ii.width || 0) < 1200 || ii.width < ii.height) continue;
+      const m = ii.extmetadata || {};
+      const cls = classify(m); if (!cls || cls.tier > 2) continue; // last resort: public domain or CC0 only
+      const text = `${p.title} ${strip(m.ImageDescription?.value)} ${strip(m.Categories?.value)}`.toLowerCase();
+      if (!text.includes(short)) continue; // the file has to name the place
+      const q = quality(p.title, m); if (q < 0) continue;
+      const artist = strip(m.Artist?.value) || 'Unknown author';
+      if (blocklist.some((b) => artist.toLowerCase().includes(b))) continue;
+      ok.push({ q, url: ii.thumburl || ii.url, original: ii.url, title: strip(m.ObjectName?.value) || p.title.replace(/^File:|\.\w+$/g, ''), alt: strip(m.ImageDescription?.value).slice(0, 200) || null, credit: artist, license: cls.license, licenseUrl: cls.licenseUrl, filePage: ii.descriptionurl, tier: cls.tier, source: 'Wikimedia Commons', kind: 'search', review: 'auto-search', index: p.index ?? 99 });
+    }
+    ok.sort((a, b) => b.q - a.q || a.tier - b.tier || a.index - b.index);
+    for (const c of ok.slice(0, 3)) { if (await loads(c.url)) { delete c.q; delete c.index; covers[s.slug] = c; fromSearch++; break; } }
+  } catch { /* leave for next run */ }
+  await sleep(250);
+}
+console.log(`Commons search added ${fromSearch} covers`);
+
 for (const slug of rejectSlugs) if (!overrides[slug]) delete covers[slug];
 const tiers = Object.values(covers).reduce((m, c) => ((m[c.tier] = (m[c.tier] || 0) + 1), m), {});
 const missing = dir.filter((s) => !covers[s.slug]).map((s) => s.slug);

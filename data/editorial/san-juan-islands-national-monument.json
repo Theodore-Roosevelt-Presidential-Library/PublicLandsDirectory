@@ -1,0 +1,28 @@
+{
+  "slug": "san-juan-islands-national-monument",
+  "designationHistory": [
+    {
+      "date": "2013-03-25",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the San Juan Islands National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 8947, 78 FR 18789"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 8947, 78 FR 18789",
+          "url": "https://www.federalregister.gov/documents/2013/03/28/2013-07408/establishment-of-the-san-juan-islands-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

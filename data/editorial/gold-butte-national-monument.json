@@ -1,0 +1,28 @@
+{
+  "slug": "gold-butte-national-monument",
+  "designationHistory": [
+    {
+      "date": "2016-12-28",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Gold Butte National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": "Proclamation 9559, 82 FR 1149"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 9559, 82 FR 1149",
+          "url": "https://www.federalregister.gov/documents/2017/01/05/2017-00039/establishment-of-the-gold-butte-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

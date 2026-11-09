@@ -1,0 +1,28 @@
+{
+  "slug": "emmett-till-and-mamie-till-mobley-national-monument",
+  "designationHistory": [
+    {
+      "date": "2023-07-25",
+      "action": "established",
+      "designation": "National Monument",
+      "name": null,
+      "indexText": "Establishment of the Emmett Till and Mamie Till-Mobley National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Joseph R. Biden Jr.",
+        "administration": "Joseph R. Biden Jr.",
+        "citation": "Proclamation 10602, 88 FR 48705"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Federal Register: Proclamation 10602, 88 FR 48705",
+          "url": "https://www.federalregister.gov/documents/2023/07/28/2023-16211/establishment-of-the-emmett-till-and-mamie-till--mobley-national-monument"
+        }
+      ],
+      "research": "federal-register",
+      "reviewed": false
+    }
+  ],
+  "historySource": "Federal Register presidential proclamations (draft, pending review)"
+}

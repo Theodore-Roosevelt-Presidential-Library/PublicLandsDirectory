@@ -12,8 +12,21 @@ function group(features, keyFn) {
   return m;
 }
 
+// Known errors in agency boundary layers: keep only the pieces whose centre falls inside this box [w, s, e, n].
+// Browns Canyon, Colorado: the BLM layer also files a large southern California polygon under it.
+const CLIP = { 'Browns Canyon National Monument': [-107, 38, -105, 39.5] };
+function clip(geom, box) {
+  if (!geom || !box) return geom;
+  const polys = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+  const centre = (ring) => ring.reduce((a, p) => [a[0] + p[0] / ring.length, a[1] + p[1] / ring.length], [0, 0]);
+  const keep = polys.filter((p) => { const [x, y] = centre(p[0]); return x >= box[0] && x <= box[2] && y >= box[1] && y <= box[3]; });
+  if (!keep.length || keep.length === polys.length) return geom;
+  console.warn(`Clipped ${polys.length - keep.length} mislabeled piece(s)`);
+  return { type: 'MultiPolygon', coordinates: keep }; // merge.mjs expects MultiPolygon
+}
+
 function baseRecord({ id, agency, unitCode, name, designation, category, acres, source, sourceUrl, feats, extra = {} }) {
-  const geom = dissolve(feats);
+  const geom = clip(dissolve(feats), CLIP[name]);
   return {
     id, agency, agencyUnitCode: unitCode, name, designation, category: category || categorize(designation, name),
     states: [], location: geom ? labelPoint(geom) : null,
@@ -101,9 +114,13 @@ const BLM_DESIGNATION = {
 const BLM_RENAME = {
   "Baaj Nwaavjo I'tah Kukveni - Ancestral Footprints of the Grand Canyon": "Baaj Nwaavjo I'tah Kukveni",
   'Black Rock Desert / High Rock Canyon': 'Black Rock Desert-High Rock Canyon Emigrant Trails',
+  // Names in the U.S. Code: 16 U.S.C. 460iiii and 460hhhh
+  'Black Mountain Pistones': 'Pistone-Black Mountain',
   'Morley Nelson Snake River Birds of Prey National Conservation Area': 'Morley Nelson Snake River Birds of Prey National Conservation Area',
 };
 BLM_DESIGNATION['Black Rock Desert-High Rock Canyon Emigrant Trails'] = 'National Conservation Area';
+BLM_DESIGNATION['Pistone-Black Mountain'] = 'National Conservation Area'; // 16 U.S.C. 460iiii
+BLM_DESIGNATION['Numunaa Nobe'] = 'National Conservation Area'; // 16 U.S.C. 460hhhh
 const BLM_SKIP = new Set(['Beaver Dam Wash - Designated Road Area']); // a sub-area of Beaver Dam Wash NCA
 
 // ---------- Bureau of Land Management: National Conservation Lands (monuments, NCAs and similar) ----------

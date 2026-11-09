@@ -1,0 +1,3626 @@
+{
+  "acadia-national-park": {
+    "parkLabel": "Acadia National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/maine/acadia-national-park",
+    "trails": [
+      {
+        "name": "The Beehive Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/maine/the-beehive-loop-trail",
+        "length_miles": 1.6,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Jordan Pond Path",
+        "url": "https://www.alltrails.com/trail/us/maine/jordan-pond-path",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Gorham Mountain Loop",
+        "url": "https://www.alltrails.com/trail/us/maine/gorham-mountain-loop",
+        "length_miles": 3.1,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "alaska-maritime-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "antietam-national-battlefield": {
+    "parkLabel": "Antietam National Battlefield",
+    "parkUrl": "https://www.alltrails.com/parks/us/maryland/antietam-national-battlefield",
+    "trails": [
+      {
+        "name": "Snavely Ford Antietam National Battlefield Trail",
+        "url": "https://www.alltrails.com/trail/us/maryland/snavely-ford-antietam-national-battlefield-trail",
+        "length_miles": 9.2,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "arapaho-national-forest": {
+    "parkLabel": "Arapaho National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/arapaho-national-forest",
+    "trails": [
+      {
+        "name": "Saint Mary's Glacier",
+        "url": "https://www.alltrails.com/trail/us/colorado/st-mary-s-glacier",
+        "length_miles": 1.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "arches-national-park": {
+    "parkLabel": "Arches National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/arches-national-park",
+    "trails": [
+      {
+        "name": "Delicate Arch Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/delicate-arch-trail",
+        "length_miles": 3.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Devil's Garden Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/devils-garden-loop-trail-with-7-arches",
+        "length_miles": 8.1,
+        "difficulty": "Strenuous",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Double O Arch Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/double-o-arch-trail--2",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "arlington-house-the-robert-e-lee-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "badlands-national-park": {
+    "parkLabel": "Badlands National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/south-dakota/badlands-national-park",
+    "trails": [
+      {
+        "name": "Notch Trail",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/notch-trail",
+        "length_miles": 1.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "The Door Trail",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/the-door-trail",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Medicine Root and Castle Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/medicine-root-and-castle-trail-loop",
+        "length_miles": 4.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "beaverhead-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "big-bend-national-park": {
+    "parkLabel": "Big Bend National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/texas/big-bend-national-park",
+    "trails": [
+      {
+        "name": "Lost Mine Trail",
+        "url": "https://www.alltrails.com/trail/us/texas/lost-mine-trail",
+        "length_miles": 4.9,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Santa Elena Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/texas/santa-elena-canyon-trail",
+        "length_miles": 1.7,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "The Window Trail",
+        "url": "https://www.alltrails.com/trail/us/texas/the-window-trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "bighorn-national-forest": {
+    "parkLabel": "Bighorn National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/wyoming/bighorn-national-forest",
+    "trails": [
+      {
+        "name": "Tongue River Canyon",
+        "url": "https://www.alltrails.com/trail/us/wyoming/tongue-river-canyon",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Mirror Lake and Lost Twin Lakes Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/mirror-lake-and-lost-twin-lakes-trail--2",
+        "length_miles": 11.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Porcupine Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/porcupine-falls-trail",
+        "length_miles": 0.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "biscayne-national-park": {
+    "parkLabel": "Biscayne National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/florida/biscayne-national-park",
+    "trails": [
+      {
+        "name": "Convey Point Jetty Walk",
+        "url": "https://www.alltrails.com/trail/us/florida/convey-point-jetty-walk",
+        "length_miles": 0.7,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Black Creek Canal",
+        "url": "https://www.alltrails.com/trail/us/florida/black-creek-canal",
+        "length_miles": 1.7,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Boca Chita Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/boca-chita-trail",
+        "length_miles": 0.7,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.4
+      }
+    ]
+  },
+  "bitterroot-national-forest": {
+    "parkLabel": "Bitterroot National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/bitterroot-national-forest",
+    "trails": [
+      {
+        "name": "Blodgett Canyon Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/blodgett-canyon-overlook-trail",
+        "length_miles": 2.9,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Sweathouse Falls",
+        "url": "https://www.alltrails.com/trail/us/montana/sweathouse-falls",
+        "length_miles": 5.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Upper and Lower Falls via Blodgett Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/blodgett-canyon-to-waterfall",
+        "length_miles": 9.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "black-canyon-of-the-gunnison-national-park": {
+    "parkLabel": "Black Canyon of the Gunnison National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/black-canyon-of-the-gunnison-national-park",
+    "trails": [
+      {
+        "name": "Warner Point Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/warner-point-nature-trail",
+        "length_miles": 1.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Oak Flat Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/oak-flat-loop-trail",
+        "length_miles": 1.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Oak Flat, Uplands, and Rim Rock Nature Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/colorado/uplands-trail-to-rim-rock-nature-trail-loop",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "black-hills-national-forest": {
+    "parkLabel": "Black Hills National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/south-dakota/black-hills-national-forest",
+    "trails": [
+      {
+        "name": "Black Elk Peak and Little Devil's Tower Loop",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/black-elk-peak-and-little-devils-tower-loop",
+        "length_miles": 8.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "boise-national-forest": {
+    "parkLabel": "Boise National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/idaho/boise-national-forest",
+    "trails": [
+      {
+        "name": "Freddy's Stack Rock Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/freddys-stack-rock-trail",
+        "length_miles": 11.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "breton-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "bridger-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "bryce-canyon-national-park": {
+    "parkLabel": "Bryce Canyon National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/bryce-canyon-national-park",
+    "trails": [
+      {
+        "name": "Navajo Loop and Queens Garden Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/navajo-loop-and-queens-garden-trail",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Wall Street and Queens Garden Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/wall-street-and-queens-garden-loop-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Wall Street, Queens Garden, and Peekaboo Loop (Figure Eight Trail)",
+        "url": "https://www.alltrails.com/trail/us/utah/wall-street-and-queens-garden-loop-to-peekaboo-loop-figure-eight-trail",
+        "length_miles": 6.5,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "cache-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "canyonlands-national-park": {
+    "parkLabel": "Canyonlands National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/canyonlands-national-park",
+    "trails": [
+      {
+        "name": "Mesa Arch Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/mesa-arch",
+        "length_miles": 0.6,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Grand View Point Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/grand-view",
+        "length_miles": 1.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Upheaval Dome via Crater View Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/upheaval-dome-via-crater-view-trail",
+        "length_miles": 1.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "capitol-reef-national-park": {
+    "parkLabel": "Capitol Reef National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/capitol-reef-national-park",
+    "trails": [
+      {
+        "name": "Hickman Bridge Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/hickman-bridge-trail",
+        "length_miles": 1.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Cassidy Arch Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/cassidy-arch-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Grand Wash Trail via Northeast Trailhead",
+        "url": "https://www.alltrails.com/trail/us/utah/grand-wash-trail-via-northeast-trailhead",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "caribou-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "carlsbad-caverns-national-park": {
+    "parkLabel": "Carlsbad Caverns National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/carlsbad-caverns-national-park",
+    "trails": [
+      {
+        "name": "Carlsbad Caverns Visitor Center and Chihuahuan Desert Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/carlsbad-caverns-national-park-trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Walnut Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/walnut-canyon-trail",
+        "length_miles": 0.4,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.1
+      },
+      {
+        "name": "Old Guano Trail to White's City",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/old-guano-trail-to-white-s-city",
+        "length_miles": 7.5,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.2
+      }
+    ]
+  },
+  "carson-national-forest": {
+    "parkLabel": "Carson National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/carson-national-forest",
+    "trails": [
+      {
+        "name": "Williams Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/williams-lake-trail--3",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Devisadero Peak",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/devisadero-loop-trail",
+        "length_miles": 5.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Middle Fork Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/middle-fork-lake-trail",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "chaco-culture-national-historical-park": {
+    "parkLabel": "Chaco Culture National Historical Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/chaco-culture-national-historical-park",
+    "trails": [
+      {
+        "name": "Pueblo Alto Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/pueblo-alto-trail",
+        "length_miles": 5.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Pueblo Bonito Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/pueblo-bonito-overlook",
+        "length_miles": 2.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Petroglyph Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/petroglyph-trail",
+        "length_miles": 0.7,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "challis-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "channel-islands-national-park": {
+    "parkLabel": "Channel Islands National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/channel-islands-national-park",
+    "trails": [
+      {
+        "name": "Potato Harbor",
+        "url": "https://www.alltrails.com/trail/us/california/potato-harbor",
+        "length_miles": 5.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Cavern Point Loop",
+        "url": "https://www.alltrails.com/trail/us/california/cavern-point-loop--2",
+        "length_miles": 1.8,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Smugglers Road, Scorpion Canyon and Potato Harbor",
+        "url": "https://www.alltrails.com/trail/us/california/smugglers-road-scorpion-canyon-potato-harbor",
+        "length_miles": 7.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "chase-lake-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "chickasaw-national-recreation-area": {
+    "parkLabel": "Chickasaw National Recreation Area",
+    "parkUrl": "https://www.alltrails.com/parks/us/oklahoma/chickasaw-national-recreation-area",
+    "trails": [
+      {
+        "name": "Buffalo and Antelope Springs Trail",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/buffalo-and-antelope-springs-trail",
+        "length_miles": 3.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Bison Pasture Trail",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/bison-pasture-trail",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Travertine Creek Trail via Pavilion Springs",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/travertine-creek-trail-via-pavilion-springs",
+        "length_miles": 2.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "chippewa-national-forest": {
+    "parkLabel": "Chippewa National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/minnesota/chippewa-national-forest",
+    "trails": [
+      {
+        "name": "Lost '40' Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/lost-40-trail",
+        "length_miles": 1.3,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "chiricahua-national-park": {
+    "parkLabel": "Chiricahua National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/chiricahua-national-park",
+    "trails": [
+      {
+        "name": "Echo Canyon Loop",
+        "url": "https://www.alltrails.com/trail/us/arizona/echo-canyon-loop--2",
+        "length_miles": 3.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "The Big Loop",
+        "url": "https://www.alltrails.com/trail/us/arizona/the-big-loop--2",
+        "length_miles": 8.3,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Echo Canyon Grottoes",
+        "url": "https://www.alltrails.com/trail/us/arizona/echo-canyon-grottoes",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "chugach-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "cibola-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "coconino-national-forest": {
+    "parkLabel": "Coconino National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/coconino-national-forest",
+    "trails": [
+      {
+        "name": "Devil's Bridge via Mescal Trailhead",
+        "url": "https://www.alltrails.com/trail/us/arizona/devil-s-bridge-via-mescal-trailhead--2",
+        "length_miles": 4.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Cathedral Rock Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/cathedral-rock-trail",
+        "length_miles": 1.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Devil's Bridge Trail via Dry Creek Road",
+        "url": "https://www.alltrails.com/trail/us/arizona/devils-bridge-trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "coeur-dalene-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "cold-springs-national-wildlife-refuge": {
+    "parkLabel": "Cold Springs National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/cold-springs-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Cold Springs National Wildlife Refuge Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/cold-springs-national-wildlife-refuge-trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 3.9
+      }
+    ]
+  },
+  "colville-national-forest": {
+    "parkLabel": "Colville National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/washington/colville-national-forest",
+    "trails": [
+      {
+        "name": "Bead Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/bead-lake-trail",
+        "length_miles": 10.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Sherman Peak Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/sherman-peak-loop-trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "congaree-national-park": {
+    "parkLabel": "Congaree National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/south-carolina/congaree-national-park",
+    "trails": [
+      {
+        "name": "Boardwalk Loop",
+        "url": "https://www.alltrails.com/trail/us/south-carolina/boardwalk-loop-trail--2",
+        "length_miles": 2.4,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Weston Lake Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/south-carolina/weston-lake-loop-trail",
+        "length_miles": 4.7,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Oakridge Trail",
+        "url": "https://www.alltrails.com/trail/us/south-carolina/oakridge-trail",
+        "length_miles": 7.2,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "constitution-gardens": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "copalis-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "coronado-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "crater-lake-national-park": {
+    "parkLabel": "Crater Lake National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/crater-lake-national-park",
+    "trails": [
+      {
+        "name": "Garfield Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/garfield-peak-trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "The Watchman Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/the-watchman-peak-trail",
+        "length_miles": 1.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Discovery Point Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/discovery-point-trail",
+        "length_miles": 2.2,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "culebra-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "custer-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "cuyahoga-valley-national-park": {
+    "parkLabel": "Cuyahoga Valley National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/ohio/cuyahoga-valley-national-park",
+    "trails": [
+      {
+        "name": "Ledges Trail",
+        "url": "https://www.alltrails.com/trail/us/ohio/cuyahoga-valley-ledges-trail",
+        "length_miles": 2.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Brandywine Gorge Trail",
+        "url": "https://www.alltrails.com/trail/us/ohio/brandywine-gorge-trail",
+        "length_miles": 1.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Stanford House to Brandywine Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/ohio/stanford-house-to-brandywine-falls-trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "death-valley-national-park": {
+    "parkLabel": "Death Valley National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/death-valley-national-park",
+    "trails": [
+      {
+        "name": "Mosaic Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/california/mosaic-canyon-trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Golden Canyon Trail to Red Cathedral",
+        "url": "https://www.alltrails.com/trail/us/california/golden-canyon-trail-to-red-cathedral",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Golden Canyon and Gower Gulch Loop via Zabriskie Point",
+        "url": "https://www.alltrails.com/trail/us/california/golden-canyon-and-gower-gulch-loop-via-zabriskie-point",
+        "length_miles": 6.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "deer-flat-national-wildlife-refuge": {
+    "parkLabel": "Deer Flat National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/idaho/deer-flat-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Observation Hill Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/observation-hill-trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Kingfisher Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/kingfisher-trail--3",
+        "length_miles": 7.6,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "deerlodge-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "denali-national-park-and-preserve": {
+    "parkLabel": "Denali National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/denali-national-park",
+    "trails": [
+      {
+        "name": "Horseshoe Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/horseshoe-lake-trail",
+        "length_miles": 2.2,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Mount Healy Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/mount-healy-overlook-trail",
+        "length_miles": 5.0,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Savage Alpine Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/savage-alpine-trail--2",
+        "length_miles": 4.2,
+        "difficulty": "Hard",
+        "route_type": "Point to point",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "devils-tower-national-monument": {
+    "parkLabel": "Devils Tower National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/wyoming/devils-tower-national-monument",
+    "trails": [
+      {
+        "name": "Devil's Tower Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/devil-s-tower-trail--2",
+        "length_miles": 1.6,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Red Beds Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/red-beds-trail",
+        "length_miles": 2.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "South Side, Red Beds and Tower Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/wyoming/south-side-red-beds-and-tower-trail-loop",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "dixie-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "dry-tortugas-national-park": {
+    "parkLabel": "Dry Tortugas National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/florida/dry-tortugas-national-park",
+    "trails": [
+      {
+        "name": "Fort Jefferson Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/fort-jefferson-loop",
+        "length_miles": 0.7,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Bush Key Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/bush-key-trail",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "el-morro-national-monument": {
+    "parkLabel": "El Morro National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/el-morro-national-monument",
+    "trails": [
+      {
+        "name": "The Inscription Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/the-inscription-trail",
+        "length_miles": 0.7,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Headlands Trail [CLOSED]",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/headlands-trail",
+        "length_miles": 2.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "el-yunque-national-forest": {
+    "parkLabel": "El Yunque National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/puerto-rico/el-yunque-national-forest",
+    "trails": [
+      {
+        "name": "Angelito Trail",
+        "url": "https://www.alltrails.com/trail/puerto-rico/east-region/angelito-trail",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Vereda La Coca Trail",
+        "url": "https://www.alltrails.com/trail/puerto-rico/east-region/vereda-la-coca-trail",
+        "length_miles": 3.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "El Yunque Peak Tower - Los Picachos",
+        "url": "https://www.alltrails.com/trail/puerto-rico/east-region/el-yunque-peak-tower-los-picachos",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "everglades-national-park": {
+    "parkLabel": "Everglades National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/florida/everglades-national-park",
+    "trails": [
+      {
+        "name": "Anhinga Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/anhinga-trail",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Shark Valley Tram Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/shark-valley-tram-trail",
+        "length_miles": 14.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Gumbo Limbo Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/gumbo-limbo-trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "farallon-islands-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "fire-island-national-seashore": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "fishlake-national-forest": {
+    "parkLabel": "Fishlake National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/fishlake-national-forest",
+    "trails": [
+      {
+        "name": "Bullion Falls",
+        "url": "https://www.alltrails.com/trail/us/utah/bullion-falls",
+        "length_miles": 2.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Cooks Mesa and Meeks Mesa Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/cooks-mesa-and-meeks-mesa-overlook-trail",
+        "length_miles": 4.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "flattery-rocks-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "franklin-delano-roosevelt-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "fremont-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "gates-of-the-arctic-national-park-and-preserve": {
+    "parkLabel": "Gates of the Arctic National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/gates-of-the-arctic-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "Arrigetch Peaks Mountaineering Route",
+        "url": "https://www.alltrails.com/trail/us/alaska/arrigetch-peaks-mountaineering-route",
+        "length_miles": 26.3,
+        "difficulty": "Strenuous",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "gateway-arch-national-park": {
+    "parkLabel": "Gateway Arch National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/missouri/gateway-arch-national-park",
+    "trails": [
+      {
+        "name": "Gateway Arch Loop",
+        "url": "https://www.alltrails.com/trail/us/missouri/gateway-arch-loop",
+        "length_miles": 1.6,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Jefferson National Expansion Memorial",
+        "url": "https://www.alltrails.com/trail/us/missouri/jefferson-national-expansion-memorial",
+        "length_miles": 1.8,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Gateway Arch Inner Loop",
+        "url": "https://www.alltrails.com/trail/us/missouri/gateway-arch-inner-loop",
+        "length_miles": 0.6,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "george-washington-birthplace-national-monument": {
+    "parkLabel": "George Washington Birthplace National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/virginia/george-washington-birthplace-national-monument",
+    "trails": [
+      {
+        "name": "Pope's Creek Trail",
+        "url": "https://www.alltrails.com/trail/us/virginia/pope-s-creek-trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "George Washington Birthplace National Monument Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/virginia/george-washington-birthplace-national-monument-trails",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.4
+      }
+    ]
+  },
+  "gifford-pinchot-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "gila-cliff-dwellings-national-monument": {
+    "parkLabel": "Gila Cliff Dwellings National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/gila-cliff-dwellings-national-monument",
+    "trails": [
+      {
+        "name": "Gila Cliff Dwellings Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/gila-cliff-dwellings-trail",
+        "length_miles": 1.1,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "gila-national-forest": {
+    "parkLabel": "Gila National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/gila-national-forest",
+    "trails": [
+      {
+        "name": "Catwalk National Recreation Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/the-catwalk-national-recreation-trail",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Dragonfly Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/dragonfly-trail",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "glacier-bay-national-park-and-preserve": {
+    "parkLabel": "Glacier Bay National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/glacier-bay-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "The Forest and Point Gustavus Loop",
+        "url": "https://www.alltrails.com/trail/us/alaska/forest-trail",
+        "length_miles": 1.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "glacier-national-park": {
+    "parkLabel": "Glacier National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/glacier-national-park",
+    "trails": [
+      {
+        "name": "Avalanche Lake",
+        "url": "https://www.alltrails.com/trail/us/montana/avalanche-lake--6",
+        "length_miles": 6.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Grinnell Glacier Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/grinnell-glacier-trail",
+        "length_miles": 11.0,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Hidden Lake Overlook",
+        "url": "https://www.alltrails.com/trail/us/montana/hidden-lake-overlook",
+        "length_miles": 2.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "glen-canyon-national-recreation-area": {
+    "parkLabel": "Glen Canyon National Recreation Area",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/glen-canyon-national-recreation-area",
+    "trails": [
+      {
+        "name": "Horseshoe Bend Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/horseshoe-bend-trail",
+        "length_miles": 1.6,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "grand-canyon-national-park": {
+    "parkLabel": "Grand Canyon National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/grand-canyon-national-park",
+    "trails": [
+      {
+        "name": "South Kaibab Trail to Ooh Aah Point",
+        "url": "https://www.alltrails.com/trail/us/arizona/south-kaibab-trail-to-ooh-aah-point",
+        "length_miles": 1.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "South Kaibab Trail to Cedar Ridge",
+        "url": "https://www.alltrails.com/trail/us/arizona/south-kaibab-trail",
+        "length_miles": 3.4,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "South Kaibab Trail to Skeleton Point",
+        "url": "https://www.alltrails.com/trail/us/arizona/south-kaibab-trail-to-skeleton-point",
+        "length_miles": 6.0,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "grand-canyon-preserve-national-game-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "grand-teton-national-park": {
+    "parkLabel": "Grand Teton National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/wyoming/grand-teton-national-park",
+    "trails": [
+      {
+        "name": "Delta Lake via Lupine Meadows Access",
+        "url": "https://www.alltrails.com/trail/us/wyoming/delta-lake-via-lupine-meadows-access",
+        "length_miles": 7.6,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Taggart Lake Loop",
+        "url": "https://www.alltrails.com/trail/us/wyoming/taggart-lake-loop--2",
+        "length_miles": 3.8,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Cascade Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/cascade-canyon-trail",
+        "length_miles": 9.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "great-basin-national-park": {
+    "parkLabel": "Great Basin National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/nevada/great-basin-national-park",
+    "trails": [
+      {
+        "name": "Baker Creek Loop",
+        "url": "https://www.alltrails.com/trail/us/nevada/baker-creek-loop",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Lehman Creek Trail",
+        "url": "https://www.alltrails.com/trail/us/nevada/lehman-creek-trail",
+        "length_miles": 6.7,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.4
+      },
+      {
+        "name": "Mountain View Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/nevada/mountain-view-nature-trail-3",
+        "length_miles": 0.4,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "great-sand-dunes-national-park-and-preserve": {
+    "parkLabel": "Great Sand Dunes National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/great-sand-dunes-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "High Dune Loop",
+        "url": "https://www.alltrails.com/trail/us/colorado/high-dune-loop",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "High Dune on First Ridge",
+        "url": "https://www.alltrails.com/trail/us/colorado/high-dune-trail",
+        "length_miles": 3.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Dunes Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/dunes-overlook-trail",
+        "length_miles": 2.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "great-smoky-mountains-national-park": {
+    "parkLabel": "Great Smoky Mountains National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/tennessee/great-smoky-mountains-national-park",
+    "trails": [
+      {
+        "name": "Alum Cave Trail to Mount LeConte",
+        "url": "https://www.alltrails.com/trail/us/tennessee/alum-cave-trail-to-mount-leconte",
+        "length_miles": 11.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Peregrine Peak via Alum Cave Bluff Trail",
+        "url": "https://www.alltrails.com/trail/us/tennessee/peregrine-peak-via-alum-cave-bluffs-trail",
+        "length_miles": 4.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Rainbow Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/tennessee/rainbow-falls-trail",
+        "length_miles": 5.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "guadalupe-mountains-national-park": {
+    "parkLabel": "Guadalupe Mountains National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/texas/guadalupe-mountains-national-park",
+    "trails": [
+      {
+        "name": "Guadalupe Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/texas/guadalupe-peak-texas-highpoint-trail",
+        "length_miles": 8.5,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Devil's Hall Trail",
+        "url": "https://www.alltrails.com/trail/us/texas/devils-hall",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Smith Spring and Manzanita Spring Loop",
+        "url": "https://www.alltrails.com/trail/us/texas/smith-spring-and-manzanita-spring-loop",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "gunnison-national-forest": {
+    "parkLabel": "Gunnison National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/gunnison-national-forest",
+    "trails": [
+      {
+        "name": "Snodgrass Mountain Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/snodgrass-mountain-trail",
+        "length_miles": 6.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "haleakala-national-park": {
+    "parkLabel": "Haleakalā National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/hawaii/haleakala-national-park",
+    "trails": [
+      {
+        "name": "Waimoku Falls via Pipiwai Trail",
+        "url": "https://www.alltrails.com/trail/hawaii/maui/waimoku-falls-via-pipiwai-trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Keonehe'ehe'e Trail to Halemauu Trail",
+        "url": "https://www.alltrails.com/trail/hawaii/maui/keoneheehee-trail-to-halemauu-trail",
+        "length_miles": 11.0,
+        "difficulty": "Hard",
+        "route_type": "Point to point",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Seven Sacred Pools Trail ('Ohe'o Gulch)",
+        "url": "https://www.alltrails.com/trail/hawaii/maui/seven-sacred-pools-trail-oheo-gulch",
+        "length_miles": 0.6,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "hawai-i-volcanoes-national-park": {
+    "parkLabel": "Hawai'i Volcanoes National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/hawaii/hawaii-volcanoes-national-park",
+    "trails": [
+      {
+        "name": "Kīlauea Iki and Crater Rim Trail",
+        "url": "https://www.alltrails.com/trail/hawaii/hawaii/kilauea-iki-trail-and-crater-rim-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Kīlauea Iki Craters Trail",
+        "url": "https://www.alltrails.com/trail/hawaii/hawaii/kilauea-craters-trail",
+        "length_miles": 4.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Nāhuku (Thurston Lava Tube) Trail",
+        "url": "https://www.alltrails.com/trail/hawaii/hawaii/thurston-lava-tube-trail",
+        "length_miles": 0.4,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "hawaiian-islands-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "helena-national-forest": {
+    "parkLabel": "Helena National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/helena-national-forest",
+    "trails": [
+      {
+        "name": "Crow Creek Falls",
+        "url": "https://www.alltrails.com/trail/us/montana/crow-creek-falls",
+        "length_miles": 5.9,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "hiawatha-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "hot-springs-national-park": {
+    "parkLabel": "Hot Springs National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arkansas/hot-springs-national-park",
+    "trails": [
+      {
+        "name": "Goat Rock Trail",
+        "url": "https://www.alltrails.com/trail/us/arkansas/goat-rock-trail--3",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Hot Spring Mountain Loop via Gulpha Gorge Trail",
+        "url": "https://www.alltrails.com/trail/us/arkansas/hot-springs-mountain-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Hot Springs Mountain Trail Loop to Gulpha Gorge and Goat Rock",
+        "url": "https://www.alltrails.com/trail/us/arkansas/hot-springs-mountain-trail-loop-to-gulpha-gorge-and-goat-rock",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "hubbell-trading-post-national-historic-site": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "humboldt-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "huron-national-forest": {
+    "parkLabel": "Huron National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/michigan/huron-national-forest",
+    "trails": [
+      {
+        "name": "Lumbermens Monument via Highbanks Hiking Trail",
+        "url": "https://www.alltrails.com/trail/us/michigan/lumbermens-monument-trail",
+        "length_miles": 3.7,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Highbanks Trail",
+        "url": "https://www.alltrails.com/trail/us/michigan/highbanks-trail",
+        "length_miles": 13.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Eagle Run Loop",
+        "url": "https://www.alltrails.com/trail/us/michigan/eagle-run-loop",
+        "length_miles": 4.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "huron-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "indiana-dunes-national-park": {
+    "parkLabel": "Indiana Dunes National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/indiana/indiana-dunes-national-park",
+    "trails": [
+      {
+        "name": "West Beach - Dune Succession Trail",
+        "url": "https://www.alltrails.com/trail/us/indiana/west-beach-dune-succession-trail",
+        "length_miles": 1.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Cowles Bog Trail",
+        "url": "https://www.alltrails.com/trail/us/indiana/cowles-bog-trail--4",
+        "length_miles": 4.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Dune Succession, West Beach, and Long Lake Loop",
+        "url": "https://www.alltrails.com/trail/us/indiana/west-beach-3-loop-trail",
+        "length_miles": 3.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "inyo-national-forest": {
+    "parkLabel": "Inyo National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/inyo-national-forest",
+    "trails": [
+      {
+        "name": "Mount Whitney Trail",
+        "url": "https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail",
+        "length_miles": 22.1,
+        "difficulty": "Strenuous",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "island-bay-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "isle-royale-national-park": {
+    "parkLabel": "Isle Royale National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/michigan/isle-royale-national-park",
+    "trails": [
+      {
+        "name": "Scoville Point via Stoll Trail",
+        "url": "https://www.alltrails.com/trail/us/michigan/scoville-point-via-stoll-trail",
+        "length_miles": 4.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Suzy’s Cave Trail",
+        "url": "https://www.alltrails.com/trail/us/michigan/suzy-s-cave-trail",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "jewel-cave-national-monument": {
+    "parkLabel": "Jewel Cave National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/south-dakota/jewel-cave-national-monument",
+    "trails": [
+      {
+        "name": "Canyons Trail",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/canyons-trail",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      },
+      {
+        "name": "Roof Trail",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/roof-trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "joshua-tree-national-park": {
+    "parkLabel": "Joshua Tree National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/joshua-tree-national-park",
+    "trails": [
+      {
+        "name": "Ryan Mountain Trail",
+        "url": "https://www.alltrails.com/trail/us/california/ryan-mountain-trail",
+        "length_miles": 2.9,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Barker Dam",
+        "url": "https://www.alltrails.com/trail/us/california/barker-dam--2",
+        "length_miles": 1.3,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Hidden Valley",
+        "url": "https://www.alltrails.com/trail/us/california/hidden-valley--3",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "kaibab-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "katmai-national-park-and-preserve": {
+    "parkLabel": "Katmai National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/katmai-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "Brooks Lodge, Brooks River Bridge, Riffles Platform and Brooks Falls",
+        "url": "https://www.alltrails.com/trail/us/alaska/brooks-lodge-brooks-river-bridge-riffles-platform-and-brooks-falls",
+        "length_miles": 2.9,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Brooks Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/brooks-falls-trail",
+        "length_miles": 1.2,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Windy Creek Overlook and Ukak Falls",
+        "url": "https://www.alltrails.com/trail/us/alaska/windy-creek-overlook-and-ukak-falls",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "kenai-fjords-national-park": {
+    "parkLabel": "Kenai Fjords National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/kenai-fjords-national-park",
+    "trails": [
+      {
+        "name": "Harding Icefield Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/harding-ice-field-trail",
+        "length_miles": 8.9,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Exit Glacier View and Overlook Loop",
+        "url": "https://www.alltrails.com/trail/us/alaska/exit-glacier-overlook-trail",
+        "length_miles": 2.2,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Exit Glacier View Loop",
+        "url": "https://www.alltrails.com/trail/us/alaska/exit-glacier-view-loop",
+        "length_miles": 1.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "key-west-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "klamath-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "kobuk-valley-national-park": {
+    "parkLabel": "Kobuk Valley National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/kobuk-valley-national-park",
+    "trails": [
+      {
+        "name": "Kobuk Giant Sand Dunes",
+        "url": "https://www.alltrails.com/trail/us/alaska/kobuk-giant-sand-dunes",
+        "length_miles": 14.6,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 2.2
+      }
+    ]
+  },
+  "kootenai-national-forest": {
+    "parkLabel": "Kootenai National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/kootenai-national-forest",
+    "trails": [
+      {
+        "name": "Kootenai Falls and Swinging Bridge Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/kootenai-falls-and-swinging-bridge-trail",
+        "length_miles": 1.6,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Leigh Lake",
+        "url": "https://www.alltrails.com/trail/us/montana/leigh-lake",
+        "length_miles": 3.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Rock Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/rock-lake-trail",
+        "length_miles": 8.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "korean-war-veterans-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "lake-clark-national-park-and-preserve": {
+    "parkLabel": "Lake Clark National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/lake-clark-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "Beaver Pond Loop",
+        "url": "https://www.alltrails.com/trail/us/alaska/beaver-pond-loop",
+        "length_miles": 3.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Tanalian Falls",
+        "url": "https://www.alltrails.com/trail/us/alaska/tanalian-falls--2",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Kontrashibuna Lake via Tanalian Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/tanalian-falls",
+        "length_miles": 6.5,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "lassen-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "lassen-volcanic-national-park": {
+    "parkLabel": "Lassen Volcanic National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/lassen-volcanic-national-park",
+    "trails": [
+      {
+        "name": "Bumpass Hell Trail",
+        "url": "https://www.alltrails.com/trail/us/california/bumpass-hell",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Lassen Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/california/lassen-peak",
+        "length_miles": 4.9,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Cinder Cone Trail",
+        "url": "https://www.alltrails.com/trail/us/california/cinder-cone-trail--2",
+        "length_miles": 4.7,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "lbj-memorial-grove-on-the-potomac": {
+    "parkLabel": "Lyndon Baines Johnson Memorial Grove on the Potomac National Memorial",
+    "parkUrl": "https://www.alltrails.com/parks/us/virginia/lyndon-baines-johnson-memorial-grove-on-the-potomac-national-memorial",
+    "trails": [
+      {
+        "name": "Lyndon Baines Johnson Memorial Grove Loop",
+        "url": "https://www.alltrails.com/trail/us/virginia/lyndon-baines-johnson-memorial-grove-loop",
+        "length_miles": 0.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "lincoln-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "lincoln-national-forest": {
+    "parkLabel": "Lincoln National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/lincoln-national-forest",
+    "trails": [
+      {
+        "name": "Osha Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/osha-trail--2",
+        "length_miles": 2.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Grindstone Canyon Loop",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/grindstone-lake-loop",
+        "length_miles": 6.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Mexican Canyon Trestle",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/mexican-canyon-trestle",
+        "length_miles": 2.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "lolo-national-forest": {
+    "parkLabel": "Lolo National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/lolo-national-forest",
+    "trails": [
+      {
+        "name": "Morrell Falls National Recreation Trail",
+        "url": "https://www.alltrails.com/trail/us/montana/morrell-falls-national-recreation-trail",
+        "length_miles": 5.5,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "los-padres-national-forest": {
+    "parkLabel": "Los Padres National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/los-padres-national-forest",
+    "trails": [
+      {
+        "name": "Santa Paula Canyon to First Falls",
+        "url": "https://www.alltrails.com/trail/us/california/santa-paula-canyon-to-first-falls",
+        "length_miles": 7.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Punchbowls via Santa Paula and Last Chance Trail",
+        "url": "https://www.alltrails.com/trail/us/california/punchbowls-via-santa-paula-and-last-chance-trail",
+        "length_miles": 11.5,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "lower-klamath-national-wildlife-refuge": {
+    "parkLabel": "Lower Klamath National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/lower-klamath-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Wildlife Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/california/wildlife-overlook-trail",
+        "length_miles": 0.4,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.0
+      },
+      {
+        "name": "Klamath Refuge",
+        "url": "https://www.alltrails.com/trail/us/california/klamath-refuge",
+        "length_miles": 5.3,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.1
+      }
+    ]
+  },
+  "malheur-national-forest": {
+    "parkLabel": "Malheur National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/malheur-national-forest",
+    "trails": [
+      {
+        "name": "Idlewild Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/idlewild-loop-trail--2",
+        "length_miles": 2.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 3.9
+      }
+    ]
+  },
+  "malheur-national-wildlife-refuge": {
+    "parkLabel": "Malheur National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/malheur-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Frenchglen Warm Spring Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/frenchglen-warm-spring-trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 3.4
+      },
+      {
+        "name": "Diamond Craters",
+        "url": "https://www.alltrails.com/trail/us/oregon/diamond-craters",
+        "length_miles": 29.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.1
+      },
+      {
+        "name": "East Canal Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/east-canal-trail",
+        "length_miles": 3.0,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 3.7
+      }
+    ]
+  },
+  "mammoth-cave-national-park": {
+    "parkLabel": "Mammoth Cave National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/kentucky/mammoth-cave-national-park",
+    "trails": [
+      {
+        "name": "Green River Bluff, Echo River Springs, Sinkhole and Heritage Trail",
+        "url": "https://www.alltrails.com/trail/us/kentucky/green-river-bluff-echo-river-springs-sinkhole-and-heritage-trail",
+        "length_miles": 4.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Dixon Cave, Green River Bluffs, and River Styx Spring Loop",
+        "url": "https://www.alltrails.com/trail/us/kentucky/dixon-cave-green-river-bluffs-and-river-styx-spring-loop",
+        "length_miles": 1.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Green River Bluffs and Heritage Loop",
+        "url": "https://www.alltrails.com/trail/us/kentucky/green-river-bluffs-trail--2",
+        "length_miles": 2.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "manti-la-sal-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "martin-luther-king-jr-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "matlacha-pass-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "medicine-bow-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "mendocino-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "mesa-verde-national-park": {
+    "parkLabel": "Mesa Verde National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/mesa-verde-national-park",
+    "trails": [
+      {
+        "name": "Petroglyph Point Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/petroglyph-point-trail",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Soda Canyon Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/soda-canyon-overlook-trail",
+        "length_miles": 1.3,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      },
+      {
+        "name": "Mesa Verde Point Lookout Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/mesa-verde-point-lookout-trail",
+        "length_miles": 2.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "midway-atoll-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "minidoka-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "modoc-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "montezuma-castle-national-monument": {
+    "parkLabel": "Montezuma Castle National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/montezuma-castle-national-monument",
+    "trails": [
+      {
+        "name": "Montezuma Castle National Monument Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/montezuma-castle-national-monument-trail",
+        "length_miles": 0.4,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Montezuma Well Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/montezumas-well-trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "montezuma-national-wildlife-refuge": {
+    "parkLabel": "Montezuma National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-york/montezuma-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Esker Brook Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/new-york/esker-brook-nature-trail",
+        "length_miles": 1.3,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.2
+      },
+      {
+        "name": "Seneca Trail at Montezuma",
+        "url": "https://www.alltrails.com/trail/us/new-york/seneca-trail-at-montezuma",
+        "length_miles": 0.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.2
+      },
+      {
+        "name": "South Spring Pool Trail and Esker Brook Trail",
+        "url": "https://www.alltrails.com/trail/us/new-york/south-spring-pool-trail-and-esker-brook-trail",
+        "length_miles": 2.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.4
+      }
+    ]
+  },
+  "mount-rainier-national-park": {
+    "parkLabel": "Mount Rainier National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/washington/mount-rainier-national-park",
+    "trails": [
+      {
+        "name": "Skyline Loop",
+        "url": "https://www.alltrails.com/trail/us/washington/skyline-trail",
+        "length_miles": 5.7,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Panorama Point via Skyline Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/panorama-point-via-skyline-trail",
+        "length_miles": 3.9,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Naches Peak Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/naches-peak-loop-trail",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "muir-woods-national-monument": {
+    "parkLabel": "Muir Woods National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/muir-woods-national-monument",
+    "trails": [
+      {
+        "name": "Fern Creek, Lost, and Canopy Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/california/fern-creek-lost-and-canopy-trail-loop",
+        "length_miles": 3.1,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Fern Creek and Hillside Loop",
+        "url": "https://www.alltrails.com/trail/us/california/fern-creek-and-hillside-loop",
+        "length_miles": 2.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Bootjack Loop",
+        "url": "https://www.alltrails.com/trail/us/california/bootjack-trail-loop",
+        "length_miles": 6.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "national-park-of-american-samoa": {
+    "parkLabel": "National Park of American Samoa",
+    "parkUrl": "https://www.alltrails.com/parks/us/american-samoa/national-park-of-american-samoa",
+    "trails": [
+      {
+        "name": "Lower Sauma Ridge Trail",
+        "url": "https://www.alltrails.com/trail/american-samoa/tutuila/lower-sauma-ridge-trail",
+        "length_miles": 0.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Tuafanua Trail",
+        "url": "https://www.alltrails.com/trail/american-samoa/tutuila/tuafanua-trail",
+        "length_miles": 1.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.4
+      },
+      {
+        "name": "Pola Island Trail",
+        "url": "https://www.alltrails.com/trail/american-samoa/tutuila/pola-island-trail",
+        "length_miles": 0.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "natural-bridges-national-monument": {
+    "parkLabel": "Natural Bridges National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/natural-bridges-national-monument",
+    "trails": [
+      {
+        "name": "Sipapu Bridge",
+        "url": "https://www.alltrails.com/trail/us/utah/sipapu-bridge-trail",
+        "length_miles": 1.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Owachomo Bridge Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/owachomo-bridge-trail",
+        "length_miles": 0.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Sipapu Bridge to Kachina Bridge Loop",
+        "url": "https://www.alltrails.com/trail/us/utah/sipapu-bridge-to-kachina-bridge-loop",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "nebraska-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "new-river-gorge-national-park-and-preserve": {
+    "parkLabel": "New River Gorge National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/west-virginia/new-river-gorge-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "Endless Wall Trail",
+        "url": "https://www.alltrails.com/trail/us/west-virginia/endless-wall",
+        "length_miles": 5.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Long Point Trail",
+        "url": "https://www.alltrails.com/trail/us/west-virginia/long-point",
+        "length_miles": 3.1,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Diamond Point Overlook via Endless Wall Trail",
+        "url": "https://www.alltrails.com/trail/us/west-virginia/diamond-point-overlook-via-endless-wall-trail",
+        "length_miles": 2.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "north-cascades-national-park": {
+    "parkLabel": "North Cascades National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/washington/north-cascades-national-park",
+    "trails": [
+      {
+        "name": "Thunder Knob Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/thunder-knob-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Cascade Pass and Sahale Arm Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/cascade-pass-and-sahale-arm-trail--2",
+        "length_miles": 11.7,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Cascade Pass Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/cascade-pass-trail--3",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "ocala-national-forest": {
+    "parkLabel": "Ocala National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/florida/ocala-national-forest",
+    "trails": [
+      {
+        "name": "St. Francis Trail",
+        "url": "https://www.alltrails.com/trail/us/florida/st-francis-trail-ocala-national-forest",
+        "length_miles": 7.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "ochoco-national-forest": {
+    "parkLabel": "Ochoco National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/ochoco-national-forest",
+    "trails": [
+      {
+        "name": "Steins Pillar Trail",
+        "url": "https://www.alltrails.com/trail/us/oregon/steins-pillar-trail--2",
+        "length_miles": 4.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "olympic-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "olympic-national-park": {
+    "parkLabel": "Olympic National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/washington/olympic-national-park",
+    "trails": [
+      {
+        "name": "Mount Storm King",
+        "url": "https://www.alltrails.com/trail/us/washington/mount-storm-king",
+        "length_miles": 4.4,
+        "difficulty": "Strenuous",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Marymere Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/washington/marymere-falls-trail",
+        "length_miles": 1.8,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Hurricane Hill via Hurricane Ridge",
+        "url": "https://www.alltrails.com/trail/us/washington/hurricane-hill-via-hurricane-ridge",
+        "length_miles": 3.5,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "ouachita-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "ozark-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "passage-key-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "pathfinder-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "payette-national-forest": {
+    "parkLabel": "Payette National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/idaho/payette-national-forest",
+    "trails": [
+      {
+        "name": "Goose Creek Falls",
+        "url": "https://www.alltrails.com/trail/us/idaho/goose-creek-falls",
+        "length_miles": 3.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Boulder Lake Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/boulder-lake-trail",
+        "length_miles": 6.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Louie Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/louie-lake-trail",
+        "length_miles": 2.9,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "pelican-island-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "pennsylvania-avenue": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "petrified-forest-national-park": {
+    "parkLabel": "Petrified Forest National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/petrified-forest-national-park",
+    "trails": [
+      {
+        "name": "Blue Mesa Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/blue-mesa-trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Crystal Forest Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/crystal-forest-trail",
+        "length_miles": 0.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Historic Blue Forest Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/historic-blue-forest-trail--2",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "pike-national-forest": {
+    "parkLabel": "Pike National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/pike-national-forest",
+    "trails": [
+      {
+        "name": "The Manitou Incline",
+        "url": "https://www.alltrails.com/trail/us/colorado/the-manitou-incline",
+        "length_miles": 4.1,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "pine-island-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "pinellas-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "pinnacles-national-park": {
+    "parkLabel": "Pinnacles National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/pinnacles-national-park",
+    "trails": [
+      {
+        "name": "Condor Gulch Trail to High Peaks Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/california/high-peaks-condor-gulch-trail",
+        "length_miles": 5.5,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Moses Spring and Rim Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/california/moses-spring-and-rim-trail-loop",
+        "length_miles": 2.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "High Peaks and Balconies Cave Loop",
+        "url": "https://www.alltrails.com/trail/us/california/high-peaks-balconies-cave-pinnacles-nm",
+        "length_miles": 8.6,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "plumas-national-forest": {
+    "parkLabel": "Plumas National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/plumas-national-forest",
+    "trails": [
+      {
+        "name": "Bear Lakes and Round Lake Loop",
+        "url": "https://www.alltrails.com/trail/us/california/bear-lakes-and-round-lake-loop-trail",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Feather Falls Loop",
+        "url": "https://www.alltrails.com/trail/us/california/feather-falls-loop-trail",
+        "length_miles": 8.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "quillayute-needles-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "rainbow-bridge-national-monument": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "redwood-national-and-state-parks": {
+    "parkLabel": "Redwood National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/redwood-national-park",
+    "trails": [
+      {
+        "name": "Lady Bird Johnson Grove Trail",
+        "url": "https://www.alltrails.com/trail/us/california/lady-bird-grove-trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Trillium Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/california/trillium-falls-trail",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "rio-grande-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "rock-creek-park": {
+    "parkLabel": "Rock Creek Park and Piney Branch Parkway",
+    "parkUrl": "https://www.alltrails.com/parks/us/district-of-columbia/rock-creek-park-and-piney-branch-parkway",
+    "trails": [
+      {
+        "name": "Boulder Bridge Loop",
+        "url": "https://www.alltrails.com/trail/us/washington-dc/boulder-bridge-loop",
+        "length_miles": 3.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Southern Loop via Western Ridge Trail, Rock Creek, Valley Trail",
+        "url": "https://www.alltrails.com/trail/us/washington-dc/western-ridge-trail-rock-creek-valley-trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Western Ridge and Valley Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/washington-dc/western-ridge-and-valley-trail-loop",
+        "length_miles": 3.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "rocky-mountain-national-park": {
+    "parkLabel": "Rocky Mountain National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/rocky-mountain-national-park",
+    "trails": [
+      {
+        "name": "Emerald Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/emerald-lake-trail",
+        "length_miles": 3.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Sky Pond via Glacier Gorge Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/sky-pond-via-glacier-gorge-trail",
+        "length_miles": 9.0,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Lake Haiyaha",
+        "url": "https://www.alltrails.com/trail/us/colorado/lake-haiyaha",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "roosevelt-national-forest": {
+    "parkLabel": "Roosevelt National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/roosevelt-national-forest",
+    "trails": [
+      {
+        "name": "Lost Lake via Hessie Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/lost-lake-via-hessie-trail",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "routt-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "sagamore-hill-national-historic-site": {
+    "parkLabel": "Sagamore Hill National Historic Site",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-york/sagamore-hill-national-historic-site",
+    "trails": [
+      {
+        "name": "Sagamore Hill Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/new-york/sagamore-hill-nature-trail",
+        "length_miles": 1.4,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "saguaro-national-park": {
+    "parkLabel": "Saguaro National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/saguaro-national-park",
+    "trails": [
+      {
+        "name": "Wasson Peak via Kings Canyon, Hugh Norris, and Gould Mine",
+        "url": "https://www.alltrails.com/trail/us/arizona/wasson-peak-via-king-canyon-and-hugh-norris-trail",
+        "length_miles": 7.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "salmon-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "samuel-r-mckelvie-national-forest": {
+    "parkLabel": "Samuel R. McKelvie National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/nebraska/samuel-r-mckelvie-national-forest",
+    "trails": [
+      {
+        "name": "Samuel McKelvie Bluejay Trail",
+        "url": "https://www.alltrails.com/trail/us/nebraska/samuel-mckelvie-bluejay-trail",
+        "length_miles": 1.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 2.3
+      }
+    ]
+  },
+  "san-bernardino-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "san-isabel-national-forest": {
+    "parkLabel": "San Isabel National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/san-isabel-national-forest",
+    "trails": [
+      {
+        "name": "North Mount Elbert Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/north-mount-elbert-trail--3",
+        "length_miles": 10.0,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "san-juan-islands-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "san-juan-national-forest": {
+    "parkLabel": "San Juan National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/san-juan-national-forest",
+    "trails": [
+      {
+        "name": "Island Lake and Ice Lake via Ice Lakes Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/island-lake-and-ice-lake-via-ice-lakes-trail",
+        "length_miles": 7.6,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Island Lake via Ice Lakes Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/island-lake-via-ice-lakes-trail",
+        "length_miles": 8.2,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Piedra River Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/piedra-river-trail",
+        "length_miles": 7.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "santa-fe-national-forest": {
+    "parkLabel": "Santa Fe National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/santa-fe-national-forest",
+    "trails": [
+      {
+        "name": "Nambe Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/nambe-lake-trail",
+        "length_miles": 6.5,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "sawtooth-national-forest": {
+    "parkLabel": "Sawtooth National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/idaho/sawtooth-national-forest",
+    "trails": [
+      {
+        "name": "Proctor Mountain Trail",
+        "url": "https://www.alltrails.com/trail/us/idaho/proctor-mountain-trail",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "sequoia-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "shasta-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "shell-keys-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "shenandoah-national-park": {
+    "parkLabel": "Shenandoah National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/virginia/shenandoah-national-park",
+    "trails": [
+      {
+        "name": "Old Rag Mountain Loop",
+        "url": "https://www.alltrails.com/trail/us/virginia/old-rag-mountain-loop-trail",
+        "length_miles": 9.4,
+        "difficulty": "Strenuous",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Rose River Trail",
+        "url": "https://www.alltrails.com/trail/us/virginia/rose-river-trail",
+        "length_miles": 4.1,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Dark Hollow Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/virginia/dark-hollow-falls-trail",
+        "length_miles": 1.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "shoshone-national-forest": {
+    "parkLabel": "Shoshone National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/wyoming/shoshone-national-forest",
+    "trails": [
+      {
+        "name": "Popo Agie Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/popo-agie-falls-trail--3",
+        "length_miles": 3.6,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "sierra-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "siskiyou-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "siuslaw-national-forest": {
+    "parkLabel": "Siuslaw National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/siuslaw-national-forest",
+    "trails": [
+      {
+        "name": "The Thumb via The Knoll",
+        "url": "https://www.alltrails.com/trail/us/oregon/gods-thumb-via-the-knoll",
+        "length_miles": 4.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "The Knoll Loop",
+        "url": "https://www.alltrails.com/trail/us/oregon/god-s-thumb-the-knoll-loop",
+        "length_miles": 2.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Drift Creek Suspension Bridge and Waterfall (Trail #1378)",
+        "url": "https://www.alltrails.com/trail/us/oregon/drift-creek-falls-trail-1378",
+        "length_miles": 3.2,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "six-rivers-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "st-joe-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "stanislaus-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "statue-of-liberty-national-monument": {
+    "parkLabel": "Statue Of Liberty National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-york/statue-of-liberty-national-monument",
+    "trails": [
+      {
+        "name": "Statue of Liberty National Monument Loop",
+        "url": "https://www.alltrails.com/trail/us/new-york/statue-of-liberty-national-moment-loop",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "stump-lake-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "superior-national-forest": {
+    "parkLabel": "Superior National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/minnesota/superior-national-forest",
+    "trails": [
+      {
+        "name": "Bean and Bear Lake Loop via Superior Hiking Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-bean-and-bear-lake-loop",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Oberg Mountain Loop Via Superior Hiking Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/oberg-mountain-loop-via-superior-hiking-trail",
+        "length_miles": 2.4,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "tahoe-national-forest": {
+    "parkLabel": "Tahoe National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/tahoe-national-forest",
+    "trails": [
+      {
+        "name": "Shirley Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/california/shirley-canyon-cascades-trail",
+        "length_miles": 4.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Donner Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/california/donner-peak-trail",
+        "length_miles": 3.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "targhee-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "the-white-house-and-presidents-park": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "theodore-roosevelt-island": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "theodore-roosevelt-national-park": {
+    "parkLabel": "Theodore Roosevelt National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/north-dakota/theodore-roosevelt-national-park",
+    "trails": [
+      {
+        "name": "Caprock Coulee Loop",
+        "url": "https://www.alltrails.com/trail/us/north-dakota/caprock-coulee-loop",
+        "length_miles": 4.2,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Painted Canyon Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/north-dakota/painted-canyon-nature-trail",
+        "length_miles": 1.1,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.4
+      },
+      {
+        "name": "Wind Canyon Trail",
+        "url": "https://www.alltrails.com/trail/us/north-dakota/wind-canyon-trail",
+        "length_miles": 0.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      }
+    ]
+  },
+  "three-arch-rocks-national-wildlife-refuge": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "toiyabe-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "tongass-national-forest": {
+    "parkLabel": "Tongass National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/tongass-national-forest",
+    "trails": [
+      {
+        "name": "Nugget Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/nugget-falls-trail",
+        "length_miles": 1.9,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "tonto-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "tonto-national-monument": {
+    "parkLabel": "Tonto National Monument",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/tonto-national-monument",
+    "trails": [
+      {
+        "name": "Lower Cliff Dwelling and Cactus Patch Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/lower-cliff-dwelling-and-cactus-patch-trail",
+        "length_miles": 0.9,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Lower Cliff Dwelling Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/lower-cliff-dwelling-trail",
+        "length_miles": 0.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Upper Cliff Dwelling Trail",
+        "url": "https://www.alltrails.com/trail/us/arizona/upper-cliff-dwelling-trail",
+        "length_miles": 2.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "trinity-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "tumacacori-national-historical-park": {
+    "parkLabel": "Tumacacori National Historical Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/arizona/tumacacori-national-historical-park",
+    "trails": [
+      {
+        "name": "Tumacacori Historic Walking Tour",
+        "url": "https://www.alltrails.com/trail/us/arizona/tumacacori-historic-walking-tour",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "tuskegee-institute-national-historic-site": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "umatilla-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "umpqua-national-forest": {
+    "parkLabel": "Umpqua National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/oregon/umpqua-national-forest",
+    "trails": [
+      {
+        "name": "Toketee Falls",
+        "url": "https://www.alltrails.com/trail/us/oregon/toketee-falls",
+        "length_miles": 0.8,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Watson Falls",
+        "url": "https://www.alltrails.com/trail/us/oregon/watson-falls",
+        "length_miles": 0.9,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "uncompahgre-national-forest": {
+    "parkLabel": "Uncompahgre National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/uncompahgre-national-forest",
+    "trails": [
+      {
+        "name": "Ouray Perimeter Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/ouray-perimeter-trail",
+        "length_miles": 5.6,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Bridal Veil Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/bridal-veil-falls-trail--6",
+        "length_miles": 2.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "vietnam-veterans-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "virgin-islands-national-park": {
+    "parkLabel": "Virgin Islands National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/us-virgin-islands/virgin-islands-national-park",
+    "trails": [
+      {
+        "name": "Ram Head Trail",
+        "url": "https://www.alltrails.com/trail/us-virgin-islands/saint-john/ram-head-trail",
+        "length_miles": 2.7,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Reef Bay Trail",
+        "url": "https://www.alltrails.com/trail/us/saint-john/reef-bay-trail",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Lind Point Trail to Honeymoon Beach",
+        "url": "https://www.alltrails.com/trail/us-virgin-islands/saint-john/lind-point-trail",
+        "length_miles": 2.1,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "voyageurs-national-park": {
+    "parkLabel": "Voyageurs National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/minnesota/voyageurs-national-park",
+    "trails": [
+      {
+        "name": "Blind Ash Bay Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/blind-ash-bay-trail",
+        "length_miles": 3.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.4
+      },
+      {
+        "name": "Oberholtzer Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/oberholtzer-trail--3",
+        "length_miles": 1.7,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.3
+      },
+      {
+        "name": "Beaver Pond Overlook Trail",
+        "url": "https://www.alltrails.com/trail/us/minnesota/beaver-pond-overlook-trail",
+        "length_miles": 0.3,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.4
+      }
+    ]
+  },
+  "wallowa-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "wasatch-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "washington-monument": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "wheeler-national-wildlife-refuge": {
+    "parkLabel": "Wheeler National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/alabama/wheeler-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Wheeler Hiking and Biking trail",
+        "url": "https://www.alltrails.com/trail/us/alabama/wheeler-hiking-and-biking-trail",
+        "length_miles": 4.6,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Beaverdam Swamp Boardwalk",
+        "url": "https://www.alltrails.com/trail/us/alabama/beaverdam-swamp-boardwalk",
+        "length_miles": 1.1,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.3
+      },
+      {
+        "name": "Flint Creek Trail",
+        "url": "https://www.alltrails.com/trail/us/alabama/flint-creek-trail",
+        "length_miles": 1.5,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.3
+      }
+    ]
+  },
+  "white-horse-hill-national-game-preserve": {
+    "parkLabel": "White Horse Hill Natural Game Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/north-dakota/white-horse-hill-natural-game-preserve",
+    "trails": [
+      {
+        "name": "White Horse Loop",
+        "url": "https://www.alltrails.com/trail/us/north-dakota/white-horse-loop",
+        "length_miles": 1.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.4
+      }
+    ]
+  },
+  "white-river-national-forest": {
+    "parkLabel": "White River National Forest",
+    "parkUrl": "https://www.alltrails.com/parks/us/colorado/white-river-national-forest",
+    "trails": [
+      {
+        "name": "Quandary Peak Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/quandary-peak-trail",
+        "length_miles": 7.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Hanging Lake Trail",
+        "url": "https://www.alltrails.com/trail/us/colorado/hanging-lake",
+        "length_miles": 3.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Mayflower Lake and Mohawk Lakes",
+        "url": "https://www.alltrails.com/trail/us/colorado/mayflower-lake-and-mohawk-lakes",
+        "length_miles": 7.3,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "white-sands-national-park": {
+    "parkLabel": "White Sands National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/new-mexico/white-sands-national-park",
+    "trails": [
+      {
+        "name": "Alkali Flat Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/alkali-flat-trail",
+        "length_miles": 4.3,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Dune Life Nature Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/dune-life-nature-trail",
+        "length_miles": 1.0,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "White Sands Backcountry Trail",
+        "url": "https://www.alltrails.com/trail/us/new-mexico/white-sands-backcountry-trail",
+        "length_miles": 1.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  "whitman-national-forest": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "wichita-mountains-wildlife-refuge": {
+    "parkLabel": "Wichita Mountains National Wildlife Refuge",
+    "parkUrl": "https://www.alltrails.com/parks/us/oklahoma/wichita-mountains-national-wildlife-refuge",
+    "trails": [
+      {
+        "name": "Longhorn Trail and Bison Loop",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/longhorn-trail-and-bison-loop",
+        "length_miles": 6.3,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Post Oak Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/post-oak-falls-trail",
+        "length_miles": 1.4,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Wichita Mountains Forty-Foot Hole",
+        "url": "https://www.alltrails.com/trail/us/oklahoma/wichita-mountains-forty-foot-hole",
+        "length_miles": 0.9,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "wind-cave-national-park": {
+    "parkLabel": "Wind Cave National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/south-dakota/wind-cave-national-park",
+    "trails": [
+      {
+        "name": "Rankin Ridge Interpretive Trail",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/rankin-ridge-interpretive-trail",
+        "length_miles": 1.0,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Lookout Point Trail and Centennial Trail Loop",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/lookout-point-trail-and-centennial-trail-loop",
+        "length_miles": 4.8,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Prairie Vista Loop",
+        "url": "https://www.alltrails.com/trail/us/south-dakota/prairie-vista-loop",
+        "length_miles": 0.9,
+        "difficulty": "Easy",
+        "route_type": "Loop",
+        "avg_rating": 4.2
+      }
+    ]
+  },
+  "world-war-i-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "world-war-ii-memorial": {
+    "parkLabel": null,
+    "parkUrl": null,
+    "trails": []
+  },
+  "wrangell-st-elias-national-park-and-preserve": {
+    "parkLabel": "Wrangell - St Elias National Park and Preserve",
+    "parkUrl": "https://www.alltrails.com/parks/us/alaska/wrangell-st-elias-national-park-and-preserve",
+    "trails": [
+      {
+        "name": "Root Glacier Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/root-glacier-trail",
+        "length_miles": 6.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Bonanza Mine Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/bonanza-mine-trail",
+        "length_miles": 8.6,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "West Kennecott Glacier Trail",
+        "url": "https://www.alltrails.com/trail/us/alaska/west-kennecott-glacier-trail",
+        "length_miles": 2.1,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  "yellowstone-national-park": {
+    "parkLabel": "Yellowstone National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/montana/yellowstone-national-park",
+    "trails": [
+      {
+        "name": "Mammoth Terraces",
+        "url": "https://www.alltrails.com/trail/us/wyoming/mammoth-terraces",
+        "length_miles": 2.2,
+        "difficulty": "Easy",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      },
+      {
+        "name": "Beaver Ponds Loop Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/beaver-ponds-loop",
+        "length_miles": 5.7,
+        "difficulty": "Moderate",
+        "route_type": "Loop",
+        "avg_rating": 4.7
+      },
+      {
+        "name": "Lamar Valley Trail",
+        "url": "https://www.alltrails.com/trail/us/wyoming/lamar-valley-trail",
+        "length_miles": 7.1,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.6
+      }
+    ]
+  },
+  "yosemite-national-park": {
+    "parkLabel": "Yosemite National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/california/yosemite-national-park",
+    "trails": [
+      {
+        "name": "Vernal and Nevada Falls via Mist Trail",
+        "url": "https://www.alltrails.com/trail/us/california/vernal-and-nevada-falls-via-the-mist-trail",
+        "length_miles": 6.8,
+        "difficulty": "Hard",
+        "route_type": "Loop",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Upper Yosemite Falls Trail",
+        "url": "https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail",
+        "length_miles": 7.1,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.8
+      },
+      {
+        "name": "Half Dome via the John Muir Trail (JMT)",
+        "url": "https://www.alltrails.com/trail/us/california/half-dome-via-the-john-muir-trail-jmt",
+        "length_miles": 17.0,
+        "difficulty": "Strenuous",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  },
+  "zion-national-park": {
+    "parkLabel": "Zion National Park",
+    "parkUrl": "https://www.alltrails.com/parks/us/utah/zion-national-park",
+    "trails": [
+      {
+        "name": "Angels Landing Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/angels-landing-trail",
+        "length_miles": 4.8,
+        "difficulty": "Strenuous",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Scout Lookout via West Rim Trail",
+        "url": "https://www.alltrails.com/trail/us/utah/scout-lookout-trail",
+        "length_miles": 3.7,
+        "difficulty": "Hard",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      },
+      {
+        "name": "Floating Rock via Zion Narrows Riverside Walk",
+        "url": "https://www.alltrails.com/trail/us/utah/elephant-temple-via-riverside-walk",
+        "length_miles": 7.0,
+        "difficulty": "Moderate",
+        "route_type": "Out & back",
+        "avg_rating": 4.9
+      }
+    ]
+  }
+}
