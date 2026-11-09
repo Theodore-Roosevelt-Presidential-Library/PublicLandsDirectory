@@ -1,0 +1,22 @@
+{
+  "slug": "yellowstone-national-park",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1872-03-01",
+      "action": "established",
+      "designation": "National Park",
+      "name": "Yellowstone National Park",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Ulysses S. Grant",
+        "administration": "Ulysses S. Grant",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

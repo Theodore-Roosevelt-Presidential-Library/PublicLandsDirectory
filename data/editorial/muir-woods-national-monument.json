@@ -1,0 +1,22 @@
+{
+  "slug": "muir-woods-national-monument",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1908-01-09",
+      "action": "established",
+      "designation": "National Monument",
+      "name": "Muir Woods National Monument",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

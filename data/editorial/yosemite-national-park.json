@@ -1,0 +1,37 @@
+{
+  "slug": "yosemite-national-park",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1864-06-30",
+      "action": "established",
+      "designation": "State grant (Yosemite Grant)",
+      "name": "Yosemite Grant",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Abraham Lincoln",
+        "administration": "Abraham Lincoln",
+        "citation": null
+      },
+      "note": "Granted Yosemite Valley and the Mariposa Grove to California.",
+      "sources": [],
+      "reviewed": false
+    },
+    {
+      "date": "1890-10-01",
+      "action": "established",
+      "designation": "National Park",
+      "name": "Yosemite National Park",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Benjamin Harrison",
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

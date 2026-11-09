@@ -1,0 +1,22 @@
+{
+  "slug": "pelican-island-national-wildlife-refuge",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1903-03-14",
+      "action": "established",
+      "designation": "Federal Bird Reservation",
+      "name": "Pelican Island Reservation",
+      "authority": {
+        "type": "executive-order",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": "Described as the first federal bird reservation (source needed before publishing).",
+      "sources": [],
+      "reviewed": false
+    }
+  ]
+}

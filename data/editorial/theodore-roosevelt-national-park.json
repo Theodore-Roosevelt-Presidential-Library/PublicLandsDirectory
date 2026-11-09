@@ -1,0 +1,55 @@
+{
+  "slug": "theodore-roosevelt-national-park",
+  "status": "draft",
+  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "designationHistory": [
+    {
+      "date": "1947-04-25",
+      "action": "established",
+      "designation": "National Memorial Park",
+      "name": "Theodore Roosevelt National Memorial Park",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    },
+    {
+      "date": "1978-11-10",
+      "action": "redesignated",
+      "designation": "National Park",
+      "name": "Theodore Roosevelt National Park",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [],
+      "reviewed": false
+    }
+  ],
+  "trConnection": {
+    "summary": "Theodore Roosevelt first came to the Dakota Badlands in September 1883 to hunt bison, and returned to ranch at the Maltese Cross and Elkhorn ranches. The park protects the landscape he credited with shaping him.",
+    "reviewed": false
+  },
+  "guide": {
+    "special": "Roosevelt’s own Badlands, protected as a national park. The park has three separate units: the South Unit at Medora, the North Unit near Watford City, and the remote Elkhorn Ranch Unit between them.",
+    "seeAndDo": "Look for bison, wild horses, prairie dogs, elk, pronghorn and bighorn sheep. Drive or bike the park roads, hike the badlands, paddle the Little Missouri River when water allows, and visit the site of Roosevelt’s Elkhorn Ranch.",
+    "tribalHomelands": null,
+    "reviewed": false
+  },
+  "links": {
+    "other": [
+      {
+        "label": "Theodore Roosevelt Presidential Library",
+        "url": "https://www.trlibrary.com"
+      }
+    ]
+  }
+}

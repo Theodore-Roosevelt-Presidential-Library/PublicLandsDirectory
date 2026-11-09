@@ -1,0 +1,9 @@
+{
+  "note": "Reviewed links from Theodore Roosevelt Day by Day place ids to directory sites, for places whose geocoded point falls just outside the simplified boundary. Add only places confirmed to be inside the site.",
+  "links": {
+    "elkhorn-ranch": "theodore-roosevelt-national-park",
+    "sagamore-hill": "sagamore-hill-national-historic-site",
+    "white-house": "the-white-house-and-presidents-park",
+    "28-east-20th-street-new-york": "theodore-roosevelt-birthplace-national-historic-site"
+  }
+}
