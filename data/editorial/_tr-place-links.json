@@ -4,6 +4,12 @@
     "elkhorn-ranch": "theodore-roosevelt-national-park",
     "sagamore-hill": "sagamore-hill-national-historic-site",
     "white-house": "the-white-house-and-presidents-park",
-    "28-east-20th-street-new-york": "theodore-roosevelt-birthplace-national-historic-site"
-  }
+    "28-east-20th-street-new-york": "theodore-roosevelt-birthplace-national-historic-site",
+    "grand-canyon-az": "grand-canyon-national-park",
+    "north-rim-grand-canyon": "grand-canyon-national-park",
+    "tower-falls-wy": "yellowstone-national-park",
+    "fort-yellowstone-wy": "yellowstone-national-park",
+    "wawona-ca": "yosemite-national-park"
+  },
+  "reviewed": "2026-11-08: promoted five region-level Day by Day places that lie inside their sites (Grand Canyon, North Rim, Tower Falls, Fort Yellowstone, Wawona). Left for review: Mount Desert Island (Acadia covers only part), Painted Desert (extends beyond Petrified Forest), Tensas Bayou, and town-level matches."
 }

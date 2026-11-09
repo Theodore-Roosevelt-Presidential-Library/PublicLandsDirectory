@@ -101,9 +101,13 @@ const BLM_DESIGNATION = {
 const BLM_RENAME = {
   "Baaj Nwaavjo I'tah Kukveni - Ancestral Footprints of the Grand Canyon": "Baaj Nwaavjo I'tah Kukveni",
   'Black Rock Desert / High Rock Canyon': 'Black Rock Desert-High Rock Canyon Emigrant Trails',
+  // Names in the U.S. Code: 16 U.S.C. 460iiii and 460hhhh
+  'Black Mountain Pistones': 'Pistone-Black Mountain',
   'Morley Nelson Snake River Birds of Prey National Conservation Area': 'Morley Nelson Snake River Birds of Prey National Conservation Area',
 };
 BLM_DESIGNATION['Black Rock Desert-High Rock Canyon Emigrant Trails'] = 'National Conservation Area';
+BLM_DESIGNATION['Pistone-Black Mountain'] = 'National Conservation Area'; // 16 U.S.C. 460iiii
+BLM_DESIGNATION['Numunaa Nobe'] = 'National Conservation Area'; // 16 U.S.C. 460hhhh
 const BLM_SKIP = new Set(['Beaver Dam Wash - Designated Road Area']); // a sub-area of Beaver Dam Wash NCA
 
 // ---------- Bureau of Land Management: National Conservation Lands (monuments, NCAs and similar) ----------

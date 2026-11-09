@@ -159,7 +159,8 @@ for (const s of sites) {
     g.seeAndDo && paras(g.seeAndDo),
     s.thingsToDo.length && `<ul class="cards-mini">${s.thingsToDo.map((t) => `<li><a href="${esc(t.url)}">${esc(t.title)}</a>${t.description ? `<br><span class="muted">${esc(t.description.slice(0, 160))}</span>` : ''}</li>`).join('')}</ul>`,
     s.activities.length && `<h3>Activities</h3><ul class="chips">${s.activities.map((a) => `<li><a href="/?act=${encodeURIComponent(a)}" title="More places for ${esc(a.toLowerCase())}">${esc(a)}</a></li>`).join('')}</ul>`,
-    s.links.alltrailsExplore && `<p><a href="${esc(s.links.alltrails || s.links.alltrailsExplore)}">Browse hiking, biking and paddling routes on AllTrails</a></p>`,
+    s.trails?.length && `<h3>Popular trails</h3><ul class="trails">${s.trails.map((t) => `<li><a href="${esc(t.url)}">${esc(t.name)}</a>${[t.miles != null && `${t.miles} mi`, t.route?.replace(' & ', ' and '), t.difficulty].filter(Boolean).length ? ` <span class="muted">${esc([t.miles != null && `${t.miles} mi`, t.route?.replace(' & ', ' and '), t.difficulty].filter(Boolean).join(' · '))}</span>` : ''}</li>`).join('')}</ul><p class="muted small">Trail details from AllTrails. Check conditions with the managing agency before you go.</p>`,
+    s.links.alltrailsExplore && `<p><a href="${esc(s.links.alltrails || s.links.alltrailsExplore)}">${s.trails?.length ? 'More routes on AllTrails' : 'Browse hiking, biking and paddling routes on AllTrails'}</a></p>`,
   ].filter(Boolean).join('');
 
   // Shown only when reviewed text exists (tribal review required); no placeholder.
@@ -192,7 +193,7 @@ for (const s of sites) {
   <div class="wrap grid">
     <div class="main">
       <section id="alerts" class="block alerts" aria-live="polite"><h2>Alerts and conditions</h2><div class="alerts-list" data-generated="${esc(alerts.generated || '')}">${alertsHTML(s.slug)}</div></section>
-      ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">From the ${esc(s.summarySource)}</p>` : '') : '')}
+      ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">${/Library/.test(s.summarySource) ? 'Written by the ' : 'From the '}${esc(s.summarySource)}</p>` : '') : '')}
       ${section('special', 'What makes it special', g.special ? paras(g.special) + guidePending : '')}
       ${section('history', 'History', historyHTML)}
       ${(s.trConnections?.length || s.trConnection) ? section('roosevelt', 'The Roosevelt connection', trHTML(s)) : ''}
@@ -306,11 +307,11 @@ await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Director
 {
   const coverData = await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {}, missing: [] });
   const rows = sites.map((x) => ({ x, c: coverData.sites[x.slug] }));
-  const order = (r) => (!r.c ? 0 : r.c.review === 'auto-category' ? 1 : r.c.tier === 3 ? 2 : 3);
+  const order = (r) => (!r.c ? 0 : r.c.review ? 1 : r.c.tier === 3 ? 2 : 3);
   rows.sort((a, b) => order(a) - order(b) || a.x.name.localeCompare(b.x.name));
   const TIER = { 0: 'Library pick', 1: 'U.S. government', 2: 'Public domain / CC0', 3: 'CC BY or BY-SA 4.0' };
-  const cards = rows.map(({ x, c }) => `<figure class="cv${c ? '' : ' none'}" data-flag="${!c ? 'missing' : c.review === 'auto-category' ? 'check' : c.tier === 3 ? 'credit' : 'ok'}">${c ? `<a href="${esc(c.filePage || '#')}"><img loading="lazy" src="${esc(c.url)}" alt=""></a>` : '<div class="ph">No cover yet</div>'}<figcaption><a href="/sites/${x.slug}/"><strong>${esc(x.name)}</strong></a><br>${c ? `${esc(TIER[c.tier] || '')} · ${esc(c.license || '')}${c.review === 'auto-category' ? ' · <b>check</b>' : ''}<br><span class="muted">${esc((c.credit || '').slice(0, 60))}</span>` : ''}<br><code>${x.slug}</code></figcaption></figure>`).join('');
-  const counts = rows.reduce((m, r) => { const k = !r.c ? 'missing' : r.c.review === 'auto-category' ? 'check' : 'ok'; m[k] = (m[k] || 0) + 1; return m; }, {});
+  const cards = rows.map(({ x, c }) => `<figure class="cv${c ? '' : ' none'}" data-flag="${!c ? 'missing' : c.review ? 'check' : c.tier === 3 ? 'credit' : 'ok'}">${c ? `<a href="${esc(c.filePage || '#')}"><img loading="lazy" src="${esc(c.url)}" alt=""></a>` : '<div class="ph">No cover yet</div>'}<figcaption><a href="/sites/${x.slug}/"><strong>${esc(x.name)}</strong></a><br>${c ? `${esc(TIER[c.tier] || '')} · ${esc(c.license || '')}${c.review ? ' · <b>check</b>' : ''}<br><span class="muted">${esc((c.credit || '').slice(0, 60))}</span>` : ''}<br><code>${x.slug}</code></figcaption></figure>`).join('');
+  const counts = rows.reduce((m, r) => { const k = !r.c ? 'missing' : r.c.review ? 'check' : 'ok'; m[k] = (m[k] || 0) + 1; return m; }, {});
   const body = `<div class="wrap prose" style="max-width:1400px"><h1>Cover images</h1>
   <p>Every site\u2019s cover, picked automatically under the Library\u2019s image-rights standard. <strong>Check</strong> marks picks from a Commons category, which are the least certain; they are listed first, after sites with no cover. To replace a cover, add it to <code>data/editorial/_cover-overrides.json</code> under <code>sites</code>; to drop one, add the slug to <code>reject</code>.</p>
   <p>${counts.missing || 0} without a cover · ${counts.check || 0} to check · ${counts.ok || 0} from agency photos or Wikidata</p>

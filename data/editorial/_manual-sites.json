@@ -1,0 +1,43 @@
+{
+  "note": "Sites missing from the agencies' map data, added by hand with sources. Each record follows the source-record shape used by scripts/sync-*.mjs. Remove an entry once the agency's own data includes it.",
+  "sites": [
+    {
+      "id": "blm-manual-chuckwalla",
+      "agency": "BLM",
+      "agencyUnitCode": "CHUCKWALLA",
+      "name": "Chuckwalla National Monument",
+      "designation": "National Monument",
+      "category": "national-monument",
+      "states": [
+        "CA"
+      ],
+      "location": {
+        "lat": 33.6,
+        "lon": -115.3
+      },
+      "acres": {
+        "value": 624270,
+        "kind": "documented",
+        "source": "Proclamation 10881 (approximately 624,270 acres of public land managed by BLM)"
+      },
+      "url": "https://www.blm.gov/programs/national-conservation-lands/california/chuckwalla",
+      "description": "About 624,000 acres of the Colorado Desert in Riverside and Imperial counties, California, between Joshua Tree National Park and the Salton Sea region. Managed by the Bureau of Land Management with co-stewardship by Tribal Nations. Its status is the subject of pending litigation.",
+      "sources": [
+        {
+          "name": "Proclamation 10881, Establishment of the Chuckwalla National Monument (January 14, 2025), Federal Register 2025-01441",
+          "url": "https://www.federalregister.gov/d/2025-01441"
+        },
+        {
+          "name": "Bureau of Land Management: Chuckwalla National Monument",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/california/chuckwalla"
+        },
+        {
+          "name": "Location: Wikidata Q125745870 (approximate center)",
+          "url": "https://www.wikidata.org/wiki/Q125745870"
+        }
+      ],
+      "note": "No boundary yet: the BLM National Conservation Lands map layer does not include this monument.",
+      "descriptionSource": "Theodore Roosevelt Presidential Library, from Proclamation 10881 and the Bureau of Land Management"
+    }
+  ]
+}

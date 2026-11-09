@@ -64,6 +64,7 @@ jobs:
           node scripts/merge.mjs
           node scripts/sync-tr.mjs
           if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/cover-images.json ]; then node scripts/sync-images.mjs || echo "cover sync failed; keeping last covers"; fi
+          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/links.json ]; then node scripts/sync-links.mjs || echo "link check failed; keeping last links"; fi
           node scripts/merge.mjs
 
       - name: Re-merge editorial changes
@@ -89,7 +90,7 @@ jobs:
             git config user.name "public-lands-bot"
             git config user.email "actions@users.noreply.github.com"
             git add data/reference
-            git commit -m "Update reference caches (NWS zones, T.R. connections) [skip ci]"
+            git commit -m "Update reference caches (NWS zones, T.R. connections, covers, links) [skip ci]"
             git push || echo "push skipped"
           fi
 

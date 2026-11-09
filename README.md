@@ -7,7 +7,7 @@ A guide to every federal public land managed by the four land agencies: national
 Each site has:
 
 - Structured facts: designation, managing agencies, states, acreage, and a designation history recording every law, proclamation or order with the administration that signed it
-- A guide: overview, what makes it special, history, what to see and do, plan your visit (hours, fees, passes, directions, visitor centers, campgrounds, weather), whose lands these are, the Roosevelt connection, photos, and nearby places
+- A guide: overview, what makes it special, history, what to see and do, plan your visit (hours, fees, passes, directions, visitor centers, campgrounds, weather), the Roosevelt connection, photos, and nearby places
 - Live alerts: park closures and notices (NPS), weather watches and warnings (NWS) and wildfire perimeters (NIFC), refreshed hourly
 - A boundary map with GeoJSON and KML downloads
 - Links to the official site, Recreation.gov, AllTrails and directions
@@ -39,6 +39,8 @@ Generated data is not committed. It is rebuilt from the agencies on every full r
 | Wildfire perimeters | NIFC WFIGS current interagency perimeters |
 | State lines | Census TIGERweb |
 | Cover photos | Agency photos credited to the agency (public domain); otherwise the site's Wikidata image or Commons category, license-checked by `scripts/sync-images.mjs` against the TRPL image-rights standard. Review sheet at `/covers/`; replace or veto picks in `data/editorial/_cover-overrides.json` |
+| Official sites and social accounts | Agency URLs first; otherwise the site's Wikidata website or the agency's own unit page, each fetched and kept only if it resolves to a live `.gov` page (`scripts/sync-links.mjs`). Social accounts from Wikidata |
+| Trails | AllTrails park pages and popular trails, gathered with the AllTrails connector in batches (AllTrails has no public API) |
 | Roosevelt connections | The Library's own datasets: [Roosevelt's Public Lands](https://publiclands.labs.trlibrary.com), [Executive Orders and Proclamations](https://executiveactions.labs.trlibrary.com) (Then and now), [Day by Day](https://daybyday.labs.trlibrary.com) (each day's recorded location, matched to site boundaries) |
 
 ## Run it locally
@@ -62,6 +64,36 @@ Designation histories, guide text, social links, AllTrails links and Roosevelt c
 1. Add the repository secret `NPS_API_KEY`.
 2. Settings → Pages → Source: **GitHub Actions**. Custom domain: `directory.labs.trlibrary.com`.
 3. DNS: `CNAME directory.labs` → `theodore-roosevelt-presidential-library.github.io`.
+
+## Roadmap
+
+Planned development, roughly in order. Status as of November 2026.
+
+**Content gaps (in progress)**
+- Official websites: 1,284 of 1,346 sites verified. Remaining: 31 BLM, 23 FWS and 17 Forest Service units to match by hand.
+- Cover photos: about 1,000 of 1,355 sites have a cleared image. A wider Commons search (public domain and CC0 only) is filling the rest; every automatic pick waits for review on `/covers/`.
+- AllTrails: park pages and popular trails for national parks and T.R.-connected sites first, then the remaining sites in batches. A data partnership with AllTrails would cover everything and keep it in sync.
+- Guide text written by the Library (overview, what makes it special, see and do), drafted by site and hidden until reviewed.
+
+**Research batches (designation histories, HistorianPanel review)**
+- Batch 1 (national parks): done. 128 claims checked, 119 confirmed, 8 corrected, 1 open.
+- Batch 1b: the rest of the NPS system from the NPS Index.
+- Batch 2: national forests and grasslands (proclamations, transfers, renamings).
+- Batch 3: national wildlife refuges, starting with the T.R.-era bird reservations.
+- Batch 4: BLM monuments and conservation areas, plus Forest Service monuments.
+
+**New data**
+- Wilderness areas (wilderness.net boundaries) shown inside each site.
+- Annual visitation (NPS Stats, with agency figures elsewhere where published).
+- Recreation.gov links for every agency, not just NPS.
+- Whose lands these are: Indigenous homelands, added only after tribal and Library review.
+
+**Decisions pending**
+- Whether to show the Administration filter before the remaining histories are reviewed.
+- Listing the directory on the Library's labs page.
+
+**Known issues**
+- Day by Day: some days carry a location inferred from an entry or carried forward from an earlier day, which produced false visits (Pelican Island, Antietam). Only days with a recorded location are used now, and town-level matches wait in `data/reference/tr-visit-candidates.json` for review. The underlying data needs fixing in the Day by Day project.
 
 ## Embeds
 

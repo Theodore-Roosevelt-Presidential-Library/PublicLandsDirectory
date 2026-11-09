@@ -53,6 +53,12 @@ for (const a of ['nps', 'fws', 'usfs', 'blm']) {
   else console.warn(`(missing source ${a})`);
 }
 
+// ---- hand-added sites missing from agency map data (data/editorial/_manual-sites.json) ----
+for (const m of (await readJSON(join(DATA, 'editorial', '_manual-sites.json'), { sites: [] })).sites) {
+  if (sources.some((r) => r.name.toLowerCase() === m.name.toLowerCase())) continue; // the agency data has it now
+  sources.push({ ...m, boundary: null, images: [], synced: nowISO() });
+}
+
 // ---- cross-agency grouping: one directory entry per place, listing every managing agency ----
 const nameKey = (n) => n.toLowerCase().replace(/&/g, 'and').replace(/\bsaint\b/g, 'st').replace(/[^a-z0-9]+/g, ' ').replace(/\b(and preserve|national monument and preserve)\b/g, (m) => m).trim();
 // Same place, different names across agencies. Keys are nameKey() forms.
@@ -76,6 +82,8 @@ for (const f of (await listJSON(join(DATA, 'editorial'))).filter((f) => !f.split
 
 const live = await readJSON(join(DATA, 'live', 'alerts.json'), { sites: {} });
 const covers = (await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {} })).sites;
+const allTrails = (await readJSON(join(DATA, 'reference', 'alltrails.json'), { sites: {} })).sites;
+const verifiedLinks = (await readJSON(join(DATA, 'reference', 'links.json'), { sites: {} })).sites;
 const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
 const directory = [];
@@ -141,21 +149,23 @@ for (const recs of groups.values()) {
       administrations,
       designationHistory: history,
       summary: ed.summary || rec.description || null,
-      summarySource: ed.summary ? null : rec.description ? AGENCIES[rec.agency].name : null,
+      summarySource: ed.summary ? null : rec.description ? (rec.descriptionSource || AGENCIES[rec.agency].name) : null,
       guide: ed.guide || {},
       trConnection: ed.trConnection || null,
       trConnections: [...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))],
       trTypes: [...new Set([...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))].map((c) => c.type))],
       links: {
-        official: ed.links?.official || rec.url || null,
-        social: ed.links?.social || {},
+        official: ed.links?.official || rec.url || verifiedLinks[slug]?.official?.url || null,
+        social: ed.links?.social || verifiedLinks[slug]?.social || {},
+        ...(!ed.links?.social && verifiedLinks[slug]?.social && Object.keys(verifiedLinks[slug].social).length ? { socialSource: verifiedLinks[slug].socialSource || 'Wikidata' } : {}),
         recreationGov: ed.links?.recreationGov || null,
-        alltrails: ed.links?.alltrails || null,
+        alltrails: ed.links?.alltrails || allTrails[slug]?.park || null,
         alltrailsExplore: bbox ? `https://www.alltrails.com/explore?b_tl_lat=${bbox[3]}&b_tl_lng=${bbox[0]}&b_br_lat=${bbox[1]}&b_br_lng=${bbox[2]}` : null,
         recreationGovSearch: `https://www.recreation.gov/search?q=${encodeURIComponent(rec.name)}`,
         directions: rec.links?.directions || (location ? `https://www.google.com/maps/dir/?api=1&destination=${location.lat},${location.lon}` : null),
         ...(ed.links?.other ? { other: ed.links.other } : {}),
       },
+      trails: (allTrails[slug]?.trails || []).map((t) => ({ ...t, source: 'AllTrails' })),
       cover: covers[slug] || null,
       images: (() => {
         const c = covers[slug];
