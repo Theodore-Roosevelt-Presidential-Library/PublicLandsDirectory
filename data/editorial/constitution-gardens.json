@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No act of Congress approved Aug. 1, 1974 exists (Statutes vol. 88 list of public laws shows none that day), and none names Constitution Gardens in 1974. The authority and date need the NPS legislative history for National Mall and Memorial Parks.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

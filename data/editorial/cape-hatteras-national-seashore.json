@@ -1,6 +1,6 @@
 {
   "slug": "cape-hatteras-national-seashore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1937-08-17",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of Aug. 17, 1937, ch. 687, 50 Stat. 669"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 85",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 50 Stat. 669 (govinfo): Act of Aug. 17, 1937, ch. 687, approved Aug. 17, 1937",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg669.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 459, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Aug. 17, 1937; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1953-01-12",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established Jan. 12, 1953",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Secretarial order of Jan. 12, 1953, 18 F.R. 366"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 85",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 1953-01-16 (govinfo issue PDF): Secretary Chapman order \"issued this 12th day of January 1953\" placing about 12,414 acres under NPS administration as the Cape Hatteras National Seashore Recreational Area, 18 F.R. 366",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1953-01-16/pdf/FR-1953-01-16.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of Jan. 12, 1953 (18 F.R. 366) put the area under NPS administration; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,43 @@
 {
   "slug": "ala-kahakai-national-historic-trail",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "2000-01-24",
+      "date": "2000-11-13",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established Jan. 24, 2000",
+      "indexText": "Established Nov. 13, 2000",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 106-509, 114 Stat. 2361"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 142",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 114 Stat. 2361 (govinfo): P.L. 106-509, Ala Kahakai National Historic Trail Act, Nov. 13, 2000",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-114/pdf/STATUTE-114-Pg2361.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 1244 note (short title), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Jan. 24, 2000 is not supported: the trail was designated by the Ala Kahakai National Historic Trail Act, P.L. 106-509, approved Nov. 13, 2000 (Clinton). No Jan. 24, 2000 action found.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established Jan. 24, 2000"
     }
   ],
   "historySource": {

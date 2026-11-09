@@ -1,34 +1,43 @@
 {
   "slug": "antietam-national-battlefield",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1870-07-14",
-      "action": "redesignated",
+      "action": "transferred",
       "designation": null,
       "name": null,
-      "indexText": "Placed under War Dept. July 14, 1870",
+      "indexText": "Antietam National Cemetery: joint resolution of July 14, 1870 authorized the War Department to take charge (transfer completed June 22, 1877)",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Ulysses S. Grant",
         "administration": "Ulysses S. Grant",
-        "citation": null
+        "citation": "Res. No. 117, July 14, 1870, 16 Stat. 390"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 16 Stat. 390 (govinfo): Res. No. 117, July 14, 1870, authorizing the Secretary of War to take charge of Gettysburg and Antietam National Cemeteries",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg390-4.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Antietam National Cemetery: transferred to the War Department June 22, 1877, under the acts of July 14, 1870 and March 2, 1877",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false,
+      "reviewed": true,
       "review": {
-        "verdict": "unresolved",
-        "note": "This event belongs to Antietam National Cemetery, not the battlefield, and the date looks wrong. The 1878 Maryland cession act recites a federal act of March 2, 1877 placing the cemetery under the Secretary of War, and the trustees handed it over in 1877. No federal act of July 14, 1870 on the cemetery was found. Grant was still President on March 2, 1877. Confirm the 19 Stat. page before publishing. Held: rests on a state law and one secondary source; confirm in 19 Stat. before publishing.",
-        "by": "HistorianPanel accuracy review, batch 2",
+        "verdict": "corrected",
+        "note": "This Index line belongs to Antietam National Cemetery. The joint resolution of July 14, 1870 (Grant) authorized the Secretary of War to take charge of the cemetery once its trustees transferred it; the actual handover came June 22, 1877. Text now names the cemetery and the authority.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
         "date": "2026-11-09"
-      }
+      },
+      "indexOriginal": "Placed under War Dept. July 14, 1870"
     },
     {
       "date": "1890-08-30",

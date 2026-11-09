@@ -1,6 +1,6 @@
 {
   "slug": "bents-old-fort-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1960-06-03",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "P.L. 86-487, 74 Stat. 155"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 38",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+        },
+        {
+          "name": "Statutes at Large vol. 74, List of Public Laws (govinfo): P.L. 86-487, June 3, 1960",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-74/pdf/STATUTE-74-FrontMatter-1-Pgi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 86-487; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

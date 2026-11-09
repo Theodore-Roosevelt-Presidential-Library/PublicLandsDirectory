@@ -1,6 +1,6 @@
 {
   "slug": "honouliuli-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2015-02-24",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Proclamation 9234, 80 F.R. 11069"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register (federalregister.gov API record): Proclamation 9234, signed Feb. 24, 2015, 80 F.R. 11069",
+          "url": "https://www.federalregister.gov/documents/2015/02/27/2015-04352/establishment-of-the-honouliuli-national-monument"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 9234 created Honouliuli National Monument (redesignated a national historic site in 2019); Obama.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

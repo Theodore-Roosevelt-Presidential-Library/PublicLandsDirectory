@@ -1,0 +1,2282 @@
+[
+ {
+  "id": "dinosaur-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1313, 39 Stat. 1752"
+  },
+  "note": "Proclamation 1313, Oct. 4, 1915; Wilson. The long descriptive lead-in is Index prose, not part of the action."
+ },
+ {
+  "id": "ebeys-landing-national-historical-reserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 92 Stat. 3467 (govinfo): P.L. 95-625, sec. 508, Ebey's Landing National Historical Reserve; Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 461 note (Pub. L. 95-625, sec. 508), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 508, 92 Stat. 3507"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 508; Carter."
+ },
+ {
+  "id": "edgar-allan-poe-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 92 Stat. 3467 (govinfo): P.L. 95-625, sec. 503, Edgar Allan Poe National Historic Site",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 503, 92 Stat. 3498"
+  },
+  "note": "P.L. 95-625, sec. 503; Carter."
+ },
+ {
+  "id": "edgar-allan-poe-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register, 1980-08-22 (govinfo issue PDF): Secretary Andrus \"hereby give[s] notice of the establishment of Edgar Allan Poe National Historic Site,\" dated Aug. 14, 1980, 45 F.R. 56198",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1980-08-22/pdf/FR-1980-08-22.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial notice dated Aug. 14, 1980, 45 F.R. 56198",
+   "president": "Jimmy Carter"
+  },
+  "note": "Secretarial notice dated Aug. 14, 1980; Carter."
+ },
+ {
+  "id": "eisenhower-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Eisenhower National Historic Site designation, Nov. 27, 1967, 33 F.R. 16031",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Nov. 27, 1967, 33 F.R. 16031",
+   "president": "Lyndon B. Johnson"
+  },
+  "note": "Designated by Secretarial order of Nov. 27, 1967; LBJ."
+ },
+ {
+  "id": "eisenhower-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 83 Stat. 274 (govinfo): P.L. 91-133, approved Dec. 2, 1969",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-83/pdf/STATUTE-83-Pg274.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 91-133, 83 Stat. 274"
+  },
+  "note": "P.L. 91-133; Nixon."
+ },
+ {
+  "id": "el-camino-real-de-los-tejas-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 118 Stat. 1370 (govinfo): P.L. 108-342, El Camino Real de los Tejas National Historic Trail Act, Oct. 18, 2004",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-118/pdf/STATUTE-118-Pg1370.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 1244 note, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 108-342, 118 Stat. 1370",
+   "president": "George W. Bush"
+  },
+  "note": "P.L. 108-342; George W. Bush."
+ },
+ {
+  "id": "el-camino-real-de-los-tejas-national-historic-trail#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 1244 note: Pub. L. 106-307, Oct. 13, 2000 (El Camino Real de Tierra Adentro), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index-parsing error: Oct. 13, 2000 is the establishment of El Camino Real de Tierra Adentro National Historic Trail (P.L. 106-307), a different trail. Removed."
+ },
+ {
+  "id": "el-camino-real-de-los-tejas-national-historic-trail#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 1244(a)(11): Florida National Scenic Trail, added by Pub. L. 98-11, Mar. 28, 1983, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index-parsing error: March 28, 1983 is the Florida National Scenic Trail (Forest Service), a different trail. Removed."
+ },
+ {
+  "id": "el-camino-real-de-los-tejas-national-historic-trail#3",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 1244(a)(10): Ice Age National Scenic Trail, added by Pub. L. 96-370, Oct. 3, 1980, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index-parsing error: Oct. 3, 1980 is the Ice Age National Scenic Trail, a different trail. Removed."
+ },
+ {
+  "id": "el-malpais-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 101 Stat. 1547 (govinfo): P.L. 100-225, title I, El Malpais National Monument, Dec. 31, 1987",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1539.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 100-225, title I, 101 Stat. 1539",
+   "president": "Ronald Reagan"
+  },
+  "note": "P.L. 100-225, title I; Reagan."
+ },
+ {
+  "id": "eleanor-roosevelt-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 91 Stat. 171 (govinfo): P.L. 95-32, May 26, 1977",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-91/pdf/STATUTE-91-Pg171.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-32, 91 Stat. 171"
+  },
+  "note": "P.L. 95-32; Carter."
+ },
+ {
+  "id": "eugene-oneill-national-historic-site#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 90 Stat. 2501 (govinfo): P.L. 94-539, \"Approved October 18, 1976\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2501.pdf"
+   },
+   {
+    "name": "Statutes at Large vol. 90, List of Public Laws (govinfo): P.L. 94-539, Eugene O'Neill National Historic Site, designation, Oct. 18, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-FrontMatter-1-Pgi.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "date": "1976-10-18",
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 94-539, 90 Stat. 2501",
+   "president": "Gerald R. Ford",
+   "text": "Authorized Oct. 18, 1976"
+  },
+  "note": "Index date Oct. 12 is wrong: P.L. 94-539 was approved Oct. 18, 1976 (Ford)."
+ },
+ {
+  "id": "federal-hall-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of May 26, 1939, 4 F.R. 2420",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial order of May 26, 1939 (4 F.R. 2420) designated Federal Hall Memorial National Historic Site; FDR."
+ },
+ {
+  "id": "federal-hall-national-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 69 Stat. 632 (govinfo): Act of Aug. 11, 1955, ch. 779, approved Aug. 11, 1955",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-69/pdf/STATUTE-69-Pg632.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Aug. 11, 1955, ch. 779, 69 Stat. 632",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "Act of Aug. 11, 1955, sec. 3, changed the designation to Federal Hall National Memorial; Eisenhower."
+ },
+ {
+  "id": "fire-island-national-seashore#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "Same open question as batch 2: no independent record of an establishment action on Sept. 11, 1984. The exact 20-year match with the 1964 act suggests an Index error. Check the park's legislative history."
+ },
+ {
+  "id": "first-ladies-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 114 Stat. 950 (govinfo): P.L. 106-291, title I, sec. 145, Oct. 11, 2000",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-114/pdf/STATUTE-114-Pg922.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 106-291, title I, sec. 145, 114 Stat. 950",
+   "president": "Bill Clinton"
+  },
+  "note": "Interior appropriations act for FY2001, sec. 145; Clinton."
+ },
+ {
+  "id": "first-state-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Code, 54 U.S.C. note: sec. 3033 of Pub. L. 113-291 provided for establishment of the First State National Historical Park, approved Dec. 19, 2014 (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   },
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 8944, First State National Monument, signed Mar. 25, 2013",
+    "url": "https://www.federalregister.gov/documents/2013/03/28/2013-07401/establishment-of-the-first-state-national-monument"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 410rrr source credit (2024 ed., govinfo): Pub. L. 113-291, div. B, title XXX, sec. 3033, Dec. 19, 2014, 128 Stat. 3775",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title16/pdf/USCODE-2024-title16-chap1-subchapLIX-QQ-sec410sss.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 113-291, div. B, title XXX, sec. 3033, 128 Stat. 3775",
+   "president": "Barack Obama"
+  },
+  "note": "P.L. 113-291 (NDAA FY2015), sec. 3033, made the 2013 First State National Monument a national historical park; Obama."
+ },
+ {
+  "id": "flight-93-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 116 Stat. 1345 (govinfo): P.L. 107-226, approved Sept. 24, 2002",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-116/pdf/STATUTE-116-Pg1345.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 107-226, 116 Stat. 1345"
+  },
+  "note": "Flight 93 National Memorial Act; George W. Bush."
+ },
+ {
+  "id": "florissant-fossil-beds-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 83 Stat. 101 (govinfo): P.L. 91-60, approved Aug. 20, 1969",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-83/pdf/STATUTE-83-Pg101-3.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 91-60, 83 Stat. 101"
+  },
+  "note": "P.L. 91-60; Nixon."
+ },
+ {
+  "id": "fords-theatre-national-historic-site#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": null,
+  "note": "The theater was bought under the act of April 7, 1866 (14 Stat. 23), but no independent record was found of the Feb. 12, 1932 action naming it the Lincoln Museum, or of its authority (likely administrative). Check the NPS administrative history for Ford's Theatre."
+ },
+ {
+  "id": "fords-theatre-national-historic-site#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No independent record found of the April 14, 1965 redesignation as Ford's Theatre (Lincoln Museum), or of its authority. The Statutes list shows no act of that date, so it was probably administrative. Needs the park's administrative history."
+ },
+ {
+  "id": "fords-theatre-national-historic-site#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 29 Stat. 439 (govinfo): Act of June 11, 1896, ch. 420, purchase of the house where Lincoln died; approved June 11, 1896",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg413.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of June 11, 1896, ch. 420, 29 Stat. 439",
+   "president": "Grover Cleveland"
+  },
+  "note": "Act of June 11, 1896; Cleveland."
+ },
+ {
+  "id": "fords-theatre-national-historic-site#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "EO 6166 consolidated the Office of Public Buildings and Public Parks of the National Capital into the National Park Service, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fords-theatre-national-historic-site#4",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 84 Stat. 322 (govinfo): P.L. 91-288, approved June 23, 1970",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg320.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 91-288, 84 Stat. 322",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 91-288 combined the theater and Petersen House as Ford's Theatre National Historic Site; Nixon."
+ },
+ {
+  "id": "fort-bowie-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 78 Stat. 681 (govinfo): P.L. 88-510, approved Aug. 30, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg667.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-510, 78 Stat. 681"
+  },
+  "note": "P.L. 88-510; LBJ."
+ },
+ {
+  "id": "fort-bowie-national-historic-site#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register, 1972-08-03 (govinfo issue PDF): NPS \"Designation and Establishment\" notice: \"the Fort Bowie National Historic Site is hereby established. Dated: July 28, 1972\" (FR Doc. 72-12104)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1972-08-03/pdf/FR-1972-08-03.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1972-07-28",
+   "authorityType": "secretarial-order",
+   "citation": "NPS notice dated July 28, 1972, 37 F.R. (Aug. 3, 1972), FR Doc. 72-12104",
+   "president": "Richard Nixon",
+   "text": "Established July 28, 1972"
+  },
+  "note": "The signed establishment notice is dated July 28, 1972 (published Aug. 3, 1972), not July 29. Nixon in office either way."
+ },
+ {
+  "id": "fort-davis-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 75 Stat. 488 (govinfo): P.L. 87-213, approved Sept. 8, 1961",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg488-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-213, 75 Stat. 488"
+  },
+  "note": "P.L. 87-213; JFK."
+ },
+ {
+  "id": "fort-davis-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register, 1963-07-04 (govinfo issue PDF): Secretarial \"Fort Davis National Historic Site, Texas; Designation\" notice: \"I hereby designate such area as the Fort Davis National Historic Site\"",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1963-07-04/pdf/FR-1963-07-04.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial designation notice, 28 F.R. (July 4, 1963)",
+   "president": "John F. Kennedy"
+  },
+  "note": "Designation notice published in the Federal Register July 4, 1963 under sec. 2 of P.L. 87-213; JFK. (Its signing date is on a page not checked.)"
+ },
+ {
+  "id": "fort-donelson-national-battlefield#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 45 Stat. 367 (govinfo): Act of March 26, 1928, ch. 248, approved March 26, 1928",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg367.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 428, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Mar. 26, 1928, ch. 248, 45 Stat. 367",
+   "president": "Calvin Coolidge"
+  },
+  "note": "Act of March 26, 1928 established Fort Donelson National Military Park; Coolidge."
+ },
+ {
+  "id": "fort-donelson-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-donelson-national-battlefield#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   },
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Fort Donelson National Cemetery transferred to NPS Aug. 10, 1933",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt",
+   "text": "Fort Donelson National Cemetery transferred from the War Department, Aug. 10, 1933"
+  },
+  "note": "This Index line belongs to Fort Donelson National Cemetery (it duplicates #1 otherwise). Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-frederica-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 49 Stat. 1373 (govinfo): Act of May 26, 1936, ch. 451, approved May 26, 1936",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1372.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 433g, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of May 26, 1936, ch. 451, 49 Stat. 1373"
+  },
+  "note": "Act of May 26, 1936; FDR."
+ },
+ {
+  "id": "fort-laramie-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2292, 53 Stat. 2461"
+  },
+  "note": "Proclamation 2292, July 16, 1938; FDR."
+ },
+ {
+  "id": "fort-laramie-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 74 Stat. 83 (govinfo): P.L. 86-444, approved April 29, 1960",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-74/pdf/STATUTE-74-Pg83.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 86-444, 74 Stat. 83",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "P.L. 86-444, sec. 3, redesignated it Fort Laramie National Historic Site; Eisenhower."
+ },
+ {
+  "id": "fort-larned-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 78 Stat. 748 (govinfo): P.L. 88-541, approved Aug. 31, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg747.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-541, 78 Stat. 748"
+  },
+  "note": "P.L. 88-541; LBJ."
+ },
+ {
+  "id": "fort-matanzas-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 43 Stat. 1968 (govinfo): Proclamation 1713, Oct. 15, 1924",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1968.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1713, 43 Stat. 1968"
+  },
+  "note": "Proclamation 1713 (with Fort Marion and Fort Pulaski); Coolidge."
+ },
+ {
+  "id": "fort-matanzas-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-mchenry-national-monument-and-historic-shrine#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 43 Stat. 1109 (govinfo): Act of March 3, 1925, Fort McHenry restoration and preservation as a national park; approved March 3, 1925",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1109.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 437 et seq. (codification note), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Mar. 3, 1925, 43 Stat. 1109"
+  },
+  "note": "Act of March 3, 1925 made Fort McHenry a national park under the War Department; Coolidge."
+ },
+ {
+  "id": "fort-mchenry-national-monument-and-historic-shrine#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-mchenry-national-monument-and-historic-shrine#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 53 Stat. 1405 (govinfo): Act of Aug. 11, 1939, ch. 686, changing designations (Fort McHenry and Abraham Lincoln)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg1405-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 440a, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Aug. 11, 1939, ch. 686, 53 Stat. 1405",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Same act of Aug. 11, 1939 that redesignated the Lincoln park renamed this Fort McHenry National Monument and Historic Shrine; FDR."
+ },
+ {
+  "id": "fort-monroe-national-monument#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 8750, \"Establishment of the Fort Monroe National Monument,\" signed Nov. 1, 2011, 76 F.R. 68625",
+    "url": "https://www.federalregister.gov/documents/2011/11/07/2011-28926/establishment-of-the-fort-monroe-national-monument"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "date": "2011-11-01",
+   "citation": "Proclamation 8750, 76 F.R. 68625",
+   "president": "Barack Obama",
+   "text": "Proclaimed Nov. 1, 2011"
+  },
+  "note": "Index date Nov. 12 is wrong: Proclamation 8750 was signed Nov. 1, 2011 (Obama) and published Nov. 7, 2011."
+ },
+ {
+  "id": "fort-necessity-national-battlefield#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 46 Stat. 1522 (govinfo): Act of March 4, 1931, ch. 504, approved March 4, 1931",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg1522-3.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, national battlefield sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Mar. 4, 1931, ch. 504, 46 Stat. 1522",
+   "president": "Herbert Hoover"
+  },
+  "note": "Act of March 4, 1931 (mid-term, not an inauguration day); Hoover."
+ },
+ {
+  "id": "fort-necessity-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-necessity-national-battlefield#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 75 Stat. 336 (govinfo): P.L. 87-134, approved Aug. 10, 1961",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg336.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 430pp-430tt, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 87-134, 75 Stat. 336",
+   "president": "John F. Kennedy"
+  },
+  "note": "P.L. 87-134, sec. 3, redesignated it Fort Necessity National Battlefield; JFK."
+ },
+ {
+  "id": "fort-point-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 84 Stat. 970 (govinfo): P.L. 91-457, approved Oct. 16, 1970",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg970.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 91-457, 84 Stat. 970",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 91-457 established the site; Nixon."
+ },
+ {
+  "id": "fort-pulaski-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 43 Stat. 1968 (govinfo): Proclamation 1713, Oct. 15, 1924",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1968.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1713, 43 Stat. 1968"
+  },
+  "note": "Proclamation 1713; Coolidge."
+ },
+ {
+  "id": "fort-pulaski-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fort-raleigh-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Apr. 5, 1941",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial designation order of April 5, 1941; FDR."
+ },
+ {
+  "id": "fort-scott-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 92 Stat. 1610 (govinfo): P.L. 95-484, approved Oct. 19, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1610.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-484, 92 Stat. 1610"
+  },
+  "note": "P.L. 95-484; Carter."
+ },
+ {
+  "id": "fort-smith-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 75 Stat. 489 (govinfo): P.L. 87-215, approved Sept. 13, 1961",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg489-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-215, 75 Stat. 489"
+  },
+  "note": "P.L. 87-215; JFK."
+ },
+ {
+  "id": "fort-stanwix-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 49 Stat. 665 (govinfo): Act of Aug. 21, 1935, ch. 592, approved Aug. 21, 1935",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg665-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450l, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Aug. 21, 1935, ch. 592, 49 Stat. 665"
+  },
+  "note": "Act of Aug. 21, 1935; FDR."
+ },
+ {
+  "id": "fort-sumter-and-fort-moultrie-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 62 Stat. 204 (govinfo): Act of April 28, 1948, ch. 239, approved April 28, 1948",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg204-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450ee, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Apr. 28, 1948, ch. 239, 62 Stat. 204"
+  },
+  "note": "Act of April 28, 1948 (Fort Sumter National Monument); Truman."
+ },
+ {
+  "id": "fort-union-national-monument#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 68 Stat. 298 (govinfo): Act of June 28, 1954, ch. 401, Fort Union National Monument; approved June 28, 1954",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg298.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450kk (Fort Union National Monument), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "date": "1954-06-28",
+   "authorityType": "act-of-congress",
+   "citation": "Act of June 28, 1954, ch. 401, 68 Stat. 298",
+   "president": "Dwight D. Eisenhower",
+   "text": "Authorized June 28, 1954"
+  },
+  "note": "Index-parsing error: June 20, 1966 (P.L. 89-458) is Fort Union Trading Post National Historic Site in North Dakota and Montana, a different unit. Fort Union National Monument (New Mexico) was authorized by the act of June 28, 1954 (Eisenhower)."
+ },
+ {
+  "id": "fort-vancouver-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 62 Stat. 532 (govinfo): Act of June 19, 1948, ch. 546, approved June 19, 1948",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg532-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450ff, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 19, 1948, ch. 546, 62 Stat. 532"
+  },
+  "note": "Act of June 19, 1948; Truman."
+ },
+ {
+  "id": "fort-vancouver-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 75 Stat. 196 (govinfo): P.L. 87-78, approved June 30, 1961",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg196-3.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450ff-6, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 87-78, 75 Stat. 196",
+   "president": "John F. Kennedy"
+  },
+  "note": "P.L. 87-78, sec. 4, redesignated it a national historic site; JFK."
+ },
+ {
+  "id": "fort-washington-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 46 Stat. 482 (govinfo): Act of May 29, 1930, ch. 354 (Capper-Cramton Act), George Washington Memorial Parkway \"from Mount Vernon and Fort Washington to the Great Falls\"; approved May 29, 1930",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg482.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of May 29, 1930, ch. 354, 46 Stat. 482",
+   "president": "Herbert Hoover"
+  },
+  "note": "The Capper-Cramton Act of May 29, 1930 is confirmed as the 1930 authority (Hoover). It names Fort Washington in the parkway plan, but the transfer clause itself was not checked."
+ },
+ {
+  "id": "fort-washington-park#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "Could not confirm the Aug. 12, 1940 effective date of the War Department's release of Fort Washington. No notice found in the Aug. 8 to Sept. 6, 1940 Federal Register issues. Needs the National Capital Parks administrative history."
+ },
+ {
+  "id": "fossil-butte-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 86 Stat. 1069 (govinfo): P.L. 92-537, approved Oct. 23, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1069.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 92-537, 86 Stat. 1069",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 92-537 established the monument; Nixon."
+ },
+ {
+  "id": "franklin-delano-roosevelt-memorial#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 73 Stat. 445 (govinfo): P.L. 86-214, \"Approved September 1, 1959\" (site and design competition for the memorial)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg445.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "date": "1959-09-01",
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 86-214, 73 Stat. 445",
+   "president": "Dwight D. Eisenhower",
+   "text": "Authorized Sept. 1, 1959"
+  },
+  "note": "Index date Sept. 5 is wrong: P.L. 86-214, which set aside the site and provided the design competition, was approved Sept. 1, 1959 (Eisenhower). The memorial commission itself dates from the joint resolution of Aug. 11, 1955."
+ },
+ {
+  "id": "frederick-douglass-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 76 Stat. 435 (govinfo): P.L. 87-633, Frederick Douglass home, approved Sept. 5, 1962",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg435.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-633, 76 Stat. 435"
+  },
+  "note": "P.L. 87-633; JFK."
+ },
+ {
+  "id": "frederick-douglass-national-historic-site#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No act of Congress dated Feb. 12, 1988 appears in the Statutes list of public laws, and no other record of the redesignation turned up. The authority is probably administrative but is unconfirmed."
+ },
+ {
+  "id": "frederick-law-olmsted-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 93 Stat. 664 (govinfo): P.L. 96-87, title II, approved Oct. 12, 1979",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg664.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-87, title II, 93 Stat. 664"
+  },
+  "note": "P.L. 96-87, title II; Carter."
+ },
+ {
+  "id": "fredericksburg-and-spotsylvania-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 44 Stat. 1091 (govinfo): Act of Feb. 14, 1927, ch. 127, approved Feb. 14, 1927",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg1091.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 425 et seq., source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Feb. 14, 1927, ch. 127, 44 Stat. 1091",
+   "president": "Calvin Coolidge"
+  },
+  "note": "Act of Feb. 14, 1927 established the Fredericksburg and Spotsylvania County Battle Fields Memorial; Coolidge."
+ },
+ {
+  "id": "fredericksburg-and-spotsylvania-national-military-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "fredericksburg-and-spotsylvania-national-military-park#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   },
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Fredericksburg National Cemetery transferred to NPS Aug. 10, 1933",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt",
+   "text": "Fredericksburg National Cemetery transferred from the War Department, Aug. 10, 1933"
+  },
+  "note": "This Index line belongs to Fredericksburg National Cemetery. Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "friendship-hill-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 92 Stat. 3467 (govinfo): P.L. 95-625, sec. 509, Friendship Hill National Historic Site",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 509, 92 Stat. 3509"
+  },
+  "note": "P.L. 95-625, sec. 509; Carter."
+ },
+ {
+  "id": "gateway-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 86 Stat. 1308 (govinfo): P.L. 92-592, approved Oct. 27, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1308.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 460cc, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 92-592, 86 Stat. 1308",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 92-592 established the NRA; Nixon."
+ },
+ {
+  "id": "gauley-river-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 102 Stat. 2699 (govinfo): P.L. 100-534, title II, Gauley River National Recreation Area",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2699.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 460ww, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 100-534, title II, 102 Stat. 2699"
+  },
+  "note": "P.L. 100-534, Oct. 26, 1988; Reagan."
+ },
+ {
+  "id": "general-grant-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 72 Stat. 614 (govinfo): P.L. 85-659, approved Aug. 14, 1958",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg614-3.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450nn, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 85-659, 72 Stat. 614"
+  },
+  "note": "P.L. 85-659; Eisenhower."
+ },
+ {
+  "id": "general-grant-national-memorial#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No independent record found of a May 1, 1959 establishment. No notice appeared in the April 27 to May 27, 1959 Federal Register issues. Likely the date title passed from the Grant Monument Association; needs the park's administrative history."
+ },
+ {
+  "id": "george-washington-carver-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 57 Stat. 563 (govinfo): Act of July 14, 1943, ch. 238, approved July 14, 1943",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-57/pdf/STATUTE-57-Pg563-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450aa, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of July 14, 1943, ch. 238, 57 Stat. 563"
+  },
+  "note": "Act of July 14, 1943; FDR."
+ },
+ {
+  "id": "george-washington-memorial-parkway#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 46 Stat. 482 (govinfo): Act of May 29, 1930, ch. 354 (Capper-Cramton Act), approved May 29, 1930",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg482.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of May 29, 1930, ch. 354, 46 Stat. 482"
+  },
+  "note": "Capper-Cramton Act; Hoover."
+ },
+ {
+  "id": "george-washington-memorial-parkway#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "EO 6166 consolidated the Office of Public Buildings and Public Parks of the National Capital into the National Park Service, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "george-washington-memorial-parkway#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 103 Stat. 1296 (govinfo): P.L. 101-177, approved Nov. 28, 1989",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-103/pdf/STATUTE-103-Pg1296.pdf"
+   },
+   {
+    "name": "Statutes at Large vol. 103, List of Public Laws (govinfo): P.L. 101-177, to redesignate a portion of the George Washington Memorial Parkway as the \"Clara Barton Parkway,\" Nov. 28, 1989",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-103/pdf/STATUTE-103-FrontMatter-1-Pgi.pdf"
+   }
+  ],
+  "correction": {
+   "action": "renamed",
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 101-177, 103 Stat. 1296",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 101-177 renamed the Maryland section the Clara Barton Parkway; George H. W. Bush."
+ },
+ {
+  "id": "gettysburg-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 28 Stat. 651 (govinfo): Act of Feb. 11, 1895, ch. 80, to establish a national military park at Gettysburg",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-28/pdf/STATUTE-28-Pg651.pdf"
+   },
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg act of Feb. 11, 1895",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/10_Appendix_I_I_National_Military_Parks.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Feb. 11, 1895, ch. 80, 28 Stat. 651",
+   "president": "Grover Cleveland"
+  },
+  "note": "Act of Feb. 11, 1895; Cleveland."
+ },
+ {
+  "id": "gettysburg-national-military-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "gettysburg-national-military-park#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 16 Stat. 390 (govinfo): Res. No. 117, July 14, 1870, authorizing the Secretary of War to take charge of Gettysburg and Antietam National Cemeteries",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg390-4.pdf"
+   },
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg (Soldiers') National Cemetery transferred to the War Department April 18, 1872, under the act of July 14, 1870",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Res. No. 117, July 14, 1870, 16 Stat. 390",
+   "president": "Ulysses S. Grant",
+   "action": "transferred",
+   "text": "Gettysburg National Cemetery: joint resolution of July 14, 1870 authorized the War Department to take charge (transfer completed 1872)"
+  },
+  "note": "This Index line belongs to the national cemetery. The joint resolution of July 14, 1870 (Grant) authorized the War Department to take charge; the actual transfer came in 1872."
+ },
+ {
+  "id": "gettysburg-national-military-park#3",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   },
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Gettysburg National Cemetery transferred to NPS Aug. 10, 1933",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/15_Appendix_I_VI_National_Cemeteries.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt",
+   "text": "Gettysburg National Cemetery transferred from the War Department, Aug. 10, 1933"
+  },
+  "note": "This Index line belongs to the national cemetery. Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "gloria-dei-church-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Nov. 17, 1942, 7 F.R. 10157",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial designation order of Nov. 17, 1942 (7 F.R. 10157); FDR."
+ },
+ {
+  "id": "golden-gate-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 86 Stat. 1299 (govinfo): P.L. 92-589, approved Oct. 27, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1299.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 460bb, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 92-589, 86 Stat. 1299",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 92-589 established the NRA; Nixon."
+ },
+ {
+  "id": "golden-spike-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Order designating the Golden Spike National Historic Site, April 2, 1957, 22 F.R. 2350",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Apr. 2, 1957, 22 F.R. 2350",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "Secretarial order of April 2, 1957; Eisenhower."
+ },
+ {
+  "id": "golden-spike-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 79 Stat. 426 (govinfo): P.L. 89-102, approved July 30, 1965",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg425.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 89-102, 79 Stat. 426"
+  },
+  "note": "P.L. 89-102; LBJ."
+ },
+ {
+  "id": "governors-island-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 7402, signed Jan. 19, 2001, 66 F.R. 7855",
+    "url": "https://www.federalregister.gov/documents/2001/01/25/01-2399/establishment-of-the-governors-island-national-monument"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 7402, 66 F.R. 7855",
+   "president": "Bill Clinton"
+  },
+  "note": "Proclamation 7402, signed Jan. 19, 2001, Clinton's last full day in office (Bush took office Jan. 20)."
+ },
+ {
+  "id": "governors-island-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 7647, \"Establishment of the Governors Island National Monument,\" signed Feb. 7, 2003, 68 F.R. 7053",
+    "url": "https://www.federalregister.gov/documents/2003/02/11/X03-10211/establishment-of-the-governors-island-national-monument"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "presidential-proclamation",
+   "citation": "Proclamation 7647, 68 F.R. 7053",
+   "president": "George W. Bush"
+  },
+  "note": "Proclamation 7647 established the monument after the transfer of the island; George W. Bush."
+ },
+ {
+  "id": "grand-portage-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Grand Portage National Historic Site designation, Sept. 15, 1951, 16 F.R. 9666",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Sept. 15, 1951, 16 F.R. 9666",
+   "president": "Harry S. Truman"
+  },
+  "note": "Secretarial order of Sept. 15, 1951; Truman. Lead-in text is Index prose."
+ },
+ {
+  "id": "grand-portage-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 72 Stat. 1751 (govinfo): P.L. 85-910, approved Sept. 2, 1958",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg1751.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450oo, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 85-910, 72 Stat. 1751",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "P.L. 85-910 authorized Grand Portage National Monument; Eisenhower."
+ },
+ {
+  "id": "grant-kohrs-ranch-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 86 Stat. 632 (govinfo): P.L. 92-406, approved Aug. 25, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg632-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 92-406, 86 Stat. 632"
+  },
+  "note": "P.L. 92-406; Nixon."
+ },
+ {
+  "id": "great-egg-harbor-river#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 106 Stat. 3528 (govinfo): P.L. 102-536, approved Oct. 27, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg3528.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 1274 note, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-536, 106 Stat. 3528"
+  },
+  "note": "P.L. 102-536 designated the Great Egg Harbor wild and scenic river segments; George H. W. Bush."
+ },
+ {
+  "id": "green-springs#0",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No independent record of the May 30, 1974 landmark designation date was found. A court opinion (Historic Green Springs, Inc. v. Block) confirms the designation and the easements but no dates were extracted. Check the NHL program file."
+ },
+ {
+  "id": "green-springs#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal district court opinion, 497 F. Supp. 839 (E.D. Va. 1980) (Leagle): concerns the Green Springs designation and the Secretary's acceptance of preservation easements over about half the district",
+    "url": "https://www.leagle.com/decision/19801336497fsupp83911205"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "The Secretary's acceptance of preservation easements is an administrative agreement, not a designation action. Removed."
+ },
+ {
+  "id": "greenbelt-park#0",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No record found of the Aug. 3, 1950 transfer from the Public Housing Administration. The Statutes vol. 64 list could not be retrieved, and the Aug. 1950 Federal Register issues show no notice. The authority (act or administrative transfer) is unconfirmed."
+ },
+ {
+  "id": "guilford-courthouse-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 39 Stat. 996 (govinfo): Act of March 2, 1917, approved March 2, 1917",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg996-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 430i, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Mar. 2, 1917, 39 Stat. 996",
+   "president": "Woodrow Wilson"
+  },
+  "note": "Act of March 2, 1917; Wilson."
+ },
+ {
+  "id": "guilford-courthouse-national-military-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "gulf-islands-national-seashore#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 84 Stat. 1967 (govinfo): P.L. 91-660, approved Jan. 8, 1971",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1967.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 459h, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 91-660, 84 Stat. 1967"
+  },
+  "note": "P.L. 91-660; Nixon."
+ },
+ {
+  "id": "hagerman-fossil-beds-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 102 Stat. 4575 (govinfo): P.L. 100-696, title III, Nov. 18, 1988",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4571.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 100-696, title III, 102 Stat. 4575"
+  },
+  "note": "P.L. 100-696, title III; Reagan."
+ },
+ {
+  "id": "hamilton-grange-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 76 Stat. 57 (govinfo): P.L. 87-438, approved April 27, 1962",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg57.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-438, 76 Stat. 57"
+  },
+  "note": "P.L. 87-438; JFK."
+ },
+ {
+  "id": "hamilton-grange-national-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 102 Stat. 4640 (govinfo): P.L. 100-701, sec. 1: \"There is hereby established the Hamilton Grange National Memorial\"",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4640.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 100-701, sec. 1, 102 Stat. 4640",
+   "president": "Ronald Reagan"
+  },
+  "note": "P.L. 100-701 (Nov. 19, 1988) amended the 1962 act and established the memorial; Reagan."
+ },
+ {
+  "id": "hampton-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Designation of Hampton National Historic Site, June 22, 1948, 13 F.R. 3783",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of June 22, 1948, 13 F.R. 3783",
+   "president": "Harry S. Truman"
+  },
+  "note": "Secretarial order of June 22, 1948; Truman."
+ },
+ {
+  "id": "harpers-ferry-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 58 Stat. 645 (govinfo): Act of June 30, 1944, ch. 328, approved June 30, 1944",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-58/pdf/STATUTE-58-Pg645-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450bb, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 30, 1944, ch. 328, 58 Stat. 645"
+  },
+  "note": "Act of June 30, 1944; FDR."
+ },
+ {
+  "id": "harpers-ferry-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 77 Stat. 52 (govinfo): P.L. 88-33, approved May 29, 1963",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-77/pdf/STATUTE-77-Pg51.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450bb (Change of Name), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 88-33, 77 Stat. 52",
+   "president": "John F. Kennedy"
+  },
+  "note": "P.L. 88-33 redesignated it Harpers Ferry National Historical Park; JFK."
+ },
+ {
+  "id": "harriet-tubman-underground-railroad-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 8943, signed March 25, 2013, 78 F.R. 18763",
+    "url": "https://www.federalregister.gov/documents/2013/03/28/2013-07399/establishment-of-the-harriet-tubmanunderground-railroad-national-monument"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 8943, 78 F.R. 18763"
+  },
+  "note": "Proclamation 8943; Obama."
+ },
+ {
+  "id": "harriet-tubman-underground-railroad-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 410sss (2024 ed., govinfo): \"There is established as a unit of the National Park System the Harriet Tubman Underground Railroad National Historical Park\" (enacted by P.L. 113-291, div. B, title XXX)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title16/pdf/USCODE-2024-title16-chap1-subchapLIX-QQ-sec410sss.pdf"
+   },
+   {
+    "name": "Statutes at Large vol. 128, List of Public Laws (govinfo): P.L. 113-291, Dec. 19, 2014",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-FrontMatter-1-Pgi.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 113-291, div. B, title XXX (16 U.S.C. 410sss)",
+   "president": "Barack Obama"
+  },
+  "note": "The FY2015 National Defense Authorization Act (P.L. 113-291, Dec. 19, 2014) established the national historical park from the 2013 monument; Obama."
+ },
+ {
+  "id": "harry-s-truman-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Order No. 3088, designation of Harry S Truman National Historic Site, Dec. 8, 1982, 47 F.R. 57575",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial Order No. 3088, Dec. 8, 1982, 47 F.R. 57575",
+   "president": "Ronald Reagan"
+  },
+  "note": "Secretarial Order No. 3088; Reagan."
+ },
+ {
+  "id": "harry-s-truman-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 97 Stat. 193 (govinfo): P.L. 98-32, approved May 23, 1983",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg193.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 98-32, 97 Stat. 193"
+  },
+  "note": "P.L. 98-32; Reagan."
+ },
+ {
+  "id": "herbert-hoover-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 79 Stat. 510 (govinfo): P.L. 89-119, approved Aug. 12, 1965",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg510.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 89-119, 79 Stat. 510"
+  },
+  "note": "P.L. 89-119; LBJ."
+ },
+ {
+  "id": "historic-jamestowne-part-of-colonial-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Dec. 18, 1940, 5 F.R. 5282",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial order of Dec. 18, 1940 (5 F.R. 5282) designated Jamestown National Historic Site on land owned by the Association for the Preservation of Virginia Antiquities; FDR."
+ },
+ {
+  "id": "home-of-franklin-d-roosevelt-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Jan. 15, 1944, 9 F.R. 977",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial order of Jan. 15, 1944 (9 F.R. 977); FDR."
+ },
+ {
+  "id": "homestead-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 49 Stat. 1184 (govinfo): Act of March 19, 1936, ch. 157, approved March 19, 1936",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1184-2.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 450u, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Mar. 19, 1936, ch. 157, 49 Stat. 1184"
+  },
+  "note": "Act of March 19, 1936 (Homestead National Monument of America); FDR."
+ },
+ {
+  "id": "honouliuli-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register (federalregister.gov API record): Proclamation 9234, signed Feb. 24, 2015, 80 F.R. 11069",
+    "url": "https://www.federalregister.gov/documents/2015/02/27/2015-04352/establishment-of-the-honouliuli-national-monument"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 9234, 80 F.R. 11069"
+  },
+  "note": "Proclamation 9234 created Honouliuli National Monument (redesignated a national historic site in 2019); Obama."
+ },
+ {
+  "id": "hopewell-culture-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1653, 42 Stat. 2298"
+  },
+  "note": "Proclamation 1653, March 2, 1923; Harding."
+ },
+ {
+  "id": "hopewell-culture-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "hopewell-culture-national-historical-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 106 Stat. 185 (govinfo): P.L. 102-294, approved May 27, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg185.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 410uu, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "P.L. 102-294, 106 Stat. 185",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 102-294 renamed Mound City Group NM as Hopewell Culture National Historical Park; George H. W. Bush."
+ },
+ {
+  "id": "hopewell-furnace-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Aug. 3, 1938, 3 F.R. 2039",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Secretarial order of Aug. 3, 1938 (3 F.R. 2039); FDR."
+ },
+ {
+  "id": "hopewell-furnace-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "50 F.R. 52385",
+   "president": "Ronald Reagan"
+  },
+  "note": "Renamed Hopewell Furnace NHS Sept. 19, 1985 (50 F.R. 52385), per the U.S. Code note; Reagan. A single independent source; the FR notice was not opened."
+ },
+ {
+  "id": "horseshoe-bend-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 70 Stat. 651 (govinfo): Act of July 25, 1956, ch. 729, approved July 25, 1956",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg650.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 430ff, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of July 25, 1956, ch. 729, 70 Stat. 651"
+  },
+  "note": "Act of July 25, 1956; Eisenhower."
+ },
+ {
+  "id": "hovenweep-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320301 note, table of national monuments (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1654, 42 Stat. 2299"
+  },
+  "note": "Proclamation 1654, March 2, 1923; Harding."
+ },
+ {
+  "id": "independence-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large, 62 Stat. 1061 (govinfo): Act of June 28, 1948, ch. 687, approved June 28, 1948",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg1061.pdf"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m, source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 28, 1948, ch. 687, 62 Stat. 1061"
+  },
+  "note": "Act of June 28, 1948; Truman."
+ },
+ {
+  "id": "independence-national-historical-park#1",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No independent record found of a July 4, 1956 establishment action. No notice in the June 28 to July 27, 1956 Federal Register issues. Needs the park's administrative history."
+ },
+ {
+  "id": "independence-national-historical-park#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq., source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "The Index lists the March 16, 1959 incorporation of the Old Philadelphia Custom House among the park's \"other boundary changes.\" It is a boundary action, not a designation. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+   },
+   {
+    "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of May 26, 1939",
+   "president": "Franklin D. Roosevelt",
+   "text": "Old Philadelphia Custom House (Second Bank of the United States) designated a national historic site May 26, 1939"
+  },
+  "note": "Secretarial order of May 26, 1939 designated Old Philadelphia Custom House National Historic Site, a related unit later merged into the park; FDR."
+ },
+ {
+  "id": "independence-national-historical-park#4",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 72 Stat. 861 (govinfo): P.L. 85-764",
+    "url": "https://www.govinfo.gov/link/statute/72/861"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq. (notes), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists Aug. 27, 1958 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#5",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq., source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists March 7, 1959 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#6",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 73 Stat. 88 (govinfo): P.L. 86-54",
+    "url": "https://www.govinfo.gov/link/statute/73/88"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq. (notes), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists June 23, 1959 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#7",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 73 Stat. 556 (govinfo): P.L. 86-273",
+    "url": "https://www.govinfo.gov/link/statute/73/556"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq. (notes), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists Sept. 14, 1959 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#8",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 78 Stat. 587 (govinfo): P.L. 88-477",
+    "url": "https://www.govinfo.gov/link/statute/78/587"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq. (notes), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists Aug. 21, 1964 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#9",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq., source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists Oct. 26, 1974 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#10",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large, 110 Stat. 4106 (govinfo): P.L. 104-333, sec. 204",
+    "url": "https://www.govinfo.gov/link/statute/110/4106"
+   },
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq. (notes), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Index lists Nov. 12, 1996 among \"other boundary changes.\" It is a boundary revision, not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#11",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 407m et seq., source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Opening of the Independence Visitor Center (a partnership facility) is not a designation action. Removed."
+ },
+ {
+  "id": "independence-national-historical-park#12",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "U.S. Code, 16 U.S.C. 407aa et seq. (National Constitution Center, Pub. L. 100-433, Sept. 16, 1988, 102 Stat. 1640), source credit and notes (2012 ed., govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "The National Constitution Center Act (P.L. 100-433, Sept. 16, 1988) authorized a separate nonprofit center near the park; it did not designate or change the park. Removed."
+ },
+ {
+  "id": "inupiat-heritage-center#0",
+  "verdict": "unresolved",
+  "sources": [],
+  "correction": null,
+  "note": "No independent record found of a Feb. 3, 1999 designation of the Iñupiat Heritage Center (affiliated with New Bedford Whaling NHP), and its authority is unknown. Check the NPS affiliated-areas legislation."
+ }
+]

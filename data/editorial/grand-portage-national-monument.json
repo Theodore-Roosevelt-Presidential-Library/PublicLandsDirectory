@@ -1,6 +1,6 @@
 {
   "slug": "grand-portage-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1951-09-15",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "The Grand Portage post of the North West Company has been reconstructed at the eastern terminus of the Grand Portage on Lake Superior Designated a national historic site Sept. 15, 1951",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Secretarial order of Sept. 15, 1951, 16 F.R. 9666"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Vol. II (1945-2001): Grand Portage National Historic Site designation, Sept. 15, 1951, 16 F.R. 9666",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of Sept. 15, 1951; Truman. Lead-in text is Index prose.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1958-09-02",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Redesignated Sept. 2, 1958",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "P.L. 85-910, 72 Stat. 1751"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 72 Stat. 1751 (govinfo): P.L. 85-910, approved Sept. 2, 1958",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg1751.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450oo, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 85-910 authorized Grand Portage National Monument; Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

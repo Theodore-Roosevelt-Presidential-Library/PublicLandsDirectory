@@ -1,6 +1,6 @@
 {
   "slug": "fort-davis-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1961-09-08",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-213, 75 Stat. 488"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 75 Stat. 488 (govinfo): P.L. 87-213, approved Sept. 8, 1961",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg488-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-213; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1963-07-04",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established July 4, 1963",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "Secretarial designation notice, 28 F.R. (July 4, 1963)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 1963-07-04 (govinfo issue PDF): Secretarial \"Fort Davis National Historic Site, Texas; Designation\" notice: \"I hereby designate such area as the Fort Davis National Historic Site\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1963-07-04/pdf/FR-1963-07-04.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designation notice published in the Federal Register July 4, 1963 under sec. 2 of P.L. 87-213; JFK. (Its signing date is on a page not checked.)",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

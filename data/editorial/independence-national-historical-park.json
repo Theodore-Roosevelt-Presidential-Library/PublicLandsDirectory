@@ -3,6 +3,43 @@
   "status": "draft",
   "designationHistory": [
     {
+      "date": "1939-05-26",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Old Philadelphia Custom House (Second Bank of the United States) designated a national historic site May 26, 1939",
+      "authority": {
+        "type": "secretarial-order",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Secretarial order of May 26, 1939"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Proclamations and Orders Relating to the National Park Service up to January 1, 1945 (NPS, 1947; govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo50360/pdf/GOVPUB-I29-PURL-gpo50360.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national historic sites (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial order of May 26, 1939 designated Old Philadelphia Custom House National Historic Site, a related unit later merged into the park; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "On March 16, 1959, incorporated Old Philadelphia Custom House (Second Bank of the United States), which had been designated a national historic site May 26, 1939"
+    },
+    {
       "date": "1948-06-28",
       "action": "established",
       "designation": null,
@@ -12,17 +49,31 @@
         "type": "act-of-congress",
         "signedBy": "Harry S. Truman",
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Act of June 28, 1948, ch. 687, 62 Stat. 1061"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 62 Stat. 1061 (govinfo): Act of June 28, 1948, ch. 687, approved June 28, 1948",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg1061.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 407m, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 28, 1948; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1956-07-04",
@@ -44,249 +95,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1959-03-16",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "On March 16, 1959, incorporated Old Philadelphia Custom House (Second Bank of the United States), which had been designated a national historic site May 26, 1939",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Dwight D. Eisenhower",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1939-05-26",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "On March 16, 1959, incorporated Old Philadelphia Custom House (Second Bank of the United States), which had been designated a national historic site May 26, 1939",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Franklin D. Roosevelt",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1958-08-27",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Aug. 27, 1958",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Dwight D. Eisenhower",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1959-03-07",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "March 7, 1959",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Dwight D. Eisenhower",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1959-06-23",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "June 23, 1959",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Dwight D. Eisenhower",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1959-09-14",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Sept. 14, 1959",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Dwight D. Eisenhower",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1964-08-21",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Aug. 21, 1964",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Lyndon B. Johnson",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1974-10-26",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Oct. 26, 1974",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Gerald R. Ford",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1996-11-12",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Nov. 12, 1996",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Bill Clinton",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1999-12-07",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Partnership Visitor Center established Dec 7, 1999",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Bill Clinton",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1988-09-16",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "National Constitution Center Sept. 16, 1988",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Ronald Reagan",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No independent record found of a July 4, 1956 establishment action. No notice in the June 28 to July 27, 1956 Federal Register issues. Needs the park's administrative history.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

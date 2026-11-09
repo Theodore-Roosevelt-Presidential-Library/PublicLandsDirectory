@@ -1,6 +1,6 @@
 {
   "slug": "fort-sumter-and-fort-moultrie-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1948-04-28",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Harry S. Truman",
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Act of Apr. 28, 1948, ch. 239, 62 Stat. 204"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 62 Stat. 204 (govinfo): Act of April 28, 1948, ch. 239, approved April 28, 1948",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg204-2.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 450ee, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of April 28, 1948 (Fort Sumter National Monument); Truman.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,43 @@
 {
   "slug": "big-south-fork-national-river-and-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1974-05-07",
+      "date": "1974-03-07",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Army Corps of Engineers authorized May 7, 1974",
+      "indexText": "Authorized March 7, 1974, under the Army Corps of Engineers",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 93-251, sec. 108, 88 Stat. 43"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 96",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 88 Stat. 43 (govinfo): P.L. 93-251, Water Resources Development Act of 1974, \"March 7, 1974\"; sec. 108 directs the Big South Fork National River and Recreation Area",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg12.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 460ee (source credit Pub. L. 93-251, sec. 108), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date May 7, 1974 is wrong: the Water Resources Development Act of 1974 (P.L. 93-251), whose sec. 108 authorized the area under the Army Corps of Engineers, was approved March 7, 1974 (Nixon).",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Army Corps of Engineers authorized May 7, 1974"
     },
     {
       "date": "1976-10-22",
@@ -34,21 +49,35 @@
         "type": "act-of-congress",
         "signedBy": "Gerald R. Ford",
         "administration": "Gerald R. Ford",
-        "citation": null
+        "citation": "P.L. 94-587, sec. 184, 90 Stat. 2940"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 96",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 90 Stat. 2917 (govinfo): P.L. 94-587, Oct. 22, 1976; sec. 184 amends sec. 108 of P.L. 93-251 to allow interim management by the Department of the Interior",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2917.pdf"
+        },
+        {
+          "name": "NPS, Big South Fork NRRA news release: \"On August 25, 1991, the US Army Corps of Engineers transferred management of Big South Fork NRRA to the National Park Service\"",
+          "url": "https://www.nps.gov/biso/learn/news/big-south-fork-nrra-celebrates-its-silver-anniversary.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "WRDA 1976, sec. 184, authorized interim NPS management; Ford.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1991-08-25",
-      "action": "designated",
+      "action": "transferred",
       "designation": null,
       "name": null,
       "indexText": "Complete transfer of jurisdiction from Secretary of the Army to Secretary of the Interior, including responsibility for completion and planning, acquisition, and development, settled Aug. 25, 1991",
@@ -56,17 +85,31 @@
         "type": "act-of-congress",
         "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 101-561, 104 Stat. 2778 (transfer effected Aug. 25, 1991)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 96",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Big South Fork NRRA news release: \"On August 25, 1991, the US Army Corps of Engineers transferred management of Big South Fork NRRA to the National Park Service\"",
+          "url": "https://www.nps.gov/biso/learn/news/big-south-fork-nrra-celebrates-its-silver-anniversary.htm"
+        },
+        {
+          "name": "Statutes at Large, 104 Stat. 2778 (govinfo): P.L. 101-561, Nov. 15, 1990, transferring jurisdiction to the Secretary of the Interior",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg2778.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The transfer was enacted by P.L. 101-561 (Nov. 15, 1990) and carried out Aug. 25, 1991 (NPS); George H. W. Bush on both dates.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

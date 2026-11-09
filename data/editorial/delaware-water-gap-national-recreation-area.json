@@ -1,28 +1,43 @@
 {
   "slug": "delaware-water-gap-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1978-11-10",
+      "date": "1965-09-01",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established Nov. 10, 1978",
+      "indexText": "Authorized Sept. 1, 1965",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Jimmy Carter",
-        "citation": null
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": "P.L. 89-158, 79 Stat. 612"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 92",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 79 Stat. 612 (govinfo): P.L. 89-158, approved Sept. 1, 1965",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg612.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 460o (Pub. L. 89-158, Sept. 1, 1965, 79 Stat. 612), source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index-parsing error: \"Established Nov. 10, 1978\" belongs to Middle Delaware National Scenic River, a related unit listed under Delaware Water Gap. The NRA itself was authorized by P.L. 89-158 on Sept. 1, 1965 (LBJ).",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established Nov. 10, 1978"
     }
   ],
   "historySource": {

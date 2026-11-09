@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "No record found of the Aug. 3, 1950 transfer from the Public Housing Administration. The Statutes vol. 64 list could not be retrieved, and the Aug. 1950 Federal Register issues show no notice. The authority (act or administrative transfer) is unconfirmed.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

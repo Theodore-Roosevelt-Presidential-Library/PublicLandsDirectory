@@ -1,6 +1,6 @@
 {
   "slug": "aleutian-islands-world-war-ii-national-historic-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1996-11-12",
@@ -9,20 +9,38 @@
       "name": null,
       "indexText": "Designated Nov. 12, 1996",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 104-333, div. I, sec. 513, 110 Stat. 4165"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 119",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 110 Stat. 4165 (govinfo): P.L. 104-333, div. I, sec. 513 (Aleutian World War II National Historic Areas Act of 1996)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+        },
+        {
+          "name": "Statutes at Large vol. 110, List of Public Laws (govinfo): P.L. 104-333 (H.R. 4236), Nov. 12, 1996",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-FrontMatter-1-Pgi.pdf"
+        },
+        {
+          "name": "U.S. Code, 16 U.S.C. 461 note, source credit and notes (2012 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2012-title16/html/USCODE-2012-title16.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 104-333, sec. 513 (Nov. 12, 1996) designated the historic area on Ounalaska Corporation land; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5a (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

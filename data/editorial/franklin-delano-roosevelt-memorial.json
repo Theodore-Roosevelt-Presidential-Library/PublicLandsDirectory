@@ -1,28 +1,43 @@
 {
   "slug": "franklin-delano-roosevelt-memorial",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1959-09-05",
+      "date": "1959-09-01",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized Sept. 5, 1959",
+      "indexText": "Authorized Sept. 1, 1959",
       "authority": {
         "type": "act-of-congress",
         "signedBy": "Dwight D. Eisenhower",
         "administration": "Dwight D. Eisenhower",
-        "citation": null
+        "citation": "P.L. 86-214, 73 Stat. 445"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large, 73 Stat. 445 (govinfo): P.L. 86-214, \"Approved September 1, 1959\" (site and design competition for the memorial)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg445.pdf"
+        },
+        {
+          "name": "U.S. Code, 54 U.S.C. 320101 note, table of national memorials (2023 ed., govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Sept. 5 is wrong: P.L. 86-214, which set aside the site and provided the design competition, was approved Sept. 1, 1959 (Eisenhower). The memorial commission itself dates from the joint resolution of Aug. 11, 1955.",
+        "by": "HistorianPanel accuracy review, batch 5b (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized Sept. 5, 1959"
     }
   ],
   "historySource": {
