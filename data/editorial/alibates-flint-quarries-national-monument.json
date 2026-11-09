@@ -1,0 +1,56 @@
+{
+  "slug": "alibates-flint-quarries-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1965-08-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument Aug. 21, 1965",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1978-11-10",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Nov. 10, 1978",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 99,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument Aug. 21, 1965; renamed Nov. 10, 1978. Boundary change: Nov. 10, 1978."
+  }
+}

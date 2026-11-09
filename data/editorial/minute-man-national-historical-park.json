@@ -1,0 +1,56 @@
+{
+  "slug": "minute-man-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1959-04-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated a national historic site April 14, 1959",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 65",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1959-09-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Sept. 21, 1959",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 65",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 65,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Scene of the “shot heard round the world” that began the Revolutionary War on April 19, 1775, the park includes restored sections of Battle Road between Lexington and Concord; the North Bridge; the Minute Man Statue; historic monuments and structures; and the Wayside, home of American authors. Designated a national historic site April 14, 1959; established Sept. 21, 1959. Boundary changes: Oct. 24, 1992, Mar.30, 2009."
+  }
+}

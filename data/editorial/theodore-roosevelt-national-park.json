@@ -1,37 +1,70 @@
 {
   "slug": "theodore-roosevelt-national-park",
-  "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1947-04-25",
       "action": "established",
-      "designation": "National Memorial Park",
-      "name": "Theodore Roosevelt National Memorial Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Theodore Roosevelt National Memorial Park April 25, 1947",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Harry S. Truman",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Harry S. Truman",
         "citation": null
       },
       "note": null,
-      "sources": [],
-      "reviewed": false
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "61 Stat. 54 (Statutes at Large, govinfo): act approved April 25, 1947 (Theodore Roosevelt National Memorial Park)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg54.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Truman.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1978-11-10",
       "action": "redesignated",
-      "designation": "National Park",
-      "name": "Theodore Roosevelt National Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Nov. 10, 1978",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Jimmy Carter",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Jimmy Carter",
         "citation": null
       },
       "note": null,
-      "sources": [],
-      "reviewed": false
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 87",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+          "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978, Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
   ],
   "trConnection": {
@@ -51,5 +84,11 @@
         "url": "https://www.trlibrary.com"
       }
     ]
+  },
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 87,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Theodore Roosevelt National Memorial Park April 25, 1947; redesignated Nov. 10, 1978. Boundary changes: June 10, 1948; June 12, 1948; March 24, 1956; Nov. 6, 1963; Nov. 10, 1978. Wilderness designated Nov. 10, 1978."
   }
 }

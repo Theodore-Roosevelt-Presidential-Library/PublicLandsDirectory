@@ -1,0 +1,78 @@
+{
+  "slug": "santa-fe-national-historic-trail",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1987-05-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established May 8, 1987",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1965-08-06",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "The march helped inspire passage of voting rights legislation signed by President Johnson on Aug. 6, 1965",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1996-11-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 12, 1996",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 147",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 147,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established May 8, 1987. Length: 1,203 miles. This trail commemorates the 1965 voting rights march led by Dr. Martin Luther King, Jr. The marchers walked along U.S. Highway 80 from Brown Chapel A.M.E. Church in Selma, AL, to the State Capitol in Montgomery. The march helped inspire passage of voting rights legislation signed by President Johnson on Aug. 6, 1965. Established Nov. 12, 1996. Length: 54 miles."
+  }
+}

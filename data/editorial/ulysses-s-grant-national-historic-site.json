@@ -1,0 +1,34 @@
+{
+  "slug": "ulysses-s-grant-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1989-10-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Oct. 2, 1989",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 70,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Oct. 2, 1989."
+  }
+}

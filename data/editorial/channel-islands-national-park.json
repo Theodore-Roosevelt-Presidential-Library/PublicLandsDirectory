@@ -1,0 +1,76 @@
+{
+  "slug": "channel-islands-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1938-04-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument April 26, 1938",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 31",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2281, April 26, 1938",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2281-channel-islands-national-monument-california"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2281, FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1980-03-05",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated March 5, 1980",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 31",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter signing H.R. 3757 (P.L. 96-199), approved March 5, 1980",
+          "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-amendments-statement-signing-hr-3757-into-law"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 31,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument April 26, 1938; redesignated March 5, 1980. Boundary changes: June 10, 1949; May 15, 1978; Oct. 25, 1978. Designated a Biosphere Reserve 1976."
+  }
+}

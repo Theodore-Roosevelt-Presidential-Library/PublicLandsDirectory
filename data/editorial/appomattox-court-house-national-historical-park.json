@@ -1,0 +1,100 @@
+{
+  "slug": "appomattox-court-house-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1930-06-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as Appomattox Battlefield Site June 18, 1930",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1935-08-13",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national historical monument Aug. 13, 1935",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1954-04-15",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated April 15, 1954",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 103",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 103,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Here on April 9, 1865, Gen. Robert E. Lee surrendered the Confederacy’s Army of Northern Virginia to Lt. Gen. Ulysses S. Grant, leading to the end of the American Civil War. Authorized as Appomattox Battlefield Site June 18, 1930; transferred from War Dept. Aug. 10, 1933; authorized as a national historical monument Aug. 13, 1935; redesignated April 15, 1954. Boundary changes: Feb. 23, 1939; Oct. 21, 1976; Dec. 3, 1980; Oct. 27, 1992."
+  }
+}

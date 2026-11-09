@@ -1,0 +1,80 @@
+{
+  "slug": "capitol-reef-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1937-08-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument Aug. 2, 1937",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 101",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2246, Aug. 2, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2246-capitol-reef-national-monument-utah"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2246, FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1971-12-18",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national park Dec. 18, 1971",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 101",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "85 Stat. 739 (Statutes at Large, govinfo): Capitol Reef National Park act, Dec. 18, 1971",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg739.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 92-207), Nixon.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 101,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument Aug. 2, 1937; redesignated a national park Dec. 18, 1971. Boundary changes: July 2, 1958; Jan. 20, 1969; Dec. 18, 1971. Designated an International Dark Sky Park 2015."
+  }
+}

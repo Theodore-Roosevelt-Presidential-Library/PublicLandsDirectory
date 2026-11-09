@@ -1,0 +1,78 @@
+{
+  "slug": "sunset-crater-volcano-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1930-05-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Sunset Crater National Monument May 26, 1930",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1990-11-16",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Nov. 16, 1990",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 27,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Sunset Crater National Monument May 26, 1930; transferred from U.S. Forest Service, Aug. 10, 1933; renamed Nov. 16, 1990."
+  }
+}

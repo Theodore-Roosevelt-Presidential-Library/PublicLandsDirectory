@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "acadia-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1339, July 8, 1916",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1339-setting-aside-the-sieur-de-monts-national-monument-maine"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1339, Wilson."
+ },
+ {
+  "id": "acadia-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "40 Stat. 1178 (Statutes at Large, govinfo): Lafayette National Park act, approved Feb. 26, 1919",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1178.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (40 Stat. 1178), Wilson."
+ },
+ {
+  "id": "acadia-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "45 Stat. 1083 (Statutes at Large, govinfo): act approved Jan. 19, 1929 renaming Lafayette NP as Acadia NP",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1083.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "acadia-national-park#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "100 Stat. 955 (Statutes at Large, govinfo): Acadia permanent boundary act, Sept. 25, 1986",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg955.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 99-420), Reagan."
+ },
+ {
+  "id": "arches-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1875, April 12, 1929",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1875-arches-national-monument"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1875, Hoover."
+ },
+ {
+  "id": "arches-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "85 Stat. 422 (Statutes at Large, govinfo): Arches National Park act, Nov. 12, 1971",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg422.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 92-155), Nixon."
+ },
+ {
+  "id": "badlands-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "45 Stat. 1553 (Statutes at Large, govinfo): Badlands National Monument act, approved March 4, 1929",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1553.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act approved March 4, 1929 (45 Stat. 1553), Hoover's inauguration day. Claim names no President; the signer was the outgoing President (Coolidge) before noon, but no source naming the signer was found, so leave President blank or verify in the Congressional Record."
+ },
+ {
+  "id": "badlands-national-park#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2320, dated Jan. 25, 1939",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2320-badlands-national-monument-south-dakota"
+   },
+   {
+    "name": "53 Stat. 2521 (Statutes at Large, govinfo): Proclamation No. 2320, January 25, 1939",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2521.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1939-01-25",
+   "president": "Franklin D. Roosevelt",
+   "authorityType": "presidential-proclamation",
+   "text": "Established as Badlands National Monument by Proclamation 2320, Jan. 25, 1939"
+  },
+  "note": "Index date Jan. 24 is off by one: Proclamation 2320 is dated and signed Jan. 25, 1939 (FDR). This established Badlands National Monument under the 1929 act."
+ },
+ {
+  "id": "badlands-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
+   }
+  ],
+  "correction": null,
+  "note": "National Parks and Recreation Act of 1978 (P.L. 95-625), Carter."
+ },
+ {
+  "id": "big-bend-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "49 Stat. 393 (Statutes at Large, govinfo): Big Bend National Park act, approved June 20, 1935",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg393.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, FDR."
+ },
+ {
+  "id": "big-bend-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Big Bend: Texas' Gift to the Nation",
+    "url": "https://www.nps.gov/bibe/learn/historyculture/tgttn.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative establishment after Texas deeded the land (not a new act or proclamation); FDR in office."
+ },
+ {
+  "id": "biscayne-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "82 Stat. 1188 (Statutes at Large, govinfo): Biscayne National Monument act, approved Oct. 18, 1968",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg1188.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 90-606), LBJ."
+ },
+ {
+  "id": "biscayne-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "94 Stat. 599 (Statutes at Large, govinfo): P.L. 96-287, June 28, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg599.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Carter."
+ },
+ {
+  "id": "black-canyon-of-the-gunnison-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2033, March 2, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2033-black-canyon-the-gunnison-national-monument-colorado"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2033, Hoover."
+ },
+ {
+  "id": "black-canyon-of-the-gunnison-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Clinton signing statement, Oct. 21, 1999",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-black-canyon-the-gunnison-national-park-and-gunnison-gorge-national"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 106-76), Clinton."
+ },
+ {
+  "id": "bryce-canyon-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1664, June 8, 1923",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1664-bryce-canyon-national-monument"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1664, Harding."
+ },
+ {
+  "id": "bryce-canyon-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "43 Stat. 593 (Statutes at Large, govinfo): Utah National Park act, approved June 7, 1924",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg593.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "bryce-canyon-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "45 Stat. 147 (Statutes at Large, govinfo): act approved Feb. 25, 1928 renaming Utah NP as Bryce Canyon NP",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg147.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "canyonlands-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "78 Stat. 934 (Statutes at Large, govinfo): Canyonlands National Park act, Sept. 12, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg934.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 88-590), LBJ."
+ },
+ {
+  "id": "capitol-reef-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2246, Aug. 2, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2246-capitol-reef-national-monument-utah"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2246, FDR."
+ },
+ {
+  "id": "capitol-reef-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "85 Stat. 739 (Statutes at Large, govinfo): Capitol Reef National Park act, Dec. 18, 1971",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg739.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 92-207), Nixon."
+ },
+ {
+  "id": "carlsbad-caverns-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1679, Oct. 25, 1923",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1679-carlsbad-cave-national-monument"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1679, Coolidge."
+ },
+ {
+  "id": "carlsbad-caverns-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "46 Stat. 279 (Statutes at Large, govinfo): Carlsbad Caverns National Park act, May 14, 1930",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg279.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Hoover."
+ },
+ {
+  "id": "channel-islands-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2281, April 26, 1938",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2281-channel-islands-national-monument-california"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2281, FDR."
+ },
+ {
+  "id": "channel-islands-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter signing H.R. 3757 (P.L. 96-199), approved March 5, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-amendments-statement-signing-hr-3757-into-law"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Carter."
+ },
+ {
+  "id": "chiricahua-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1692 (Coolidge), April 18, 1924, created Chiricahua National Monument. Site label is wrong: Chiricahua is a national monument, not one of the 63 national parks. Check how it got into this batch."
+ },
+ {
+  "id": "chiricahua-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR). Same site-label caveat as #0."
+ },
+ {
+  "id": "congaree-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "90 Stat. 2517 (Statutes at Large, govinfo): Congaree Swamp National Monument act, Oct. 18, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2517.pdf"
+   },
+   {
+    "name": "American Presidency Project: Ford statement (note: approved Oct. 18, 1976, P.L. 94-545)",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-designating-forest-acreage-the-congaree-swamp-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Ford."
+ },
+ {
+  "id": "congaree-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "P.L. 108-108, sec. 135 (govinfo), approved Nov. 10, 2003",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ108/html/PLAW-108publ108.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Redesignated by FY2004 Interior Appropriations Act, sec. 135. Signed by G.W. Bush."
+ },
+ {
+  "id": "crater-lake-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 202 (Statutes at Large, govinfo): Crater Lake National Park act, approved May 22, 1902",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg202.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, T. Roosevelt."
+ },
+ {
+  "id": "cuyahoga-valley-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "88 Stat. 1784 (Statutes at Large, govinfo): Cuyahoga Valley NRA act, approved Dec. 27, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1784.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 93-555), Ford. This authorized it as a national recreation area."
+ },
+ {
+  "id": "cuyahoga-valley-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Encyclopedia of Cleveland History (Case Western): Cuyahoga Valley National Park",
+    "url": "https://case.edu/ech/articles/c/cuyahoga-valley-national-park"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative establishment of the national recreation area; Ford in office."
+ },
+ {
+  "id": "cuyahoga-valley-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "P.L. 106-291, sec. 149 (govinfo), approved Oct. 11, 2000",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ291/html/PLAW-106publ291.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Redesignated as a national park by the FY2001 Interior Appropriations Act, sec. 149. Signed by Clinton."
+ },
+ {
+  "id": "death-valley-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2028, Feb. 11, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2028-death-valley-national-monument-california"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2028, Hoover."
+ },
+ {
+  "id": "death-valley-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "108 Stat. 4471 (Statutes at Large, govinfo): California Desert Protection Act, Oct. 31, 1994",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg4471.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "California Desert Protection Act (P.L. 103-433), Clinton."
+ },
+ {
+  "id": "denali-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "39 Stat. 938 (Statutes at Large, govinfo): Mount McKinley National Park act, approved Feb. 26, 1917",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg938.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "denali-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 4616, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4616-denali-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Carter."
+ },
+ {
+  "id": "denali-national-park-and-preserve#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "denali-national-park-and-preserve#3",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "47 Stat. 68 (Statutes at Large, govinfo): act of March 19, 1932 revising boundary of Mount McKinley NP",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg68.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1932-03-19",
+   "president": "Herbert Hoover",
+   "authorityType": "act-of-congress",
+   "text": "Boundary of Mount McKinley National Park revised by act of Congress March 19, 1932"
+  },
+  "note": "Extraction error: a bare date with no action. It is the act of March 19, 1932, which revised (enlarged) the boundary of Mount McKinley National Park. That is a boundary change, not a designation."
+ },
+ {
+  "id": "dry-tortugas-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2112, Jan. 4, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2112-fort-jefferson-national-monument-florida"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2112, FDR."
+ },
+ {
+  "id": "dry-tortugas-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: G.H.W. Bush statement: S. 2890 (P.L. 102-525) approved Oct. 26, 1992, redesignating Fort Jefferson NM as Dry Tortugas NP",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-signing-legislation-establishing-the-brown-v-board-education-national-historic"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, G.H.W. Bush."
+ },
+ {
+  "id": "everglades-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "48 Stat. 816 (Statutes at Large, govinfo): Everglades National Park act, May 30, 1934",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg816.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, FDR."
+ },
+ {
+  "id": "everglades-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Truman address at dedication, Dec. 6, 1947",
+    "url": "https://www.presidency.ucsb.edu/documents/address-conservation-the-dedication-everglades-national-park"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative establishment/dedication (not a new act); Truman."
+ },
+ {
+  "id": "gates-of-the-arctic-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 4617, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4617-gates-the-arctic-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Carter."
+ },
+ {
+  "id": "gates-of-the-arctic-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "gateway-arch-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 7253, Dec. 21, 1935",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-7253-allocation-funds-the-secretary-the-interior-for-the-acquisition-and"
+   }
+  ],
+  "correction": null,
+  "note": "Designated Jefferson National Expansion Memorial by Executive Order 7253 (authorityType: executive-order), FDR."
+ },
+ {
+  "id": "gateway-arch-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "68 Stat. 98-99, P.L. 83-361 (H.R. 6549), approved May 17, 1954",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg98-2.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act to provide for construction of the memorial, Eisenhower."
+ },
+ {
+  "id": "glacier-bay-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1733, Feb. 26, 1925",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1733-setting-aside-the-glacier-bay-national-monument-alaska"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 1733, Coolidge."
+ },
+ {
+  "id": "glacier-bay-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "glacier-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "36 Stat. 354 (Statutes at Large, govinfo): Glacier National Park act, approved May 11, 1910",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg354.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Taft."
+ },
+ {
+  "id": "glacier-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "47 Stat. 145 (Statutes at Large, govinfo): Waterton-Glacier International Peace Park act, May 2, 1932",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg145.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Hoover."
+ },
+ {
+  "id": "glacier-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2003, June 30, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2003-waterton-glacier-international-peace-park"
+   }
+  ],
+  "correction": null,
+  "note": "Proclamation 2003, Hoover."
+ },
+ {
+  "id": "grand-canyon-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "USFS Region 3, The Early Days (npshistory.com): Grand Canyon reserve approved Feb. 20, 1893",
+    "url": "https://npshistory.com/publications/usfs/region/3/early-days/1/sec1.htm"
+   },
+   {
+    "name": "govinfo: Centennial of Grand Canyon National Park",
+    "url": "https://www.govinfo.gov/features/centennial-grand-canyon-national-park"
+   }
+  ],
+  "correction": null,
+  "note": "Benjamin Harrison proclamation."
+ },
+ {
+  "id": "grand-canyon-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 694, Nov. 28, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-694-setting-aside-game-preserve-grand-canyon-forest-reserve-arizona"
+   }
+  ],
+  "correction": null,
+  "note": "T. Roosevelt. (The separate 'Grand Canyon National Game Preserve' proclamation, No. 814, followed June 23, 1908.)"
+ },
+ {
+  "id": "grand-canyon-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 794, Jan. 11, 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-794-setting-aside-grand-canyon-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "T. Roosevelt."
+ },
+ {
+  "id": "grand-canyon-national-park#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "40 Stat. 1175 (Statutes at Large, govinfo): Grand Canyon National Park act, Feb. 26, 1919",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1175.pdf"
+   },
+   {
+    "name": "govinfo: Centennial of Grand Canyon National Park",
+    "url": "https://www.govinfo.gov/features/centennial-grand-canyon-national-park"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "grand-canyon-national-park#4",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "ASU Library Grand Canyon centennial chronology 1917-1928",
+    "url": "https://lib.asu.edu/grand100/history/1917-1928"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative transfer (NPS took control from the Forest Service), not a designation. Wilson in office."
+ },
+ {
+  "id": "grand-canyon-national-park#5",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2022, Dec. 22, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2022-grand-canyon-national-monument"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Hoover."
+ },
+ {
+  "id": "grand-canyon-national-park#6",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 3889, Jan. 20, 1969 (Lyndon B. Johnson)",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-3889-establishing-marble-canyon-national-monument-arizona"
+   },
+   {
+    "name": "American Presidency Project: LBJ statement on signing five proclamations, Jan. 20, 1969",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-five-proclamations-adding-lands-the-national-park"
+   }
+  ],
+  "correction": {
+   "president": "Lyndon B. Johnson",
+   "authorityType": "presidential-proclamation"
+  },
+  "note": "Date and proclamation are right, but the claim leaves out the President because the date is inauguration day. LBJ signed it on his last morning, before Nixon's noon oath."
+ },
+ {
+  "id": "grand-canyon-national-park#7",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "88 Stat. 2089 (Statutes at Large, govinfo): Grand Canyon National Park Enlargement Act, approved Jan. 3, 1975",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg2089.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 93-620), Ford."
+ },
+ {
+  "id": "grand-teton-national-park#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "86 Stat. 619 (Statutes at Large, govinfo): act of Aug. 25, 1972 authorizing the John D. Rockefeller, Jr., Memorial Parkway",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg619.pdf"
+   },
+   {
+    "name": "45 Stat. 1314 (Statutes at Large, govinfo): Grand Teton National Park act, approved Feb. 26, 1929",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1314.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1929-02-26",
+   "president": "Calvin Coolidge",
+   "authorityType": "act-of-congress",
+   "text": "Grand Teton National Park established by act of Congress Feb. 26, 1929 (the Aug. 25, 1972 act authorized the John D. Rockefeller, Jr., Memorial Parkway)"
+  },
+  "note": "Extraction error: the Aug. 25, 1972 act (P.L. 92-404, Nixon) authorized the John D. Rockefeller, Jr., Memorial Parkway, not Grand Teton NP. Grand Teton NP was established by act of Feb. 26, 1929 (Coolidge), enlarged Sept. 14, 1950. Drop this claim or reassign it to the Parkway."
+ },
+ {
+  "id": "great-basin-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1618, Jan. 24, 1922",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1618-lehman-caves-national-monument-nevada"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Harding."
+ },
+ {
+  "id": "great-basin-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "great-basin-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "100 Stat. 3181 (Statutes at Large, govinfo): Great Basin National Park act, Oct. 27, 1986",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg3181.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 99-565), Reagan."
+ },
+ {
+  "id": "great-sand-dunes-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1994, March 17, 1932",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1994-great-sand-dunes-national-monument-colorado"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Hoover."
+ },
+ {
+  "id": "great-sand-dunes-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS: Great Sand Dunes founding legislation timeline",
+    "url": "https://www.nps.gov/articles/000/great-sand-dunes-founding-legislation-a-timeline.htm"
+   },
+   {
+    "name": "Federal Register, Sept. 24, 2004 (69 FR, doc. 04-21473)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20081105110837/http://edocket.access.gpo.gov/2004/04-21473.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative: Secretary Norton's designation was published in the Federal Register Sept. 24, 2004, under the Great Sand Dunes NP and Preserve Act of Nov. 22, 2000 (authorityType: secretarial-order). G.W. Bush in office."
+ },
+ {
+  "id": "great-smoky-mountains-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "44 Stat. 616 (Statutes at Large, govinfo): Shenandoah and Great Smoky Mountains act, approved May 22, 1926",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg616.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "great-smoky-mountains-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Natural History Handbook 5 (npshistory.com): governors presented lands Feb. 6, 1930",
+    "url": "https://npshistory.com/handbooks/natural/5/nh5t.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative (land accepted), not an act; Hoover in office."
+ },
+ {
+  "id": "great-smoky-mountains-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "48 Stat. 964 (Statutes at Large, govinfo): act approved June 15, 1934 establishing GSM NP minimum area",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg964.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, FDR."
+ },
+ {
+  "id": "guadalupe-mountains-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "80 Stat. 920 (Statutes at Large, govinfo): Guadalupe Mountains National Park act, Oct. 15, 1966",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg920.pdf"
+   },
+   {
+    "name": "American Presidency Project: LBJ remarks signing seven conservation bills, Oct. 15, 1966",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-ceremony-for-seven-conservation-bills"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 89-667), LBJ."
+ },
+ {
+  "id": "guadalupe-mountains-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Guadalupe Mountains 50th anniversary release",
+    "url": "https://www.nps.gov/gumo/learn/news/gumo50th.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative establishment; Nixon in office."
+ },
+ {
+  "id": "haleakala-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "39 Stat. 432 (Statutes at Large, govinfo): Hawaii National Park act, Aug. 1, 1916",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg432.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "haleakala-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "74 Stat. 881 (Statutes at Large, govinfo): act approved Sept. 13, 1960 establishing Haleakala NP",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-74/pdf/STATUTE-74-Pg881.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 86-744), Eisenhower."
+ },
+ {
+  "id": "hawai-i-volcanoes-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "39 Stat. 432 (Statutes at Large, govinfo): Hawaii National Park act, Aug. 1, 1916",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg432.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "hawai-i-volcanoes-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "75 Stat. 577 (Statutes at Large, govinfo): act approved Sept. 22, 1961 renaming Hawaii Volcanoes NP",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg577.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 87-278), Kennedy."
+ },
+ {
+  "id": "hot-springs-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "4 Stat. 505 (Statutes at Large, govinfo): act approved April 20, 1832 reserving the hot springs",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-4/pdf/STATUTE-4-Pg505.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Andrew Jackson."
+ },
+ {
+  "id": "hot-springs-national-park#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "16 U.S.C. 361 source credits: Mar. 4, 1921, ch. 161, 41 Stat. 1407 (Cornell LII)",
+    "url": "https://www.law.cornell.edu/uscode/text/16/361"
+   },
+   {
+    "name": "UPI Archives, March 4, 1921: Wilson signing bills at the Capitol before Harding's inauguration",
+    "url": "https://www.upi.com/Archives/1921/03/04/Harding-Coolidge-take-office/4471031400785/"
+   }
+  ],
+  "correction": {
+   "president": "Woodrow Wilson",
+   "authorityType": "act-of-congress"
+  },
+  "note": "Date is right (act of March 4, 1921, 41 Stat. 1407), but the claim leaves out the President because the date is inauguration day. The act was approved by Wilson, who signed the closing bills of the 66th Congress at the Capitol that morning. Authority: act of Congress."
+ },
+ {
+  "id": "isle-royale-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "46 Stat. 1514 (Statutes at Large, govinfo): Isle Royale act, approved March 3, 1931",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg1514.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Hoover."
+ },
+ {
+  "id": "joshua-tree-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2193, Aug. 10, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2193-joshua-tree-national-monument-california"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "FDR."
+ },
+ {
+  "id": "joshua-tree-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "108 Stat. 4471 (Statutes at Large, govinfo): California Desert Protection Act, Oct. 31, 1994",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg4471.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "California Desert Protection Act, Clinton."
+ },
+ {
+  "id": "katmai-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 1487, Sept. 24, 1918",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1487-setting-aside-the-katmai-national-monument-alaska"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Wilson."
+ },
+ {
+  "id": "katmai-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "kenai-fjords-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 4620, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4620-kenai-fjords-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Carter."
+ },
+ {
+  "id": "kenai-fjords-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "kobuk-valley-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 4621, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4621-kobuk-valley-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Carter."
+ },
+ {
+  "id": "kobuk-valley-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "lake-clark-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 4622, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4622-lake-clark-national-monument"
+   }
+  ],
+  "correction": null,
+  "note": "Carter."
+ },
+ {
+  "id": "lake-clark-national-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "lassen-volcanic-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 754, May 6, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-754-setting-aside-lassen-peak-national-monument-california"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 753, May 6, 1907",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-753-setting-aside-cinder-cone-national-monument-california"
+   }
+  ],
+  "correction": null,
+  "note": "Two proclamations (753, 754), T. Roosevelt."
+ },
+ {
+  "id": "lassen-volcanic-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "39 Stat. 442 (Statutes at Large, govinfo): Lassen Volcanic National Park act, approved Aug. 9, 1916",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg442.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "mammoth-cave-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "44 Stat. 635 (Statutes at Large, govinfo): Mammoth Cave act, approved May 25, 1926",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg635.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "mammoth-cave-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Mammoth Cave Master Plan, Appendix A (npshistory.com)",
+    "url": "https://www.npshistory.com/publications/maca/master_plan/appa.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative establishment once the minimum acreage was assembled; FDR in office."
+ },
+ {
+  "id": "mesa-verde-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "34 Stat. 616 (Statutes at Large, govinfo): act creating Mesa Verde National Park, June 29, 1906",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg616.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, T. Roosevelt."
+ },
+ {
+  "id": "mount-rainier-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "30 Stat. 993 (Statutes at Large, govinfo): Mount Rainier act, approved March 2, 1899",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-30/pdf/STATUTE-30-Pg993.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, McKinley."
+ },
+ {
+  "id": "national-park-of-american-samoa#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "102 Stat. 2834 (Statutes at Large, govinfo): P.L. 100-571, approved Oct. 31, 1988",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2834.pdf"
+   },
+   {
+    "name": "NPS American Samoa fact sheet (PL 100-571, Oct. 31, 1988)",
+    "url": "https://www.nps.gov/npsa/learn/news/fact-sheet.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Reagan."
+ },
+ {
+  "id": "national-park-of-american-samoa#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "NPS: National Park of American Samoa lease, made Sept. 9, 1993",
+    "url": "https://www.nps.gov/npsa/learn/management/upload/asmleaseop2.pdf"
+   },
+   {
+    "name": "NPS American Samoa fact sheet",
+    "url": "https://www.nps.gov/npsa/learn/news/fact-sheet.htm"
+   }
+  ],
+  "correction": {
+   "authorityType": "unspecified",
+   "text": "50-year lease agreement between American Samoa landowners and the National Park Service signed Sept. 9, 1993 (not an act of Congress)"
+  },
+  "note": "Date is right, but this was not an act of Congress. It was a 50-year lease between American Samoa landowners/villages and the United States (NPS). No presidential signature; Clinton was merely in office."
+ },
+ {
+  "id": "new-river-gorge-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
+   }
+  ],
+  "correction": null,
+  "note": "National Parks and Recreation Act of 1978 authorized New River Gorge National River. Carter. (The park-and-preserve redesignation came Dec. 27, 2020, not in this batch.)"
+ },
+ {
+  "id": "north-cascades-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "82 Stat. 926 (Statutes at Large, govinfo): North Cascades act, approved Oct. 2, 1968",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg926.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 90-544), LBJ."
+ },
+ {
+  "id": "olympic-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 869, March 2, 1909",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-869-setting-aside-mount-olympus-national-monument-washington"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "T. Roosevelt."
+ },
+ {
+  "id": "olympic-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "olympic-national-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "52 Stat. 1241 (Statutes at Large, govinfo): Olympic National Park act, approved June 29, 1938",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg1241.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, FDR."
+ },
+ {
+  "id": "petrified-forest-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 697, Dec. 8, 1906",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-697-setting-aside-petrified-forest-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "T. Roosevelt."
+ },
+ {
+  "id": "petrified-forest-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Petrified Forest: Brief Administrative History",
+    "url": "https://www.nps.gov/pefo/planyourvisit/brief-administrative-history.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Park status took effect Dec. 9, 1962 under the act of March 28, 1958 (Eisenhower). Kennedy was in office on the date, but the authorizing act was Eisenhower's; don't credit JFK."
+ },
+ {
+  "id": "pinnacles-national-park#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 796 text: 'Done ... this twenty-eighth day of January' 1908",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-796-setting-aside-pinnacles-national-monument-california"
+   },
+   {
+    "name": "35 Stat. 2177 (Statutes at Large, govinfo): Proclamation text, signing clause 'twenty-eighth day of January' 1908; marginal date reads January 16, 1908",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-35/pdf/STATUTE-35-Pg2177.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Conflict in the primary record: the Statutes at Large margin heading says Jan. 16, 1908 (the Index's date), but the proclamation's signing clause, in both the Statutes and the APP, reads 'twenty-eighth day of January, 1908.' President (T. Roosevelt) and authority are right. Check the original at NARA (RG 11) before publishing a day."
+ },
+ {
+  "id": "pinnacles-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "P.L. 112-245, Pinnacles National Park Act (H.R. 3641), approved Jan. 10, 2013",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ245/html/PLAW-112publ245.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Obama."
+ },
+ {
+  "id": "rocky-mountain-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "38 Stat. 798 (Statutes at Large, govinfo): Rocky Mountain National Park act, approved Jan. 26, 1915",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-38/pdf/STATUTE-38-Pg798.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Wilson."
+ },
+ {
+  "id": "roosevelt-campobello-international-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "78 Stat. 299 (Statutes at Large, govinfo): Roosevelt Campobello International Park Act, P.L. 88-363, July 7, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg299.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, LBJ. Note: this is an international park (affiliated area), not one of the 63 national parks."
+ },
+ {
+  "id": "saguaro-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2032, March 1, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2032-saguaro-national-monument-arizona"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Hoover."
+ },
+ {
+  "id": "saguaro-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": null,
+  "note": "Transfer under EO 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "saguaro-national-park#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "108 Stat. 3467 (Statutes at Large, govinfo): Saguaro National Park Establishment Act of 1994 (P.L. 103-364), Oct. 14, 1994",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3467.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1994-10-14",
+   "president": "Bill Clinton",
+   "authorityType": "act-of-congress",
+   "text": "Redesignated Saguaro National Park by act of Congress Oct. 14, 1994"
+  },
+  "note": "Wrong date: the Saguaro National Park Establishment Act was approved Oct. 14, 1994, not Oct. 4. Clinton is correct."
+ },
+ {
+  "id": "sequoia-and-kings-canyon-national-parks#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "26 Stat. 478 (Statutes at Large, govinfo): act approved Sept. 25, 1890 setting apart Sequoia lands",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg478.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Benjamin Harrison (Sequoia only; Kings Canyon is 1940)."
+ },
+ {
+  "id": "shenandoah-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "44 Stat. 616 (Statutes at Large, govinfo): act approved May 22, 1926",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg616.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Coolidge."
+ },
+ {
+  "id": "shenandoah-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Natural History Handbook 5 (npshistory.com)",
+    "url": "https://npshistory.com/handbooks/natural/5/nh5t.htm"
+   },
+   {
+    "name": "NPS: Shenandoah National Park, idea to reality (Ickes accepted deeds Dec. 26, 1935)",
+    "url": "https://www.nps.gov/articles/shenandoah-national-park-idea-to-reality.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative (Secretary Ickes accepted the deeds); FDR in office."
+ },
+ {
+  "id": "theodore-roosevelt-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "61 Stat. 54 (Statutes at Large, govinfo): act approved April 25, 1947 (Theodore Roosevelt National Memorial Park)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg54.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Truman."
+ },
+ {
+  "id": "theodore-roosevelt-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
+   }
+  ],
+  "correction": null,
+  "note": "National Parks and Recreation Act of 1978, Carter."
+ },
+ {
+  "id": "virgin-islands-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "70 Stat. 940 (Statutes at Large, govinfo): Virgin Islands National Park act, approved Aug. 2, 1956",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg940.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Eisenhower."
+ },
+ {
+  "id": "voyageurs-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "84 Stat. 1970 (Statutes at Large, govinfo): Voyageurs act, approved Jan. 8, 1971",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1970.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 91-661), Nixon."
+ },
+ {
+  "id": "voyageurs-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS Voyageurs park history",
+    "url": "https://www.nps.gov/voya/learn/management/park-history.htm"
+   },
+   {
+    "name": "Voyageurs legislative history, App. B (npshistory.com)",
+    "url": "https://npshistory.com/publications/voya/legislative-history/appb.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Administrative: secretarial order published in the Federal Register April 8, 1975 (authorityType: secretarial-order). Ford in office."
+ },
+ {
+  "id": "white-sands-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Proclamation 2025, Jan. 18, 1933",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2025-white-sands-national-monument-new-mexico"
+   },
+   {
+    "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+    "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Hoover."
+ },
+ {
+  "id": "wind-cave-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "32 Stat. 765 (Statutes at Large, govinfo): Wind Cave National Park act, approved Jan. 9, 1903",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-32/pdf/STATUTE-32-Pg765.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, T. Roosevelt."
+ },
+ {
+  "id": "wind-cave-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS: Legislation Pertaining to Wind Cave National Park",
+    "url": "https://www.nps.gov/wica/learn/historyculture/legislation.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Aug. 10, 1912 (Taft) created the game preserve. The claim bundles a second event, the June 15, 1935 act (FDR) that abolished the preserve and added it to the park; split it if the President matters."
+ },
+ {
+  "id": "wolf-trap-national-park-for-the-performing-arts#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "80 Stat. 950 (Statutes at Large, govinfo): Wolf Trap Farm Park act, approved Oct. 15, 1966",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg950.pdf"
+   },
+   {
+    "name": "American Presidency Project: LBJ remarks, Oct. 15, 1966",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-ceremony-for-seven-conservation-bills"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, LBJ. Note: not one of the 63 national parks."
+ },
+ {
+  "id": "wolf-trap-national-park-for-the-performing-arts#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "P.L. 107-219, approved Aug. 21, 2002",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ219/html/PLAW-107publ219.htm"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress renaming it, G.W. Bush."
+ },
+ {
+  "id": "wrangell-st-elias-national-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+   }
+  ],
+  "correction": null,
+  "note": "ANILCA, Carter."
+ },
+ {
+  "id": "yellowstone-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "17 Stat. 32 (Statutes at Large, govinfo): Yellowstone act, approved March 1, 1872",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg32.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Grant."
+ },
+ {
+  "id": "yosemite-national-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "26 Stat. 650 (Statutes at Large, govinfo): act approved Oct. 1, 1890",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-26/pdf/STATUTE-26-Pg650.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress, Benjamin Harrison."
+ },
+ {
+  "id": "yosemite-national-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "72 Stat. 1772 (Statutes at Large, govinfo): El Portal administrative site act, approved Sept. 2, 1958",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg1772.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Act of Congress (P.L. 85-922), Eisenhower."
+ },
+ {
+  "id": "zion-national-park#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Obama statement signing OPLMA (P.L. 111-11), March 30, 2009",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-omnibus-public-land-management-act-2009"
+   },
+   {
+    "name": "41 Stat. 356 (Statutes at Large, govinfo): Zion National Park act, Nov. 19, 1919",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg356.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1919-11-19",
+   "president": "Woodrow Wilson",
+   "authorityType": "act-of-congress",
+   "text": "Established as Zion National Park by act of Congress Nov. 19, 1919 (March 30, 2009 act designated Zion Wilderness, not the park)"
+  },
+  "note": "Extraction error: Zion was not authorized on March 30, 2009. That day Obama signed the Omnibus Public Land Management Act, which designated wilderness within Zion. Zion's designation history is Mukuntuweap NM (July 31, 1909), renamed Zion NM (March 18, 1918), and Zion National Park by act of Nov. 19, 1919 (Wilson). Drop this claim or reword it as wilderness designation."
+ }
+]

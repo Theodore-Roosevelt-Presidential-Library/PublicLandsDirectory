@@ -1,0 +1,34 @@
+{
+  "slug": "sand-creek-massacre-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2000-11-07",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Nov. 7, 2000",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 40",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 40,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "On November 29, 1864, U.S. soldiers attacked a peaceful Cheyenne and Arapaho encampment along Sand Creek. Over 200 Indians were killed; mostly women, children, or the elderly. The Sand Creek Massacre profoundly influenced U.S.Indian relations and changed Cheyenne and Arapaho history, society and culture. The site preserves the cultural and natural landscape and enhances public understanding of the tragedy. Authorized Nov. 7, 2000; established Apr. 23, 2007."
+  }
+}

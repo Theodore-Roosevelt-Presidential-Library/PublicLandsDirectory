@@ -38,6 +38,7 @@ Generated data is not committed. It is rebuilt from the agencies on every full r
 | Weather alerts | api.weather.gov |
 | Wildfire perimeters | NIFC WFIGS current interagency perimeters |
 | State lines | Census TIGERweb |
+| Cover photos | Agency photos credited to the agency (public domain); otherwise the site's Wikidata image or Commons category, license-checked by `scripts/sync-images.mjs` against the TRPL image-rights standard. Review sheet at `/covers/`; replace or veto picks in `data/editorial/_cover-overrides.json` |
 | Roosevelt connections | The Library's own datasets: [Roosevelt's Public Lands](https://publiclands.labs.trlibrary.com), [Executive Orders and Proclamations](https://executiveactions.labs.trlibrary.com) (Then and now), [Day by Day](https://daybyday.labs.trlibrary.com) (each day's recorded location, matched to site boundaries) |
 
 ## Run it locally
@@ -69,4 +70,19 @@ Designation histories, guide text, social links, AllTrails links and Roosevelt c
 <public-lands-card site="theodore-roosevelt-national-park"></public-lands-card>
 ```
 
-Views: `card` (default), `compact`, `alerts`, `history`, `map`. Theme: `theme="dark"`. Builder at [/embed/](https://directory.labs.trlibrary.com/embed/).
+Views: `card` (default), `compact`, `alerts`, `history`, `map`, `roosevelt`. Theme: `theme="dark"`.
+
+A map of many places:
+
+```html
+<script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
+<public-lands-map state="ND" tr="any" controls height="480"></public-lands-map>
+```
+
+Attributes: `agency` (NPS, FWS, USFS, BLM), `category`, `state`, `tr` (any, protected, executive-action, visited), `sites` (comma-separated slugs), `controls` (show the filter bar), `color="tr"`, `boundaries`. No-script option: iframe `/embed/directory-map.html?state=ND&controls=1`.
+
+**Deep links.** Embeds read and write the host page's address, so readers can share exactly what they see:
+
+- `?pl-site=yellowstone-national-park` opens that site in a card or on a map. `pl-view=history` picks the card view.
+- `?pl-state=ND&pl-tr=any` (also `pl-agency`, `pl-cat`, `pl-q`) sets the map filters. When a reader changes the filters or clicks a site, the host URL updates to match.
+- Two embeds on one page: give each its own prefix, for example `deep-link="parks-"`. Use `deep-link="off"` to ignore the host URL. Builder at [/embed/](https://directory.labs.trlibrary.com/embed/).

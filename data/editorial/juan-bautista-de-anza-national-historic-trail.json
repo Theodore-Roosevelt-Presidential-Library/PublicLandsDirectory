@@ -1,0 +1,34 @@
+{
+  "slug": "juan-bautista-de-anza-national-historic-trail",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1990-08-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Aug. 15, 1990",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 143",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 143,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Aug. 15, 1990. Length in U.S.: 1,200 miles. 143"
+  }
+}

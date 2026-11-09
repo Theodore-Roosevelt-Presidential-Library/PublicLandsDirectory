@@ -1,0 +1,56 @@
+{
+  "slug": "perrys-victory-and-international-peace-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1936-06-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Visible for miles, it stands as a reminder not only of the events of the War of 1812, but also as a symbol of international peace between Great Britain, Canada, and the United States Established as a national monument June 2, 1936",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1972-10-26",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a memorial Oct. 26, 1972",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 88,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Visible for miles, it stands as a reminder not only of the events of the War of 1812, but also as a symbol of international peace between Great Britain, Canada, and the United States Established as a national monument June 2, 1936; redesignated a memorial Oct. 26, 1972. Boundary changes: Oct. 26, 1972; Aug. 16, 1978."
+  }
+}

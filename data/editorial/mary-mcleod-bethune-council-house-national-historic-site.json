@@ -1,0 +1,56 @@
+{
+  "slug": "mary-mcleod-bethune-council-house-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1982-10-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Oct. 15, 1982",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1991-12-11",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "National Park Service administration authorized Dec. 11, 1991",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 43,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Oct. 15, 1982; National Park Service administration authorized Dec. 11, 1991."
+  }
+}

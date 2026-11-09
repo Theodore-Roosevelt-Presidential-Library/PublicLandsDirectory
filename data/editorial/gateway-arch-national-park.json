@@ -1,0 +1,76 @@
+{
+  "slug": "gateway-arch-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1935-12-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated Dec. 21, 1935",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7253, Dec. 21, 1935",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7253-allocation-funds-the-secretary-the-interior-for-the-acquisition-and"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Jefferson National Expansion Memorial by Executive Order 7253 (authorityType: executive-order), FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1954-05-17",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Gateway Arch authorized May 17, 1954",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 70",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "68 Stat. 98-99, P.L. 83-361 (H.R. 6549), approved May 17, 1954",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg98-2.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act to provide for construction of the memorial, Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 70,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated Dec. 21, 1935; Gateway Arch authorized May 17, 1954. Boundary changes: Aug. 29, 1969; Aug. 26, 1992."
+  }
+}

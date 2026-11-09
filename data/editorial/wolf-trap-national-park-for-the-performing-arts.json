@@ -1,0 +1,80 @@
+{
+  "slug": "wolf-trap-national-park-for-the-performing-arts",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1966-10-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Oct. 15, 1966",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "80 Stat. 950 (Statutes at Large, govinfo): Wolf Trap Farm Park act, approved Oct. 15, 1966",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg950.pdf"
+        },
+        {
+          "name": "American Presidency Project: LBJ remarks, Oct. 15, 1966",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-ceremony-for-seven-conservation-bills"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, LBJ. Note: not one of the 63 national parks.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2002-08-21",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Aug. 21, 2002",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 107",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "P.L. 107-219, approved Aug. 21, 2002",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ219/html/PLAW-107publ219.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress renaming it, G.W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 107,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Oct. 15, 1966; redesignated Aug. 21, 2002."
+  }
+}

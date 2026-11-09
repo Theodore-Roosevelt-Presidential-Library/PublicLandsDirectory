@@ -1,0 +1,56 @@
+{
+  "slug": "monocacy-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1934-06-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as Monocacy National Military Park, June 21, 1934",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1976-10-21",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Reauthorized and redesignated Oct. 21, 1976",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Gerald R. Ford",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 61,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "In a battle here on July 9, 1864, Confederate Gen. Jubal A. Early defeated Union forces commanded by Maj. Gen. Lew Wallace. Wallace’s troops delayed Early’s advance on Washington, D.C., however, enabling Union forces to marshal a successful defense of the capital. Authorized as Monocacy National Military Park, June 21, 1934. Reauthorized and redesignated Oct. 21, 1976. Boundary change: Nov. 10, 1978; Dec. 28, 1980."
+  }
+}

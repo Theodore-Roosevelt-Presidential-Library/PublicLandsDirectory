@@ -1,0 +1,56 @@
+{
+  "slug": "paterson-great-falls-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized March 30, 2009",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2011-11-07",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 7, 2011",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 75,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized March 30, 2009. Established Nov. 7, 2011. Boundary Adjustment: Dec.19, 2014."
+  }
+}

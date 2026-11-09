@@ -1,0 +1,122 @@
+{
+  "slug": "fords-theatre-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1932-02-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designation changed to Lincoln Museum Feb. 12, 1932",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1965-04-14",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Ford’s Theatre (Lincoln Museum) April 14, 1965",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1896-06-11",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "House Where Lincoln Died authorized June 11, 1896",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Grover Cleveland",
+        "administration": "Grover Cleveland",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Both areas transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1970-06-23",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Combined as Ford’s Theatre National Historic Site June 23, 1970",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 42",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 42,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "On April 14, 1865, President Abraham Lincoln was shot while attending a play at 511 10th Street, NW. He died across the street the following morning at the William Petersen House, also part of the park. The museum beneath the theater contains objects associated with the life and death of President Lincoln. Act of April 7, 1866, provided for purchase of Ford’s Theatre by the federal government; designation changed to Lincoln Museum Feb. 12, 1932; redesignated Ford’s Theatre (Lincoln Museum) April 14, 1965. House Where Lincoln Died authorized June 11, 1896. Both areas transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933; combined as Ford’s Theatre National Historic Site June 23, 1970. Boundary change: June 23, 1970."
+  }
+}

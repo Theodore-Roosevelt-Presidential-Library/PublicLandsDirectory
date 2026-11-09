@@ -1,0 +1,56 @@
+{
+  "slug": "fire-island-national-seashore",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1964-09-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Sept. 11, 1964",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1984-09-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Sept. 11, 1984",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 80,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Sept. 11, 1964. Boundary changes: Oct. 9, 1965; Nov. 10, 1978. Established Sept. 11, 1984. Wilderness designated Dec. 23, 1980."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "grand-portage-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1951-09-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "The Grand Portage post of the North West Company has been reconstructed at the eastern terminus of the Grand Portage on Lake Superior Designated a national historic site Sept. 15, 1951",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1958-09-02",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Sept. 2, 1958",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 67,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The Grand Portage post of the North West Company has been reconstructed at the eastern terminus of the Grand Portage on Lake Superior Designated a national historic site Sept. 15, 1951; redesignated Sept. 2, 1958."
+  }
+}

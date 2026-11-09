@@ -1,0 +1,56 @@
+{
+  "slug": "agate-fossil-beds-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1965-06-05",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized June 5, 1965",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1997-06-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established June 14, 1997",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 72,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized June 5, 1965; established June 14, 1997."
+  }
+}

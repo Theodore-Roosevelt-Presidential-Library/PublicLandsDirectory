@@ -1,0 +1,34 @@
+{
+  "slug": "homestead-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1936-03-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized March 19, 1936",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 72",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 72,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized March 19, 1936. Boundary changes: Sept. 25, 1970; Dec. 16, 2002."
+  }
+}

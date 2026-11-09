@@ -1,0 +1,56 @@
+{
+  "slug": "sitka-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1910-03-23",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument March 23, 1910",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William Howard Taft",
+        "administration": "William Howard Taft",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1972-10-18",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Oct. 18, 1972",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 22,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument March 23, 1910; redesignated Oct. 18, 1972. Boundary changes: Feb. 25, 1952; Oct. 18, 1972."
+  }
+}

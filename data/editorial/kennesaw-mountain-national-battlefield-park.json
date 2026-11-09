@@ -1,0 +1,78 @@
+{
+  "slug": "kennesaw-mountain-national-battlefield-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1917-02-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national battlefield site Feb. 8, 1917",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1935-06-26",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as a national battlefield park June 26, 1935",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 49,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "These earthworks mark the sites of the battles of Kolb’s Farm, June 22, 1864, and Kennesaw Mountain, June 27, 1864. Gen. William T. Sherman’s southward advance was temporarily halted here by Gen. Joseph T. Johnston and the stalwart defense of his Confederates. Authorized as a national battlefield site Feb. 8, 1917; transferred from War Dept. Aug. 10, 1933; redesignated as a national battlefield park June 26, 1935. Boundary change: Aug. 9, 1939."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "thaddeus-kosciuszko-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1972-10-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 21, 1972",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Richard Nixon",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 93",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 93,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Oct. 21, 1972."
+  }
+}

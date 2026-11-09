@@ -1,0 +1,56 @@
+{
+  "slug": "james-a-garfield-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1980-12-28",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Dec. 28, 1980",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1996-07-15",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established July 15, 1996",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 88,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Dec. 28, 1980; established July 15, 1996."
+  }
+}

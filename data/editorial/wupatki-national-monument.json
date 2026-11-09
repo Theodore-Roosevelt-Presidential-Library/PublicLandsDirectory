@@ -1,0 +1,34 @@
+{
+  "slug": "wupatki-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1924-12-09",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Dec. 9, 1924",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 28,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Dec. 9, 1924. Boundary changes: July 9, 1937; Jan. 22, 1941; Aug. 10, 1961; Nov. 12, 1996."
+  }
+}

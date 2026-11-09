@@ -1,0 +1,34 @@
+{
+  "slug": "fort-smith-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1961-09-13",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Sept. 13, 1961",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 28,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "From the establishment of the first Fort Smith on December 25, 1817, to the final days of Judge Isaac C. Parker’s jurisdiction over Indian Territory in 1896, the park preserves almost 80 years of history related to Federal Indian policy. Included are compelling stories of two frontier forts, the tragic Trail of Tears, and the historic jail and federal courthouse of Judge Parker. It is also a site on the Trail of Tears National Historic Trail. Authorized Sept. 13, 1961. Boundary change: Oct. 21, 1976."
+  }
+}

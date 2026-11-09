@@ -1,0 +1,76 @@
+{
+  "slug": "haleakala-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1916-08-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a part of Hawaii National Park Aug. 1, 1916",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "39 Stat. 432 (Statutes at Large, govinfo): Hawaii National Park act, Aug. 1, 1916",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg432.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1960-09-13",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Sept. 13, 1960",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 50",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "74 Stat. 881 (Statutes at Large, govinfo): act approved Sept. 13, 1960 establishing Haleakala NP",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-74/pdf/STATUTE-74-Pg881.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 86-744), Eisenhower.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 50,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as a part of Hawaii National Park Aug. 1, 1916; renamed Sept. 13, 1960. Boundary changes: Feb. 12, 1927; Jan. 10, 1969; Oct. 21, 1976. Wilderness designated Oct. 20, 1976. Designated a Biosphere Reserve 1980."
+  }
+}

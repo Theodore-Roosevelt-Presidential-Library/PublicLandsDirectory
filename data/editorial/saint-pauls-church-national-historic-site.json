@@ -1,0 +1,56 @@
+{
+  "slug": "saint-pauls-church-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1943-07-05",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated July 5, 1943",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 83",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1978-11-10",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "National Park Service administration authorized Nov. 10, 1978",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 83",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 83,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated July 5, 1943; National Park Service administration authorized Nov. 10, 1978."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "isle-royale-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1931-03-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized March 3, 1931",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "46 Stat. 1514 (Statutes at Large, govinfo): Isle Royale act, approved March 3, 1931",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg1514.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Hoover.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 66,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized March 3, 1931. Boundary changes: May 28, 1934; June 20, 1938; March 6, 1942; Aug. 14, 1958; April 11, 1972; Oct. 20, 1976. Wilderness designated Oct. 20, 1976. Designated a Biosphere Reserve 1980."
+  }
+}

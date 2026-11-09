@@ -1,0 +1,76 @@
+{
+  "slug": "big-bend-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1935-06-20",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized June 20, 1935",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "49 Stat. 393 (Statutes at Large, govinfo): Big Bend National Park act, approved June 20, 1935",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg393.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, FDR.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1944-06-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established June 12, 1944",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 99",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS Big Bend: Texas' Gift to the Nation",
+          "url": "https://www.nps.gov/bibe/learn/historyculture/tgttn.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative establishment after Texas deeded the land (not a new act or proclamation); FDR in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 99,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized June 20, 1935; established June 12, 1944. Boundary changes: Aug. 30, 1949; Nov. 5, 1957; May 27, 1989. Designated a Biosphere Reserve 1976."
+  }
+}

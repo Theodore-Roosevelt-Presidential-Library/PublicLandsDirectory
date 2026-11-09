@@ -22,6 +22,16 @@ textarea{width:100%;font:.82rem/1.4 ui-monospace,Menlo,monospace;padding:10px;bo
     <label for="theme">Style</label><select id="theme"><option value="light">Light</option><option value="dark">Dark</option></select>
     <label for="code">Code to paste</label><textarea id="code" rows="4" readonly></textarea>
     <p><button class="btn" id="copy" type="button">Copy code</button></p>
+    <h2>A map of many places</h2>
+    <p>Show every public land, or just a state, an agency, a type or the places with a Roosevelt connection, on one map. Leave a box empty for all.</p>
+    <label for="m-agency">Agency</label><select id="m-agency"><option value="">All agencies</option><option value="NPS">National Park Service</option><option value="FWS">Fish and Wildlife Service</option><option value="USFS">Forest Service</option><option value="BLM">Bureau of Land Management</option></select>
+    <label for="m-state">State (two-letter code)</label><input id="m-state" maxlength="2" placeholder="ND">
+    <label for="m-tr">Roosevelt connection</label><select id="m-tr"><option value="">Any</option><option value="any">Only places with a Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="visited">T.R. was here</option></select>
+    <label for="m-sites">Or list specific sites (slugs, comma-separated)</label><input id="m-sites" placeholder="theodore-roosevelt-national-park,little-missouri-national-grassland">
+    <label><input type="checkbox" id="m-controls" style="width:auto"> Let readers filter the map</label>
+    <label for="m-code">Code to paste</label><textarea id="m-code" rows="4" readonly></textarea>
+    <p><button class="btn" id="m-copy" type="button">Copy map code</button></p>
+    <div id="m-preview" style="margin-bottom:24px"></div>
     <h2>Other ways to embed</h2>
     <p><strong>Iframe map</strong> (works where scripts are not allowed, such as some content management systems):</p>
     <textarea id="iframe" rows="3" readonly></textarea>
@@ -46,5 +56,14 @@ function update() {
 ['site', 'view', 'theme'].forEach((k) => $(k).addEventListener('change', update));
 $('copy').onclick = () => { navigator.clipboard.writeText($('code').value); $('copy').textContent = 'Copied'; setTimeout(() => ($('copy').textContent = 'Copy code'), 1500); };
 update();
+function mapUpdate() {
+  const a = { agency: $('m-agency').value, state: $('m-state').value.trim().toUpperCase(), tr: $('m-tr').value, sites: $('m-sites').value.replace(/\s+/g, '') };
+  const attrs = Object.entries(a).filter(([, v]) => v).map(([k, v]) => `${k}="${v}"`).join(' ') + ($('m-controls').checked ? ' controls' : '');
+  $('m-code').value = `<script src="${BASE}/embed/embed.js" async><\/script>\n<public-lands-map ${attrs} height="480"></public-lands-map>`;
+  $('m-preview').innerHTML = `<public-lands-map ${attrs} height="420"></public-lands-map>`;
+}
+['m-agency', 'm-state', 'm-tr', 'm-sites', 'm-controls'].forEach((k) => $(k).addEventListener('change', mapUpdate));
+$('m-copy').onclick = () => { navigator.clipboard.writeText($('m-code').value); $('m-copy').textContent = 'Copied'; setTimeout(() => ($('m-copy').textContent = 'Copy map code'), 1500); };
+$('m-state').value = 'ND'; mapUpdate();
 </script>
 </body></html>

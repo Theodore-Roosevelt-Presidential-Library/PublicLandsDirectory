@@ -1,0 +1,34 @@
+{
+  "slug": "jimmy-carter-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1987-12-23",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Dec. 23, 1987",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 49",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 49,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Dec. 23, 1987."
+  }
+}

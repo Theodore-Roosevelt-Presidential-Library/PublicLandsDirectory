@@ -1,0 +1,34 @@
+{
+  "slug": "new-jersey-pinelands-national-reserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1978-11-10",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Nov. 10, 1978",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 122",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 122,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Nov. 10, 1978. Designated a U.S. Biosphere Reserve in 1983."
+  }
+}

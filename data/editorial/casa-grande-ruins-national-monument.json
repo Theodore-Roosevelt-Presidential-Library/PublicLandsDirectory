@@ -1,0 +1,78 @@
+{
+  "slug": "casa-grande-ruins-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1889-03-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as Casa Grande Ruin Reservation March 2, 1889",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Grover Cleveland",
+        "administration": "Grover Cleveland",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1892-06-22",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed June 22, 1892",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Benjamin Harrison",
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1918-08-03",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Aug. 3, 1918",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 24,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as Casa Grande Ruin Reservation March 2, 1889; proclaimed June 22, 1892; redesignated Aug. 3, 1918. Boundary changes: Dec. 10, 1909; June 7, 1926."
+  }
+}

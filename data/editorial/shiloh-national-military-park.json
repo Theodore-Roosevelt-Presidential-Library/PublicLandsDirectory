@@ -1,0 +1,78 @@
+{
+  "slug": "shiloh-national-military-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1894-12-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "The decisive victory enabled Union forces to advance and seize control of the strategic Confederate railway junction at Corinth, Mississippi, on May 30, 1862, then withstand an October Confederate counter-attack Park: Established Dec. 27, 1894",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Grover Cleveland",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 98",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 98,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "The decisive victory enabled Union forces to advance and seize control of the strategic Confederate railway junction at Corinth, Mississippi, on May 30, 1862, then withstand an October Confederate counter-attack Park: Established Dec. 27, 1894; transferred from War Dept. Aug. 10, 1933. Boundary changes: June 25, 1947; Aug. 22, 1957; May 16, 1958; Dec. 26, 2007. Cemetery: Union dead reinterred in 1866: 3,584 of whom 2,357 are unknown. Transferred from War Dept. Aug. 10, 1933. Park acreage—6,720.35 Federal: 4,958.17 Nonfederal: 1,762.18. Cemetery acreage—10.05, all Federal."
+  }
+}

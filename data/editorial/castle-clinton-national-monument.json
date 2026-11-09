@@ -1,0 +1,56 @@
+{
+  "slug": "castle-clinton-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1946-08-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 12, 1946",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1950-06-20",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established June 20, 1950",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 80",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 80,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Aug. 12, 1946. Established June 20, 1950."
+  }
+}

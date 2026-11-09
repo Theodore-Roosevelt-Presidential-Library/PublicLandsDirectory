@@ -1,0 +1,122 @@
+{
+  "slug": "abraham-lincoln-birthplace-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1916-07-17",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Abraham Lincoln National Park July 17, 1916",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1939-08-11",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated Aug. 11, 1939",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1959-09-08",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed and redesignated Sept. 8, 1959",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2009-03-30",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national historical park March 30, 2009",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 56,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Abraham Lincoln National Park July 17, 1916; transferred from War Dept. Aug. 10, 1933; redesignated Aug. 11, 1939; renamed and redesignated Sept. 8, 1959; redesignated a national historical park March 30, 2009. Boundary changes: May 27, 1949; April 11, 1972; Nov. 6, 1998."
+  }
+}

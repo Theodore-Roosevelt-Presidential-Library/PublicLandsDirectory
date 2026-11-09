@@ -1,0 +1,56 @@
+{
+  "slug": "oregon-caves-national-monument-and-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1909-07-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed July 12, 1909",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William Howard Taft",
+        "administration": "William Howard Taft",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 90",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 90",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 90,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed July 12, 1909; transferred from U.S. Forest Service, Aug. 10, 1933. Boundary change: Nov. 10, 1978; Dec. 19, 2014."
+  }
+}

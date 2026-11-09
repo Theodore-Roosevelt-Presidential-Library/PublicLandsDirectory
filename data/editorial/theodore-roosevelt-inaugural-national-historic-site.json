@@ -1,0 +1,34 @@
+{
+  "slug": "theodore-roosevelt-inaugural-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1966-11-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Nov. 2, 1966",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 84",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 84,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "On September 14, 1901, an unexpected inauguration changed the nation and ushered in the modern presidency. The Theodore Roosevelt Inaugural National Historic Site, Western New York’s only National Park Service facility, preserves the home in Buffalo, NY, where Theodore Roosevelt became the 26th President of the United States. Opened to the public on September 14, 1971, and managed by a volunteer board of trustees who comprise the Theodore Roosevelt Inaugural Site Foundation, the Site provides opportunities for the public to understand the historic events surrounding the inauguration and conveys the lasting significance of Theodore Roosevelt’s presidency. Theodore Roosevelt took the oath of office as President of the United States on Sept. 14, 1901, in the Ansley Wilcox House after the assassination of President William McKinley. Authorized Nov. 2, 1966."
+  }
+}

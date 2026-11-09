@@ -1,0 +1,100 @@
+{
+  "slug": "petersburg-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1926-07-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Park: Established as a national military park July 3, 1926",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1962-08-24",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national battlefield Aug. 24, 1962",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 106,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Park: Established as a national military park July 3, 1926; transferred from War Dept. Aug. 10, 1933; redesignated a national battlefield Aug. 24, 1962. Boundary changes: June 5, 1942; Sept. 7, 1949; Aug. 24, 1962; April 11, 1972; Nov. 10, 1978; December 26, 1990. Cemetery: Probable date of Civil War interments 1866. Transferred from War Dept. Aug. 10, 1933. Park acreage—2,739.72 Federal: 2,657.43 Nonfederal: 82.29. Cemetery acreage—8.72, all Federal."
+  }
+}

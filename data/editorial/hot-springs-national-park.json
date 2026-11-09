@@ -1,0 +1,80 @@
+{
+  "slug": "hot-springs-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1832-04-20",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Hot Springs Reservation April 20, 1832",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Andrew Jackson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "4 Stat. 505 (Statutes at Large, govinfo): act approved April 20, 1832 reserving the hot springs",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-4/pdf/STATUTE-4-Pg505.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Andrew Jackson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1921-03-04",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated March 4, 1921",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "16 U.S.C. 361 source credits: Mar. 4, 1921, ch. 161, 41 Stat. 1407 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/361"
+        },
+        {
+          "name": "UPI Archives, March 4, 1921: Wilson signing bills at the Capitol before Harding's inauguration",
+          "url": "https://www.upi.com/Archives/1921/03/04/Harding-Coolidge-take-office/4471031400785/"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date is right (act of March 4, 1921, 41 Stat. 1407), but the claim leaves out the President because the date is inauguration day. The act was approved by Wilson, who signed the closing bills of the 66th Congress at the Capitol that morning. Authority: act of Congress.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 30,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as Hot Springs Reservation April 20, 1832; dedicated to public use as a park June 16, 1880; redesignated March 4, 1921. Boundary changes: June 22, 1892; July 14, 1892; Feb. 21, 1903; May 23, 1906; Sept. 18, 1922; June 5, 1924; June 25, 1930; Feb. 14, 1931; June 15, 1936; June 24, 1938; Aug. 10, 1939; Aug. 24, 1954; Aug. 18, 1958; Sept. 21, 1959; Aug. 2, 1993."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "mississippi-national-river-and-recreation-area",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1988-11-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 18, 1988",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 67",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 67,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Nov. 18, 1988."
+  }
+}

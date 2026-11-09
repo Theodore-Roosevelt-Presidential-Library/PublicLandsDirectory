@@ -1,0 +1,100 @@
+{
+  "slug": "gettysburg-national-military-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1895-02-11",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Park: Established Feb. 11, 1895",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Grover Cleveland",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1870-07-14",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Placed under War Dept. July 14, 1870",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ulysses S. Grant",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 91",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 91,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "At the dedication of the cemetery, Nov. 19, 1863, President Abraham Lincoln delivered his timeless Gettysburg Address. Park: Established Feb. 11, 1895; transferred from War Dept. Aug. 10, 1933. Boundary changes: May 12, 1917; Jan. 31, 1948; July 31, 1953; Dec. 2, 1969; Oct. 16, 1987; Aug. 17, 1990; Oct. 10, 2000; Dec. 19, 2014. Cemetery: Beginning of Civil War interments, Oct. 1863. Placed under War Dept. July 14, 1870. Transferred from War Dept. Aug. 10, 1933. Park acreage—6,032.54 Federal: 5,032.48 Nonfederal: 1,000.06. Cemetery acreage—20.58, all Federal."
+  }
+}

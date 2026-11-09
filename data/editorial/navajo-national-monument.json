@@ -1,0 +1,34 @@
+{
+  "slug": "navajo-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1909-03-20",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed March 20, 1909",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "William Howard Taft",
+        "administration": "William Howard Taft",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 26",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 26,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed March 20, 1909. Boundary change: March 14, 1912. Headquarters is on 244.59 acres of tribal land adjacent to the Betatakin section; used by agreement of May 1962. A right-of-way of 4.59 acres was granted to the National Park Service in 1977."
+  }
+}

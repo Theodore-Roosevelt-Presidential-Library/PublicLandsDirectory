@@ -1,0 +1,80 @@
+{
+  "slug": "katmai-national-park-and-preserve",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1918-09-24",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Katmai National Monument Sept. 24, 1918",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 21",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1487, Sept. 24, 1918",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1487-setting-aside-the-katmai-national-monument-alaska"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as national park and national preserve Dec. 2, 1980",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 21",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter remarks signing ANILCA, Dec. 2, 1980",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "ANILCA, Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 21,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Katmai National Monument Sept. 24, 1918; established as national park and national preserve Dec. 2, 1980. Boundary changes: April 24, 1931; Aug. 4, 1942; Jan. 20, 1969; Dec. 1, 1978; Dec. 2, 1980. Wilderness designated Dec. 2, 1980."
+  }
+}

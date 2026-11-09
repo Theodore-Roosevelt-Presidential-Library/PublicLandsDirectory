@@ -1,0 +1,76 @@
+{
+  "slug": "chiricahua-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1924-04-18",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed April 18, 1924",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1692 (Coolidge), April 18, 1924, created Chiricahua National Monument. Site label is wrong: Chiricahua is a national monument, not one of the 63 national parks. Check how it got into this batch.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service, Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 24",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 6166 (June 10, 1933; effective in 61 days = Aug. 10, 1933)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Transfer to NPS under EO 6166, effective Aug. 10, 1933 (FDR). Same site-label caveat as #0.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 24,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed April 18, 1924; transferred from U.S. Forest Service, Aug. 10, 1933. Boundary changes: June 10, 1938; Nov. 10, 1978; Aug. 28, 1984; Dec. 2015. Wilderness designated Oct. 20, 1976; Aug. 28, 1984."
+  }
+}

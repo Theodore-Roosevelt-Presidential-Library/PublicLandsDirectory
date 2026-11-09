@@ -1,0 +1,56 @@
+{
+  "slug": "general-grant-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1958-08-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "National Park Service administration authorized Aug. 14, 1958",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 81",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1959-05-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established May 1, 1959",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 81",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 81,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "As President of the United States (1869–77), Grant signed the act establishing the first national park, Yellowstone, on March 1, 1872. Dedicated April 27, 1897. National Park Service administration authorized Aug. 14, 1958. Established May 1, 1959."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "badlands-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1929-03-04",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national monument March 4, 1929",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": null,
+        "administration": null,
+        "citation": null
+      },
+      "note": "Dated on a day the presidency changed hands (Herbert Hoover's first day); administration to confirm.",
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 95",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "45 Stat. 1553 (Statutes at Large, govinfo): Badlands National Monument act, approved March 4, 1929",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1553.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act approved March 4, 1929 (45 Stat. 1553), Hoover's inauguration day. Claim names no President; the signer was the outgoing President (Coolidge) before noon, but no source naming the signer was found, so leave President blank or verify in the Congressional Record.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1939-01-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Badlands National Monument by Proclamation 2320, Jan. 25, 1939",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 95",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2320, dated Jan. 25, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2320-badlands-national-monument-south-dakota"
+        },
+        {
+          "name": "53 Stat. 2521 (Statutes at Large, govinfo): Proclamation No. 2320, January 25, 1939",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2521.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Index date Jan. 24 is off by one: Proclamation 2320 is dated and signed Jan. 25, 1939 (FDR). This established Badlands National Monument under the 1929 act.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established Jan. 24, 1939"
+    },
+    {
+      "date": "1978-11-10",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national park Nov. 10, 1978",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 95",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Carter statement signing S. 791 (P.L. 95-625), approved Nov. 10, 1978",
+          "url": "https://www.presidency.ucsb.edu/documents/national-parks-and-recreation-act-1978-statement-signing-s-791-into-law"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "National Parks and Recreation Act of 1978 (P.L. 95-625), Carter.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 95,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as a national monument March 4, 1929; established Jan. 24, 1939; redesignated a national park Nov. 10, 1978. Boundary changes: June 26, 1936; May 7, 1952; March 22, 1957; Aug. 8, 1968. Wilderness designated Oct. 20, 1976."
+  }
+}

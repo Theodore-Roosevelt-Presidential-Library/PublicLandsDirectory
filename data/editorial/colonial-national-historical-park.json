@@ -1,0 +1,100 @@
+{
+  "slug": "colonial-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1930-07-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Park: Colonial National Monument authorized July 3, 1930",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1930-12-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Dec. 30, 1930",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1936-06-05",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated June 5, 1936",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 104",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 104,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Park: Colonial National Monument authorized July 3, 1930; established Dec. 30, 1930; redesignated June 5, 1936. Boundary changes: Aug. 22, 1933; June 5, 1936; June 15, 1938; Dec. 24, 1942; April 22, 1944; Dec. 23, 1944; May 12, 1948; Sept. 23, 1950; May 13, 1953; March 29, 1956; Aug. 29, 1967; Nov. 12, 1996. Cemetery: probable date of Civil War interments, 1866. Transferred from War Dept. Aug. 10, 1933. Park acreage—8,676.91 Federal: 8,605.29 Nonfederal: 71.62. Cemetery acreage—2.91, all Federal."
+  }
+}

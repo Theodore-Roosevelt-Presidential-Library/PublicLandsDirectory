@@ -1,0 +1,56 @@
+{
+  "slug": "lincoln-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1911-02-09",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Feb. 9, 1911",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "William Howard Taft",
+        "administration": "William Howard Taft",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 43",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 43,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Feb. 9, 1911; dedicated May 30, 1922; transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933."
+  }
+}

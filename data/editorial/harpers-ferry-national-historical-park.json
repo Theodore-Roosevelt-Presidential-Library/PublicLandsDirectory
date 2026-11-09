@@ -1,0 +1,56 @@
+{
+  "slug": "harpers-ferry-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1944-06-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized as a national monument June 30, 1944",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 111",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1963-05-29",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated May 29, 1963",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 111",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 111,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized as a national monument June 30, 1944; redesignated May 29, 1963. Boundary changes: July 14, 1960; Oct. 24, 1974; March 5, 1980; Oct. 6, 1989; Sept. 24, 2004."
+  }
+}

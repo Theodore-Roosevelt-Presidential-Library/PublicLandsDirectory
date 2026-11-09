@@ -164,6 +164,10 @@ export const CATEGORIES = {
 
 export function categorize(designation = '', name = '') {
   const d = `${designation} ${name}`.toLowerCase();
+  // Only true national parks count as national parks (not Wolf Trap's "National Park for the Performing Arts"
+  // or Roosevelt Campobello "International Park").
+  if (/performing arts|international park/i.test(`${designation} ${name}`)) return 'other';
+  if (/national and state parks/i.test(`${designation} ${name}`)) return 'national-park';
   if (/wetland management district/.test(d)) return 'wetland-management-district';
   if (/wildlife refuge|game refuge|game range/.test(d)) return 'national-wildlife-refuge';
   if (/grassland/.test(d)) return 'national-grassland';

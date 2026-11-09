@@ -1,0 +1,47 @@
+{
+  "slug": "grand-teton-national-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1929-02-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Feb. 26, 1929",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 113",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "86 Stat. 619 (Statutes at Large, govinfo): act of Aug. 25, 1972 authorizing the John D. Rockefeller, Jr., Memorial Parkway",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg619.pdf"
+        },
+        {
+          "name": "45 Stat. 1314 (Statutes at Large, govinfo): Grand Teton National Park act, approved Feb. 26, 1929",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1314.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Extraction error: the Aug. 25, 1972 act (P.L. 92-404, Nixon) authorized the John D. Rockefeller, Jr., Memorial Parkway, not Grand Teton NP. Grand Teton NP was established by act of Feb. 26, 1929 (Coolidge), enlarged Sept. 14, 1950. Drop this claim or reassign it to the Parkway.",
+        "by": "HistorianPanel accuracy review, batch 1"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 113,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Feb. 26, 1929. Enlarged by Congress Sept. 14, 1950, through a boundary change that incorporated much of the Jackson Hole National Monument, proclaimed March 15, 1943. Bordered by the National Elk Refuge, managed by the U.S. Fish and Wildlife Service, the Bridger-Teton National Forest and Caribou-Targhee National Forest managed by the U.S. Forest Service, the John D. Rockefeller, Jr. Memorial Parkway and Yellowstone National Park."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "george-washington-memorial-parkway",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1930-05-29",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized May 29, 1930",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Herbert Hoover",
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1989-11-28",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "On Nov. 28, 1989, the road in Maryland was renamed the Clara Barton Parkway",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "George H. W. Bush",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 105",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 105,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized May 29, 1930; transferred from Office of Public Buildings and Public Parks of the National Capital Aug. 10, 1933. On Nov. 28, 1989, the road in Maryland was renamed the Clara Barton Parkway. Boundary changes: May 13, 1947; Oct. 10, 1965; Oct. 21, 1976."
+  }
+}

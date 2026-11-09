@@ -1,0 +1,80 @@
+{
+  "slug": "lassen-volcanic-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1907-05-06",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed as Lassen Peak and Cinder Cone National Monuments May 6, 1907",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 754, May 6, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-754-setting-aside-lassen-peak-national-monument-california"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 753, May 6, 1907",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-753-setting-aside-cinder-cone-national-monument-california"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Two proclamations (753, 754), T. Roosevelt.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1916-08-09",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Made part of Lassen Volcanic National Park when established Aug. 9, 1916",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "39 Stat. 442 (Statutes at Large, govinfo): Lassen Volcanic National Park act, approved Aug. 9, 1916",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg442.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 33,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed as Lassen Peak and Cinder Cone National Monuments May 6, 1907; made part of Lassen Volcanic National Park when established Aug. 9, 1916. Boundary changes: April 26, 1928; May 21, 1928; Jan. 19, 1929; April 19, 1930; July 3, 1930; Aug. 10, 1961; April 11, 1972. Wilderness designated Oct. 19, 1972."
+  }
+}

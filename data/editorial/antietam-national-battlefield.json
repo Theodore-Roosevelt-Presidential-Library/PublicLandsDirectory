@@ -1,0 +1,122 @@
+{
+  "slug": "antietam-national-battlefield",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1890-08-30",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national battlefield site Aug. 30, 1890",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Benjamin Harrison",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1978-11-10",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated as a na tional battlefield Nov. 10, 1978",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1870-07-14",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Placed under War Dept. July 14, 1870",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ulysses S. Grant",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 58,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established as a national battlefield site Aug. 30, 1890; transferred from War Dept. Aug. 10, 1933; redesignated as a na tional battlefield Nov. 10, 1978. Boundary changes: May 14, 1940; April 22, 1960; May 31, 1962; Nov. 10, 1978. Cemetery: Probable date of Civil War interments: 1866. Placed under War Dept. July 14, 1870; transferred from War Dept. Aug. 10, 1933. Park acreage—3,230.37 Federal: 2742.76 Nonfederal: 487.61. Cemetery acreage: 11.36, all Federal."
+  }
+}

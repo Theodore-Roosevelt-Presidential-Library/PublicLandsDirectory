@@ -1,0 +1,56 @@
+{
+  "slug": "hamilton-grange-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1962-04-27",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized April 27, 1962",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 82",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1988-11-19",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 19, 1988",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 82",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 82,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized April 27, 1962. Established Nov. 19, 1988. Boundary changes: Nov. 9, 2000; moved to St. Nicholas Park June, 7, 2008."
+  }
+}

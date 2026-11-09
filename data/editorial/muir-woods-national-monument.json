@@ -1,13 +1,13 @@
 {
   "slug": "muir-woods-national-monument",
   "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
   "designationHistory": [
     {
       "date": "1908-01-09",
       "action": "established",
-      "designation": "National Monument",
-      "name": "Muir Woods National Monument",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Jan. 9, 1908",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "Theodore Roosevelt",
@@ -15,8 +15,20 @@
         "citation": null
       },
       "note": null,
-      "sources": [],
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
       "reviewed": false
     }
-  ]
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 33,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Jan. 9, 1908. Boundary changes: Sept. 22, 1921; April 5, 1935; June 26, 1951; Sept. 8, 1959; April 11, 1972."
+  }
 }

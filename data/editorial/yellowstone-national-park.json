@@ -1,22 +1,44 @@
 {
   "slug": "yellowstone-national-park",
-  "status": "draft",
-  "reviewNote": "Seeded from staff knowledge on 2026-11-08. Every date and signer must pass HistorianPanel accuracy review before this entry is marked reviewed.",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1872-03-01",
       "action": "established",
-      "designation": "National Park",
-      "name": "Yellowstone National Park",
+      "designation": null,
+      "name": null,
+      "indexText": "Established March 1, 1872",
       "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Ulysses S. Grant",
+        "type": "unspecified",
+        "signedBy": null,
         "administration": "Ulysses S. Grant",
         "citation": null
       },
       "note": null,
-      "sources": [],
-      "reviewed": false
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 113",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "17 Stat. 32 (Statutes at Large, govinfo): Yellowstone act, approved March 1, 1872",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg32.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Grant.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
     }
-  ]
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 113,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established March 1, 1872. Boundary changes: May 26, 1926; March 1, 1929; April 19, 1930; Oct. 20, 1932. Designated a Biosphere Reserve 1976. Designated a World Heritage Site Sept. 6, 1978."
+  }
 }

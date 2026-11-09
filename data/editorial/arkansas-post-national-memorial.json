@@ -1,0 +1,34 @@
+{
+  "slug": "arkansas-post-national-memorial",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1960-07-06",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized July 6, 1960",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 28",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 28,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized July 6, 1960. Boundary change: Nov. 14, 1997."
+  }
+}

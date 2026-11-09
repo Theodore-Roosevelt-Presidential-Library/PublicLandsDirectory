@@ -1,0 +1,100 @@
+{
+  "slug": "thomas-edison-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1955-12-06",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated as Edison Home National Historic Site Dec. 6, 1955",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1956-07-14",
+      "action": "designated",
+      "designation": null,
+      "name": null,
+      "indexText": "Edison Laboratory National Monument proclaimed July 14, 1956",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Dwight D. Eisenhower",
+        "administration": "Dwight D. Eisenhower",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1962-09-05",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Areas combined as Edison National Historic Site Sept. 5, 1962",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2009-03-30",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed and redesignated Thomas Edison National Historical Park March 30, 2009",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 75",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 75,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated as Edison Home National Historic Site Dec. 6, 1955; Edison Laboratory National Monument proclaimed July 14, 1956; areas combined as Edison National Historic Site Sept. 5, 1962; renamed and redesignated Thomas Edison National Historical Park March 30, 2009. Boundary changes: Sept. 5, 1962; Oct. 21, 1976."
+  }
+}

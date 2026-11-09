@@ -1,0 +1,56 @@
+{
+  "slug": "cape-cod-national-seashore",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1961-08-07",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized Aug. 7, 1961",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "John F. Kennedy",
+        "administration": "John F. Kennedy",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 63",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1966-06-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established June 1, 1966",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 63",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 63,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized Aug. 7, 1961; established June 1, 1966. Boundary changes: Nov. 10, 1978; Oct. 26, 1998."
+  }
+}

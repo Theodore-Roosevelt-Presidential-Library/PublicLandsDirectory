@@ -1,0 +1,56 @@
+{
+  "slug": "lava-beds-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1925-11-21",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Nov. 21, 1925",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from U.S. Forest Service Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 33",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 33,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Nov. 21, 1925; transferred from U.S. Forest Service Aug. 10, 1933. Boundary changes: April 27, 1951; Oct. 26, 1974; Jan. 26, 2011. Wilderness designated Oct. 13, 1972."
+  }
+}

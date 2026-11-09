@@ -1,0 +1,5 @@
+{
+  "note": "Hand-picked cover images. Each entry replaces the automatic pick for that site. Use only images allowed by the TRPL image-rights standard (Acquia DAM, U.S. government public domain, CC0, or CC BY/BY-SA 4.0 with license). To block an automatic pick without replacing it, add the slug to 'reject'.",
+  "sites": {},
+  "reject": []
+}

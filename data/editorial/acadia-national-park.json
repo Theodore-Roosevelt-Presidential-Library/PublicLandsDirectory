@@ -1,0 +1,144 @@
+{
+  "slug": "acadia-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1916-07-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Sieur de Monts National Monument July 8, 1916",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Woodrow Wilson",
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1339, July 8, 1916",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1339-setting-aside-the-sieur-de-monts-national-monument-maine"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1339, Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1919-02-26",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Lafayette National Park Feb. 26, 1919",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Woodrow Wilson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "40 Stat. 1178 (Statutes at Large, govinfo): Lafayette National Park act, approved Feb. 26, 1919",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg1178.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (40 Stat. 1178), Wilson.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1929-01-19",
+      "action": "renamed",
+      "designation": null,
+      "name": null,
+      "indexText": "Renamed Acadia National Park Jan. 19, 1929",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "45 Stat. 1083 (Statutes at Large, govinfo): act approved Jan. 19, 1929 renaming Lafayette NP as Acadia NP",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-45/pdf/STATUTE-45-Pg1083.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1986-09-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Permanent boundary established Sept. 25, 1986",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Ronald Reagan",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 58",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "100 Stat. 955 (Statutes at Large, govinfo): Acadia permanent boundary act, Sept. 25, 1986",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg955.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 99-420), Reagan.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 58,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Sieur de Monts National Monument July 8, 1916; established as Lafayette National Park Feb. 26, 1919; renamed Acadia National Park Jan. 19, 1929. Boundary changes: Jan. 19, 1929; May 23, 1930; May 29, 1935; Aug. 24, 1935; June 6, 1942; Dec. 22, 1944; July 30, 1947; Sept. 7, 1949; Aug. 1, 1950; July 24, 1956; Oct. 3, 1966; March 4, 1968; March 12, 1968; Oct. 15, 1982. Permanent boundary established Sept. 25, 1986."
+  }
+}

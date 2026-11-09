@@ -1,0 +1,56 @@
+{
+  "slug": "harriet-tubman-underground-railroad-national-historical-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "2013-03-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed a national monument on March 25, 2013",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Barack Obama",
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "2014-12-19",
+      "action": "redesignated",
+      "designation": null,
+      "name": null,
+      "indexText": "Redesignated a national historical park on Dec. 19, 2014",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Barack Obama",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 61",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 61,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed a national monument on March 25, 2013; redesignated a national historical park on Dec. 19, 2014"
+  }
+}

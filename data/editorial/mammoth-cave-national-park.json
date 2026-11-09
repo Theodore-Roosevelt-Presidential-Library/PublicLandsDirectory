@@ -1,0 +1,76 @@
+{
+  "slug": "mammoth-cave-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1926-05-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Authorized May 25, 1926",
+      "authority": {
+        "type": "act-of-congress",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "44 Stat. 635 (Statutes at Large, govinfo): Mammoth Cave act, approved May 25, 1926",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg635.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1941-07-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established July 1, 1941",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS Mammoth Cave Master Plan, Appendix A (npshistory.com)",
+          "url": "https://www.npshistory.com/publications/maca/master_plan/appa.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Administrative establishment once the minimum acreage was assembled; FDR in office.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 56,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Authorized May 25, 1926; established July 1, 1941. Boundary changes: May 14, 1934; Aug. 28, 1937; Dec. 3, 1940; June 5, 1942. Designated a World Heritage Site Oct. 27, 1981. Designated a Biosphere Reserve 1990."
+  }
+}

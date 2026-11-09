@@ -1,0 +1,56 @@
+{
+  "slug": "yukon-charley-rivers-national-preserve",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1978-12-01",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Yukon-Charley National Monument Dec. 1, 1978",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Jimmy Carter",
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 23",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1980-12-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as a national preserve Dec. 2, 1980",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Jimmy Carter",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 23",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 23,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Yukon-Charley National Monument Dec. 1, 1978; established as a national preserve Dec. 2, 1980."
+  }
+}

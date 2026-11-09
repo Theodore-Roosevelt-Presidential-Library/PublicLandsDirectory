@@ -26,7 +26,7 @@ const paras = (s) => String(s || '').split(/\n{2,}|\r?\n/).filter((x) => x.trim(
 const fmtDate = (iso) => { if (!iso) return ''; const [y, m, d] = iso.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d || 1)).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }); };
 const num = (n) => Math.round(n).toLocaleString('en-US');
 const AUTH = { 'act-of-congress': 'Act of Congress', 'presidential-proclamation': 'Presidential proclamation', 'executive-order': 'Executive order', 'secretarial-order': 'Secretarial order', 'public-land-order': 'Public land order', other: 'Other authority' };
-const authLine = (a) => a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
+const authLine = (a) => a && a.type === 'unspecified' ? (a.administration ? `${esc(a.administration)} administration` : '') : a ? `${AUTH[a.type] || a.type}${a.citation ? ` (${esc(a.citation)})` : ''}${a.type === 'act-of-congress' ? `, signed by ${esc(a.signedBy)}` : a.signedBy ? ` by ${esc(a.signedBy)}` : ''}` : '';
 const pendingTag = (reviewed) => reviewed ? '' : ' <span class="tag tag-pending" title="This entry is waiting for review by the Library\u2019s historians">Pending historian review</span>';
 
 function layout({ title, description, path, body, head = '', jsonld = null, image = null }) {
@@ -53,6 +53,14 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
   <p>A project of the <a href="https://www.trlibrary.com">Theodore Roosevelt Presidential Library</a> in Medora, North Dakota. Data from the National Park Service, U.S. Fish and Wildlife Service, USDA Forest Service, Bureau of Land Management, National Weather Service and National Interagency Fire Center, refreshed automatically. <a href="/about/">Sources and methods</a> · <a href="/api/">Open data</a></p>
 </div></footer>
 </body></html>`;
+}
+
+// Photo credit per the Library's image-rights standard: "Photo: Name, CC BY-SA 4.0" with the license and file linked.
+function creditHTML(i) {
+  const who = esc(i.credit || i.source || '');
+  if (i.license && i.licenseUrl) return `Photo: ${who}, <a href="${esc(i.licenseUrl)}" rel="license noopener">${esc(i.license)}</a>${i.filePage ? ` · <a href="${esc(i.filePage)}" rel="noopener">source</a>` : ''}`;
+  if (i.license) return `Photo: ${who} (${esc(i.license)})${i.filePage && i.source === 'Wikimedia Commons' ? ` · <a href="${esc(i.filePage)}" rel="noopener">source</a>` : ''}`;
+  return `Photo: ${who}${i.title ? `, ${esc(i.title)}` : ''}`;
 }
 
 // ---------- alerts ----------
@@ -116,7 +124,7 @@ for (const s of sites) {
     ['Managed by', s.managedBy.map((m) => `<a href="${esc(AGENCIES[m.code].url)}">${esc(m.name)}</a>`).join(' and ') + (s.managedBy.length > 1 ? ' <span class="muted">(jointly)</span>' : '')],
     ['Location', esc(s.stateNames.join(', ')) || '<span class="muted">Outside the 50 states</span>'],
     s.acres ? ['Size', `${num(s.acres.value)} acres${s.acres.kind !== 'documented' ? ` <span class="muted" title="${esc(s.acres.note || s.acres.source)}">(${s.acres.kind === 'gis-estimate' ? 'estimate' : 'GIS'})</span>` : ''}`] : null,
-    s.firstProtected && (!s.established || s.firstProtected.date !== s.established.date) ? ['First protected', `${fmtDate(s.firstProtected.date)} as ${esc(s.firstProtected.name || s.firstProtected.designation)}<br><span class="muted">${authLine(s.firstProtected.authority)}</span>${pendingTag(s.firstProtected.reviewed)}`] : null,
+    s.firstProtected && (!s.established || s.firstProtected.date !== s.established.date) ? ['First protected', `${fmtDate(s.firstProtected.date)}${s.firstProtected.name || s.firstProtected.designation ? ` as ${esc(s.firstProtected.name || s.firstProtected.designation)}` : ''}${s.firstProtected.text ? `<br><span class="muted">${esc(s.firstProtected.text)}</span>` : ''}<br><span class="muted">${authLine(s.firstProtected.authority)}</span>${pendingTag(s.firstProtected.reviewed)}`] : null,
     s.established ? [`${esc(s.established.designation)} since`, `${fmtDate(s.established.date)}<br><span class="muted">${authLine(s.established.authority)}</span>${pendingTag(s.established.reviewed)}`] : ['Established', '<span class="muted">Designation history being researched</span>'],
     s.administrations.length ? ['Administration' + (s.administrations.length > 1 ? 's' : ''), esc(s.administrations.join(', '))] : null,
   ].filter(Boolean);
@@ -135,7 +143,7 @@ for (const s of sites) {
   const section = (id, title, html) => html ? `<section id="${id}" class="block"><h2>${title}</h2>${html}</section>` : '';
   const guidePending = g.reviewed === false ? `<p class="note">Draft guide text${pendingTag(false)}</p>` : '';
 
-  const historyHTML = (g.history ? paras(g.history) : '') + (hist.length ? `<ol class="timeline">${hist.map((h) => `<li><time datetime="${h.date}">${fmtDate(h.date)}</time><div><strong>${esc(h.name || h.designation)}</strong> ${h.action !== 'established' ? `<span class="muted">(${esc(h.action)})</span>` : ''}<br>${authLine(h.authority)}${h.note ? `<br><span class="muted">${esc(h.note)}</span>` : ''}${pendingTag(h.reviewed)}</div></li>`).join('')}</ol>` : '<p class="muted">The designation history for this site (every law, proclamation and order, and the administration behind each) is being researched and checked by the Library\u2019s historians.</p>');
+  const historyHTML = (g.history ? paras(g.history) : '') + (hist.length ? `<ol class="timeline">${hist.map((h) => `<li><time datetime="${h.date}">${fmtDate(h.date)}</time><div>${h.indexText ? esc(h.indexText) + '.' : `<strong>${esc(h.name || h.designation)}</strong> ${h.action !== 'established' ? `<span class="muted">(${esc(h.action)})</span>` : ''}`}<br><span class="muted">${authLine(h.authority)}</span>${h.note ? `<br><span class="muted">${esc(h.note)}</span>` : ''}${pendingTag(h.reviewed)}</div></li>`).join('')}</ol>` : '<p class="muted">The designation history for this site (every law, proclamation and order, and the administration behind each) is being researched and checked by the Library\u2019s historians.</p>');
 
   const visit = [
     s.hours.length && `<h3>Hours</h3>${s.hours.map((h) => `<p><strong>${esc(h.name)}</strong>: ${esc(h.description)}</p>`).join('')}`,
@@ -150,11 +158,12 @@ for (const s of sites) {
   const doHTML = [
     g.seeAndDo && paras(g.seeAndDo),
     s.thingsToDo.length && `<ul class="cards-mini">${s.thingsToDo.map((t) => `<li><a href="${esc(t.url)}">${esc(t.title)}</a>${t.description ? `<br><span class="muted">${esc(t.description.slice(0, 160))}</span>` : ''}</li>`).join('')}</ul>`,
-    s.activities.length && `<h3>Activities</h3><ul class="chips">${s.activities.map((a) => `<li>${esc(a)}</li>`).join('')}</ul>`,
+    s.activities.length && `<h3>Activities</h3><ul class="chips">${s.activities.map((a) => `<li><a href="/?act=${encodeURIComponent(a)}" title="More places for ${esc(a.toLowerCase())}">${esc(a)}</a></li>`).join('')}</ul>`,
     s.links.alltrailsExplore && `<p><a href="${esc(s.links.alltrails || s.links.alltrailsExplore)}">Browse hiking, biking and paddling routes on AllTrails</a></p>`,
   ].filter(Boolean).join('');
 
-  const homelands = g.tribalHomelands ? paras(g.tribalHomelands) : `<p class="muted">These lands are the ancestral and present-day homelands of Native nations. A section on whose lands these are is being prepared with tribal review. In the meantime, <a href="https://native-land.ca/?lat=${s.location?.lat || ''}&lng=${s.location?.lon || ''}&zoom=8">Native Land Digital</a> offers a starting point.</p>`;
+  // Shown only when reviewed text exists (tribal review required); no placeholder.
+  const homelands = g.tribalHomelands && g.reviewed !== false ? paras(g.tribalHomelands) : '';
 
   const nearby = s.nearby.map((n) => bySlug.get(n.slug)).filter(Boolean);
   const gallery = s.images.slice(1, 7);
@@ -177,7 +186,7 @@ for (const s of sites) {
     <div class="wrap hero-inner">
       <p class="eyebrow">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.code).join(' / '))} · ${esc(s.states.join(', '))}${s.trTypes?.length ? ` · <a class="tr-badge" href="#roosevelt">Roosevelt connection</a>` : ''}</p>
       <h1>${esc(s.name)}</h1>
-      ${hero?.credit ? `<p class="credit">Photo: ${esc(hero.credit)}${hero.title ? `, ${esc(hero.title)}` : ''}</p>` : ''}
+      ${hero ? `<p class="credit">${creditHTML(hero)}</p>` : ''}
     </div>
   </div>
   <div class="wrap grid">
@@ -189,7 +198,7 @@ for (const s of sites) {
       ${(s.trConnections?.length || s.trConnection) ? section('roosevelt', 'The Roosevelt connection', trHTML(s)) : ''}
       ${section('see-and-do', 'What to see and do', doHTML)}
       ${section('visit', 'Plan your visit', visit || `<p>Check the <a href="${esc(s.links.official || s.agency.url)}">${esc(s.agency.name)}</a> for current hours, fees and access.</p>`)}
-      ${section('homelands', 'Whose lands these are', homelands)}
+      ${homelands ? section('homelands', 'Whose lands these are', homelands) : ''}
       ${gallery.length ? section('photos', 'Photos', `<div class="gallery">${gallery.map((i) => `<figure><img loading="lazy" src="${esc(i.url)}" alt="${esc(i.alt || i.title || '')}"><figcaption>${esc(i.title || '')}${i.credit ? ` <span class="muted">· ${esc(i.credit)}</span>` : ''}</figcaption></figure>`).join('')}</div>`) : ''}
       ${nearby.length ? section('nearby', 'Pair it with', `<ul class="nearby">${s.nearby.map((n) => { const o = bySlug.get(n.slug); return o ? `<li><a href="/sites/${o.slug}/">${esc(o.name)}</a> <span class="muted">${esc(o.agency.code)} · ${Math.round(n.km * 0.621)} miles</span></li>` : ''; }).join('')}</ul>`) : ''}
     </div>
@@ -217,7 +226,7 @@ const index = sites.map((s) => ({
   y: s.established ? Number(s.established.date.slice(0, 4)) : null, fy: s.firstProtected ? Number(s.firstProtected.date.slice(0, 4)) : null,
   p: s.administrations, lat: s.location?.lat ?? null, lon: s.location?.lon ?? null,
   img: s.images[0]?.url || null, ac: s.acres?.value || null, al: (alerts.sites[s.slug] || []).length,
-  act: s.activities.slice(0, 40), tr: s.trTypes || [],
+  act: s.activities, tr: s.trTypes || [],
 }));
 await writeJSON(join(DIST, 'api', 'index.json'), { generated, categories: CATEGORIES, agencies: AGENCIES, sites: index }, false);
 await writeJSON(join(DIST, 'api', 'directory.json'), { generated, license: 'Public domain (U.S. government data) and CC BY 4.0 for Library-written guide text', sites }, false);
@@ -245,6 +254,7 @@ const home = `
     <label><span>Agency</span><select id="agency"><option value="">All agencies</option>${Object.values(AGENCIES).map((a) => `<option value="${a.code}">${esc(a.name)}</option>`).join('')}</select></label>
     <label><span>State</span><select id="state"><option value="">All states</option></select></label>
     <label><span>Administration</span><select id="admin"><option value="">Any</option></select></label>
+    <label><span>Activity</span><select id="act"><option value="">Any activity</option></select></label>
     <label><span>Roosevelt connection</span><select id="tr"><option value="">Any</option><option value="any">Any Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option></select></label>
     <label class="check"><input type="checkbox" id="alerts"> <span>Has alerts</span></label>
   </form>
@@ -292,6 +302,25 @@ await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Director
   await writeText(join(DIST, 'roosevelt', 'index.html'), layout({ title: 'Theodore Roosevelt’s public lands | Public Lands Directory', description: 'Public lands Theodore Roosevelt protected as President, places that trace to his proclamations and orders, and places his own record shows he visited.', path: '/roosevelt/', body, head: `<link rel="stylesheet" href="${LEAFLET_CSS}"><script defer src="${LEAFLET_JS}"></script>` }));
 }
 
+// ---------- cover review sheet (unlisted, noindex) ----------
+{
+  const coverData = await readJSON(join(DATA, 'reference', 'cover-images.json'), { sites: {}, missing: [] });
+  const rows = sites.map((x) => ({ x, c: coverData.sites[x.slug] }));
+  const order = (r) => (!r.c ? 0 : r.c.review === 'auto-category' ? 1 : r.c.tier === 3 ? 2 : 3);
+  rows.sort((a, b) => order(a) - order(b) || a.x.name.localeCompare(b.x.name));
+  const TIER = { 0: 'Library pick', 1: 'U.S. government', 2: 'Public domain / CC0', 3: 'CC BY or BY-SA 4.0' };
+  const cards = rows.map(({ x, c }) => `<figure class="cv${c ? '' : ' none'}" data-flag="${!c ? 'missing' : c.review === 'auto-category' ? 'check' : c.tier === 3 ? 'credit' : 'ok'}">${c ? `<a href="${esc(c.filePage || '#')}"><img loading="lazy" src="${esc(c.url)}" alt=""></a>` : '<div class="ph">No cover yet</div>'}<figcaption><a href="/sites/${x.slug}/"><strong>${esc(x.name)}</strong></a><br>${c ? `${esc(TIER[c.tier] || '')} · ${esc(c.license || '')}${c.review === 'auto-category' ? ' · <b>check</b>' : ''}<br><span class="muted">${esc((c.credit || '').slice(0, 60))}</span>` : ''}<br><code>${x.slug}</code></figcaption></figure>`).join('');
+  const counts = rows.reduce((m, r) => { const k = !r.c ? 'missing' : r.c.review === 'auto-category' ? 'check' : 'ok'; m[k] = (m[k] || 0) + 1; return m; }, {});
+  const body = `<div class="wrap prose" style="max-width:1400px"><h1>Cover images</h1>
+  <p>Every site\u2019s cover, picked automatically under the Library\u2019s image-rights standard. <strong>Check</strong> marks picks from a Commons category, which are the least certain; they are listed first, after sites with no cover. To replace a cover, add it to <code>data/editorial/_cover-overrides.json</code> under <code>sites</code>; to drop one, add the slug to <code>reject</code>.</p>
+  <p>${counts.missing || 0} without a cover · ${counts.check || 0} to check · ${counts.ok || 0} from agency photos or Wikidata</p>
+  <p><label><input type="checkbox" id="onlycheck"> Show only covers to check and sites without one</label></p>
+  <div class="cvgrid">${cards}</div></div>
+  <style>.cvgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.cv{margin:0;font:12px/1.35 var(--ui)}.cv img,.cv .ph{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:4px;background:var(--sand-l)}.cv .ph{display:flex;align-items:center;justify-content:center;color:#888}.cv[data-flag=check] img{outline:3px solid var(--sun-orange)}.cv code{font-size:10px;color:#777}body.only .cv[data-flag=ok],body.only .cv[data-flag=credit]{display:none}</style>
+  <script>document.getElementById('onlycheck').onchange=(e)=>document.body.classList.toggle('only',e.target.checked)</script>`;
+  await writeText(join(DIST, 'covers', 'index.html'), layout({ title: 'Cover images | Public Lands Directory', description: 'Review sheet for cover images.', path: '/covers/', body, head: '<meta name="robots" content="noindex">' }));
+}
+
 // ---------- about + api docs ----------
 const about = `<div class="wrap prose">
 <h1>About the data</h1>
@@ -307,6 +336,7 @@ const about = `<div class="wrap prose">
 <tr><td>Weather watches, warnings and advisories</td><td><a href="https://www.weather.gov/documentation/services-web-api">National Weather Service</a></td><td>Hourly</td></tr>
 <tr><td>Active wildfire perimeters</td><td><a href="https://data-nifc.opendata.arcgis.com/">National Interagency Fire Center (WFIGS)</a></td><td>Hourly</td></tr>
 <tr><td>State lines</td><td>U.S. Census Bureau TIGERweb</td><td>As needed</td></tr>
+<tr><td>Cover photos</td><td>Agency photos; Wikidata and Wikimedia Commons, license-checked</td><td>Weekly</td></tr>
 <tr><td>Designation history, guide text, Roosevelt connections</td><td>Theodore Roosevelt Presidential Library, reviewed by its historians</td><td>As written</td></tr>
 </tbody></table>
 <h2>How designation history works</h2>
@@ -316,7 +346,7 @@ const about = `<div class="wrap prose">
 <h2>Places managed by more than one agency</h2>
 <p>When agencies share a place, such as a national monument split between the Forest Service and BLM, it appears once and lists every managing agency.</p>
 <h2>Photos</h2>
-<p>Photos come from the managing agency with the credit it provides. Most federal photos are in the public domain, but some agency pages use photos by outside photographers. Check the credit before reusing an image.</p>
+<p>Every photo is free to use, chosen in this order: the managing agency\u2019s own photos (U.S. government works in the public domain), then public domain or CC0 images from Wikimedia Commons, then images under CC BY 4.0 or CC BY-SA 4.0, which carry the photographer\u2019s name and a link to the license. Images under older or more restrictive licenses (CC 3.0 and earlier, NonCommercial, NoDerivatives) are never used. Agency photos credited to outside photographers are left out. If you reuse a photo, keep its credit line.</p>
 </div>`;
 await writeText(join(DIST, 'about', 'index.html'), layout({ title: 'About the data | Public Lands Directory', description: 'Sources, refresh schedule and methods for the Public Lands Directory.', path: '/about/', body: about }));
 

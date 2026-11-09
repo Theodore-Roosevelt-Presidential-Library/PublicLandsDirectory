@@ -2,6 +2,9 @@
  * <script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
  * <public-lands-card site="theodore-roosevelt-national-park" view="card"></public-lands-card>
  * views: card (default) | alerts | history | map | compact | roosevelt
+ * Directory map: <public-lands-map agency="NPS" state="ND" tr="any" controls height="480"></public-lands-map>
+ * Deep links: the host page's ?pl-site=, pl-view=, pl-state=, pl-agency=, pl-cat=, pl-tr=, pl-q= override attributes, and
+ *   map filter changes are written back to the host URL. Use deep-link="map1-" for a different prefix, deep-link="off" to disable.
  * options: theme="light|dark", photo="false", width via CSS
  */
 (function () {
@@ -35,7 +38,11 @@
     connectedCallback() { this.render(); }
     attributeChangedCallback() { if (this.isConnected) this.render(); }
     async render() {
-      const slug = this.getAttribute('site'), view = this.getAttribute('view') || 'card';
+      // Deep link: ?pl-site=<slug>&pl-view=<view> on the host page overrides the attributes (prefix set by deep-link="…").
+      const pre = this.getAttribute('deep-link') || 'pl-';
+      const host = new URLSearchParams(location.search);
+      const slug = (this.getAttribute('deep-link') !== 'off' && host.get(`${pre}site`)) || this.getAttribute('site');
+      const view = (this.getAttribute('deep-link') !== 'off' && host.get(`${pre}view`)) || this.getAttribute('view') || 'card';
       const root = this.shadowRoot;
       if (!slug) { root.innerHTML = '<p>Missing site attribute.</p>'; return; }
       root.innerHTML = `<style>${CSS}</style><div class="c"><div class="b">Loading…</div></div>`;
@@ -48,7 +55,8 @@
       const est = s.established;
       const estHTML = est ? `<b>${esc(est.designation)} since</b><span>${fmt(est.date)} · ${esc(AUTH[est.authority?.type] || '')}${est.authority?.signedBy ? `, ${esc(est.authority.signedBy)}` : ''}${est.reviewed ? '' : ' <span class="pend">pending review</span>'}</span>` : '';
       const head = `${img && view !== 'compact' && view !== 'map' ? `<div class="img" style="background-image:url('${esc(img.url)}')" role="img" aria-label="${esc(img.alt || s.name)}"></div>` : ''}<div class="b"><h3>${esc(s.name)}</h3><p class="m">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.name).join(' & '))} · ${esc(s.stateNames.join(', '))}</p>`;
-      const foot = `<div class="ft"><span>Theodore Roosevelt Presidential Library</span><a href="${url}" target="_blank" rel="noopener">Full guide →</a></div></div>`;
+      const photoCredit = img ? `Photo: ${esc(img.credit || img.source || '')}${img.license && img.licenseUrl ? `, <a href="${esc(img.licenseUrl)}" target="_blank" rel="license noopener">${esc(img.license)}</a>` : ''}` : '';
+      const foot = `${photoCredit && view !== 'compact' && view !== 'map' ? `<p class="m" style="margin:8px 0 0;font-size:.7rem">${photoCredit}</p>` : ''}<div class="ft"><span>Theodore Roosevelt Presidential Library</span><a href="${url}" target="_blank" rel="noopener">Full guide →</a></div></div>`;
       const TRL = { protected: 'Protected by T.R.', 'executive-action': 'Traces to a T.R. proclamation or order', visited: 'T.R. was here' };
       const trLine = (s.trTypes || []).length ? `<p class="m" style="color:#1B4532;font-weight:600"><a href="${url}#roosevelt" target="_blank" rel="noopener">Roosevelt connection:</a> ${esc(s.trTypes.map((t) => TRL[t] || t).join(' \u00b7 '))}</p>` : '';
       let body = '';
@@ -62,4 +70,39 @@
     }
   }
   customElements.define('public-lands-card', PublicLandsCard);
+
+  // <public-lands-map agency="NPS" category="national-park" state="ND" tr="any" sites="a,b" controls height="480"></public-lands-map>
+  class PublicLandsMap extends HTMLElement {
+    static get observedAttributes() { return ['agency', 'category', 'state', 'tr', 'sites', 'controls', 'height', 'color', 'boundaries']; }
+    connectedCallback() { this.render(); }
+    attributeChangedCallback() { if (this.isConnected) this.render(); }
+    render() {
+      const q = new URLSearchParams();
+      const map = { agency: 'agency', category: 'cat', state: 'state', tr: 'tr', sites: 'sites', color: 'color', search: 'q', site: 'site' };
+      for (const [attr, key] of Object.entries(map)) if (this.getAttribute(attr)) q.set(key, this.getAttribute(attr));
+      // Deep link: host-page params with the prefix (default "pl-") override attributes, e.g. ?pl-state=ND&pl-site=…
+      const pre = this.getAttribute('deep-link') || 'pl-', on = this.getAttribute('deep-link') !== 'off';
+      if (on) {
+        const host = new URLSearchParams(location.search);
+        for (const key of ['agency', 'cat', 'state', 'tr', 'q', 'site']) if (host.get(pre + key)) q.set(key, host.get(pre + key));
+      }
+      this._frameId = this._frameId || Math.random().toString(36).slice(2, 9);
+      q.set('frame', this._frameId);
+      if (on && !this._listening) {
+        this._listening = true;
+        window.addEventListener('message', (e) => {
+          if (e.origin !== BASE || e.data?.type !== 'pld:map-state' || e.data.frame !== this._frameId) return;
+          const url = new URL(location.href);
+          for (const [k, v] of Object.entries(e.data.state || {})) v ? url.searchParams.set(pre + k, v) : url.searchParams.delete(pre + k);
+          history.replaceState(history.state, '', url);
+        });
+      }
+      if (this.hasAttribute('controls')) q.set('controls', '1');
+      if (this.hasAttribute('boundaries')) q.set('boundaries', '1');
+      const h = this.getAttribute('height') || '480';
+      if (!this.shadowRoot) this.attachShadow({ mode: 'open' });
+      this.shadowRoot.innerHTML = `<style>:host{display:block}iframe{border:0;width:100%;height:${/^\d+$/.test(h) ? h + 'px' : h};display:block;border-radius:8px}</style><iframe title="Map of public lands" loading="lazy" src="${BASE}/embed/directory-map.html?${q}"></iframe>`;
+    }
+  }
+  if (!customElements.get('public-lands-map')) customElements.define('public-lands-map', PublicLandsMap);
 })();

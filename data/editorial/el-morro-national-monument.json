@@ -1,0 +1,34 @@
+{
+  "slug": "el-morro-national-monument",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1906-12-08",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Dec. 8, 1906",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Theodore Roosevelt",
+        "administration": "Theodore Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 78",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 78,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Dec. 8, 1906. Boundary changes: June 18, 1917; June 14, 1950."
+  }
+}

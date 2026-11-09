@@ -1,0 +1,34 @@
+{
+  "slug": "nicodemus-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1996-11-12",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Nov. 12, 1996",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Bill Clinton",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 56",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 56,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Nov. 12, 1996."
+  }
+}

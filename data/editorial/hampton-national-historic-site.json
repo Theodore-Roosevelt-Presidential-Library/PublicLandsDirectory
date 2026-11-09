@@ -1,0 +1,34 @@
+{
+  "slug": "hampton-national-historic-site",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1948-06-22",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Designated June 22, 1948",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Harry S. Truman",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 60",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 60,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Designated June 22, 1948. Boundary changes: Dec. 23, 1953; Nov. 10, 1978."
+  }
+}

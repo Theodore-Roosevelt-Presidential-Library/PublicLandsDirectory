@@ -1,0 +1,44 @@
+{
+  "slug": "north-cascades-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1968-10-02",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established Oct. 2, 1968",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Lyndon B. Johnson",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 110",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "82 Stat. 926 (Statutes at Large, govinfo): North Cascades act, approved Oct. 2, 1968",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg926.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress (P.L. 90-544), LBJ.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 110,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Established Oct. 2, 1968."
+  }
+}

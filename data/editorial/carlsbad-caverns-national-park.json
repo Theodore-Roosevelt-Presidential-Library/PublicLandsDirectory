@@ -1,0 +1,80 @@
+{
+  "slug": "carlsbad-caverns-national-park",
+  "status": "reviewed",
+  "designationHistory": [
+    {
+      "date": "1923-10-25",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Proclaimed Carlsbad Cave National Monument Oct. 25, 1923",
+      "authority": {
+        "type": "presidential-proclamation",
+        "signedBy": "Calvin Coolidge",
+        "administration": "Calvin Coolidge",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1679, Oct. 25, 1923",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1679-carlsbad-cave-national-monument"
+        },
+        {
+          "name": "NPS History: National Monument Proclamations under the Antiquities Act (archived)",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090109132510/http://www.cr.nps.gov/history/hisnps/NPSHistory/monuments.htm"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1679, Coolidge.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "1930-05-14",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established as Carlsbad Caverns National Park May 14, 1930",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 77",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "46 Stat. 279 (Statutes at Large, govinfo): Carlsbad Caverns National Park act, May 14, 1930",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg279.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of Congress, Hoover.",
+        "by": "HistorianPanel accuracy review, batch 1",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 77,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "Proclaimed Carlsbad Cave National Monument Oct. 25, 1923; established as Carlsbad Caverns National Park May 14, 1930. Boundary changes: Feb. 21, 1933; May 4, 1934; Feb. 3, 1939; Dec. 30, 1963. Wilderness designated Nov. 10, 1978. Designated a World Heritage Site Dec. 9, 1995."
+  }
+}

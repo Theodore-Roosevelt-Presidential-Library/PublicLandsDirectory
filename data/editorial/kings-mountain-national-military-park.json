@@ -1,0 +1,56 @@
+{
+  "slug": "kings-mountain-national-military-park",
+  "status": "draft",
+  "designationHistory": [
+    {
+      "date": "1931-03-03",
+      "action": "established",
+      "designation": null,
+      "name": null,
+      "indexText": "Established March 3, 1931",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Herbert Hoover",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    },
+    {
+      "date": "1933-08-10",
+      "action": "transferred",
+      "designation": null,
+      "name": null,
+      "indexText": "Transferred from War Dept. Aug. 10, 1933",
+      "authority": {
+        "type": "unspecified",
+        "signedBy": null,
+        "administration": "Franklin D. Roosevelt",
+        "citation": null
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 94",
+          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        }
+      ],
+      "research": "nps-index-2012-2016",
+      "reviewed": false
+    }
+  ],
+  "historySource": {
+    "name": "The National Parks: Index 2012–2016 (National Park Service)",
+    "page": 94,
+    "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf",
+    "indexText": "American frontiersmen defeated the British here on Oct. 7, 1780, at a critical point during the American Revolution. Established March 3, 1931; transferred from War Dept. Aug. 10, 1933. Boundary change: June 23, 1959."
+  }
+}
