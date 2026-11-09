@@ -1,6 +1,6 @@
 {
   "slug": "president-william-jefferson-clinton-birthplace-home-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2009-03-30",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 111-11, title VII, sec. 7002, 123 Stat. 1188"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 111-11, sec. 7002; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2010-12-14",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established Dec. 14, 2010",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "NPS notice, effective Dec. 14, 2010 (Federal Register Dec. 28, 2010)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 30",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register: NPS notice 2010-32550, President William Jefferson Clinton Birthplace Home National Historic Site (Dec. 28, 2010)",
+          "url": "https://www.federalregister.gov/documents/2010/12/28/2010-32550/president-william-jefferson-clinton-birthplace-home-national-historic-site"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "NPS notice established the site as a unit of the National Park System effective Dec. 14, 2010; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,43 @@
 {
   "slug": "perrys-victory-and-international-peace-memorial",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1936-06-02",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Visible for miles, it stands as a reminder not only of the events of the War of 1812, but also as a symbol of international peace between Great Britain, Canada, and the United States Established as a national monument June 2, 1936",
+      "indexText": "Established as a national monument June 2, 1936",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Act of June 2, 1936, ch. 477, 49 Stat. 1393"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of June 2, 1936 (Public No. 631), 49 Stat. 1393, act to provide for the creation of the Perry's Victory and International Peace Memorial National Monument, approved June 2, 1936",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1393.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 433a, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section433a&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date and President (FDR) are right; the instrument is the act of June 2, 1936 (govinfo metadata misdates it June 1). Draft text carried a stray descriptive sentence, now trimmed.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Visible for miles, it stands as a reminder not only of the events of the War of 1812, but also as a symbol of international peace between Great Britain, Canada, and the United States Established as a national monument June 2, 1936"
     },
     {
       "date": "1972-10-26",
@@ -31,20 +46,34 @@
       "name": null,
       "indexText": "Redesignated a memorial Oct. 26, 1972",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-568, 86 Stat. 1181"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 88",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 92-568, 86 Stat. 1181, act changing the name of the monument, approved Oct. 26, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1181-3.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 433a, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section433a&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-568 renamed it Perry's Victory and International Peace Memorial; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,6 +1,6 @@
 {
   "slug": "pipe-spring-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1923-05-31",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Warren G. Harding",
         "administration": "Warren G. Harding",
-        "citation": null
+        "citation": "Proclamation 1663, 43 Stat. 1913"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1663, 43 Stat. 1913, Pipe Spring National Monument, done May 31, 1923",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1913.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1663, May 31, 1923",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1663-establishing-the-pipe-spring-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1663; Harding.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,6 +1,6 @@
 {
   "slug": "lower-delaware-national-wild-and-scenic-river",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2000-11-01",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 106-418, 114 Stat. 1817"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 136",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 106-418, 114 Stat. 1817, Lower Delaware Wild and Scenic Rivers Act, approved Nov. 1, 2000",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-114/pdf/STATUTE-114-Pg1817.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1271, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 106-418 designated the segments; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

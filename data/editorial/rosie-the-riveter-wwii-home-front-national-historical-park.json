@@ -1,6 +1,6 @@
 {
   "slug": "rosie-the-riveter-wwii-home-front-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2000-10-24",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Authorized and established Oct. 24, 2000",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 106-352, 114 Stat. 1370"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 35",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 106-352, 114 Stat. 1370, Rosie the Riveter/World War II Home Front National Historical Park Establishment Act of 2000, approved Oct. 24, 2000",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-114/pdf/STATUTE-114-Pg1370.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410ggg, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410ggg&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 106-352; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

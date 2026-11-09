@@ -1,6 +1,6 @@
 {
   "slug": "pictured-rocks-national-lakeshore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1966-10-15",
@@ -12,39 +12,64 @@
         "type": "act-of-congress",
         "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 89-668, 80 Stat. 922"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 89-668, 80 Stat. 922, act to establish the Pictured Rocks National Lakeshore, approved Oct. 15, 1966",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-80/pdf/STATUTE-80-Pg922.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460s, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460s&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 89-668 authorized the lakeshore; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
-      "date": "1972-10-05",
+      "date": "1972-10-06",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Established Oct. 5, 1972",
+      "indexText": "Established Oct. 6, 1972",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "Interior notice dated Oct. 6, 1972, 37 F.R. 22634"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 66",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 37 F.R. 22634 (Oct. 20, 1972): Pictured Rocks National Lakeshore, Mich., establishment, dated Oct. 6, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1972-10-20/pdf/FR-1972-10-20.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: Assistant Secretary Nathaniel Reed's notice declaring the lakeshore established is dated Oct. 6, 1972 (published Oct. 20, 1972), not Oct. 5. Nixon either way.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established Oct. 5, 1972"
     }
   ],
   "historySource": {

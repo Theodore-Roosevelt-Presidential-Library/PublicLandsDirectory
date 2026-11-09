@@ -1,6 +1,6 @@
 {
   "slug": "point-reyes-national-seashore",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1962-09-13",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "John F. Kennedy",
         "administration": "John F. Kennedy",
-        "citation": null
+        "citation": "P.L. 87-657, 76 Stat. 538"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 34",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 87-657, 76 Stat. 538, act to establish the Point Reyes National Seashore, approved Sept. 13, 1962",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg538.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 459c, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section459c&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 87-657; JFK.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1972-10-20",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established Oct. 20, 1972",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "Interior notice dated Oct. 20, 1972, 37 F.R. 23366"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 34",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register, 37 F.R. 23366 (Nov. 2, 1972): Point Reyes National Seashore, Calif., establishment, dated Oct. 20, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/FR-1972-11-02/pdf/FR-1972-11-02.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Assistant Secretary Richard Bodman's notice dated Oct. 20, 1972 declared the seashore established; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,28 +1,43 @@
 {
   "slug": "saint-croix-national-scenic-riverway",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
-      "date": "1980-12-02",
+      "date": "1968-10-02",
       "action": "established",
       "designation": null,
       "name": null,
-      "indexText": "Authorized Dec. 2, 1980",
+      "indexText": "Authorized Oct. 2, 1968",
       "authority": {
         "type": "act-of-congress",
-        "signedBy": "Jimmy Carter",
-        "administration": "Jimmy Carter",
-        "citation": null
+        "signedBy": "Lyndon B. Johnson",
+        "administration": "Lyndon B. Johnson",
+        "citation": "P.L. 90-542, sec. 3(a)(6), 82 Stat. 906"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 138",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 90-542, sec. 3(a)(6), 82 Stat. 906, Wild and Scenic Rivers Act, approved Oct. 2, 1968",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-82/pdf/STATUTE-82-Pg906-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1274, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1274&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong date: no Saint Croix action on Dec. 2, 1980 (that is the ANILCA date; the Index line on p. 138 is misattached). The riverway was authorized by the Wild and Scenic Rivers Act, sec. 3(a)(6), Oct. 2, 1968; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Authorized Dec. 2, 1980"
     }
   ],
   "historySource": {

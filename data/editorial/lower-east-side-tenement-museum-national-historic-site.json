@@ -1,6 +1,6 @@
 {
   "slug": "lower-east-side-tenement-museum-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1998-11-12",
@@ -9,42 +9,34 @@
       "name": null,
       "indexText": "Designated Nov. 12, 1998",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Bill Clinton",
         "administration": "Bill Clinton",
-        "citation": null
+        "citation": "P.L. 105-378, 112 Stat. 3395"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 121",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "2014-12-19",
-      "action": "designated",
-      "designation": null,
-      "name": null,
-      "indexText": "Expanded Dec. 19, 2014",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "Barack Obama",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 121",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "Statutes at Large (govinfo): P.L. 105-378, 112 Stat. 3395, Lower East Side Tenement National Historic Site Act of 1998, approved Nov. 12, 1998",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-112/pdf/STATUTE-112-Pg3395.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460s–5, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460s-5&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 105-378 designated the site; Clinton.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

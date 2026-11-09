@@ -1,6 +1,6 @@
 {
   "slug": "organ-pipe-cactus-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1937-04-13",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Proclamation 2232, 50 Stat. 1827"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 26",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 2232, 50 Stat. 1827, Organ Pipe Cactus National Monument, April 13, 1937",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1827.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2232, April 13, 1937",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2232-organ-pipe-cactus-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2232; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

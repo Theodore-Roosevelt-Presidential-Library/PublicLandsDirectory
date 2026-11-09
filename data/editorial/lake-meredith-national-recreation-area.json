@@ -22,7 +22,13 @@
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "The 1973 NPS master plan confirms the change from Sanford Recreation Area to Lake Meredith Recreation Area but gives no date. No act or Federal Register notice of Oct. 16, 1972 was found (Statutes at Large; Federal Register issues Oct. 1 - Nov. 19, 1972 searched). The date rests on the Index alone.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1990-11-28",
@@ -31,20 +37,34 @@
       "name": null,
       "indexText": "Redesignated a national recreation area Nov. 28, 1990",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "George H. W. Bush",
         "administration": "George H. W. Bush",
-        "citation": null
+        "citation": "P.L. 101-628, title V, sec. 502, 104 Stat. 4492"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 100",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 101-628, 104 Stat. 4469, Arizona Desert Wilderness Act of 1990, title V, sec. 502 (Lake Meredith NRA), approved Nov. 28, 1990",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4469.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460eee, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460eee&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 101-628, sec. 502 established Lake Meredith National Recreation Area by statute; George H. W. Bush.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

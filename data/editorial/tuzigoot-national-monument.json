@@ -1,6 +1,6 @@
 {
   "slug": "tuzigoot-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1939-07-25",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Proclamation 2344, 53 Stat. 2548"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 27",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 2344, 53 Stat. 2548, Tuzigoot National Monument, July 25, 1939",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg2548-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2344, July 25, 1939",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2344-tuzigoot-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 2344; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

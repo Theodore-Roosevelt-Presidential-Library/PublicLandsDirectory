@@ -1,6 +1,6 @@
 {
   "slug": "lake-roosevelt-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1946-12-18",
@@ -19,32 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    },
-    {
-      "date": "1990-04-20",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Agreement renegotiated among the Bureau of Reclamation, the Bureau of Indian Affairs, the National Park Service, the Confederated Tribes of the Colville Reservation, and the Spokane Tribe of Indians April 20, 1990",
-      "authority": {
-        "type": "unspecified",
-        "signedBy": null,
-        "administration": "George H. W. Bush",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
+        },
         {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+          "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+          "url": "https://npshistory.com/publications/laro/adhi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The Tri-Party Agreement among Reclamation, NPS and the Office of Indian Affairs was signed Dec. 18, 1946, creating Coulee Dam Recreational Area. Interagency agreement, not a statute or proclamation; Truman in office.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1997-01-01",
@@ -63,10 +51,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+          "url": "https://npshistory.com/publications/laro/adhi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The administrative history states the change from Coulee Dam NRA to Lake Roosevelt NRA became official Jan. 1, 1997, without an act of Congress. Clinton in office.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

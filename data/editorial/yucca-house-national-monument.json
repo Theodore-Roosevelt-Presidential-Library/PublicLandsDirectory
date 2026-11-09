@@ -1,6 +1,6 @@
 {
   "slug": "yucca-house-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1919-12-19",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "Woodrow Wilson",
         "administration": "Woodrow Wilson",
-        "citation": null
+        "citation": "Proclamation 1549, 41 Stat. 1781"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 40",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 1549, 41 Stat. 1781, Yucca House National Monument, done Dec. 19, 1919",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-41/pdf/STATUTE-41-Pg1781.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 1549, Dec. 19, 1919",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-1549-setting-aside-the-yucca-house-national-monument-colorado"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 1549; Wilson.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

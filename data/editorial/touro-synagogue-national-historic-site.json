@@ -1,6 +1,6 @@
 {
   "slug": "touro-synagogue-national-historic-site",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1946-03-05",
@@ -9,20 +9,30 @@
       "name": null,
       "indexText": "Designated March 5, 1946",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Secretarial order of March 5, 1946, 11 F.R. 2535"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 123",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Touro Synagogue, Secretarial order of March 5, 1946, 11 F.R. 2535",
+          "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Designated Touro Synagogue National Historic Site by Secretarial order of March 5, 1946 (11 F.R. 2535) under the Historic Sites Act; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

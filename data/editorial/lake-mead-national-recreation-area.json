@@ -1,6 +1,6 @@
 {
   "slug": "lake-mead-national-recreation-area",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1947-08-11",
@@ -19,10 +19,20 @@
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "NPS history (npshistory.com): Hal Rothman, administrative history of Lake Mead National Recreation Area (NPS)",
+          "url": "https://npshistory.com/publications/lake/adhi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "The NPS administrative history states that on Aug. 11, 1947 Boulder Dam National Recreation Area became Lake Mead NRA. Administrative renaming; no statute or proclamation; Truman in office.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1964-10-08",
@@ -31,20 +41,34 @@
       "name": null,
       "indexText": "Established Oct. 8, 1964",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Lyndon B. Johnson",
         "administration": "Lyndon B. Johnson",
-        "citation": null
+        "citation": "P.L. 88-639, 78 Stat. 1039"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 73",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 88-639, 78 Stat. 1039, act to provide an adequate basis for administration of Lake Mead NRA, approved Oct. 8, 1964",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg1039.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460n, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460n&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 88-639 gave the NRA a statutory basis; LBJ.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

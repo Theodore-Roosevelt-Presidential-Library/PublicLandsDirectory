@@ -1,6 +1,6 @@
 {
   "slug": "navajo-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1909-03-20",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "William Howard Taft",
         "administration": "William Howard Taft",
-        "citation": null
+        "citation": "Proclamation 873, 36 Stat. 2491"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 26",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 873, 36 Stat. 2491, Navajo National Monument, done March 20, 1909",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2491-2.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 873, March 20, 1909",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-873-establishment-the-navajo-national-monument-arizona"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 873; Taft (16 days after his inauguration, so not a T.R. action).",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

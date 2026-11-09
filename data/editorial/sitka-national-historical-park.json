@@ -1,6 +1,6 @@
 {
   "slug": "sitka-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1910-03-23",
@@ -12,17 +12,31 @@
         "type": "presidential-proclamation",
         "signedBy": "William Howard Taft",
         "administration": "William Howard Taft",
-        "citation": null
+        "citation": "Proclamation 959, 36 Stat. 2601"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 959, 36 Stat. 2601, Sitka National Monument, done March 23, 1910",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2601.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 959, March 23, 1910",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-959-setting-aside-the-sitka-national-monument-alaska"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 959; Taft.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1972-10-18",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Redesignated Oct. 18, 1972",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Richard Nixon",
         "administration": "Richard Nixon",
-        "citation": null
+        "citation": "P.L. 92-501, 86 Stat. 904"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 22",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 92-501, 86 Stat. 904, act redesignating Sitka National Monument as Sitka National Historical Park, approved Oct. 18, 1972",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg904.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320301, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 92-501; Nixon.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

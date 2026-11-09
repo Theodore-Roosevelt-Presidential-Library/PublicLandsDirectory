@@ -1,6 +1,6 @@
 {
   "slug": "prince-william-forest-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1936-11-14",
@@ -9,20 +9,34 @@
       "name": null,
       "indexText": "Chopawamsic Recreation Demonstration Area transferred from Resettlement Administration Nov. 14, 1936",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "executive-order",
+        "signedBy": "Franklin D. Roosevelt",
         "administration": "Franklin D. Roosevelt",
-        "citation": null
+        "citation": "Executive Order 7496 (Nov. 14, 1936), 1 F.R. 1946"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7496, Nov. 14, 1936",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7496-transfer-property-functions-funds-etc-pertaining-recreational"
+        },
+        {
+          "name": "NPS history (npshistory.com): administrative history of Prince William Forest Park (NPS)",
+          "url": "https://npshistory.com/publications/prwi/adhi.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7496 transferred the recreational demonstration projects, including Chopawamsic, from the Resettlement Administration to Interior; FDR.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1948-06-22",
@@ -31,20 +45,34 @@
       "name": null,
       "indexText": "Renamed June 22, 1948",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Harry S. Truman",
         "administration": "Harry S. Truman",
-        "citation": null
+        "citation": "Act of June 22, 1948, ch. 594 (P.L. 80-736), 62 Stat. 571"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 106",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Act of June 22, 1948, 62 Stat. 571, act on Chopawamsic Park lands, providing it be 'known hereafter as the Prince William Forest Park', approved June 22, 1948",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-62/pdf/STATUTE-62-Pg571-2.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 159c, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section159c&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Act of June 22, 1948 renamed Chopawamsic Park as Prince William Forest Park; Truman.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

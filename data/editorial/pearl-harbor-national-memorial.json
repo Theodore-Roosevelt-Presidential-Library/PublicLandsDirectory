@@ -1,28 +1,43 @@
 {
   "slug": "pearl-harbor-national-memorial",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2008-12-05",
       "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Proclaimed Dec. 5, 2008",
+      "designation": "National Monument",
+      "name": "World War II Valor in the Pacific National Monument",
+      "indexText": "World War II Valor in the Pacific National Monument proclaimed Dec. 5, 2008",
       "authority": {
         "type": "presidential-proclamation",
         "signedBy": "George W. Bush",
         "administration": "George W. Bush",
-        "citation": null
+        "citation": "Proclamation 8327, 122 Stat. 5398"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 51",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 8327, 122 Stat. 5398, Establishment of the World War II Valor in the Pacific National Monument, Dec. 5, 2008",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-122/pdf/STATUTE-122-Pg5398.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 8327, Dec. 5, 2008",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-8327-establishment-the-world-war-ii-valor-the-pacific-national-monument"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Date, proclamation and President (George W. Bush) are right, but Proclamation 8327 created the World War II Valor in the Pacific National Monument; the Pearl Harbor National Memorial name came later (2019 act). Text names the 2008 unit.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Proclaimed Dec. 5, 2008"
     }
   ],
   "historySource": {

@@ -1,30 +1,7 @@
 {
   "slug": "national-capital-parks-east",
-  "status": "draft",
-  "designationHistory": [
-    {
-      "date": "1974-10-26",
-      "action": "established",
-      "designation": null,
-      "name": null,
-      "indexText": "Authorized Oct. 26, 1974",
-      "authority": {
-        "type": "act-of-congress",
-        "signedBy": "Gerald R. Ford",
-        "administration": "Gerald R. Ford",
-        "citation": null
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 122",
-          "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
-        }
-      ],
-      "research": "nps-index-2012-2016",
-      "reviewed": false
-    }
-  ],
+  "status": "reviewed",
+  "designationHistory": [],
   "historySource": {
     "name": "The National Parks: Index 2012–2016 (National Park Service)",
     "page": 122,

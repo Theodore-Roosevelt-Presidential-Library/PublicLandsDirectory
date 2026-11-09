@@ -1,6 +1,6 @@
 {
   "slug": "manhattan-project-national-historical-park",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "2014-12-19",
@@ -12,17 +12,31 @@
         "type": "act-of-congress",
         "signedBy": "Barack Obama",
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "P.L. 113-291, div. B, sec. 3039, 128 Stat. 3784"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 113-291, 128 Stat. 3292, Carl Levin and Howard P. 'Buck' McKeon NDAA for FY2015, approved Dec. 19, 2014",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-Pg3292.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410uuu, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410uuu&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 113-291, sec. 3039; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "2015-11-10",
@@ -31,20 +45,30 @@
       "name": null,
       "indexText": "Established Nov. 10, 2015",
       "authority": {
-        "type": "unspecified",
+        "type": "secretarial-order",
         "signedBy": null,
         "administration": "Barack Obama",
-        "citation": null
+        "citation": "Interior-Energy memorandum of agreement signed Nov. 10, 2015 (notice, Federal Register Dec. 14, 2015)"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 109",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Federal Register: NPS notice 2015-31330, Manhattan Project National Historical Park (Dec. 14, 2015)",
+          "url": "https://www.federalregister.gov/documents/2015/12/14/2015-31330/manhattan-project-national-historical-park"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established when the Secretaries of the Interior and Energy signed the management agreement Nov. 10, 2015, as the 2014 act required; Obama.",
+        "by": "HistorianPanel accuracy review, batch 5c (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {

@@ -1,0 +1,2367 @@
+[
+ {
+  "id": "james-a-garfield-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-607, 94 Stat. 3539, act approved Dec. 28, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3539.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-607, title XII, sec. 1201, 94 Stat. 3545"
+  },
+  "note": "P.L. 96-607, title XII (Dec. 28, 1980) authorized acquisition of Lawnfield and establishment of the site by Federal Register notice; Carter."
+ },
+ {
+  "id": "james-a-garfield-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: NPS notice 96-17888, Establishment of the James A. Garfield National Historic Site, 61 F.R. (July 15, 1996)",
+    "url": "https://www.federalregister.gov/documents/1996/07/15/96-17888/establishment-of-the-james-a-garfield-national-historic-site"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "NPS notice, Federal Register July 15, 1996 (FR Doc. 96-17888), effective on publication",
+   "president": "Bill Clinton"
+  },
+  "note": "NPS notice establishing the site, effective on its publication in the Federal Register July 15, 1996 (dated June 10, 1996); Clinton."
+ },
+ {
+  "id": "jean-lafitte-national-historical-park-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of March 4, 1907, ch. 2928, 34 Stat. 1411, act for completion by the Secretary of War of the monument at Chalmette, approved March 4, 1907, 11 a.m.",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg1411.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 450a, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section450a&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of March 4, 1907, ch. 2928, 34 Stat. 1411",
+   "president": "Theodore Roosevelt"
+  },
+  "note": "T.R.-era check: act of March 4, 1907, ch. 2928 (Public No. 263), 34 Stat. 1411, approved by Theodore Roosevelt at 11 a.m. that day; it appropriated $25,000 for the War Department to complete the Chalmette monument once Louisiana ceded the site. March 4, 1907 was not an inauguration day."
+ },
+ {
+  "id": "jean-lafitte-national-historical-park-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR). Applies to the Chalmette monument grounds."
+ },
+ {
+  "id": "jean-lafitte-national-historical-park-and-preserve#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of Aug. 10, 1939, ch. 640 (Public No. 368), 53 Stat. 1342, act to provide for the establishment of the Chalmette National Historical Park, approved Aug. 10, 1939",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg1342.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 231, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section231&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "authorityType": "act-of-congress",
+   "citation": "Act of Aug. 10, 1939, ch. 640, 53 Stat. 1342",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Act of Aug. 10, 1939 provided for the Chalmette National Historical Park; FDR."
+ },
+ {
+  "id": "jean-lafitte-national-historical-park-and-preserve#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 230, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section230&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title IX, 92 Stat. 3534"
+  },
+  "note": "National Parks and Recreation Act of 1978, title IX, incorporated Chalmette in Jean Lafitte NHP; Carter."
+ },
+ {
+  "id": "jimmy-carter-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 100-206, 101 Stat. 1434, act to establish the Jimmy Carter National Historic Site and Preservation District, approved Dec. 23, 1987",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1434.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410gggg–2, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410gggg-2&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 100-206, 101 Stat. 1434"
+  },
+  "note": "P.L. 100-206 (Dec. 23, 1987) established it as Jimmy Carter National Historic Site and Preservation District; Reagan."
+ },
+ {
+  "id": "john-day-fossil-beds-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 93-486, 88 Stat. 1461, act approved Oct. 26, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320301, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 93-486, title I, sec. 101(a)(2), 88 Stat. 1461"
+  },
+  "note": "P.L. 93-486 (Oct. 26, 1974) provided for the monument; Ford."
+ },
+ {
+  "id": "john-fitzgerald-kennedy-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 90-20, 81 Stat. 29, act to establish the John Fitzgerald Kennedy National Historic Site, approved May 26, 1967",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-81/pdf/STATUTE-81-Pg29.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 90-20, 81 Stat. 29"
+  },
+  "note": "P.L. 90-20; LBJ."
+ },
+ {
+  "id": "john-muir-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 88-547, 78 Stat. 753, act to provide for the establishment of the John Muir National Historic Site, approved Aug. 31, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg753.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-547, 78 Stat. 753"
+  },
+  "note": "P.L. 88-547; LBJ."
+ },
+ {
+  "id": "johnstown-flood-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 88-546, 78 Stat. 752, act providing for the Allegheny Portage Railroad NHS and Johnstown Flood National Memorial, approved Aug. 31, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg752.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-546, 78 Stat. 752"
+  },
+  "note": "P.L. 88-546; LBJ."
+ },
+ {
+  "id": "juan-bautista-de-anza-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 101-365, 104 Stat. 429, Juan Bautista de Anza National Historic Trail Act, approved Aug. 15, 1990",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg429.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1241, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1241&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 101-365, 104 Stat. 429",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 101-365 designated the trail; George H. W. Bush."
+ },
+ {
+  "id": "kalaupapa-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-565, 94 Stat. 3321, act to establish the Kalaupapa National Historical Park, approved Dec. 22, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3321.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410jj, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410jj&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-565, title I, 94 Stat. 3321"
+  },
+  "note": "P.L. 96-565, title I; Carter."
+ },
+ {
+  "id": "kaloko-honokohau-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 396d, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section396d&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 505, 92 Stat. 3499",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 505, established the park; Carter."
+ },
+ {
+  "id": "kennesaw-mountain-national-battlefield-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of Feb. 8, 1917, ch. 36, 39 Stat. 901, act authorizing acceptance from the Kenesaw Memorial Association of Illinois of land on the Kenesaw battlefield, approved Feb. 8, 1917",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-39/pdf/STATUTE-39-Pg901.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Feb. 8, 1917, ch. 36, 39 Stat. 901"
+  },
+  "note": "Act of Feb. 8, 1917 (Public No. 307) authorized the War Department to accept the Illinois association's gift of land on the Kennesaw battlefield; Wilson."
+ },
+ {
+  "id": "kennesaw-mountain-national-battlefield-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "kennesaw-mountain-national-battlefield-park#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of June 26, 1935, ch. 315 (Public No. 167), 49 Stat. 423, act to create a national memorial military park at Kennesaw Mountain, approved June 26, 1935",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg423-2.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430x, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430x&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 26, 1935, ch. 315, 49 Stat. 423",
+   "authorityType": "act-of-congress",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Act of June 26, 1935 created Kennesaw Mountain National Battlefield Park; FDR."
+ },
+ {
+  "id": "keweenaw-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-543, 106 Stat. 3569, Keweenaw National Historical Park Establishment Act, approved Oct. 27, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg3569.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410yy, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410yy&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-543, 106 Stat. 3569",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 102-543; George H. W. Bush."
+ },
+ {
+  "id": "kings-mountain-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of March 3, 1931 (Public No. 824), 46 Stat. 1508, act to establish a national military park to commemorate the Battle of Kings Mountain, approved March 3, 1931",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-46/pdf/STATUTE-46-Pg1508-2.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of March 3, 1931, ch. 437, 46 Stat. 1508",
+   "authorityType": "act-of-congress",
+   "president": "Herbert Hoover"
+  },
+  "note": "Act of March 3, 1931; Hoover."
+ },
+ {
+  "id": "kings-mountain-national-military-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "klondike-gold-rush-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 94-323, 90 Stat. 717, act authorizing establishment of the Klondike Gold Rush NHP, approved June 30, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg717.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410bb, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410bb&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 94-323, 90 Stat. 717"
+  },
+  "note": "P.L. 94-323; Ford."
+ },
+ {
+  "id": "knife-river-indian-villages-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 93-486, 88 Stat. 1461, act approved Oct. 26, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 93-486, title I, sec. 101(a)(3), 88 Stat. 1461"
+  },
+  "note": "P.L. 93-486 (Oct. 26, 1974); Ford."
+ },
+ {
+  "id": "korean-war-veterans-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 99-572, 100 Stat. 3226, Korean War Memorial Act, approved Oct. 28, 1986",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg3226.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 99-572, 100 Stat. 3226"
+  },
+  "note": "P.L. 99-572; Reagan."
+ },
+ {
+  "id": "lake-mead-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): Hal Rothman, administrative history of Lake Mead National Recreation Area (NPS)",
+    "url": "https://npshistory.com/publications/lake/adhi.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The NPS administrative history states that on Aug. 11, 1947 Boulder Dam National Recreation Area became Lake Mead NRA. Administrative renaming; no statute or proclamation; Truman in office."
+ },
+ {
+  "id": "lake-mead-national-recreation-area#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 88-639, 78 Stat. 1039, act to provide an adequate basis for administration of Lake Mead NRA, approved Oct. 8, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg1039.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460n, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460n&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-639, 78 Stat. 1039",
+   "authorityType": "act-of-congress",
+   "president": "Lyndon B. Johnson"
+  },
+  "note": "P.L. 88-639 gave the NRA a statutory basis; LBJ."
+ },
+ {
+  "id": "lake-meredith-national-recreation-area#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): Lake Meredith Recreation Area master plan (1973)",
+    "url": "https://npshistory.com/publications/lamr/mp-1973.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The 1973 NPS master plan confirms the change from Sanford Recreation Area to Lake Meredith Recreation Area but gives no date. No act or Federal Register notice of Oct. 16, 1972 was found (Statutes at Large; Federal Register issues Oct. 1 - Nov. 19, 1972 searched). The date rests on the Index alone."
+ },
+ {
+  "id": "lake-meredith-national-recreation-area#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 101-628, 104 Stat. 4469, Arizona Desert Wilderness Act of 1990, title V, sec. 502 (Lake Meredith NRA), approved Nov. 28, 1990",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4469.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460eee, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460eee&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 101-628, title V, sec. 502, 104 Stat. 4492",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 101-628, sec. 502 established Lake Meredith National Recreation Area by statute; George H. W. Bush."
+ },
+ {
+  "id": "lake-roosevelt-national-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+    "url": "https://npshistory.com/publications/laro/adhi.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The Tri-Party Agreement among Reclamation, NPS and the Office of Indian Affairs was signed Dec. 18, 1946, creating Coulee Dam Recreational Area. Interagency agreement, not a statute or proclamation; Truman in office."
+ },
+ {
+  "id": "lake-roosevelt-national-recreation-area#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+    "url": "https://npshistory.com/publications/laro/adhi.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Not a designation action: the 1990 Lake Roosevelt Cooperative Management Agreement (dated April 5, 1990; signing ceremony April 20, 1990) set management roles with the Colville and Spokane tribes. Removed, like other management agreements and leases."
+ },
+ {
+  "id": "lake-roosevelt-national-recreation-area#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): administrative history of Lake Roosevelt National Recreation Area (NPS, 2002)",
+    "url": "https://npshistory.com/publications/laro/adhi.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "The administrative history states the change from Coulee Dam NRA to Lake Roosevelt NRA became official Jan. 1, 1997, without an act of Congress. Clinton in office."
+ },
+ {
+  "id": "lava-beds-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 1755, 44 Stat. 2591, proclamation setting aside Lava Beds National Monument, done Nov. 21, 1925",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg2591.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1755, Nov. 21, 1925",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1755-setting-aside-the-lava-beds-national-monument-california"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 1755, 44 Stat. 2591"
+  },
+  "note": "Proclamation 1755; Coolidge."
+ },
+ {
+  "id": "lava-beds-national-monument#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "lewis-and-clark-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1241, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1241&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 551, 92 Stat. 3511",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 551, designated the trail; Carter."
+ },
+ {
+  "id": "lincoln-home-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 92-127, 85 Stat. 347, act authorizing establishment of the Lincoln Home NHS, approved Aug. 18, 1971",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg347.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 92-127, 85 Stat. 347"
+  },
+  "note": "P.L. 92-127, approved Aug. 18, 1971 (the govinfo metadata date of Aug. 17 is wrong; the printed approval line reads Aug. 18); Nixon."
+ },
+ {
+  "id": "lincoln-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of Feb. 9, 1911, ch. 42, 36 Stat. 898, act to provide a commission to secure plans and designs for a memorial to Abraham Lincoln, approved Feb. 9, 1911",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg898.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320301, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of Feb. 9, 1911, ch. 42, 36 Stat. 898"
+  },
+  "note": "Act of Feb. 9, 1911 created the Lincoln Memorial Commission; Taft."
+ },
+ {
+  "id": "lincoln-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "little-bighorn-battlefield-national-monument#0",
+  "verdict": "unresolved",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): environmental history of Little Bighorn Battlefield National Monument (NPS)",
+    "url": "https://npshistory.com/publications/libi/env-history.pdf"
+   }
+  ],
+  "correction": null,
+  "note": "Date conflict: the NPS environmental history dates the national cemetery to War Department General Order No. 78, Aug. 1, 1879 (citing Rickey and Greene), not Jan. 29, 1879. The order of the Secretary of War itself was not found; check the War Department order before publishing a day."
+ },
+ {
+  "id": "little-bighorn-battlefield-national-monument#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "NPS history (npshistory.com): environmental history of Little Bighorn Battlefield National Monument (NPS)",
+    "url": "https://npshistory.com/publications/libi/env-history.pdf"
+   },
+   {
+    "name": "NPS history (npshistory.com): Custer Battlefield National Monument historical handbook (NPS, 1969)",
+    "url": "https://npshistory.com/publications/../handbooks/historical/1-1969.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive order of Dec. 7, 1886",
+   "president": "Grover Cleveland"
+  },
+  "note": "Date and President (Cleveland) are right, but the instrument was an executive order, not a proclamation: both NPS sources say the reservation was created 'by Executive order' Dec. 7, 1886. Index wording 'proclaimed' kept."
+ },
+ {
+  "id": "little-bighorn-battlefield-national-monument#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 8428, June 3, 1940 (effective July 1, 1940)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-8428-revoking-executive-order-no-6228-july-28-1933-custer-battlefield"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 8428 (June 3, 1940), effective July 1, 1940",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "EO 8428 revoked the 1933 exception for Custer Battlefield National Cemetery, transferring it to Interior effective July 1, 1940; FDR."
+ },
+ {
+  "id": "little-bighorn-battlefield-national-monument#3",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of March 22, 1946 (Public Law 332), 60 Stat. 59, act to change the designation of Custer Battlefield National Cemetery to Custer Battlefield National Monument, approved March 22, 1946",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg59.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of March 22, 1946, P.L. 79-332, 60 Stat. 59",
+   "authorityType": "act-of-congress",
+   "president": "Harry S. Truman"
+  },
+  "note": "Act of March 22, 1946; Truman."
+ },
+ {
+  "id": "little-bighorn-battlefield-national-monument#4",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-201, 105 Stat. 1631, act redesignating Custer Battlefield NM as Little Bighorn Battlefield NM, approved Dec. 10, 1991",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1631.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 17j–2, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j-2&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-201, 105 Stat. 1631",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 102-201; George H. W. Bush."
+ },
+ {
+  "id": "little-river-canyon-national-preserve#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-427, 106 Stat. 2179, Little River Canyon National Preserve Act of 1992, approved Oct. 21, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2179.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 698q, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698q&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "date": "1992-10-21",
+   "text": "Authorized Oct. 21, 1992",
+   "citation": "P.L. 102-427, 106 Stat. 2179",
+   "president": "George H. W. Bush"
+  },
+  "note": "Wrong date: P.L. 102-427 was approved Oct. 21, 1992, not Oct. 24 (Statutes text and U.S. Code note agree). George H. W. Bush either way."
+ },
+ {
+  "id": "little-rock-central-high-school-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 105-356, 112 Stat. 3268, act to establish the Little Rock Central High School NHS, approved Nov. 6, 1998",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-112/pdf/STATUTE-112-Pg3268.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 105-356, 112 Stat. 3268",
+   "authorityType": "act-of-congress",
+   "president": "Bill Clinton"
+  },
+  "note": "P.L. 105-356; Clinton."
+ },
+ {
+  "id": "longfellow-house-washingtons-headquarters-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 92-475, 86 Stat. 791, act authorizing establishment of the Longfellow NHS, approved Oct. 9, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg791.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 92-475, 86 Stat. 791"
+  },
+  "note": "P.L. 92-475 authorized the Longfellow National Historic Site; Nixon."
+ },
+ {
+  "id": "longfellow-house-washingtons-headquarters-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 111-333, 124 Stat. 3581, Longfellow House-Washington's Headquarters National Historic Site Designation Act, approved Dec. 22, 2010",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-124/pdf/STATUTE-124-Pg3581.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 111-333, 124 Stat. 3581",
+   "authorityType": "act-of-congress",
+   "president": "Barack Obama"
+  },
+  "note": "P.L. 111-333; Obama."
+ },
+ {
+  "id": "lowell-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-290, 92 Stat. 290, act to provide for the establishment of Lowell NHP, approved June 5, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg290.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410cc, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-290, 92 Stat. 290"
+  },
+  "note": "P.L. 95-290; Carter."
+ },
+ {
+  "id": "lower-delaware-national-wild-and-scenic-river#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 106-418, 114 Stat. 1817, Lower Delaware Wild and Scenic Rivers Act, approved Nov. 1, 2000",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-114/pdf/STATUTE-114-Pg1817.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1271, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 106-418, 114 Stat. 1817"
+  },
+  "note": "P.L. 106-418 designated the segments; Clinton."
+ },
+ {
+  "id": "lower-east-side-tenement-museum-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 105-378, 112 Stat. 3395, Lower East Side Tenement National Historic Site Act of 1998, approved Nov. 12, 1998",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-112/pdf/STATUTE-112-Pg3395.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460s–5, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460s-5&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 105-378, 112 Stat. 3395",
+   "authorityType": "act-of-congress",
+   "president": "Bill Clinton"
+  },
+  "note": "P.L. 105-378 designated the site; Clinton."
+ },
+ {
+  "id": "lower-east-side-tenement-museum-national-historic-site#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 113-291, 128 Stat. 3292, Carl Levin and Howard P. 'Buck' McKeon NDAA for FY2015, approved Dec. 19, 2014",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-Pg3292.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Boundary expansion, not a designation: P.L. 113-291, sec. 3038 (Dec. 19, 2014) amended the 1998 act to add the tenement at 103 Orchard Street to the site. Removed."
+ },
+ {
+  "id": "lyndon-b-johnson-national-historical-park#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 91-134, 83 Stat. 274, act to establish the Lyndon B. Johnson National Historic Site, approved Dec. 2, 1969",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-83/pdf/STATUTE-83-Pg274-2.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410kk, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410kk&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "text": "Authorized as a national historic site Dec. 2, 1969",
+   "citation": "P.L. 91-134, 83 Stat. 274"
+  },
+  "note": "Date, act and President (Nixon) are right; the draft text carried a stray sentence from the Index description, now trimmed."
+ },
+ {
+  "id": "lyndon-b-johnson-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-607, 94 Stat. 3539, act approved Dec. 28, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3539.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410kk, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410kk&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-607, title VI, 94 Stat. 3540",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-607, title VI, redesignated it Lyndon B. Johnson National Historical Park; Carter."
+ },
+ {
+  "id": "maggie-l-walker-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 511, 92 Stat. 3510"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 511; Carter."
+ },
+ {
+  "id": "manassas-national-battlefield-park#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Relating to the National Park Service (Vol. I, 1947 compilation of Secretarial orders)",
+    "url": "https://www.nps.gov/subjects/legal/nps-volume-1.htm"
+   }
+  ],
+  "correction": {
+   "text": "Designated May 10, 1940",
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of May 10, 1940, 5 F.R. 1824",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Date and President (FDR) are right: Secretary Ickes designated Manassas National Battlefield Park by order of May 10, 1940 (5 F.R. 1824) under the Historic Sites Act. Draft text carried a stray sentence about 'Stonewall' Jackson, now trimmed."
+ },
+ {
+  "id": "manhattan-project-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 113-291, 128 Stat. 3292, Carl Levin and Howard P. 'Buck' McKeon NDAA for FY2015, approved Dec. 19, 2014",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-128/pdf/STATUTE-128-Pg3292.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410uuu, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410uuu&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 113-291, div. B, sec. 3039, 128 Stat. 3784"
+  },
+  "note": "P.L. 113-291, sec. 3039; Obama."
+ },
+ {
+  "id": "manhattan-project-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: NPS notice 2015-31330, Manhattan Project National Historical Park (Dec. 14, 2015)",
+    "url": "https://www.federalregister.gov/documents/2015/12/14/2015-31330/manhattan-project-national-historical-park"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Interior-Energy memorandum of agreement signed Nov. 10, 2015 (notice, Federal Register Dec. 14, 2015)",
+   "president": "Barack Obama"
+  },
+  "note": "Established when the Secretaries of the Interior and Energy signed the management agreement Nov. 10, 2015, as the 2014 act required; Obama."
+ },
+ {
+  "id": "manzanar-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-248, 106 Stat. 40, act establishing Manzanar NHS (title I), approved March 3, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg40.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-248, title I, 106 Stat. 40"
+  },
+  "note": "P.L. 102-248, title I; George H. W. Bush."
+ },
+ {
+  "id": "marsh-billings-rockefeller-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-350, 106 Stat. 934, Marsh-Billings National Historical Park Establishment Act, approved Aug. 26, 1992",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg934.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vv, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vv&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-350, 106 Stat. 934",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 102-350; George H. W. Bush."
+ },
+ {
+  "id": "marsh-billings-rockefeller-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vv, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vv&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 105-277, div. A, sec. 101(e) [title I, sec. 143], 112 Stat. 2681-231",
+   "authorityType": "act-of-congress",
+   "president": "Bill Clinton"
+  },
+  "note": "Renamed Marsh-Billings-Rockefeller NHP by the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (P.L. 105-277), approved Oct. 21, 1998; Clinton."
+ },
+ {
+  "id": "martin-luther-king-jr-memorial#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 104-333, 110 Stat. 4093, Omnibus Parks and Public Lands Management Act of 1996, approved Nov. 12, 1996",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+   },
+   {
+    "name": "American Presidency Project: Remarks at a Dedication Ceremony for the Martin Luther King, Jr. Memorial, Oct. 16, 2011",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-dedication-ceremony-for-the-martin-luther-king-jr-memorial"
+   }
+  ],
+  "correction": {
+   "text": "Authorized November 12, 1996, dedicated October 16, 2011",
+   "citation": "P.L. 104-333, div. I, sec. 508, 110 Stat. 4093"
+  },
+  "note": "Authorization is right (P.L. 104-333, sec. 508, Nov. 12, 1996, Clinton). The dedication date is wrong: the Aug. 28, 2011 ceremony was postponed by Hurricane Irene and held Oct. 16, 2011, when President Obama spoke."
+ },
+ {
+  "id": "martin-luther-king-jr-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-428, 94 Stat. 1839, act to establish the Martin Luther King, Junior, National Historic Site, approved Oct. 10, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1839.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410vvv, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vvv&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-428, 94 Stat. 1839",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-428 established it as the Martin Luther King, Jr., National Historic Site (redesignated a national historical park in 2018); Carter."
+ },
+ {
+  "id": "martin-van-buren-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 93-486, 88 Stat. 1461, act approved Oct. 26, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 93-486, title I, sec. 101(a)(6), 88 Stat. 1462"
+  },
+  "note": "P.L. 93-486; Ford."
+ },
+ {
+  "id": "mary-mcleod-bethune-council-house-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 97-329, 96 Stat. 1615, act designating the Mary McLeod Bethune Council House a national historic site, approved Oct. 15, 1982",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-96/pdf/STATUTE-96-Pg1615.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 97-329, 96 Stat. 1615",
+   "authorityType": "act-of-congress",
+   "president": "Ronald Reagan"
+  },
+  "note": "P.L. 97-329; Reagan."
+ },
+ {
+  "id": "mary-mcleod-bethune-council-house-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-211, 105 Stat. 1652, act to authorize NPS to acquire and manage the Council House, approved Dec. 11, 1991",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1652.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-211, 105 Stat. 1652"
+  },
+  "note": "P.L. 102-211; George H. W. Bush."
+ },
+ {
+  "id": "minidoka-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 7395, 115 Stat. 2572, Establishment of the Minidoka Internment National Monument, Jan. 17, 2001",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-115/pdf/STATUTE-115-Pg2572.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 7395, Jan. 17, 2001",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-7395-establishment-the-minidoka-internment-national-monument"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 7395, 115 Stat. 2572"
+  },
+  "note": "Proclamation 7395 created Minidoka Internment National Monument; Clinton."
+ },
+ {
+  "id": "minidoka-national-historic-site#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 110-229, 122 Stat. 754, Consolidated Natural Resources Act of 2008, sec. 313, approved May 8, 2008",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-122/pdf/STATUTE-122-Pg754.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 110-229, title III, sec. 313, 122 Stat. 770",
+   "authorityType": "act-of-congress",
+   "president": "George W. Bush"
+  },
+  "note": "P.L. 110-229, sec. 313 redesignated it Minidoka National Historic Site; George W. Bush."
+ },
+ {
+  "id": "minute-man-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Minute Man, Secretarial order of April 14, 1959, 24 F.R. 2997",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of April 14, 1959, 24 F.R. 2997",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "Designated Minute Man National Historic Site by Secretarial order of April 14, 1959 (24 F.R. 2997); Eisenhower."
+ },
+ {
+  "id": "minute-man-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 86-321, 73 Stat. 590, act to provide for the establishment of Minute Man NHP, approved Sept. 21, 1959",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg590-3.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410s, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410s&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 86-321, 73 Stat. 590",
+   "authorityType": "act-of-congress",
+   "president": "Dwight D. Eisenhower"
+  },
+  "note": "P.L. 86-321; Eisenhower."
+ },
+ {
+  "id": "minuteman-missile-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 106-115, 113 Stat. 1540, Minuteman Missile National Historic Site Establishment Act of 1999, approved Nov. 29, 1999",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-113/pdf/STATUTE-113-Pg1540.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 106-115, 113 Stat. 1540"
+  },
+  "note": "P.L. 106-115; Clinton."
+ },
+ {
+  "id": "mississippi-national-river-and-recreation-area#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 100-696, 102 Stat. 4571, Arizona-Idaho Conservation Act of 1988, title VII (Mississippi National River and Recreation Area), approved Nov. 18, 1988",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4571.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460zz, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460zz&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 100-696, title VII, sec. 701, 102 Stat. 4599",
+   "authorityType": "act-of-congress",
+   "president": "Ronald Reagan"
+  },
+  "note": "P.L. 100-696, title VII; Reagan."
+ },
+ {
+  "id": "missouri-national-recreational-river#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title VII, sec. 707, 92 Stat. 3467"
+  },
+  "note": "National Parks and Recreation Act of 1978 added the Missouri River segment below Gavins Point Dam to the Wild and Scenic Rivers System; Carter."
+ },
+ {
+  "id": "missouri-national-recreational-river#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-50, 105 Stat. 254, act designating segments of the Niobrara and Missouri Rivers, approved May 24, 1991",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg254.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1271, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-50, 105 Stat. 254"
+  },
+  "note": "P.L. 102-50 designated an added Missouri River segment (the 39-mile reach); George H. W. Bush."
+ },
+ {
+  "id": "mojave-national-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 103-433, 108 Stat. 4471, California Desert Protection Act of 1994, sec. 502, approved Oct. 31, 1994",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg4471.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410aaa–42, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410aaa-42&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 103-433, title V, sec. 502, 108 Stat. 4490"
+  },
+  "note": "California Desert Protection Act, sec. 502 established the preserve; Clinton."
+ },
+ {
+  "id": "monocacy-national-battlefield#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of June 21, 1934 (Public No. 445), 48 Stat. 1198, act to establish a national military park at the battlefield of Monocacy, approved June 21, 1934",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg1198-3.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430j, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430j&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 21, 1934, ch. 694, 48 Stat. 1198"
+  },
+  "note": "Act of June 21, 1934; FDR."
+ },
+ {
+  "id": "monocacy-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 94-578, 90 Stat. 2732, act of Oct. 21, 1976 changing 'Monocacy National Military Park' to 'Monocacy National Battlefield'",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2732.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430j, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430j&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 94-578, title III, sec. 319, 90 Stat. 2738",
+   "authorityType": "act-of-congress",
+   "president": "Gerald R. Ford"
+  },
+  "note": "P.L. 94-578 renamed it Monocacy National Battlefield; Ford."
+ },
+ {
+  "id": "moores-creek-national-battlefield#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of June 2, 1926 (Public No. 324), 44 Stat. 684, act to establish a national military park at Moores Creek, approved June 2, 1926",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg684.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 422, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section422&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 2, 1926, ch. 448, 44 Stat. 684",
+   "authorityType": "act-of-congress",
+   "president": "Calvin Coolidge"
+  },
+  "note": "Act of June 2, 1926; Coolidge."
+ },
+ {
+  "id": "moores-creek-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "moores-creek-national-battlefield#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-344, 94 Stat. 1133, act of Sept. 8, 1980, sec. 12, redesignating Moores Creek National Military Park as Moores Creek National Battlefield",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1133.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 422, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section422&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-344, sec. 12, 94 Stat. 1136",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-344, sec. 12; Carter."
+ },
+ {
+  "id": "mormon-pioneer-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1241, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1241&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 551, 92 Stat. 3511",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 551; Carter."
+ },
+ {
+  "id": "morristown-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of March 2, 1933 (Public No. 409), 47 Stat. 1421, act to provide for the creation of Morristown NHP, approved March 2, 1933",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-47/pdf/STATUTE-47-Pg1421-2.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 409g, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section409g&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of March 2, 1933, ch. 182, 47 Stat. 1421"
+  },
+  "note": "Act of March 2, 1933; Hoover (two days before FDR's inauguration)."
+ },
+ {
+  "id": "mount-rushmore-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of March 3, 1925 (Public No. 589), 43 Stat. 1214, act to authorize the creation of a national memorial in the Harney National Forest, approved March 3, 1925",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1214.pdf"
+   }
+  ],
+  "correction": {
+   "citation": "Act of March 3, 1925 (Public No. 589), 43 Stat. 1214"
+  },
+  "note": "Act of March 3, 1925 authorized the memorial (then the Mount Harney memorial); Coolidge."
+ },
+ {
+  "id": "mount-rushmore-national-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Reorganization Plan No. II of 1939, sec. 4(i), 53 Stat. 1431, plan transferring the Mount Rushmore National Memorial Commission and its functions to NPS",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg1431.pdf"
+   },
+   {
+    "name": "Statutes at Large (govinfo): Pub. Res. No. 20, June 7, 1939, 53 Stat. 813, joint resolution providing that Reorganization Plans I and II take effect July 1, 1939",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-53/pdf/STATUTE-53-Pg813-2.pdf"
+   },
+   {
+    "name": "NPS history (npshistory.com): Mount Rushmore National Memorial historic resource study (NPS)",
+    "url": "https://npshistory.com/publications/moru/hrs.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "other",
+   "citation": "Reorganization Plan No. II of 1939, sec. 4(i), 53 Stat. 1431 (effective July 1, 1939)",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Reorganization Plan No. II transferred the Commission's functions to NPS, effective July 1, 1939 under Pub. Res. 20; FDR."
+ },
+ {
+  "id": "natchez-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 100-479, 102 Stat. 2324, act to create a national park at Natchez, approved Oct. 7, 1988",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2324.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410nn–4, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410nn-4&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 100-479, 102 Stat. 2324"
+  },
+  "note": "P.L. 100-479; Reagan."
+ },
+ {
+  "id": "natchez-trace-national-scenic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 98-11, 97 Stat. 42, National Trails System Act Amendments of 1983, approved March 28, 1983",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-97/pdf/STATUTE-97-Pg42.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1249, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1249&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 98-11, title II, sec. 209, 97 Stat. 48",
+   "authorityType": "act-of-congress",
+   "president": "Ronald Reagan"
+  },
+  "note": "P.L. 98-11 designated the Natchez Trace National Scenic Trail; Reagan."
+ },
+ {
+  "id": "natchez-trace-parkway#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of May 18, 1938 (Public No. 530), 52 Stat. 407, act to provide for the administration and maintenance of the Natchez Trace Parkway, approved May 18, 1938",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-52/pdf/STATUTE-52-Pg407.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of May 18, 1938, ch. 251, 52 Stat. 407",
+   "authorityType": "act-of-congress",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Act of May 18, 1938; FDR."
+ },
+ {
+  "id": "natchez-trace-parkway#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of Aug. 27, 1935 (Public No. 362), 49 Stat. 897, act providing for the Ackia Battleground National Monument, approved Aug. 27, 1935",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg897.pdf"
+   },
+   {
+    "name": "Statutes at Large (govinfo): P.L. 87-131, 75 Stat. 335, act of Aug. 10, 1961 including Ackia Battleground and Meriwether Lewis national monuments in the parkway",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-75/pdf/STATUTE-75-Pg335.pdf"
+   }
+  ],
+  "correction": {
+   "text": "Ackia Battleground National Monument (added to the parkway Aug. 10, 1961) authorized Aug. 27, 1935",
+   "name": "Ackia Battleground National Monument",
+   "designation": "National Monument",
+   "citation": "Act of Aug. 27, 1935 (Public No. 362), 49 Stat. 897"
+  },
+  "note": "Related unit: this event is the Ackia Battleground National Monument, not the parkway. Date, act and President (FDR) are right; text now names the unit. P.L. 87-131 added it to the parkway in 1961."
+ },
+ {
+  "id": "natchez-trace-parkway#2",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 1730, 43 Stat. 1986, Meriwether Lewis National Monument, done Feb. 6, 1925",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-43/pdf/STATUTE-43-Pg1986.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 1730, Feb. 6, 1925",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-1730-meriwether-lewis-national-monument"
+   }
+  ],
+  "correction": {
+   "text": "Meriwether Lewis National Monument (added to the parkway Aug. 10, 1961) proclaimed Feb. 6, 1925",
+   "name": "Meriwether Lewis National Monument",
+   "designation": "National Monument",
+   "citation": "Proclamation 1730, 43 Stat. 1986"
+  },
+  "note": "Related unit: this event is the Meriwether Lewis National Monument (Proclamation 1730, Coolidge), not the parkway. Date and President are right; text now names the unit."
+ },
+ {
+  "id": "national-capital-parks-east#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 93-486, 88 Stat. 1461, act approved Oct. 26, 1974",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1461.pdf"
+   }
+  ],
+  "correction": {
+   "remove": true
+  },
+  "note": "Related unit, not National Capital Parks-East: the Index line 'Authorized Oct. 26, 1974' is the Sewall-Belmont House National Historic Site entry (P.L. 93-486, title I, Oct. 26, 1974). No NCP-East action that day. Removed."
+ },
+ {
+  "id": "national-mall-and-memorial-parks#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of July 16, 1790, ch. 28, 1 Stat. 130, An Act for establishing the temporary and permanent seat of the Government of the United States, approved July 16, 1790",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg130.pdf"
+   }
+  ],
+  "correction": {
+   "text": "Residence Act of July 16, 1790 authorized the federal district and public buildings from which the Mall's public grounds derive",
+   "citation": "Act of July 16, 1790, ch. 28, 1 Stat. 130"
+  },
+  "note": "Date, act and President (Washington) are right, but the Residence Act does not mention a mall: it set the permanent seat of government and authorized commissioners to provide public buildings. The Mall comes from the L'Enfant plan of 1791. Text softened accordingly."
+ },
+ {
+  "id": "national-mall-and-memorial-parks#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "navajo-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 873, 36 Stat. 2491, Navajo National Monument, done March 20, 1909",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2491-2.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 873, March 20, 1909",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-873-establishment-the-navajo-national-monument-arizona"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 873, 36 Stat. 2491"
+  },
+  "note": "Proclamation 873; Taft (16 days after his inauguration, so not a T.R. action)."
+ },
+ {
+  "id": "new-bedford-whaling-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 104-333, 110 Stat. 4093, Omnibus Parks and Public Lands Management Act of 1996, approved Nov. 12, 1996",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410ddd, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410ddd&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 104-333, div. I, sec. 511, 110 Stat. 4159"
+  },
+  "note": "P.L. 104-333, sec. 511; Clinton."
+ },
+ {
+  "id": "new-england-national-scenic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1244, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1244&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 111-11, title V, sec. 5202, 123 Stat. 1154",
+   "authorityType": "act-of-congress",
+   "president": "Barack Obama"
+  },
+  "note": "Omnibus Public Land Management Act of 2009, sec. 5202; Obama."
+ },
+ {
+  "id": "new-jersey-pinelands-national-reserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 471i, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section471i&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 502, 92 Stat. 3492"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 502 established the reserve; Carter."
+ },
+ {
+  "id": "new-orleans-jazz-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 103-433, 108 Stat. 4471, California Desert Protection Act of 1994, title XII (New Orleans Jazz NHP), approved Oct. 31, 1994",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg4471.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410bbb, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410bbb&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 103-433, title XII, sec. 1202, 108 Stat. 4519"
+  },
+  "note": "P.L. 103-433, title XII; Clinton."
+ },
+ {
+  "id": "nez-perce-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 89-19, 79 Stat. 110, act authorizing designation of Nez Perce NHP, approved May 15, 1965",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg110.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 281, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section281&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 89-19, 79 Stat. 110"
+  },
+  "note": "P.L. 89-19; LBJ."
+ },
+ {
+  "id": "nicodemus-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 104-333, 110 Stat. 4093, Omnibus Parks and Public Lands Management Act of 1996, approved Nov. 12, 1996",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg4093.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 104-333, div. I, sec. 512, 110 Stat. 4163",
+   "authorityType": "act-of-congress",
+   "president": "Bill Clinton"
+  },
+  "note": "P.L. 104-333, sec. 512 established the site; Clinton."
+ },
+ {
+  "id": "ninety-six-national-historic-site#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 94-393, 90 Stat. 1196, act to provide for the establishment of Ninety Six NHS, approved Aug. 19, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg1196.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320101, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 94-393, 90 Stat. 1196"
+  },
+  "note": "P.L. 94-393; Ford."
+ },
+ {
+  "id": "niobrara-national-scenic-river#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 102-50, 105 Stat. 254, Niobrara Scenic River Designation Act of 1991, approved May 24, 1991",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg254.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1271, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 102-50, 105 Stat. 254"
+  },
+  "note": "P.L. 102-50; George H. W. Bush."
+ },
+ {
+  "id": "noatak-national-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 4624, 93 Stat. 1468, Noatak National Monument, Dec. 1, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-93/pdf/STATUTE-93-Pg1468.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 4624, Dec. 1, 1978",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-4624-noatak-national-monument"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 4624, 93 Stat. 1468"
+  },
+  "note": "Proclamation 4624; Carter."
+ },
+ {
+  "id": "noatak-national-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-487, 94 Stat. 2371, Alaska National Interest Lands Conservation Act, sec. 201(8), approved Dec. 2, 1980",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410hh, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410hh&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-487, title II, sec. 201(8), 94 Stat. 2377",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "ANILCA, sec. 201(8), established Noatak National Preserve; Carter."
+ },
+ {
+  "id": "north-country-national-scenic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-199, 94 Stat. 67, act of March 5, 1980 (Channel Islands NP act), sec. 103, adding the North Country National Scenic Trail",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg67.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460bb–1, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bb-1&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-199, title I, sec. 103(a), 94 Stat. 68",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-199 designated the North Country National Scenic Trail; Carter."
+ },
+ {
+  "id": "obed-wild-and-scenic-river#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 94-486, 90 Stat. 2327, act amending the Wild and Scenic Rivers Act, title III (Obed), approved Oct. 12, 1976",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-90/pdf/STATUTE-90-Pg2327.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1274, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1274&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 94-486, title III, 90 Stat. 2327"
+  },
+  "note": "P.L. 94-486, title III; Ford."
+ },
+ {
+  "id": "ocmulgee-mounds-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of June 14, 1934 (Public No. 350), 48 Stat. 958, act to authorize the establishment of the Ocmulgee National Monument, approved June 14, 1934",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg958-3.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410yyy, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410yyy&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of June 14, 1934, ch. 519, 48 Stat. 958"
+  },
+  "note": "Act of June 14, 1934; FDR."
+ },
+ {
+  "id": "ocmulgee-mounds-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 2212, 50 Stat. 1798, Ocmulgee National Monument, Ga., Dec. 23, 1936",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1798.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2212, Dec. 23, 1936",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2212-ocmulgee-national-monument-georgia"
+   }
+  ],
+  "correction": {
+   "authorityType": "presidential-proclamation",
+   "citation": "Proclamation 2212, 50 Stat. 1798",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Proclamation 2212 established the monument under the 1934 act; FDR."
+ },
+ {
+  "id": "oklahoma-city-national-memorial#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 105-58, 111 Stat. 1261, Oklahoma City National Memorial Act of 1997, approved Oct. 9, 1997",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-111/pdf/STATUTE-111-Pg1261.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 450ss, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section450ss&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 105-58, 111 Stat. 1261",
+   "authorityType": "act-of-congress",
+   "president": "Bill Clinton"
+  },
+  "note": "P.L. 105-58; Clinton."
+ },
+ {
+  "id": "oklahoma-city-national-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 450ss–2, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section450ss-2&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 108-199, div. F, title V, sec. 544(c), 118 Stat. 347",
+   "authorityType": "act-of-congress",
+   "president": "George W. Bush"
+  },
+  "note": "Consolidated Appropriations Act, 2004 (P.L. 108-199), sec. 544(c), approved Jan. 23, 2004, changed the memorial from 'a unit' to 'an affiliate' of the National Park System; George W. Bush."
+ },
+ {
+  "id": "old-spanish-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 107-325, 116 Stat. 2790, Old Spanish Trail Recognition Act of 2002, approved Dec. 4, 2002",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-116/pdf/STATUTE-116-Pg2790.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1241, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1241&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 107-325, 116 Stat. 2790",
+   "authorityType": "act-of-congress",
+   "president": "George W. Bush"
+  },
+  "note": "P.L. 107-325; George W. Bush."
+ },
+ {
+  "id": "oregon-caves-national-monument-and-preserve#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 876, 36 Stat. 2497, Oregon Caves National Monument, done July 12, 1909",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2497.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 876, July 12, 1909",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-876-oregon-caves-national-monument-oregon"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 876, 36 Stat. 2497"
+  },
+  "note": "Proclamation 876; Taft. (govinfo metadata misdates it June 12; the signing clause reads July 12, 1909.)"
+ },
+ {
+  "id": "oregon-caves-national-monument-and-preserve#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "oregon-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 1241, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1241&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 551, 92 Stat. 3511",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 551; Carter."
+ },
+ {
+  "id": "organ-pipe-cactus-national-monument#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 2232, 50 Stat. 1827, Organ Pipe Cactus National Monument, April 13, 1937",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-50/pdf/STATUTE-50-Pg1827.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 2232, April 13, 1937",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-2232-organ-pipe-cactus-national-monument-arizona"
+   }
+  ],
+  "correction": {
+   "citation": "Proclamation 2232, 50 Stat. 1827"
+  },
+  "note": "Proclamation 2232; FDR."
+ },
+ {
+  "id": "overmountain-victory-national-historic-trail#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 96-344, 94 Stat. 1133, act of Sept. 8, 1980 adding the Overmountain Victory National Historic Trail",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg1133.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460bb–1, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bb-1&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 96-344, sec. 4(1), 94 Stat. 1134",
+   "authorityType": "act-of-congress",
+   "president": "Jimmy Carter"
+  },
+  "note": "P.L. 96-344, sec. 4(1) designated the trail; Carter."
+ },
+ {
+  "id": "ozark-national-scenic-riverways#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 88-492, 78 Stat. 608, act to provide for the establishment of the Ozark National Scenic Riverways, approved Aug. 27, 1964",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg608.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 460m, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460m&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 88-492, 78 Stat. 608"
+  },
+  "note": "P.L. 88-492; LBJ."
+ },
+ {
+  "id": "ozark-national-scenic-riverways#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register, 37 F.R. 11983 (June 16, 1972): Ozark National Scenic Riverways, designation and establishment, dated June 10, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1972-06-16/pdf/FR-1972-06-16.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Interior notice dated June 10, 1972, 37 F.R. 11983",
+   "president": "Richard Nixon"
+  },
+  "note": "Assistant Secretary Nathaniel Reed's notice dated June 10, 1972 declared the riverways established; Nixon."
+ },
+ {
+  "id": "padre-island-national-seashore#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 87-712, 76 Stat. 650, act to provide for the establishment of the Padre Island National Seashore, approved Sept. 28, 1962",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg650-2.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 459d, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section459d&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-712, 76 Stat. 650"
+  },
+  "note": "P.L. 87-712; JFK."
+ },
+ {
+  "id": "padre-island-national-seashore#1",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Federal Register, 33 F.R. 5468 (April 6, 1968): Padre Island National Seashore, notice of establishment, signed March 29, 1968",
+    "url": "https://www.govinfo.gov/content/pkg/FR-1968-04-06/pdf/FR-1968-04-06.pdf"
+   }
+  ],
+  "correction": {
+   "date": "1968-04-08",
+   "text": "Established April 8, 1968",
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial notice of March 29, 1968, 33 F.R. 5468 (effective April 8, 1968)",
+   "president": "Lyndon B. Johnson"
+  },
+  "note": "Index date April 6 is the Federal Register publication date. Secretary Udall's notice (signed March 29, 1968) made the establishment effective April 8, 1968, the day of the dedication. LBJ either way."
+ },
+ {
+  "id": "palo-alto-battlefield-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 95-625, 92 Stat. 3467, National Parks and Recreation Act of 1978, approved Nov. 10, 1978",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg3467.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410nnn–1, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410nnn-1&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 95-625, title V, sec. 506, 92 Stat. 3500"
+  },
+  "note": "National Parks and Recreation Act of 1978, sec. 506 authorized Palo Alto Battlefield National Historic Site; Carter."
+ },
+ {
+  "id": "palo-alto-battlefield-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410nnn, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410nnn&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 111-11, title VII, sec. 7113, 123 Stat. 1201",
+   "authorityType": "act-of-congress",
+   "president": "Barack Obama"
+  },
+  "note": "P.L. 111-11, sec. 7113 redesignated it a national historical park; Obama."
+ },
+ {
+  "id": "paterson-great-falls-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 111-11, 123 Stat. 991, Omnibus Public Land Management Act of 2009, approved March 30, 2009",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-123/pdf/STATUTE-123-Pg991.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410kkk–5, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410kkk-5&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 111-11, title VII, sec. 7001, 123 Stat. 1183"
+  },
+  "note": "P.L. 111-11, sec. 7001; Obama."
+ },
+ {
+  "id": "paterson-great-falls-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Federal Register: NPS notice 2011-29947, Paterson Great Falls National Historical Park (Nov. 21, 2011)",
+    "url": "https://www.federalregister.gov/documents/2011/11/21/2011-29947/paterson-great-falls-national-historical-park"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretary of the Interior, effective Nov. 7, 2011 (notice, Federal Register Nov. 21, 2011)",
+   "president": "Barack Obama"
+  },
+  "note": "The Secretary established the park effective Nov. 7, 2011, after signing the donation agreement that day; Obama."
+ },
+ {
+  "id": "pea-ridge-national-military-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 84-744, 70 Stat. 593, act to provide for the establishment of Pea Ridge National Military Park, approved July 20, 1956",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg593.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 430aa, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430aa&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "Act of July 20, 1956, ch. 653 (P.L. 84-744), 70 Stat. 593"
+  },
+  "note": "P.L. 84-744; Eisenhower."
+ },
+ {
+  "id": "pearl-harbor-national-memorial#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Proclamation 8327, 122 Stat. 5398, Establishment of the World War II Valor in the Pacific National Monument, Dec. 5, 2008",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-122/pdf/STATUTE-122-Pg5398.pdf"
+   },
+   {
+    "name": "American Presidency Project: Proclamation 8327, Dec. 5, 2008",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-8327-establishment-the-world-war-ii-valor-the-pacific-national-monument"
+   }
+  ],
+  "correction": {
+   "text": "World War II Valor in the Pacific National Monument proclaimed Dec. 5, 2008",
+   "name": "World War II Valor in the Pacific National Monument",
+   "designation": "National Monument",
+   "citation": "Proclamation 8327, 122 Stat. 5398"
+  },
+  "note": "Date, proclamation and President (George W. Bush) are right, but Proclamation 8327 created the World War II Valor in the Pacific National Monument; the Pearl Harbor National Memorial name came later (2019 act). Text names the 2008 unit."
+ },
+ {
+  "id": "pecos-national-historical-park#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 89-54, 79 Stat. 195, act authorizing establishment of Pecos National Monument, approved June 28, 1965",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg195.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410rr–1, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410rr-1&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 89-54, 79 Stat. 195"
+  },
+  "note": "P.L. 89-54, approved June 28, 1965 (govinfo metadata misdates it June 8); LBJ."
+ },
+ {
+  "id": "pecos-national-historical-park#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 101-313, 104 Stat. 272, act to establish Petroglyph NM and Pecos NHP, title II, approved June 27, 1990",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg272.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 410rr, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410rr&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 101-313, title II, sec. 201, 104 Stat. 278",
+   "authorityType": "act-of-congress",
+   "president": "George H. W. Bush"
+  },
+  "note": "P.L. 101-313, title II; George H. W. Bush."
+ },
+ {
+  "id": "pennsylvania-avenue#0",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "NPS, Proclamations and Orders Relating to the National Park Service, Vol. II: Pennsylvania Avenue, Secretarial order of Sept. 30, 1965",
+    "url": "https://www.nps.gov/legal/upload/Proclamations_and_Orders/Proclamations_and_Orders_Vol_II/2_National_Historic_Sites.pdf"
+   }
+  ],
+  "correction": {
+   "authorityType": "secretarial-order",
+   "citation": "Secretarial order of Sept. 30, 1965",
+   "president": "Lyndon B. Johnson"
+  },
+  "note": "Secretary Udall designated the Pennsylvania Avenue National Historic Site Sept. 30, 1965; LBJ."
+ },
+ {
+  "id": "perrys-victory-and-international-peace-memorial#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of June 2, 1936 (Public No. 631), 49 Stat. 1393, act to provide for the creation of the Perry's Victory and International Peace Memorial National Monument, approved June 2, 1936",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg1393.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 433a, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section433a&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "text": "Established as a national monument June 2, 1936",
+   "authorityType": "act-of-congress",
+   "citation": "Act of June 2, 1936, ch. 477, 49 Stat. 1393",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Date and President (FDR) are right; the instrument is the act of June 2, 1936 (govinfo metadata misdates it June 1). Draft text carried a stray descriptive sentence, now trimmed."
+ },
+ {
+  "id": "perrys-victory-and-international-peace-memorial#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 92-568, 86 Stat. 1181, act changing the name of the monument, approved Oct. 26, 1972",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1181-3.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 433a, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section433a&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 92-568, 86 Stat. 1181",
+   "authorityType": "act-of-congress",
+   "president": "Richard Nixon"
+  },
+  "note": "P.L. 92-568 renamed it Perry's Victory and International Peace Memorial; Nixon."
+ },
+ {
+  "id": "petersburg-national-battlefield#0",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): Act of July 3, 1926, ch. 746 (Public No. 467), 44 Stat. 822, act to establish a national military park at the siege of Petersburg, approved July 3, 1926",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-44/pdf/STATUTE-44-Pg822.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 423, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section423&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "text": "Established as a national military park July 3, 1926",
+   "authorityType": "act-of-congress",
+   "citation": "Act of July 3, 1926, ch. 746, 44 Stat. 822",
+   "president": "Calvin Coolidge"
+  },
+  "note": "Date, act and President (Coolidge) are right; the 'Park:' label was dropped from the text."
+ },
+ {
+  "id": "petersburg-national-battlefield#1",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "Transfer to NPS under Executive Order 6166, effective Aug. 10, 1933 (FDR)."
+ },
+ {
+  "id": "petersburg-national-battlefield#2",
+  "verdict": "confirmed",
+  "sources": [
+   {
+    "name": "Statutes at Large (govinfo): P.L. 87-603, 76 Stat. 403, act redesignating Petersburg National Military Park as Petersburg National Battlefield, approved Aug. 24, 1962",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg403.pdf"
+   },
+   {
+    "name": "U.S. Code (Office of the Law Revision Counsel), 16 U.S.C. 423, source credit/notes",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section423&num=0&edition=prelim"
+   }
+  ],
+  "correction": {
+   "citation": "P.L. 87-603, 76 Stat. 403",
+   "authorityType": "act-of-congress",
+   "president": "John F. Kennedy"
+  },
+  "note": "P.L. 87-603; JFK."
+ },
+ {
+  "id": "petersburg-national-battlefield#3",
+  "verdict": "corrected",
+  "sources": [
+   {
+    "name": "American Presidency Project: Executive Order 6166, June 10, 1933 (effective Aug. 10, 1933)",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-6166-organization-executive-agencies"
+   }
+  ],
+  "correction": {
+   "text": "Poplar Grove National Cemetery transferred from the War Department to the National Park Service, Aug. 10, 1933",
+   "authorityType": "executive-order",
+   "citation": "Executive Order 6166 (June 10, 1933), effective Aug. 10, 1933",
+   "president": "Franklin D. Roosevelt"
+  },
+  "note": "This Index line belongs to the park's cemetery (Poplar Grove National Cemetery), not a second park transfer, so the text names it to avoid duplicating #1. Transfer under EO 6166 (FDR)."
+ }
+]

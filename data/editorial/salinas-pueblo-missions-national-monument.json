@@ -1,6 +1,6 @@
 {
   "slug": "salinas-pueblo-missions-national-monument",
-  "status": "draft",
+  "status": "reviewed",
   "designationHistory": [
     {
       "date": "1909-11-01",
@@ -12,39 +12,64 @@
         "type": "presidential-proclamation",
         "signedBy": "William Howard Taft",
         "administration": "William Howard Taft",
-        "citation": null
+        "citation": "Proclamation 882, 36 Stat. 2503"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): Proclamation 882, 36 Stat. 2503, Gran Quivira National Monument, done Nov. 1, 1909",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-36/pdf/STATUTE-36-Pg2503.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 882, Nov. 1, 1909",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-882-establishing-the-gran-quivira-national-monument-new-mexico"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Proclamation 882; Taft.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     },
     {
       "date": "1980-12-19",
       "action": "designated",
       "designation": null,
       "name": null,
-      "indexText": "On Dec. 19, 1980, two state monuments, Quarai and Abo were donated to the National Park Service and joined Gran Quivira in forming Salinas National Monument",
+      "indexText": "Salinas National Monument created by act of Congress Dec. 19, 1980, joining Gran Quivira National Monument with lands at Abo and Quarai",
       "authority": {
-        "type": "presidential-proclamation",
+        "type": "act-of-congress",
         "signedBy": "Jimmy Carter",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "P.L. 96-550, title VI, sec. 601, 94 Stat. 3231"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 96-550, title VI, 94 Stat. 3231, act of Dec. 19, 1980 (New Mexico Wilderness Act), title VI, Salinas National Monument",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg3221.pdf"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Wrong authority: Salinas National Monument was created by act of Congress (P.L. 96-550, title VI), not a proclamation. The act abolished Gran Quivira NM as such and authorized acquiring the Abo and Quarai lands (then state monuments) for the new monument; it does not record a donation that day. Carter.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "On Dec. 19, 1980, two state monuments, Quarai and Abo were donated to the National Park Service and joined Gran Quivira in forming Salinas National Monument"
     },
     {
       "date": "1988-10-28",
@@ -53,20 +78,34 @@
       "name": null,
       "indexText": "Renamed Salinas Pueblo Missions National Monument Oct. 28, 1988",
       "authority": {
-        "type": "unspecified",
-        "signedBy": null,
+        "type": "act-of-congress",
+        "signedBy": "Ronald Reagan",
         "administration": "Ronald Reagan",
-        "citation": null
+        "citation": "P.L. 100-559, title I, sec. 101, 102 Stat. 2797"
       },
       "note": null,
       "sources": [
         {
           "name": "The National Parks: Index 2012–2016 (National Park Service), PDF page 79",
           "url": "https://www.nps.gov/aboutus/upload/npindex2012-2016.pdf"
+        },
+        {
+          "name": "Statutes at Large (govinfo): P.L. 100-559, 102 Stat. 2797, act to redesignate Salinas National Monument, approved Oct. 28, 1988",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg2797.pdf"
+        },
+        {
+          "name": "U.S. Code (Office of the Law Revision Counsel), 54 U.S.C. 320301, source credit/notes",
+          "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim"
         }
       ],
       "research": "nps-index-2012-2016",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 100-559 renamed it Salinas Pueblo Missions National Monument; Reagan.",
+        "by": "HistorianPanel accuracy review, batch 5d (National Park System)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": {
