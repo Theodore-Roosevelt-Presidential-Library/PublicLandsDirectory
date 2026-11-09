@@ -1,0 +1,45 @@
+{
+ "slug": "john-wesley-powell-national-conservation-area",
+ "designationHistory": [
+  {
+   "date": "2019-03-12",
+   "action": "established",
+   "designation": "National Conservation Area",
+   "name": null,
+   "indexText": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the John Wesley Powell National Conservation Area in Utah.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": "Donald J. Trump",
+    "citation": "Public Law 116-9, title I, sec. 1118, 133 Stat. 580, 627",
+    "signedBy": "Donald J. Trump"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+    },
+    {
+     "name": "16 U.S.C. 460cccc (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/16/460cccc"
+    },
+    {
+     "name": "BLM unit page: John Wesley Powell National Conservation Area",
+     "url": "https://www.blm.gov/programs/national-conservation-lands/utah/john-wesley-powell-nca"
+    }
+   ],
+   "research": "blm",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)",
+ "states": [
+  "UT"
+ ],
+ "statesNote": "Set from the establishing law or proclamation (HistorianPanel research, Nov. 2026); the simplified boundary strays over a state line."
+}

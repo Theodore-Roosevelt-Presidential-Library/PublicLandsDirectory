@@ -1,0 +1,41 @@
+{
+  "slug": "jupiter-inlet-lighthouse-outstanding-natural-area",
+  "designationHistory": [
+    {
+      "date": "2008-05-08",
+      "action": "established",
+      "designation": "Outstanding Natural Area",
+      "name": null,
+      "indexText": "The Consolidated Natural Resources Act of 2008 established the Jupiter Inlet Lighthouse Outstanding Natural Area in Florida.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 110-229, title II, sec. 202, 122 Stat. 754, 763",
+        "signedBy": "George W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 110-229, 122 Stat. 754 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ229/html/PLAW-110publ229.htm"
+        },
+        {
+          "name": "43 U.S.C. 1787 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/43/1787"
+        },
+        {
+          "name": "BLM unit page: Jupiter Inlet Lighthouse Outstanding Natural Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/eastern-states/jupiter-inlet-lighthouse"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

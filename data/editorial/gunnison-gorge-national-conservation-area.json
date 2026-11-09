@@ -1,0 +1,41 @@
+{
+  "slug": "gunnison-gorge-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1999-10-21",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999 established the Gunnison Gorge National Conservation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-76, sec. 7, 113 Stat. 1126, 1129",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 106-76, 113 Stat. 1126 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ76/html/PLAW-106publ76.htm"
+        },
+        {
+          "name": "16 U.S.C. 410fff-5 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/410fff-5"
+        },
+        {
+          "name": "BLM unit page: Gunnison Gorge National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/gunnison-gorge-nca"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

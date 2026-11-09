@@ -1,0 +1,41 @@
+{
+  "slug": "gila-box-riparian-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1990-11-28",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Arizona Desert Wilderness Act of 1990 established the Gila Box Riparian National Conservation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-628, title II, sec. 201, 104 Stat. 4469, 4475",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 101-628, 104 Stat. 4469 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4469.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ddd (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ddd"
+        },
+        {
+          "name": "BLM unit page: Gila Box Riparian National Conservation Area",
+          "url": "https://www.blm.gov/national-conservation-lands/arizona/gilabox"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

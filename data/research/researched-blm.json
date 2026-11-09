@@ -1,0 +1,1020 @@
+{
+ "alabama-hills-national-scenic-area": {
+  "events": [
+   {
+    "date": "2019-03-12",
+    "action": "established",
+    "designation": "National Scenic Area",
+    "name": null,
+    "text": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the Alabama Hills National Scenic Area in Inyo County, California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 116-9, title I, sec. 1441 (adding title XIV, sec. 1402, to Public Law 103-433), 133 Stat. 701, 706",
+     "president": "Donald J. Trump"
+    },
+    "sources": [
+     {
+      "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+     },
+     {
+      "name": "16 U.S.C. 460ffff-1 and source credit (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ffff-1"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Enacted as a new title XIV of the California Desert Protection Act of 1994; the BLM unit page gives no designation date."
+   }
+  ],
+  "note": null
+ },
+ "baaj-nwaavjo-itah-kukveni-national-monument": {
+  "events": [
+   {
+    "date": "2023-08-08",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Baaj Nwaavjo I'tah Kukveni--Ancestral Footprints of the Grand Canyon National Monument",
+    "text": "President Biden established the Baaj Nwaavjo I'tah Kukveni--Ancestral Footprints of the Grand Canyon National Monument by proclamation under the Antiquities Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 10606, Aug. 8, 2023, 88 FR 55331",
+     "president": "Joseph R. Biden Jr."
+    },
+    "sources": [
+     {
+      "name": "Proclamation 10606, 88 FR 55331 (govinfo, Federal Register)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-08-15/html/2023-17628.htm"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     },
+     {
+      "name": "BLM unit page: Baaj Nwaavjo I'tah Kukveni National Monument",
+      "url": "https://www.blm.gov/national-conservation-lands/arizona/ancestral-footprints"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Proclamation reserves about 917,618 acres; BLM page says BLM administers 529,242 acres and the Forest Service 388,376. Published in the Federal Register Aug. 15, 2023. Name field gives the proclamation's full title."
+   }
+  ],
+  "note": "Proclamation facts only, per instruction; Indigenous-history content is for the Library's human reviewers. The proclamation describes lands in northern Arizona only; 'UT' in the input states list is not supported by the proclamation (Utah appears only in a tribe's name)."
+ },
+ "beaver-dam-wash-national-conservation-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 established the Beaver Dam Wash National Conservation Area in Washington County, Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title I, sec. 1975, 123 Stat. 991, 1083",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "16 U.S.C. 460xxx (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460xxx"
+     },
+     {
+      "name": "BLM unit page: Beaver Dam Wash National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/utah/beaver-dam-wash-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The establishing section (Washington County, Utah subtitle) places the unit in Utah; 'NV' in the input states list is not supported by the law."
+ },
+ "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area": {
+  "events": [
+   {
+    "date": "2000-12-21",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000, enacted within the Consolidated Appropriations Act, 2001, established the conservation area in Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-554, sec. 1(a)(4) [div. B, title I, sec. 125], 114 Stat. 2763, 2763A-229, 2763A-354",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-554, appendix D-1 (S. 2273) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ554/html/PLAW-106publ554.htm"
+     },
+     {
+      "name": "16 U.S.C. 460ppp-2 and source credit (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ppp-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "S. 2273 was enacted by reference through sec. 125 of H.R. 5666 (Miscellaneous Appropriations Act, 2001). The BLM unit page gives no designation date."
+   }
+  ],
+  "note": null
+ },
+ "dominguez-escalante-national-conservation-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": "Dominguez-Escalante National Conservation Area",
+    "text": "The Omnibus Public Land Management Act of 2009 established the Dominguez-Escalante National Conservation Area in Colorado.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title II, sec. 2402, 123 Stat. 991, 1102",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "16 U.S.C. 460zzz-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460zzz-1"
+     },
+     {
+      "name": "BLM unit page: Dominguez/Escalante National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/dominguez-escalante-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The statute spells the name with a hyphen, not a slash."
+   }
+  ],
+  "note": null
+ },
+ "el-malpais-national-conservation-area": {
+  "events": [
+   {
+    "date": "1987-12-31",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The same act that created El Malpais National Monument established the El Malpais National Conservation Area in New Mexico.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 100-225, title III, sec. 301, 101 Stat. 1539, 1541",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 100-225, 101 Stat. 1539 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1539.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460uu-21 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460uu-21"
+     },
+     {
+      "name": "BLM unit page: El Malpais National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/el-malpais-national-conservation-area"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "fort-stanton-snowy-river-national-conservation-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": "Fort Stanton-Snowy River Cave National Conservation Area",
+    "text": "The Omnibus Public Land Management Act of 2009 established the Fort Stanton-Snowy River Cave National Conservation Area in Lincoln County, New Mexico.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title II, sec. 2202, 123 Stat. 991, 1099",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "16 U.S.C. 460yyy-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460yyy-1"
+     },
+     {
+      "name": "BLM unit page: Fort Stanton - Snowy River National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/fort-stanton-snowy-river-cave-national-conservation-area"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The statutory and BLM name includes 'Cave'; the input name omits it."
+   }
+  ],
+  "note": null
+ },
+ "gila-box-riparian-national-conservation-area": {
+  "events": [
+   {
+    "date": "1990-11-28",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Arizona Desert Wilderness Act of 1990 established the Gila Box Riparian National Conservation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 101-628, title II, sec. 201, 104 Stat. 4469, 4475",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 101-628, 104 Stat. 4469 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4469.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ddd (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ddd"
+     },
+     {
+      "name": "BLM unit page: Gila Box Riparian National Conservation Area",
+      "url": "https://www.blm.gov/national-conservation-lands/arizona/gilabox"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "gunnison-gorge-national-conservation-area": {
+  "events": [
+   {
+    "date": "1999-10-21",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999 established the Gunnison Gorge National Conservation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-76, sec. 7, 113 Stat. 1126, 1129",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-76, 113 Stat. 1126 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ76/html/PLAW-106publ76.htm"
+     },
+     {
+      "name": "16 U.S.C. 410fff-5 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/410fff-5"
+     },
+     {
+      "name": "BLM unit page: Gunnison Gorge National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/gunnison-gorge-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "headwaters-forest-reserve": {
+  "events": [
+   {
+    "date": "1999-03-01",
+    "action": "established",
+    "designation": "Forest Reserve",
+    "name": null,
+    "text": "The federal government and the State of California acquired the Headwaters Forest, which became the Headwaters Forest Reserve under BLM management.",
+    "authority": {
+     "type": "administrative",
+     "citation": "Acquisition authorized by Public Law 105-83, title V, sec. 501, 111 Stat. 1543, 1610 (approved Nov. 14, 1997)",
+     "president": null
+    },
+    "sources": [
+     {
+      "name": "Public Law 105-83, sec. 501 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-105publ83/html/PLAW-105publ83.htm"
+     },
+     {
+      "name": "BLM notice, Headwaters Forest Reserve management plan, 67 FR (Apr. 22, 2002) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2002-04-22/pdf/02-9862.pdf"
+     },
+     {
+      "name": "California Legislative Analyst's Office, Headwaters report, May 4, 1999",
+      "url": "https://lao.ca.gov/1999/050499_headwaters/050499_headwaters.html"
+     },
+     {
+      "name": "BLM unit page: Headwaters Forest Reserve",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/california/headwaters-forest-reserve"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "No act or proclamation 'designates' the Reserve. Public Law 105-83 (signed by President Clinton, Nov. 14, 1997) authorized the purchase and named the retained land the 'Headwaters Forest'; the 2002 Federal Register notice and the BLM page date the acquisition and establishment to March 1, 1999. The BLM page labels it a 'Congressional Designation.'"
+   }
+  ],
+  "note": null
+ },
+ "john-wesley-powell-national-conservation-area": {
+  "events": [
+   {
+    "date": "2019-03-12",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established the John Wesley Powell National Conservation Area in Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 116-9, title I, sec. 1118, 133 Stat. 580, 627",
+     "president": "Donald J. Trump"
+    },
+    "sources": [
+     {
+      "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+     },
+     {
+      "name": "16 U.S.C. 460cccc (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460cccc"
+     },
+     {
+      "name": "BLM unit page: John Wesley Powell National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/utah/john-wesley-powell-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The law establishes the area 'in the State of Utah' (Emery County provisions); 'CO' in the input states list is not supported."
+ },
+ "jupiter-inlet-lighthouse-outstanding-natural-area": {
+  "events": [
+   {
+    "date": "2008-05-08",
+    "action": "established",
+    "designation": "Outstanding Natural Area",
+    "name": null,
+    "text": "The Consolidated Natural Resources Act of 2008 established the Jupiter Inlet Lighthouse Outstanding Natural Area in Florida.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 110-229, title II, sec. 202, 122 Stat. 754, 763",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 110-229, 122 Stat. 754 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ229/html/PLAW-110publ229.htm"
+     },
+     {
+      "name": "43 U.S.C. 1787 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/43/1787"
+     },
+     {
+      "name": "BLM unit page: Jupiter Inlet Lighthouse Outstanding Natural Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/eastern-states/jupiter-inlet-lighthouse"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "jurassic-national-monument": {
+  "events": [
+   {
+    "date": "2019-03-12",
+    "action": "established",
+    "designation": "National Monument",
+    "name": null,
+    "text": "The John D. Dingell, Jr. Conservation, Management, and Recreation Act established Jurassic National Monument in Emery County, Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 116-9, title I, sec. 1252, 133 Stat. 580, 676",
+     "president": "Donald J. Trump"
+    },
+    "sources": [
+     {
+      "name": "Public Law 116-9, 133 Stat. 580 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ9/html/PLAW-116publ9.htm"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Established by statute, not under the Antiquities Act. The BLM unit page gives no designation date."
+   }
+  ],
+  "note": null
+ },
+ "king-range-national-conservation-area": {
+  "events": [
+   {
+    "date": "1970-10-21",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "Congress directed the Secretary of the Interior to establish the King Range National Conservation Area in California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 91-476, sec. 1, 84 Stat. 1067",
+     "president": "Richard Nixon"
+    },
+    "sources": [
+     {
+      "name": "Public Law 91-476, 84 Stat. 1067 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1067.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460y (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460y"
+     },
+     {
+      "name": "BLM unit page: King Range National Conservation Area",
+      "url": "https://www.blm.gov/visit/king-range-national-conservation-area"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The act 'authorized and directed' the Secretary to establish the area after further steps, rather than establishing it outright; the BLM page dates the designation to 1970."
+   }
+  ],
+  "note": null
+ },
+ "las-cienegas-national-conservation-area": {
+  "events": [
+   {
+    "date": "2000-12-06",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "Congress established the Las Cienegas National Conservation Area in Arizona.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-538, sec. 4, 114 Stat. 2563, 2564",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-538, 114 Stat. 2563 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ538/html/PLAW-106publ538.htm"
+     },
+     {
+      "name": "16 U.S.C. 460ooo-3 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ooo-3"
+     },
+     {
+      "name": "BLM unit page: Las Cienegas National Conservation Area",
+      "url": "https://www.blm.gov/national-conservation-lands/arizona/las-cienegas"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The law has no short-title section; the BLM page's label 'Las Cienegas National Conservation Area Establishment Act of 1999' reflects the bill, not an enacted title, so avoid quoting it as the law's name."
+   }
+  ],
+  "note": null
+ },
+ "mcinnis-canyons-national-conservation-area": {
+  "events": [
+   {
+    "date": "2000-10-24",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": "Colorado Canyons National Conservation Area",
+    "text": "The Colorado Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 established the Colorado Canyons National Conservation Area in Colorado and Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-353, sec. 4, 114 Stat. 1374, 1375",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-353, 114 Stat. 1374 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ353/html/PLAW-106publ353.htm"
+     },
+     {
+      "name": "16 U.S.C. 460mmm-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460mmm-2"
+     },
+     {
+      "name": "BLM unit page: McInnis Canyons National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/mcinnis-canyons"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "2005-01-01",
+    "action": "renamed",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "A 2004 act renamed the Colorado Canyons National Conservation Area as the McInnis Canyons National Conservation Area, effective January 1, 2005.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 108-400, sec. 1, 118 Stat. 2254",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 108-400, 118 Stat. 2254 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ400/html/PLAW-108publ400.htm"
+     },
+     {
+      "name": "16 U.S.C. 460mmm-2, effective-date note (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460mmm-2"
+     },
+     {
+      "name": "BLM unit page: McInnis Canyons National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/mcinnis-canyons"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Signed October 30, 2004; sec. 1(g) makes the rename effective January 1, 2005. The BLM page names Representative Scott McInnis as the honoree."
+   }
+  ],
+  "note": null
+ },
+ "morley-nelson-snake-river-birds-of-prey-national-conservation-area": {
+  "events": [
+   {
+    "date": "1993-08-04",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": "Snake River Birds of Prey National Conservation Area",
+    "text": "Congress established the Snake River Birds of Prey National Conservation Area in Idaho.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 103-64, sec. 3, 107 Stat. 302, 304",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 103-64, 107 Stat. 302 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg302.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460iii-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460iii-2"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   },
+   {
+    "date": "2009-03-30",
+    "action": "renamed",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 renamed the area the Morley Nelson Snake River Birds of Prey National Conservation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title II, sec. 2301, 123 Stat. 991, 1101",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "16 U.S.C. 460iii, change-of-name note (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460iii"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "Before 1993 the BLM managed the lands as the 'Snake River Birds of Prey Area' (named in the 1993 law's findings). Earlier administrative designations (a 1971 natural area and a 1980 public land order) were not verified in the primary record and are left out. The BLM unit page returned no dates."
+ },
+ "numunaa-nobe-national-conservation-area": {
+  "events": [
+   {
+    "date": "2022-12-23",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The National Defense Authorization Act for Fiscal Year 2023 established the Numunaa Nobe National Conservation Area in Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 117-263, div. B, title XXIX, sec. 2903(a), 136 Stat. 2395, 3034",
+     "president": "Joseph R. Biden Jr."
+    },
+    "sources": [
+     {
+      "name": "Public Law 117-263, sec. 2903(a) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     },
+     {
+      "name": "16 U.S.C. 460hhhh and source credit (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460hhhh"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Designated December 23, 2022, not in 2024-2025 as the brief assumed. Enacted with the Fallon Range Training Complex land provisions; about 160,000 acres per the law."
+   }
+  ],
+  "note": "No BLM unit page yet."
+ },
+ "piedras-blancas-outstanding-natural-area": {
+  "events": [
+   {
+    "date": "2008-05-08",
+    "action": "established",
+    "designation": "Outstanding Natural Area",
+    "name": "Piedras Blancas Historic Light Station Outstanding Natural Area",
+    "text": "The Consolidated Natural Resources Act of 2008 established the Piedras Blancas Historic Light Station Outstanding Natural Area in California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 110-229, title II, sec. 201, 122 Stat. 754, 759",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 110-229, 122 Stat. 754 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ229/html/PLAW-110publ229.htm"
+     },
+     {
+      "name": "43 U.S.C. 1786 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/43/1786"
+     },
+     {
+      "name": "BLM unit page: Piedras Blancas Outstanding Natural Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/california/piedras-blancas-light-station"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The statutory name includes 'Historic Light Station'; the input name omits it."
+   }
+  ],
+  "note": null
+ },
+ "pistone-black-mountain-national-conservation-area": {
+  "events": [
+   {
+    "date": "2022-12-23",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The National Defense Authorization Act for Fiscal Year 2023 established the Pistone-Black Mountain National Conservation Area in Mineral County, Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 117-263, div. B, title XXIX, sec. 2903(b), 136 Stat. 2395, 3037",
+     "president": "Joseph R. Biden Jr."
+    },
+    "sources": [
+     {
+      "name": "Public Law 117-263, sec. 2903(b) (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     },
+     {
+      "name": "16 U.S.C. 460iiii and source credit (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460iiii"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Designated December 23, 2022, not in 2024-2025 as the brief assumed. About 3,415 acres per the law."
+   }
+  ],
+  "note": "No BLM unit page yet."
+ },
+ "prehistoric-trackways-national-monument": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Monument",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 established Prehistoric Trackways National Monument in New Mexico.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title II, sec. 2103, 123 Stat. 991, 1097",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Established by statute, not under the Antiquities Act. The BLM unit page gives no designation date."
+   }
+  ],
+  "note": null
+ },
+ "red-cliffs-national-conservation-area": {
+  "events": [
+   {
+    "date": "2009-03-30",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Omnibus Public Land Management Act of 2009 established the Red Cliffs National Conservation Area in Washington County, Utah.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 111-11, title I, sec. 1974, 123 Stat. 991, 1081",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+     },
+     {
+      "name": "16 U.S.C. 460www (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460www"
+     },
+     {
+      "name": "BLM unit page: Red Cliffs National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/utah/red-cliffs-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "red-rock-canyon-national-conservation-area": {
+  "events": [
+   {
+    "date": "1990-11-16",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "Congress established the Red Rock Canyon National Conservation Area in Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 101-621, sec. 3, 104 Stat. 3342",
+     "president": "George H. W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 101-621, 104 Stat. 3342 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg3342.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460ccc-1 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460ccc-1"
+     },
+     {
+      "name": "BLM unit page: Red Rock Canyon National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/nevada/red-rock-canyon"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": "The BLM page says the 1990 law changed the status of the earlier 'Red Rock Recreation Lands'; that earlier administrative designation was not verified in the primary record and is left out."
+ },
+ "rio-grande-del-norte-national-monument": {
+  "events": [
+   {
+    "date": "2013-03-25",
+    "action": "established",
+    "designation": "National Monument",
+    "name": null,
+    "text": "President Obama established Río Grande del Norte National Monument in New Mexico by proclamation under the Antiquities Act.",
+    "authority": {
+     "type": "presidential-proclamation",
+     "citation": "Proclamation 8946, Mar. 25, 2013, 78 FR 18783",
+     "president": "Barack Obama"
+    },
+    "sources": [
+     {
+      "name": "Proclamation 8946, 78 FR 18783 (govinfo, Federal Register)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-28/html/2013-07406.htm"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     },
+     {
+      "name": "BLM unit page: Río Grande del Norte National Monument",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/rio-grande-del-norte-national-monument"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Published in the Federal Register March 28, 2013. Some secondary listings mis-cite it as 78 FR 18777, which is Proclamation 8945."
+   }
+  ],
+  "note": "The proclamation covers lands in New Mexico; Colorado appears only in a reference to the Rio Grande Compact. 'CO' in the input states list is not supported."
+ },
+ "san-pedro-riparian-national-conservation-area": {
+  "events": [
+   {
+    "date": "1988-11-18",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Arizona-Idaho Conservation Act of 1988 established the San Pedro Riparian National Conservation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 100-696, title I, sec. 101, 102 Stat. 4571",
+     "president": "Ronald Reagan"
+    },
+    "sources": [
+     {
+      "name": "Public Law 100-696, 102 Stat. 4571 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4571.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460xx (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460xx"
+     },
+     {
+      "name": "BLM unit page: San Pedro Riparian National Conservation Area",
+      "url": "https://www.blm.gov/national-conservation-lands/arizona/san-pedro"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "santa-rosa-san-jacinto-mountains-national-monument": {
+  "events": [
+   {
+    "date": "2000-10-24",
+    "action": "established",
+    "designation": "National Monument",
+    "name": "Santa Rosa and San Jacinto Mountains National Monument",
+    "text": "The Santa Rosa and San Jacinto Mountains National Monument Act of 2000 designated the national monument in California.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-351, sec. 2, 114 Stat. 1362, 1363",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-351, 114 Stat. 1362 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ351/html/PLAW-106publ351.htm"
+     },
+     {
+      "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+     },
+     {
+      "name": "BLM unit page: Santa Rosa-San Jacinto Mountains National Monument",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Established by statute, not under the Antiquities Act; jointly managed by the BLM and the Forest Service."
+   }
+  ],
+  "note": null
+ },
+ "sloan-canyon-national-conservation-area": {
+  "events": [
+   {
+    "date": "2002-11-06",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Clark County Conservation of Public Land and Natural Resources Act of 2002 established the Sloan Canyon National Conservation Area in Nevada.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 107-282, title VI, sec. 604, 116 Stat. 1994, 2010",
+     "president": "George W. Bush"
+    },
+    "sources": [
+     {
+      "name": "Public Law 107-282, 116 Stat. 1994 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ282/html/PLAW-107publ282.htm"
+     },
+     {
+      "name": "16 U.S.C. 460qqq-2 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460qqq-2"
+     },
+     {
+      "name": "BLM unit page: Sloan Canyon National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/nevada/sloan-canyon-nca"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "steens-mountain-cooperative-management-and-protection-area": {
+  "events": [
+   {
+    "date": "2000-10-30",
+    "action": "designated",
+    "designation": "Cooperative Management and Protection Area",
+    "name": null,
+    "text": "The Steens Mountain Cooperative Management and Protection Act of 2000 directed the Secretary of the Interior to designate the Steens Mountain Cooperative Management and Protection Area in Harney County, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 106-399, title I, sec. 101, 114 Stat. 1655, 1658",
+     "president": "William J. Clinton"
+    },
+    "sources": [
+     {
+      "name": "Public Law 106-399, 114 Stat. 1655 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ399/html/PLAW-106publ399.htm"
+     },
+     {
+      "name": "16 U.S.C. 460nnn-11 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460nnn-11"
+     },
+     {
+      "name": "BLM unit page: Steens Mountain Cooperative Management and Protection Area",
+      "url": "https://www.blm.gov/programs/recreation/recreation-activities/oregon-washington/steens-mountain"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "Sec. 101 says 'The Secretary shall designate'; the date is the law's approval date, which the BLM page also gives."
+   }
+  ],
+  "note": null
+ },
+ "steese-national-conservation-area": {
+  "events": [
+   {
+    "date": "1980-12-02",
+    "action": "established",
+    "designation": "National Conservation Area",
+    "name": null,
+    "text": "The Alaska National Interest Lands Conservation Act established the Steese National Conservation Area.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 96-487, title IV, sec. 401, 94 Stat. 2371, 2396",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 96-487, 94 Stat. 2371 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+     },
+     {
+      "name": "16 U.S.C. 460mm (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/16/460mm"
+     },
+     {
+      "name": "BLM unit page: Steese National Conservation Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/alaska/steese"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": null
+   }
+  ],
+  "note": null
+ },
+ "yaquina-head-outstanding-natural-area": {
+  "events": [
+   {
+    "date": "1980-03-05",
+    "action": "established",
+    "designation": "Outstanding Natural Area",
+    "name": null,
+    "text": "Congress established the Yaquina Head Outstanding Natural Area in Lincoln County, Oregon.",
+    "authority": {
+     "type": "act-of-congress",
+     "citation": "Public Law 96-199, title I, sec. 119, 94 Stat. 67, 71",
+     "president": "Jimmy Carter"
+    },
+    "sources": [
+     {
+      "name": "Public Law 96-199, 94 Stat. 67 (govinfo, Statutes at Large)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg67.pdf"
+     },
+     {
+      "name": "43 U.S.C. 1783 (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/43/1783"
+     },
+     {
+      "name": "BLM unit page: Yaquina Head Outstanding Natural Area",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/oregon-washington/yaquina-head-ona"
+     }
+    ],
+    "verdict": "confirmed",
+    "note": "The BLM page's Quick Facts label it a 'Creation Proclamation'; it was an act of Congress."
+   }
+  ],
+  "note": null
+ }
+}

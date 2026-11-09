@@ -1,0 +1,45 @@
+{
+ "slug": "beaver-dam-wash-national-conservation-area",
+ "designationHistory": [
+  {
+   "date": "2009-03-30",
+   "action": "established",
+   "designation": "National Conservation Area",
+   "name": null,
+   "indexText": "The Omnibus Public Land Management Act of 2009 established the Beaver Dam Wash National Conservation Area in Washington County, Utah.",
+   "authority": {
+    "type": "act-of-congress",
+    "administration": "Barack Obama",
+    "citation": "Public Law 111-11, title I, sec. 1975, 123 Stat. 991, 1083",
+    "signedBy": "Barack Obama"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+    },
+    {
+     "name": "16 U.S.C. 460xxx (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/16/460xxx"
+    },
+    {
+     "name": "BLM unit page: Beaver Dam Wash National Conservation Area",
+     "url": "https://www.blm.gov/programs/national-conservation-lands/utah/beaver-dam-wash-nca"
+    }
+   ],
+   "research": "blm",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)",
+ "states": [
+  "UT"
+ ],
+ "statesNote": "Set from the establishing law or proclamation (HistorianPanel research, Nov. 2026); the simplified boundary strays over a state line."
+}

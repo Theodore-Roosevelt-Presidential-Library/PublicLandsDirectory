@@ -1,0 +1,41 @@
+{
+  "slug": "dominguez-escalante-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2009-03-30",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": "Dominguez-Escalante National Conservation Area",
+      "indexText": "The Omnibus Public Land Management Act of 2009 established the Dominguez-Escalante National Conservation Area in Colorado.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, title II, sec. 2402, 123 Stat. 991, 1102",
+        "signedBy": "Barack Obama"
+      },
+      "note": "The statute spells the name with a hyphen, not a slash.",
+      "sources": [
+        {
+          "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+        },
+        {
+          "name": "16 U.S.C. 460zzz-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460zzz-1"
+        },
+        {
+          "name": "BLM unit page: Dominguez/Escalante National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/dominguez-escalante-nca"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

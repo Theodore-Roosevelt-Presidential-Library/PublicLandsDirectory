@@ -1,0 +1,41 @@
+{
+  "slug": "king-range-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1970-10-21",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "Congress directed the Secretary of the Interior to establish the King Range National Conservation Area in California.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 91-476, sec. 1, 84 Stat. 1067",
+        "signedBy": "Richard Nixon"
+      },
+      "note": "The act 'authorized and directed' the Secretary to establish the area after further steps, rather than establishing it outright; the BLM page dates the designation to 1970.",
+      "sources": [
+        {
+          "name": "Public Law 91-476, 84 Stat. 1067 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1067.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460y (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460y"
+        },
+        {
+          "name": "BLM unit page: King Range National Conservation Area",
+          "url": "https://www.blm.gov/visit/king-range-national-conservation-area"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

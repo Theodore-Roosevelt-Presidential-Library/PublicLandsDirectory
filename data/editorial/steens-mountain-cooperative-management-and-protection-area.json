@@ -1,0 +1,41 @@
+{
+  "slug": "steens-mountain-cooperative-management-and-protection-area",
+  "designationHistory": [
+    {
+      "date": "2000-10-30",
+      "action": "designated",
+      "designation": "Cooperative Management and Protection Area",
+      "name": null,
+      "indexText": "The Steens Mountain Cooperative Management and Protection Act of 2000 directed the Secretary of the Interior to designate the Steens Mountain Cooperative Management and Protection Area in Harney County, Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-399, title I, sec. 101, 114 Stat. 1655, 1658",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "Sec. 101 says 'The Secretary shall designate'; the date is the law's approval date, which the BLM page also gives.",
+      "sources": [
+        {
+          "name": "Public Law 106-399, 114 Stat. 1655 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ399/html/PLAW-106publ399.htm"
+        },
+        {
+          "name": "16 U.S.C. 460nnn-11 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460nnn-11"
+        },
+        {
+          "name": "BLM unit page: Steens Mountain Cooperative Management and Protection Area",
+          "url": "https://www.blm.gov/programs/recreation/recreation-activities/oregon-washington/steens-mountain"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

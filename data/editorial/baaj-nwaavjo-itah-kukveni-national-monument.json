@@ -1,0 +1,45 @@
+{
+ "slug": "baaj-nwaavjo-itah-kukveni-national-monument",
+ "designationHistory": [
+  {
+   "date": "2023-08-08",
+   "action": "established",
+   "designation": "National Monument",
+   "name": "Baaj Nwaavjo I'tah Kukveni--Ancestral Footprints of the Grand Canyon National Monument",
+   "indexText": "President Biden established the Baaj Nwaavjo I'tah Kukveni--Ancestral Footprints of the Grand Canyon National Monument by proclamation under the Antiquities Act.",
+   "authority": {
+    "type": "presidential-proclamation",
+    "administration": "Joseph R. Biden Jr.",
+    "citation": "Proclamation 10606, Aug. 8, 2023, 88 FR 55331",
+    "signedBy": "Joseph R. Biden Jr."
+   },
+   "note": "Proclamation reserves about 917,618 acres; BLM page says BLM administers 529,242 acres and the Forest Service 388,376. Published in the Federal Register Aug. 15, 2023. Name field gives the proclamation's full title.",
+   "sources": [
+    {
+     "name": "Proclamation 10606, 88 FR 55331 (govinfo, Federal Register)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2023-08-15/html/2023-17628.htm"
+    },
+    {
+     "name": "54 U.S.C. 320301 notes, national monuments list (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/54/320301"
+    },
+    {
+     "name": "BLM unit page: Baaj Nwaavjo I'tah Kukveni National Monument",
+     "url": "https://www.blm.gov/national-conservation-lands/arizona/ancestral-footprints"
+    }
+   ],
+   "research": "blm",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "by": "HistorianPanel research and review",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Researched from primary sources (HistorianPanel)",
+ "states": [
+  "AZ"
+ ],
+ "statesNote": "Set from the establishing law or proclamation (HistorianPanel research, Nov. 2026); the simplified boundary strays over a state line."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "red-rock-canyon-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1990-11-16",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "Congress established the Red Rock Canyon National Conservation Area in Nevada.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-621, sec. 3, 104 Stat. 3342",
+        "signedBy": "George H. W. Bush"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 101-621, 104 Stat. 3342 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg3342.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460ccc-1 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ccc-1"
+        },
+        {
+          "name": "BLM unit page: Red Rock Canyon National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/nevada/red-rock-canyon"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

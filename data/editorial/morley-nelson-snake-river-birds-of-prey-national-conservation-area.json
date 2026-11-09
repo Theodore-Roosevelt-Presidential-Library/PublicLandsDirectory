@@ -1,0 +1,68 @@
+{
+  "slug": "morley-nelson-snake-river-birds-of-prey-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "1993-08-04",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": "Snake River Birds of Prey National Conservation Area",
+      "indexText": "Congress established the Snake River Birds of Prey National Conservation Area in Idaho.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 103-64, sec. 3, 107 Stat. 302, 304",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 103-64, 107 Stat. 302 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg302.pdf"
+        },
+        {
+          "name": "16 U.S.C. 460iii-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460iii-2"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2009-03-30",
+      "action": "renamed",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Omnibus Public Land Management Act of 2009 renamed the area the Morley Nelson Snake River Birds of Prey National Conservation Area.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Barack Obama",
+        "citation": "Public Law 111-11, title II, sec. 2301, 123 Stat. 991, 1101",
+        "signedBy": "Barack Obama"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 111-11, 123 Stat. 991 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ11/html/PLAW-111publ11.htm"
+        },
+        {
+          "name": "16 U.S.C. 460iii, change-of-name note (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460iii"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

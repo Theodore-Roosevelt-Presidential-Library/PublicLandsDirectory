@@ -1,0 +1,76 @@
+{
+  "slug": "mcinnis-canyons-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2000-10-24",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": "Colorado Canyons National Conservation Area",
+      "indexText": "The Colorado Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 established the Colorado Canyons National Conservation Area in Colorado and Utah.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-353, sec. 4, 114 Stat. 1374, 1375",
+        "signedBy": "Bill Clinton"
+      },
+      "note": null,
+      "sources": [
+        {
+          "name": "Public Law 106-353, 114 Stat. 1374 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ353/html/PLAW-106publ353.htm"
+        },
+        {
+          "name": "16 U.S.C. 460mmm-2 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460mmm-2"
+        },
+        {
+          "name": "BLM unit page: McInnis Canyons National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/mcinnis-canyons"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    },
+    {
+      "date": "2005-01-01",
+      "action": "renamed",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "A 2004 act renamed the Colorado Canyons National Conservation Area as the McInnis Canyons National Conservation Area, effective January 1, 2005.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "George W. Bush",
+        "citation": "Public Law 108-400, sec. 1, 118 Stat. 2254",
+        "signedBy": "George W. Bush"
+      },
+      "note": "Signed October 30, 2004; sec. 1(g) makes the rename effective January 1, 2005. The BLM page names Representative Scott McInnis as the honoree.",
+      "sources": [
+        {
+          "name": "Public Law 108-400, 118 Stat. 2254 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-108publ400/html/PLAW-108publ400.htm"
+        },
+        {
+          "name": "16 U.S.C. 460mmm-2, effective-date note (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460mmm-2"
+        },
+        {
+          "name": "BLM unit page: McInnis Canyons National Conservation Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/colorado/mcinnis-canyons"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

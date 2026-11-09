@@ -1,0 +1,41 @@
+{
+  "slug": "yaquina-head-outstanding-natural-area",
+  "designationHistory": [
+    {
+      "date": "1980-03-05",
+      "action": "established",
+      "designation": "Outstanding Natural Area",
+      "name": null,
+      "indexText": "Congress established the Yaquina Head Outstanding Natural Area in Lincoln County, Oregon.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-199, title I, sec. 119, 94 Stat. 67, 71",
+        "signedBy": "Jimmy Carter"
+      },
+      "note": "The BLM page's Quick Facts label it a 'Creation Proclamation'; it was an act of Congress.",
+      "sources": [
+        {
+          "name": "Public Law 96-199, 94 Stat. 67 (govinfo, Statutes at Large)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg67.pdf"
+        },
+        {
+          "name": "43 U.S.C. 1783 (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/43/1783"
+        },
+        {
+          "name": "BLM unit page: Yaquina Head Outstanding Natural Area",
+          "url": "https://www.blm.gov/programs/national-conservation-lands/oregon-washington/yaquina-head-ona"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}

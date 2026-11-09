@@ -1,0 +1,37 @@
+{
+  "slug": "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area",
+  "designationHistory": [
+    {
+      "date": "2000-12-21",
+      "action": "established",
+      "designation": "National Conservation Area",
+      "name": null,
+      "indexText": "The Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000, enacted within the Consolidated Appropriations Act, 2001, established the conservation area in Nevada.",
+      "authority": {
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-554, sec. 1(a)(4) [div. B, title I, sec. 125], 114 Stat. 2763, 2763A-229, 2763A-354",
+        "signedBy": "Bill Clinton"
+      },
+      "note": "S. 2273 was enacted by reference through sec. 125 of H.R. 5666 (Miscellaneous Appropriations Act, 2001). The BLM unit page gives no designation date.",
+      "sources": [
+        {
+          "name": "Public Law 106-554, appendix D-1 (S. 2273) (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ554/html/PLAW-106publ554.htm"
+        },
+        {
+          "name": "16 U.S.C. 460ppp-2 and source credit (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/460ppp-2"
+        }
+      ],
+      "research": "blm",
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "by": "HistorianPanel research and review",
+        "date": "2026-11-09"
+      }
+    }
+  ],
+  "historySource": "Researched from primary sources (HistorianPanel)"
+}
