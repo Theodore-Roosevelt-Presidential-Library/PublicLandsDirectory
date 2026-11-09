@@ -25,7 +25,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 120
     env:
       NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
     steps:
@@ -49,32 +49,29 @@ jobs:
       - name: Decide sync type
         id: mode
         run: |
-          if [ "${{ github.event.schedule }}" = "41 * * * *" ] && [ -f data/directory.json ]; then
+          # Hourly alert runs and merges to main rebuild from the saved agency data; only the nightly run
+          # (or a first run with nothing saved) does the full agency sync.
+          if { [ "${{ github.event.schedule }}" = "41 * * * *" ] || [ "${{ github.event_name }}" = "push" ]; } && [ -f data/directory.json ]; then
             echo "full=false" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full }}" = "false" ] && [ -f data/directory.json ]; then
             echo "full=false" >> "$GITHUB_OUTPUT"
           else
             echo "full=true" >> "$GITHUB_OUTPUT"
           fi
+          # The slow weekly checks (photos, links, Recreation.gov, visitation) run only in the Monday nightly run.
+          if [ "${{ github.event.schedule }}" = "17 9 * * *" ] && [ "$(date -u +%u)" = "1" ]; then echo "weekly=true" >> "$GITHUB_OUTPUT"; else echo "weekly=false" >> "$GITHUB_OUTPUT"; fi
 
       - name: Full sync (NPS, FWS, USFS, BLM)
         if: steps.mode.outputs.full == 'true'
         run: |
           node scripts/sync-nps.mjs
           node scripts/sync-lands.mjs
-          node scripts/sync-wilderness.mjs || echo "wilderness sync failed; keeping last copy"
+          timeout 15m node scripts/sync-wilderness.mjs || echo "wilderness sync failed; keeping last copy"
           node scripts/merge.mjs
-          node scripts/sync-tr.mjs
-          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/cover-images.json ]; then node scripts/sync-images.mjs || echo "cover sync failed; keeping last covers"; fi
-          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/links.json ]; then node scripts/sync-links.mjs || echo "link check failed; keeping last links"; fi
-          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/recgov.json ]; then node scripts/sync-recgov.mjs || echo "Recreation.gov sync failed; keeping last"; fi
-          if [ "$(date -u +%u)" = "1" ] || [ ! -f data/reference/visitation.json ]; then node scripts/sync-visitation.mjs || echo "visitation sync failed; keeping last"; fi
+          timeout 10m node scripts/sync-tr.mjs || echo "T.R. connections sync failed; keeping last"
           node scripts/merge.mjs
 
-      - name: Re-merge editorial changes
-        if: steps.mode.outputs.full != 'true'
-        run: node scripts/merge.mjs
-
+      # Save as soon as the agency data is in, so a later slow step can never cost the whole sync.
       - name: Save agency data
         if: steps.mode.outputs.full == 'true'
         uses: actions/cache/save@v4
@@ -82,8 +79,23 @@ jobs:
           path: |
             data/sources
             data/boundaries
+            data/wilderness
             data/directory.json
           key: agency-data-${{ github.run_id }}
+
+      - name: Weekly checks (photos, official links, Recreation.gov, visitation)
+        if: steps.mode.outputs.weekly == 'true'
+        continue-on-error: true
+        run: |
+          timeout 30m node scripts/sync-images.mjs || echo "cover sync stopped; keeping last covers"
+          timeout 15m node scripts/sync-links.mjs || echo "link check stopped; keeping last links"
+          timeout 15m node scripts/sync-recgov.mjs || echo "Recreation.gov sync stopped; keeping last"
+          timeout 5m node scripts/sync-visitation.mjs || echo "visitation sync stopped; keeping last"
+          node scripts/merge.mjs
+
+      - name: Re-merge editorial changes
+        if: steps.mode.outputs.full != 'true'
+        run: node scripts/merge.mjs
 
       - name: Live alerts
         run: node scripts/sync-alerts.mjs
