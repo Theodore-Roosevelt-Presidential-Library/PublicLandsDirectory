@@ -11944,5 +11944,167 @@
     ],
     "office": "MPX",
     "updated": "2026-11-09"
+  },
+  "gila-box-riparian-national-conservation-area": {
+    "zones": [
+      "AZZ509",
+      "AZC009",
+      "AZZ152"
+    ],
+    "office": "TWC",
+    "updated": "2026-11-09"
+  },
+  "beaver-dam-wash-national-conservation-area": {
+    "zones": [
+      "UTZ123",
+      "UTC053",
+      "UTZ497"
+    ],
+    "office": "SLC",
+    "updated": "2026-11-09"
+  },
+  "basin-and-range-national-monument": {
+    "zones": [
+      "NVZ015",
+      "NVC017",
+      "NVZ461"
+    ],
+    "office": "VEF",
+    "updated": "2026-11-09"
+  },
+  "avi-kwa-ame-national-monument": {
+    "zones": [
+      "NVZ022",
+      "NVC003",
+      "NVZ465"
+    ],
+    "office": "VEF",
+    "updated": "2026-11-09"
+  },
+  "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area": {
+    "zones": [
+      "NVZ030",
+      "NVC013",
+      "NVZ437"
+    ],
+    "office": "LKN",
+    "updated": "2026-11-09"
+  },
+  "agua-fria-national-monument": {
+    "zones": [
+      "AZZ037",
+      "AZC025",
+      "AZZ137"
+    ],
+    "office": "FGZ",
+    "updated": "2026-11-09"
+  },
+  "gold-butte-national-monument": {
+    "zones": [
+      "NVZ016",
+      "NVC003",
+      "NVZ465"
+    ],
+    "office": "VEF",
+    "updated": "2026-11-09"
+  },
+  "grand-staircase-escalante-national-monument": {
+    "zones": [
+      "UTZ128",
+      "UTC017",
+      "UTZ496"
+    ],
+    "office": "SLC",
+    "updated": "2026-11-09"
+  },
+  "las-cienegas-national-conservation-area": {
+    "zones": [
+      "AZZ507",
+      "AZC019",
+      "AZZ151"
+    ],
+    "office": "TWC",
+    "updated": "2026-11-09"
+  },
+  "ironwood-forest-national-monument": {
+    "zones": [
+      "AZZ504",
+      "AZC019",
+      "AZZ150"
+    ],
+    "office": "TWC",
+    "updated": "2026-11-09"
+  },
+  "jurassic-national-monument": {
+    "zones": [
+      "UTZ121",
+      "UTC015",
+      "UTZ489"
+    ],
+    "office": "SLC",
+    "updated": "2026-11-09"
+  },
+  "sloan-canyon-national-conservation-area": {
+    "zones": [
+      "NVZ020",
+      "NVC003",
+      "NVZ465"
+    ],
+    "office": "VEF",
+    "updated": "2026-11-09"
+  },
+  "san-pedro-riparian-national-conservation-area": {
+    "zones": [
+      "AZZ507",
+      "AZC003",
+      "AZZ151"
+    ],
+    "office": "TWC",
+    "updated": "2026-11-09"
+  },
+  "red-cliffs-national-conservation-area": {
+    "zones": [
+      "UTZ123",
+      "UTC053",
+      "UTZ497"
+    ],
+    "office": "SLC",
+    "updated": "2026-11-09"
+  },
+  "red-rock-canyon-national-conservation-area": {
+    "zones": [
+      "NVZ019",
+      "NVC003",
+      "NVZ465"
+    ],
+    "office": "VEF",
+    "updated": "2026-11-09"
+  },
+  "sonoran-desert-national-monument": {
+    "zones": [
+      "AZZ559",
+      "AZC013",
+      "AZZ132"
+    ],
+    "office": "PSR",
+    "updated": "2026-11-09"
+  },
+  "vermilion-cliffs-national-monument": {
+    "zones": [
+      "AZZ004",
+      "AZC005",
+      "AZZ104"
+    ],
+    "office": "FGZ",
+    "updated": "2026-11-09"
+  },
+  "john-wesley-powell-national-conservation-area": {
+    "zones": [
+      "UTZ023",
+      "UTC047",
+      "UTZ486"
+    ],
+    "office": "GJT",
+    "updated": "2026-11-09"
   }
 }
