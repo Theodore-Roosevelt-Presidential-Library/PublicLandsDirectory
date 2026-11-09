@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "War Horse NWR was not established by a specific executive order, but through a transfer of lands by the authority of the Bankhead-Jones Farm Tenant Act in 1959.",
+      "indexText": "Established in 1959 when Bankhead-Jones Farm Tenant Act lands at War Horse Lake, Wild Horse Lake and Yellow Water Reservoir were transferred to the Fish and Wildlife Service for waterfowl.",
       "authority": {
-        "type": "executive-order",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of Bankhead-Jones Farm Tenant Act lands"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: War Horse National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/war-horse/about-us"
+        },
+        {
+          "name": "FWS news release, Nov. 20, 1959: transfer of jurisdiction over 3,200 acres in the War Horse Lake, Wild Horse Lake and Yellow Water Reservoir areas, Petroleum County, to form \"a new haven\" for waterfowl",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1959/19591120.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and method confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "War Horse NWR was not established by a specific executive order, but through a transfer of lands by the authority of the Bankhead-Jones Farm Tenant Act in 1959."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

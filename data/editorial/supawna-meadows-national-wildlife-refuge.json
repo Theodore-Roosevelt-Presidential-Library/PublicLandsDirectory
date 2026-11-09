@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "1974 is when the area was renamed and set up as Supawna Meadows NWR; its lands began as the Goose Pond addition to Killcohook NWR (EO 6582, FDR, Feb. 3, 1934). The date of the Goose Pond addition was not found. Decide whether the directory dates the refuge from 1974 (as Supawna Meadows) or from the Killcohook addition, then confirm from the CCP.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

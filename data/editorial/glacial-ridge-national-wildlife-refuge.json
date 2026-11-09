@@ -2,26 +2,38 @@
   "slug": "glacial-ridge-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1989",
+      "date": "2004",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "mden Slough National Wildlife Refuge Hamden Slough National Wildlife Refuge is located in western Becker County and was established in 1989.",
+      "indexText": "Glacial Ridge National Wildlife Refuge was established when The Nature Conservancy began transferring restored prairie and wetland to the U.S. Fish and Wildlife Service.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Land transfer from The Nature Conservancy"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Glacial Ridge National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/glacial-ridge/about-us"
+        },
+        {
+          "name": "USFWS, Glacial Ridge National Wildlife Refuge Environmental Assessment and Comprehensive Conservation Plan (ServCat 103396): \"Glacial Ridge NWR was established in 2004 as the 545th refuge in the National Wildlife Refuge System\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/154267"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Hamden Slough NWR (1989). Glacial Ridge: 2004 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "mden Slough National Wildlife Refuge Hamden Slough National Wildlife Refuge is located in western Becker County and was established in 1989."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,38 @@
   "slug": "cibola-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1964",
+      "date": "1964-08-21",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Cibola National Wildlife Refuge, located in the floodplain of the lower Colorado River, was established in 1964 as mitigation for the straightening, channelization, and armoring of the banks of the Colorado River by the Bureau of Reclamation to prevent flooding.",
+      "indexText": "Public Land Order 3442 established Cibola National Wildlife Refuge as mitigation for Bureau of Reclamation channel work on the lower Colorado River.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Public Land Order 3442"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cibola National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cibola/about-us"
+        },
+        {
+          "name": "USFWS, Cibola National Wildlife Refuge Hunt Plan (ServCat 120956): \"Public Land Order 3442, August 21, 1964, established the 16,627-acre Cibola NWR\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/179267"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "PLO 3442, Aug. 21, 1964 (CCP minor amendment).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cibola National Wildlife Refuge, located in the floodplain of the lower Colorado River, was established in 1964 as mitigation for the straightening, channelization, and armoring of the banks of the Colorado River by the Bureau of Reclamation to prevent flooding."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

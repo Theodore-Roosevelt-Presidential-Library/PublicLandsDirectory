@@ -2,26 +2,43 @@
   "slug": "great-dismal-swamp-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1962",
+      "date": "1974-08-30",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935.",
+      "indexText": "Congress established Great Dismal Swamp National Wildlife Refuge.",
       "authority": {
         "type": "act-of-congress",
-        "administration": null,
-        "citation": null
+        "administration": "Gerald R. Ford",
+        "citation": "Dismal Swamp Act, Public Law 93-402, 88 Stat. 801",
+        "signedBy": "Gerald R. Ford"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Great Dismal Swamp National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/great-dismal-swamp/about-us"
+        },
+        {
+          "name": "Public Law 93-402, Aug. 30, 1974, 88 Stat. 801 (govinfo): \"To establish the Great Dismal Swamp National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg801.pdf"
+        },
+        {
+          "name": "USFWS, Great Dismal Swamp National Wildlife Refuge and Nansemond National Wildlife Refuge: Final Comprehensive Conservation Plan (ServCat 1428): \"Public Law 93-402 established Great Dismal Swamp National Wildlife Refuge\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1405"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described the National Natural Landmarks program (1962). Refuge: P.L. 93-402, Aug. 30, 1974 (Ford).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The program was established in 1962 by administrative action under the authority of the Historic Sites Act of 1935."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

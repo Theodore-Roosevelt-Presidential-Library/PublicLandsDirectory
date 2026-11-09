@@ -2,26 +2,38 @@
   "slug": "cedar-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1932",
+      "date": "1964-08-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "National Wildlife Refuge Swan Quarter, NC Swanquarter National Wildlife Refuge Swanquarter National Wildlife Refuge was established in 1932 and protects an extensive coastal brackish marsh on Pamlico Sound in Hyde County, North Carolina.",
+      "indexText": "The Migratory Bird Conservation Commission approved the purchase of Cedar Island National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cedar Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cedar-island/about-us"
+        },
+        {
+          "name": "USFWS, 508 Cedar Island National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168355): \"The Migratory Bird Conservation Commission approved the purchase of Cedar Island National Wildlife Refuge on August 10, 1964\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253603"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Swanquarter NWR (1932). Cedar Island: MBCC approval Aug. 10, 1964 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Wildlife Refuge Swan Quarter, NC Swanquarter National Wildlife Refuge Swanquarter National Wildlife Refuge was established in 1932 and protects an extensive coastal brackish marsh on Pamlico Sound in Hyde County, North Carolina."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

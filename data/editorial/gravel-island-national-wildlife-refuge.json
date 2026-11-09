@@ -2,27 +2,43 @@
   "slug": "gravel-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1678",
+      "date": "1913-01-09",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Gravel Island National Wildlife Refuge was established by Executive Order 1678.",
+      "name": "Gravel Island Reservation",
+      "indexText": "President William Howard Taft established the Gravel Island Reservation by Executive Order 1678; it is now Gravel Island National Wildlife Refuge.",
       "authority": {
         "type": "executive-order",
-        "administration": "Executive Order",
-        "citation": null,
-        "signedBy": "Executive Order"
+        "administration": "William Howard Taft",
+        "citation": "Executive Order 1678",
+        "signedBy": "William Howard Taft"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Gravel Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/gravel-island/about-us"
+        },
+        {
+          "name": "USFWS, Green Bay and Gravel Island NWRs Draft Comprehensive Conservation Plan (GovInfo GOVPUB-I49-PURL-gpo52858): \"Gravel Island NWR was established by Executive Order 1678, dated January 9, 1913\"",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-gpo52858/pdf/GOVPUB-I49-PURL-gpo52858.pdf"
+        },
+        {
+          "name": "American Presidency Project: Proclamation 2416, Changing the Names of Certain Federal Wildlife Refuges (July 25, 1940), lists former and new names",
+          "url": "https://www.presidency.ucsb.edu/documents/proclamation-2416-changing-the-names-certain-federal-wildlife-refuges"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 1678, 1913-01-09 (William Howard Taft). Draft date field held \"1678\" (the EO number) and signer \"Executive Order\". Signed by Taft (in office until Mar. 4, 1913). Former name Gravel Island Reservation per Proclamation 2416.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Gravel Island National Wildlife Refuge was established by Executive Order 1678."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

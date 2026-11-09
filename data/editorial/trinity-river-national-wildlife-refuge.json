@@ -2,26 +2,39 @@
   "slug": "trinity-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1994",
+      "date": "1994-01-04",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Trinity River National Wildlife Refuge was established in 1994 to protect what was once a much larger, frequently flooded, bottomland hardwood forest ecosystem along the Trinity River.",
+      "indexText": "Officially established on January 4, 1994, to protect and restore bottomland hardwood forest along the Trinity River in southeast Texas.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Trinity River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/trinity-river/about-us"
+        },
+        {
+          "name": "Federal Register, Mar. 28, 2012 (2012-7400): Trinity River NWR \"was officially established on January 4, 1994\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2012-03-28/pdf/2012-7400.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Trinity River National Wildlife Refuge was established in 1994 to protect what was once a much larger, frequently flooded, bottomland hardwood forest ecosystem along the Trinity River."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

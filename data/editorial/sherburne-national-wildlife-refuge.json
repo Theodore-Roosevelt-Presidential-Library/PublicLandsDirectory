@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The 30,700 acre refuge was established in 1965 at the urging of local conservationists and hunters interested in restoring the wildlife values of the St.",
+      "indexText": "Established in 1965 after the Migratory Bird Conservation Commission approved the refuge on May 18, 1965, to restore wetlands of the St. Francis River valley.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act; Migratory Bird Conservation Commission approval, May 18, 1965"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Sherburne National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/sherburne/about-us"
+        },
+        {
+          "name": "FWS news release, May 1965: Migratory Bird Conservation Commission approved the new 30,506-acre Sherburne NWR in central Minnesota on May 18, 1965",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1965/19650518B.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; MBCC approval date added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The 30,700 acre refuge was established in 1965 at the urging of local conservationists and hunters interested in restoring the wildlife values of the St."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

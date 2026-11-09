@@ -2,26 +2,38 @@
   "slug": "buffalo-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1969",
+      "date": "1959-11-17",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "National Wildlife Refuge Muleshoe, TX Grulla National Wildlife Refuge Grulla National Wildlife Refuge was established in 1969 and consist of 3,236 acres.",
+      "indexText": "The Secretary of the Interior established Buffalo Lake National Wildlife Refuge by Secretarial Order 2843.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Secretarial Order 2843 (Migratory Bird Conservation Act)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Buffalo Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/buffalo-lake/about-us"
+        },
+        {
+          "name": "USFWS, Buffalo Lake National Wildlife Refuge: Comprehensive Conservation Plan and Environmental Assessment (ServCat 43405): \"Buffalo Lake NWR was established on November 17, 1959 under Secretarial Order #2843, using the authority of the Migratory Bird Conservation Act\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/43969"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Grulla NWR (1969). Buffalo Lake NWR: Secretarial Order 2843, Nov. 17, 1959 (CCP); the project had been transferred to Interior by EO 10787 in Nov. 1958.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Wildlife Refuge Muleshoe, TX Grulla National Wildlife Refuge Grulla National Wildlife Refuge was established in 1969 and consist of 3,236 acres."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

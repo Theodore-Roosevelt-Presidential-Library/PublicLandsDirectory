@@ -2,26 +2,39 @@
   "slug": "bill-williams-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1977",
+      "date": "1941-01-22",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Our History January 22, 1941 – A refuge was established within Havasu Lake National Wildlife Refuge as a breeding ground for migratory birds and other wildlife. 1977 – A large tract of land was purchased from The Nature Conservancy and incorporated into the refuge.",
+      "name": "Havasu Lake National Wildlife Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Havasu Lake National Wildlife Refuge by Executive Order 8647; in 1993 its Bill Williams River unit was designated a separate refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8647",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Bill Williams River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/bill-williams-river/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8647—Establishing the Havasu Lake National Wildlife Refuge (Jan 22, 1941)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8647-establishing-the-havasu-lake-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft gave 1977, a land purchase from The Nature Conservancy. The lands were first reserved as part of Havasu Lake NWR by EO 8647 (Jan. 22, 1941, FDR); FWS says the 6,100-acre unit became Bill Williams River NWR in 1993. EO 8647 does not name the Bill Williams delta; the link rests on the FWS refuge timeline.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Our History January 22, 1941 – A refuge was established within Havasu Lake National Wildlife Refuge as a breeding ground for migratory birds and other wildlife. 1977 – A large tract of land was purchased from The Nature Conservancy and incorporated into the refuge."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

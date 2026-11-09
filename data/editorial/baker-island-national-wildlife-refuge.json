@@ -2,26 +2,38 @@
   "slug": "baker-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1974",
+      "date": "1974-06-27",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Baker Island National Wildlife Refuge was established in 1974 and lies just north of the equator in the central Pacific Ocean and about 1,830 nautical miles southwest of Honolulu.",
+      "indexText": "The Secretary of the Interior designated Baker Island and its surrounding waters as a national wildlife refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Secretary of the Interior designation, June 27, 1974 (Reorganization Plan No. 3)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Baker Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/baker-island/about-us"
+        },
+        {
+          "name": "USFWS, Baker Island National Wildlife Refuge: Comprehensive Conservation Plan [Final] (ServCat 1382): \"the Secretary of the Interior, on June 27, 1974, designated Baker Island and its territorial sea ... as a unit of the National Wildlife Refuge System\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/165848"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Secretarial designation June 27, 1974 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Baker Island National Wildlife Refuge was established in 1974 and lies just north of the equator in the central Pacific Ocean and about 1,830 nautical miles southwest of Honolulu."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

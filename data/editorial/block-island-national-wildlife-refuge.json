@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "1973 transfer of 28 acres from the U.S. Coast Guard appears only in FWS-derived text (Wikipedia, tourism). Confirm from the Rhode Island refuges CCP or the transfer record.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

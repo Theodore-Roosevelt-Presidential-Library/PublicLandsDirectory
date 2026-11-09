@@ -2,27 +2,39 @@
   "slug": "white-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "8666",
+      "date": "1941-02-03",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "White Lake National Wildlife Refuge was established through Executive Order 8666 by President Franklin D.",
+      "indexText": "President Franklin D. Roosevelt established the White Lake National Wildlife Refuge by Executive Order 8666 on February 3, 1941.",
       "authority": {
         "type": "executive-order",
-        "administration": "President Franklin",
-        "citation": null,
-        "signedBy": "President Franklin"
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8666, 6 FR 771",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: White Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/white-lake/about-us"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1941: EO 8666, Establishing White Lake National Wildlife Refuge, North Dakota, signed Feb. 3, 1941, 6 FR 771",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1941.html"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date \"8666\" was the EO number. Correct date is Feb. 3, 1941.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "White Lake National Wildlife Refuge was established through Executive Order 8666 by President Franklin D."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

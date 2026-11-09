@@ -2,26 +2,39 @@
   "slug": "waubay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1935",
+      "date": "1935-12-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Waubay National Wildlife Refuge was established in 1935 as a “refuge and breeding ground for migratory birds and other wildlife.” During the 1930s, waterfowl populations dropped from an estimated 100 million (1930) to 20 million in 1934.",
+      "name": "Waubay Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Waubay Migratory Waterfowl Refuge by Executive Order 7245 on December 10, 1935, as a refuge and breeding ground for migratory birds.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7245",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Waubay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/waubay/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7245, Dec. 10, 1935, Establishing Waubay Migratory Waterfowl Refuge, South Dakota",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7245-establishing-waubay-migratory-waterfowl-refuge-south-dakota"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Waubay National Wildlife Refuge was established in 1935 as a “refuge and breeding ground for migratory birds and other wildlife.” During the 1930s, waterfowl populations dropped from an estimated 100 million (1930) to 20 million in 1934."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

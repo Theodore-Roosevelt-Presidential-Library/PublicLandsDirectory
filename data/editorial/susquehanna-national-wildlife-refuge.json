@@ -2,26 +2,43 @@
   "slug": "susquehanna-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1933",
+      "date": "1942-06-23",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Blackwater National Wildlife Refuge Blackwater National Wildlife Refuge was established in 1933 as a waterfowl sanctuary for birds migrating along the Atlantic Flyway.",
+      "indexText": "President Franklin D. Roosevelt established the Susquehanna National Wildlife Refuge, on Battery (Edmondsons) Island at the mouth of the Susquehanna River, by Executive Order 9185 on June 23, 1942.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 9185, 7 FR 4713",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Susquehanna National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/susquehanna/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 9185, June 23, 1942, Establishing the Susquehanna National Wildlife Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-9185-establishing-the-susquehanna-national-wildlife-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1942: EO 9185, 7 FR 4713",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1942.html"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Blackwater NWR (1933). Susquehanna NWR dates to June 23, 1942.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Blackwater National Wildlife Refuge Blackwater National Wildlife Refuge was established in 1933 as a waterfowl sanctuary for birds migrating along the Atlantic Flyway."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

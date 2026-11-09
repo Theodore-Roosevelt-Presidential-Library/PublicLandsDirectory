@@ -1,28 +1,28 @@
 {
-  "slug": "lake-thibadeau-national-wildlife-refuge",
-  "designationHistory": [
+ "slug": "lake-thibadeau-national-wildlife-refuge",
+ "designationHistory": [
+  {
+   "date": "1937-09-28",
+   "action": "established",
+   "designation": "National Wildlife Refuge",
+   "name": null,
+   "indexText": "Lake Thibadeau National Wildlife Refuge was established on September 28, 1937 by Executive Order No. 7713 as \"a refuge and breeding ground for migratory birds and other wildlife.\" Our History The history of Lake Thibadeau National Wildlife Refuge is tied to the Emergency Relief Act and the Works Progress Administration program.",
+   "authority": {
+    "type": "executive-order",
+    "administration": "Franklin D. Roosevelt",
+    "citation": null,
+    "signedBy": null
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "1937-09-28",
-      "action": "established",
-      "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Lake Thibadeau National Wildlife Refuge was established on September 28, 1937 by Executive Order No. 7713 as \"a refuge and breeding ground for migratory birds and other wildlife.\" Our History The history of Lake Thibadeau National Wildlife Refuge is tied to the Emergency Relief Act and the Works Progress Administration program.",
-      "authority": {
-        "type": "executive-order",
-        "administration": "Executive Order No",
-        "citation": null,
-        "signedBy": "Executive Order No"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "U.S. Fish and Wildlife Service: Lake Thibadeau National Wildlife Refuge, About Us",
-          "url": "https://www.fws.gov/refuge/lake-thibadeau/about-us"
-        }
-      ],
-      "research": "fws-about",
-      "reviewed": false
+     "name": "U.S. Fish and Wildlife Service: Lake Thibadeau National Wildlife Refuge, About Us",
+     "url": "https://www.fws.gov/refuge/lake-thibadeau/about-us"
     }
-  ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+   ],
+   "research": "fws-about",
+   "reviewed": false
+  }
+ ],
+ "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
 }

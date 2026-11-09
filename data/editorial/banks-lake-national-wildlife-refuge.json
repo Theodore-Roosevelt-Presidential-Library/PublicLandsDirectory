@@ -2,26 +2,38 @@
   "slug": "banks-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1985",
+      "date": "1985-02-22",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Banks Lake National Wildlife Refuge was established in 1985 under the Fish and Wildlife Act of 1956 and the Land and Water Conservation Fund Act of 1965.",
+      "indexText": "Banks Lake National Wildlife Refuge was established when the U.S. Fish and Wildlife Service acquired the lake under the Fish and Wildlife Act of 1956.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Act of 1956 and Land and Water Conservation Fund Act of 1965"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Banks Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/banks-lake/about-us"
+        },
+        {
+          "name": "USFWS, 508 Banks Lake National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168159): \"The area became Banks Lake National Wildlife Refuge on February 22, 1985\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253348"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Feb. 22, 1985 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Banks Lake National Wildlife Refuge was established in 1985 under the Fish and Wildlife Act of 1956 and the Land and Water Conservation Fund Act of 1965."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

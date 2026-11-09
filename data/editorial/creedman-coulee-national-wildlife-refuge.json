@@ -2,27 +2,39 @@
   "slug": "creedman-coulee-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1941",
+      "date": "1941-10-25",
       "action": "established",
       "designation": null,
       "name": "Migratory Waterfowl Refuge",
-      "indexText": "Creedman Coulee National Wildlife Refuge was established in 1941 by Executive Order Number 8924 as a Migratory Waterfowl Refuge.",
+      "indexText": "President Franklin D. Roosevelt established the Creedman Coulee National Wildlife Refuge by Executive Order 8924.",
       "authority": {
         "type": "executive-order",
-        "administration": "Executive Order Number",
-        "citation": null,
-        "signedBy": "Executive Order Number"
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 8924",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Creedman Coulee National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/creedman-coulee/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 8924—Establishing the Creedman Coulee National Wildlife Refuge (Oct 25, 1941)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-8924-establishing-the-creedman-coulee-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 8924, 1941-10-25 (Franklin D. Roosevelt). Draft name \"Migratory Waterfowl Refuge\" is a description, not a name; the EO title already says National Wildlife Refuge. Draft signer field held \"Executive Order Number\".",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Creedman Coulee National Wildlife Refuge was established in 1941 by Executive Order Number 8924 as a Migratory Waterfowl Refuge."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

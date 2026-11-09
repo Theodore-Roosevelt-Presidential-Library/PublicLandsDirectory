@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1987 under the Endangered Species Act and the Migratory Bird Conservation Act.",
+      "indexText": "Established in 1987 under the Endangered Species Act and the Migratory Bird Conservation Act, mainly to protect wintering habitat for the Aleutian cackling (Canada) goose.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act; Migratory Bird Conservation Act"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: San Joaquin River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/san-joaquin-river/about-us"
+        },
+        {
+          "name": "Federal Register, Aug. 16, 2007 (E7-16107): \"The Refuge was established in 1987 primarily to protect and manage wintering habitat for Aleutian Canada geese\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-08-16/pdf/E7-16107.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1987 under the Endangered Species Act and the Migratory Bird Conservation Act."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

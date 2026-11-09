@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Sources disagree on the year: MBCC approval Sept. 27, 1940; FWS gives 1941; Rachel Carson's 1947 FWS booklet says late 1942. Pick a convention (MBCC approval or first acquisition) and confirm from the CCP before publishing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

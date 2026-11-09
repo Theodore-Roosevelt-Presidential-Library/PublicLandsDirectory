@@ -8,6 +8,7 @@
 // Usage: node apply-verdicts.mjs <verdicts.json> [batch label]
 import { join } from 'node:path';
 import { DATA, readJSON, writeJSON } from '../lib.mjs';
+import { presidentName } from './presidents.mjs';
 
 const verdicts = await readJSON(process.argv[2]);
 const NOT_DESIGNATION = /boundary .*revised|lease agreement/i;
@@ -29,13 +30,16 @@ for (const [slug, vs] of Object.entries(bySlug)) {
     if (c.remove || (c.text && NOT_DESIGNATION.test(c.text))) { drop.add(v.index); counts.removed++; continue; }
     if (c.date) h.date = c.date;
     if (c.text) { h.indexOriginal = h.indexText; h.indexText = c.text; }
-    if (c.action) h.action = c.action;
+    // Reviewers sometimes describe the action; keep the standard vocabulary (the earlier name has its own field).
+    if (c.action) h.action = /^established/i.test(c.action) ? 'established' : c.action;
     if (c.designation) h.designation = c.designation;
     if ('name' in c) h.name = c.name;
     if (c.authorityType) h.authority.type = c.authorityType;
     if (c.citation) h.authority.citation = c.citation;
     if (c.president) { h.authority.administration = c.president; h.authority.signedBy = h.authority.type === 'unspecified' ? null : c.president; h.note = null; }
     if (h.authority.type === 'unspecified') h.authority.signedBy = null;
+    // Only a President can be a signer; drafts sometimes caught other words after "by" ("by Island Light").
+    for (const k of ['signedBy', 'administration']) if (h.authority[k]) h.authority[k] = presidentName(h.authority[k]) || (k === 'administration' ? presidentName(c.president) : null);
     h.sources = [...h.sources, ...(v.sources || []).filter((s) => s.url && !h.sources.some((x) => x.url === s.url))];
     // Drafting notes (OCR warnings, inauguration-day flags) are settled by review.
     if (h.note && /OCR|confirm which President|read the proclamation/.test(h.note)) h.note = null;

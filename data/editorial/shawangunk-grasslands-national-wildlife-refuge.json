@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Shawangunk Grasslands National Wildlife Refuge, which protects 597 acres in Ulster County, NY, was established in July 1999 to support grassland-dependent migratory birds and wintering raptors.",
+      "indexText": "Established in July 1999 when the former Galeville Army airfield was transferred to the U.S. Fish and Wildlife Service to protect grassland birds and wintering raptors.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of surplus federal property, 16 U.S.C. 667b"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Shawangunk Grasslands National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/shawangunk-grasslands/about-us"
+        },
+        {
+          "name": "Federal Register, Dec. 5, 2005 (E5-6818), Shawangunk Grasslands NWR CCP: transfer of the former Galeville airport through the General Services Administration \"created the Shawangunk Grasslands NWR in 1999\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2005-12-05/pdf/E5-6818.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed in the FR; month only from FWS.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Shawangunk Grasslands National Wildlife Refuge, which protects 597 acres in Ulster County, NY, was established in July 1999 to support grassland-dependent migratory birds and wintering raptors."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

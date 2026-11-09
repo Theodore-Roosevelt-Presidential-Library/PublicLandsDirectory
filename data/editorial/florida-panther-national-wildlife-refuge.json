@@ -2,26 +2,38 @@
   "slug": "florida-panther-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1989",
+      "date": "1989-06",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Florida Panther National Wildlife Refuge About Us What We Do Law Enforcement Contact Us Visit Us Activities Trails Rules & Policies Get Involved News Library Species Map https://www.facebook.com/FloridaPantherNWR About Us Image Details Established in 1989, Southwest Florida’s Florida Panther National Wildlife is located within the heart of the Big Cypress Basin, encompassing the northern reach of ",
+      "indexText": "The U.S. Fish and Wildlife Service established Florida Panther National Wildlife Refuge to protect habitat for the endangered Florida panther.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973; Fish and Wildlife Act of 1956"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Florida Panther National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/florida-panther/about-us"
+        },
+        {
+          "name": "USFWS, 508 Florida Panther National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168117): \"The Florida Panther National Wildlife Refuge was established in June 1989\"; purposes under the Endangered Species Act and Fish and Wildlife Act of 1956",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253263"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "June 1989 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Florida Panther National Wildlife Refuge About Us What We Do Law Enforcement Contact Us Visit Us Activities Trails Rules & Policies Get Involved News Library Species Map https://www.facebook.com/FloridaPantherNWR About Us Image Details Established in 1989, Southwest Florida’s Florida Panther National Wildlife is located within the heart of the Big Cypress Basin, encompassing the northern reach of "
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,43 @@
   "slug": "sabine-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1907",
+      "date": "1937-12-06",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "shore waters of the Louisiana Gulf Coast, west of the Atchafalaya River Delta and south of Marsh Island Refuge, and was established in 1907, as a reserve and breeding ground for native birds.",
+      "name": "Sabine Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Sabine Migratory Waterfowl Refuge by Executive Order 7764 on December 6, 1937.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7764, 2 FR 3183",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Sabine National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/sabine/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7764, Dec. 6, 1937, Establishing the Sabine Migratory Waterfowl Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7764-establishing-the-sabine-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1937: EO 7764, 2 FR 3183",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1937.html"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence (1907, south of Marsh Island) describes Shell Keys NWR, a TR reservation. Sabine NWR dates to Dec. 6, 1937.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "shore waters of the Louisiana Gulf Coast, west of the Atchafalaya River Delta and south of Marsh Island Refuge, and was established in 1907, as a reserve and breeding ground for native birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

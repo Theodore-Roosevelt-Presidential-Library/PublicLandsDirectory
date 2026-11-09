@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Togiak National Wildlife Refuge was established on February 11, 1980, but is part of a much larger region that has its own special history.",
+      "indexText": "Established on February 11, 1980, by Public Land Order 5703 issued by the Secretary of the Interior; it absorbed the Cape Newenham National Wildlife Refuge (1969) and was confirmed by the Alaska National Interest Lands Conservation Act in December 1980.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": "Jimmy Carter",
-        "citation": null
+        "citation": "Public Land Order 5703"
       },
       "note": "The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Togiak National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/togiak/about-us"
+        },
+        {
+          "name": "FWS Alaska Region, Status of Federal Reserved Water Rights for Alaska Wildlife Refuges (ARLIS copy): land-status history of each Alaska refuge",
+          "url": "https://www.arlis.org/docs/vol1/L/AlaskaWaterRights/Day3/G-Agency-break-out-sessions/USFWS/FWS-reserved-rights/1-FRWR-AK-Wildlife-Refuges.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Date confirmed. Established by Interior Secretary Andrus's public land order, not by a presidential signature (Carter was President). Older predecessor: Cape Newenham NWR, PLO 4583, Jan. 20, 1969.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Togiak National Wildlife Refuge was established on February 11, 1980, but is part of a much larger region that has its own special history."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,39 @@
   "slug": "tishomingo-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1946",
+      "date": "1946-02-05",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1946 as an administrative overlay of Corps of Engineers land on a portion of the Washita Arm of Lake Texoma.",
+      "indexText": "President Harry S. Truman established the Tishomingo refuge by presidential order on February 5, 1946, as an overlay on Corps of Engineers land on the Washita arm of Lake Texoma.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Harry S. Truman",
+        "citation": "Presidential order of Feb. 5, 1946 (overlay of Corps of Engineers land)",
+        "signedBy": "Harry S. Truman"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Tishomingo National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/tishomingo/about-us"
+        },
+        {
+          "name": "Encyclopedia of Oklahoma History and Culture: Tishomingo National Wildlife Refuge (\"On February 5, 1946, Harry Truman's presidential order established the area ... as a national wildlife refuge\")",
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=TI009"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and signer from the Oklahoma Historical Society. Order number not found; it is not in the National Archives EO tables, so it may be a public land order rather than a numbered EO. Check before citing a number.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1946 as an administrative overlay of Corps of Engineers land on a portion of the Washita Arm of Lake Texoma."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

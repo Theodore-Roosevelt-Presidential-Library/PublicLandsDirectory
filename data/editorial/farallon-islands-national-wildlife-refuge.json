@@ -2,26 +2,43 @@
   "slug": "farallon-islands-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1043",
+      "date": "1909-02-27",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "In 1909, President Theodore Roosevelt established Middle Farallon, the North Farallons, and Noonday Rock as the 24th refuge in the country through Executive Order 1043.",
+      "name": "Farallon Reservation",
+      "indexText": "President Theodore Roosevelt established the Farallon Reservation by Executive Order 1043; it is now Farallon Islands National Wildlife Refuge.",
       "authority": {
         "type": "executive-order",
-        "administration": null,
-        "citation": null
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 1043",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Farallon Islands National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/farallon-islands/about-us"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1043 (Feb. 27, 1909): Establishing Farallon Reservation, California, as Preserve and Breeding Ground for Native Birds",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1043"
+        },
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), Appendix B: list of bird reservations created by executive order, with dates",
+          "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/text/appendix-b"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 1043, 1909-02-27 (Theodore Roosevelt). Draft date field held \"1043\" (the EO number).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "In 1909, President Theodore Roosevelt established Middle Farallon, the North Farallons, and Noonday Rock as the 24th refuge in the country through Executive Order 1043."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

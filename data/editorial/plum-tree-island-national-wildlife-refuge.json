@@ -2,26 +2,39 @@
   "slug": "plum-tree-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1991",
+      "date": "1972",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "National Wildlife Refuge Charles City, VA James River National Wildlife Refuge James River NWR was established in 1991 to protect bald eagles and other species of special concern within 4800 acres of forests and wetlands.",
+      "indexText": "Established in 1972 on a former military bombing range in Poquoson, Virginia, to conserve wetlands and migratory bird habitat.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Plum Tree Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/plum-tree-island/about-us"
+        },
+        {
+          "name": "Federal Register, Jan. 10, 2012 (2012-192), Plum Tree Island NWR CCP notice: refuge in Poquoson, Va., \"was established in 1972\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2012-01-10/pdf/2012-192.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about James River NWR (1991), a different refuge. Plum Tree Island NWR dates to 1972.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "National Wildlife Refuge Charles City, VA James River National Wildlife Refuge James River NWR was established in 1991 to protect bald eagles and other species of special concern within 4800 acres of forests and wetlands."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

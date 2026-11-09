@@ -1,39 +1,39 @@
 {
-  "slug": "camp-nelson-national-monument",
-  "designationHistory": [
+ "slug": "camp-nelson-national-monument",
+ "designationHistory": [
+  {
+   "date": "2018-10-26",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Camp Nelson National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Donald J. Trump",
+    "administration": "Donald J. Trump",
+    "citation": "Proclamation 9811, 83 FR 54845"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2018-10-26",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Camp Nelson National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Donald Trump",
-        "administration": "Donald J. Trump",
-        "citation": "Proclamation 9811, 83 FR 54845"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 9811, 83 FR 54845",
-          "url": "https://www.federalregister.gov/documents/2018/10/31/2018-24027/establishment-of-the-camp-nelson-national-monument"
-        },
-        {
-          "name": "American Presidency Project: Proclamation 9811—Establishment of the Camp Nelson National Monument, October 26, 2018",
-          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9811-establishment-the-camp-nelson-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "note": "Proclamation 9811, 83 FR 54845, signed 2018-10-26; FR API and APP agree on number, date and President.",
-        "by": "HistorianPanel accuracy review, batch 2",
-        "date": "2026-11-09"
-      }
+     "name": "Federal Register: Proclamation 9811, 83 FR 54845",
+     "url": "https://www.federalregister.gov/documents/2018/10/31/2018-24027/establishment-of-the-camp-nelson-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 9811—Establishment of the Camp Nelson National Monument, October 26, 2018",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-9811-establishment-the-camp-nelson-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)",
-  "status": "reviewed"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 9811, 83 FR 54845, signed 2018-10-26; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

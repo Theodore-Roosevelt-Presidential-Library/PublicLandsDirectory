@@ -2,27 +2,43 @@
   "slug": "tule-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1928",
+      "date": "1928-10-04",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Tule Lake National Wildlife Refuge was established in 1928 by President Calvin Coolidge “as a preserve and breeding ground for wild birds and animals.” Today it is part of a complex of six National Wildlife Refuges in the Klamath Basin that include Tule Lake, Upper Klamath, Lower Klamath, Klamath Marsh, Bear Valley, and Clear Lake, whose combined mission is to protect what remains of what once was",
+      "name": "Tule Lake Bird Refuge",
+      "indexText": "President Calvin Coolidge established the Tule Lake Bird Refuge by Executive Order 4975 on October 4, 1928, as a preserve and breeding ground for wild birds and animals.",
       "authority": {
-        "type": "unspecified",
+        "type": "executive-order",
         "administration": "Calvin Coolidge",
-        "citation": null,
+        "citation": "Executive Order 4975",
         "signedBy": "Calvin Coolidge"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Tule Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/tule-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5945, Nov. 3, 1932, Establishing the Tule Lake Wild Life Refuge, California (revokes \"Executive Order No. 4975, of October 4, 1928, establishing the Tule Lake Bird Refuge\")",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5945-establishing-the-tule-lake-wild-life-refuge-california"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year and signer confirmed; exact date, EO and earlier name from the recital in EO 5945 (Hoover, 1932), which re-established it as the Tule Lake Wild Life Refuge.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Tule Lake National Wildlife Refuge was established in 1928 by President Calvin Coolidge “as a preserve and breeding ground for wild birds and animals.” Today it is part of a complex of six National Wildlife Refuges in the Klamath Basin that include Tule Lake, Upper Klamath, Lower Klamath, Klamath Marsh, Bear Valley, and Clear Lake, whose combined mission is to protect what remains of what once was"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

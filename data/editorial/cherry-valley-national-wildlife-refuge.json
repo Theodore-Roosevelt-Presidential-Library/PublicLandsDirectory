@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Cherry Valley National Wildlife Refuge was established in December 2008 for the conservation of migratory birds and federal trust species, and the habitats they depend on.",
+      "indexText": "The U.S. Fish and Wildlife Service established Cherry Valley National Wildlife Refuge along Pennsylvania's Kittatinny Ridge to conserve migratory birds and federal trust species.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cherry Valley National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cherry-valley/about-us"
+        },
+        {
+          "name": "The Conservation Fund, \"Protecting Cherry Valley National Wildlife Refuge\": refuge \"created in 2008\"",
+          "url": "https://www.conservationfund.org/our-impact/projects/cherry-valley-national-wildlife-refuge/"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "2008 confirmed by The Conservation Fund; the month (December) is from FWS only. Authority not confirmed (FWS refuge home page says \"by proclamation\", which is unverified).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cherry Valley National Wildlife Refuge was established in December 2008 for the conservation of migratory birds and federal trust species, and the habitats they depend on."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

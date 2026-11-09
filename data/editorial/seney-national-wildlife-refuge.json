@@ -2,26 +2,39 @@
   "slug": "seney-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1935",
+      "date": "1935-12-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Seney National Wildlife Refuge was established in 1935 as a refuge and breeding ground for migratory birds and other wildlife.",
+      "name": "Seney Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Seney Migratory Waterfowl Refuge by Executive Order 7246 on December 10, 1935.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7246",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Seney National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/seney/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7246, Dec. 10, 1935, Establishing Seney Migratory Waterfowl Refuge, Michigan",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7246-establishing-seney-migratory-waterfowl-refuge-michigan"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Seney National Wildlife Refuge was established in 1935 as a refuge and breeding ground for migratory birds and other wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

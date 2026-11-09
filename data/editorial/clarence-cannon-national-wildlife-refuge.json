@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Clarence Cannon National Wildlife Refuge was established in 1964 with funds from the purchase of migratory waterfowl stamps.",
+      "indexText": "The U.S. Fish and Wildlife Service established Clarence Cannon National Wildlife Refuge by purchasing land with migratory bird hunting stamp funds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval (purchase with Duck Stamp funds)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Clarence Cannon National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/clarence-cannon/about-us"
+        },
+        {
+          "name": "USFWS, Management Plan, Part 3 : Forestry Chapter : Annada District, Mark Twain National Wildlife Refuge : Clarence Cannon National Wildlife Refuge, Delair Division, Gardner Division (ServCat 4830): \"Fish and Wildlife Service purchased the Clarence Cannon Refuge ... in 1964\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/4674"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Purchased 1964 (Mark Twain NWR management plan). Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Clarence Cannon National Wildlife Refuge was established in 1964 with funds from the purchase of migratory waterfowl stamps."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

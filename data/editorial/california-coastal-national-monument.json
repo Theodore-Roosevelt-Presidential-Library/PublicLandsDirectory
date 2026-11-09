@@ -1,103 +1,103 @@
 {
-  "slug": "california-coastal-national-monument",
-  "designationHistory": [
+ "slug": "california-coastal-national-monument",
+ "designationHistory": [
+  {
+   "date": "2000-01-11",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the California Coastal National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7264, 65 FR 2821"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2000-01-11",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the California Coastal National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7264, 65 FR 2821"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7264, 65 FR 2821",
-          "url": "https://www.federalregister.gov/documents/2000/01/18/00-1295/establishment-of-the-california-coastal-national-monument"
-        },
-        {
-          "name": "American Presidency Project: Proclamation 7264—Establishment of the California Coastal National Monument, January 11, 2000",
-          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7264-establishment-the-california-coastal-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "note": "Proclamation 7264, 65 FR 2821, signed 2000-01-11; FR API and APP agree on number, date and President.",
-        "by": "HistorianPanel accuracy review, batch 2",
-        "date": "2026-11-09"
-      }
+     "name": "Federal Register: Proclamation 7264, 65 FR 2821",
+     "url": "https://www.federalregister.gov/documents/2000/01/18/00-1295/establishment-of-the-california-coastal-national-monument"
     },
     {
-      "date": "2014-03-11",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Boundary Enlargement of the California Coastal National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Barack Obama",
-        "administration": "Barack Obama",
-        "citation": "Proclamation 9089, 79 FR 14603"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 9089, 79 FR 14603",
-          "url": "https://www.federalregister.gov/documents/2014/03/14/2014-05878/boundary-enlargement-of-the-california-coastal-national-monument"
-        },
-        {
-          "name": "American Presidency Project: Proclamation 9089—Boundary Enlargement of the California Coastal National Monument, March 11, 2014",
-          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9089-boundary-enlargement-the-california-coastal-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "note": "Proclamation 9089, 79 FR 14603, signed 2014-03-11; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
-        "by": "HistorianPanel accuracy review, batch 2",
-        "date": "2026-11-09"
-      }
-    },
-    {
-      "date": "2017-01-12",
-      "action": "modified",
-      "designation": null,
-      "name": null,
-      "indexText": "Boundary Enlargement of the California Coastal National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "Barack Obama",
-        "administration": "Barack Obama",
-        "citation": "Proclamation 9563, 82 FR 6131"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 9563, 82 FR 6131",
-          "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01327/boundary-enlargement-of-the-california-coastal-national-monument"
-        },
-        {
-          "name": "American Presidency Project: Proclamation 9563—Boundary Enlargement of the California Coastal National Monument, January 12, 2017",
-          "url": "https://www.presidency.ucsb.edu/documents/proclamation-9563-boundary-enlargement-the-california-coastal-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "note": "Proclamation 9563, 82 FR 6131, signed 2017-01-12; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
-        "by": "HistorianPanel accuracy review, batch 2",
-        "date": "2026-11-09"
-      }
+     "name": "American Presidency Project: Proclamation 7264—Establishment of the California Coastal National Monument, January 11, 2000",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7264-establishment-the-california-coastal-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)",
-  "status": "reviewed"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 7264, 65 FR 2821, signed 2000-01-11; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "2014-03-11",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Boundary Enlargement of the California Coastal National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Barack Obama",
+    "administration": "Barack Obama",
+    "citation": "Proclamation 9089, 79 FR 14603"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 9089, 79 FR 14603",
+     "url": "https://www.federalregister.gov/documents/2014/03/14/2014-05878/boundary-enlargement-of-the-california-coastal-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 9089—Boundary Enlargement of the California Coastal National Monument, March 11, 2014",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-9089-boundary-enlargement-the-california-coastal-national-monument"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 9089, 79 FR 14603, signed 2014-03-11; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "date": "2017-01-12",
+   "action": "modified",
+   "designation": null,
+   "name": null,
+   "indexText": "Boundary Enlargement of the California Coastal National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Barack Obama",
+    "administration": "Barack Obama",
+    "citation": "Proclamation 9563, 82 FR 6131"
+   },
+   "note": null,
+   "sources": [
+    {
+     "name": "Federal Register: Proclamation 9563, 82 FR 6131",
+     "url": "https://www.federalregister.gov/documents/2017/01/18/2017-01327/boundary-enlargement-of-the-california-coastal-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 9563—Boundary Enlargement of the California Coastal National Monument, January 12, 2017",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-9563-boundary-enlargement-the-california-coastal-national-monument"
+    }
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 9563, 82 FR 6131, signed 2017-01-12; FR API and APP agree on number, date and President. Antiquities Act reservation of additional land; kept as a modification (a proclamation adding land is a designation under the Act), not treated as a mere boundary revision.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

@@ -2,26 +2,38 @@
   "slug": "pond-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1821",
+      "date": "1973",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Pond Island Light, Phippsburg, Maine Image Details Station Established - 1821 Present Lighthouse Built - 1855 Automated - 1963 Height of Tower - 20 feet Height of Focal Plane - 52 feet Original Optic / Present Optic - Fifth order Fresnel / 250 mm Fog Signal - Two blasts every 30 seconds Other Structures Still Standing - None Footer Menu - Legal About Us Contact Us Work with Us Policies Office of C",
+      "indexText": "Established in 1973 when the island was transferred from the U.S. Coast Guard for its particular value to the national migratory bird program.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of surplus federal property, 16 U.S.C. 667b"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Pond Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/pond-island/about-us"
+        },
+        {
+          "name": "Maine Coastal Islands NWR CCP, Chapter 1 (FWS, archived): establishment year and authority for each unit",
+          "url": "https://webarchive.library.unt.edu/eot2008/20090114155553/http:/library.fws.gov/CCPs/MaineIslands/PDF/CCPChapter1.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Parser took a lighthouse line (Pond Island Light, 1821). The refuge dates to 1973.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Pond Island Light, Phippsburg, Maine Image Details Station Established - 1821 Present Lighthouse Built - 1855 Automated - 1963 Height of Tower - 20 feet Height of Focal Plane - 52 feet Original Optic / Present Optic - Fifth order Fresnel / 250 mm Fog Signal - Two blasts every 30 seconds Other Structures Still Standing - None Footer Menu - Legal About Us Contact Us Work with Us Policies Office of C"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Steigerwald Lake NWR was established in 1987 to offset lowland habitat loss caused by construction at the Bonneville dam.",
+      "indexText": "Established in 1987 to offset lowland habitat lost when the second powerhouse at Bonneville Dam was built.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Steigerwald Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/steigerwald-lake/about-us"
+        },
+        {
+          "name": "Lower Columbia Estuary Partnership: Steigerwald Lake NWR (\"In 1987, a portion of these Refuge lands were established\" to offset habitat lost to the second Bonneville Dam powerhouse)",
+          "url": "https://www.estuarypartnership.org/locations/point-of-interest/steigerwald-lake-national-wildlife-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Steigerwald Lake NWR was established in 1987 to offset lowland habitat loss caused by construction at the Bonneville dam."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

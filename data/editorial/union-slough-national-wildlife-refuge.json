@@ -2,26 +2,43 @@
   "slug": "union-slough-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1938",
+      "date": "1938-09-19",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Established in 1938 as a migratory waterfowl refuge, Union Slough National Wildlife Refuge provides critical habitat for native prairie and wetland wildlife in a landscape dominated by intensive agriculture.",
+      "name": "Union Slough Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Union Slough Migratory Waterfowl Refuge by Executive Order 7976 on September 19, 1938.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7976, 3 FR 2261",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Union Slough National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/union-slough/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7976, Sept. 19, 1938, Establishing the Union Slough Migratory Waterfowl Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7976-establishing-the-union-slough-migratory-waterfowl-refuge"
+        },
+        {
+          "name": "National Archives, Executive Orders Disposition Tables 1938: EO 7976, 3 FR 2261",
+          "url": "https://www.archives.gov/federal-register/executive-orders/1938.html"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and EO added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1938 as a migratory waterfowl refuge, Union Slough National Wildlife Refuge provides critical habitat for native prairie and wetland wildlife in a landscape dominated by intensive agriculture."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

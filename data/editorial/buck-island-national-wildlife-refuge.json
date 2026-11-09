@@ -2,26 +2,38 @@
   "slug": "buck-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1989",
+      "date": "1969",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Laguna Cartagena National Wildlife Refuge Established in 1989, Laguna Cartagena National Wildlife Refuge is one of the most important freshwater habitats for migrating and resident aquatic birds in Puerto Rico.",
+      "indexText": "Buck Island National Wildlife Refuge, off St. Thomas, was established when the U.S. Navy transferred most of the island to the U.S. Fish and Wildlife Service.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of land from the U.S. Navy"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Buck Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/buck-island/about-us"
+        },
+        {
+          "name": "USFWS, 508 Sandy Point, Green Cay, and Buck Island National Wildlife Refuges Comprehensive Conservation Plan (ServCat 169407): \"Buck Island NWR, St. Thomas, was established in 1969\"; about 35 acres obtained from the U.S. Navy in 1969",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254700"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence described Laguna Cartagena NWR (Puerto Rico, 1989). Buck Island NWR (St. Thomas) dates to 1969 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Laguna Cartagena National Wildlife Refuge Established in 1989, Laguna Cartagena National Wildlife Refuge is one of the most important freshwater habitats for migrating and resident aquatic birds in Puerto Rico."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

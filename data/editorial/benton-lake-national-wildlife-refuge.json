@@ -2,26 +2,39 @@
   "slug": "benton-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1929",
+      "date": "1929-11-21",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "the Refuge was established in 1929, the flooding of the wetland basin fluctuated with the amount of natural runoff received.",
+      "name": "Benton Lake Bird Refuge",
+      "indexText": "President Herbert Hoover established the Benton Lake Bird Refuge by Executive Order 5228; it is now Benton Lake National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5228",
+        "signedBy": "Herbert Hoover"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Benton Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/benton-lake/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5228—Establishing Benton Lake Bird Refuge, Montana (Nov 21, 1929)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5228-establishing-benton-lake-bird-refuge-montana"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 5228, 1929-11-21 (Herbert Hoover).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the Refuge was established in 1929, the flooding of the wetland basin fluctuated with the amount of natural runoff received."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

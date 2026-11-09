@@ -2,26 +2,38 @@
   "slug": "yazoo-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1929",
+      "date": "1936",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Yazoo National Wildlife Refuge was established under the Migratory Bird Conservation Act (1929) and the Migratory Bird Treaty Act (1918).",
+      "indexText": "Established in 1936 under the Migratory Bird Conservation Act as wintering habitat for waterfowl in the Mississippi Delta.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Yazoo National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/yazoo/about-us"
+        },
+        {
+          "name": "Federal Register, Mar. 21, 2006 (06-2673), Theodore Roosevelt NWR Complex CCP: \"Yazoo National Wildlife Refuge (established in 1936)\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2006-03-21/pdf/06-2673.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date 1929 is the year of the Migratory Bird Conservation Act, not the refuge. Yazoo NWR dates to 1936.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Yazoo National Wildlife Refuge was established under the Migratory Bird Conservation Act (1929) and the Migratory Bird Treaty Act (1918)."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

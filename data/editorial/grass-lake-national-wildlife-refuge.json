@@ -9,9 +9,9 @@
       "indexText": "Grass Lake National Wildlife Refuge was established on 19 May 1942, by President Franklin D.",
       "authority": {
         "type": "unspecified",
-        "administration": "President Franklin",
+        "administration": "Franklin D. Roosevelt",
         "citation": null,
-        "signedBy": "President Franklin"
+        "signedBy": "Franklin D. Roosevelt"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
@@ -21,7 +21,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Date May 19, 1942 and FDR confirmed. Draft signer field held \"President Franklin\". The CCP gives EO 9167, but the American Presidency Project shows EO 9167 of the same date establishing Halfbreed Lake NWR, so the Grass Lake order number is unconfirmed; check 7 FR (May 1942). Held: the only independent source concerns a different refuge.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

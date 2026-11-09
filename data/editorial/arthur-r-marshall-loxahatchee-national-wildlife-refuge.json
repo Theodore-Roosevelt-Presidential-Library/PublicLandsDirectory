@@ -5,23 +5,35 @@
       "date": "1951",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "s Library Species Map https://www.facebook.com/ARMLoxahatcheeNWR/ About Us The Loxahatchee National Wildlife Refuge was established in 1951 under the authority of the Migratory Bird Conservation Act of 1929 with a 50-year license agreement between the State of Florida and the U.S.",
+      "name": "Loxahatchee National Wildlife Refuge",
+      "indexText": "Loxahatchee National Wildlife Refuge was established under the Migratory Bird Conservation Act through a license agreement with the State of Florida's flood control district; it was later renamed for Arthur R. Marshall.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; license agreement with the Central and Southern Florida Flood Control District (now South Florida Water Management District)"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Arthur R. Marshall Loxahatchee National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/arthur-r-marshall-loxahatchee/about-us"
+        },
+        {
+          "name": "USFWS, Arthur R. Marshall Loxahatchee National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1379): refuge authorized under the Migratory Bird Conservation Act and created by a 1951 license agreement with the flood control district",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1354"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established 1951 by license agreement (CCP gives Jan. 1, 1951 as the authorized start). Original name Loxahatchee NWR.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "s Library Species Map https://www.facebook.com/ARMLoxahatcheeNWR/ About Us The Loxahatchee National Wildlife Refuge was established in 1951 under the authority of the Migratory Bird Conservation Act of 1929 with a 50-year license agreement between the State of Florida and the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

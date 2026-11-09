@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1972 to provide feeding, resting and nesting habitat for migratory birds, located approximately one mile off the coast of Rockport, Massachusetts.",
+      "indexText": "Established in 1972 when the U.S. Coast Guard transferred the north end of Thacher Island, off Rockport, Massachusetts, for migratory bird habitat.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer from the U.S. Coast Guard"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Thacher Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/thacher-island/about-us"
+        },
+        {
+          "name": "National Historic Landmark nomination, Cape Ann Light Station (NPS, archived): the north side of Thacher Island \"was transferred by the Coast Guard to the Bureau of Sport Fisheries and Wildlife\" in 1972",
+          "url": "https://webarchive.library.unt.edu/web/20090509123432/http:/www.nps.gov/history/maritime/nhl/capeann.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed by the NHL nomination.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1972 to provide feeding, resting and nesting habitat for migratory birds, located approximately one mile off the coast of Rockport, Massachusetts."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

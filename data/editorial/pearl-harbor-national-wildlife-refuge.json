@@ -2,26 +2,39 @@
   "slug": "pearl-harbor-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1972",
+      "date": "1972-10-17",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Pearl Harbor NWR was established in 1972 as mitigation for construction of the Honolulu International Airport Reef Runway.",
+      "indexText": "Established on October 17, 1972, as mitigation for construction of the Honolulu International Airport Reef Runway.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Pearl Harbor National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/pearl-harbor/about-us"
+        },
+        {
+          "name": "S. Res. 801, 117th Congress (2022): \"on October 17, 1972, Pearl Harbor National Wildlife Refuge was established as mitigation for the construction of the Honolulu International Airport Reef Runway\"",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-117sres801is/pdf/BILLS-117sres801is.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Exact date from the Senate resolution; authority not stated.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Pearl Harbor NWR was established in 1972 as mitigation for construction of the Honolulu International Airport Reef Runway."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

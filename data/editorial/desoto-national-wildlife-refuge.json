@@ -2,26 +2,38 @@
   "slug": "desoto-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1958",
+      "date": "1958-03-12",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "DeSoto National Wildlife Refuge was established in March of 1958 with the approval of the Migratory Bird Conservation Commission with the dual intention of providing for the needs of migratory birds and providing public recreation to local communities.",
+      "indexText": "DeSoto National Wildlife Refuge was established with the approval of the Migratory Bird Conservation Commission.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Desoto National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/desoto/about-us"
+        },
+        {
+          "name": "USFWS, DeSoto National Wildlife Refuge: Final Comprehensive Conservation Plan (ServCat 1413): \"DeSoto NWR was established on March 12, 1958\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1388"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Mar. 12, 1958 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "DeSoto National Wildlife Refuge was established in March of 1958 with the approval of the Migratory Bird Conservation Commission with the dual intention of providing for the needs of migratory birds and providing public recreation to local communities."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

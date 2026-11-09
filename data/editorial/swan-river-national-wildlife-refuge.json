@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The Refuge was established in 1973at the request of Montana Senator Lee Metcalf, who often hunted the area and desired to see it preserved.",
+      "indexText": "Established in 1973 at the request of Montana Senator Lee Metcalf to protect the Swan River floodplain above Swan Lake.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Swan River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/swan-river/about-us"
+        },
+        {
+          "name": "Swan River NWR Annual Narrative Report 1988 (National Archives, RG 22): \"established in 1973 at the request of Montana Senator Lee Metcalf\"",
+          "url": "https://nara-media.s3.amazonaws.com/dc-metro/rg-022/6102316/SWR_1988_NARRATIVEREPORT/SWR_1988_NARRATIVEREPORT.pdf"
+        },
+        {
+          "name": "FWS news release, Aug. 8, 1972: new area \"to be known as Swan River National Wildlife Refuge,\" 2,546 acres north of Missoula",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1972/19720808.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; the area was approved as a new refuge in August 1972 and established in 1973.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The Refuge was established in 1973at the request of Montana Senator Lee Metcalf, who often hunted the area and desired to see it preserved."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

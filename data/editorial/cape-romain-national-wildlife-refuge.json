@@ -5,23 +5,39 @@
       "date": "1932",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Cape Romain 1800s Lighthouses Established in 1932 as a migratory bird refuge, the refuge's original objectives were to conserve in public ownership habitat for waterfowl, shorebirds and seabirds, and resident species.",
+      "name": "Cape Romain Migratory Bird Refuge",
+      "indexText": "Cape Romain Migratory Bird Refuge was established under the Migratory Bird Conservation Act to protect habitat for waterfowl, shorebirds and seabirds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cape Romain National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cape-romain/about-us"
+        },
+        {
+          "name": "USFWS, 508 Cape Romain National Wildlife Refuge Comprehensive Conservation Plan (ServCat 169393): \"Established in 1932 as a migratory bird refuge\"; \"Date Established: 1932\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254686"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7316, Enlarging Cape Romain Migratory Bird Refuge (Mar. 13, 1936)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7316-enlarging-cape-romain-migratory-bird-refuge-the-state-south-carolina"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1932 (CCP). EO 7316 (Mar. 13, 1936) confirms it was \"established under the said Migratory Bird Conservation Act.\" Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cape Romain 1800s Lighthouses Established in 1932 as a migratory bird refuge, the refuge's original objectives were to conserve in public ownership habitat for waterfowl, shorebirds and seabirds, and resident species."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

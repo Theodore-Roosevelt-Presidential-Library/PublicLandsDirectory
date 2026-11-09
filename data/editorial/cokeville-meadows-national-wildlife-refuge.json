@@ -2,26 +2,38 @@
   "slug": "cokeville-meadows-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1967",
+      "date": "1993",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "This 23,464-acre Refuge was established in 1967 primarily to provide suitable nesting and rearing habitat for migratory birds.",
+      "indexText": "Cokeville Meadows National Wildlife Refuge was established in 1993 when the U.S. Fish and Wildlife Service made its first land purchase.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "First land acquisition under an acquisition boundary approved by a 1992 record of decision"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cokeville Meadows National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cokeville-meadows/about-us"
+        },
+        {
+          "name": "USFWS, Cokeville Meadows NWR Comprehensive Conservation Plan (GovInfo GOVPUB-I49-PURL-gpo56248): \"Cokeville Meadows Refuge was established in 1993 with our first land acquisition\"; acquisition boundary approved by a 1992 record of decision",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-gpo56248/pdf/GOVPUB-I49-PURL-gpo56248.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft 1967 is wrong; CCP: established 1993 with first acquisition (land table shows Oct. 12, 1993), boundary approved 1992.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "This 23,464-acre Refuge was established in 1967 primarily to provide suitable nesting and rearing habitat for migratory birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

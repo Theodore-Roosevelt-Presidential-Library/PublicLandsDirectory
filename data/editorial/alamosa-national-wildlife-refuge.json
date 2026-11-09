@@ -2,26 +2,46 @@
   "slug": "alamosa-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1963",
+      "date": "1962-06-27",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Alamosa National Wildlife Refuge was established in 1963 to provide food, cover, and breeding habitat for migratory birds and resident wildlife.",
+      "indexText": "Alamosa National Wildlife Refuge was set aside in 1962 under the Migratory Bird Conservation Act as a haven for migratory birds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929 (16 U.S.C. 715d); Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Alamosa National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/alamosa/about-us"
+        },
+        {
+          "name": "Federal Register, Mar. 15, 2011 (doc. 2011-5924): San Luis Valley NWR Complex CCP notice (\"Alamosa NWR, authorized in 1962 ... under the Migratory Bird Conservation Act\")",
+          "url": "https://www.federalregister.gov/documents/2011/03/15/2011-5924/san-luis-valley-national-wildlife-refuge-complex-alamosa-co-comprehensive-conservation-plan-and"
+        },
+        {
+          "name": "USFWS, Alamosa and Monte Vista NWRs general information brochure (2019): \"Alamosa NWR was established in 1962\"",
+          "url": "https://www.fws.gov/sites/default/files/documents/Alamosa%20%26%20Monte%20Vista%20Refuge%20General%20Information%20Brochure_2019.pdf"
+        },
+        {
+          "name": "USFWS, Alamosa-Monte Vista National Wildlife Refuge Complex Colorado: Comprehensive Conservation Plan (ServCat 1373): \"Alamosa NWR was approved for acquisition on June 27, 1962, by the Migratory Bird Conservation [Commission]\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/225286"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "MBCC approved the refuge June 27, 1962 (2003 CCP); FWS planning notice and brochure also give 1962. About Us page says 1963, likely the first land acquisition.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Alamosa National Wildlife Refuge was established in 1963 to provide food, cover, and breeding habitat for migratory birds and resident wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

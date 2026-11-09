@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Grand Cote National Wildlife Refuge was established in 1989 to provide valuable waterfowl habitat in the Mississippi/Red River floodplain as part of the North American Waterfowl Management Plan.",
+      "indexText": "The U.S. Fish and Wildlife Service established Grand Cote National Wildlife Refuge to provide waterfowl habitat under the North American Waterfowl Management Plan.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Act of 1956; Migratory Bird Conservation Act"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Grand Cote National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/grand-cote/about-us"
+        },
+        {
+          "name": "USFWS, 508 Grand Cote National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168209): \"Grand Cote National Wildlife Refuge was established in 1989 under the authority of the Fish and Wildlife Act of 1956\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253414"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1989 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Grand Cote National Wildlife Refuge was established in 1989 to provide valuable waterfowl habitat in the Mississippi/Red River floodplain as part of the North American Waterfowl Management Plan."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,27 +2,43 @@
   "slug": "don-edwards-san-francisco-bay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1979",
+      "date": "1972-06-30",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Our History 1972- The San Francisco Bay National Wildlife Refuge was established as the first Urban Wildlife Refuge. 1979- The Visitor Center opened in Fremont, California and the Environmental Education Center opened in Alviso, California. 1995- The refuge name changed to Don Edwards San Francisco Bay National Wildlife Refuge by President Clinton to honor Congressman Don Edwards who was pivotal i",
+      "name": "San Francisco Bay National Wildlife Refuge",
+      "indexText": "Congress established the San Francisco Bay National Wildlife Refuge, renamed in 1995 for Congressman Don Edwards.",
       "authority": {
-        "type": "unspecified",
-        "administration": "President Clinton",
-        "citation": null,
-        "signedBy": "President Clinton"
+        "type": "act-of-congress",
+        "administration": "Richard Nixon",
+        "citation": "Public Law 92-330, 86 Stat. 399",
+        "signedBy": "Richard Nixon"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Don Edwards San Francisco Bay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/don-edwards-san-francisco-bay/about-us"
+        },
+        {
+          "name": "Public Law 92-330, June 30, 1972, 86 Stat. 399 (govinfo): \"To provide for the establishment of the San Francisco Bay National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg399.pdf"
+        },
+        {
+          "name": "USFWS, Don Edwards San Francisco Bay National Wildlife Refuge: Final Comprehensive Conservation Plan and Environmental Assessment (ServCat 43999): \"the Refuge was established in 1972 under Public Law 92-330\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/205121"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft gave 1979 and a 1995 renaming line credited to President Clinton. Original establishment: P.L. 92-330, June 30, 1972 (Nixon). The 1995 renaming was an act of Congress.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Our History 1972- The San Francisco Bay National Wildlife Refuge was established as the first Urban Wildlife Refuge. 1979- The Visitor Center opened in Fremont, California and the Environmental Education Center opened in Alviso, California. 1995- The refuge name changed to Don Edwards San Francisco Bay National Wildlife Refuge by President Clinton to honor Congressman Don Edwards who was pivotal i"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,47 @@
   "slug": "culebra-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1983",
+      "date": "1909-02-27",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Culebra National Wildlife Refuge About Us Contact Us Visit Us Activities Get Involved Events Library Species Map Open for Public Comment https://www.facebook.com/culebra.nwr About Us Established in 1983, Culebra National Wildlife Refuge prioritizes breeding grounds for native birds and the conservation, management, and restoration of other wildlife, and plant resources and their habitats.",
+      "name": "Culebra Reservation",
+      "indexText": "President Theodore Roosevelt established the Culebra Reservation by Executive Order 1042; it is now Culebra National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 1042",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Culebra National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/culebra/about-us"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1042 (Feb. 27, 1909): Establishment of a Bird Reservation on the Island of Culebra, Porto Rico",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1042"
+        },
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), Appendix B: list of bird reservations created by executive order, with dates",
+          "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/text/appendix-b"
+        },
+        {
+          "name": "USFWS, 508 Culebra National Wildlife Refuge Comprehensive Conservation Plan (ServCat 169388): \"In 1909, portions of the Culebra Archipelago were designated as a wildlife reserve in accordance with an Executive Order signed by President Theodore Roosevelt\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/254680"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 1042, 1909-02-27 (Theodore Roosevelt). Draft gave 1983, the year on-site refuge administration began (CCP), not the establishment.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Culebra National Wildlife Refuge About Us Contact Us Visit Us Activities Get Involved Events Library Species Map Open for Public Comment https://www.facebook.com/culebra.nwr About Us Established in 1983, Culebra National Wildlife Refuge prioritizes breeding grounds for native birds and the conservation, management, and restoration of other wildlife, and plant resources and their habitats."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

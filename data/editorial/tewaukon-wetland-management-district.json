@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Draft sentence was about Arrowwood Wetland Management District (1961), not Tewaukon WMD. No independent source for Tewaukon WMD's establishment year was found (the archived CCP was rate-limited). Check the Tewaukon CCP or the district narrative reports at the National Archives.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

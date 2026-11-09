@@ -2,26 +2,38 @@
   "slug": "ankeny-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1964",
+      "date": "1964-06-24",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1964, with the primary management goal of providing wintering...",
+      "indexText": "The Migratory Bird Conservation Commission approved the acquisition of Ankeny National Wildlife Refuge to provide wintering habitat for dusky Canada geese.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Ankeny National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/ankeny/about-us"
+        },
+        {
+          "name": "USFWS, Willamette Valley NWR Complex Comprehensive Conservation Plan (Sept. 2011), ch. 1-2 refuge histories: MBCC approved acquisition of Ankeny on June 24, 1964",
+          "url": "https://www.fws.gov/sites/default/files/documents/Willamette%20Valley%20NWRC%20CCP%20-%20Sept%202011.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "MBCC approval June 24, 1964 (CCP). Year confirmed; date and authority added.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1964, with the primary management goal of providing wintering..."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

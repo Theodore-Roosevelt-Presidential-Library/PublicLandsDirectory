@@ -6,22 +6,35 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "San Bernard National Wildlife Refuge About Us What We Do Law Enforcement Contact Us Visit Us Activities Locations Trails Rules & Policies Get Involved News Species Map About Us Established in 1968, San Bernard National Wildlife Refuge is a diverse refuge that protects salt marsh salt marsh Salt marshes are found in tidal areas near the coast, where freshwater mixes with saltwater.",
+      "indexText": "Established in 1968 to protect coastal marsh, prairie and bottomland habitat for wintering waterfowl on the upper Texas coast.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: San Bernard National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/san-bernard/about-us"
+        },
+        {
+          "name": "Federal Register, Aug. 15, 2012 (2012-19891), Texas Mid-coast refuges: \"San Bernard NWR, which was established in 1968\"",
+          "url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2012-19891.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; authority not stated.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "San Bernard National Wildlife Refuge About Us What We Do Law Enforcement Contact Us Visit Us Activities Locations Trails Rules & Policies Get Involved News Species Map About Us Established in 1968, San Bernard National Wildlife Refuge is a diverse refuge that protects salt marsh salt marsh Salt marshes are found in tidal areas near the coast, where freshwater mixes with saltwater."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

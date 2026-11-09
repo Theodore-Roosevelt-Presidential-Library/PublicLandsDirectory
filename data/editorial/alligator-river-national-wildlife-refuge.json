@@ -2,26 +2,42 @@
   "slug": "alligator-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1984",
+      "date": "1984-03-14",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1984 to protect the rare pocosin wetlands and their associated wildlife.",
+      "indexText": "The U.S. Fish and Wildlife Service established Alligator River National Wildlife Refuge on land donated by the Prudential Insurance Company.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Donation of about 118,000 acres by Prudential Insurance Company accepted by the U.S. Fish and Wildlife Service"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Alligator River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/alligator-river/about-us"
+        },
+        {
+          "name": "USFWS, Alligator River NWR Comprehensive Conservation Plan (2008), Refuge History: established March 1984 on land donated by Prudential",
+          "url": "https://www.fws.gov/sites/default/files/documents/Alligator_River_2008_CCP.pdf"
+        },
+        {
+          "name": "N.C. Department of Natural and Cultural Resources, \"Wildlife Preserve on the Alligator River\" (2016): established March 14, 1984",
+          "url": "https://www.dncr.nc.gov/blog/2016/03/14/wildlife-preserve-alligator-river"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established Mar. 14, 1984 by administrative action on a Prudential land donation.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1984 to protect the rare pocosin wetlands and their associated wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,38 @@
   "slug": "great-bay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1992",
+      "date": "1992-07",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Great Bay National Wildlife Refuge About Us Contact Us Visit Us Activities Trails Rules & Policies Events News Species Map About Us Established in 1992, Great Bay National Wildlife Refuge is located along the eastern shore of New Hampshire's Great Bay in the town of Newington.",
+      "indexText": "Great Bay National Wildlife Refuge was established on land of the former Pease Air Force Base on New Hampshire's Great Bay.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of former Pease Air Force Base lands (Department of Defense Appropriations Act, 1992)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Great Bay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/great-bay/about-us"
+        },
+        {
+          "name": "USFWS, Great Bay National Wildlife Refuge and Karner Blue Butterfly Conservation Easement: Comprehensive Conservation Plan (ServCat 43711): established \"in July 1992 through a cooperative agreement\" on lands of the former Pease Air Force Base",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/44346"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "July 1992 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Great Bay National Wildlife Refuge About Us Contact Us Visit Us Activities Trails Rules & Policies Events News Species Map About Us Established in 1992, Great Bay National Wildlife Refuge is located along the eastern shore of New Hampshire's Great Bay in the town of Newington."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

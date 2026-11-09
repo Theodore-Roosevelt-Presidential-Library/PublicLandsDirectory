@@ -6,22 +6,38 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Ten Thousand Islands National Wildlife Refuge was established in 1996 under provisions of the Arizona-Florida Land Exchange Act of 1988.",
+      "indexText": "Established in 1996 under the Arizona-Florida Land Exchange Act of 1988, which set aside exchanged Florida lands for a new refuge.",
       "authority": {
         "type": "act-of-congress",
         "administration": null,
-        "citation": null
+        "citation": "Arizona-Florida Land Exchange Act of 1988, Public Law 100-696"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Ten Thousand Islands National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/ten-thousand-islands/about-us"
+        },
+        {
+          "name": "CRE Federal Law: Arizona-Florida Land Exchange Act (P.L. 100-696) directed 19,620 acres of Florida land \"be used to establish a new Ten Thousand Islands National Wildlife Refuge\"",
+          "url": "https://thecre.com/fedlaw/legal26/landex.htm"
+        },
+        {
+          "name": "Bonefish & Tarpon Trust (2023): the Arizona-Florida land swap created Ten Thousand Islands National Wildlife Refuge",
+          "url": "https://bonefishtarpontrust.org/blog/2023-03-17-innovative-land-deal-helped-preserve-southwest-floridas-ecosystems-35-years-ago"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Authority confirmed. The 1996 date rests on FWS; the act passed in 1988, so no signer is set.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Ten Thousand Islands National Wildlife Refuge was established in 1996 under provisions of the Arizona-Florida Land Exchange Act of 1988."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

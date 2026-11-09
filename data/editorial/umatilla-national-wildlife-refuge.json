@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Umatilla National Wildlife Refuge was original established in 1969 under the authority of the Fish and Wildlife Coordination Act it’s Mission (Purposes) are derived from this law and expanded upon through various public laws, plans, and agreements.",
+      "indexText": "Established in 1969 under the Fish and Wildlife Coordination Act to offset wildlife habitat lost to the John Day Dam reservoir on the Columbia River.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Fish and Wildlife Coordination Act (overlay on Corps of Engineers land)"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Umatilla National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/umatilla/about-us"
+        },
+        {
+          "name": "Federal Register, May 24, 2004 (04-11632): Umatilla NWR \"was established in 1969 to mitigate wildlife habitat losses\" from John Day Dam",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2004-05-24/pdf/04-11632.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Umatilla National Wildlife Refuge was original established in 1969 under the authority of the Fish and Wildlife Coordination Act it’s Mission (Purposes) are derived from this law and expanded upon through various public laws, plans, and agreements."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

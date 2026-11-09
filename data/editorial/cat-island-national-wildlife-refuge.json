@@ -2,26 +2,43 @@
   "slug": "cat-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "2000",
+      "date": "2000-10-27",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Cat Island National Wildlife Refuge was established in 2000 as the 526th refuge in the National Wildlife Refuge System.",
+      "indexText": "Congress established Cat Island National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "Bill Clinton",
+        "citation": "Public Law 106-369",
+        "signedBy": "Bill Clinton"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cat Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cat-island/about-us"
+        },
+        {
+          "name": "Public Law 106-369, Oct. 27, 2000 (govinfo): \"To provide for the establishment of the Cat Island National Wildlife Refuge\"",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ369/pdf/PLAW-106publ369.pdf"
+        },
+        {
+          "name": "USFWS, 508 Cat Island National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168188): \"Cat Island NWR was established in October 2000\"; \"created by Congress through Public Law 106-369\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253378"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "P.L. 106-369, Oct. 27, 2000 (Clinton).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cat Island National Wildlife Refuge was established in 2000 as the 526th refuge in the National Wildlife Refuge System."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

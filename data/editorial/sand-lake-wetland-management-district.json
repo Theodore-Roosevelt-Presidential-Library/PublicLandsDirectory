@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Draft sentence was about Huron WMD (1992), not Sand Lake WMD. FWS's own page elsewhere says the district was created in 1961, but no source independent of fws.gov was found. Confirm 1961 from the South Dakota WMD CCP before publishing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

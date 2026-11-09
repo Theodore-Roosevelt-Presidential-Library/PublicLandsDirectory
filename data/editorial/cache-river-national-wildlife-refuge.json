@@ -2,26 +2,38 @@
   "slug": "cache-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1986",
+      "date": "1986-06-16",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established in 1986, this refuge was born out of a commitment to safeguard, restore, and enhance wetland ecosystems, making it a sanctuary for migratory birds and a haven for diverse fish and wildlife.",
+      "indexText": "Cache River National Wildlife Refuge was established to protect bottomland hardwood wetlands for wintering waterfowl.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cache River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cache-river/about-us"
+        },
+        {
+          "name": "USFWS, Environmental Assessment and Forest Habitat Management Plan Cache River and Bald Knob National Wildlife Refuges (ServCat 152673): \"Cache River National Wildlife Refuge (NWR) was established on June 16, 1986\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/230283"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "June 16, 1986 (Cache River forest habitat management plan EA). Authority assumed MBCA (recent hunt plan cites the MBCA).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1986, this refuge was born out of a commitment to safeguard, restore, and enhance wetland ecosystems, making it a sanctuary for migratory birds and a haven for diverse fish and wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

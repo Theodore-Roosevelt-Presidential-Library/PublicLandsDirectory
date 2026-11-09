@@ -2,26 +2,42 @@
   "slug": "upper-ouachita-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1978",
+      "date": "1978-11",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "It was established in November of 1978 “for use as an inviolate sanctuary, or for any other management purpose, for migratory birds” (Migratory Bird Conservation Act, 16 U.S.C. 715d); and for “…the conservation of the wetlands of the nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and convention",
+      "indexText": "Established in November 1978 under the Migratory Bird Conservation Act as an inviolate sanctuary for migratory birds and to conserve wetlands of the Ouachita River.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act, 16 U.S.C. 715d"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Upper Ouachita National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/upper-ouachita/about-us"
+        },
+        {
+          "name": "Federal Register, July 13, 2005 (05-13730): \"Upper Ouachita National Wildlife Refuge was established in November 1978\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2005-07-13/pdf/05-13730.pdf"
+        },
+        {
+          "name": "Louisiana LandCAN: Upper Ouachita NWR established in November 1978 under the Migratory Bird Conservation Act",
+          "url": "https://www.louisianalandcan.org/local-resources/Upper-Ouachita-National-Wildlife-Refuge/32980"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Month and year confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in November of 1978 “for use as an inviolate sanctuary, or for any other management purpose, for migratory birds” (Migratory Bird Conservation Act, 16 U.S.C. 715d); and for “…the conservation of the wetlands of the nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and convention"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

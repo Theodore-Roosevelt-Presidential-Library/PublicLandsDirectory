@@ -2,26 +2,38 @@
   "slug": "watercress-darter-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1980",
+      "date": "1980-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Watercress Darter National Wildlife Refuge, located within the city limits of Bessemer, Alabama, was established by the Service in October of 1980 to provide protection for the watercress darter and to conserve and restore its crucial habitat.",
+      "indexText": "Established by the U.S. Fish and Wildlife Service in October 1980 to protect the endangered watercress darter and its spring habitat near Bessemer, Alabama.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973 (land acquisition)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Watercress Darter National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/watercress-darter/about-us"
+        },
+        {
+          "name": "Encyclopedia of Alabama, National Wildlife Refuges: Watercress Darter NWR \"was established in 1980 to protect the endangered watercress darter\"",
+          "url": "https://encyclopediaofalabama.org/article/national-wildlife-refuges/"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; month from FWS.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Watercress Darter National Wildlife Refuge, located within the city limits of Bessemer, Alabama, was established by the Service in October of 1980 to provide protection for the watercress darter and to conserve and restore its crucial habitat."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

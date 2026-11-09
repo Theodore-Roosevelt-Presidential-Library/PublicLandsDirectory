@@ -2,26 +2,38 @@
   "slug": "currituck-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1670",
+      "date": "1983-08-02",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Algonkians called the area “Coratank” which means “The Land of the Wild Goose.” The governor of colonial North Carolina established Currituck County in 1670 from part of Albemarle County.",
+      "indexText": "The Migratory Bird Conservation Commission established Currituck National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Currituck National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/currituck/about-us"
+        },
+        {
+          "name": "USFWS, 508 Currituck National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168356): \"The refuge was established on August 2, 1983, by the Migratory Bird Conservation Commission through the authority of the Migratory Bird Conservation Act of 1929\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253604"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Currituck County (1670). Refuge: Aug. 2, 1983 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Algonkians called the area “Coratank” which means “The Land of the Wild Goose.” The governor of colonial North Carolina established Currituck County in 1670 from part of Albemarle County."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,47 @@
   "slug": "passage-key-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1905",
+      "date": "1905-10-10",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "President Theodore Roosevelt established Passage Key NWR in 1905 to preserve nesting colonies of native seabirds and wading birds.",
+      "name": "Passage Key Reservation",
+      "indexText": "President Theodore Roosevelt established the Passage Key Reservation by executive order on October 10, 1905, as a preserve and breeding ground for native birds.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order of Oct. 10, 1905 (unnumbered; listed as 357-B)",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Passage Key National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/passage-key/about-us"
+        },
+        {
+          "name": "Wikisource: Executive Order of Oct. 10, 1905 (357-B), Establishing Passage Key Reservation, Florida",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_357-B"
+        },
+        {
+          "name": "T. S. Palmer, National Reservations for the Protection of Wild Life, USDA Biological Survey Circular 87 (1912), table of bird reservations",
+          "url": "https://archive.org/details/CAT31414456"
+        },
+        {
+          "name": "American Presidency Project / Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "TR bird reservation; date in Palmer 1912 and the order text. Renamed Passage Key NWR by Proclamation 2416 (1940).",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "President Theodore Roosevelt established Passage Key NWR in 1905 to preserve nesting colonies of native seabirds and wading birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

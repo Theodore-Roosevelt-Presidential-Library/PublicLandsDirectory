@@ -2,26 +2,39 @@
   "slug": "back-bay-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1938",
+      "date": "1938-06-06",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Back Bay National Wildlife Refuge was established in 1938 to protect and provide habitat for migratory and wintering waterfowl, or ducks, geese and swans.",
+      "name": "Back Bay Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Back Bay Migratory Waterfowl Refuge by Executive Order 7907; it is now Back Bay National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7907",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Back Bay National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/back-bay/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7907—Establishing the Back Bay Migratory Waterfowl Refuge (Jun 06, 1938)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7907-establishing-the-back-bay-migratory-waterfowl-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7907, 1938-06-06 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Back Bay National Wildlife Refuge was established in 1938 to protect and provide habitat for migratory and wintering waterfowl, or ducks, geese and swans."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

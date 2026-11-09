@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1991 and was named after the late Dr.",
+      "indexText": "The U.S. Fish and Wildlife Service established Archie Carr National Wildlife Refuge to protect nesting sea turtles, two years after Congress authorized it.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973 (16 U.S.C. 1534) and Fish and Wildlife Act of 1956 (16 U.S.C. 742f); authorized by Congress in 1989"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Archie Carr National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/archie-carr/about-us"
+        },
+        {
+          "name": "USFWS, Archie Carr NWR Comprehensive Conservation Plan: \"authorized by Congress in 1989 and established in 1991\" under the Endangered Species Act and Fish and Wildlife Act of 1956",
+          "url": "https://www.fws.gov/sites/default/files/documents/Archie_Carr_CCP.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Authorized by Congress 1989, established 1991 by acquisition (CCP). Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1991 and was named after the late Dr."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

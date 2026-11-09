@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Flint Hills National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Trails Rules & Policies News Library Species Map https://www.facebook.com/KansasNWRComplex/ About Us Established in 1966 as an “overlay project” on an U.S.",
+      "indexText": "Flint Hills National Wildlife Refuge was established as an overlay refuge on Army Corps of Engineers land at John Redmond Reservoir.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Overlay on U.S. Army Corps of Engineers John Redmond Reservoir lands (cooperative agreement)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Flint Hills National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/flint-hills/about-us"
+        },
+        {
+          "name": "USFWS, Flint Hills National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1424): \"Flint Hills NWR was established in 1966\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/225303"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1966 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Flint Hills National Wildlife Refuge About Us What We Do Contact Us Visit Us Activities Trails Rules & Policies News Library Species Map https://www.facebook.com/KansasNWRComplex/ About Us Established in 1966 as an “overlay project” on an U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

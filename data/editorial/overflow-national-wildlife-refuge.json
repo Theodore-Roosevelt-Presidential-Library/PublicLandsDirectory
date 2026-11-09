@@ -2,26 +2,42 @@
   "slug": "overflow-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1980",
+      "date": "1980-11-06",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Overflow National Wildlife Refuge (NWR) was established in 1980 to protect the bottomland hardwood forest, a vital habitat for migratory waterfowl populations along the Mississippi Flyway.",
+      "indexText": "Established on November 6, 1980, after the Migratory Bird Conservation Commission approved the refuge on May 20, 1980, to protect bottomland hardwood forest for wintering waterfowl.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act; Migratory Bird Conservation Commission approval, May 20, 1980"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Overflow National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/overflow/about-us"
+        },
+        {
+          "name": "Encyclopedia of Arkansas: Overflow National Wildlife Refuge (established Nov. 6, 1980)",
+          "url": "https://encyclopediaofarkansas.net/entries/overflow-national-wildlife-refuge-2466/"
+        },
+        {
+          "name": "FWS news release, June 3, 1980: Migratory Bird Conservation Commission authorized \"Overflow Bottoms\" refuge on May 20, 1980",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1980/19800603.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date from the Encyclopedia of Arkansas, MBCC approval from the FWS release.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Overflow National Wildlife Refuge (NWR) was established in 1980 to protect the bottomland hardwood forest, a vital habitat for migratory waterfowl populations along the Mississippi Flyway."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Brazoria National Wildlife Refuge About Us What We Do Law Enforcement Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Species Map About Us Established in 1966 to provide wintering habitat for migratory waterfowl and other migratory bird species, the refuge provides more than 45,000 acres of salt marsh salt marsh Salt marshes are found in tidal are",
+      "indexText": "Brazoria National Wildlife Refuge was established to provide wintering habitat for migratory waterfowl on the upper Texas coast.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Brazoria National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/brazoria/about-us"
+        },
+        {
+          "name": "USFWS, Inventory and Monitoring Plan Texas Mid-Coast Wildlife Refuge Complex: Brazoria, San Bernard, and Big Boggy National Wildlife Refuges (ServCat 120434): \"Brazoria NWR ... was established initially in 1966 primarily to protect wetland and migratory bird habitats\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/178300"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1966 (Texas Mid-Coast complex I&M plan). Authority assumed MBCA; exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Brazoria National Wildlife Refuge About Us What We Do Law Enforcement Laws & Regulations Contact Us Visit Us Activities Trails Rules & Policies Get Involved Events News Species Map About Us Established in 1966 to provide wintering habitat for migratory waterfowl and other migratory bird species, the refuge provides more than 45,000 acres of salt marsh salt marsh Salt marshes are found in tidal are"
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

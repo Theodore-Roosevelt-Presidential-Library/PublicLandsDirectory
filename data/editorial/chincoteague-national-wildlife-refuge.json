@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established in 1943 to protect migratory birds, this refuge is now one of the most visited in the United States.",
+      "indexText": "The Secretary of the Interior established Chincoteague National Wildlife Refuge under the Migratory Bird Conservation Act to protect migratory birds.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Chincoteague National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/chincoteague/about-us"
+        },
+        {
+          "name": "USFWS, Chincoteague and Wallops Island National Wildlife Refuges Comprehensive Conservation Plan (ServCat 98418): \"The Secretary of the Department of the Interior (DOI) established Chincoteague NWR in 1943 under authority of the Migratory Bird Conservation Act\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/147316"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1943 (CCP). Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1943 to protect migratory birds, this refuge is now one of the most visited in the United States."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

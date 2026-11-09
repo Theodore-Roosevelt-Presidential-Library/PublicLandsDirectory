@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Ridgefield NWR was established in 1965 to provide wintering habitat for the dusky subspecies of the Canada goose whose habitat is extremely limited.",
+      "indexText": "Established in 1965 after the Migratory Bird Conservation Commission approved the refuge on May 18, 1965, as wintering habitat for the dusky Canada goose.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act; Migratory Bird Conservation Commission approval, May 18, 1965"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Ridgefield National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/ridgefield/about-us"
+        },
+        {
+          "name": "FWS news release, May 1965: Migratory Bird Conservation Commission approved the new 6,131-acre Ridgefield NWR on May 18, 1965, as wintering habitat for dusky Canada geese",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1965/19650518B.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; MBCC approval date added.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Ridgefield NWR was established in 1965 to provide wintering habitat for the dusky subspecies of the Canada goose whose habitat is extremely limited."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

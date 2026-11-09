@@ -1,39 +1,39 @@
 {
-  "slug": "kasha-katuwe-tent-rocks-national-monument",
-  "designationHistory": [
+ "slug": "kasha-katuwe-tent-rocks-national-monument",
+ "designationHistory": [
+  {
+   "date": "2001-01-17",
+   "action": "established",
+   "designation": "National Monument",
+   "name": null,
+   "indexText": "Establishment of the Kasha-Katuwe Tent Rocks National Monument",
+   "authority": {
+    "type": "presidential-proclamation",
+    "signedBy": "Bill Clinton",
+    "administration": "Bill Clinton",
+    "citation": "Proclamation 7394, 66 FR 7343"
+   },
+   "note": null,
+   "sources": [
     {
-      "date": "2001-01-17",
-      "action": "established",
-      "designation": "National Monument",
-      "name": null,
-      "indexText": "Establishment of the Kasha-Katuwe Tent Rocks National Monument",
-      "authority": {
-        "type": "presidential-proclamation",
-        "signedBy": "William J. Clinton",
-        "administration": "Bill Clinton",
-        "citation": "Proclamation 7394, 66 FR 7343"
-      },
-      "note": null,
-      "sources": [
-        {
-          "name": "Federal Register: Proclamation 7394, 66 FR 7343",
-          "url": "https://www.federalregister.gov/documents/2001/01/22/01-2099/establishment-of-the-kasha-katuwe-tent-rocks-national-monument"
-        },
-        {
-          "name": "American Presidency Project: Proclamation 7394—Establishment of the Kasha-Katuwe Tent Rocks National Monument, January 17, 2001",
-          "url": "https://www.presidency.ucsb.edu/documents/proclamation-7394-establishment-the-kasha-katuwe-tent-rocks-national-monument"
-        }
-      ],
-      "research": "federal-register",
-      "reviewed": true,
-      "review": {
-        "verdict": "confirmed",
-        "note": "Proclamation 7394, 66 FR 7343, signed 2001-01-17; FR API and APP agree on number, date and President.",
-        "by": "HistorianPanel accuracy review, batch 2",
-        "date": "2026-11-09"
-      }
+     "name": "Federal Register: Proclamation 7394, 66 FR 7343",
+     "url": "https://www.federalregister.gov/documents/2001/01/22/01-2099/establishment-of-the-kasha-katuwe-tent-rocks-national-monument"
+    },
+    {
+     "name": "American Presidency Project: Proclamation 7394—Establishment of the Kasha-Katuwe Tent Rocks National Monument, January 17, 2001",
+     "url": "https://www.presidency.ucsb.edu/documents/proclamation-7394-establishment-the-kasha-katuwe-tent-rocks-national-monument"
     }
-  ],
-  "historySource": "Federal Register presidential proclamations (draft, pending review)",
-  "status": "reviewed"
+   ],
+   "research": "federal-register",
+   "reviewed": true,
+   "review": {
+    "verdict": "confirmed",
+    "note": "Proclamation 7394, 66 FR 7343, signed 2001-01-17; FR API and APP agree on number, date and President.",
+    "by": "HistorianPanel accuracy review, batch 2",
+    "date": "2026-11-09"
+   }
+  }
+ ],
+ "historySource": "Federal Register presidential proclamations (draft, pending review)",
+ "status": "reviewed"
 }

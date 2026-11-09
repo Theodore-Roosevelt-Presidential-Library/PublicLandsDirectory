@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Big Oaks National Wildlife Refuge was established in June 2000 as an \"overlay\" national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S.",
+      "indexText": "Big Oaks National Wildlife Refuge was established as an overlay refuge on the U.S. Army's former Jefferson Proving Ground in Indiana.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Overlay refuge on former Jefferson Proving Ground (U.S. Army) under a memorandum of agreement with the Army"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Big Oaks National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/big-oaks/about-us"
+        },
+        {
+          "name": "Big Oaks Conservation Society, \"The Refuge\": \"In June 2000, Big Oaks National Wildlife Refuge was established\"",
+          "url": "https://www.bigoaksconservationsociety.org/about-1-4"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "June 2000 confirmed by the refuge Friends group; authority (Army MOA) from FWS and local reporting, exact day not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Big Oaks National Wildlife Refuge was established in June 2000 as an \"overlay\" national wildlife refuge national wildlife refuge A national wildlife refuge is typically a contiguous area of land and water managed by the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

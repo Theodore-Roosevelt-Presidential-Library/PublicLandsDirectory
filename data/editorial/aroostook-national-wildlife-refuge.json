@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "1998 transfer of former Loring Air Force Base land is repeated by tourism and campus pages, but all trace to the FWS wording. Confirm the transfer date and authority (16 U.S.C. 667b / base-closure transfer) from the Northern Maine refuges CCP or the transfer document.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

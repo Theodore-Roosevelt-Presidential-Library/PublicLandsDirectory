@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Only the scraped FWS sentence gives 1971 for Valley City WMD; the 2009 North Dakota WMD CCP notice and the district's narrative reports did not state an establishment year. Check the ND WMD CCP before publishing.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

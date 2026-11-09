@@ -2,27 +2,39 @@
   "slug": "cape-meares-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1938",
+      "date": "1938-08-19",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Cape Meares National Wildlife Refuge, established in 1938, boasts views of nearby rocky islands, vertical coastal cliffs, and rolling headlands topped with old-growth forest dominated by Sitka Spruce and Western Hemlock.",
+      "name": "Cape Meares Migratory Bird Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Cape Meares Migratory Bird Refuge by Executive Order 7957; it is now Cape Meares National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": "Sitka Spruce",
-        "citation": null,
-        "signedBy": "Sitka Spruce"
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7957",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Cape Meares National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cape-meares/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7957—Establishing Cape Meares Migratory Bird Refuge (Aug 19, 1938)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7957-establishing-cape-meares-migratory-bird-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 7957, 1938-08-19 (Franklin D. Roosevelt). Draft signer field held \"Sitka Spruce\", a parsing error.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cape Meares National Wildlife Refuge, established in 1938, boasts views of nearby rocky islands, vertical coastal cliffs, and rolling headlands topped with old-growth forest dominated by Sitka Spruce and Western Hemlock."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

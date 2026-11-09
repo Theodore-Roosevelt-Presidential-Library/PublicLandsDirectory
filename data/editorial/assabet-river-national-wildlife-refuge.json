@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Assabet River National Wildlife Refuge was established in 2000 under an Act Authorizing the Transfer of Certain Real Property for Wildlife, or Other Purposes. (16 U.S.C. 667b).",
+      "indexText": "Assabet River National Wildlife Refuge was established when former U.S. Army land at Fort Devens was transferred to the U.S. Fish and Wildlife Service.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of former Fort Devens (U.S. Army) land under the Act of May 19, 1948 (16 U.S.C. 667b)"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Assabet River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/assabet-river/about-us"
+        },
+        {
+          "name": "USFWS, Assabet River National Wildlife Refuge: Final Comprehensive Conservation Plan (ServCat 1380): \"Assabet River National Wildlife Refuge (NWR) was established in 2000 under an Act Authorizing the Transfer of Certain Real Property for Wildlife, or Other Purposes\"; created when Fort Devens Army land was transferred",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1355"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established fall 2000 by transfer from the Army (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Assabet River National Wildlife Refuge was established in 2000 under an Act Authorizing the Transfer of Certain Real Property for Wildlife, or Other Purposes. (16 U.S.C. 667b)."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

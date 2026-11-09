@@ -2,26 +2,47 @@
   "slug": "deer-flat-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1909",
+      "date": "1909-02-25",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "It was established in 1909 to designate the new irrigation reservoir as a refuge and breeding grounds for migratory birds and other wildlife.",
+      "name": "Deer Flat Reservation",
+      "indexText": "President Theodore Roosevelt established the Deer Flat Reservation by Executive Order 1032; it is now Deer Flat National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 1032",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Deer Flat National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/deer-flat/about-us"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1032 (Feb. 25, 1909): Establishing Seventeen Reservations as Preserves and Breeding Grounds for Native Birds (includes Deer Flat, Idaho)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1032"
+        },
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), Appendix B: list of bird reservations created by executive order, with dates",
+          "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/text/appendix-b"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7655—Establishing Deer Flat Migratory Waterfowl Refuge, Idaho (Jul 12, 1937)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7655-establishing-deer-flat-migratory-waterfowl-refuge-idaho"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 1032, 1909-02-25 (Theodore Roosevelt). One of 17 reservoir bird reservations in EO 1032; FDR re-established it as Deer Flat Migratory Waterfowl Refuge by EO 7655 (July 12, 1937).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1909 to designate the new irrigation reservoir as a refuge and breeding grounds for migratory birds and other wildlife."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

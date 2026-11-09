@@ -6,22 +6,39 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Ozark Cavefish National Wildlife Refuge was established in 1991 and is managed by the staff at Mingo National Wildlife Refuge.",
+      "indexText": "Established in 1991 to protect cave habitat for the threatened Ozark cavefish; managed from Mingo National Wildlife Refuge.",
       "authority": {
         "type": "unspecified",
         "administration": null,
-        "citation": null
+        "citation": null,
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Ozark Cavefish National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/ozark-cavefish/about-us"
+        },
+        {
+          "name": "Federal Register, June 4, 2007 (E7-10676): CCP notice for Mingo, Pilot Knob and Ozark Cavefish NWRs, \"Ozark Cavefish NWR was established in 1991\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-06-04/pdf/E7-10676.pdf"
+        },
+        {
+          "name": "FWS story, Sept. 2026: refuge protecting cave habitat \"since the October 22, 1991\"",
+          "url": "https://www.fws.gov/story/2026-09/35-years-protecting-cave-habitats-missouri"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. An FWS story gives Oct. 22, 1991, but only FWS sources give the day, so the date stays at the year. Establishing authority not found.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Ozark Cavefish National Wildlife Refuge was established in 1991 and is managed by the staff at Mingo National Wildlife Refuge."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

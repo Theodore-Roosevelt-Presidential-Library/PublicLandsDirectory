@@ -9,9 +9,9 @@
       "indexText": "Ziebach became the first manager of the park (1906-1913?) 1914 - Ten years after the Park was established, appropriations were made for the creation of a big-game preserve within the Park to be jointly administered by the Department of Interior, National Park Service and the Department of Agriculture, Biological Survey. 1916 - The big game fence was built to enclose a 700-acre tract of land design",
       "authority": {
         "type": "executive-order",
-        "administration": "Executive Order",
+        "administration": null,
         "citation": null,
-        "signedBy": "Executive Order"
+        "signedBy": null
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
@@ -21,7 +21,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Draft (1916, \"Executive Order\") came from a timeline line about the 1914 game-preserve appropriation. The site's original federal reservation is TR's 1904 park. HELD for human review (panel rule): the park was carved from ceded Devils Lake Reservation (Spirit Lake Dakota) land, so the panel does not close it. Proposed correction is in the correction field. The game preserve (1914) and the 2021 renaming to White Horse Hill are separate later events.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

@@ -2,26 +2,43 @@
   "slug": "chase-lake-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1908",
+      "date": "1908-08-28",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Chase Lake National Wildlife Refuge was established in 1908 under President Theodore Roosevelt as a reserve and breeding ground for native birds, making it the 15th refuge established in the country.",
+      "name": "Chase Lake Reservation",
+      "indexText": "President Theodore Roosevelt established the Chase Lake Reservation by Executive Order 932; it is now Chase Lake National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Theodore Roosevelt",
+        "citation": "Executive Order 932",
+        "signedBy": "Theodore Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Chase Lake National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/chase-lake/about-us"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 932 (Aug. 28, 1908): Establishing Chase Lake Reservation in North Dakota as Reserve and Breeding Ground for Native Birds",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_932"
+        },
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), Appendix B: list of bird reservations created by executive order, with dates",
+          "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/text/appendix-b"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 932, 1908-08-28 (Theodore Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Chase Lake National Wildlife Refuge was established in 1908 under President Theodore Roosevelt as a reserve and breeding ground for native birds, making it the 15th refuge established in the country."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

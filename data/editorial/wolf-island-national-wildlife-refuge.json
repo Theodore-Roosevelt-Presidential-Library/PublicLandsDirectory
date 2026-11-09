@@ -2,27 +2,43 @@
   "slug": "wolf-island-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "5316",
+      "date": "1930-04-03",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Wolf Island NWR established by Executive Order No. 5316 as a 538-acre sanctuary for migratory birds.",
+      "name": "Wolf Island Wild Life Refuge",
+      "indexText": "President Herbert Hoover established the Wolf Island Wild Life Refuge on the Wolf Island lighthouse reservation by Executive Order 5316 on April 3, 1930.",
       "authority": {
         "type": "executive-order",
-        "administration": "Executive Order No",
-        "citation": null,
-        "signedBy": "Executive Order No"
+        "administration": "Herbert Hoover",
+        "citation": "Executive Order 5316",
+        "signedBy": "Herbert Hoover"
       },
-      "note": "The refuge page gives only the month or year.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Wolf Island National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/wolf-island/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 5316, Apr. 3, 1930, Wolf Island Wild Life Refuge",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-5316-wolf-island-wild-life-refuge"
+        },
+        {
+          "name": "Wikisource: Proclamation 2416, July 25, 1940 (renaming federal wildlife refuges; lists originating orders)",
+          "url": "https://en.wikisource.org/wiki/Proclamation_2416"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft date \"5316\" was the EO number. Correct date is Apr. 3, 1930.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Wolf Island NWR established by Executive Order No. 5316 as a 538-acre sanctuary for migratory birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,38 @@
   "slug": "edwin-b-forsythe-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1939",
+      "date": "1939-01-24",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "They were established in 1939 and 1967 respectively, to protect tidal wetland and shallow bay habitat for migratory water birds.",
+      "name": "Brigantine National Wildlife Refuge",
+      "indexText": "The Migratory Bird Conservation Commission established Brigantine National Wildlife Refuge, which was combined with Barnegat in 1984 as Edwin B. Forsythe National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act of 1929; Migratory Bird Conservation Commission approval"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Edwin B. Forsythe National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/edwin-b-forsythe/about-us"
+        },
+        {
+          "name": "USFWS, Edwin B. Forsythe National Wildlife Refuge: Comprehensive Conservation Plan (ServCat 1417): \"The Brigantine National Wildlife Refuge was established on January 24, 1939 by the Migratory Bird Conservation Commission\"; Forsythe NWR created May 22, 1984 by combining Brigantine and Barnegat NWRs",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/1392"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Original unit Brigantine NWR, Jan. 24, 1939 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "They were established in 1939 and 1967 respectively, to protect tidal wetland and shallow bay habitat for migratory water birds."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

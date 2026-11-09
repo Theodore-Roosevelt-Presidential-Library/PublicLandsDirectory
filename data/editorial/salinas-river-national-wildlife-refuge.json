@@ -2,26 +2,42 @@
   "slug": "salinas-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1972",
+      "date": "1973",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established in 1972 through local activism, the refuge provides not only critical habitat for threatened and endangered species...",
+      "indexText": "Established in 1973 on surplus military land transferred from the U.S. Army and Coast Guard; run as a state-managed wildlife management area until the Service took over refuge management in 1991.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Transfer of surplus federal property, 16 U.S.C. 667b"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Salinas River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/salinas-river/about-us"
+        },
+        {
+          "name": "Salinas River NWR Comprehensive Conservation Plan (FWS, 2002, archived): established in 1973 on surplus military land transferred from the Army and Coast Guard, under 16 U.S.C. 667b",
+          "url": "https://webarchive.library.unt.edu/web/20090510100859/http:/library.fws.gov/CCPS/salinasriver_final03.pdf"
+        },
+        {
+          "name": "FWS Salinas River NWR brochure, 2008 (NPS History copy): \"Established in 1973\"",
+          "url": "https://www.npshistory.com/brochures/nwr/salinas-river-2008.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "About-us page says 1972; the refuge CCP and brochure both say 1973.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1972 through local activism, the refuge provides not only critical habitat for threatened and endangered species..."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

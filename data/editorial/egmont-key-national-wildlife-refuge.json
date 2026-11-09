@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "The refuge was established in 1974 to protect the significant natural, historical, and cultural resources from the impending threats of development.",
+      "indexText": "Egmont Key National Wildlife Refuge was established to protect the island's natural, historical and cultural resources.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Administrative establishment by the U.S. Fish and Wildlife Service"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Egmont Key National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/egmont-key/about-us"
+        },
+        {
+          "name": "USFWS, Tampa Bay Refuges: Egmont Key, Pinellas, and Passage Key National Wildlife Refuges: Comprehensive Conservation Plan (ServCat 20316): \"In 1974, the 392-acre refuge was established to protect the Key's significant natural, historical, and cultural resources\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/18978"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1974 (CCP). Authority not confirmed.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1974 to protect the significant natural, historical, and cultural resources from the impending threats of development."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,42 @@
   "slug": "pond-creek-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1980",
+      "date": "1994",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Overflow National Wildlife Refuge Located in southeast Arkansas in Ashley County, Overflow National Wildlife Refuge was established in 1980 to protect one of the last remaining bottomland hardwood forests considered vital for maintaining mallard, wood duck, and other waterfowl populations in the Mississippi Flyway.",
+      "name": "Cossatot National Wildlife Refuge",
+      "indexText": "Established in 1994 under the Emergency Wetlands Resources Act as Cossatot National Wildlife Refuge; renamed in 1997.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Emergency Wetlands Resources Act of 1986"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Pond Creek National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/pond-creek/about-us"
+        },
+        {
+          "name": "Encyclopedia of Arkansas: Pond Creek National Wildlife Refuge (established 1994 under the Emergency Wetlands Resources Act as Cossatot NWR; renamed 1997)",
+          "url": "https://encyclopediaofarkansas.net/entries/pond-creek-national-wildlife-refuge-2467/"
+        },
+        {
+          "name": "FWS, Pond Creek NWR Public Use Regulations 2026-2027 (\"established in 1994\")",
+          "url": "https://www.fws.gov/sites/default/files/documents/2026-07/pond-creek-hunt-2026_virtual.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft sentence was about Overflow NWR (1980). Pond Creek dates to 1994.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Overflow National Wildlife Refuge Located in southeast Arkansas in Ashley County, Overflow National Wildlife Refuge was established in 1980 to protect one of the last remaining bottomland hardwood forests considered vital for maintaining mallard, wood duck, and other waterfowl populations in the Mississippi Flyway."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

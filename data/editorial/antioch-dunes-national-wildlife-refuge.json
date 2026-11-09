@@ -6,22 +6,38 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "the Refuge was established in 1980.",
+      "indexText": "The U.S. Fish and Wildlife Service established Antioch Dunes National Wildlife Refuge under the Endangered Species Act to protect endangered plants and insects.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Endangered Species Act of 1973 (16 U.S.C. 1534); land acquisition by the U.S. Fish and Wildlife Service"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Antioch Dunes National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/antioch-dunes/about-us"
+        },
+        {
+          "name": "USFWS, Antioch Dunes NWR Comprehensive Conservation Plan (Aug. 2002), ServCat 1375: refuge established 1980 under the Endangered Species Act of 1973",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/205117"
+        },
+        {
+          "name": "Federal Register, Sept. 4, 2002: Availability of Final CCP for Antioch Dunes NWR (\"Created in 1980\")",
+          "url": "https://www.federalregister.gov/documents/2002/09/04/02-22433/availability-of-final-comprehensive-conservation-plan-and-summary-for-antioch-dunes-national"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Established 1980 by land acquisition under the ESA; first refuge for endangered plants and insects. Exact date not found.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "the Refuge was established in 1980."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

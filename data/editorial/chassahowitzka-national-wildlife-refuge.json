@@ -20,7 +20,13 @@
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": false,
+      "review": {
+        "verdict": "unresolved",
+        "note": "Sources disagree: the Crystal River/Chassahowitzka CCP says the refuge \"was established on December 29, 1941, with the acquisition of 2,742 acres\" and elsewhere \"in 1943.\" Settle from the MBCC record or FWS 1941-43 news releases.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      }
     }
   ],
   "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"

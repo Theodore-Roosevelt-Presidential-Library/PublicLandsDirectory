@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Felsenthal NWR was established in 1975 as mitigation for the creation of the U.S.",
+      "indexText": "Felsenthal National Wildlife Refuge was established as mitigation for the Army Corps of Engineers' Ouachita-Black Rivers navigation project.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Mitigation for the U.S. Army Corps of Engineers Ouachita-Black Rivers Navigation Project"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Felsenthal National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/felsenthal/about-us"
+        },
+        {
+          "name": "USFWS, 508 Compliant Felsenthal and Overflow National Wildlife Refuges Comprehensive Conservation Plan (ServCat 168039): \"Felsenthal National Wildlife Refuge Established in 1975 as mitigation for the creation of the U.S. Corps of Engineers' Ouachita-Black Rivers Navigation Project\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253127"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "1975 (CCP).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Felsenthal NWR was established in 1975 as mitigation for the creation of the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "Wetland Management District",
       "name": null,
-      "indexText": "It was established in 1963 when the Service began acquiring critical migratory waterfowl habitat in southeastern Nebraska.",
+      "indexText": "Established in 1963 when the U.S. Fish and Wildlife Service began acquiring waterfowl production areas in the Rainwater Basin of south-central Nebraska.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Hunting and Conservation Stamp Act (Small Wetlands Acquisition Program)"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Rainwater Basin Wetland Management District, About Us",
           "url": "https://www.fws.gov/refuge/rainwater-basin-wetland-management-district/about-us"
+        },
+        {
+          "name": "Federal Register, July 18, 2007 (E7-13887): \"Rainwater Basin WMD was established in 1963 when the Service began acquiring\" waterfowl habitat",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2007-07-18/pdf/E7-13887.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. Wetland management district built from waterfowl production area purchases.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "It was established in 1963 when the Service began acquiring critical migratory waterfowl habitat in southeastern Nebraska."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

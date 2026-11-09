@@ -5,23 +5,35 @@
       "date": "1992",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "The refuge was established in 1992 as a result of a long-term cooperative effort between the states of Maine and New Hampshire, conservation organizations, timber companies, and the U.S.",
+      "name": "Lake Umbagog National Wildlife Refuge",
+      "indexText": "Established in 1992 with the first federal land purchase at Lake Umbagog, after a cooperative effort by Maine, New Hampshire, conservation groups and timber companies.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Land acquisition"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Umbagog National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/umbagog/about-us"
+        },
+        {
+          "name": "Federal Register, Dec. 3, 2008 (E8-28649), Lake Umbagog NWR CCP: \"Our first purchase of land for the refuge established it in 1992\"",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2008-12-03/pdf/E8-28649.pdf"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. The refuge was called Lake Umbagog NWR until renamed Umbagog NWR in 2009 (FWS story, Mar. 2009).",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "The refuge was established in 1992 as a result of a long-term cooperative effort between the states of Maine and New Hampshire, conservation organizations, timber companies, and the U.S."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

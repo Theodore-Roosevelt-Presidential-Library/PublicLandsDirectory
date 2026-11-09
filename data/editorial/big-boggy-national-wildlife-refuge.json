@@ -2,26 +2,38 @@
   "slug": "big-boggy-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1983",
+      "date": "1983-07-08",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Big Boggy National Wildlife Refuge About Us What We Do Law Enforcement Laws & Regulations Contact Us Visit Us Activities Get Involved News Species Map About Us Established in 1983, Big Boggy National Wildlife Refuge is primarily salt marsh salt marsh Salt marshes are found in tidal areas near the coast, where freshwater mixes with saltwater.",
+      "indexText": "Big Boggy National Wildlife Refuge was established with the U.S. Fish and Wildlife Service's first purchase of coastal marsh in Matagorda County, Texas.",
       "authority": {
-        "type": "unspecified",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Land acquisition by the U.S. Fish and Wildlife Service"
       },
       "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Big Boggy National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/big-boggy/about-us"
+        },
+        {
+          "name": "USFWS, Land Protection Plan and Environmental Assessment - Big Boggy National Wildlife Refuge (ServCat 165844): \"The refuge was established on July 8, 1983 with the initial acquisition of 1,271.15 acres\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/248891"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "July 8, 1983 (Texas Mid-Coast complex plan).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Big Boggy National Wildlife Refuge About Us What We Do Law Enforcement Laws & Regulations Contact Us Visit Us Activities Get Involved News Species Map About Us Established in 1983, Big Boggy National Wildlife Refuge is primarily salt marsh salt marsh Salt marshes are found in tidal areas near the coast, where freshwater mixes with saltwater."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

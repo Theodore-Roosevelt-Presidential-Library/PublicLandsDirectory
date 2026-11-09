@@ -2,26 +2,39 @@
   "slug": "bayou-cocodrie-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1992",
+      "date": "1990-11-16",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Bayou Cocodrie National Wildlife Refuge, established in 1992, is located in Concordia Parish in east central Louisiana.",
+      "indexText": "Congress established Bayou Cocodrie National Wildlife Refuge to protect bottomland hardwood forest.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "George H. W. Bush",
+        "citation": "Public Law 101-593, sec. 108",
+        "signedBy": "George H. W. Bush"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Bayou Cocodrie National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/bayou-cocodrie/about-us"
+        },
+        {
+          "name": "USFWS, 508 Bayou Cocodrie National Wildlife Refuge Comprehensive Conservation Plan (ServCat 168176): \"Congress authorized the establishment of Bayou Cocodrie National Wildlife Refuge on November 16, 1990, through Public Law 101-593\"; \"When Congress established the refuge in 1990\"",
+          "url": "https://iris.fws.gov/APPS/ServCat/DownloadFile/253367"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "Draft 1992 is wrong; CCP gives Nov. 16, 1990, P.L. 101-593 (signed by George H. W. Bush).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Bayou Cocodrie National Wildlife Refuge, established in 1992, is located in Concordia Parish in east central Louisiana."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

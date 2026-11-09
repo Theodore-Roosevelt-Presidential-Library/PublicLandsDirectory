@@ -2,26 +2,39 @@
   "slug": "chautauqua-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1936",
+      "date": "1936-12-23",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Chautauqua National Wildlife Refuge was established in 1936 for the main purpose of providing sanctuary for the millions of birds that migrate along the Illinois River.",
+      "name": "Chautauqua Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the Chautauqua Migratory Waterfowl Refuge by Executive Order 7524; it is now Chautauqua National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7524",
+        "signedBy": "Franklin D. Roosevelt"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Chautauqua National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/chautauqua/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7524—Establishing Chautauqua Migratory Waterfowl Refuge in the State of Illinois (Dec 23, 1936)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7524-establishing-chautauqua-migratory-waterfowl-refuge-the-state-illinois"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 7524, 1936-12-23 (Franklin D. Roosevelt).",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Chautauqua National Wildlife Refuge was established in 1936 for the main purpose of providing sanctuary for the millions of birds that migrate along the Illinois River."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -2,26 +2,51 @@
   "slug": "yukon-delta-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1980",
+      "date": "1980-12-02",
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Yukon Delta National Wildlife Refuge was established in 1980 to protect the wildlife and diverse habitats nestled on the delta between the mighty Yukon and Kuskokwim rivers of Alaska.",
+      "indexText": "Congress established Yukon Delta National Wildlife Refuge in the Alaska National Interest Lands Conservation Act, signed by President Jimmy Carter on December 2, 1980, combining the Clarence Rhode, Hazen Bay and Nunivak refuges.",
       "authority": {
-        "type": "unspecified",
-        "administration": null,
-        "citation": null
+        "type": "act-of-congress",
+        "administration": "Jimmy Carter",
+        "citation": "Public Law 96-487, 94 Stat. 2371",
+        "signedBy": "Jimmy Carter"
       },
-      "note": "The refuge page gives only the month or year. The refuge page does not say how it was established.",
+      "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Yukon Delta National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/yukon-delta/about-us"
+        },
+        {
+          "name": "Public Law 96-487 (Alaska National Interest Lands Conservation Act), Dec. 2, 1980, 94 Stat. 2371 (govinfo)",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2371.pdf"
+        },
+        {
+          "name": "FWS Alaska Region, Status of Federal Reserved Water Rights for Alaska Wildlife Refuges (ARLIS copy): land-status history of each Alaska refuge",
+          "url": "https://www.arlis.org/docs/vol1/L/AlaskaWaterRights/Day3/G-Agency-break-out-sessions/USFWS/FWS-reserved-rights/1-FRWR-AK-Wildlife-Refuges.pdf"
+        },
+        {
+          "name": "Wikisource: Executive Order 1041, Feb. 27, 1909, Establishing Yukon Delta Reservation (revoked by EO 3642, 1922)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1041"
+        },
+        {
+          "name": "T. S. Palmer, National Reservations for the Protection of Wild Life, USDA Biological Survey Circular 87 (1912), table of bird reservations",
+          "url": "https://archive.org/details/CAT31414456"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed; exact date and statute added. Predecessors: Nunivak Island Reservation (1929), Hazen Bay (1937), Kuskokwim/Clarence Rhode range (1960-61). Separately, Theodore Roosevelt created a Yukon Delta Reservation by EO 1041 on Feb. 27, 1909, revoked in 1922; it is not a continuous predecessor but is worth a note on the page.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Yukon Delta National Wildlife Refuge was established in 1980 to protect the wildlife and diverse habitats nestled on the delta between the mighty Yukon and Kuskokwim rivers of Alaska."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

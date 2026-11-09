@@ -2,27 +2,39 @@
   "slug": "dale-bumpers-white-river-national-wildlife-refuge",
   "designationHistory": [
     {
-      "date": "1935-09-05",
+      "date": "1935-09-04",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Dale Bumpers White River National Wildlife Refuge was established on September 5, 1935 by President Franklin D.",
+      "name": "White River Migratory Waterfowl Refuge",
+      "indexText": "President Franklin D. Roosevelt established the White River Migratory Waterfowl Refuge by Executive Order 7173; it is now Dale Bumpers White River National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
-        "administration": "President Franklin",
-        "citation": null,
-        "signedBy": "President Franklin"
+        "type": "executive-order",
+        "administration": "Franklin D. Roosevelt",
+        "citation": "Executive Order 7173",
+        "signedBy": "Franklin D. Roosevelt"
       },
       "note": null,
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Dale Bumpers White River National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/dale-bumpers-white-river/about-us"
+        },
+        {
+          "name": "American Presidency Project: Executive Order 7173—Establishing White River Migratory Waterfowl Refuge (Sep 04, 1935)",
+          "url": "https://www.presidency.ucsb.edu/documents/executive-order-7173-establishing-white-river-migratory-waterfowl-refuge"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "corrected",
+        "note": "EO 7173, 1935-09-04 (Franklin D. Roosevelt). Draft gives Sept. 5, 1935; the order is dated Sept. 4, 1935.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Dale Bumpers White River National Wildlife Refuge was established on September 5, 1935 by President Franklin D."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

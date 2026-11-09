@@ -14,6 +14,11 @@ export const PRESIDENTS = [
 ];
 const EARLIER = [['1789-04-30', 'George Washington'], ['1797-03-04', 'John Adams'], ['1801-03-04', 'Thomas Jefferson'], ['1809-03-04', 'James Madison'], ['1817-03-04', 'James Monroe'], ['1825-03-04', 'John Quincy Adams'], ['1829-03-04', 'Andrew Jackson'], ['1837-03-04', 'Martin Van Buren'], ['1841-03-04', 'William Henry Harrison'], ['1841-04-04', 'John Tyler'], ['1845-03-04', 'James K. Polk'], ['1849-03-05', 'Zachary Taylor'], ['1850-07-09', 'Millard Fillmore'], ['1853-03-04', 'Franklin Pierce'], ['1857-03-04', 'James Buchanan'], ['1861-03-04', 'Abraham Lincoln'], ['1865-04-15', 'Andrew Johnson']];
 const ALL = [...EARLIER, ...PRESIDENTS];
+// Other ways sources write the same names; normalize to the list's form.
+export const PRESIDENT_ALIASES = { 'William J. Clinton': 'Bill Clinton', 'William Jefferson Clinton': 'Bill Clinton', 'Gerald Ford': 'Gerald R. Ford', 'Richard M. Nixon': 'Richard Nixon', 'Donald Trump': 'Donald J. Trump', 'Joe Biden': 'Joseph R. Biden Jr.', 'Joseph R. Biden': 'Joseph R. Biden Jr.', 'Franklin Roosevelt': 'Franklin D. Roosevelt', 'Franklin Delano Roosevelt': 'Franklin D. Roosevelt', 'FDR': 'Franklin D. Roosevelt', 'Harry Truman': 'Harry S. Truman', 'Dwight Eisenhower': 'Dwight D. Eisenhower', 'Lyndon Johnson': 'Lyndon B. Johnson', 'George Bush': 'George H. W. Bush', 'George H.W. Bush': 'George H. W. Bush', 'Ronald W. Reagan': 'Ronald Reagan', 'James E. Carter': 'Jimmy Carter', 'Jimmy Carter Jr.': 'Jimmy Carter', 'William H. Taft': 'William Howard Taft', 'Thomas Woodrow Wilson': 'Woodrow Wilson', 'T. Roosevelt': 'Theodore Roosevelt', 'President Roosevelt': null, 'President Clinton': 'Bill Clinton', 'President Franklin': 'Franklin D. Roosevelt' };
+export const PRESIDENT_NAMES = new Set(ALL.map(([, n]) => n));
+/** The list's form of a President's name, or null if the text is not a President. */
+export const presidentName = (t) => (t == null ? null : PRESIDENT_NAMES.has(t) ? t : (PRESIDENT_ALIASES[t] ?? null));
 
 // Returns { name, ambiguous } for an ISO date.
 export function presidentOn(iso) {

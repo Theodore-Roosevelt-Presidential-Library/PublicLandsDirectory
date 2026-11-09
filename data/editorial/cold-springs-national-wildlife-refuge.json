@@ -5,12 +5,12 @@
       "date": "1909-02-25",
       "action": "established",
       "designation": "National Wildlife Refuge",
-      "name": null,
-      "indexText": "Cold Springs National Wildlife Refuge was one of the first refuges established in the West, created by President Theodore Roosevelt on February 25, 1909.",
+      "name": "Cold Springs Reservation",
+      "indexText": "President Theodore Roosevelt established the Cold Springs Reservation by Executive Order 1032; it is now Cold Springs National Wildlife Refuge.",
       "authority": {
-        "type": "unspecified",
+        "type": "executive-order",
         "administration": "Theodore Roosevelt",
-        "citation": null,
+        "citation": "Executive Order 1032",
         "signedBy": "Theodore Roosevelt"
       },
       "note": null,
@@ -18,11 +18,27 @@
         {
           "name": "U.S. Fish and Wildlife Service: Cold Springs National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/cold-springs/about-us"
+        },
+        {
+          "name": "Wikisource transcription of Executive Order 1032 (Feb. 25, 1909): Establishing Seventeen Reservations as Preserves and Breeding Grounds for Native Birds (includes Cold Springs, Oregon)",
+          "url": "https://en.wikisource.org/wiki/Executive_Order_1032"
+        },
+        {
+          "name": "Theodore Roosevelt, A Book-Lover's Holidays in the Open (1916), Appendix B: list of bird reservations created by executive order, with dates",
+          "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/text/appendix-b"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "EO 1032, 1909-02-25 (Theodore Roosevelt). One of 17 reclamation-reservoir bird reservations in EO 1032.",
+        "by": "HistorianPanel accuracy review, batch 4a (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Cold Springs National Wildlife Refuge was one of the first refuges established in the West, created by President Theodore Roosevelt on February 25, 1909."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }

@@ -6,22 +6,34 @@
       "action": "established",
       "designation": "National Wildlife Refuge",
       "name": null,
-      "indexText": "Established in 1961 under the authority of the Migratory Bird Conservation Act for use an inviolate sanctuary, or for any other management purpose, for migratory birds, the refuge manages about 8,100 acres of wetland, grassland and wooded habitat.",
+      "indexText": "Established in 1961 under the Migratory Bird Conservation Act, after the Migratory Bird Conservation Commission approved the refuge on March 15, 1961.",
       "authority": {
-        "type": "act-of-congress",
+        "type": "administrative",
         "administration": null,
-        "citation": null
+        "citation": "Migratory Bird Conservation Act; Migratory Bird Conservation Commission approval, Mar. 15, 1961"
       },
       "note": "The refuge page gives only the month or year.",
       "sources": [
         {
           "name": "U.S. Fish and Wildlife Service: Ottawa National Wildlife Refuge, About Us",
           "url": "https://www.fws.gov/refuge/ottawa/about-us"
+        },
+        {
+          "name": "FWS news release, Mar. 16, 1961: Migratory Bird Conservation Commission approved the Ottawa National Wildlife Refuge on Mar. 15, 1961",
+          "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1961/19610316B.PDF"
         }
       ],
       "research": "fws-about",
-      "reviewed": false
+      "reviewed": true,
+      "review": {
+        "verdict": "confirmed",
+        "note": "Year confirmed. MBCC approved purchase of 4,915 acres as the Ottawa NWR, Ohio's first refuge, on Mar. 15, 1961.",
+        "by": "HistorianPanel accuracy review, batch 4c (refuges)",
+        "date": "2026-11-09"
+      },
+      "indexOriginal": "Established in 1961 under the authority of the Migratory Bird Conservation Act for use an inviolate sanctuary, or for any other management purpose, for migratory birds, the refuge manages about 8,100 acres of wetland, grassland and wooded habitat."
     }
   ],
-  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)"
+  "historySource": "Refuge About Us pages, fws.gov (draft, pending review)",
+  "status": "reviewed"
 }
