@@ -46,7 +46,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 </head><body>
 <header class="masthead"><div class="wrap">
   <a class="brand" href="/"><span class="brand-kicker">Theodore Roosevelt Presidential Library</span><span class="brand-title">Public Lands Directory</span></a>
-  <nav><a href="/">Directory</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav>
+  <nav><a href="/">Directory</a><a href="/roosevelt/">T.R.\u2019s public lands</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav>
 </div></header>
 <main>${body}</main>
 <footer class="foot"><div class="wrap">
@@ -64,6 +64,29 @@ function alertsHTML(slug) {
     ${a.text ? `<div class="alert-body">${paras(a.text)}${a.instruction ? `<p><strong>What to do:</strong> ${esc(a.instruction)}</p>` : ''}</div>` : ''}
     ${a.url ? `<p class="alert-link"><a href="${esc(a.url)}" rel="noopener">Read the full alert</a>${a.ends ? ` · Until ${esc(new Date(a.ends).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }))}` : ''}</p>` : ''}
   </details>`).join('');
+}
+
+// ---------- Roosevelt connections ----------
+const TR_TYPES = { protected: 'Protected by T.R.', 'executive-action': 'His proclamations and orders', visited: 'T.R. was here', lived: 'Where T.R. lived and worked', named: 'Named for T.R.', other: 'More connections' };
+function trHTML(s) {
+  const list = s.trConnections || [];
+  const parts = [];
+  if (s.trConnection?.summary) parts.push(paras(s.trConnection.summary) + pendingTag(s.trConnection.reviewed));
+  const groups = {};
+  for (const c of list) (groups[c.type] ||= []).push(c);
+  for (const [type, cs] of Object.entries(groups)) {
+    const items = cs.map((c) => {
+      const src = (c.sources || []).filter((x) => x.url).map((x) => `<a href="${esc(x.url)}">${esc(x.name || 'Source')}</a>`).join(' · ');
+      let line;
+      if (type === 'protected') line = `<strong>${fmtDate(c.date)}</strong>: as President, Theodore Roosevelt ${c.thenKind === 'national park' ? 'signed the act creating' : 'set aside'} ${esc(c.then)}${c.thenKind && !new RegExp(c.thenKind, 'i').test(c.then) ? ` (${esc(c.thenKind)})` : ''}.`;
+      else if (type === 'executive-action') line = `<strong>${fmtDate(c.date)}</strong>: ${esc(c.document)}, \u201c${esc(c.title)}.\u201d Today\u2019s site ${esc(c.relation)}.`;
+      else if (type === 'visited') line = c.days > 1 ? `<strong>${esc(c.place)}</strong>: ${c.days.toLocaleString('en-US')} days in Roosevelt\u2019s record, ${fmtDate(c.first)} to ${fmtDate(c.last)}.` : `<strong>${esc(c.place)}</strong>: ${fmtDate(c.first)}.`;
+      else line = `${c.date ? `<strong>${fmtDate(c.date)}</strong>: ` : ''}${esc(c.text)}`;
+      return `<li>${line}${c.note ? ` <span class="muted">${esc(c.note)}</span>` : ''}${pendingTag(c.reviewed !== false)}${src ? `<br><span class="src">${src}</span>` : ''}</li>`;
+    }).join('');
+    parts.push(`<h3>${TR_TYPES[type] || type}</h3><ul class="tr-list">${items}</ul>`);
+  }
+  return parts.join('');
 }
 
 // ---------- KML ----------
@@ -152,7 +175,7 @@ for (const s of sites) {
 <article class="site" data-slug="${s.slug}">
   <div class="hero${hero ? '' : ' hero-plain'}"${hero ? ` style="--hero:url('${esc(hero.url)}')" role="img" aria-label="${esc(hero.alt || hero.title || s.name)}"` : ''}>
     <div class="wrap hero-inner">
-      <p class="eyebrow">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.code).join(' / '))} · ${esc(s.states.join(', '))}</p>
+      <p class="eyebrow">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.code).join(' / '))} · ${esc(s.states.join(', '))}${s.trTypes?.length ? ` · <a class="tr-badge" href="#roosevelt">Roosevelt connection</a>` : ''}</p>
       <h1>${esc(s.name)}</h1>
       ${hero?.credit ? `<p class="credit">Photo: ${esc(hero.credit)}${hero.title ? `, ${esc(hero.title)}` : ''}</p>` : ''}
     </div>
@@ -163,7 +186,7 @@ for (const s of sites) {
       ${section('overview', 'Overview', s.summary ? paras(s.summary) + (s.summarySource ? `<p class="muted">From the ${esc(s.summarySource)}</p>` : '') : '')}
       ${section('special', 'What makes it special', g.special ? paras(g.special) + guidePending : '')}
       ${section('history', 'History', historyHTML)}
-      ${s.trConnection ? section('roosevelt', 'The Roosevelt connection', paras(s.trConnection.summary) + pendingTag(s.trConnection.reviewed)) : ''}
+      ${(s.trConnections?.length || s.trConnection) ? section('roosevelt', 'The Roosevelt connection', trHTML(s)) : ''}
       ${section('see-and-do', 'What to see and do', doHTML)}
       ${section('visit', 'Plan your visit', visit || `<p>Check the <a href="${esc(s.links.official || s.agency.url)}">${esc(s.agency.name)}</a> for current hours, fees and access.</p>`)}
       ${section('homelands', 'Whose lands these are', homelands)}
@@ -194,14 +217,14 @@ const index = sites.map((s) => ({
   y: s.established ? Number(s.established.date.slice(0, 4)) : null, fy: s.firstProtected ? Number(s.firstProtected.date.slice(0, 4)) : null,
   p: s.administrations, lat: s.location?.lat ?? null, lon: s.location?.lon ?? null,
   img: s.images[0]?.url || null, ac: s.acres?.value || null, al: (alerts.sites[s.slug] || []).length,
-  act: s.activities.slice(0, 40),
+  act: s.activities.slice(0, 40), tr: s.trTypes || [],
 }));
 await writeJSON(join(DIST, 'api', 'index.json'), { generated, categories: CATEGORIES, agencies: AGENCIES, sites: index }, false);
 await writeJSON(join(DIST, 'api', 'directory.json'), { generated, license: 'Public domain (U.S. government data) and CC BY 4.0 for Library-written guide text', sites }, false);
 await writeJSON(join(DIST, 'api', 'alerts.json'), alerts, false);
 const csvEsc = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
-const csv = [['slug', 'name', 'designation', 'category', 'managing_agencies', 'states', 'acres', 'acres_kind', 'latitude', 'longitude', 'first_protected', 'current_designation_since', 'established_by_authority', 'established_signed_by', 'history_reviewed', 'official_url', 'page_url']]
-  .concat(sites.map((s) => [s.slug, s.name, s.designation, s.category, s.managedBy.map((m) => m.code).join(';'), s.states.join(';'), s.acres?.value, s.acres?.kind, s.location?.lat, s.location?.lon, s.firstProtected?.date, s.established?.date, s.established?.authority?.type, s.established?.authority?.signedBy, s.established ? s.designationHistory.every((h) => h.reviewed) : '', s.links.official, `${SITE}/sites/${s.slug}/`]))
+const csv = [['slug', 'name', 'designation', 'category', 'managing_agencies', 'states', 'acres', 'acres_kind', 'latitude', 'longitude', 'first_protected', 'current_designation_since', 'established_by_authority', 'established_signed_by', 'history_reviewed', 'tr_connections', 'official_url', 'page_url']]
+  .concat(sites.map((s) => [s.slug, s.name, s.designation, s.category, s.managedBy.map((m) => m.code).join(';'), s.states.join(';'), s.acres?.value, s.acres?.kind, s.location?.lat, s.location?.lon, s.firstProtected?.date, s.established?.date, s.established?.authority?.type, s.established?.authority?.signedBy, s.established ? s.designationHistory.every((h) => h.reviewed) : '', (s.trTypes || []).join(';'), s.links.official, `${SITE}/sites/${s.slug}/`]))
   .map((r) => r.map(csvEsc).join(',')).join('\n');
 await writeText(join(DIST, 'api', 'directory.csv'), csv + '\n');
 
@@ -222,6 +245,7 @@ const home = `
     <label><span>Agency</span><select id="agency"><option value="">All agencies</option>${Object.values(AGENCIES).map((a) => `<option value="${a.code}">${esc(a.name)}</option>`).join('')}</select></label>
     <label><span>State</span><select id="state"><option value="">All states</option></select></label>
     <label><span>Administration</span><select id="admin"><option value="">Any</option></select></label>
+    <label><span>Roosevelt connection</span><select id="tr"><option value="">Any</option><option value="any">Any Roosevelt connection</option><option value="protected">Protected by T.R.</option><option value="executive-action">His proclamations and orders</option><option value="visited">T.R. was here</option></select></label>
     <label class="check"><input type="checkbox" id="alerts"> <span>Has alerts</span></label>
   </form>
   <div class="viewbar"><p id="count" aria-live="polite"></p><div class="toggle"><button type="button" data-view="list" aria-pressed="true">List</button><button type="button" data-view="map" aria-pressed="false">Map</button></div></div>
@@ -230,6 +254,43 @@ const home = `
   <button type="button" id="more" class="btn btn-ghost" hidden>Show more</button>
 </section>`;
 await writeText(join(DIST, 'index.html'), layout({ title: 'Public Lands Directory | Theodore Roosevelt Presidential Library', description: `A guide to ${sites.length} national parks, forests, grasslands, wildlife refuges, monuments and other federal public lands, with maps, history and live alerts.`, path: '/', body: home, head: `<link rel="stylesheet" href="${LEAFLET_CSS}"><script defer src="${LEAFLET_JS}"></script><script defer src="/assets/directory.js"></script>`, jsonld: { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Public Lands Directory', url: SITE, publisher: { '@type': 'Organization', name: 'Theodore Roosevelt Presidential Library', url: 'https://www.trlibrary.com' } } }));
+
+// ---------- T.R.'s public lands ----------
+{
+  const trSites = sites.filter((x) => x.trTypes?.length);
+  const groupHTML = (type, title, blurb) => {
+    const list = trSites.filter((x) => x.trTypes.includes(type));
+    if (!list.length) return '';
+    return `<section class="block"><h2>${title}</h2><p>${blurb}</p><ul class="tr-groups">${list.map((x) => {
+      const c = x.trConnections.filter((y) => y.type === type);
+      const when = type === 'visited' ? c.map((y) => y.first.slice(0, 4)).filter((v, i, a) => a.indexOf(v) === i).join(', ') : c.map((y) => (y.date || '').slice(0, 4)).filter(Boolean).sort()[0];
+      return `<li><a href="/sites/${x.slug}/#roosevelt">${esc(x.name)}</a> <span class="muted">${esc(x.states.join(', '))}${when ? ` · ${esc(when)}` : ''}</span></li>`;
+    }).join('')}</ul></section>`;
+  };
+  const pts = trSites.filter((x) => x.location).map((x) => ({ s: x.slug, n: x.name, lat: x.location.lat, lon: x.location.lon, t: x.trTypes }));
+  const body = `<section class="intro"><div class="wrap">
+  <h1>Theodore Roosevelt’s public lands</h1>
+  <p class="lede">Forests he proclaimed, birds he protected, canyons and cliff dwellings he set aside, and the places his own record shows he walked. Find T.R.’s mark on today’s public lands, site by site.</p>
+  </div></section>
+  <div class="wrap" style="padding-top:26px">
+  <div id="trmap" class="map map-big" data-points='${esc(JSON.stringify(pts))}'></div>
+  ${groupHTML('visited', 'T.R. was here', 'Places where Roosevelt’s own record, compiled in <a href="https://daybyday.labs.trlibrary.com">Theodore Roosevelt Day by Day</a>, puts him on the ground.')}
+  ${groupHTML('protected', 'Protected by T.R.', 'Parks, monuments, forest reserves, bird reservations and game preserves he created as President, from <a href="https://publiclands.labs.trlibrary.com">Roosevelt’s Public Lands</a>. Many have new names today.')}
+  ${groupHTML('executive-action', 'His proclamations and orders', 'Places that trace to one of his proclamations or executive orders, from <a href="https://executiveactions.labs.trlibrary.com/then-and-now.html">Theodore Roosevelt’s Executive Orders and Proclamations</a>.')}
+  ${groupHTML('lived', 'Where T.R. lived and worked', '')}
+  </div>
+  <script>
+  (function init(){ if(!window.L) return setTimeout(init,100);
+    const el=document.getElementById('trmap'), pts=JSON.parse(el.dataset.points);
+    const map=L.map(el,{preferCanvas:true}).setView([39.5,-98.5],4);
+    L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'}).addTo(map);
+    const col=(t)=>t.includes('visited')?'#E7805D':t.includes('protected')?'#1B4532':'#87BB41';
+    pts.forEach(p=>L.circleMarker([p.lat,p.lon],{radius:6,weight:1,color:'#fff',fillColor:col(p.t),fillOpacity:.95}).bindPopup('<a href="/sites/'+p.s+'/#roosevelt"><strong>'+p.n.replace(/</g,'&lt;')+'</strong></a>').addTo(map));
+    const lg=L.control({position:'bottomright'});lg.onAdd=()=>{const d=L.DomUtil.create('div');d.style.cssText='background:#fff;padding:6px 9px;font:12px Arial;border-radius:4px';d.innerHTML='<span style="color:#E7805D">●</span> T.R. was here<br><span style="color:#1B4532">●</span> Protected by T.R.<br><span style="color:#87BB41">●</span> His proclamations and orders';return d};lg.addTo(map);
+  })();
+  </script>`;
+  await writeText(join(DIST, 'roosevelt', 'index.html'), layout({ title: 'Theodore Roosevelt’s public lands | Public Lands Directory', description: 'Public lands Theodore Roosevelt protected as President, places that trace to his proclamations and orders, and places his own record shows he visited.', path: '/roosevelt/', body, head: `<link rel="stylesheet" href="${LEAFLET_CSS}"><script defer src="${LEAFLET_JS}"></script>` }));
+}
 
 // ---------- about + api docs ----------
 const about = `<div class="wrap prose">
@@ -273,7 +334,7 @@ await writeText(join(DIST, 'api', 'index.html'), layout({ title: 'Open data | Pu
 
 await writeText(join(DIST, '404.html'), layout({ title: 'Not found | Public Lands Directory', description: 'Page not found', path: '/404.html', body: '<div class="wrap prose"><h1>Trail ends here</h1><p>That page does not exist. <a href="/">Back to the directory</a>.</p></div>' }));
 await writeText(join(DIST, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
-await writeText(join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['/', '/about/', '/api/', '/embed/', ...sites.map((s) => `/sites/${s.slug}/`)].map((p) => `<url><loc>${SITE}${p}</loc></url>`).join('\n')}\n</urlset>\n`);
+await writeText(join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['/', '/roosevelt/', '/about/', '/api/', '/embed/', ...sites.map((s) => `/sites/${s.slug}/`)].map((p) => `<url><loc>${SITE}${p}</loc></url>`).join('\n')}\n</urlset>\n`);
 await writeText(join(DIST, 'llms.txt'), `# Public Lands Directory\n\n> A guide to ${sites.length} U.S. federal public lands (national parks, forests, grasslands, wildlife refuges, monuments and more) from the Theodore Roosevelt Presidential Library. Facts sync nightly from NPS, USFWS, USFS and BLM; alerts hourly from NPS, NWS and NIFC.\n\n- [All sites as JSON](${SITE}/api/directory.json)\n- [Current alerts](${SITE}/api/alerts.json)\n- [About the data](${SITE}/about/)\n`);
 
 console.log(`Built ${sites.length} site pages into dist/`);

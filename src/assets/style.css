@@ -118,3 +118,12 @@ h3 { font-size: 1.3rem; margin: 1.2em 0 .4em; }
 .prose table { border-collapse: collapse; width: 100%; font: .92rem/1.45 var(--ui); }
 .prose td, .prose th { border-bottom: 1px solid #e3dfd3; padding: 8px; text-align: left; vertical-align: top; }
 .leaflet-popup-content { font: .9rem/1.4 var(--ui); }
+
+.results .badge.tr { left: auto; right: 8px; top: auto; bottom: 8px; background: var(--forest); border: 1px solid var(--bright-forest); }
+.tr-badge { color: var(--bright-forest); text-decoration: none; border-bottom: 1px dotted; }
+.tr-list { padding-left: 18px; font-family: var(--ui); font-size: .95rem; }
+.tr-list li { margin-bottom: 10px; }
+.tr-list .src { font-size: .8rem; }
+#roosevelt { border-left: 4px solid var(--forest); padding-left: 16px; }
+.tr-groups { columns: 2 320px; column-gap: 32px; font-family: var(--ui); }
+.tr-groups li { break-inside: avoid; margin-bottom: 6px; }

@@ -43,3 +43,17 @@ export function geomsIntersect(a, b) {
   if (!bboxOverlap(bboxOfCoords(a.coordinates), bboxOfCoords(b.coordinates))) return false;
   return sampleVertices(a, 80).some((p) => pointInGeom(p, b)) || sampleVertices(b, 80).some((p) => pointInGeom(p, a));
 }
+
+// Shortest distance (km) from a point to any boundary edge (equirectangular approximation, fine at this scale).
+export function distanceToGeomKm(p, geom) {
+  const kx = Math.cos((p[1] * Math.PI) / 180) * 111.32, ky = 110.57;
+  let m = Infinity;
+  const polys = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+  for (const poly of polys) for (const r of poly) for (let i = 1; i < r.length; i++) {
+    const ax = (r[i - 1][0] - p[0]) * kx, ay = (r[i - 1][1] - p[1]) * ky, bx = (r[i][0] - p[0]) * kx, by = (r[i][1] - p[1]) * ky;
+    const dx = bx - ax, dy = by - ay;
+    const t = Math.max(0, Math.min(1, -(ax * dx + ay * dy) / (dx * dx + dy * dy || 1)));
+    m = Math.min(m, Math.hypot(ax + t * dx, ay + t * dy));
+  }
+  return m;
+}

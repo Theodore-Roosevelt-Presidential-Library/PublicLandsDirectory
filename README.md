@@ -11,6 +11,7 @@ Each site has:
 - Live alerts: park closures and notices (NPS), weather watches and warnings (NWS) and wildfire perimeters (NIFC), refreshed hourly
 - A boundary map with GeoJSON and KML downloads
 - Links to the official site, Recreation.gov, AllTrails and directions
+- The Roosevelt connection, where there is one: places T.R. protected as President, places that trace to his proclamations and orders, and places his own record shows he visited, with a landing page at `/roosevelt/`
 - Embeds anyone can paste into their own site, plus open JSON, CSV and GeoJSON data
 
 ## How it stays current
@@ -37,6 +38,7 @@ Generated data is not committed. It is rebuilt from the agencies on every full r
 | Weather alerts | api.weather.gov |
 | Wildfire perimeters | NIFC WFIGS current interagency perimeters |
 | State lines | Census TIGERweb |
+| Roosevelt connections | The Library's own datasets: [Roosevelt's Public Lands](https://publiclands.labs.trlibrary.com), [Executive Orders and Proclamations](https://executiveactions.labs.trlibrary.com) (Then and now), [Day by Day](https://daybyday.labs.trlibrary.com) (each day's recorded location, matched to site boundaries) |
 
 ## Run it locally
 

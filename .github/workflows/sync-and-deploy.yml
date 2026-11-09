@@ -62,6 +62,8 @@ jobs:
           node scripts/sync-nps.mjs
           node scripts/sync-lands.mjs
           node scripts/merge.mjs
+          node scripts/sync-tr.mjs
+          node scripts/merge.mjs
 
       - name: Re-merge editorial changes
         if: steps.mode.outputs.full != 'true'
@@ -80,13 +82,13 @@ jobs:
       - name: Live alerts
         run: node scripts/sync-alerts.mjs
 
-      - name: Keep the weather-zone cache
+      - name: Keep reference caches
         run: |
-          if ! git diff --quiet -- data/reference; then
+          if [ -n "$(git status --porcelain -- data/reference)" ]; then
             git config user.name "public-lands-bot"
             git config user.email "actions@users.noreply.github.com"
             git add data/reference
-            git commit -m "Update NWS zone cache [skip ci]"
+            git commit -m "Update reference caches (NWS zones, T.R. connections) [skip ci]"
             git push || echo "push skipped"
           fi
 

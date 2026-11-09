@@ -10,7 +10,7 @@
 .builder input,.builder select{font:1rem var(--ui);padding:8px;border:1px solid #b9b3a2;border-radius:6px;width:100%}
 textarea{width:100%;font:.82rem/1.4 ui-monospace,Menlo,monospace;padding:10px;border-radius:6px;border:1px solid #ccc}</style>
 </head><body>
-<header class="masthead"><div class="wrap"><a class="brand" href="/"><span class="brand-kicker">Theodore Roosevelt Presidential Library</span><span class="brand-title">Public Lands Directory</span></a><nav><a href="/">Directory</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav></div></header>
+<header class="masthead"><div class="wrap"><a class="brand" href="/"><span class="brand-kicker">Theodore Roosevelt Presidential Library</span><span class="brand-title">Public Lands Directory</span></a><nav><a href="/">Directory</a><a href="/roosevelt/">T.R.’s public lands</a><a href="/embed/">Embed</a><a href="/about/">About the data</a></nav></div></header>
 <main class="wrap prose" style="max-width:1180px">
 <h1>Embed a public land</h1>
 <p>Add a live card for any site to your own web page. Cards update on their own: when the managing agency posts a closure or the National Weather Service issues a warning, your page shows it within the hour. Free for anyone to use.</p>
@@ -18,7 +18,7 @@ textarea{width:100%;font:.82rem/1.4 ui-monospace,Menlo,monospace;padding:10px;bo
   <div>
     <label for="site">Site</label><input id="site" list="sites" value="theodore-roosevelt-national-park" autocomplete="off"><datalist id="sites"></datalist>
     <label for="view">What to show</label>
-    <select id="view"><option value="card">Card: photo, summary, key facts, alerts</option><option value="compact">Compact: key facts and alert count</option><option value="alerts">Alerts only</option><option value="history">Designation history</option><option value="map">Boundary map</option></select>
+    <select id="view"><option value="card">Card: photo, summary, key facts, alerts</option><option value="compact">Compact: key facts and alert count</option><option value="alerts">Alerts only</option><option value="history">Designation history</option><option value="roosevelt">Roosevelt connection</option><option value="map">Boundary map</option></select>
     <label for="theme">Style</label><select id="theme"><option value="light">Light</option><option value="dark">Dark</option></select>
     <label for="code">Code to paste</label><textarea id="code" rows="4" readonly></textarea>
     <p><button class="btn" id="copy" type="button">Copy code</button></p>

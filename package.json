@@ -5,7 +5,8 @@
   "description": "Directory of U.S. federal public lands — directory.labs.trlibrary.com",
   "engines": { "node": ">=20" },
   "scripts": {
-    "sync": "node scripts/sync-nps.mjs && node scripts/sync-lands.mjs && node scripts/merge.mjs",
+    "sync": "node scripts/sync-nps.mjs && node scripts/sync-lands.mjs && node scripts/merge.mjs && node scripts/sync-tr.mjs && node scripts/merge.mjs",
+    "tr": "node scripts/sync-tr.mjs && node scripts/merge.mjs",
     "alerts": "node scripts/sync-alerts.mjs",
     "merge": "node scripts/merge.mjs",
     "build": "node scripts/build.mjs",

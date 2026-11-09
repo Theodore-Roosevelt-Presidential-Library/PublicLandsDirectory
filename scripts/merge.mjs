@@ -63,12 +63,13 @@ for (const r of sources) {
 
 // ---- editorial (hand-maintained, reviewed) ----
 const editorial = new Map();
-for (const f of await listJSON(join(DATA, 'editorial'))) {
+for (const f of (await listJSON(join(DATA, 'editorial'))).filter((f) => !f.split('/').pop().startsWith('_'))) {
   const e = await readJSON(f);
   editorial.set(e.id || e.slug, e);
 }
 
 const live = await readJSON(join(DATA, 'live', 'alerts.json'), { sites: {} });
+const trAuto = (await readJSON(join(DATA, 'reference', 'tr-connections.json'), { sites: {} })).sites;
 const slugs = new Set();
 const directory = [];
 
@@ -130,6 +131,8 @@ for (const recs of groups.values()) {
       summarySource: ed.summary ? null : rec.description ? AGENCIES[rec.agency].name : null,
       guide: ed.guide || {},
       trConnection: ed.trConnection || null,
+      trConnections: [...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))],
+      trTypes: [...new Set([...(trAuto[slug] || []), ...((raw.trConnections || []).filter((c) => SHOW_UNREVIEWED || c.reviewed))].map((c) => c.type))],
       links: {
         official: ed.links?.official || rec.url || null,
         social: ed.links?.social || {},

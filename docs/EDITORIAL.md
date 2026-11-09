@@ -73,3 +73,25 @@ The site shows the **first** entry as "First protected" and the **latest** `esta
 ## Seeded entries (2026-11-08)
 
 Ten files were seeded from staff knowledge to show the format: Yellowstone, Theodore Roosevelt, Grand Canyon, Yosemite, Mesa Verde, Crater Lake, Wind Cave, Devils Tower, Muir Woods and Pelican Island. All are unreviewed and have no citations yet.
+
+## Roosevelt connections
+
+`scripts/sync-tr.mjs` builds `data/reference/tr-connections.json` from three Library datasets. It runs nightly, and changes are committed so they show up in the git history.
+
+| Type | Source | Rule |
+|---|---|---|
+| `protected` | Roosevelt's Public Lands (`publiclands.labs`) | Places he created as President; matched by today's name |
+| `executive-action` | Executive Actions "Then and now" | Present-day place traced to a proclamation or order, with the relationship |
+| `visited` | Day by Day, `days.jsonl` | Only each day's **recorded location** from headings, the index or arrivals. World-event days (`entry`) and carried-forward days are excluded. Only precisely geocoded buildings, parks, mountains, camps, ranches, battlefields, residences and institutions count, and they must fall inside the site boundary |
+| `lived`, `named`, `other` | Written here | Add to `trConnections` in the site's editorial file, with sources and `reviewed` |
+
+- Town, city, region and approximate matches go to `data/reference/tr-visit-candidates.json` for review and are never published. To accept one, add the Day by Day place id to `data/editorial/_tr-place-links.json` (place id → site slug). The same file fixes small sites whose geocoded point lands just outside the boundary (Sagamore Hill, the White House, Elkhorn Ranch, the Birthplace).
+- Notes that quote T.R. are dropped automatically. Quotations publish only after verification against the TR Quotes tiers.
+
+Hand-written connection example:
+
+```json
+"trConnections": [
+  { "type": "named", "date": "YYYY-MM-DD", "text": "Renamed for Theodore Roosevelt by …", "sources": [{ "name": "…", "url": "…" }], "reviewed": false }
+]
+```

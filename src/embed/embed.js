@@ -1,7 +1,7 @@
 /*! Public Lands Directory embed — Theodore Roosevelt Presidential Library
  * <script src="https://directory.labs.trlibrary.com/embed/embed.js" async></script>
  * <public-lands-card site="theodore-roosevelt-national-park" view="card"></public-lands-card>
- * views: card (default) | alerts | history | map | compact
+ * views: card (default) | alerts | history | map | compact | roosevelt
  * options: theme="light|dark", photo="false", width via CSS
  */
 (function () {
@@ -49,12 +49,15 @@
       const estHTML = est ? `<b>${esc(est.designation)} since</b><span>${fmt(est.date)} · ${esc(AUTH[est.authority?.type] || '')}${est.authority?.signedBy ? `, ${esc(est.authority.signedBy)}` : ''}${est.reviewed ? '' : ' <span class="pend">pending review</span>'}</span>` : '';
       const head = `${img && view !== 'compact' && view !== 'map' ? `<div class="img" style="background-image:url('${esc(img.url)}')" role="img" aria-label="${esc(img.alt || s.name)}"></div>` : ''}<div class="b"><h3>${esc(s.name)}</h3><p class="m">${esc(s.categoryLabel)} · ${esc(s.managedBy.map((m) => m.name).join(' & '))} · ${esc(s.stateNames.join(', '))}</p>`;
       const foot = `<div class="ft"><span>Theodore Roosevelt Presidential Library</span><a href="${url}" target="_blank" rel="noopener">Full guide →</a></div></div>`;
+      const TRL = { protected: 'Protected by T.R.', 'executive-action': 'Traces to a T.R. proclamation or order', visited: 'T.R. was here' };
+      const trLine = (s.trTypes || []).length ? `<p class="m" style="color:#1B4532;font-weight:600"><a href="${url}#roosevelt" target="_blank" rel="noopener">Roosevelt connection:</a> ${esc(s.trTypes.map((t) => TRL[t] || t).join(' \u00b7 '))}</p>` : '';
       let body = '';
       if (view === 'alerts') body = alertsHTML;
       else if (view === 'history') body = s.designationHistory.length ? `<ol>${s.designationHistory.map((h) => `<li><strong>${fmt(h.date)}</strong>: ${esc(h.name || h.designation)} — ${esc(AUTH[h.authority?.type] || '')}${h.authority?.signedBy ? `, ${esc(h.authority.signedBy)}` : ''}${h.reviewed ? '' : ' <span class="pend">pending review</span>'}</li>`).join('')}</ol>` : '<p>Designation history is being researched.</p>';
       else if (view === 'map') body = `<iframe title="Map of ${esc(s.name)}" loading="lazy" src="${BASE}/embed/map.html?site=${encodeURIComponent(slug)}"></iframe>`;
-      else if (view === 'compact') body = `<div class="f">${estHTML}</div>${alerts.length ? `<div class="al">${alerts.length} current alert${alerts.length > 1 ? 's' : ''}</div>` : ''}`;
-      else body = `${s.summary ? `<p>${esc(s.summary.length > 260 ? s.summary.slice(0, 257).replace(/\s+\S*$/, '') + '…' : s.summary)}</p>` : ''}<div class="f">${estHTML}${s.acres ? `<b>Size</b><span>${Math.round(s.acres.value).toLocaleString('en-US')} acres</span>` : ''}</div>${alertsHTML}`;
+      else if (view === 'roosevelt') body = trLine || '<p>No Roosevelt connection recorded yet.</p>';
+      else if (view === 'compact') body = `${trLine}<div class="f">${estHTML}</div>${alerts.length ? `<div class="al">${alerts.length} current alert${alerts.length > 1 ? 's' : ''}</div>` : ''}`;
+      else body = `${s.summary ? `<p>${esc(s.summary.length > 260 ? s.summary.slice(0, 257).replace(/\s+\S*$/, '') + '…' : s.summary)}</p>` : ''}${trLine}<div class="f">${estHTML}${s.acres ? `<b>Size</b><span>${Math.round(s.acres.value).toLocaleString('en-US')} acres</span>` : ''}</div>${alertsHTML}`;
       root.innerHTML = `<style>${CSS}</style><div class="c" part="card">${head}${body}${foot}</div>`;
     }
   }
