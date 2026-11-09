@@ -144,3 +144,13 @@ html.embedded .finder { padding-top: 12px; }
 .embed-back { max-width: 1180px; margin: 0 auto; padding: 10px 20px 0; font-size: .9rem; }
 .embed-back a { font-weight: 600; color: var(--forest, #1B4532); text-decoration: none; }
 .embed-back a:hover { text-decoration: underline; }
+/* National map */
+.natmap { max-width: none; margin: 0; padding: 0; }
+.natmap-bar { padding: 14px 20px 10px; display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; justify-content: space-between; }
+.natmap-bar h1 { font-size: 1.35rem; margin: 0; }
+.natmap-controls { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; }
+.natmap-controls input[type=search] { min-width: 220px; }
+.swatch { display: inline-block; width: .85em; height: .85em; border-radius: 2px; vertical-align: -.1em; }
+#natmap { height: calc(100vh - 190px); min-height: 480px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+html.embedded #natmap { height: 640px; }
+.natmap-note { padding: 6px 20px; }
