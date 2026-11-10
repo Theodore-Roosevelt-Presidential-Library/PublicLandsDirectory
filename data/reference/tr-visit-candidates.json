@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T03:07:29.564Z",
+  "generated": "2026-11-10T09:23:16.792Z",
   "note": "Town, city or approximate Day by Day places that fall inside a site boundary. Not published. Promote one to a site by adding a reviewed entry to data/editorial/<slug>.json trConnections.",
   "candidates": [
     {
@@ -10,50 +10,6 @@
       "kind": "region",
       "first": "1880-07-21",
       "last": "1880-07-21",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "audubon-wetland-management-district",
-      "site": "Audubon Wetland Management District",
-      "place": "North Dakota",
-      "placeId": "north-dakota",
-      "kind": "state",
-      "first": "1889-08-28",
-      "last": "1912-09-06",
-      "days": 3,
-      "precision": "exact"
-    },
-    {
-      "slug": "benton-lake-wetland-management-district",
-      "site": "Benton Lake Wetland Management District",
-      "place": "Helena",
-      "placeId": "helena-mt",
-      "kind": "city",
-      "first": "1889-08-28",
-      "last": "1912-09-08",
-      "days": 8,
-      "precision": "exact"
-    },
-    {
-      "slug": "charles-m-russell-wetland-management-district",
-      "site": "Charles M. Russell Wetland Management District",
-      "place": "Billings",
-      "placeId": "billings-mt",
-      "kind": "city",
-      "first": "1912-09-07",
-      "last": "1918-10-05",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "chase-lake-prairie-project-wetland-management-district",
-      "site": "Chase Lake Prairie Project Wetland Management District",
-      "place": "Jamestown",
-      "placeId": "jamestown-nd",
-      "kind": "city",
-      "first": "1912-09-06",
-      "last": "1912-09-06",
       "days": 1,
       "precision": "exact"
     },
@@ -77,28 +33,6 @@
       "first": "1913-08-11",
       "last": "1913-08-19",
       "days": 8,
-      "precision": "exact"
-    },
-    {
-      "slug": "devils-lake-wetland-management-district",
-      "site": "Devils Lake Wetland Management District",
-      "place": "Webster",
-      "placeId": "webster-nd",
-      "kind": "town",
-      "first": "1900-09-14",
-      "last": "1900-09-14",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "devils-lake-wetland-management-district",
-      "site": "Devils Lake Wetland Management District",
-      "place": "Grand Forks",
-      "placeId": "grand-forks-nd",
-      "kind": "city",
-      "first": "1912-09-06",
-      "last": "1912-09-06",
-      "days": 1,
       "precision": "exact"
     },
     {
@@ -179,39 +113,6 @@
       "precision": "exact"
     },
     {
-      "slug": "huron-wetland-management-district",
-      "site": "Huron Wetland Management District",
-      "place": "Crow Creek Reservation",
-      "placeId": "crow-creek-reservation",
-      "kind": "region",
-      "first": "1892-09-15",
-      "last": "1892-09-30",
-      "days": 3,
-      "precision": "exact"
-    },
-    {
-      "slug": "huron-wetland-management-district",
-      "site": "Huron Wetland Management District",
-      "place": "Huron",
-      "placeId": "huron-sd",
-      "kind": "town",
-      "first": "1900-09-12",
-      "last": "1900-09-12",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "huron-wetland-management-district",
-      "site": "Huron Wetland Management District",
-      "place": "South Dakota",
-      "placeId": "south-dakota",
-      "kind": "state",
-      "first": "1910-09-04",
-      "last": "1910-09-04",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
       "slug": "kaibab-national-forest",
       "site": "Kaibab National Forest",
       "place": "Williams",
@@ -230,105 +131,6 @@
       "kind": "town",
       "first": "1912-10-09",
       "last": "1912-10-09",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "lake-andes-wetland-management-district",
-      "site": "Lake Andes Wetland Management District",
-      "place": "Mitchell",
-      "placeId": "mitchell-sd",
-      "kind": "town",
-      "first": "1903-04-06",
-      "last": "1903-04-06",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "long-lake-wetland-management-district",
-      "site": "Long Lake Wetland Management District",
-      "place": "Bismarck",
-      "placeId": "bismarck-nd",
-      "kind": "city",
-      "first": "1883-09-25",
-      "last": "1903-04-07",
-      "days": 5,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Canton",
-      "placeId": "canton-sd",
-      "kind": "town",
-      "first": "1900-09-11",
-      "last": "1900-09-11",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Flandreau",
-      "placeId": "flandreau-sd",
-      "kind": "town",
-      "first": "1900-09-11",
-      "last": "1900-09-11",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Madison",
-      "placeId": "madison-sd",
-      "kind": "town",
-      "first": "1900-09-11",
-      "last": "1900-09-11",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Sioux Falls",
-      "placeId": "sioux-falls-sd",
-      "kind": "city",
-      "first": "1900-09-11",
-      "last": "1910-09-03",
-      "days": 4,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Vermillion",
-      "placeId": "vermillion-sd",
-      "kind": "town",
-      "first": "1900-09-11",
-      "last": "1900-09-11",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Yankton",
-      "placeId": "yankton-sd",
-      "kind": "town",
-      "first": "1900-09-11",
-      "last": "1903-04-06",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "madison-wetland-management-district",
-      "site": "Madison Wetland Management District",
-      "place": "Brookings",
-      "placeId": "brookings-sd",
-      "kind": "town",
-      "first": "1900-09-12",
-      "last": "1900-09-12",
       "days": 1,
       "precision": "exact"
     },
@@ -495,94 +297,6 @@
       "first": "1913-08-01",
       "last": "1913-08-04",
       "days": 4,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Fairmont",
-      "placeId": "fairmont-ne",
-      "kind": "town",
-      "first": "1900-10-01",
-      "last": "1903-04-27",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Hastings",
-      "placeId": "hastings-ne",
-      "kind": "city",
-      "first": "1900-10-01",
-      "last": "1912-09-20",
-      "days": 4,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Grand Island",
-      "placeId": "grand-island-ne",
-      "kind": "city",
-      "first": "1903-04-26",
-      "last": "1905-05-09",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Crete",
-      "placeId": "crete-ne",
-      "kind": "town",
-      "first": "1903-04-27",
-      "last": "1912-04-18",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Wilber",
-      "placeId": "wilber-ne",
-      "kind": "town",
-      "first": "1912-04-18",
-      "last": "1912-04-18",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "rainwater-basin-wetland-management-district",
-      "site": "Rainwater Basin Wetland Management District",
-      "place": "Minden",
-      "placeId": "minden-ne",
-      "kind": "town",
-      "first": "1912-09-20",
-      "last": "1912-09-20",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "sand-lake-wetland-management-district",
-      "site": "Sand Lake Wetland Management District",
-      "place": "Aberdeen",
-      "placeId": "aberdeen-sd",
-      "kind": "town",
-      "first": "1900-09-13",
-      "last": "1903-04-06",
-      "days": 2,
-      "precision": "exact"
-    },
-    {
-      "slug": "sand-lake-wetland-management-district",
-      "site": "Sand Lake Wetland Management District",
-      "place": "Redfield",
-      "placeId": "redfield-sd",
-      "kind": "town",
-      "first": "1900-09-13",
-      "last": "1900-09-13",
-      "days": 1,
       "precision": "exact"
     },
     {
@@ -850,61 +564,6 @@
       "precision": "exact"
     },
     {
-      "slug": "valley-city-wetland-management-district",
-      "site": "Valley City Wetland Management District",
-      "place": "Fargo",
-      "placeId": "fargo-nd",
-      "kind": "city",
-      "first": "1900-09-14",
-      "last": "1912-09-06",
-      "days": 5,
-      "precision": "exact"
-    },
-    {
-      "slug": "valley-city-wetland-management-district",
-      "site": "Valley City Wetland Management District",
-      "place": "Casselton",
-      "placeId": "casselton-nd",
-      "kind": "town",
-      "first": "1900-09-15",
-      "last": "1900-09-15",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "valley-city-wetland-management-district",
-      "site": "Valley City Wetland Management District",
-      "place": "Tower City",
-      "placeId": "tower-city-nd",
-      "kind": "town",
-      "first": "1900-09-15",
-      "last": "1900-09-15",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "valley-city-wetland-management-district",
-      "site": "Valley City Wetland Management District",
-      "place": "Fargo College",
-      "placeId": "fargo-college",
-      "kind": "institution",
-      "first": "1910-09-05",
-      "last": "1910-09-05",
-      "days": 1,
-      "precision": "approximate"
-    },
-    {
-      "slug": "waubay-wetland-management-district",
-      "site": "Waubay Wetland Management District",
-      "place": "Watertown",
-      "placeId": "watertown-sd",
-      "kind": "town",
-      "first": "1900-09-13",
-      "last": "1900-09-13",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
       "slug": "wayne-national-forest",
       "site": "Wayne National Forest",
       "place": "Nelsonville",
@@ -912,83 +571,6 @@
       "kind": "town",
       "first": "1912-05-17",
       "last": "1912-05-17",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz",
-      "site": "Zz",
-      "place": "Carroll",
-      "placeId": "carroll-ia",
-      "kind": "town",
-      "first": "1880-09-04",
-      "last": "1910-08-26",
-      "days": 8,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz-fws",
-      "site": "Zz",
-      "place": "Madison",
-      "placeId": "madison-wi",
-      "kind": "city",
-      "first": "1889-01-31",
-      "last": "1918-05-28",
-      "days": 16,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz",
-      "site": "Zz",
-      "place": "Des Moines",
-      "placeId": "des-moines-ia",
-      "kind": "city",
-      "first": "1903-04-28",
-      "last": "1918-05-27",
-      "days": 5,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz",
-      "site": "Zz",
-      "place": "Ogden",
-      "placeId": "ogden-ia",
-      "kind": "town",
-      "first": "1910-08-26",
-      "last": "1910-08-26",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz-fws",
-      "site": "Zz",
-      "place": "Oshkosh",
-      "placeId": "oshkosh-wi",
-      "kind": "city",
-      "first": "1912-10-11",
-      "last": "1912-10-11",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz",
-      "site": "Zz",
-      "place": "Boone",
-      "placeId": "boone-ia",
-      "kind": "town",
-      "first": "1914-09-23",
-      "last": "1914-09-23",
-      "days": 1,
-      "precision": "exact"
-    },
-    {
-      "slug": "zz-fws",
-      "site": "Zz",
-      "place": "Racine",
-      "placeId": "racine-wi",
-      "kind": "city",
-      "first": "1917-09-27",
-      "last": "1917-09-27",
       "days": 1,
       "precision": "exact"
     }
