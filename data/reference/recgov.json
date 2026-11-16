@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-09T03:40:19.425Z",
+  "generated": "2026-11-16T09:40:21.636Z",
   "source": "Recreation.gov",
-  "count": 1083,
+  "count": 1074,
   "sites": {
-    "acadia-national-park": {
-      "url": "https://www.recreation.gov/gateways/2554",
-      "name": "Acadia National Park",
-      "id": "2554",
+    "adams-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2555",
+      "name": "Adams National Historical Park",
+      "id": "2555",
       "reservable": true,
-      "campgrounds": 4
+      "campgrounds": 0
     },
     "abraham-lincoln-birthplace-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2553",
@@ -17,12 +17,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "adams-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2555",
-      "name": "Adams National Historical Park",
-      "id": "2555",
+    "acadia-national-park": {
+      "url": "https://www.recreation.gov/gateways/2554",
+      "name": "Acadia National Park",
+      "id": "2554",
       "reservable": true,
-      "campgrounds": 0
+      "campgrounds": 4
     },
     "african-burial-ground-national-monument": {
       "url": "https://www.recreation.gov/gateways/13906",
@@ -59,17 +59,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "alagnak-wild-river": {
-      "url": "https://www.recreation.gov/gateways/2557",
-      "name": "Alagnak Wild River",
-      "id": "2557",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "alamosa-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1257",
       "name": "Alamosa National Wildlife Refuge",
       "id": "1257",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "alagnak-wild-river": {
+      "url": "https://www.recreation.gov/gateways/2557",
+      "name": "Alagnak Wild River",
+      "id": "2557",
       "reservable": false,
       "campgrounds": 0
     },
@@ -87,24 +87,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "aleutian-islands-world-war-ii-national-historic-area": {
-      "url": "https://www.recreation.gov/gateways/2559",
-      "name": "Aleutian Islands World War II National Historic Area",
-      "id": "2559",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "alaska-peninsula-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1259",
       "name": "Alaska Peninsula National Wildlife Refuge",
       "id": "1259",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "alibates-flint-quarries-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2560",
-      "name": "Alibates Flint Quarries National Monument",
-      "id": "2560",
       "reservable": false,
       "campgrounds": 0
     },
@@ -115,17 +101,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "alligator-river-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1260",
-      "name": "Alligator River National Wildlife Refuge",
-      "id": "1260",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "allegheny-portage-railroad-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2561",
-      "name": "Allegheny Portage Railroad National Historic Site",
-      "id": "2561",
+    "aleutian-islands-world-war-ii-national-historic-area": {
+      "url": "https://www.recreation.gov/gateways/2559",
+      "name": "Aleutian Islands World War II National Historic Area",
+      "id": "2559",
       "reservable": false,
       "campgrounds": 0
     },
@@ -136,24 +115,38 @@
       "reservable": true,
       "campgrounds": 17
     },
-    "amagansett-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1261",
-      "name": "Amagansett National Wildlife Refuge",
-      "id": "1261",
+    "alibates-flint-quarries-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2560",
+      "name": "Alibates Flint Quarries National Monument",
+      "id": "2560",
       "reservable": false,
       "campgrounds": 0
     },
-    "amistad-national-recreation-area": {
-      "url": "https://www.recreation.gov/gateways/2562",
-      "name": "Amistad National Recreation Area",
-      "id": "2562",
-      "reservable": true,
-      "campgrounds": 3
+    "allegheny-portage-railroad-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2561",
+      "name": "Allegheny Portage Railroad National Historic Site",
+      "id": "2561",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "alligator-river-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1260",
+      "name": "Alligator River National Wildlife Refuge",
+      "id": "1260",
+      "reservable": false,
+      "campgrounds": 0
     },
     "amache-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/10197874",
       "name": "Amache National Historic Site",
       "id": "10197874",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "amagansett-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1261",
+      "name": "Amagansett National Wildlife Refuge",
+      "id": "1261",
       "reservable": false,
       "campgrounds": 0
     },
@@ -164,10 +157,24 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "amistad-national-recreation-area": {
+      "url": "https://www.recreation.gov/gateways/2562",
+      "name": "Amistad National Recreation Area",
+      "id": "2562",
+      "reservable": true,
+      "campgrounds": 3
+    },
     "anacostia-park": {
       "url": "https://www.recreation.gov/gateways/2564",
       "name": "Anacostia Park",
       "id": "2564",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "andersonville-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2566",
+      "name": "Andersonville National Historic Site",
+      "id": "2566",
       "reservable": false,
       "campgrounds": 0
     },
@@ -192,10 +199,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "andersonville-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2566",
-      "name": "Andersonville National Historic Site",
-      "id": "2566",
+    "ankeny-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3995",
+      "name": "Ankeny National Wildlife Refuge",
+      "id": "3995",
       "reservable": false,
       "campgrounds": 0
     },
@@ -206,19 +213,19 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "ankeny-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3995",
-      "name": "Ankeny National Wildlife Refuge",
-      "id": "3995",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "antioch-dunes-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3938",
       "name": "Antioch Dunes National Wildlife Refuge",
       "id": "3938",
       "reservable": false,
       "campgrounds": 0
+    },
+    "apostle-islands-national-lakeshore": {
+      "url": "https://www.recreation.gov/gateways/2571",
+      "name": "Apostle Islands National Lakeshore",
+      "id": "2571",
+      "reservable": true,
+      "campgrounds": 1
     },
     "apache-national-forest": {
       "url": "https://www.recreation.gov/gateways/122",
@@ -227,13 +234,6 @@
       "reservable": true,
       "campgrounds": 21,
       "shared": true
-    },
-    "apostle-islands-national-lakeshore": {
-      "url": "https://www.recreation.gov/gateways/2571",
-      "name": "Apostle Islands National Lakeshore",
-      "id": "2571",
-      "reservable": true,
-      "campgrounds": 1
     },
     "appalachian-national-scenic-trail": {
       "url": "https://www.recreation.gov/gateways/2572",
@@ -248,14 +248,6 @@
       "id": "2570",
       "reservable": false,
       "campgrounds": 0
-    },
-    "apalachicola-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1039",
-      "name": "National Forests in Florida",
-      "id": "1039",
-      "reservable": true,
-      "campgrounds": 25,
-      "shared": true
     },
     "aransas-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1264",
@@ -306,17 +298,18 @@
       "reservable": true,
       "campgrounds": 0
     },
+    "apalachicola-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1039",
+      "name": "National Forests in Florida",
+      "id": "1039",
+      "reservable": true,
+      "campgrounds": 25,
+      "shared": true
+    },
     "aroostook-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4017",
       "name": "Aroostook National Wildlife Refuge",
       "id": "4017",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "arrowwood-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1276",
-      "name": "Arrowwood National Wildlife Refuge",
-      "id": "1276",
       "reservable": false,
       "campgrounds": 0
     },
@@ -327,10 +320,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "arrowwood-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1277",
-      "name": "Arrowwood Wetland Management District",
-      "id": "1277",
+    "arrowwood-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1276",
+      "name": "Arrowwood National Wildlife Refuge",
+      "id": "1276",
       "reservable": false,
       "campgrounds": 0
     },
@@ -355,13 +348,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "atchafalaya-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1280",
-      "name": "Atchafalaya National Wildlife Refuge",
-      "id": "1280",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "assateague-island-national-seashore": {
       "url": "https://www.recreation.gov/gateways/2576",
       "name": "Assateague Island National Seashore",
@@ -369,10 +355,10 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "audubon-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1282",
-      "name": "Audubon National Wildlife Refuge",
-      "id": "1282",
+    "atchafalaya-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1280",
+      "name": "Atchafalaya National Wildlife Refuge",
+      "id": "1280",
       "reservable": false,
       "campgrounds": 0
     },
@@ -383,17 +369,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "audubon-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1282",
+      "name": "Audubon National Wildlife Refuge",
+      "id": "1282",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "aztec-ruins-national-monument": {
       "url": "https://www.recreation.gov/gateways/2577",
       "name": "Aztec Ruins National Monument",
       "id": "2577",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "baca-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/RA41001",
-      "name": "Baca National Wildlife Refuge",
-      "id": "RA41001",
       "reservable": false,
       "campgrounds": 0
     },
@@ -411,17 +397,17 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "baker-island-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3968",
-      "name": "Baker Island National Wildlife Refuge",
-      "id": "3968",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "balcones-canyonlands-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1285",
       "name": "Balcones Canyonlands National Wildlife Refuge",
       "id": "1285",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "baker-island-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3968",
+      "name": "Baker Island National Wildlife Refuge",
+      "id": "3968",
       "reservable": false,
       "campgrounds": 0
     },
@@ -438,13 +424,6 @@
       "id": "2581",
       "reservable": false,
       "campgrounds": 0
-    },
-    "bandelier-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2579",
-      "name": "Bandelier National Monument",
-      "id": "2579",
-      "reservable": true,
-      "campgrounds": 2
     },
     "bamforth-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3943",
@@ -467,6 +446,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "bandelier-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2579",
+      "name": "Bandelier National Monument",
+      "id": "2579",
+      "reservable": true,
+      "campgrounds": 2
+    },
     "baskett-slough-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1289",
       "name": "Baskett Slough National Wildlife Refuge",
@@ -481,13 +467,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "bayou-teche-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4016",
-      "name": "Bayou Teche National Wildlife Refuge",
-      "id": "4016",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "bayou-sauvage-urban-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1291",
       "name": "Bayou Sauvage Urban National Wildlife Refuge",
@@ -495,10 +474,31 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "baca-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/RA41001",
+      "name": "Baca National Wildlife Refuge",
+      "id": "RA41001",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "bayou-teche-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4016",
+      "name": "Bayou Teche National Wildlife Refuge",
+      "id": "4016",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "bear-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1292",
       "name": "Bear Lake National Wildlife Refuge",
       "id": "1292",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "bear-river-migratory-bird-refuge": {
+      "url": "https://www.recreation.gov/gateways/1396",
+      "name": "Bear River Migratory Bird Refuge",
+      "id": "1396",
       "reservable": false,
       "campgrounds": 0
     },
@@ -516,10 +516,10 @@
       "reservable": true,
       "campgrounds": 7
     },
-    "bear-river-migratory-bird-refuge": {
-      "url": "https://www.recreation.gov/gateways/1396",
-      "name": "Bear River Migratory Bird Refuge",
-      "id": "1396",
+    "beaver-dam-wash-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/16200",
+      "name": "Beaver Dam Wash National Conservation Area",
+      "id": "16200",
       "reservable": false,
       "campgrounds": 0
     },
@@ -530,13 +530,6 @@
       "reservable": true,
       "campgrounds": 48,
       "shared": true
-    },
-    "beaver-dam-wash-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/16200",
-      "name": "Beaver Dam Wash National Conservation Area",
-      "id": "16200",
-      "reservable": false,
-      "campgrounds": 0
     },
     "becharof-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1295",
@@ -552,20 +545,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "benton-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1296",
-      "name": "Benton Lake National Wildlife Refuge",
-      "id": "1296",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "benton-lake-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1297",
-      "name": "Benton Lake Wetland Management District",
-      "id": "1297",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "bents-old-fort-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2583",
       "name": "Bent's Old Fort National Historic Site",
@@ -573,24 +552,17 @@
       "reservable": true,
       "campgrounds": 0
     },
+    "benton-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1296",
+      "name": "Benton Lake National Wildlife Refuge",
+      "id": "1296",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "bering-land-bridge-national-preserve": {
       "url": "https://www.recreation.gov/gateways/2582",
       "name": "Bering Land Bridge National Preserve",
       "id": "2582",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "big-bend-national-park": {
-      "url": "https://www.recreation.gov/gateways/2584",
-      "name": "Big Bend National Park",
-      "id": "2584",
-      "reservable": true,
-      "campgrounds": 6
-    },
-    "big-branch-marsh-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1299",
-      "name": "Big Branch Marsh National Wildlife Refuge",
-      "id": "1299",
       "reservable": false,
       "campgrounds": 0
     },
@@ -601,6 +573,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "big-bend-national-park": {
+      "url": "https://www.recreation.gov/gateways/2584",
+      "name": "Big Bend National Park",
+      "id": "2584",
+      "reservable": true,
+      "campgrounds": 6
+    },
     "big-cypress-national-preserve": {
       "url": "https://www.recreation.gov/gateways/2586",
       "name": "Big Cypress National Preserve",
@@ -608,10 +587,24 @@
       "reservable": true,
       "campgrounds": 8
     },
+    "big-branch-marsh-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1299",
+      "name": "Big Branch Marsh National Wildlife Refuge",
+      "id": "1299",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "big-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1300",
       "name": "Big Lake National Wildlife Refuge",
       "id": "1300",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "big-muddy-national-fish-and-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1301",
+      "name": "Big Muddy National Fish and Wildlife Refuge",
+      "id": "1301",
       "reservable": false,
       "campgrounds": 0
     },
@@ -626,13 +619,6 @@
       "url": "https://www.recreation.gov/gateways/4057",
       "name": "Big Oaks National Wildlife Refuge",
       "id": "4057",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "big-muddy-national-fish-and-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1301",
-      "name": "Big Muddy National Fish and Wildlife Refuge",
-      "id": "1301",
       "reservable": false,
       "campgrounds": 0
     },
@@ -664,19 +650,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "bill-williams-river-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3929",
-      "name": "Bill Williams River National Wildlife Refuge",
-      "id": "3929",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "bighorn-national-forest": {
       "url": "https://www.recreation.gov/gateways/1058",
       "name": "Bighorn National Forest",
       "id": "1058",
       "reservable": true,
       "campgrounds": 30
+    },
+    "bill-williams-river-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3929",
+      "name": "Bill Williams River National Wildlife Refuge",
+      "id": "3929",
+      "reservable": false,
+      "campgrounds": 0
     },
     "birmingham-civil-rights-national-monument": {
       "url": "https://www.recreation.gov/gateways/14907",
@@ -699,13 +685,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "bitter-creek-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/2170",
-      "name": "Bitter Creek National Wildlife Refuge",
-      "id": "2170",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "bitterroot-national-forest": {
       "url": "https://www.recreation.gov/gateways/1014",
       "name": "Bitterroot National Forest",
@@ -713,26 +692,12 @@
       "reservable": true,
       "campgrounds": 16
     },
-    "black-bayou-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1306",
-      "name": "Black Bayou Lake National Wildlife Refuge",
-      "id": "1306",
+    "bitter-creek-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/2170",
+      "name": "Bitter Creek National Wildlife Refuge",
+      "id": "2170",
       "reservable": false,
       "campgrounds": 0
-    },
-    "bitter-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1305",
-      "name": "Bitter Lake National Wildlife Refuge",
-      "id": "1305",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "black-canyon-of-the-gunnison-national-park": {
-      "url": "https://www.recreation.gov/gateways/2592",
-      "name": "Black Canyon Of The Gunnison National Park",
-      "id": "2592",
-      "reservable": true,
-      "campgrounds": 2
     },
     "bienville-national-forest": {
       "url": "https://www.recreation.gov/gateways/1044",
@@ -742,19 +707,33 @@
       "campgrounds": 10,
       "shared": true
     },
+    "black-canyon-of-the-gunnison-national-park": {
+      "url": "https://www.recreation.gov/gateways/2592",
+      "name": "Black Canyon Of The Gunnison National Park",
+      "id": "2592",
+      "reservable": true,
+      "campgrounds": 2
+    },
+    "bitter-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1305",
+      "name": "Bitter Lake National Wildlife Refuge",
+      "id": "1305",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "black-bayou-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1306",
+      "name": "Black Bayou Lake National Wildlife Refuge",
+      "id": "1306",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "black-hills-national-forest": {
       "url": "https://www.recreation.gov/gateways/1057",
       "name": "Black Hills National Forest",
       "id": "1057",
       "reservable": true,
       "campgrounds": 33
-    },
-    "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/1817",
-      "name": "Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area",
-      "id": "1817",
-      "reservable": false,
-      "campgrounds": 0
     },
     "blackbeard-island-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1308",
@@ -763,10 +742,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "blackstone-river-valley-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/14512",
-      "name": "Blackstone River Valley National Historical Park",
-      "id": "14512",
+    "black-rock-desert-high-rock-canyon-emigrant-trails-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/1817",
+      "name": "Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area",
+      "id": "1817",
       "reservable": false,
       "campgrounds": 0
     },
@@ -775,6 +754,13 @@
       "name": "Blackwater National Wildlife Refuge",
       "id": "1309",
       "reservable": true,
+      "campgrounds": 0
+    },
+    "blackstone-river-valley-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/14512",
+      "name": "Blackstone River Valley National Historical Park",
+      "id": "14512",
+      "reservable": false,
       "campgrounds": 0
     },
     "blackwell-school-national-historic-site": {
@@ -791,13 +777,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "blue-ridge-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3940",
-      "name": "Blue Ridge National Wildlife Refuge",
-      "id": "3940",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "blue-ridge-parkway": {
       "url": "https://www.recreation.gov/gateways/2593",
       "name": "Blue Ridge Parkway",
@@ -805,17 +784,17 @@
       "reservable": true,
       "campgrounds": 11
     },
+    "blue-ridge-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3940",
+      "name": "Blue Ridge National Wildlife Refuge",
+      "id": "3940",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "bluestone-national-scenic-river": {
       "url": "https://www.recreation.gov/gateways/2594",
       "name": "Bluestone National Scenic River",
       "id": "2594",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "bogue-chitto-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1312",
-      "name": "Bogue Chitto National Wildlife Refuge",
-      "id": "1312",
       "reservable": false,
       "campgrounds": 0
     },
@@ -826,17 +805,17 @@
       "reservable": true,
       "campgrounds": 52
     },
+    "bogue-chitto-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1312",
+      "name": "Bogue Chitto National Wildlife Refuge",
+      "id": "1312",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "bombay-hook-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1313",
       "name": "Bombay Hook National Wildlife Refuge",
       "id": "1313",
-      "reservable": true,
-      "campgrounds": 0
-    },
-    "bond-swamp-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4148",
-      "name": "Bond Swamp National Wildlife Refuge",
-      "id": "4148",
       "reservable": true,
       "campgrounds": 0
     },
@@ -845,6 +824,13 @@
       "name": "Bon Secour National Wildlife Refuge",
       "id": "1314",
       "reservable": false,
+      "campgrounds": 0
+    },
+    "bond-swamp-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4148",
+      "name": "Bond Swamp National Wildlife Refuge",
+      "id": "4148",
+      "reservable": true,
       "campgrounds": 0
     },
     "booker-t-washington-national-monument": {
@@ -875,13 +861,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "boston-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2597",
-      "name": "Boston National Historical Park",
-      "id": "2597",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "bowdoin-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1316",
       "name": "Bowdoin National Wildlife Refuge",
@@ -889,17 +868,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "bowdoin-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1317",
-      "name": "Bowdoin Wetland Management District",
-      "id": "1317",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "boyer-chute-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3961",
-      "name": "Boyer Chute National Wildlife Refuge",
-      "id": "3961",
+    "boston-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2597",
+      "name": "Boston National Historical Park",
+      "id": "2597",
       "reservable": false,
       "campgrounds": 0
     },
@@ -910,10 +882,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "brices-cross-roads-national-battlefield-site": {
-      "url": "https://www.recreation.gov/gateways/2600",
-      "name": "Brices Cross Roads National Battlefield Site",
-      "id": "2600",
+    "boyer-chute-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3961",
+      "name": "Boyer Chute National Wildlife Refuge",
+      "id": "3961",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "breton-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1319",
+      "name": "Breton National Wildlife Refuge",
+      "id": "1319",
       "reservable": false,
       "campgrounds": 0
     },
@@ -925,24 +904,10 @@
       "campgrounds": 32,
       "shared": true
     },
-    "browns-canyon-national-monument": {
-      "url": "https://www.recreation.gov/gateways/16700",
-      "name": "Browns Canyon National Monument",
-      "id": "16700",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "breton-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1319",
-      "name": "Breton National Wildlife Refuge",
-      "id": "1319",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "browns-park-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1320",
-      "name": "Browns Park National Wildlife Refuge",
-      "id": "1320",
+    "brices-cross-roads-national-battlefield-site": {
+      "url": "https://www.recreation.gov/gateways/2600",
+      "name": "Brices Cross Roads National Battlefield Site",
+      "id": "2600",
       "reservable": false,
       "campgrounds": 0
     },
@@ -950,6 +915,20 @@
       "url": "https://www.recreation.gov/gateways/2601",
       "name": "Brown v. Board of Education National Historical Park",
       "id": "2601",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "browns-canyon-national-monument": {
+      "url": "https://www.recreation.gov/gateways/16700",
+      "name": "Browns Canyon National Monument",
+      "id": "16700",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "browns-park-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1320",
+      "name": "Browns Park National Wildlife Refuge",
+      "id": "1320",
       "reservable": false,
       "campgrounds": 0
     },
@@ -981,19 +960,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "buffalo-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3915",
-      "name": "Buffalo Lake National Wildlife Refuge",
-      "id": "3915",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "buffalo-national-river": {
       "url": "https://www.recreation.gov/gateways/2602",
       "name": "Buffalo National River",
       "id": "2602",
       "reservable": true,
       "campgrounds": 8
+    },
+    "buffalo-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3915",
+      "name": "Buffalo Lake National Wildlife Refuge",
+      "id": "3915",
+      "reservable": false,
+      "campgrounds": 0
     },
     "butterfield-overland-national-historic-trail": {
       "url": "https://www.recreation.gov/gateways/10278453",
@@ -1002,17 +981,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "cabeza-prieta-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1324",
-      "name": "Cabeza Prieta National Wildlife Refuge",
-      "id": "1324",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "cabo-rojo-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1325",
       "name": "Cabo Rojo National Wildlife Refuge",
       "id": "1325",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "cabeza-prieta-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1324",
+      "name": "Cabeza Prieta National Wildlife Refuge",
+      "id": "1324",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1059,6 +1038,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "camas-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1328",
+      "name": "Camas National Wildlife Refuge",
+      "id": "1328",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "caloosahatchee-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1327",
       "name": "Caloosahatchee National Wildlife Refuge",
@@ -1070,13 +1056,6 @@
       "url": "https://www.recreation.gov/gateways/1329",
       "name": "Cameron Prairie National Wildlife Refuge",
       "id": "1329",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "camas-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1328",
-      "name": "Camas National Wildlife Refuge",
-      "id": "1328",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1171,17 +1150,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "cape-meares-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1333",
-      "name": "Cape Meares National Wildlife Refuge",
-      "id": "1333",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "cape-romain-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1334",
       "name": "Cape Romain National Wildlife Refuge",
       "id": "1334",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "cape-meares-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1333",
+      "name": "Cape Meares National Wildlife Refuge",
+      "id": "1333",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1206,13 +1185,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "carl-sandburg-home-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2619",
-      "name": "Carl Sandburg Home National Historic Site",
-      "id": "2619",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "caribou-national-forest": {
       "url": "https://www.recreation.gov/gateways/1024",
       "name": "Caribou-Targhee National Forest",
@@ -1221,10 +1193,10 @@
       "campgrounds": 53,
       "shared": true
     },
-    "carlsbad-caverns-national-park": {
-      "url": "https://www.recreation.gov/gateways/2622",
-      "name": "Carlsbad Caverns National Park",
-      "id": "2622",
+    "carl-sandburg-home-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2619",
+      "name": "Carl Sandburg Home National Historic Site",
+      "id": "2619",
       "reservable": true,
       "campgrounds": 0
     },
@@ -1233,6 +1205,13 @@
       "name": "Carlisle Federal Indian Boarding School National Monument",
       "id": "10342276",
       "reservable": false,
+      "campgrounds": 0
+    },
+    "carlsbad-caverns-national-park": {
+      "url": "https://www.recreation.gov/gateways/2622",
+      "name": "Carlsbad Caverns National Park",
+      "id": "2622",
+      "reservable": true,
       "campgrounds": 0
     },
     "carolina-sandhills-national-wildlife-refuge": {
@@ -1263,13 +1242,6 @@
       "reservable": true,
       "campgrounds": 11
     },
-    "castillo-de-san-marcos-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2620",
-      "name": "Castillo De San Marcos National Monument",
-      "id": "2620",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "casa-grande-ruins-national-monument": {
       "url": "https://www.recreation.gov/gateways/2608",
       "name": "Casa Grande Ruins National Monument",
@@ -1281,6 +1253,20 @@
       "url": "https://www.recreation.gov/gateways/3119",
       "name": "Cascade-Siskiyou National Monument",
       "id": "3119",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "castillo-de-san-marcos-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2620",
+      "name": "Castillo De San Marcos National Monument",
+      "id": "2620",
+      "reservable": true,
+      "campgrounds": 0
+    },
+    "castle-clinton-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2606",
+      "name": "Castle Clinton National Monument",
+      "id": "2606",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1298,10 +1284,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "castle-clinton-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2606",
-      "name": "Castle Clinton National Monument",
-      "id": "2606",
+    "cat-island-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4015",
+      "name": "Cat Island National Wildlife Refuge",
+      "id": "4015",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1333,10 +1319,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "cat-island-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4015",
-      "name": "Cat Island National Wildlife Refuge",
-      "id": "4015",
+    "cedar-keys-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1339",
+      "name": "Cedar Keys National Wildlife Refuge",
+      "id": "1339",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1354,6 +1340,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "cesar-e-chavez-national-monument": {
+      "url": "https://www.recreation.gov/gateways/13910",
+      "name": "César E. Chávez National Monument",
+      "id": "13910",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "chaco-culture-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2628",
       "name": "Chaco Culture National Historical Park",
@@ -1361,24 +1354,18 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "cedar-keys-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1339",
-      "name": "Cedar Keys National Wildlife Refuge",
-      "id": "1339",
-      "reservable": false,
-      "campgrounds": 0
+    "challis-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1026",
+      "name": "Salmon-Challis National Forest",
+      "id": "1026",
+      "reservable": true,
+      "campgrounds": 8,
+      "shared": true
     },
     "chamizal-national-memorial": {
       "url": "https://www.recreation.gov/gateways/2625",
       "name": "Chamizal National Memorial",
       "id": "2625",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "cesar-e-chavez-national-monument": {
-      "url": "https://www.recreation.gov/gateways/13910",
-      "name": "César E. Chávez National Monument",
-      "id": "13910",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1396,13 +1383,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "charles-young-buffalo-soldiers-national-monument": {
-      "url": "https://www.recreation.gov/gateways/13911",
-      "name": "Charles Young Buffalo Soldiers National Monument",
-      "id": "13911",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "charles-m-russell-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1341",
       "name": "Charles M. Russell National Wildlife Refuge",
@@ -1410,18 +1390,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "challis-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1026",
-      "name": "Salmon-Challis National Forest",
-      "id": "1026",
-      "reservable": true,
-      "campgrounds": 8,
-      "shared": true
+    "charles-young-buffalo-soldiers-national-monument": {
+      "url": "https://www.recreation.gov/gateways/13911",
+      "name": "Charles Young Buffalo Soldiers National Monument",
+      "id": "13911",
+      "reservable": false,
+      "campgrounds": 0
     },
-    "chassahowitzka-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1345",
-      "name": "Chassahowitzka National Wildlife Refuge",
-      "id": "1345",
+    "chase-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1343",
+      "name": "Chase Lake National Wildlife Refuge",
+      "id": "1343",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1433,10 +1412,10 @@
       "campgrounds": 28,
       "shared": true
     },
-    "chase-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1343",
-      "name": "Chase Lake National Wildlife Refuge",
-      "id": "1343",
+    "chassahowitzka-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1345",
+      "name": "Chassahowitzka National Wildlife Refuge",
+      "id": "1345",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1447,19 +1426,19 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "cherokee-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1048",
-      "name": "Cherokee National Forest",
-      "id": "1048",
-      "reservable": true,
-      "campgrounds": 35
-    },
     "chautauqua-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1346",
       "name": "Chautauqua National Wildlife Refuge",
       "id": "1346",
       "reservable": false,
       "campgrounds": 0
+    },
+    "cherokee-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1048",
+      "name": "Cherokee National Forest",
+      "id": "1048",
+      "reservable": true,
+      "campgrounds": 35
     },
     "chesapeake-and-ohio-canal-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2632",
@@ -1503,6 +1482,13 @@
       "reservable": true,
       "campgrounds": 19
     },
+    "chincoteague-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1348",
+      "name": "Chincoteague National Wildlife Refuge",
+      "id": "1348",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "chiricahua-national-park": {
       "url": "https://www.recreation.gov/gateways/2630",
       "name": "Chiricahua National Park",
@@ -1510,11 +1496,11 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "chincoteague-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1348",
-      "name": "Chincoteague National Wildlife Refuge",
-      "id": "1348",
-      "reservable": false,
+    "christiansted-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2634",
+      "name": "Christiansted National Historic Site",
+      "id": "2634",
+      "reservable": true,
       "campgrounds": 0
     },
     "choctaw-national-wildlife-refuge": {
@@ -1529,14 +1515,7 @@
       "name": "Chugach National Forest",
       "id": "2337",
       "reservable": true,
-      "campgrounds": 58
-    },
-    "christiansted-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2634",
-      "name": "Christiansted National Historic Site",
-      "id": "2634",
-      "reservable": true,
-      "campgrounds": 0
+      "campgrounds": 59
     },
     "cibola-national-forest": {
       "url": "https://www.recreation.gov/gateways/1098",
@@ -1552,14 +1531,6 @@
       "id": "1350",
       "reservable": false,
       "campgrounds": 0
-    },
-    "cimarron-national-grassland": {
-      "url": "https://www.recreation.gov/gateways/1053",
-      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
-      "id": "1053",
-      "reservable": true,
-      "campgrounds": 101,
-      "shared": true
     },
     "city-of-rocks-national-reserve": {
       "url": "https://www.recreation.gov/gateways/2637",
@@ -1596,17 +1567,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "clear-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1352",
-      "name": "Clear Lake National Wildlife Refuge",
-      "id": "1352",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "clearwater-national-forest": {
       "url": "https://www.recreation.gov/gateways/14488",
       "name": "Clearwater National Forest",
       "id": "14488",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "clear-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1352",
+      "name": "Clear Lake National Wildlife Refuge",
+      "id": "1352",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1632,17 +1603,17 @@
       "campgrounds": 25,
       "shared": true
     },
-    "cold-springs-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1354",
-      "name": "Cold Springs National Wildlife Refuge",
-      "id": "1354",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "cokeville-meadows-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4053",
       "name": "Cokeville Meadows National Wildlife Refuge",
       "id": "4053",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "cold-springs-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1354",
+      "name": "Cold Springs National Wildlife Refuge",
+      "id": "1354",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1667,17 +1638,17 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "columbia-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1355",
-      "name": "Columbia National Wildlife Refuge",
-      "id": "1355",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "coltsville-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/10118171",
       "name": "Coltsville National Historical Park",
       "id": "10118171",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "columbia-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1355",
+      "name": "Columbia National Wildlife Refuge",
+      "id": "1355",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1723,19 +1694,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "conscience-point-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3998",
-      "name": "Conscience Point National Wildlife Refuge",
-      "id": "3998",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "conecuh-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1699",
-      "name": "National Forests in Alabama",
-      "id": "1699",
+    "cimarron-national-grassland": {
+      "url": "https://www.recreation.gov/gateways/1053",
+      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
+      "id": "1053",
       "reservable": true,
-      "campgrounds": 4,
+      "campgrounds": 101,
       "shared": true
     },
     "constitution-gardens": {
@@ -1745,12 +1709,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "coronado-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1093",
-      "name": "Coronado National Forest",
-      "id": "1093",
-      "reservable": true,
-      "campgrounds": 29
+    "conscience-point-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3998",
+      "name": "Conscience Point National Wildlife Refuge",
+      "id": "3998",
+      "reservable": false,
+      "campgrounds": 0
     },
     "copalis-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/2171",
@@ -1758,6 +1722,13 @@
       "id": "2171",
       "reservable": false,
       "campgrounds": 0
+    },
+    "coronado-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1093",
+      "name": "Coronado National Forest",
+      "id": "1093",
+      "reservable": true,
+      "campgrounds": 29
     },
     "coronado-national-memorial": {
       "url": "https://www.recreation.gov/gateways/13918",
@@ -1779,6 +1750,14 @@
       "id": "1358",
       "reservable": true,
       "campgrounds": 1
+    },
+    "conecuh-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1699",
+      "name": "National Forests in Alabama",
+      "id": "1699",
+      "reservable": true,
+      "campgrounds": 4,
+      "shared": true
     },
     "crane-meadows-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1359",
@@ -1808,12 +1787,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "croatan-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1045",
-      "name": "National Forests in North Carolina",
-      "id": "1045",
+    "comanche-national-grassland": {
+      "url": "https://www.recreation.gov/gateways/1053",
+      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
+      "id": "1053",
       "reservable": true,
-      "campgrounds": 38,
+      "campgrounds": 101,
       "shared": true
     },
     "crocodile-lake-national-wildlife-refuge": {
@@ -1866,13 +1845,6 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "curecanti-national-recreation-area": {
-      "url": "https://www.recreation.gov/gateways/2651",
-      "name": "Curecanti National Recreation Area",
-      "id": "2651",
-      "reservable": true,
-      "campgrounds": 8
-    },
     "cumberland-island-national-seashore": {
       "url": "https://www.recreation.gov/gateways/2650",
       "name": "Cumberland Island National Seashore",
@@ -1880,10 +1852,32 @@
       "reservable": true,
       "campgrounds": 1
     },
+    "curecanti-national-recreation-area": {
+      "url": "https://www.recreation.gov/gateways/2651",
+      "name": "Curecanti National Recreation Area",
+      "id": "2651",
+      "reservable": true,
+      "campgrounds": 8
+    },
+    "croatan-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1045",
+      "name": "National Forests in North Carolina",
+      "id": "1045",
+      "reservable": true,
+      "campgrounds": 38,
+      "shared": true
+    },
     "currituck-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1367",
       "name": "Currituck National Wildlife Refuge",
       "id": "1367",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "custer-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1015",
+      "name": "Custer National Forest",
+      "id": "1015",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1894,24 +1888,10 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "custer-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1015",
-      "name": "Custer National Forest",
-      "id": "1015",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "cypress-creek-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1368",
       "name": "Cypress Creek National Wildlife Refuge",
       "id": "1368",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "dahomey-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1370",
-      "name": "Dahomey National Wildlife Refuge",
-      "id": "1370",
       "reservable": false,
       "campgrounds": 0
     },
@@ -1922,6 +1902,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "dahomey-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1370",
+      "name": "Dahomey National Wildlife Refuge",
+      "id": "1370",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "daniel-boone-national-forest": {
       "url": "https://www.recreation.gov/gateways/1042",
       "name": "Daniel Boone National Forest",
@@ -1929,20 +1916,20 @@
       "reservable": true,
       "campgrounds": 9
     },
-    "comanche-national-grassland": {
-      "url": "https://www.recreation.gov/gateways/1053",
-      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
-      "id": "1053",
-      "reservable": true,
-      "campgrounds": 101,
-      "shared": true
-    },
     "dayton-aviation-heritage-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2653",
       "name": "Dayton Aviation Heritage National Historical Park",
       "id": "2653",
       "reservable": false,
       "campgrounds": 0
+    },
+    "de-soto-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1044",
+      "name": "National Forests in Mississippi",
+      "id": "1044",
+      "reservable": true,
+      "campgrounds": 10,
+      "shared": true
     },
     "de-soto-national-memorial": {
       "url": "https://www.recreation.gov/gateways/2660",
@@ -1958,13 +1945,12 @@
       "reservable": true,
       "campgrounds": 2
     },
-    "de-soto-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1044",
-      "name": "National Forests in Mississippi",
-      "id": "1044",
-      "reservable": true,
-      "campgrounds": 10,
-      "shared": true
+    "deep-fork-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1371",
+      "name": "Deep Fork National Wildlife Refuge",
+      "id": "1371",
+      "reservable": false,
+      "campgrounds": 0
     },
     "deer-flat-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1372",
@@ -1981,12 +1967,12 @@
       "campgrounds": 48,
       "shared": true
     },
-    "deep-fork-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1371",
-      "name": "Deep Fork National Wildlife Refuge",
-      "id": "1371",
-      "reservable": false,
-      "campgrounds": 0
+    "delaware-water-gap-national-recreation-area": {
+      "url": "https://www.recreation.gov/gateways/2663",
+      "name": "Delaware Water Gap National Recreation Area",
+      "id": "2663",
+      "reservable": true,
+      "campgrounds": 4
     },
     "delevan-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1373",
@@ -2003,17 +1989,17 @@
       "campgrounds": 10,
       "shared": true
     },
-    "delaware-water-gap-national-recreation-area": {
-      "url": "https://www.recreation.gov/gateways/2663",
-      "name": "Delaware Water Gap National Recreation Area",
-      "id": "2663",
-      "reservable": true,
-      "campgrounds": 4
-    },
     "delta-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1374",
       "name": "Delta National Wildlife Refuge",
       "id": "1374",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "des-lacs-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1375",
+      "name": "Des Lacs National Wildlife Refuge",
+      "id": "1375",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2022,13 +2008,6 @@
       "name": "Denali National Park & Preserve",
       "id": "2658",
       "reservable": true,
-      "campgrounds": 0
-    },
-    "des-lacs-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1375",
-      "name": "Des Lacs National Wildlife Refuge",
-      "id": "1375",
-      "reservable": false,
       "campgrounds": 0
     },
     "deschutes-national-forest": {
@@ -2059,18 +2038,18 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "devils-lake-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1379",
-      "name": "Devils Lake Wetland Management District",
-      "id": "1379",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "devils-postpile-national-monument": {
       "url": "https://www.recreation.gov/gateways/2659",
       "name": "Devils Postpile National Monument",
       "id": "2659",
       "reservable": false,
+      "campgrounds": 0
+    },
+    "devils-tower-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2661",
+      "name": "Devils Tower National Monument",
+      "id": "2661",
+      "reservable": true,
       "campgrounds": 0
     },
     "dinosaur-national-monument": {
@@ -2087,31 +2066,17 @@
       "reservable": true,
       "campgrounds": 20
     },
-    "dominguez-escalante-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/14564",
-      "name": "Dominguez-Escalante National Conservation Area",
-      "id": "14564",
+    "don-edwards-san-francisco-bay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1380",
+      "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+      "id": "1380",
       "reservable": false,
-      "campgrounds": 0
-    },
-    "devils-tower-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2661",
-      "name": "Devils Tower National Monument",
-      "id": "2661",
-      "reservable": true,
       "campgrounds": 0
     },
     "driftless-area-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1381",
       "name": "Driftless Area National Wildlife Refuge",
       "id": "1381",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "don-edwards-san-francisco-bay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1380",
-      "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
-      "id": "1380",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2143,6 +2108,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "ebeys-landing-national-historical-reserve": {
+      "url": "https://www.recreation.gov/gateways/2666",
+      "name": "Ebey's Landing National Historical Reserve",
+      "id": "2666",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "dwight-d-eisenhower-memorial": {
       "url": "https://www.recreation.gov/gateways/10236315",
       "name": "Dwight D. Eisenhower Memorial",
@@ -2157,10 +2129,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "ebeys-landing-national-historical-reserve": {
-      "url": "https://www.recreation.gov/gateways/2666",
-      "name": "Ebey's Landing National Historical Reserve",
-      "id": "2666",
+    "edwin-b-forsythe-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1386",
+      "name": "Edwin B. Forsythe National Wildlife Refuge",
+      "id": "1386",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2171,20 +2143,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "egmont-key-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1387",
-      "name": "Egmont Key National Wildlife Refuge",
-      "id": "1387",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "edwin-b-forsythe-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1386",
-      "name": "Edwin B. Forsythe National Wildlife Refuge",
-      "id": "1386",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "eisenhower-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/13922",
       "name": "Eisenhower National Historic Site",
@@ -2192,17 +2150,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "el-camino-real-de-los-tejas-national-historic-trail": {
-      "url": "https://www.recreation.gov/gateways/12721",
-      "name": "El Camino Real de los Tejas National Historic Trail",
-      "id": "12721",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "el-malpais-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2672",
-      "name": "El Malpais National Monument",
-      "id": "2672",
+    "egmont-key-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1387",
+      "name": "Egmont Key National Wildlife Refuge",
+      "id": "1387",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2213,10 +2164,24 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "el-camino-real-de-los-tejas-national-historic-trail": {
+      "url": "https://www.recreation.gov/gateways/12721",
+      "name": "El Camino Real de los Tejas National Historic Trail",
+      "id": "12721",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "el-morro-national-monument": {
       "url": "https://www.recreation.gov/gateways/2673",
       "name": "El Morro National Monument",
       "id": "2673",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "el-malpais-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2672",
+      "name": "El Malpais National Monument",
+      "id": "2672",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2234,13 +2199,6 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "elizabeth-alexandra-morton-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3999",
-      "name": "Elizabeth Alexandra Morton National Wildlife Refuge",
-      "id": "3999",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "eldorado-national-forest": {
       "url": "https://www.recreation.gov/gateways/1063",
       "name": "Eldorado National Forest",
@@ -2248,17 +2206,24 @@
       "reservable": true,
       "campgrounds": 41
     },
+    "dominguez-escalante-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/14564",
+      "name": "Dominguez-Escalante National Conservation Area",
+      "id": "14564",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "elizabeth-alexandra-morton-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3999",
+      "name": "Elizabeth Alexandra Morton National Wildlife Refuge",
+      "id": "3999",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "ellicott-slough-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3937",
       "name": "Ellicott Slough National Wildlife Refuge",
       "id": "3937",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "ellis-island-part-of-statue-of-liberty-national-monument": {
-      "url": "https://www.recreation.gov/gateways/13924",
-      "name": "Ellis Island Part of Statue of Liberty National Monument",
-      "id": "13924",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2269,10 +2234,24 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "ellis-island-part-of-statue-of-liberty-national-monument": {
+      "url": "https://www.recreation.gov/gateways/13924",
+      "name": "Ellis Island Part of Statue of Liberty National Monument",
+      "id": "13924",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "emiquon-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1389",
       "name": "Emiquon National Wildlife Refuge",
       "id": "1389",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "emmett-till-and-mamie-till-mobley-national-monument": {
+      "url": "https://www.recreation.gov/gateways/10283148",
+      "name": "Emmett Till and Mamie Till-Mobley National Monument",
+      "id": "10283148",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2290,17 +2269,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "emmett-till-and-mamie-till-mobley-national-monument": {
-      "url": "https://www.recreation.gov/gateways/10283148",
-      "name": "Emmett Till and Mamie Till-Mobley National Monument",
-      "id": "10283148",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "eufaula-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1391",
       "name": "Eufaula National Wildlife Refuge",
       "id": "1391",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "eugene-oneill-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2676",
+      "name": "Eugene O'Neill National Historic Site",
+      "id": "2676",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2311,10 +2290,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "eugene-oneill-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2676",
-      "name": "Eugene O'Neill National Historic Site",
-      "id": "2676",
+    "fallon-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1392",
+      "name": "Fallon National Wildlife Refuge",
+      "id": "1392",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2325,10 +2304,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fallon-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1392",
-      "name": "Fallon National Wildlife Refuge",
-      "id": "1392",
+    "featherstone-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4039",
+      "name": "Featherstone National Wildlife Refuge",
+      "id": "4039",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2346,19 +2325,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "featherstone-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4039",
-      "name": "Featherstone National Wildlife Refuge",
-      "id": "4039",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "fern-cave-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1395",
       "name": "Fern Cave National Wildlife Refuge",
       "id": "1395",
       "reservable": true,
       "campgrounds": 0
+    },
+    "fire-island-national-seashore": {
+      "url": "https://www.recreation.gov/gateways/2681",
+      "name": "Fire Island National Seashore",
+      "id": "2681",
+      "reservable": true,
+      "campgrounds": 3
     },
     "finger-lakes-national-forest": {
       "url": "https://www.recreation.gov/gateways/2023",
@@ -2374,26 +2353,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fish-springs-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3917",
-      "name": "Fish Springs National Wildlife Refuge",
-      "id": "3917",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "first-state-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/13927",
       "name": "First State National Historical Park",
       "id": "13927",
       "reservable": false,
       "campgrounds": 0
-    },
-    "fire-island-national-seashore": {
-      "url": "https://www.recreation.gov/gateways/2681",
-      "name": "Fire Island National Seashore",
-      "id": "2681",
-      "reservable": true,
-      "campgrounds": 3
     },
     "fisherman-island-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4043",
@@ -2402,19 +2367,19 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "fish-springs-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3917",
+      "name": "Fish Springs National Wildlife Refuge",
+      "id": "3917",
+      "reservable": true,
+      "campgrounds": 0
+    },
     "fishlake-national-forest": {
       "url": "https://www.recreation.gov/gateways/1032",
       "name": "Fishlake National Forest",
       "id": "1032",
       "reservable": true,
       "campgrounds": 28
-    },
-    "flight-93-national-memorial": {
-      "url": "https://www.recreation.gov/gateways/13928",
-      "name": "Flight 93 National Memorial",
-      "id": "13928",
-      "reservable": false,
-      "campgrounds": 0
     },
     "flathead-national-forest": {
       "url": "https://www.recreation.gov/gateways/1016",
@@ -2430,17 +2395,24 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "flight-93-national-memorial": {
+      "url": "https://www.recreation.gov/gateways/13928",
+      "name": "Flight 93 National Memorial",
+      "id": "13928",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "flint-hills-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1397",
+      "name": "Flint Hills National Wildlife Refuge",
+      "id": "1397",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "florence-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4029",
       "name": "Florence Lake National Wildlife Refuge",
       "id": "4029",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "florida-panther-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3964",
-      "name": "Florida Panther National Wildlife Refuge",
-      "id": "3964",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2451,10 +2423,17 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "flint-hills-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1397",
-      "name": "Flint Hills National Wildlife Refuge",
-      "id": "1397",
+    "florida-panther-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3964",
+      "name": "Florida Panther National Wildlife Refuge",
+      "id": "3964",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "fords-theatre-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13929",
+      "name": "Ford's Theatre National Historic Site",
+      "id": "13929",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2465,17 +2444,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "fort-davis-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2688",
+      "name": "Fort Davis National Historic Site",
+      "id": "2688",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "fort-donelson-national-battlefield": {
       "url": "https://www.recreation.gov/gateways/2689",
       "name": "Fort Donelson National Battlefield",
       "id": "2689",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "fords-theatre-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13929",
-      "name": "Ford's Theatre National Historic Site",
-      "id": "13929",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2493,10 +2472,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-davis-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2688",
-      "name": "Fort Davis National Historic Site",
-      "id": "2688",
+    "fort-frederica-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2691",
+      "name": "Fort Frederica National Monument",
+      "id": "2691",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2514,17 +2493,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-frederica-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2691",
-      "name": "Fort Frederica National Monument",
-      "id": "2691",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "fort-matanzas-national-monument": {
       "url": "https://www.recreation.gov/gateways/2694",
       "name": "Fort Matanzas National Monument",
       "id": "2694",
+      "reservable": true,
+      "campgrounds": 0
+    },
+    "fort-mchenry-national-monument-and-historic-shrine": {
+      "url": "https://www.recreation.gov/gateways/2695",
+      "name": "Fort McHenry National Monument and Historic Shrine",
+      "id": "2695",
       "reservable": true,
       "campgrounds": 0
     },
@@ -2535,11 +2514,11 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-mchenry-national-monument-and-historic-shrine": {
-      "url": "https://www.recreation.gov/gateways/2695",
-      "name": "Fort McHenry National Monument and Historic Shrine",
-      "id": "2695",
-      "reservable": true,
+    "fort-niobrara-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1398",
+      "name": "Fort Niobrara National Wildlife Refuge",
+      "id": "1398",
+      "reservable": false,
       "campgrounds": 0
     },
     "fort-necessity-national-battlefield": {
@@ -2556,31 +2535,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-point-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2698",
-      "name": "Fort Point National Historic Site",
-      "id": "2698",
-      "reservable": true,
-      "campgrounds": 0
-    },
-    "fort-niobrara-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1398",
-      "name": "Fort Niobrara National Wildlife Refuge",
-      "id": "1398",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "fort-smith-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2702",
-      "name": "Fort Smith National Historic Site",
-      "id": "2702",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "fort-pulaski-national-monument": {
       "url": "https://www.recreation.gov/gateways/2699",
       "name": "Fort Pulaski National Monument",
       "id": "2699",
+      "reservable": true,
+      "campgrounds": 0
+    },
+    "fort-point-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2698",
+      "name": "Fort Point National Historic Site",
+      "id": "2698",
       "reservable": true,
       "campgrounds": 0
     },
@@ -2591,10 +2556,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-stanwix-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2703",
-      "name": "Fort Stanwix National Monument",
-      "id": "2703",
+    "fort-smith-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2702",
+      "name": "Fort Smith National Historic Site",
+      "id": "2702",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2605,10 +2570,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "fort-union-trading-post-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13930",
-      "name": "Fort Union Trading Post National Historic Site",
-      "id": "13930",
+    "fort-stanwix-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2703",
+      "name": "Fort Stanwix National Monument",
+      "id": "2703",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2619,6 +2584,13 @@
       "reservable": true,
       "campgrounds": 0
     },
+    "fort-union-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2706",
+      "name": "Fort Union National Monument",
+      "id": "2706",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "fort-vancouver-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2708",
       "name": "Fort Vancouver National Historic Site",
@@ -2626,10 +2598,17 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "fort-union-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2706",
-      "name": "Fort Union National Monument",
-      "id": "2706",
+    "fort-washington-park": {
+      "url": "https://www.recreation.gov/gateways/2709",
+      "name": "Fort Washington Park",
+      "id": "2709",
+      "reservable": true,
+      "campgrounds": 1
+    },
+    "fort-union-trading-post-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13930",
+      "name": "Fort Union Trading Post National Historic Site",
+      "id": "13930",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2640,20 +2619,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "frances-perkins-national-monument": {
-      "url": "https://www.recreation.gov/gateways/10342616",
-      "name": "Frances Perkins National Monument",
-      "id": "10342616",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "fort-washington-park": {
-      "url": "https://www.recreation.gov/gateways/2709",
-      "name": "Fort Washington Park",
-      "id": "2709",
-      "reservable": true,
-      "campgrounds": 1
-    },
     "fox-river-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1399",
       "name": "Fox River National Wildlife Refuge",
@@ -2661,10 +2626,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "franz-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/2165",
-      "name": "Franz Lake National Wildlife Refuge",
-      "id": "2165",
+    "frances-perkins-national-monument": {
+      "url": "https://www.recreation.gov/gateways/10342616",
+      "name": "Frances Perkins National Monument",
+      "id": "10342616",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2672,6 +2637,13 @@
       "url": "https://www.recreation.gov/gateways/4065",
       "name": "Franklin Island National Wildlife Refuge",
       "id": "4065",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "franz-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/2165",
+      "name": "Franz Lake National Wildlife Refuge",
+      "id": "2165",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2686,6 +2658,13 @@
       "url": "https://www.recreation.gov/gateways/2714",
       "name": "Frederick Law Olmsted National Historic Site",
       "id": "2714",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "fredericksburg-and-spotsylvania-national-military-park": {
+      "url": "https://www.recreation.gov/gateways/2715",
+      "name": "Fredericksburg & Spotsylvania National Military Park",
+      "id": "2715",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2704,6 +2683,14 @@
       "campgrounds": 17,
       "shared": true
     },
+    "gallatin-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1017",
+      "name": "Custer Gallatin National Forest",
+      "id": "1017",
+      "reservable": true,
+      "campgrounds": 59,
+      "shared": true
+    },
     "friendship-hill-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2713",
       "name": "Friendship Hill National Historic Site",
@@ -2715,13 +2702,6 @@
       "url": "https://www.recreation.gov/gateways/13951",
       "name": "Gateway Arch National Park",
       "id": "13951",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "fredericksburg-and-spotsylvania-national-military-park": {
-      "url": "https://www.recreation.gov/gateways/2715",
-      "name": "Fredericksburg & Spotsylvania National Military Park",
-      "id": "2715",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2739,20 +2719,19 @@
       "reservable": true,
       "campgrounds": 4
     },
+    "gauley-river-national-recreation-area": {
+      "url": "https://www.recreation.gov/gateways/2717",
+      "name": "Gauley River National Recreation Area",
+      "id": "2717",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "general-grant-national-memorial": {
       "url": "https://www.recreation.gov/gateways/13932",
       "name": "General Grant National Memorial",
       "id": "13932",
       "reservable": true,
       "campgrounds": 0
-    },
-    "gallatin-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1017",
-      "name": "Custer Gallatin National Forest",
-      "id": "1017",
-      "reservable": true,
-      "campgrounds": 59,
-      "shared": true
     },
     "george-washington-birthplace-national-monument": {
       "url": "https://www.recreation.gov/gateways/13934",
@@ -2761,17 +2740,10 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "gauley-river-national-recreation-area": {
-      "url": "https://www.recreation.gov/gateways/2717",
-      "name": "Gauley River National Recreation Area",
-      "id": "2717",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "george-washington-carver-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2745",
-      "name": "George Washington Carver National Monument",
-      "id": "2745",
+    "george-rogers-clark-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2720",
+      "name": "George Rogers Clark National Historical Park",
+      "id": "2720",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2782,26 +2754,19 @@
       "reservable": true,
       "campgrounds": 1
     },
+    "george-washington-carver-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2745",
+      "name": "George Washington Carver National Monument",
+      "id": "2745",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "gettysburg-national-military-park": {
       "url": "https://www.recreation.gov/gateways/2722",
       "name": "Gettysburg National Military Park",
       "id": "2722",
       "reservable": true,
       "campgrounds": 3
-    },
-    "george-rogers-clark-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2720",
-      "name": "George Rogers Clark National Historical Park",
-      "id": "2720",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "gifford-pinchot-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1117",
-      "name": "Gifford Pinchot National Forest",
-      "id": "1117",
-      "reservable": true,
-      "campgrounds": 41
     },
     "george-washington-national-forest": {
       "url": "https://www.recreation.gov/gateways/1050",
@@ -2811,24 +2776,24 @@
       "campgrounds": 48,
       "shared": true
     },
-    "gila-cliff-dwellings-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2724",
-      "name": "Gila Cliff Dwellings National Monument",
-      "id": "2724",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "gila-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1099",
-      "name": "Gila National Forest",
-      "id": "1099",
+    "gifford-pinchot-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1117",
+      "name": "Gifford Pinchot National Forest",
+      "id": "1117",
       "reservable": true,
-      "campgrounds": 4
+      "campgrounds": 41
     },
     "gila-box-riparian-national-conservation-area": {
       "url": "https://www.recreation.gov/gateways/2045",
       "name": "Gila Box Riparian National Conservation Area",
       "id": "2045",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "gila-cliff-dwellings-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2724",
+      "name": "Gila Cliff Dwellings National Monument",
+      "id": "2724",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2839,6 +2804,20 @@
       "reservable": true,
       "campgrounds": 9
     },
+    "glacier-bay-national-park-and-preserve": {
+      "url": "https://www.recreation.gov/gateways/2726",
+      "name": "Glacier Bay National Park & Preserve",
+      "id": "2726",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "gila-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1099",
+      "name": "Gila National Forest",
+      "id": "1099",
+      "reservable": true,
+      "campgrounds": 4
+    },
     "glen-canyon-national-recreation-area": {
       "url": "https://www.recreation.gov/gateways/2727",
       "name": "Glen Canyon National Recreation Area",
@@ -2846,10 +2825,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "glacier-bay-national-park-and-preserve": {
-      "url": "https://www.recreation.gov/gateways/2726",
-      "name": "Glacier Bay National Park & Preserve",
-      "id": "2726",
+    "glen-echo-park": {
+      "url": "https://www.recreation.gov/gateways/2729",
+      "name": "Glen Echo Park",
+      "id": "2729",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2860,17 +2839,24 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "gold-butte-national-monument": {
-      "url": "https://www.recreation.gov/gateways/10159027",
-      "name": "Gold Butte National Monument",
-      "id": "10159027",
-      "reservable": false,
-      "campgrounds": 0
+    "golden-gate-national-recreation-area": {
+      "url": "https://www.recreation.gov/gateways/2730",
+      "name": "Golden Gate National Recreation Area",
+      "id": "2730",
+      "reservable": true,
+      "campgrounds": 4
     },
     "golden-spike-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/13936",
       "name": "Golden Spike National Historical Park",
       "id": "13936",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "gold-butte-national-monument": {
+      "url": "https://www.recreation.gov/gateways/10159027",
+      "name": "Gold Butte National Monument",
+      "id": "10159027",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2881,26 +2867,19 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "golden-gate-national-recreation-area": {
-      "url": "https://www.recreation.gov/gateways/2730",
-      "name": "Golden Gate National Recreation Area",
-      "id": "2730",
-      "reservable": true,
-      "campgrounds": 4
-    },
-    "glen-echo-park": {
-      "url": "https://www.recreation.gov/gateways/2729",
-      "name": "Glen Echo Park",
-      "id": "2729",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "grand-canyon-national-park": {
       "url": "https://www.recreation.gov/gateways/2733",
       "name": "Grand Canyon National Park",
       "id": "2733",
       "reservable": true,
       "campgrounds": 3
+    },
+    "grand-bay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1400",
+      "name": "Grand Bay National Wildlife Refuge",
+      "id": "1400",
+      "reservable": false,
+      "campgrounds": 0
     },
     "grand-canyon-parashant-national-monument": {
       "url": "https://www.recreation.gov/gateways/2854",
@@ -2909,10 +2888,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "grand-bay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1400",
-      "name": "Grand Bay National Wildlife Refuge",
-      "id": "1400",
+    "grand-cote-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1401",
+      "name": "Grand Cote National Wildlife Refuge",
+      "id": "1401",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2924,24 +2903,10 @@
       "campgrounds": 48,
       "shared": true
     },
-    "grand-cote-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1401",
-      "name": "Grand Cote National Wildlife Refuge",
-      "id": "1401",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "grand-portage-national-monument": {
       "url": "https://www.recreation.gov/gateways/2737",
       "name": "Grand Portage National Monument",
       "id": "2737",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "grand-staircase-escalante-national-monument": {
-      "url": "https://www.recreation.gov/gateways/3120",
-      "name": "Grand Staircase-Escalante National Monument",
-      "id": "3120",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2952,17 +2917,17 @@
       "reservable": true,
       "campgrounds": 9
     },
+    "grand-staircase-escalante-national-monument": {
+      "url": "https://www.recreation.gov/gateways/3120",
+      "name": "Grand Staircase-Escalante National Monument",
+      "id": "3120",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "grass-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1415",
       "name": "Grass Lake National Wildlife Refuge",
       "id": "1415",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "gravel-island-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4052",
-      "name": "Gravel Island National Wildlife Refuge",
-      "id": "4052",
       "reservable": false,
       "campgrounds": 0
     },
@@ -2973,12 +2938,26 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "gravel-island-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4052",
+      "name": "Gravel Island National Wildlife Refuge",
+      "id": "4052",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "great-basin-national-park": {
       "url": "https://www.recreation.gov/gateways/2732",
       "name": "Great Basin National Park",
       "id": "2732",
       "reservable": true,
       "campgrounds": 5
+    },
+    "grays-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1404",
+      "name": "Grays Lake National Wildlife Refuge",
+      "id": "1404",
+      "reservable": false,
+      "campgrounds": 0
     },
     "grays-harbor-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1403",
@@ -2987,10 +2966,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "grays-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1404",
-      "name": "Grays Lake National Wildlife Refuge",
-      "id": "1404",
+    "great-bay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1405",
+      "name": "Great Bay National Wildlife Refuge",
+      "id": "1405",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3008,13 +2987,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "great-bay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1405",
-      "name": "Great Bay National Wildlife Refuge",
-      "id": "1405",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "great-falls-park": {
       "url": "https://www.recreation.gov/gateways/2735",
       "name": "Great Falls Park",
@@ -3026,13 +2998,6 @@
       "url": "https://www.recreation.gov/gateways/4049",
       "name": "Great River National Wildlife Refuge",
       "id": "4049",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "great-swamp-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1408",
-      "name": "Great Swamp National Wildlife Refuge",
-      "id": "1408",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3050,17 +3015,17 @@
       "reservable": true,
       "campgrounds": 30
     },
+    "great-swamp-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1408",
+      "name": "Great Swamp National Wildlife Refuge",
+      "id": "1408",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "great-white-heron-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1409",
       "name": "Great White Heron National Wildlife Refuge",
       "id": "1409",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "green-cay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4044",
-      "name": "Green Cay National Wildlife Refuge",
-      "id": "4044",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3071,17 +3036,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "green-cay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4044",
+      "name": "Green Cay National Wildlife Refuge",
+      "id": "4044",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "green-springs": {
       "url": "https://www.recreation.gov/gateways/2740",
       "name": "Green Springs",
       "id": "2740",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "grulla-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1410",
-      "name": "Grulla National Wildlife Refuge",
-      "id": "1410",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3092,6 +3057,13 @@
       "reservable": true,
       "campgrounds": 2
     },
+    "grulla-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1410",
+      "name": "Grulla National Wildlife Refuge",
+      "id": "1410",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "guadalupe-mountains-national-park": {
       "url": "https://www.recreation.gov/gateways/2744",
       "name": "Guadalupe Mountains National Park",
@@ -3099,17 +3071,17 @@
       "reservable": true,
       "campgrounds": 3
     },
-    "guam-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1411",
-      "name": "Guam National Wildlife Refuge",
-      "id": "1411",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "guadalupe-nipomo-dunes-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/2163",
       "name": "Guadalupe-Nipomo Dunes National Wildlife Refuge",
       "id": "2163",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "guam-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1411",
+      "name": "Guam National Wildlife Refuge",
+      "id": "1411",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3120,19 +3092,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "gunnison-gorge-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/1694",
-      "name": "Gunnison Gorge National Conservation Area",
-      "id": "1694",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "gulf-islands-national-seashore": {
       "url": "https://www.recreation.gov/gateways/2743",
       "name": "Gulf Islands National Seashore",
       "id": "2743",
       "reservable": true,
       "campgrounds": 2
+    },
+    "gunnison-gorge-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/1694",
+      "name": "Gunnison Gorge National Conservation Area",
+      "id": "1694",
+      "reservable": true,
+      "campgrounds": 0
     },
     "gunnison-national-forest": {
       "url": "https://www.recreation.gov/gateways/1052",
@@ -3170,10 +3142,10 @@
       "reservable": true,
       "campgrounds": 4
     },
-    "hampton-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13940",
-      "name": "Hampton National Historic Site",
-      "id": "13940",
+    "hamilton-grange-national-memorial": {
+      "url": "https://www.recreation.gov/gateways/13939",
+      "name": "Hamilton Grange National Memorial",
+      "id": "13939",
       "reservable": true,
       "campgrounds": 0
     },
@@ -3184,24 +3156,24 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "hamilton-grange-national-memorial": {
-      "url": "https://www.recreation.gov/gateways/13939",
-      "name": "Hamilton Grange National Memorial",
-      "id": "13939",
+    "hampton-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13940",
+      "name": "Hampton National Historic Site",
+      "id": "13940",
       "reservable": true,
-      "campgrounds": 0
-    },
-    "handy-brake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1418",
-      "name": "Handy Brake National Wildlife Refuge",
-      "id": "1418",
-      "reservable": false,
       "campgrounds": 0
     },
     "hanalei-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1417",
       "name": "Hanalei National Wildlife Refuge",
       "id": "1417",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "handy-brake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1418",
+      "name": "Handy Brake National Wildlife Refuge",
+      "id": "1418",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3226,17 +3198,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "harry-s-truman-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13943",
-      "name": "Harry S Truman National Historic Site",
-      "id": "13943",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "harris-neck-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1420",
       "name": "Harris Neck National Wildlife Refuge",
       "id": "1420",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "harry-s-truman-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13943",
+      "name": "Harry S Truman National Historic Site",
+      "id": "13943",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3247,13 +3219,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "hatchie-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1422",
-      "name": "Hatchie National Wildlife Refuge",
-      "id": "1422",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "havasu-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1423",
       "name": "Havasu National Wildlife Refuge",
@@ -3261,10 +3226,24 @@
       "reservable": true,
       "campgrounds": 0
     },
+    "hatchie-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1422",
+      "name": "Hatchie National Wildlife Refuge",
+      "id": "1422",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "hawai-i-volcanoes-national-park": {
       "url": "https://www.recreation.gov/gateways/2753",
       "name": "Hawaiʻi Volcanoes National Park",
       "id": "2753",
+      "reservable": true,
+      "campgrounds": 0
+    },
+    "headwaters-forest-reserve": {
+      "url": "https://www.recreation.gov/gateways/14776",
+      "name": "Headwaters Forest Reserve",
+      "id": "14776",
       "reservable": true,
       "campgrounds": 0
     },
@@ -3276,17 +3255,17 @@
       "campgrounds": 29,
       "shared": true
     },
-    "headwaters-forest-reserve": {
-      "url": "https://www.recreation.gov/gateways/14776",
-      "name": "Headwaters Forest Reserve",
-      "id": "14776",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "herbert-hoover-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2754",
       "name": "Herbert Hoover National Historic Site",
       "id": "2754",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "hewitt-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4101",
+      "name": "Hewitt Lake National Wildlife Refuge",
+      "id": "4101",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3297,10 +3276,10 @@
       "reservable": true,
       "campgrounds": 43
     },
-    "hewitt-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4101",
-      "name": "Hewitt Lake National Wildlife Refuge",
-      "id": "4101",
+    "hillside-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1426",
+      "name": "Hillside National Wildlife Refuge",
+      "id": "1426",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3308,13 +3287,6 @@
       "url": "https://www.recreation.gov/gateways/2771",
       "name": "Historic Jamestowne Part of Colonial National Historical Park",
       "id": "2771",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "hillside-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1426",
-      "name": "Hillside National Wildlife Refuge",
-      "id": "1426",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3347,25 +3319,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "homochitto-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1044",
-      "name": "National Forests in Mississippi",
-      "id": "1044",
-      "reservable": true,
-      "campgrounds": 10,
-      "shared": true
-    },
     "honouliuli-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/14508",
       "name": "Honouliuli National Historic Site",
       "id": "14508",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "hopewell-culture-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2756",
-      "name": "Hopewell Culture National Historical Park",
-      "id": "2756",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3376,10 +3333,10 @@
       "reservable": true,
       "campgrounds": 10
     },
-    "hopper-mountain-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3931",
-      "name": "Hopper Mountain National Wildlife Refuge",
-      "id": "3931",
+    "hopewell-culture-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2756",
+      "name": "Hopewell Culture National Historical Park",
+      "id": "2756",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3390,12 +3347,26 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "hopper-mountain-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3931",
+      "name": "Hopper Mountain National Wildlife Refuge",
+      "id": "3931",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "horicon-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1429",
       "name": "Horicon National Wildlife Refuge",
       "id": "1429",
       "reservable": false,
       "campgrounds": 0
+    },
+    "hot-springs-national-park": {
+      "url": "https://www.recreation.gov/gateways/2760",
+      "name": "Hot Springs National Park",
+      "id": "2760",
+      "reservable": true,
+      "campgrounds": 1
     },
     "horseshoe-bend-national-military-park": {
       "url": "https://www.recreation.gov/gateways/2755",
@@ -3411,24 +3382,18 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "hot-springs-national-park": {
-      "url": "https://www.recreation.gov/gateways/2760",
-      "name": "Hot Springs National Park",
-      "id": "2760",
+    "homochitto-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1044",
+      "name": "National Forests in Mississippi",
+      "id": "1044",
       "reservable": true,
-      "campgrounds": 1
+      "campgrounds": 10,
+      "shared": true
     },
     "hubbell-trading-post-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/13947",
       "name": "Hubbell Trading Post National Historic Site",
       "id": "13947",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "humboldt-bay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1430",
-      "name": "Humboldt Bay National Wildlife Refuge",
-      "id": "1430",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3440,13 +3405,12 @@
       "campgrounds": 39,
       "shared": true
     },
-    "huron-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1082",
-      "name": "Huron-Manistee National Forests",
-      "id": "1082",
-      "reservable": true,
-      "campgrounds": 25,
-      "shared": true
+    "humboldt-bay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1430",
+      "name": "Humboldt Bay National Wildlife Refuge",
+      "id": "1430",
+      "reservable": false,
+      "campgrounds": 0
     },
     "huron-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1431",
@@ -3455,12 +3419,13 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "huron-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1432",
-      "name": "Huron Wetland Management District",
-      "id": "1432",
-      "reservable": false,
-      "campgrounds": 0
+    "huron-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1082",
+      "name": "Huron-Manistee National Forests",
+      "id": "1082",
+      "reservable": true,
+      "campgrounds": 25,
+      "shared": true
     },
     "hutton-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1433",
@@ -3532,6 +3497,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "isle-royale-national-park": {
+      "url": "https://www.recreation.gov/gateways/2769",
+      "name": "Isle Royale National Park",
+      "id": "2769",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "island-bay-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1438",
       "name": "Island Bay National Wildlife Refuge",
@@ -3543,20 +3515,6 @@
       "url": "https://www.recreation.gov/gateways/3923",
       "name": "Izembek National Wildlife Refuge",
       "id": "3923",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "isle-royale-national-park": {
-      "url": "https://www.recreation.gov/gateways/2769",
-      "name": "Isle Royale National Park",
-      "id": "2769",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "j-clark-salyer-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1441",
-      "name": "J. Clark Salyer Wetland Management District",
-      "id": "1441",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3574,6 +3532,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "james-campbell-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1443",
+      "name": "James Campbell National Wildlife Refuge",
+      "id": "1443",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "james-river-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1444",
       "name": "James River National Wildlife Refuge",
@@ -3588,10 +3553,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "james-campbell-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1443",
-      "name": "James Campbell National Wildlife Refuge",
-      "id": "1443",
+    "jean-lafitte-national-historical-park-and-preserve": {
+      "url": "https://www.recreation.gov/gateways/13950",
+      "name": "Jean Lafitte National Historical Park and Preserve",
+      "id": "13950",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3603,25 +3568,11 @@
       "campgrounds": 48,
       "shared": true
     },
-    "jean-lafitte-national-historical-park-and-preserve": {
-      "url": "https://www.recreation.gov/gateways/13950",
-      "name": "Jean Lafitte National Historical Park and Preserve",
-      "id": "13950",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "jewel-cave-national-monument": {
       "url": "https://www.recreation.gov/gateways/2772",
       "name": "Jewel Cave National Monument",
       "id": "2772",
       "reservable": true,
-      "campgrounds": 0
-    },
-    "jocelyn-nungaray-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1262",
-      "name": "Jocelyn Nungaray National Wildlife Refuge",
-      "id": "1262",
-      "reservable": false,
       "campgrounds": 0
     },
     "jimmy-carter-national-historical-park": {
@@ -3631,10 +3582,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "john-fitzgerald-kennedy-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13527",
-      "name": "John Fitzgerald Kennedy National Historic Site",
-      "id": "13527",
+    "jocelyn-nungaray-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1262",
+      "name": "Jocelyn Nungaray National Wildlife Refuge",
+      "id": "1262",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3645,10 +3596,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "john-hay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1445",
-      "name": "John Hay National Wildlife Refuge",
-      "id": "1445",
+    "john-fitzgerald-kennedy-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13527",
+      "name": "John Fitzgerald Kennedy National Historic Site",
+      "id": "13527",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3656,6 +3607,13 @@
       "url": "https://www.recreation.gov/gateways/4004",
       "name": "John H. Chafee National Wildlife Refuge",
       "id": "4004",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "john-hay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1445",
+      "name": "John Hay National Wildlife Refuge",
+      "id": "1445",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3673,17 +3631,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "johnston-atoll-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1508",
-      "name": "Johnston Atoll National Wildlife Refuge",
-      "id": "1508",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "john-w-and-louise-seier-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3960",
       "name": "John W. and Louise Seier National Wildlife Refuge",
       "id": "3960",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "johnston-atoll-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1508",
+      "name": "Johnston Atoll National Wildlife Refuge",
+      "id": "1508",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3715,19 +3673,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "kalaupapa-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2785",
-      "name": "Kalaupapa National Historical Park",
-      "id": "2785",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "kaibab-national-forest": {
       "url": "https://www.recreation.gov/gateways/1094",
       "name": "Kaibab National Forest",
       "id": "1094",
       "reservable": true,
       "campgrounds": 10
+    },
+    "kalaupapa-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2785",
+      "name": "Kalaupapa National Historical Park",
+      "id": "2785",
+      "reservable": true,
+      "campgrounds": 0
     },
     "kaloko-honokohau-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/13955",
@@ -3778,13 +3736,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "kenai-fjords-national-park": {
-      "url": "https://www.recreation.gov/gateways/2787",
-      "name": "Kenai Fjords National Park",
-      "id": "2787",
-      "reservable": true,
-      "campgrounds": 1
-    },
     "kenai-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1451",
       "name": "Kenai National Wildlife Refuge",
@@ -3792,12 +3743,12 @@
       "reservable": true,
       "campgrounds": 2
     },
-    "kenilworth-park-and-aquatic-gardens": {
-      "url": "https://www.recreation.gov/gateways/2789",
-      "name": "Kenilworth Park & Aquatic Gardens",
-      "id": "2789",
-      "reservable": false,
-      "campgrounds": 0
+    "kenai-fjords-national-park": {
+      "url": "https://www.recreation.gov/gateways/2787",
+      "name": "Kenai Fjords National Park",
+      "id": "2787",
+      "reservable": true,
+      "campgrounds": 1
     },
     "kennesaw-mountain-national-battlefield-park": {
       "url": "https://www.recreation.gov/gateways/2788",
@@ -3806,24 +3757,17 @@
       "reservable": true,
       "campgrounds": 0
     },
+    "kenilworth-park-and-aquatic-gardens": {
+      "url": "https://www.recreation.gov/gateways/2789",
+      "name": "Kenilworth Park & Aquatic Gardens",
+      "id": "2789",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "kern-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1452",
       "name": "Kern National Wildlife Refuge",
       "id": "1452",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "key-cave-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3927",
-      "name": "Key Cave National Wildlife Refuge",
-      "id": "3927",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "key-west-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1453",
-      "name": "Key West National Wildlife Refuge",
-      "id": "1453",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3834,10 +3778,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "king-range-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/14775",
-      "name": "King Range National Conservation Area",
-      "id": "14775",
+    "key-west-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1453",
+      "name": "Key West National Wildlife Refuge",
+      "id": "1453",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "key-cave-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3927",
+      "name": "Key Cave National Wildlife Refuge",
+      "id": "3927",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3845,6 +3796,13 @@
       "url": "https://www.recreation.gov/gateways/4011",
       "name": "Kingman Reef National Wildlife Refuge",
       "id": "4011",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "king-range-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/14775",
+      "name": "King Range National Conservation Area",
+      "id": "14775",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3859,13 +3817,6 @@
       "url": "https://www.recreation.gov/gateways/1456",
       "name": "Kirwin National Wildlife Refuge",
       "id": "1456",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "kirtlands-warbler-wildlife-management-area": {
-      "url": "https://www.recreation.gov/gateways/1455",
-      "name": "Kirtland's Warbler Wildlife Management Area",
-      "id": "1455",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3918,19 +3869,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "kofa-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1459",
-      "name": "Kofa National Wildlife Refuge",
-      "id": "1459",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "kodiak-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1458",
       "name": "Kodiak National Wildlife Refuge",
       "id": "1458",
       "reservable": true,
       "campgrounds": 1
+    },
+    "kofa-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1459",
+      "name": "Kofa National Wildlife Refuge",
+      "id": "1459",
+      "reservable": false,
+      "campgrounds": 0
     },
     "kootenai-national-forest": {
       "url": "https://www.recreation.gov/gateways/1019",
@@ -3943,13 +3894,6 @@
       "url": "https://www.recreation.gov/gateways/1460",
       "name": "Kootenai National Wildlife Refuge",
       "id": "1460",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "kulm-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/3918",
-      "name": "Kulm Wetland Management District",
-      "id": "3918",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3967,13 +3911,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "lacreek-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1464",
-      "name": "Lacreek National Wildlife Refuge",
-      "id": "1464",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "laguna-atascosa-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1466",
       "name": "Laguna Atascosa National Wildlife Refuge",
@@ -3981,10 +3918,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "lake-alice-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1468",
-      "name": "Lake Alice National Wildlife Refuge",
-      "id": "1468",
+    "lacreek-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1464",
+      "name": "Lacreek National Wildlife Refuge",
+      "id": "1464",
       "reservable": false,
       "campgrounds": 0
     },
@@ -3992,6 +3929,13 @@
       "url": "https://www.recreation.gov/gateways/1467",
       "name": "Laguna Cartagena National Wildlife Refuge",
       "id": "1467",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "lake-alice-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1468",
+      "name": "Lake Alice National Wildlife Refuge",
+      "id": "1468",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4023,19 +3967,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "lake-mason-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1474",
-      "name": "Lake Mason National Wildlife Refuge",
-      "id": "1474",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "lake-mead-national-recreation-area": {
       "url": "https://www.recreation.gov/gateways/14519",
       "name": "Lake Mead National Recreation Area",
       "id": "14519",
       "reservable": true,
       "campgrounds": 6
+    },
+    "lake-mason-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1474",
+      "name": "Lake Mason National Wildlife Refuge",
+      "id": "1474",
+      "reservable": false,
+      "campgrounds": 0
     },
     "lake-meredith-national-recreation-area": {
       "url": "https://www.recreation.gov/gateways/2801",
@@ -4057,6 +4001,13 @@
       "id": "2802",
       "reservable": true,
       "campgrounds": 21
+    },
+    "kirtlands-warbler-wildlife-management-area": {
+      "url": "https://www.recreation.gov/gateways/1455",
+      "name": "Kirtland's Warbler Wildlife Management Area",
+      "id": "1455",
+      "reservable": false,
+      "campgrounds": 0
     },
     "lake-wales-ridge-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3945",
@@ -4100,19 +4051,19 @@
       "reservable": true,
       "campgrounds": 8
     },
-    "lava-beds-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2797",
-      "name": "Lava Beds National Monument",
-      "id": "2797",
-      "reservable": true,
-      "campgrounds": 1
-    },
     "lassen-volcanic-national-park": {
       "url": "https://www.recreation.gov/gateways/2803",
       "name": "Lassen Volcanic National Park",
       "id": "2803",
       "reservable": true,
       "campgrounds": 14
+    },
+    "lava-beds-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2797",
+      "name": "Lava Beds National Monument",
+      "id": "2797",
+      "reservable": true,
+      "campgrounds": 1
     },
     "lee-metcalf-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1482",
@@ -4128,13 +4079,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "lewis-and-clark-national-historic-trail": {
-      "url": "https://www.recreation.gov/gateways/2804",
-      "name": "Lewis & Clark National Historic Trail",
-      "id": "2804",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "lewis-and-clark-national-forest": {
       "url": "https://www.recreation.gov/gateways/1018",
       "name": "Helena-Lewis and Clark National Forest",
@@ -4142,6 +4086,13 @@
       "reservable": true,
       "campgrounds": 29,
       "shared": true
+    },
+    "lewis-and-clark-national-historic-trail": {
+      "url": "https://www.recreation.gov/gateways/2804",
+      "name": "Lewis & Clark National Historic Trail",
+      "id": "2804",
+      "reservable": false,
+      "campgrounds": 0
     },
     "lewis-and-clark-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/12726",
@@ -4157,17 +4108,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "lincoln-boyhood-national-memorial": {
-      "url": "https://www.recreation.gov/gateways/13958",
-      "name": "Lincoln Boyhood National Memorial",
-      "id": "13958",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "lincoln-home-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/13959",
       "name": "Lincoln Home National Historic Site",
       "id": "13959",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "lincoln-boyhood-national-memorial": {
+      "url": "https://www.recreation.gov/gateways/13958",
+      "name": "Lincoln Boyhood National Memorial",
+      "id": "13958",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4241,13 +4192,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "long-lake-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/4099",
-      "name": "Long Lake Wetland Management District",
-      "id": "4099",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "longfellow-house-washingtons-headquarters-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/13961",
       "name": "Longfellow House Washington's Headquarters National Historic Site",
@@ -4304,17 +4248,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "lower-rio-grande-valley-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3952",
-      "name": "Lower Rio Grande Valley National Wildlife Refuge",
-      "id": "3952",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "lower-klamath-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1493",
       "name": "Lower Klamath National Wildlife Refuge",
       "id": "1493",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "lower-rio-grande-valley-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3952",
+      "name": "Lower Rio Grande Valley National Wildlife Refuge",
+      "id": "3952",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4346,13 +4290,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "madison-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1496",
-      "name": "Madison Wetland Management District",
-      "id": "1496",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "maine-acadian-culture": {
       "url": "https://www.recreation.gov/gateways/2815",
       "name": "Maine Acadian Culture",
@@ -4367,19 +4304,19 @@
       "reservable": true,
       "campgrounds": 27
     },
-    "mammoth-cave-national-park": {
-      "url": "https://www.recreation.gov/gateways/2818",
-      "name": "Mammoth Cave National Park",
-      "id": "2818",
-      "reservable": true,
-      "campgrounds": 5
-    },
     "malheur-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1263",
       "name": "Malheur National Wildlife Refuge",
       "id": "1263",
       "reservable": false,
       "campgrounds": 0
+    },
+    "mammoth-cave-national-park": {
+      "url": "https://www.recreation.gov/gateways/2818",
+      "name": "Mammoth Cave National Park",
+      "id": "2818",
+      "reservable": true,
+      "campgrounds": 5
     },
     "manassas-national-battlefield-park": {
       "url": "https://www.recreation.gov/gateways/2820",
@@ -4431,6 +4368,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "mariana-trench-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/13546",
+      "name": "Mariana Trench National Wildlife Refuge",
+      "id": "13546",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "marin-islands-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3939",
       "name": "Marin Islands National Wildlife Refuge",
@@ -4459,17 +4403,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "martin-van-buren-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2822",
-      "name": "Martin Van Buren National Historic Site",
-      "id": "2822",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "mary-mcleod-bethune-council-house-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/13965",
       "name": "Mary McLeod Bethune Council House National Historic Site",
       "id": "13965",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "martin-van-buren-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2822",
+      "name": "Martin Van Buren National Historic Site",
+      "id": "2822",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4494,18 +4438,18 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "mattamuskeet-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1504",
-      "name": "Mattamuskeet National Wildlife Refuge",
-      "id": "1504",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "matlacha-pass-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1503",
       "name": "Matlacha Pass National Wildlife Refuge",
       "id": "1503",
       "reservable": false,
+      "campgrounds": 0
+    },
+    "mattamuskeet-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1504",
+      "name": "Mattamuskeet National Wildlife Refuge",
+      "id": "1504",
+      "reservable": true,
       "campgrounds": 0
     },
     "maxwell-national-wildlife-refuge": {
@@ -4533,13 +4477,6 @@
       "url": "https://www.recreation.gov/gateways/1507",
       "name": "McKay Creek National Wildlife Refuge",
       "id": "1507",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "mariana-trench-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/13546",
-      "name": "Mariana Trench National Wildlife Refuge",
-      "id": "13546",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4620,13 +4557,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "mille-lacs-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4019",
-      "name": "Mille Lacs National Wildlife Refuge",
-      "id": "4019",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "mingo-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1515",
       "name": "Mingo National Wildlife Refuge",
@@ -4634,10 +4564,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "minidoka-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13967",
-      "name": "Minidoka National Historic Site",
-      "id": "13967",
+    "mille-lacs-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4019",
+      "name": "Mille Lacs National Wildlife Refuge",
+      "id": "4019",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4648,10 +4578,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "minnesota-valley-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1517",
-      "name": "Minnesota Valley National Wildlife Refuge",
-      "id": "1517",
+    "minidoka-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13967",
+      "name": "Minidoka National Historic Site",
+      "id": "13967",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4669,10 +4599,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "missisquoi-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1519",
-      "name": "Missisquoi National Wildlife Refuge",
-      "id": "1519",
+    "minnesota-valley-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1517",
+      "name": "Minnesota Valley National Wildlife Refuge",
+      "id": "1517",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4680,6 +4610,13 @@
       "url": "https://www.recreation.gov/gateways/2827",
       "name": "Mississippi National River & Recreation Area",
       "id": "2827",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "missisquoi-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1519",
+      "name": "Missisquoi National Wildlife Refuge",
+      "id": "1519",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4739,19 +4676,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "monomoy-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1522",
-      "name": "Monomoy National Wildlife Refuge",
-      "id": "1522",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "monongahela-national-forest": {
       "url": "https://www.recreation.gov/gateways/1090",
       "name": "Monongahela National Forest",
       "id": "1090",
       "reservable": true,
       "campgrounds": 23
+    },
+    "monomoy-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1522",
+      "name": "Monomoy National Wildlife Refuge",
+      "id": "1522",
+      "reservable": false,
+      "campgrounds": 0
     },
     "monte-vista-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1523",
@@ -4785,6 +4722,13 @@
       "url": "https://www.recreation.gov/gateways/1525",
       "name": "Moosehorn National Wildlife Refuge",
       "id": "1525",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "morgan-brake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1526",
+      "name": "Morgan Brake National Wildlife Refuge",
+      "id": "1526",
       "reservable": false,
       "campgrounds": 0
     },
@@ -4950,20 +4894,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "morgan-brake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1526",
-      "name": "Morgan Brake National Wildlife Refuge",
-      "id": "1526",
+    "neal-smith-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1534",
+      "name": "Neal Smith National Wildlife Refuge",
+      "id": "1534",
       "reservable": false,
       "campgrounds": 0
     },
-    "nebraska-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1056",
-      "name": "Nebraska National Forests and Grasslands",
-      "id": "1056",
-      "reservable": true,
-      "campgrounds": 5,
-      "shared": true
+    "necedah-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1535",
+      "name": "Necedah National Wildlife Refuge",
+      "id": "1535",
+      "reservable": false,
+      "campgrounds": 0
     },
     "nestucca-bay-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4001",
@@ -4993,20 +4936,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "new-philadelphia-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/10249919",
-      "name": "New Philadelphia National Historic Site",
-      "id": "10249919",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "neal-smith-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1534",
-      "name": "Neal Smith National Wildlife Refuge",
-      "id": "1534",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "new-river-gorge-national-park-and-preserve": {
       "url": "https://www.recreation.gov/gateways/2840",
       "name": "New River Gorge National Park & Preserve",
@@ -5014,12 +4943,27 @@
       "reservable": true,
       "campgrounds": 5
     },
-    "necedah-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1535",
-      "name": "Necedah National Wildlife Refuge",
-      "id": "1535",
+    "new-philadelphia-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/10249919",
+      "name": "New Philadelphia National Historic Site",
+      "id": "10249919",
       "reservable": false,
       "campgrounds": 0
+    },
+    "nez-perce-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2839",
+      "name": "Nez Perce National Historical Park",
+      "id": "2839",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "nebraska-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1056",
+      "name": "Nebraska National Forests and Grasslands",
+      "id": "1056",
+      "reservable": true,
+      "campgrounds": 5,
+      "shared": true
     },
     "nicodemus-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2841",
@@ -5028,17 +4972,24 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "ninepipe-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/RA41005",
-      "name": "Ninepipe National Wildlife Refuge",
-      "id": "RA41005",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "ninigret-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1537",
       "name": "Ninigret National Wildlife Refuge",
       "id": "1537",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "ninety-six-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2843",
+      "name": "Ninety Six National Historic Site",
+      "id": "2843",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "noatak-national-preserve": {
+      "url": "https://www.recreation.gov/gateways/2844",
+      "name": "Noatak National Preserve",
+      "id": "2844",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5056,26 +5007,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "noatak-national-preserve": {
-      "url": "https://www.recreation.gov/gateways/2844",
-      "name": "Noatak National Preserve",
-      "id": "2844",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "north-cascades-national-park": {
       "url": "https://www.recreation.gov/gateways/2845",
       "name": "North Cascades National Park",
       "id": "2845",
       "reservable": true,
       "campgrounds": 8
-    },
-    "nez-perce-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2839",
-      "name": "Nez Perce National Historical Park",
-      "id": "2839",
-      "reservable": false,
-      "campgrounds": 0
     },
     "north-platte-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1539",
@@ -5091,17 +5028,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "ninety-six-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2843",
-      "name": "Ninety Six National Historic Site",
-      "id": "2843",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "nowitna-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1541",
       "name": "Nowitna National Wildlife Refuge",
       "id": "1541",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "oahu-forest-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4013",
+      "name": "Oahu Forest National Wildlife Refuge",
+      "id": "4013",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5112,6 +5049,13 @@
       "reservable": true,
       "campgrounds": 1
     },
+    "ninepipe-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/RA41005",
+      "name": "Ninepipe National Wildlife Refuge",
+      "id": "RA41005",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "ocala-national-forest": {
       "url": "https://www.recreation.gov/gateways/1039",
       "name": "National Forests in Florida",
@@ -5120,12 +5064,20 @@
       "campgrounds": 25,
       "shared": true
     },
-    "oahu-forest-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4013",
-      "name": "Oahu Forest National Wildlife Refuge",
-      "id": "4013",
+    "occoquan-bay-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4042",
+      "name": "Occoquan Bay National Wildlife Refuge",
+      "id": "4042",
       "reservable": false,
       "campgrounds": 0
+    },
+    "ochoco-national-forest": {
+      "url": "https://www.recreation.gov/gateways/74424",
+      "name": "Ochoco National Forest & Crooked River National Grassland",
+      "id": "74424",
+      "reservable": true,
+      "campgrounds": 6,
+      "shared": true
     },
     "ocmulgee-mounds-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2878",
@@ -5157,12 +5109,12 @@
       "campgrounds": 114,
       "shared": true
     },
-    "occoquan-bay-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4042",
-      "name": "Occoquan Bay National Wildlife Refuge",
-      "id": "4042",
-      "reservable": false,
-      "campgrounds": 0
+    "okefenokee-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1544",
+      "name": "Okefenokee National Wildlife Refuge",
+      "id": "1544",
+      "reservable": true,
+      "campgrounds": 1
     },
     "oklahoma-city-national-memorial": {
       "url": "https://www.recreation.gov/gateways/2879",
@@ -5199,17 +5151,17 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "oregon-islands-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1546",
-      "name": "Oregon Islands National Wildlife Refuge",
-      "id": "1546",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "oregon-national-historic-trail": {
       "url": "https://www.recreation.gov/gateways/1719",
       "name": "Oregon National Historic Trail",
       "id": "1719",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "oregon-islands-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1546",
+      "name": "Oregon Islands National Wildlife Refuge",
+      "id": "1546",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5298,21 +5250,6 @@
       "reservable": true,
       "campgrounds": 9
     },
-    "ochoco-national-forest": {
-      "url": "https://www.recreation.gov/gateways/74424",
-      "name": "Ochoco National Forest & Crooked River National Grassland",
-      "id": "74424",
-      "reservable": true,
-      "campgrounds": 6,
-      "shared": true
-    },
-    "pablo-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/RA41006",
-      "name": "Pablo National Wildlife Refuge",
-      "id": "RA41006",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "padre-island-national-seashore": {
       "url": "https://www.recreation.gov/gateways/2853",
       "name": "Padre Island National Seashore",
@@ -5369,21 +5306,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "pawnee-national-grassland": {
-      "url": "https://www.recreation.gov/gateways/1051",
-      "name": "Arapaho & Roosevelt National Forests Pawnee NG",
-      "id": "1051",
-      "reservable": true,
-      "campgrounds": 38,
-      "shared": true
-    },
-    "okefenokee-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1544",
-      "name": "Okefenokee National Wildlife Refuge",
-      "id": "1544",
-      "reservable": true,
-      "campgrounds": 1
-    },
     "payette-national-forest": {
       "url": "https://www.recreation.gov/gateways/1025",
       "name": "Payette National Forest",
@@ -5426,13 +5348,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "pelican-island-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1563",
-      "name": "Pelican Island National Wildlife Refuge",
-      "id": "1563",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "pee-dee-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1562",
       "name": "Pee Dee National Wildlife Refuge",
@@ -5440,10 +5355,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "petersburg-national-battlefield": {
-      "url": "https://www.recreation.gov/gateways/2887",
-      "name": "Petersburg National Battlefield",
-      "id": "2887",
+    "pelican-island-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1563",
+      "name": "Pelican Island National Wildlife Refuge",
+      "id": "1563",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5452,6 +5367,20 @@
       "name": "Perry's Victory & International Peace Memorial",
       "id": "2889",
       "reservable": true,
+      "campgrounds": 0
+    },
+    "pablo-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/RA41006",
+      "name": "Pablo National Wildlife Refuge",
+      "id": "RA41006",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "petersburg-national-battlefield": {
+      "url": "https://www.recreation.gov/gateways/2887",
+      "name": "Petersburg National Battlefield",
+      "id": "2887",
+      "reservable": false,
       "campgrounds": 0
     },
     "petrified-forest-national-park": {
@@ -5489,12 +5418,28 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "pike-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1053",
+      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
+      "id": "1053",
+      "reservable": true,
+      "campgrounds": 101,
+      "shared": true
+    },
     "pinckney-island-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1566",
       "name": "Pinckney Island National Wildlife Refuge",
       "id": "1566",
       "reservable": false,
       "campgrounds": 0
+    },
+    "pawnee-national-grassland": {
+      "url": "https://www.recreation.gov/gateways/1051",
+      "name": "Arapaho & Roosevelt National Forests Pawnee NG",
+      "id": "1051",
+      "reservable": true,
+      "campgrounds": 38,
+      "shared": true
     },
     "pinellas-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3949",
@@ -5510,11 +5455,11 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "pipestone-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2894",
-      "name": "Pipestone National Monument",
-      "id": "2894",
-      "reservable": false,
+    "pipe-spring-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2858",
+      "name": "Pipe Spring National Monument",
+      "id": "2858",
+      "reservable": true,
       "campgrounds": 0
     },
     "piscataway-park": {
@@ -5524,13 +5469,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "pisgah-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1045",
-      "name": "National Forests in North Carolina",
-      "id": "1045",
-      "reservable": true,
-      "campgrounds": 38,
-      "shared": true
+    "pipestone-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2894",
+      "name": "Pipestone National Monument",
+      "id": "2894",
+      "reservable": false,
+      "campgrounds": 0
     },
     "plum-tree-island-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4038",
@@ -5544,7 +5488,7 @@
       "name": "Plumas National Forest",
       "id": "1070",
       "reservable": true,
-      "campgrounds": 40
+      "campgrounds": 42
     },
     "pocosin-lakes-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1569",
@@ -5574,24 +5518,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "pipe-spring-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2858",
-      "name": "Pipe Spring National Monument",
-      "id": "2858",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "pony-express-national-historic-trail": {
       "url": "https://www.recreation.gov/gateways/2860",
       "name": "Pony Express National Historic Trail",
       "id": "2860",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "port-louisa-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4054",
-      "name": "Port Louisa National Wildlife Refuge",
-      "id": "4054",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5602,10 +5532,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "poverty-point-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2863",
-      "name": "Poverty Point National Monument",
-      "id": "2863",
+    "port-louisa-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4054",
+      "name": "Port Louisa National Wildlife Refuge",
+      "id": "4054",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5616,17 +5546,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "poverty-point-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2863",
+      "name": "Poverty Point National Monument",
+      "id": "2863",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "prehistoric-trackways-national-monument": {
       "url": "https://www.recreation.gov/gateways/14576",
       "name": "Prehistoric Trackways  National Monument",
       "id": "14576",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "president-william-jefferson-clinton-birthplace-home-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13534",
-      "name": "President William Jefferson Clinton Birthplace Home National Historic Site",
-      "id": "13534",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5636,6 +5566,13 @@
       "id": "1095",
       "reservable": true,
       "campgrounds": 16
+    },
+    "president-william-jefferson-clinton-birthplace-home-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13534",
+      "name": "President William Jefferson Clinton Birthplace Home National Historic Site",
+      "id": "13534",
+      "reservable": false,
+      "campgrounds": 0
     },
     "presquile-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1572",
@@ -5650,6 +5587,14 @@
       "id": "1573",
       "reservable": false,
       "campgrounds": 0
+    },
+    "pisgah-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1045",
+      "name": "National Forests in North Carolina",
+      "id": "1045",
+      "reservable": true,
+      "campgrounds": 38,
+      "shared": true
     },
     "prince-william-forest-park": {
       "url": "https://www.recreation.gov/gateways/2896",
@@ -5700,25 +5645,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "pike-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1053",
-      "name": "Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands",
-      "id": "1053",
-      "reservable": true,
-      "campgrounds": 101,
-      "shared": true
+    "rachel-carson-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1575",
+      "name": "Rachel Carson National Wildlife Refuge",
+      "id": "1575",
+      "reservable": false,
+      "campgrounds": 0
     },
     "rainbow-bridge-national-monument": {
       "url": "https://www.recreation.gov/gateways/2900",
       "name": "Rainbow Bridge National Monument",
       "id": "2900",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "rainwater-basin-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1576",
-      "name": "Rainwater Basin Wetland Management District",
-      "id": "1576",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5792,6 +5729,13 @@
       "reservable": true,
       "campgrounds": 25
     },
+    "rio-grande-wild-and-scenic-river": {
+      "url": "https://www.recreation.gov/gateways/2903",
+      "name": "Rio Grande Wild & Scenic River",
+      "id": "2903",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "river-raisin-national-battlefield-park": {
       "url": "https://www.recreation.gov/gateways/13535",
       "name": "River Raisin National Battlefield Park",
@@ -5806,17 +5750,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "rock-creek-park": {
+      "url": "https://www.recreation.gov/gateways/2905",
+      "name": "Rock Creek Park",
+      "id": "2905",
+      "reservable": true,
+      "campgrounds": 1
+    },
     "rock-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/4100",
       "name": "Rock Lake National Wildlife Refuge",
       "id": "4100",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "rocky-flats-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/RA41002",
-      "name": "Rocky Flats National Wildlife Refuge",
-      "id": "RA41002",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5856,13 +5800,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "rock-creek-park": {
-      "url": "https://www.recreation.gov/gateways/2905",
-      "name": "Rock Creek Park",
-      "id": "2905",
-      "reservable": true,
-      "campgrounds": 1
-    },
     "rosie-the-riveter-wwii-home-front-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2908",
       "name": "Rosie the Riveter WWII Home Front National Historical Park",
@@ -5888,6 +5825,13 @@
       "url": "https://www.recreation.gov/gateways/3921",
       "name": "Rydell National Wildlife Refuge",
       "id": "3921",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "rocky-flats-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/RA41002",
+      "name": "Rocky Flats National Wildlife Refuge",
+      "id": "RA41002",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5968,10 +5912,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "salem-maritime-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2922",
-      "name": "Salem Maritime National Historical Park",
-      "id": "2922",
+    "salinas-pueblo-missions-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2926",
+      "name": "Salinas Pueblo Missions National Monument",
+      "id": "2926",
       "reservable": false,
       "campgrounds": 0
     },
@@ -5982,10 +5926,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "salinas-pueblo-missions-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2926",
-      "name": "Salinas Pueblo Missions National Monument",
-      "id": "2926",
+    "salem-maritime-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2922",
+      "name": "Salem Maritime National Historical Park",
+      "id": "2922",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6018,6 +5962,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "san-antonio-missions-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2911",
+      "name": "San Antonio Missions National Historical Park",
+      "id": "2911",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "san-bernard-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1593",
       "name": "San Bernard National Wildlife Refuge",
@@ -6046,6 +5997,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "san-francisco-maritime-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2915",
+      "name": "San Francisco Maritime National Historical Park",
+      "id": "2915",
+      "reservable": true,
+      "campgrounds": 1
+    },
     "san-diego-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1632",
       "name": "San Diego National Wildlife Refuge",
@@ -6053,12 +6011,12 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "san-francisco-maritime-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2915",
-      "name": "San Francisco Maritime National Historical Park",
-      "id": "2915",
-      "reservable": true,
-      "campgrounds": 1
+    "san-joaquin-river-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3941",
+      "name": "San Joaquin River National Wildlife Refuge",
+      "id": "3941",
+      "reservable": false,
+      "campgrounds": 0
     },
     "san-isabel-national-forest": {
       "url": "https://www.recreation.gov/gateways/1053",
@@ -6067,13 +6025,6 @@
       "reservable": true,
       "campgrounds": 101,
       "shared": true
-    },
-    "san-joaquin-river-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3941",
-      "name": "San Joaquin River National Wildlife Refuge",
-      "id": "3941",
-      "reservable": false,
-      "campgrounds": 0
     },
     "san-juan-island-national-historical-park": {
       "url": "https://www.recreation.gov/gateways/2920",
@@ -6103,13 +6054,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "san-antonio-missions-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2911",
-      "name": "San Antonio Missions National Historical Park",
-      "id": "2911",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "san-luis-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1596",
       "name": "San Luis National Wildlife Refuge",
@@ -6124,6 +6068,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "san-pedro-riparian-national-conservation-area": {
+      "url": "https://www.recreation.gov/gateways/595",
+      "name": "San Pedro Riparian National Conservation Area",
+      "id": "595",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "sand-creek-massacre-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2924",
       "name": "Sand Creek Massacre National Historic Site",
@@ -6131,10 +6082,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "san-pedro-riparian-national-conservation-area": {
-      "url": "https://www.recreation.gov/gateways/595",
-      "name": "San Pedro Riparian National Conservation Area",
-      "id": "595",
+    "sand-lake-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1598",
+      "name": "Sand Lake National Wildlife Refuge",
+      "id": "1598",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6194,10 +6145,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "sand-lake-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1598",
-      "name": "Sand Lake National Wildlife Refuge",
-      "id": "1598",
+    "saugus-iron-works-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2919",
+      "name": "Saugus Iron Works National Historic Site",
+      "id": "2919",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6292,6 +6243,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "sevilleta-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3962",
+      "name": "Sevilleta National Wildlife Refuge",
+      "id": "3962",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "shasta-national-forest": {
       "url": "https://www.recreation.gov/gateways/1073",
       "name": "Shasta-Trinity National Forest",
@@ -6299,13 +6257,6 @@
       "reservable": true,
       "campgrounds": 51,
       "shared": true
-    },
-    "sevilleta-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3962",
-      "name": "Sevilleta National Wildlife Refuge",
-      "id": "3962",
-      "reservable": false,
-      "campgrounds": 0
     },
     "shawangunk-grasslands-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3957",
@@ -6321,17 +6272,17 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "sheldon-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3922",
-      "name": "Sheldon National Wildlife Refuge",
-      "id": "3922",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "shell-keys-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1611",
       "name": "Shell Keys National Wildlife Refuge",
       "id": "1611",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "sheldon-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3922",
+      "name": "Sheldon National Wildlife Refuge",
+      "id": "3922",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6391,20 +6342,20 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "siskiyou-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1108",
-      "name": "Rogue River-Siskiyou National Forest",
-      "id": "1108",
-      "reservable": true,
-      "campgrounds": 49,
-      "shared": true
-    },
     "sitgreaves-national-forest": {
       "url": "https://www.recreation.gov/gateways/122",
       "name": "Apache-Sitgreaves National Forest",
       "id": "122",
       "reservable": true,
       "campgrounds": 21,
+      "shared": true
+    },
+    "siskiyou-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1108",
+      "name": "Rogue River-Siskiyou National Forest",
+      "id": "1108",
+      "reservable": true,
+      "campgrounds": 49,
       "shared": true
     },
     "sitka-national-historical-park": {
@@ -6421,19 +6372,19 @@
       "reservable": true,
       "campgrounds": 34
     },
-    "six-rivers-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1075",
-      "name": "Six Rivers National Forest",
-      "id": "1075",
-      "reservable": true,
-      "campgrounds": 13
-    },
     "slade-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1615",
       "name": "Slade National Wildlife Refuge",
       "id": "1615",
       "reservable": false,
       "campgrounds": 0
+    },
+    "six-rivers-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1075",
+      "name": "Six Rivers National Forest",
+      "id": "1075",
+      "reservable": true,
+      "campgrounds": 13
     },
     "sleeping-bear-dunes-national-lakeshore": {
       "url": "https://www.recreation.gov/gateways/2937",
@@ -6485,17 +6436,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "st-marks-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1619",
-      "name": "St. Marks National Wildlife Refuge",
-      "id": "1619",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "st-johns-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3947",
       "name": "St. Johns National Wildlife Refuge",
       "id": "3947",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "st-marks-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1619",
+      "name": "St. Marks National Wildlife Refuge",
+      "id": "1619",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6513,17 +6464,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "star-spangled-banner-national-historic-trail": {
-      "url": "https://www.recreation.gov/gateways/13536",
-      "name": "Star-Spangled Banner National Historic Trail",
-      "id": "13536",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "statue-of-liberty-national-monument": {
       "url": "https://www.recreation.gov/gateways/2941",
       "name": "Statue Of Liberty National Monument",
       "id": "2941",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "star-spangled-banner-national-historic-trail": {
+      "url": "https://www.recreation.gov/gateways/13536",
+      "name": "Star-Spangled Banner National Historic Trail",
+      "id": "13536",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6590,6 +6541,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "sunkhaze-meadows-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1626",
+      "name": "Sunkhaze Meadows National Wildlife Refuge",
+      "id": "1626",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "sunset-crater-volcano-national-monument": {
       "url": "https://www.recreation.gov/gateways/2943",
       "name": "Sunset Crater Volcano National Monument",
@@ -6625,10 +6583,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "swan-river-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/RA41004",
-      "name": "Swan River National Wildlife Refuge",
-      "id": "RA41004",
+    "swanquarter-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1631",
+      "name": "Swanquarter National Wildlife Refuge",
+      "id": "1631",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6638,21 +6596,6 @@
       "id": "1077",
       "reservable": true,
       "campgrounds": 63
-    },
-    "swanquarter-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1631",
-      "name": "Swanquarter National Wildlife Refuge",
-      "id": "1631",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "talladega-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1699",
-      "name": "National Forests in Alabama",
-      "id": "1699",
-      "reservable": true,
-      "campgrounds": 4,
-      "shared": true
     },
     "tallahatchie-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1633",
@@ -6682,6 +6625,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "swan-river-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/RA41004",
+      "name": "Swan River National Wildlife Refuge",
+      "id": "RA41004",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "targhee-national-forest": {
       "url": "https://www.recreation.gov/gateways/1024",
       "name": "Caribou-Targhee National Forest",
@@ -6689,13 +6639,6 @@
       "reservable": true,
       "campgrounds": 53,
       "shared": true
-    },
-    "ten-thousand-islands-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3946",
-      "name": "Ten Thousand Islands National Wildlife Refuge",
-      "id": "3946",
-      "reservable": false,
-      "campgrounds": 0
     },
     "tennessee-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1637",
@@ -6711,12 +6654,20 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "tetlin-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1639",
-      "name": "Tetlin National Wildlife Refuge",
-      "id": "1639",
+    "ten-thousand-islands-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3946",
+      "name": "Ten Thousand Islands National Wildlife Refuge",
+      "id": "3946",
       "reservable": false,
       "campgrounds": 0
+    },
+    "talladega-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1699",
+      "name": "National Forests in Alabama",
+      "id": "1699",
+      "reservable": true,
+      "campgrounds": 4,
+      "shared": true
     },
     "teton-national-forest": {
       "url": "https://www.recreation.gov/gateways/1036",
@@ -6726,17 +6677,17 @@
       "campgrounds": 32,
       "shared": true
     },
+    "tetlin-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1639",
+      "name": "Tetlin National Wildlife Refuge",
+      "id": "1639",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "tewaukon-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1640",
       "name": "Tewaukon National Wildlife Refuge",
       "id": "1640",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "tewaukon-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/4098",
-      "name": "Tewaukon Wetland Management District",
-      "id": "4098",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6759,6 +6710,13 @@
       "name": "The White House and President's Park",
       "id": "13975",
       "reservable": true,
+      "campgrounds": 0
+    },
+    "thaddeus-kosciuszko-national-memorial": {
+      "url": "https://www.recreation.gov/gateways/13979",
+      "name": "Thaddeus Kosciuszko National Memorial",
+      "id": "13979",
+      "reservable": false,
       "campgrounds": 0
     },
     "theodore-roosevelt-birthplace-national-historic-site": {
@@ -6803,17 +6761,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "three-arch-rocks-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/2176",
-      "name": "Three Arch Rocks National Wildlife Refuge",
-      "id": "2176",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "tijuana-slough-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1643",
       "name": "Tijuana Slough National Wildlife Refuge",
       "id": "1643",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "three-arch-rocks-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/2176",
+      "name": "Three Arch Rocks National Wildlife Refuge",
+      "id": "2176",
       "reservable": false,
       "campgrounds": 0
     },
@@ -6822,13 +6780,6 @@
       "name": "Timpanogos Cave National Monument",
       "id": "2951",
       "reservable": true,
-      "campgrounds": 0
-    },
-    "thaddeus-kosciuszko-national-memorial": {
-      "url": "https://www.recreation.gov/gateways/13979",
-      "name": "Thaddeus Kosciuszko National Memorial",
-      "id": "13979",
-      "reservable": false,
       "campgrounds": 0
     },
     "timucuan-ecological-and-historic-preserve": {
@@ -6902,13 +6853,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "sunkhaze-meadows-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1626",
-      "name": "Sunkhaze Meadows National Wildlife Refuge",
-      "id": "1626",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "trempealeau-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1647",
       "name": "Trempealeau National Wildlife Refuge",
@@ -6945,6 +6889,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "tule-lake-national-monument": {
+      "url": "https://www.recreation.gov/gateways/13540",
+      "name": "Tule Lake National Monument",
+      "id": "13540",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "tule-lake-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1649",
       "name": "Tule Lake National Wildlife Refuge",
@@ -6959,19 +6910,20 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "tule-lake-national-monument": {
-      "url": "https://www.recreation.gov/gateways/13540",
-      "name": "Tule Lake National Monument",
-      "id": "13540",
-      "reservable": false,
+    "tumacacori-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2958",
+      "name": "Tumacácori National Historical Park",
+      "id": "2958",
+      "reservable": true,
       "campgrounds": 0
     },
-    "tupelo-national-battlefield": {
-      "url": "https://www.recreation.gov/gateways/2959",
-      "name": "Tupelo National Battlefield",
-      "id": "2959",
-      "reservable": false,
-      "campgrounds": 0
+    "tombigbee-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1044",
+      "name": "National Forests in Mississippi",
+      "id": "1044",
+      "reservable": true,
+      "campgrounds": 10,
+      "shared": true
     },
     "turnbull-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1650",
@@ -6980,17 +6932,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "tumacacori-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2958",
-      "name": "Tumacácori National Historical Park",
-      "id": "2958",
-      "reservable": true,
-      "campgrounds": 0
-    },
-    "tuskegee-institute-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/2957",
-      "name": "Tuskegee Institute National Historic Site",
-      "id": "2957",
+    "tupelo-national-battlefield": {
+      "url": "https://www.recreation.gov/gateways/2959",
+      "name": "Tupelo National Battlefield",
+      "id": "2959",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7001,18 +6946,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "tuskegee-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1699",
-      "name": "National Forests in Alabama",
-      "id": "1699",
-      "reservable": true,
-      "campgrounds": 4,
-      "shared": true
-    },
-    "two-ponds-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/3266",
-      "name": "Two Ponds National Wildlife Refuge",
-      "id": "3266",
+    "tuskegee-institute-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/2957",
+      "name": "Tuskegee Institute National Historic Site",
+      "id": "2957",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7023,10 +6960,10 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "two-rivers-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/4056",
-      "name": "Two Rivers National Wildlife Refuge",
-      "id": "4056",
+    "two-ponds-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/3266",
+      "name": "Two Ponds National Wildlife Refuge",
+      "id": "3266",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7037,10 +6974,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "ul-bend-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1652",
-      "name": "UL Bend National Wildlife Refuge",
-      "id": "1652",
+    "two-rivers-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/4056",
+      "name": "Two Rivers National Wildlife Refuge",
+      "id": "4056",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7051,6 +6988,13 @@
       "reservable": true,
       "campgrounds": 122,
       "shared": true
+    },
+    "ul-bend-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1652",
+      "name": "UL Bend National Wildlife Refuge",
+      "id": "1652",
+      "reservable": false,
+      "campgrounds": 0
     },
     "umatilla-national-forest": {
       "url": "https://www.recreation.gov/gateways/1111",
@@ -7073,19 +7017,19 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "umpqua-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1112",
-      "name": "Umpqua National Forest",
-      "id": "1112",
-      "reservable": true,
-      "campgrounds": 43
-    },
     "umbagog-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1478",
       "name": "Umbagog National Wildlife Refuge",
       "id": "1478",
       "reservable": false,
       "campgrounds": 0
+    },
+    "umpqua-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1112",
+      "name": "Umpqua National Forest",
+      "id": "1112",
+      "reservable": true,
+      "campgrounds": 43
     },
     "uncompahgre-national-forest": {
       "url": "https://www.recreation.gov/gateways/1052",
@@ -7130,17 +7074,17 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "upper-souris-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1658",
-      "name": "Upper Souris National Wildlife Refuge",
-      "id": "1658",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "upper-ouachita-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1657",
       "name": "Upper Ouachita National Wildlife Refuge",
       "id": "1657",
+      "reservable": false,
+      "campgrounds": 0
+    },
+    "upper-souris-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1658",
+      "name": "Upper Souris National Wildlife Refuge",
+      "id": "1658",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7151,11 +7095,11 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "valley-city-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1660",
-      "name": "Valley City Wetland Management District",
-      "id": "1660",
-      "reservable": false,
+    "valles-caldera-national-preserve": {
+      "url": "https://www.recreation.gov/gateways/14515",
+      "name": "Valles Caldera National Preserve",
+      "id": "14515",
+      "reservable": true,
       "campgrounds": 0
     },
     "valley-forge-national-historical-park": {
@@ -7186,13 +7130,20 @@
       "reservable": true,
       "campgrounds": 0
     },
-    "tombigbee-national-forest": {
-      "url": "https://www.recreation.gov/gateways/1044",
-      "name": "National Forests in Mississippi",
-      "id": "1044",
+    "tuskegee-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1699",
+      "name": "National Forests in Alabama",
+      "id": "1699",
       "reservable": true,
-      "campgrounds": 10,
+      "campgrounds": 4,
       "shared": true
+    },
+    "vietnam-veterans-memorial": {
+      "url": "https://www.recreation.gov/gateways/13988",
+      "name": "Vietnam Veterans Memorial",
+      "id": "13988",
+      "reservable": false,
+      "campgrounds": 0
     },
     "virgin-islands-coral-reef-national-monument": {
       "url": "https://www.recreation.gov/gateways/5445",
@@ -7243,6 +7194,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "walnut-canyon-national-monument": {
+      "url": "https://www.recreation.gov/gateways/2972",
+      "name": "Walnut Canyon National Monument",
+      "id": "2972",
+      "reservable": true,
+      "campgrounds": 0
+    },
     "wallowa-national-forest": {
       "url": "https://www.recreation.gov/gateways/1113",
       "name": "Wallowa Whitman National Forest",
@@ -7250,20 +7208,6 @@
       "reservable": true,
       "campgrounds": 49,
       "shared": true
-    },
-    "vietnam-veterans-memorial": {
-      "url": "https://www.recreation.gov/gateways/13988",
-      "name": "Vietnam Veterans Memorial",
-      "id": "13988",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "walnut-canyon-national-monument": {
-      "url": "https://www.recreation.gov/gateways/2972",
-      "name": "Walnut Canyon National Monument",
-      "id": "2972",
-      "reservable": true,
-      "campgrounds": 0
     },
     "wapack-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1662",
@@ -7286,6 +7230,13 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "war-in-the-pacific-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2973",
+      "name": "War In The Pacific National Historical Park",
+      "id": "2973",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "wasatch-national-forest": {
       "url": "https://www.recreation.gov/gateways/1035",
       "name": "Uinta-Wasatch-Cache National Forest",
@@ -7294,12 +7245,13 @@
       "campgrounds": 122,
       "shared": true
     },
-    "war-in-the-pacific-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2973",
-      "name": "War In The Pacific National Historical Park",
-      "id": "2973",
-      "reservable": false,
-      "campgrounds": 0
+    "uwharrie-national-forest": {
+      "url": "https://www.recreation.gov/gateways/1045",
+      "name": "National Forests in North Carolina",
+      "id": "1045",
+      "reservable": true,
+      "campgrounds": 38,
+      "shared": true
     },
     "washita-battlefield-national-historic-site": {
       "url": "https://www.recreation.gov/gateways/2971",
@@ -7315,13 +7267,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "wassaw-national-wildlife-refuge": {
-      "url": "https://www.recreation.gov/gateways/1666",
-      "name": "Wassaw National Wildlife Refuge",
-      "id": "1666",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "watercress-darter-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/3926",
       "name": "Watercress Darter National Wildlife Refuge",
@@ -7329,17 +7274,17 @@
       "reservable": false,
       "campgrounds": 0
     },
+    "wassaw-national-wildlife-refuge": {
+      "url": "https://www.recreation.gov/gateways/1666",
+      "name": "Wassaw National Wildlife Refuge",
+      "id": "1666",
+      "reservable": false,
+      "campgrounds": 0
+    },
     "waubay-national-wildlife-refuge": {
       "url": "https://www.recreation.gov/gateways/1667",
       "name": "Waubay National Wildlife Refuge",
       "id": "1667",
-      "reservable": false,
-      "campgrounds": 0
-    },
-    "waubay-wetland-management-district": {
-      "url": "https://www.recreation.gov/gateways/1668",
-      "name": "Waubay Wetland Management District",
-      "id": "1668",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7472,11 +7417,11 @@
       "campgrounds": 4,
       "shared": true
     },
-    "valles-caldera-national-preserve": {
-      "url": "https://www.recreation.gov/gateways/14515",
-      "name": "Valles Caldera National Preserve",
-      "id": "14515",
-      "reservable": true,
+    "william-howard-taft-national-historic-site": {
+      "url": "https://www.recreation.gov/gateways/13990",
+      "name": "William Howard Taft National Historic Site",
+      "id": "13990",
+      "reservable": false,
       "campgrounds": 0
     },
     "william-l-finley-national-wildlife-refuge": {
@@ -7522,13 +7467,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "womens-rights-national-historical-park": {
-      "url": "https://www.recreation.gov/gateways/2983",
-      "name": "Women's Rights National Historical Park",
-      "id": "2983",
-      "reservable": false,
-      "campgrounds": 0
-    },
     "wolf-trap-national-park-for-the-performing-arts": {
       "url": "https://www.recreation.gov/gateways/3134",
       "name": "Wolf Trap National Park for the Performing Arts",
@@ -7536,10 +7474,10 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "world-war-i-memorial": {
-      "url": "https://www.recreation.gov/gateways/10129432",
-      "name": "World War I Memorial",
-      "id": "10129432",
+    "womens-rights-national-historical-park": {
+      "url": "https://www.recreation.gov/gateways/2983",
+      "name": "Women's Rights National Historical Park",
+      "id": "2983",
       "reservable": false,
       "campgrounds": 0
     },
@@ -7550,13 +7488,6 @@
       "reservable": false,
       "campgrounds": 0
     },
-    "wright-brothers-national-memorial": {
-      "url": "https://www.recreation.gov/gateways/2985",
-      "name": "Wright Brothers National Memorial",
-      "id": "2985",
-      "reservable": true,
-      "campgrounds": 0
-    },
     "wrangell-st-elias-national-park-and-preserve": {
       "url": "https://www.recreation.gov/gateways/2986",
       "name": "Wrangell - St Elias National Park & Preserve",
@@ -7564,10 +7495,10 @@
       "reservable": true,
       "campgrounds": 1
     },
-    "yaquina-head-outstanding-natural-area": {
-      "url": "https://www.recreation.gov/gateways/1851",
-      "name": "Yaquina Head Outstanding Natural Area",
-      "id": "1851",
+    "wright-brothers-national-memorial": {
+      "url": "https://www.recreation.gov/gateways/2985",
+      "name": "Wright Brothers National Memorial",
+      "id": "2985",
       "reservable": true,
       "campgrounds": 0
     },
@@ -7575,6 +7506,13 @@
       "url": "https://www.recreation.gov/gateways/2987",
       "name": "Wupatki National Monument",
       "id": "2987",
+      "reservable": true,
+      "campgrounds": 0
+    },
+    "yaquina-head-outstanding-natural-area": {
+      "url": "https://www.recreation.gov/gateways/1851",
+      "name": "Yaquina Head Outstanding Natural Area",
+      "id": "1851",
       "reservable": true,
       "campgrounds": 0
     },
@@ -7591,6 +7529,13 @@
       "id": "2988",
       "reservable": true,
       "campgrounds": 5
+    },
+    "world-war-i-memorial": {
+      "url": "https://www.recreation.gov/gateways/10129432",
+      "name": "World War I Memorial",
+      "id": "10129432",
+      "reservable": false,
+      "campgrounds": 0
     },
     "yosemite-national-park": {
       "url": "https://www.recreation.gov/gateways/2991",
@@ -7640,13 +7585,6 @@
       "id": "2994",
       "reservable": true,
       "campgrounds": 3
-    },
-    "william-howard-taft-national-historic-site": {
-      "url": "https://www.recreation.gov/gateways/13990",
-      "name": "William Howard Taft National Historic Site",
-      "id": "13990",
-      "reservable": false,
-      "campgrounds": 0
     }
   }
 }
