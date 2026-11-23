@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-16T09:37:16.985Z",
+  "generated": "2026-11-23T09:33:16.213Z",
   "policy": "TRPL image-rights standard: U.S. government PD, then PD/CC0, then CC BY/BY-SA 4.0 with linked license. Never CC 3.0 or earlier, NC or ND.",
   "counts": {
     "total": 1319,
     "withCover": 1195,
     "byTier": {
-      "1": 625,
-      "2": 498,
+      "1": 628,
+      "2": 495,
       "3": 72
     },
     "missing": 124
@@ -967,7 +967,7 @@
       "source": "National Park Service"
     },
     "carter-g-woodson-home-national-historic-site": {
-      "url": "https://www.nps.gov/common/uploads/structured_data/93C3FA3C-028F-9E45-D5C31B4A283F60AC.jpg",
+      "url": "https://www.nps.gov/common/uploads/structured_data/00A72A8F-0628-BB55-2F2178B4F6C5D77D.jpg",
       "title": "Carter G. Woodson Home National Historic Site",
       "alt": "The restored facades of three historic Victorian row-homes on an urban street in Washington, DC",
       "credit": "NPS",
@@ -1579,10 +1579,10 @@
       "source": "National Park Service"
     },
     "effigy-mounds-national-monument": {
-      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BB1E2-1DD8-B71B-0B5500DF447CB89D.jpg",
-      "title": "Marching Bear in Spring",
-      "alt": "Bear Effigy Mounds with visitor walking nearby.",
-      "credit": "NPS Photo",
+      "url": "https://www.nps.gov/common/uploads/structured_data/FC920959-9A61-C9C5-954E2230974BDE6D.jpg",
+      "title": "Conical Mounds Leading to Fire Point",
+      "alt": "Circular mounds in a single line.",
+      "credit": "NPS Photo/ Eaton Cote'",
       "license": "Public domain (U.S. government work)",
       "licenseUrl": null,
       "filePage": "https://www.nps.gov/efmo/index.htm",
@@ -1656,10 +1656,10 @@
       "source": "National Park Service"
     },
     "emmett-till-and-mamie-till-mobley-national-monument": {
-      "url": "https://www.nps.gov/common/uploads/structured_data/C854297D-E86E-4E84-7A17564E6440A06D.jpg",
-      "title": "Graball Landing",
-      "alt": "a muddy river with trees on both sides of the riverbank",
-      "credit": "NPS / Chalice Keith",
+      "url": "https://www.nps.gov/common/uploads/structured_data/8B1FE593-C22D-190D-C955152E1CFD2A0D.jpg",
+      "title": "Roberts Temple Church of God in Christ",
+      "alt": "A cross-shaped marque on front of a multi-story red brick building.",
+      "credit": "NPS / B. West",
       "license": "Public domain (U.S. government work)",
       "licenseUrl": null,
       "filePage": "https://www.nps.gov/till/index.htm",
@@ -2176,10 +2176,10 @@
       "source": "National Park Service"
     },
     "george-washington-birthplace-national-monument": {
-      "url": "https://www.nps.gov/common/uploads/structured_data/3D13D699-B89E-E495-18D9F3D4826FD0BE.jpg",
-      "title": "Memorial House Museum and Kitchen in Summer",
-      "alt": "Two buildings surrounded by green foliage with a brick path leading to the buildings.",
-      "credit": "NPS / Cleo Kantz-Schultz",
+      "url": "https://www.nps.gov/common/uploads/structured_data/C622109B-ECB2-ED40-C28BE9CCBA5B5856.jpg",
+      "title": "The park entrance in winter",
+      "alt": "The entrance of the park during a snow shower.",
+      "credit": "NPS",
       "license": "Public domain (U.S. government work)",
       "licenseUrl": null,
       "filePage": "https://www.nps.gov/gewa/index.htm",
@@ -5223,10 +5223,10 @@
       "review": "picked by hand 2026-11-09"
     },
     "valles-caldera-national-preserve": {
-      "url": "https://www.nps.gov/common/uploads/structured_data/921E6FBB-90EE-2BF0-6F3D52902F3DA89D.jpg",
-      "title": "Wide Open Views of Valles Caldera",
-      "alt": "Scattered clouds over landscape view of winding river and brown grasslands",
-      "credit": "NPS Photo",
+      "url": "https://www.nps.gov/common/uploads/structured_data/6B364C0D-CAE9-81A2-F8F113278985BE67.jpeg",
+      "title": "Elk at Base of South Mountain",
+      "alt": "A herd of elk prancing through a snowy valley",
+      "credit": "NPS/Corey Lycopolus",
       "license": "Public domain (U.S. government work)",
       "licenseUrl": null,
       "filePage": "https://www.nps.gov/vall/index.htm",
@@ -5809,18 +5809,18 @@
       "wikidata": "http://www.wikidata.org/entity/Q4775016",
       "kind": "image"
     },
-    "atchafalaya-national-wildlife-refuge": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Atchafalaya_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Atchafalaya_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Atchafalaya Basin",
-      "alt": "A scene in the Atchafalaya Basin in Louisiana, USA, in the Sherburne Complex Wildlife Management Area, a Nature Conservancy reserve.",
-      "credit": "U.S. Army Corps of Engineers, photographer not specified or unknown",
+    "arapaho-national-recreation-area": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arapaho_NRA_campground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arapaho_NRA_campground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Arapaho NRA campground",
+      "alt": "Green Ridge Campground in Arapaho National Recreation Area, Colorado",
+      "credit": "U.S. Forest Service employees",
       "license": "Public domain",
       "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Atchafalaya_Basin.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Arapaho_NRA_campground.jpg",
       "tier": 2,
       "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q4812945",
+      "wikidata": "http://www.wikidata.org/entity/Q4784185",
       "kind": "image"
     },
     "attwater-prairie-chicken-national-wildlife-refuge": {
@@ -6145,6 +6145,20 @@
       "wikidata": "http://www.wikidata.org/entity/Q5127585",
       "kind": "image"
     },
+    "colville-national-forest": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ISL_Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ISL_Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "ISL Motorcycles",
+      "alt": "Two motocyclists zoom along the The International Selkirk Loop along Washington State Route 31 in Colville National Forest, Washington.",
+      "credit": "Kootenay Rockies – David Gluns",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:ISL_Motorcycles.jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q5150298",
+      "kind": "image"
+    },
     "conscience-point-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Rock_indicating_first_settlers_%2811672538396%29.jpg/1920px-Rock_indicating_first_settlers_%2811672538396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rock_indicating_first_settlers_%2811672538396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -6172,6 +6186,20 @@
       "source": "Wikimedia Commons",
       "wikidata": "http://www.wikidata.org/entity/Q64338743",
       "kind": "banner"
+    },
+    "gallatin-national-forest": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Gallatin_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Gallatin_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Gallatin National Forest",
+      "alt": "Gallatin National Forest, Montana, U.S. The image shows the view above the Cabin Creek Cabin in the Hebgen Lake area of the National Forest.",
+      "credit": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gallatin_National_Forest.jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q1751739",
+      "kind": "image"
     },
     "fishlake-national-forest": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Fishlake_National_Forest_Banner.jpg/1920px-Fishlake_National_Forest_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6355,20 +6383,6 @@
       "wikidata": "http://www.wikidata.org/entity/Q49329889",
       "kind": "image"
     },
-    "fort-ord-national-monument": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Ord_NM_%289302539654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Ord_NM_%289302539654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Fort Ord NM (9302539654)",
-      "alt": "The Fort Ord National Monument holds some of the last undeveloped natural wildlands on the Monterey Peninsula. Located on the former Fort Ord military base, the Bureau of Land Management (BLM) protect",
-      "credit": "Bureau of Land Management",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Fort_Ord_NM_(9302539654).jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q140978252",
-      "kind": "image"
-    },
     "kasha-katuwe-tent-rocks-national-monument": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tent_Rocks_National_Monument%2C_New_Mexico.jpg/1920px-Tent_Rocks_National_Monument%2C_New_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tent_Rocks_National_Monument%2C_New_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -6409,20 +6423,6 @@
       "tier": 2,
       "source": "Wikimedia Commons",
       "wikidata": "http://www.wikidata.org/entity/Q1676130",
-      "kind": "image"
-    },
-    "kodiak-national-wildlife-refuge": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiniak_Bay_Kodiak_NWR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiniak_Bay_Kodiak_NWR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Chiniak Bay Kodiak NWR",
-      "alt": "Chiniak Bay, Kodiak National Wildlife Refuge, Alaska",
-      "credit": "David Menke",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Chiniak_Bay_Kodiak_NWR.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q1778223",
       "kind": "image"
     },
     "hackmatack-national-wildlife-refuge": {
@@ -6859,20 +6859,6 @@
       "wikidata": "http://www.wikidata.org/entity/Q6940230",
       "kind": "image"
     },
-    "navassa-island-national-wildlife-refuge": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Navassa_ISS014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Navassa_ISS014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Navassa ISS014",
-      "alt": "NASA astronaut photo of Navassa Island, Caribbean Sea",
-      "credit": "NASA",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Navassa_ISS014.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q6982192",
-      "kind": "image"
-    },
     "ninigret-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ninigret_National_Wildlife_Refuge_2.JPG/1920px-Ninigret_National_Wildlife_Refuge_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ninigret_National_Wildlife_Refuge_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -7013,20 +6999,6 @@
       "wikidata": "http://www.wikidata.org/entity/Q7206544",
       "kind": "image"
     },
-    "nansemond-national-wildlife-refuge": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nansemond_national_wildlife_refuge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nansemond_national_wildlife_refuge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Nansemond national wildlife refuge",
-      "alt": "Nansemond National Wildlife Refuge: Tidal marsh on Nansemond River, Virginia, USA",
-      "credit": "USFWS",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Nansemond_national_wildlife_refuge.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q14712940",
-      "kind": "image"
-    },
     "ohio-river-islands-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/An_aerial_view_of_the_ohio_river_islands_national_wildlife_refuge.jpg/1920px-An_aerial_view_of_the_ohio_river_islands_national_wildlife_refuge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/An_aerial_view_of_the_ohio_river_islands_national_wildlife_refuge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -7165,62 +7137,6 @@
       "tier": 2,
       "source": "Wikimedia Commons",
       "wikidata": "http://www.wikidata.org/entity/Q7251328",
-      "kind": "image"
-    },
-    "salt-plains-national-wildlife-refuge": {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Salt_Plains_of_Oklahoma.jpg/1920px-Salt_Plains_of_Oklahoma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salt_Plains_of_Oklahoma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Salt Plains of Oklahoma",
-      "alt": "Salt Plains Selenite Digging Area of Oklahoma",
-      "credit": "Shujianyang",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Salt_Plains_of_Oklahoma.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q7405913",
-      "kind": "image"
-    },
-    "san-diego-bay-national-wildlife-refuge": {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Black_skimmer_%28Rynchops_niger%29_gracefully_glides_%286554870945%29.jpg/1920px-Black_skimmer_%28Rynchops_niger%29_gracefully_glides_%286554870945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Black_skimmer_%28Rynchops_niger%29_gracefully_glides_%286554870945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Black skimmer (Rynchops niger) gracefully glides (6554870945)",
-      "alt": "Black skimmer (Rynchops niger) gracefully glides. In the San Diego Bay National Wildlife Refuge, on San Diego Bay in San Diego County, California. Photo (Lisa Cox/USFWS) − U.S. Fish and Wildlife Servi",
-      "credit": "Pacific Southwest Region USFWS from Sacramento, US",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Black_skimmer_(Rynchops_niger)_gracefully_glides_(6554870945).jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q7413597",
-      "kind": "image"
-    },
-    "sawtooth-national-recreation-area": {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Stanley_Lake.JPG/1920px-Stanley_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Stanley_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Stanley Lake",
-      "alt": "Stanley Lake in Sawtooth National Recreation Area in Custer County, Idaho",
-      "credit": "Fredlyfish4",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Stanley_Lake.JPG",
-      "tier": 3,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q7428703",
-      "kind": "image"
-    },
-    "seatuck-national-wildlife-refuge": {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg/1920px-Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Seatuck NWR - Day 1 - Long Island National Wildlife Refuge Flyover (16646300852)",
-      "alt": "Photo credit: USFWS Day 1 of Hurricane Sandy Recovery Flyovers. Long Island National Wildlife Refuge, New York. SeatuckNationalWildlifeRefugeHurricaneSandy",
-      "credit": "U. S. Fish and Wildlife Service - Northeast Region",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_(16646300852).jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q7442222",
       "kind": "image"
     },
     "assabet-river-national-wildlife-refuge": {
@@ -8203,6 +8119,20 @@
       "kind": "fws-media",
       "review": "auto-fws"
     },
+    "nansemond-national-wildlife-refuge": {
+      "url": "https://www.fws.gov/sites/default/files/banner_images/2021-09/Nansemond%20turkeys.JPG",
+      "original": "https://www.fws.gov/sites/default/files/banner_images/2021-09/Nansemond%20turkeys.JPG",
+      "title": "Nansemond turkeys.JPG",
+      "alt": "Nansemond turkeys.JPG",
+      "credit": "John Ross/USFWS",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://www.fws.gov/media/nansemond-turkeysjpg",
+      "tier": 1,
+      "source": "U.S. Fish and Wildlife Service",
+      "kind": "fws-media",
+      "review": "auto-fws"
+    },
     "nantucket-national-wildlife-refuge": {
       "url": "https://www.fws.gov/sites/default/files/banner_images/2021-08/lighthouse-at-nantucket-nwr.jpg",
       "original": "https://www.fws.gov/sites/default/files/banner_images/2021-08/lighthouse-at-nantucket-nwr.jpg",
@@ -8413,6 +8343,20 @@
       "kind": "fws-media",
       "review": "auto-fws"
     },
+    "salt-plains-national-wildlife-refuge": {
+      "url": "https://www.fws.gov/sites/default/files/banner_images/2022-01/IMG_4720.JPG",
+      "original": "https://www.fws.gov/sites/default/files/banner_images/2022-01/IMG_4720.JPG",
+      "title": "SLPNWR-Sandhill-Cranes",
+      "alt": "SLPNWR-Sandhill-Cranes",
+      "credit": "U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://www.fws.gov/media/slpnwr-sandhill-cranes",
+      "tier": 1,
+      "source": "U.S. Fish and Wildlife Service",
+      "kind": "fws-media",
+      "review": "auto-fws"
+    },
     "sam-d-hamilton-noxubee-national-wildlife-refuge": {
       "url": "https://www.fws.gov/sites/default/files/2021-09/Fishing.JPG",
       "original": "https://www.fws.gov/sites/default/files/2021-09/Fishing.JPG",
@@ -8450,6 +8394,20 @@
       "license": "Public domain",
       "licenseUrl": null,
       "filePage": "https://www.fws.gov/media/freshwater-marsh-san-bernard-nwr",
+      "tier": 1,
+      "source": "U.S. Fish and Wildlife Service",
+      "kind": "fws-media",
+      "review": "auto-fws"
+    },
+    "san-diego-bay-national-wildlife-refuge": {
+      "url": "https://www.fws.gov/sites/default/files/banner_images/2021-08/Avocet%20surrounded%20by%20terns.jpg",
+      "original": "https://www.fws.gov/sites/default/files/banner_images/2021-08/Avocet%20surrounded%20by%20terns.jpg",
+      "title": "Avocet in flight surrounded by terns",
+      "alt": "At South San Diego Bay Unit, an avocet takes flight while surrounded by terns.",
+      "credit": "USFWS",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://www.fws.gov/media/avocet-flight-surrounded-terns",
       "tier": 1,
       "source": "U.S. Fish and Wildlife Service",
       "kind": "fws-media",
@@ -9001,20 +8959,6 @@
       "kind": "search",
       "review": "auto-search"
     },
-    "arapaho-national-recreation-area": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arapaho_NRA_campground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arapaho_NRA_campground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Arapaho NRA campground",
-      "alt": "Green Ridge Campground in Arapaho National Recreation Area, Colorado",
-      "credit": "U.S. Forest Service employees",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Arapaho_NRA_campground.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q4784185",
-      "kind": "image"
-    },
     "archie-carr-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Moon_over_Archie_Carr_National_Wildlife_Refuge_%285777371488%29.jpg/1920px-Moon_over_Archie_Carr_National_Wildlife_Refuge_%285777371488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Moon_over_Archie_Carr_National_Wildlife_Refuge_%285777371488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -9112,6 +9056,20 @@
       "source": "Wikimedia Commons",
       "kind": "category",
       "review": "auto-category"
+    },
+    "atchafalaya-national-wildlife-refuge": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Atchafalaya_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Atchafalaya_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Atchafalaya Basin",
+      "alt": "A scene in the Atchafalaya Basin in Louisiana, USA, in the Sherburne Complex Wildlife Management Area, a Nature Conservancy reserve.",
+      "credit": "U.S. Army Corps of Engineers, photographer not specified or unknown",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Atchafalaya_Basin.jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q4812945",
+      "kind": "image"
     },
     "audubon-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leopard_Frog_%2812776815014%29.jpg/1920px-Leopard_Frog_%2812776815014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10135,20 +10093,6 @@
       "kind": "category",
       "review": "auto-category"
     },
-    "colville-national-forest": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ISL_Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ISL_Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "ISL Motorcycles",
-      "alt": "Two motocyclists zoom along the The International Selkirk Loop along Washington State Route 31 in Colville National Forest, Washington.",
-      "credit": "Kootenay Rockies – David Gluns",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:ISL_Motorcycles.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q5150298",
-      "kind": "image"
-    },
     "comanche-national-grassland": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Distant_views_of_snow_capped_mountains_at_Comanche_National_Grassland_2_%288d00baf7e8a1415fbc07e315dfee0c81%29.JPG/1920px-Distant_views_of_snow_capped_mountains_at_Comanche_National_Grassland_2_%288d00baf7e8a1415fbc07e315dfee0c81%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Distant_views_of_snow_capped_mountains_at_Comanche_National_Grassland_2_%288d00baf7e8a1415fbc07e315dfee0c81%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -10779,6 +10723,20 @@
       "kind": "category",
       "review": "auto-category"
     },
+    "fort-ord-national-monument": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Ord_NM_%289302539654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fort_Ord_NM_%289302539654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Fort Ord NM (9302539654)",
+      "alt": "The Fort Ord National Monument holds some of the last undeveloped natural wildlands on the Monterey Peninsula. Located on the former Fort Ord military base, the Bureau of Land Management (BLM) protect",
+      "credit": "Bureau of Land Management",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fort_Ord_NM_(9302539654).jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q140978252",
+      "kind": "image"
+    },
     "fort-pierre-national-grassland": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Grasslands_%2820240605-FS-CLD-1386%29.jpg/1920px-Grasslands_%2820240605-FS-CLD-1386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Grasslands_%2820240605-FS-CLD-1386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -10862,20 +10820,6 @@
       "source": "Wikimedia Commons",
       "kind": "search",
       "review": "auto-search"
-    },
-    "gallatin-national-forest": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Gallatin_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Gallatin_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "title": "Gallatin National Forest",
-      "alt": "Gallatin National Forest, Montana, U.S. The image shows the view above the Cabin Creek Cabin in the Hebgen Lake area of the National Forest.",
-      "credit": "Unknown author",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "filePage": "https://commons.wikimedia.org/wiki/File:Gallatin_National_Forest.jpg",
-      "tier": 2,
-      "source": "Wikimedia Commons",
-      "wikidata": "http://www.wikidata.org/entity/Q1751739",
-      "kind": "image"
     },
     "giant-sequoia-national-monument": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/GiantSequoiaMonumentGAOA-Sequoia-JH-003_%2852358283356%29.jpg/1920px-GiantSequoiaMonumentGAOA-Sequoia-JH-003_%2852358283356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11759,6 +11703,20 @@
       "kind": "category",
       "review": "auto-category"
     },
+    "kodiak-national-wildlife-refuge": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiniak_Bay_Kodiak_NWR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiniak_Bay_Kodiak_NWR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Chiniak Bay Kodiak NWR",
+      "alt": "Chiniak Bay, Kodiak National Wildlife Refuge, Alaska",
+      "credit": "David Menke",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chiniak_Bay_Kodiak_NWR.jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q1778223",
+      "kind": "image"
+    },
     "kootenai-national-forest": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Rexford_Warehouse_1926_by_KD_Swan_%285840725694%29.jpg/1920px-Rexford_Warehouse_1926_by_KD_Swan_%285840725694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rexford_Warehouse_1926_by_KD_Swan_%285840725694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -12626,6 +12584,20 @@
       "source": "Wikimedia Commons",
       "kind": "category",
       "review": "auto-category"
+    },
+    "navassa-island-national-wildlife-refuge": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Navassa_ISS014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Navassa_ISS014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Navassa ISS014",
+      "alt": "NASA astronaut photo of Navassa Island, Caribbean Sea",
+      "credit": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Navassa_ISS014.jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q6982192",
+      "kind": "image"
     },
     "neal-smith-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Greenhouse_at_Neal_Smith_National_Wildlife_Refuge_%2827490138033%29.jpg/1920px-Greenhouse_at_Neal_Smith_National_Wildlife_Refuge_%2827490138033%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13886,6 +13858,34 @@
       "source": "Wikimedia Commons",
       "kind": "category",
       "review": "auto-category"
+    },
+    "sawtooth-national-recreation-area": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Stanley_Lake.JPG/1920px-Stanley_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Stanley_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Stanley Lake",
+      "alt": "Stanley Lake in Sawtooth National Recreation Area in Custer County, Idaho",
+      "credit": "Fredlyfish4",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Stanley_Lake.JPG",
+      "tier": 3,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q7428703",
+      "kind": "image"
+    },
+    "seatuck-national-wildlife-refuge": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg/1920px-Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_%2816646300852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "title": "Seatuck NWR - Day 1 - Long Island National Wildlife Refuge Flyover (16646300852)",
+      "alt": "Photo credit: USFWS Day 1 of Hurricane Sandy Recovery Flyovers. Long Island National Wildlife Refuge, New York. SeatuckNationalWildlifeRefugeHurricaneSandy",
+      "credit": "U. S. Fish and Wildlife Service - Northeast Region",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Seatuck_NWR_-_Day_1_-_Long_Island_National_Wildlife_Refuge_Flyover_(16646300852).jpg",
+      "tier": 2,
+      "source": "Wikimedia Commons",
+      "wikidata": "http://www.wikidata.org/entity/Q7442222",
+      "kind": "image"
     },
     "selawik-national-wildlife-refuge": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Textures_of_snow_at_Selawik_National_Wildlife_Refuge_%2852827931516%29.jpg/1920px-Textures_of_snow_at_Selawik_National_Wildlife_Refuge_%2852827931516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
