@@ -12133,5 +12133,14 @@
     ],
     "office": "PSR",
     "updated": "2026-11-09"
+  },
+  "saratoga-national-battlefield-park": {
+    "zones": [
+      "NYZ041",
+      "NYC091",
+      "NYZ207"
+    ],
+    "office": "ALY",
+    "updated": "2026-11-28"
   }
 }
